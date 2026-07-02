@@ -1,10 +1,10 @@
 ---
 type: Actor
 title: Israel
-description: Israel as a geopolitical actor — dissatisfied with Iran war outcome, capable of defying US preferences, and central to ongoing Lebanon negotiations
-tags: [country, military, middle-east]
+description: Israel as a geopolitical actor — dissatisfied with Iran war outcome, recognizing Somaliland for Red Sea access, facing Turkey as its greatest regional challenge, and resisting the US shift to multilateral security
+tags: [country, military, middle-east, naval]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-03T00:00:00Z
 ---
 
 # Background
@@ -17,6 +17,16 @@ Israel is the dominant military power in the eastern [Middle East](/regions/midd
 
 Israel remains dissatisfied with the outcome of the Iran war. The ceasefire left [Iran](/actors/iran.md) with retained leverage and did not achieve the decisive degradation of Iranian capabilities that Israeli security doctrine demands. The gap between Israeli objectives and the war's results has created tensions with the [United States](/actors/united-states.md).
 
+## Turkey as Greatest Regional Challenge
+
+The US is transitioning from a bilateral, Israel-centric security framework to a multilateral, partnership-driven approach. [Turkey](/actors/turkey.md)'s rise — with Washington's assent — represents Israel's greatest challenge since making peace with Egypt nearly 50 years ago. Turkey is pursuing dominance over its immediate surroundings and is the military actor best prepared to lead America's burden-sharing initiative [2].
+
+Israel has adamantly opposed Turkish involvement in the International Stabilization Force for Gaza. The rivalry extends to Syria, where Turkish-backed government forces have seized Kurdish areas, and to the Red Sea, where Israel's [recognition of Somaliland](/events/israel-somaliland-recognition.md) creates a counterweight to Turkey's military expansion in Somalia. For the first time, Israel has Turkey on its doorstep [2].
+
+## Red Sea Strategy: Somaliland
+
+In December 2025, Israel became the first nation to officially recognize Somaliland — a strategic investment in Red Sea access near the Bab el-Mandeb Strait. The move reflects Israel's competition with Turkey over maritime chokepoints and creates a loose Israel-UAE-[Ethiopia](/actors/ethiopia.md) alignment countering the Turkey-Somalia-[Egypt](/actors/egypt.md)-[Eritrea](/actors/eritrea.md) axis. See [Israel Recognizes Somaliland](/events/israel-somaliland-recognition.md) [3].
+
 ## Lebanon as Negotiating Condition
 
 Iran has demanded an immediate end to Israeli military operations in Lebanon as one of three conditions for post-war negotiations. This places Israel's ongoing operations in Lebanon at the center of the broader diplomatic framework — Israel's actions in Lebanon directly affect the trajectory of US-Iran engagement.
@@ -27,12 +37,18 @@ Israel can defy the United States and get away with it. This was demonstrated du
 
 # Analysis
 
-Israel's post-war position is defined by dissatisfaction with an outcome that did not meet its security objectives, combined with a demonstrated capacity to act independently of US preferences. The Lebanon dimension links Israeli tactical operations to the broader diplomatic framework of US-Iran negotiations, giving Israel an unintended but significant role in shaping the trajectory of the [global system rupture](/themes/global-system-rupture.md).
+Israel's post-war position is defined by a strategic landscape that has shifted beneath it. The decline of Iran removed the primary threat around which Israel's security architecture was organized, but the simultaneous rise of Turkey — backed by US strategic reorientation — creates a challenge of a different kind: not a military threat to Israeli territory but a political challenge to Israeli influence in the regional security architecture. The Somaliland recognition and opposition to Turkish involvement in Gaza are both responses to this challenge — efforts to preserve Israel's freedom of action in a region where the US is no longer Israel-centric [2][3].
+
+The [global system rupture](/themes/global-system-rupture.md) has paradoxically weakened Israel's position even as it neutralized the Iranian threat: the US shift to multilateralism means Israel can no longer rely on being the sole indispensable regional partner, and must compete with Turkey for influence in Washington's emerging security architecture.
 
 # Citations
 
 [1] Robert Pape, "Situation Report Special Edition" — https://escalationtrap.substack.com/p/situation-report-special-edition
 
-[2] Robert Pape, "Uncertain Deal — and Iran Certainly" — https://escalationtrap.substack.com/p/uncertain-dealand-iran-certainly
+[2] [Turkey, Israel and the New US Geostrategy](https://geopoliticalfutures.com/turkey-israel-and-the-new-us-geostrategy/)
 
-[3] Phillips P. O'Brien, "Early Lessons from the US-Iran War" — https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war
+[3] [Competition in the Horn of Africa Heats Up](https://geopoliticalfutures.com/competition-in-the-horn-of-africa-heats-up/)
+
+[4] Robert Pape, "Uncertain Deal — and Iran Certainly" — https://escalationtrap.substack.com/p/uncertain-dealand-iran-certainly
+
+[5] Phillips P. O'Brien, "Early Lessons from the US-Iran War" — https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war

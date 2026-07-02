@@ -1,10 +1,10 @@
 ---
 type: Region
 title: Middle East
-description: Crossroads of three continents containing the Strait of Hormuz, the world's most important energy chokepoint.
-tags: [middle-east, energy, military]
+description: Crossroads of three continents containing the Strait of Hormuz; undergoing a US strategic reorientation from Israel-centric to multilateral security, with Turkey-Israel rivalry as the defining competitive dynamic and Iran in systemic decline.
+tags: [middle-east, energy, military, trade]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-03T00:00:00Z
 ---
 
 # Background
@@ -24,6 +24,11 @@ The region hosts a dense web of competing actors — the United States, Iran, Is
 - [Saudi Arabia](/actors/saudi-arabia.md) conducted secret negotiations with Iran through [Pakistan](/actors/pakistan.md), with Russian and Chinese support, aiming at a non-aggression pact — signaling the end of the US monopoly on Middle East security architecture [4].
 - [Oman](/actors/oman.md) co-negotiated a permanent [toll system](/events/hormuz-toll-system.md) for Hormuz with Iran, formalizing Iran's chokepoint leverage [5].
 - The [UAE](/actors/uae.md) requested a US dollar swap line during the war, signaling stress in the petrodollar system while simultaneously facilitating Chinese-Iranian oil trade [6].
+- The US is transitioning from a bilateral, [Israel](/actors/israel.md)-centric security framework to a multilateral, partnership-driven approach. The "Board of Peace" — with [Turkey](/actors/turkey.md), [Saudi Arabia](/actors/saudi-arabia.md), Egypt, Jordan, Indonesia, [Pakistan](/actors/pakistan.md), [Qatar](/actors/qatar.md), and the UAE participating — represents the new architecture [7].
+- The Turkey-Israel rivalry is intensifying, particularly over Syria and Gaza. Turkey's rise with US assent represents Israel's greatest regional challenge since the Egypt peace [7].
+- Iran has entered a period of systemic uncertainty: the regime will struggle with civil unrest, succession, and the need for accommodation with the US. The IRGC is weakening, the supreme leader is being replaced, and mass unrest continues [8].
+- US policy has shifted from encouraging fragmentation to preserving unified states — opposing partition in Syria, Iraq, and Yemen to prevent Chinese and Russian exploitation of fragmented entities [9].
+- China's Saudi-Iran rapprochement (March 2023) signaled a shift in the regional balance, with Beijing positioning itself as a political mediator in a space traditionally within the Western sphere [9].
 
 # Key Dynamics
 
@@ -31,6 +36,8 @@ The region hosts a dense web of competing actors — the United States, Iran, Is
 - **Iran's geographic leverage** — Iran's position on the northern shore of Hormuz gives it physical control over the shipping lane. This leverage is structural, not tactical; it persists regardless of the balance of conventional forces.
 - **Multi-actor competition** — The US, Iran, Israel, Gulf states, Russia, and China all maintain active and competing interests. No single power can impose order; every alignment is conditional and contested.
 - **Axis consultation** — Russia and China green-lit Iran's ceasefire, indicating that Iran's strategic posture is coordinated within the broader axis framework. This suggests the pause was an axis course correction, not an American coercive triumph. See [Global System Rupture](/themes/global-system-rupture.md).
+- **US strategic reorientation** — Washington is shifting from Israel-centric to multilateral security, elevating Turkey and Saudi Arabia as burden-sharing partners. The transition limits direct US exposure but lays the groundwork for future regional conflicts as Israel and Turkey compete for influence [7].
+- **Nation-state reassertion** — Great power competition has paradoxically become a protective umbrella for weak states. The US now opposes partition in Syria, Iraq, and Yemen because fragmentation creates openings for China and Russia. China's rise has given the Middle East a chance to recover after years of turmoil [9].
 
 # Citations
 
@@ -43,3 +50,9 @@ The region hosts a dense web of competing actors — the United States, Iran, Is
 [5] [Iran War: Iran, Oman in Talks Over Permanent Toll System for Strait of Hormuz](https://archive.ph/fPxWM)
 
 [6] [Operation Epic Folly(Fury) — Part 9: Gold, The UAE, Currency Swap Lines and the Petrodollar](https://endtropy.substack.com/p/operation-epic-follyfury-part-9-gold)
+
+[7] [Turkey, Israel and the New US Geostrategy](https://geopoliticalfutures.com/turkey-israel-and-the-new-us-geostrategy/)
+
+[8] [2026 Forecast: Re-anchoring the World](https://geopoliticalfutures.com/forecast-for-2026-re-anchoring-the-world/)
+
+[9] [The Return of the Nation-State in the Middle East](https://geopoliticalfutures.com/the-return-of-the-nation-state-in-the-middle-east/)

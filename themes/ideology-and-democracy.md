@@ -8,7 +8,7 @@ tags:
   - democracy
   - oligarchy
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-03T00:00:00Z
 ---
 
 # Background
@@ -80,6 +80,12 @@ The appearance of rising socialist sentiment is largely an artifact of right-win
 
 [The Honest Sorcerer](/actors/the-honest-sorcerer.md) poses whether we have passed "peak rationality" — the limits of human rationality, the mechanistic worldview, and diminishing returns of scientific research. Drawing on Jean Gebser's theory of consciousness structures, the framework asks what awaits at the end of the Age of Reason. This is not anti-rational but meta-rational: the recognition that the rationalist project has internal limits that cannot be overcome by more rationality [10].
 
+## MAGA Governance as Theatrical Violence
+
+[The Atlantic](/actors/trump.md) (David Frum) documents how ICE has become less a law-enforcement agency than a content creator — producing videos of aggressive arrests set to pumping music for MAGA social media. ICE lowered training standards and ditched background vetting to meet deportation targets. The agency has killed four people since the crackdown began in June 2025, with 30+ incidents of agents opening fire or holding people at gunpoint. JD Vance's vociferous defense of the Minneapolis ICE shooting was planned, not spontaneous — reflecting the MAGA logic of redistributing respect away from overeducated coastal elites toward white Americans who feel left behind. The ICE agent who killed Renee Nicole Good is Trump's second-term Kyle Rittenhouse: enforcement of the MAGA vision of who must submit to whom [11].
+
+This extends the democratic legitimacy crisis: MAGA does not reliably care about laws or the people who enforce them — Trump pardoned 1,500 January 6 rioters including many convicted of violent offenses against police, denigrated the FBI, and transformed it into a tool of retribution. The only law-enforcement agency the administration consistently champions is the one with the most violent record. The point is to prove that the fearsome power of the American state is being wielded by righteous MAGA hands against despised MAGA targets [11].
+
 # Citations
 
 [1] https://archive.ph/8FvBT
@@ -98,3 +104,5 @@ The appearance of rising socialist sentiment is largely an artifact of right-win
 [9] [How to Read the Signs of Collapse — The Great Simplification #209](https://natehagens.substack.com/cp/186878448)
 
 [10] [The End of Reason](https://thehonestsorcerer.substack.com/p/the-end-of-reason)
+
+[11] [Why Vance Committed So Hard to the Minneapolis Shooter](https://archive.ph/FAG0g)

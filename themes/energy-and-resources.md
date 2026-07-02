@@ -8,7 +8,7 @@ tags:
   - trade
   - supply-chain
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-03T00:00:00Z
 ---
 
 # Background
@@ -101,6 +101,14 @@ The concentration of LNG infrastructure at [Qatar](/actors/qatar.md)'s Ras Laffa
 
 [The Honest Sorcerer](/actors/the-honest-sorcerer.md) details how the Iran war disrupted the renewable energy supply chain itself: aluminum (Australian bauxite transit through the Middle East), gallium (98% refined in China), graphite (needle coke from oil refining), and the broader material inputs for EVs and solar panels. The "green economy" uses the same raw materials and fossil-fuel-dependent processes as the old economy — the Iran war exposed this dependency by disrupting both simultaneously [15].
 
+## Climate Acceleration
+
+The biophysical context for energy competition is worsening faster than models predicted. 2025 was the third hottest year on record; the EU has said the Paris 1.5C threshold could be broken before 2030 — a decade sooner than expected. Samantha Burgess of Europe's Copernicus Climate Change Service warns: "We are seeing event classes today that were forecast in climate models for the 2050s, 2060s, and 2070s." The world's oceans absorbed more heat in 2025 than in any prior year on record [16].
+
+Economic losses from climate disasters averaged $267bn/year (2015-2024), reaching $327bn in 2024. Over 78 million people were affected by climate disasters in 2025. The California wildfires killed up to 440 people with $40bn+ in losses. Three Category 5 hurricanes hit the North Atlantic for the first time in 20 years. About 1,500 of 2,300 estimated heat deaths are directly attributable to climate change from fossil fuel burning. Regions of the Global South are severely under-reported but expected to be equally damning [16].
+
+The implication for [energy and resources](/themes/energy-and-resources.md) is dual: the energy transition is urgent but the materials required for it ([critical minerals](/themes/critical-minerals.md)) are themselves energy-intensive to extract and environmentally devastating to process — creating a feedback loop where the cure and the disease consume the same resources.
+
 # Citations
 
 [1] [The Myth of American Energy Independence](https://thehonestsorcerer.substack.com/p/the-myth-of-american-energy-independence)
@@ -132,3 +140,5 @@ The concentration of LNG infrastructure at [Qatar](/actors/qatar.md)'s Ras Laffa
 [14] [China: The End of an Economic Miracle](https://thehonestsorcerer.substack.com/p/china-the-end-of-an-economic-miracle)
 
 [15] [There Is No Next Economy](https://thehonestsorcerer.substack.com/p/there-is-no-next-economy)
+
+[16] ['Climate change is here': Experts warn environmental crisis is decades ahead of forecasts](https://archive.ph/b0G1x)

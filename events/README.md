@@ -14,3 +14,5 @@
 * [Germany UN Security Council Defeat](germany-un-security-council-defeat.md) - Germany's worst-ever UNSC election result, exposing eroded diplomatic standing
 * [RIC Revival of 2026](ric-revival-2026.md) - Russia-India-China trilateral revival and India's Starlink freeze
 * [World Adaptation Forum](world-adaptation-forum.md) - April 2026 Budapest conference on civilizational adaptation and the polycrisis
+* [Israel Recognizes Somaliland](israel-somaliland-recognition.md) - December 2025 recognition accelerating Red Sea competition and reshaping Horn of Africa alignments
+* [Trump's Greenland Crisis](trump-greenland-crisis.md) - Trump's threats to seize Greenland and tariff European states, fracturing the transatlantic alliance and the European Right

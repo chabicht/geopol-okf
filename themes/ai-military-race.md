@@ -7,8 +7,10 @@ tags:
   - technology
   - military
   - intelligence
+  - supply-chain
+  - trade
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-03T00:00:00Z
 ---
 
 # Background
@@ -51,7 +53,15 @@ This reframes the significance of the model gap. A 3–6 month or ~7 month gap i
 
 The implication is that the AI military race is not only about technology but about institutional architecture. The organization that can restructure itself to integrate AI, commercial capabilities, and space-domain awareness faster will gain an enduring advantage — and institutional restructuring is harder and slower than technology adoption [2].
 
+## Tech Stack Diplomacy
+
+The AI military race extends into the diplomatic domain. See [Tech Stack Diplomacy](/themes/tech-stack-diplomacy.md) for the full analysis. The US "export the entire tech stack" strategy aims to lock nations into dependency on US AI technology ahead of China, while China's AI+ Initiative promotes open-source AI and Global South partnerships. Chinese open-weight models now account for 17.1% of global downloads (ahead of the US at 15.8%), with 80% of American AI startups relying on Chinese open-weight models — but the embedded licensing terms carry Chinese legal and political content, functioning as a form of regulatory export [3][4].
+
+The intersection of AI competition and [critical minerals](/themes/critical-minerals.md) creates a volatile interdependency: the US restricts advanced chips, China restricts rare earths. Both are attempts to leverage control over critical inputs to shape the other's AI development trajectory [3].
+
 # Citations
 
 [1] https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military
 [2] https://www.thecipherbrief.com/dni-day-one
+[3] [Tech Stack Diplomacy: Policy Implications of the U.S. AI Export Strategy](https://newlinesinstitute.org/tech-econ-sov-sec/tech-stack-diplomacy-policy/)
+[4] [The AI Kill Switch: Dangerous Chinese Open Source](https://cepa.org/article/the-ai-kill-switch-dangerous-chinese-open-source/)

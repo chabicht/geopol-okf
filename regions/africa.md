@@ -1,10 +1,10 @@
 ---
 type: Region
 title: Africa
-description: Continent of growing strategic importance; Sahel as insurgency zone and Horn of Africa as maritime chokepoint, with multiple external powers competing for influence.
-tags: [africa, sahel, insurgency, military, drone-warfare]
+description: Continent of growing strategic importance; Sahel as insurgency zone, Horn of Africa as maritime chokepoint with emerging rival blocs, and US-China competition along strategic resource corridors.
+tags: [africa, sahel, insurgency, military, drone-warfare, trade]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-03T00:00:00Z
 ---
 
 # Background
@@ -21,6 +21,8 @@ Africa is a continent of growing strategic importance, characterized by vast ter
 - Russia's reputation as a regime guarantor has been damaged by its failures in Syria and Venezuela.
 - Covert discussions between the Mali junta and US intelligence suggest hedging behavior.
 - [Ethiopia](/actors/ethiopia.md) and [Eritrea](/actors/eritrea.md) are again on the verge of conflict over Tigray, complicated by Ethiopia's need for sea access (port of Assab) and Middle Eastern proxy alignments (UAE-Ethiopia-RSF vs. Eritrea). The militarization of the Red Sea corridor has elevated the strategic significance of this local conflict [2].
+- [Israel](/actors/israel.md)'s recognition of [Somaliland](/events/israel-somaliland-recognition.md) has accelerated Red Sea competition, solidifying rival blocs: Israel-UAE-Ethiopia vs. Saudi Arabia-Egypt-Eritrea, with [Turkey](/actors/turkey.md) as Somalia's primary patron. Port infrastructure — Berbera, Djibouti, Tadjourah, Mogadishu — is the primary vector of competition [3].
+- The US-China competition in Africa is taking shape along strategic resource corridors, with both prioritizing extractive and logistics-focused investments tied to critical minerals, hydrocarbons, and transport infrastructure. Arab Gulf states, India, [Russia](/actors/russia.md), and Europe intensify the competition [4].
 
 # Key Dynamics
 
@@ -34,3 +36,7 @@ Africa is a continent of growing strategic importance, characterized by vast ter
 [1] [Geopolitical Futures — in Mali, Turkey sees an opening](https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/)
 
 [2] [The Tigray Powder Keg in the Horn of Africa](https://geopoliticalfutures.com/the-tigray-powder-keg-in-the-horn-of-africa/)
+
+[3] [Competition in the Horn of Africa Heats Up](https://geopoliticalfutures.com/competition-in-the-horn-of-africa-heats-up/)
+
+[4] [2026 Forecast: Re-anchoring the World](https://geopoliticalfutures.com/forecast-for-2026-re-anchoring-the-world/)

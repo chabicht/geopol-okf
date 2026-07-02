@@ -8,7 +8,7 @@ tags:
   - economics
   - trade
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-03T00:00:00Z
 ---
 
 # Background
@@ -57,6 +57,12 @@ This is not a rejection of structural analysis but a correction of its overexten
 
 [Michael Beckley](/actors/michael-beckley.md) argues that the US possesses the only true sphere of influence — asymmetric hegemony in the Western Hemisphere rooted in the Monroe Doctrine and sustained by geographic isolation and overwhelming military dominance. China and Russia cannot consolidate spheres in their own neighborhoods because they are surrounded by states that resist their dominance. The asymmetry is dangerous but creates an opening: as allies rearm and the US leans into its hemispheric advantage, a tougher, more resilient free world is possible. The implication is that declinist narratives extrapolating from specific failures (e.g., the Iran war) miss the structural resilience of the US position [6].
 
+## Re-anchoring: The US-China Accommodation Thesis
+
+[Geopolitical Futures](/actors/geopolitical-futures.md) argues that US-China relations are the most important geopolitical issue in 2026. Both nations need an economic understanding — China's economy has been weakened by tariffs, and the US needs to bring down consumer goods prices. A military accommodation could follow, based on transparency measures like mutual notification of exercises. The most contentious issue is [Taiwan](/conflicts/taiwan-standoff.md), but a potential compromise (formal Chinese sovereignty with extensive autonomy, capped US military commitments) seems plausible. If achieved, this would establish a "bipolar world with two powers not engaged in either economic or military confrontation" — re-anchoring the global system and dramatically reducing conflict risk [7].
+
+The consequence for [Russia](/actors/russia.md) would be a further decline: the Sino-Russian relationship is transactional, not eternal, and an entente between the US and China would leave Moscow facing a historical competitor along its long border. Russia should be seen as a regional, not global, power — that honor belongs to the US and China alone. For [Europe](/regions/europe.md), the reduction of the Russian threat and the absence of US-China confrontation would force the EU to confront its own fragmentation: the Franco-German engine is constrained, sovereigntist movements are rising, and the EU may devolve into a multiregional system rather than a unified bloc [7].
+
 # Citations
 
 [1] https://thehonestsorcerer.substack.com/p/the-big-picture
@@ -65,3 +71,5 @@ This is not a rejection of structural analysis but a correction of its overexten
 [4] https://substack.com/@velinatchakarova/p-203793388
 [5] https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war
 [6] [There Is Only One Sphere of Influence](https://www.foreignaffairs.com/united-states/there-only-one-sphere-influence)
+
+[7] [2026 Forecast: Re-anchoring the World](https://geopoliticalfutures.com/forecast-for-2026-re-anchoring-the-world/)

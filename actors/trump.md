@@ -2,9 +2,9 @@
 type: Actor
 title: Donald Trump
 description: 45th and 47th President of the United States; central decision-maker in the 2026 US-Iran war and US-Russia policy.
-tags: [leader, military, trade, latin-america, oligarchy]
+tags: [leader, military, trade, latin-america, oligarchy, europe]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-03T00:00:00Z
 ---
 
 # Background
@@ -37,6 +37,16 @@ Trump imposed tariffs on India while simultaneously claiming credit for "stoppin
 
 Trump backs conservative governments in Latin America and is associated with the "Shield of the Americas" grouping described by Tchakarova, a regional security architecture that aligns US policy with right-leaning governments across the hemisphere. [5]
 
+## Greenland Crisis
+
+Trump has declared his intention to "take" Greenland, imposing 10% punitive tariffs on eight NW European states (Denmark, Norway, Sweden, Finland, the UK, [Germany](/actors/germany.md), [France](/actors/france.md), and the Netherlands) to force European acquiescence. The move has fractured the European Right, alienated NATO allies, and signaled the end of "the West" as a cohesive concept. Europe's inability to respond — divided between sanctioned and unsanctioned member states, lacking military and economic cohesion — demonstrates the primacy of geography and hard power over institutional frameworks. See [Trump's Greenland Crisis](/events/trump-greenland-crisis.md) [8][9][10][11].
+
+## ICE, Vance, and Governance as Spectacle
+
+JD Vance has made himself the lead defender of the killing of Renee Nicole Good by an ICE agent in Minneapolis — promoting a video from the shooter's point of view and accusing the victim of attacking a federal agent. Vance's stance was planned, not spontaneous, reflecting an understanding that ICE is central to Trump's base as an instrument of "cleansing violence." ICE has lowered training standards and ditched background vetting to meet deportation targets; its main purpose has become theatrical — less a law-enforcement agency than a content creator. ICE's approval ratings have plummeted accordingly [12].
+
+MAGA is fundamentally about redistributing respect — away from overeducated coastal elites toward white Americans without advanced degrees who feel left behind. The ICE agent who killed Good is Trump's second-term Kyle Rittenhouse: enforcement of the MAGA vision of who must submit to whom. Vance's vociferous defense was political cash — paying moral currency where others might be trusted on credit [12].
+
 ## Slaughter Ruling and Dictatorial Regulatory Power
 
 The Roberts Supreme Court's [Slaughter ruling](/events/slaughter-scotus-ruling.md) overturned 90 years of precedent to grant Trump effectively unlimited power over regulatory agencies created by Congress. He can now direct agencies to do the opposite of their mandate, fire civil servants who resist, or gut them entirely. Krugman frames this as "dictatorial power" — not over the presidency in general, but over Trump specifically, given the Court's partisanship. [6]
@@ -68,3 +78,13 @@ Krugman argues that corruption is not a side-effect of Trump's governance but it
 [6] [A Verdict on (the) Slaughter](https://paulkrugman.substack.com/p/a-verdict-on-the-slaughter)
 
 [7] [Midweek Update 12: We Are Witnessing US Decline In Real Time](https://phillipspobrien.substack.com/p/midweek-update-12-we-are-witnessing)
+
+[8] [Why Trump will get Greenland](https://unherd.com/2026/01/why-trump-will-get-greenland/)
+
+[9] [Trump is losing the European Right](https://archive.ph/Q3BjN)
+
+[10] [French far-right leader Bardella slams Trump's 'imperial ambitions'](https://www.politico.eu/article/france-jordan-bardella-donald-trumps-imperial-ambitions-in-venezuela-greenland/)
+
+[11] [Germany's far right loosens its embrace of Trump](https://www.politico.eu/article/germany-donald-trump-afd-greenland-nicolas-maduro-national-rally/)
+
+[12] [Why Vance Committed So Hard to the Minneapolis Shooter](https://archive.ph/FAG0g)

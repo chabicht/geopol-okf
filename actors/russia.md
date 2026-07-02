@@ -1,10 +1,10 @@
 ---
 type: Actor
 title: Russia
-description: Russia as a geopolitical actor — waging war in Ukraine, managing Chechnya's succession risk, projecting power in Africa, and conducting cognitive warfare against the West
-tags: [country, military, cognitive-warfare, energy, sanctions, europe, caucasus, africa]
+description: Russia as a geopolitical actor — waging war in Ukraine, managing Chechnya's succession risk, projecting power in Africa, conducting cognitive warfare against the West, attempting to revitalize the CSTO, and losing its grip on its southern flank from the Black Sea to Central Asia
+tags: [country, military, cognitive-warfare, energy, sanctions, europe, caucasus, africa, central-asia]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-03T00:00:00Z
 ---
 
 # Background
@@ -37,6 +37,22 @@ Russia is conducting systematic [cognitive warfare](/themes/cognitive-warfare.md
 
 Russian oil exports are surging — 4.11 million barrels per day, the highest since January — filling the gap left by the Hormuz crisis. Sanctions waivers have enabled this export surge, illustrating the contradiction between Western declaratory policy and actual energy market behavior.
 
+## CSTO Revitalization
+
+Russia is attempting to revitalize the Collective Security Treaty Organization (CSTO) — the post-Soviet military alliance comprising Armenia, Kazakhstan, Kyrgyzstan, Tajikistan, and Belarus. Putin's plan serves two objectives: standardizing Central Asian militaries on Russian equipment (reversing the mid-2000s diversification toward Western and Chinese systems), and creating export markets for Russian military products that the war economy cannot absorb domestically. In December 2025, the CSTO practiced crisis-localization exercises, and Kazakhstan is pushing to expand deployment authorities [7].
+
+However, the CSTO remains hampered by Armenia's frozen membership, divergent threat perceptions, and a history of failures — it did not assist Kyrgyzstan in 2010, abstained from the Nagorno-Karabakh War, and saw member states refuse to support Russia's position on Crimea. See [Layered Security](/themes/layered-security.md) [7].
+
+## Southern Flank Erosion
+
+Russia's grip on its southern frontier — from the Black Sea through the South Caucasus to [Central Asia](/regions/central-asia.md) — has eroded significantly, accelerated by the 2022 invasion of Ukraine. The 2020 Nagorno-Karabakh War exposed Russia's inability to manage its traditional sphere; Turkey's decisive support for [Azerbaijan](/actors/azerbaijan.md) overturned decades of Russian-managed equilibrium. The US has exploited the opening through the Trump Route corridor connecting Azerbaijan to Nakhchivan through Armenian territory, giving Washington a foothold on Russia's southern periphery [8].
+
+Central Asian states are deepening ties with the US (C5+1 summits in 2023 and 2025), pursuing multi-vector foreign policies, and reviving national languages at the expense of Russian. The Middle Corridor — a China-to-Europe trade route bypassing Russia — is reducing the region's dependence on Russian transit. Russia's strategic bandwidth remains monopolized by the western flank (Ukraine), leaving the south increasingly open to Chinese, Turkish, and American influence [8].
+
+## Ukraine Peace Negotiations
+
+Russian, Ukrainian, and American negotiators held their first formal trilateral peace negotiations in Abu Dhabi in January 2026. The cautious optimism from Ukrainian officials and Russian state media suggests Moscow may be prepared to explore pathways toward ending the conflict — but the damage to Russia's influence along its southern flank is already done [8].
+
 # Analysis
 
 Russia's strategic position is paradoxical: deeply committed in Ukraine, facing succession risk in Chechnya, losing ground in Africa, yet successfully exploiting Western energy dependencies and conducting effective cognitive warfare. The DragonBear axis provides critical support, but Russia's ability to sustain multiple theaters is increasingly constrained by the prioritization demands of the Ukraine war.
@@ -54,3 +70,7 @@ Russia's strategic position is paradoxical: deeply committed in Ukraine, facing 
 [5] Velina Tchakarova, "Ceasefire in Iran" — https://substack.com/@velinatchakarova/p-204418261
 
 [6] [Putin Can No Longer Hide His Catastrophe](https://www.theatlantic.com/ideas/2026/05/putin-lost-control-russia/687269/)
+
+[7] [The Evolution of the Collective Security Treaty Organization](https://geopoliticalfutures.com/the-evolution-of-the-collective-security-treaty-organization/)
+
+[8] [The Southern Flank Unraveled: Russia's Grip Loosens in Eurasia](https://geopoliticalfutures.com/the-southern-flank-unraveled-russias-grip-loosens-in-eurasia/)

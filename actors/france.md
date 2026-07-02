@@ -1,10 +1,10 @@
 ---
 type: Actor
 title: France
-description: France as a geopolitical actor — signaling on Taiwan, targeted by Russian cognitive warfare, and navigating the Trump-era transatlantic relationship
-tags: [country, military, europe, cognitive-warfare]
+description: France as a geopolitical actor — signaling on Taiwan, targeted by Russian cognitive warfare, navigating the Trump-era transatlantic relationship, and experiencing a populist rightward shift with Bardella's rise
+tags: [country, military, europe, cognitive-warfare, ideology]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-03T00:00:00Z
 ---
 
 # Background
@@ -25,6 +25,10 @@ France has been a direct target of Russian [cognitive warfare](/themes/cognitive
 
 Macron has made claims about Trump's understanding of the [Ukraine war](/conflicts/russia-ukraine-war.md), suggesting ongoing diplomatic engagement and intelligence sharing between Paris and Washington — even as the transatlantic relationship shows signs of strain under the Trump administration.
 
+## Bardella and the National Rally's Trump Dilemma
+
+Jordan Bardella, president of the National Rally, has criticized [Trump](/actors/trump.md)'s [Greenland threats](/events/trump-greenland-crisis.md) as "a direct challenge to the sovereignty of a European country" and warned against "a return to imperial ambitions" and "the law of the strongest trumps respect of international rules." He also cited the capture of Venezuela's Maduro as a US hawkish move he opposes. The National Rally has been forced to perform a delicate dance on Trump — whose administration hinted at supporting "patriotic European parties" but whose foreign interventionism is deeply unpopular in France. Bardella opposes sending French ground troops to Ukraine and would uphold only "some" of Macron's security commitments. Early polling for France's 2027 presidential election shows Bardella defeating all other candidates [4].
+
 # Analysis
 
 France occupies a unique position as a European power with global reach, nuclear deterrence, and direct experience of Russian cognitive warfare. The joint Taiwan statement signals a willingness to extend European strategic engagement beyond the continent. However, France's capacity to act independently is constrained by domestic political instability and the broader erosion of the transatlantic alliance.
@@ -36,3 +40,5 @@ France occupies a unique position as a European power with global reach, nuclear
 [2] OCCRP, "Leaked Documents Reveal Russian Cognitive Strikes Against the West" — https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris
 
 [3] Phillips P. O'Brien, "Weekend Update 190" — https://phillipspobrien.substack.com/p/weekend-update-190-long-range-reveal
+
+[4] [French far-right leader Bardella slams Trump's 'imperial ambitions' in Greenland, Venezuela](https://www.politico.eu/article/france-jordan-bardella-donald-trumps-imperial-ambitions-in-venezuela-greenland/)

@@ -1,15 +1,15 @@
 ---
 type: Actor
 title: Turkey
-description: Turkey as a geopolitical actor — exploiting Russian weakness in Africa through drone exports, training packages, and a flexible non-aligned posture
-tags: [country, military, drone-warfare, africa, nato]
+description: Turkey as a geopolitical actor — emerging as the Middle East's dominant power, expanding across the Horn of Africa through military training and port deals, competing with Israel for regional influence, and pursuing independent defense cooperation outside NATO constraints
+tags: [country, military, drone-warfare, africa, nato, middle-east, naval]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-03T00:00:00Z
 ---
 
 # Background
 
-Turkey is a Muslim-majority, non-Western member of [NATO](/actors/nato.md) — a unique combination that grants it strategic flexibility unavailable to other alliance members. Its defense industry, particularly in [drone warfare](/themes/drone-warfare.md), has made it an attractive security partner for governments across [Africa](/regions/africa.md) seeking alternatives to traditional patrons.
+Turkey is a Muslim-majority, non-Western member of [NATO](/actors/nato.md) — a unique combination that grants it strategic flexibility unavailable to other alliance members. Its defense industry, particularly in [drone warfare](/themes/drone-warfare.md), has made it an attractive security partner for governments across [Africa](/regions/africa.md) and the [Middle East](/regions/middle-east.md) seeking alternatives to traditional patrons. Unique among Washington's NATO allies, Turkey is pursuing dominance over its immediate surroundings — a posture that a US administration eager to reduce global risk exposure finds invaluable.
 
 # Current Situation
 
@@ -23,14 +23,38 @@ Turkey offers what competitors cannot: security assistance without the colonial 
 
 Turkish drones are attractive to African governments because they provide surveillance and strike capacity along with evidence of modernization. The [Somalia model](/actors/somalia.md) — military training, infrastructure, education, diplomatic support, and maritime security — demonstrates the comprehensive nature of Turkish engagement.
 
+## Horn of Africa and Red Sea Competition
+
+Turkey has become [Somalia](/actors/somalia.md)'s most important external patron, providing military training, arms, infrastructure investment, and diplomatic support to the federal government in Mogadishu. Turkey built a large military training base in Mogadishu and signed major port and infrastructure deals in 2024, becoming Somalia's primary external security and economic partner — largely at the expense of the [UAE](/actors/uae.md), whose relationship with Somalia deteriorated over port concessions and a 2018 cash-seizure incident [2].
+
+Turkey's expansion is now creating rival blocs in the Horn of Africa. [Israel](/actors/israel.md)'s recognition of [Somaliland](/events/israel-somaliland-recognition.md) has solidified an Israel-UAE-Ethiopia alignment countering the Turkey-Somalia-Egypt-Eritrea axis. Port infrastructure — Turkey's deals in Mogadishu, DP World at Berbera, Saudi Arabia's Red Sea Gateway Terminal at Tadjourah — is the primary vector of competition [2].
+
+## Turkey as Middle East's Dominant Power
+
+The US is transitioning from a bilateral, Israel-centric security framework to a multilateral, partnership-driven approach in the [Middle East](/regions/middle-east.md). Turkey is the primary beneficiary. No country in the region is better prepared militarily to lead America's burden-sharing initiative. The US proposed a multinational peacekeeping force and "Board of Peace" for Gaza, with Turkey, Saudi Arabia, Egypt, Jordan, Indonesia, Pakistan, Qatar, and the UAE confirming participation. Israel has adamantly opposed Turkish involvement [3].
+
+Turkey's efforts to recreate its sphere of influence in the region conflict directly with Israel's national security imperatives. The empowerment of Syria's Sunni majority under an Islamist government — backed by Turkey and supported by the US — has created a new strategic challenge for Israel. Turkish-backed Syrian government forces have seized areas from Kurdish forces, furthering Turkey's interests. Israel has countered by creating a forward operating position beyond the Golan Heights and leveraging its relationship with Syria's Druze minority to contain Turkish influence [3].
+
+## Independent Defense Cooperation
+
+Turkey remains embedded in NATO for deterrence and escalation control in [Europe](/regions/europe.md), but the alliance does not encompass the full geographic scope of Turkey's security environment. Turkey's expanding defense cooperation with [Saudi Arabia](/actors/saudi-arabia.md) and [Pakistan](/actors/pakistan.md) reflects shared interests in defense production, training, and regional balancing rather than formal collective defense. These arrangements expand operational access and defense-industrial capacity while avoiding open-ended alliance commitments — a textbook example of [layered security](/themes/layered-security.md) [4].
+
 ## Geographic Reach
 
-Turkey is operating across the Sahel and Horn of Africa: Mali, Burkina Faso, Niger, Chad, Ethiopia, Somalia, and Nigeria. This represents a significant expansion of Turkish influence at the expense of both Russia and France.
+Turkey is operating across the Sahel and Horn of Africa: Mali, Burkina Faso, Niger, Chad, Ethiopia, Somalia, and Nigeria. In the Middle East, Turkey's influence now extends through Syria, Somalia, and the Board of Peace framework. This represents a significant expansion of Turkish influence at the expense of both Russia and France.
 
 # Analysis
 
-Turkey's African expansion is a textbook example of exploiting a competitor's overstretch. As Russia's resources are consumed by the Ukraine war, Turkey fills the vacuum with a more appealing product: drones without ideology, security without colonial baggage, and partnership without governance lectures. The long-term sustainability of this expansion depends on Turkey's own economic stability and its ability to manage tensions within NATO.
+Turkey's strategic position is uniquely favorable. The US shift from Israel-centric to multilateral security architecture elevates Turkey as the region's most capable military actor. The decline of [Iran](/actors/iran.md) removes a major competitor. Russia's overstretch in Ukraine creates openings across Africa and Eurasia. Turkey's NATO membership provides deterrence while its non-Western identity allows partnerships unavailable to other alliance members.
+
+The Israel-Turkey rivalry is emerging as the defining competitive dynamic in the post-Iran Middle East. Turkey's rise — with Washington's assent — represents for Israel its greatest challenge since making peace with Egypt nearly 50 years ago. The competition unfolds across Syria, the Red Sea, and Gaza, with port infrastructure and proxy relationships as the primary currencies of influence [3].
 
 # Citations
 
 [1] Geopolitical Futures, "In Mali, Turkey Sees an Opening" — https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/
+
+[2] [Competition in the Horn of Africa Heats Up](https://geopoliticalfutures.com/competition-in-the-horn-of-africa-heats-up/)
+
+[3] [Turkey, Israel and the New US Geostrategy](https://geopoliticalfutures.com/turkey-israel-and-the-new-us-geostrategy/)
+
+[4] [Outgrowing Old Alliance Behavior](https://geopoliticalfutures.com/outgrowing-old-alliance-behavior/)

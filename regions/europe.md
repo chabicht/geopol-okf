@@ -1,10 +1,10 @@
 ---
 type: Region
 title: Europe
-description: Traditional US alliance architecture under NATO; EU economic bloc facing Russian hybrid warfare and shifting US priorities.
-tags: [europe, military, nato, energy]
+description: Traditional US alliance architecture under NATO; EU economic bloc facing Russian hybrid warfare, shifting US priorities, and Trump's Greenland crisis fracturing the transatlantic alliance.
+tags: [europe, military, nato, energy, trade]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-03T00:00:00Z
 ---
 
 # Background
@@ -23,6 +23,9 @@ Europe has been anchored by the US-led NATO alliance architecture since 1949 and
 - [Paul Krugman](/actors/paul-krugman.md) challenges the narrative of European economic decline relative to the US, arguing that productivity comparisons are misleading and that the social democratic model delivers quality of life that GDP metrics miss [5].
 - [The Honest Sorcerer](/actors/the-honest-sorcerer.md) and [Nate Hagens](/actors/nate-hagens.md) provide a biophysical angle on European decline: energy costs, loss of cheap Russian gas, and the impossibility of maintaining industrial throughput with renewables alone [6].
 - [Germany](/actors/germany.md) suffered its worst-ever [UN Security Council election defeat](/events/germany-un-security-council-defeat.md), receiving only 104 votes against 127 needed [7][8].
+- [Trump](/actors/trump.md)'s [Greenland crisis](/events/trump-greenland-crisis.md) — threats to seize Greenland and tariffs on eight NW European states — has fractured the transatlantic alliance. The EU's inability to respond (21 member states not sanctioned, internal divisions, lack of military cohesion) exposes the bloc's structural weakness. Only 12% of Germans view Trump's performance positively; only 15% see the US as a trustworthy partner (a new low) [9][10][11][12].
+- The Greenland crisis has alienated Europe's populist Right. France's [Bardella](/actors/france.md) criticized Trump's "imperial ambitions"; Germany's [AfD](/actors/germany.md) issued rare tepid criticism. The hope for a nationalist Internationale has collapsed — Trump's actions may instead galvanize European consolidation under the existing technocratic coalition [9][10][11][12].
+- GPF forecasts the EU will devolve into a multiregional system rather than a unified bloc, with the Franco-German engine constrained by domestic stagnation and the Poland-Romania-Greece axis anchoring Eastern Europe's containment line [13].
 
 # Key Dynamics
 
@@ -45,3 +48,13 @@ Europe has been anchored by the US-led NATO alliance architecture since 1949 and
 [7] [Sicherheitsrat ohne Deutschland — „Die Schlappe war vorhersehbar"](https://archive.ph/1QrAN)
 
 [8] [UN-Sicherheitsrat: So schlecht hat Deutschland noch nie abgeschnitten](https://archive.ph/O3KHX)
+
+[9] [Why Trump will get Greenland](https://unherd.com/2026/01/why-trump-will-get-greenland/)
+
+[10] [Trump is losing the European Right](https://archive.ph/Q3BjN)
+
+[11] [French far-right leader Bardella slams Trump's 'imperial ambitions'](https://www.politico.eu/article/france-jordan-bardella-donald-trumps-imperial-ambitions-in-venezuela-greenland/)
+
+[12] [Germany's far right loosens its embrace of Trump](https://www.politico.eu/article/germany-donald-trump-afd-greenland-nicolas-maduro-national-rally/)
+
+[13] [2026 Forecast: Re-anchoring the World](https://geopoliticalfutures.com/forecast-for-2026-re-anchoring-the-world/)

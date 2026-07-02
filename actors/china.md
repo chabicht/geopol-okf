@@ -1,10 +1,10 @@
 ---
 type: Actor
 title: China
-description: China as a geopolitical actor — coordinating national AI strategy, encircling Taiwan, investing across Central Asia, and anchoring the DragonBear axis
-tags: [country, military, ai, technology, energy, trade, indo-pacific, central-asia]
+description: China as a geopolitical actor — coordinating national AI strategy, encircling Taiwan, investing across Central Asia, anchoring the DragonBear axis, and turning toward Maoist ideological mobilization to manage economic slowdown
+tags: [country, military, ai, technology, energy, trade, indo-pacific, central-asia, ideology]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-03T00:00:00Z
 ---
 
 # Background
@@ -37,6 +37,16 @@ China's growth model is just as flawed as America's. It is impossible to grow fo
 
 In February 2026, Xi Jinping purged the Central Military Commission, removing Zhang Youxia and Liu Zhenli — the only CMC members with combat experience. The purge was driven by disagreement over the [Taiwan](/conflicts/taiwan-standoff.md) timeline: Xi insists on a 2027 invasion capability, while Zhang anticipated full joint operational capability closer to 2035. The purge damages command cohesion and reduces the likelihood of a near-term Taiwan invasion, while increasing the risk of miscalculation by new commanders eager to demonstrate loyalty. See [CMC Purge of 2026](/events/cmc-purge-2026.md) [7].
 
+## Ideological Turn Toward Maoism
+
+As Beijing grapples with economic slowdown, social unrest, and ideological uncertainty, the CCP is undergoing a significant turn toward ideological mobilization that echoes elements of Maoism. Cai Qi, the CCP ideology chief, has called on officials to strengthen "mainstream ideology that is self-confident, self-reliant and united" and to "focus on the economy" — an ideological rather than technocratic directive. Publicity Department leader Li Shulei has urged improvements in "ideological and political work" and the development of "a Chinese system of philosophy and social sciences with independent thinking" — rejecting foreign frameworks in favor of party-led knowledge production [8].
+
+The ideological push has two goals: domestically, to shore up confidence and suppress narratives that could undermine the party's claim to competent governance; internationally, to "tell China's stories" in a controlled, positive way. Ideology is intended to function as a substitute for rapid economic improvement — the portrayal of economic problems as crises of confidence mirrors Mao's tendency to politicize material difficulties [8].
+
+Xi's revival of the "Fengqiao experience" — a Mao-era method (1963) for containing and resolving conflicts at the grassroots level — exemplifies the turn. Rural protests over land seizures, inadequate compensation, religious demolitions, and cremation mandates reflect the financial desperation of debt-burdened local governments. The return of migrant workers to rural areas has inflamed tensions as people bring urban expectations into environments that cannot satisfy them [8].
+
+The parallels with Mao are structural: emphasis on ideology, centrality of the party, significance of unity under a strong leader, distrust of unchecked bureaucratic autonomy. The key difference is that Xi leads through a highly institutionalized party-state that prioritizes order and administrative control, whereas Mao ruled through mass mobilization and class struggle. The likely outcome is a "mixed" system in which ideological tightening coexists with pragmatic economic management — not Maoism restored, but ideology as a stabilizing force during structural economic stress [8].
+
 # Analysis
 
 China's strategic position is defined by coordinated action across domains where the US struggles to maintain coherence: AI military integration, maritime grey-zone operations, and resource investment in Central Asia. The DragonBear axis provides a force multiplier, allowing Beijing and Moscow to apply synchronized pressure on the Western coalition. However, China's growth model faces inherent limits that constrain its long-term trajectory.
@@ -56,3 +66,5 @@ China's strategic position is defined by coordinated action across domains where
 [6] [China: The End of an Economic Miracle](https://thehonestsorcerer.substack.com/p/china-the-end-of-an-economic-miracle)
 
 [7] [Xi Drains the Central Military Commission](https://geopoliticalfutures.com/xi-drains-the-central-military-commission/)
+
+[8] [In China, Echoes of Mao Emerge](https://geopoliticalfutures.com/in-china-echoes-of-mao-emerge/)
