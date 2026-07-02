@@ -1,0 +1,48 @@
+---
+type: Actor
+title: China
+description: China as a geopolitical actor — coordinating national AI strategy, encircling Taiwan, investing across Central Asia, and anchoring the DragonBear axis
+tags: [country, military, ai, technology, energy, trade, indo-pacific, central-asia]
+status: ongoing
+timestamp: 2026-07-02T00:00:00Z
+---
+
+# Background
+
+China is the world's most populous nation and its largest energy consumer, using almost twice as much energy as the [United States](/actors/united-states.md) while housing four times as many people. Its manufacturing base is the most advanced and high-tech on the planet, giving it structural advantages in the conversion of economic capacity into military power. The US perceives China as its primary strategic threat; the status quo of US dominance with roughly half the economy generates persistent friction that defines the [great power competition](/themes/great-power-competition.md) of the current era.
+
+China anchors the DragonBear axis with [Russia](/actors/russia.md), coordinating pressure on the Western coalition across multiple theaters simultaneously.
+
+# Current Situation
+
+## AI Military Race
+
+Beijing aims to displace the United States as the global AI leader by 2030. Unlike the fragmented American approach, China pursues a coordinated national-level strategy in which civilian AI firms are folded directly into PLA modernization. Alibaba and Baidu have been added to the Pentagon's Chinese Military Companies list. DeepSeek is part of PLA modernization efforts. While the US holds a 3-6 month lead in AI models, China is years ahead in military integration — the dimension that ultimately matters for the [AI military race](/themes/ai-military-race.md).
+
+## Taiwan Encirclement
+
+China is executing a systematic [Taiwan standoff](/conflicts/taiwan-standoff.md) campaign. The coast guard has normalized presence around [Taiwan](/actors/taiwan.md), with operations expanding to the waters east of the island — a new front in the pressure campaign. Eastern encirclement is supplemented by construction at Scarborough Shoal and carrier deployments. Grey-zone tactics include navy patrols, drone flights, and coast guard harassment. Beijing pairs coercion with co-optation through the Straits Forum, economic inducements, and united-front messaging.
+
+## Central Asia
+
+China is the largest investor in Central Asia, with 90% of its FDI concentrated in [Kazakhstan](/actors/kazakhstan.md), [Uzbekistan](/actors/uzbekistan.md), and Turkmenistan. The investment pattern is shifting from infrastructure projects to manufacturing relocation and mineral extraction — a transition that deepens structural dependency rather than merely building roads and pipelines.
+
+## Structural Limits
+
+China's growth model is just as flawed as America's. It is impossible to grow forever on a finite planet, and China's energy-intensive, export-driven model faces the same thermodynamic constraints as any other industrial civilization.
+
+# Analysis
+
+China's strategic position is defined by coordinated action across domains where the US struggles to maintain coherence: AI military integration, maritime grey-zone operations, and resource investment in Central Asia. The DragonBear axis provides a force multiplier, allowing Beijing and Moscow to apply synchronized pressure on the Western coalition. However, China's growth model faces inherent limits that constrain its long-term trajectory.
+
+# Citations
+
+[1] The Honest Sorcerer, "The Big Picture" — https://thehonestsorcerer.substack.com/p/the-big-picture
+
+[2] The Cipher Brief, "The AI Race Won't Be Won by the Best Model, But by the Fastest Military" — https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military
+
+[3] Velina Tchakarova, "Taiwan Encirclement" — https://substack.com/@velinatchakarova/p-203793388
+
+[4] Geopolitical Futures, "What Investments Say About Central Asia" — https://geopoliticalfutures.com/what-investments-say-about-central-asia/
+
+[5] Velina Tchakarova, "Ceasefire in Iran" — https://substack.com/@velinatchakarova/p-204418261

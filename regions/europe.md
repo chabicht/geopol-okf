@@ -1,0 +1,36 @@
+---
+type: Region
+title: Europe
+description: Traditional US alliance architecture under NATO; EU economic bloc facing Russian hybrid warfare and shifting US priorities.
+tags: [europe, military, nato, energy]
+status: ongoing
+timestamp: 2026-07-02T00:00:00Z
+---
+
+# Background
+
+Europe has been anchored by the US-led NATO alliance architecture since 1949 and the EU economic bloc since the 1990s. This dual framework provided security and prosperity under an American security guarantee. The [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) shattered the assumption that large-scale conventional conflict on the continent was obsolete, while shifting US priorities are forcing Europe to confront the possibility of providing its own conventional defense.
+
+# Current Situation
+
+- [Germany](/actors/germany.md) published its first military strategy; it reads more as analysis than operational instructions, reflecting the early stage of strategic recalibration.
+- The Bundeswehr is focused on the Russia threat, with recognition that Europe must provide its own conventional defense.
+- Germany's stated timeline: defend by 2029, full capabilities by 2035, strongest army by 2039.
+- EU gas storage stood at approximately 46% at the end of June, reflecting continued energy vulnerability.
+- Britain, [France](/actors/france.md), and [Germany](/actors/germany.md) issued a joint statement on Taiwan, extending European deterrence rhetoric into the Pacific.
+- [Russia](/actors/russia.md) is conducting cognitive strikes targeting European nations, including [France](/actors/france.md), [Germany](/actors/germany.md), and Armenia. See [Cognitive Warfare](/themes/cognitive-warfare.md) and the [Paris pig-head attack](/events/paris-pig-head-attack.md).
+- The Ukraine war continues to strain European resources; Russia's advance has slowed, and Ukrainian strikes are reaching deep into Russian territory. See [Ukraine](/actors/ukraine.md).
+
+# Key Dynamics
+
+- **US shifting priorities** — The US is redirecting attention away from Europe toward the Indo-Pacific and the Middle East. Germany is stepping up but is unable to fulfill NATO obligations in the near term, creating a capability gap.
+- **NATO spending trajectory** — A 5% GDP spending target by 2035 has been set; Poland, the Baltics, Denmark, and Finland are already moving toward it, while larger economies lag. See [NATO](/actors/nato.md) and [EU](/actors/eu.md).
+- **Russian hybrid warfare** — Russia operates below the threshold of armed conflict through cognitive strikes, sabotage, and influence operations, exploiting the gap between peace and war. See [Belarus](/actors/belarus.md) for related actor dynamics.
+- **Enlargement pressures** — Ukraine, Moldova, and the Western Balkans represent enlargement questions that strain both NATO and EU institutional capacity.
+
+# Citations
+
+[1] [War on the Rocks — Germany's new military strategy](https://warontherocks.com/a-claim-to-lead-a-hesitation-to-act-germanys-new-military-strategy/)
+[2] [Velinatchakarova — European security dynamics](https://substack.com/@velinatchakarova/p-203793388)
+[3] [OCCRP — leaked documents reveal Russian cognitive strikes](https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris)
+[4] [Velinatchakarova — broader geopolitical context](https://substack.com/@velinatchakarova/p-204418261)
