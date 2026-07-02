@@ -30,6 +30,7 @@
 * **Update**: Major rewrite of [Energy and Resources](/themes/energy-and-resources.md) — added peak everything, diesel crisis, solar limits, oil export decline, Mordor Economy framework, copper/silver depletion data, renewable supply chain vulnerability, and expanded citations from 3 to 15.
 * **Update**: Updated [Global System Rupture](/themes/global-system-rupture.md) with Fourth Systemic Crisis framing (Tchakarova/Felsberger/Saurugg PDF) and polycrisis analysis.
 * **Update**: Updated [The Honest Sorcerer](/actors/the-honest-sorcerer.md) with 5 new frameworks (Mordor Economy, Peak Everything, Empty Quarter, Zero State, Polycrisis) and expanded sources from 1 to 30.
+* **Correction**: Updated [The Honest Sorcerer](/actors/the-honest-sorcerer.md) — de-anonymized. The author is Balázs Matics, as named in the Nate Hagens interview [30]. Background section updated accordingly.
 * **Update**: Updated [Phillips O'Brien](/actors/phillips-obrien.md) with US capabilities rot, aircraft losses, ranged war doctrine, and Putin's catastrophe analysis. Expanded sources from 5 to 11.
 * **Update**: Updated [Velina Tchakarova](/actors/velina-tchakarova.md) with simultaneity theory and 4 new sources. Expanded sources from 6 to 10.
 * **Update**: Updated [Robert Pape](/actors/robert-pape.md) with controlled instability doctrine and 1 new source.

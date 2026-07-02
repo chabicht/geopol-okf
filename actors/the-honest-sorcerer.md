@@ -9,7 +9,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-The Honest Sorcerer is an anonymous energy-centered analyst whose worldview rests on a single foundational claim: energy is (almost) everything. The analytical framework rejects GDP as the primary measure of power, substituting power in the physics sense — the rate of energy transfer. This reframing has cascading implications: it changes how one assesses the relative strength of [China](/actors/china.md) and the [United States](/actors/united-states.md), how one evaluates the renewable energy transition, and how one thinks about the material limits of economic growth.
+The Honest Sorcerer is an energy-centered analyst, writing under the pen name "The Honest Sorcerer" (Balázs Matics, as revealed in the [Nate Hagens interview](https://www.youtube.com/watch?v=JRrOaFaQ82U) [30]), whose worldview rests on a single foundational claim: energy is (almost) everything. The analytical framework rejects GDP as the primary measure of power, substituting power in the physics sense — the rate of energy transfer. This reframing has cascading implications: it changes how one assesses the relative strength of [China](/actors/china.md) and the [United States](/actors/united-states.md), how one evaluates the renewable energy transition, and how one thinks about the material limits of economic growth.
 
 # Key Frameworks
 
