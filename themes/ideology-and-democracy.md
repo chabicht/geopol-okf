@@ -6,6 +6,7 @@ tags:
   - ideology
   - elections
   - democracy
+  - oligarchy
 status: ongoing
 timestamp: 2026-07-02T00:00:00Z
 ---
@@ -53,9 +54,25 @@ Polovynka extends the critique to theory itself: communism is bad even in theory
 
 However, the wave carries instability. Disputed elections, institutional weakness, and leftist strongholds in Mexico and Brazil mean that the realignment is not uniform or settled. The conversion of ideological shift into security bloc architecture depends on whether right-leaning governments can consolidate institutional control — and the historical record of [Latin America](/regions/latin-america.md) suggests that this is not guaranteed [4].
 
+## SCOTUS and Democratic Backsliding
+
+[Paul Krugman](/actors/paul-krugman.md) argues that the [Slaughter SCOTUS ruling](/events/slaughter-scotus-ruling.md) represents a judicial milestone in democratic backsliding — the Supreme Court overturning 90 years of precedent to grant [Trump](/actors/trump.md) dictatorial power over regulatory agencies. The ruling is not about the presidency in general but about *this* president specifically: the Court is "utterly partisan," and Krugman expects it to strip discretionary power from any future Democratic president the moment one takes office [5].
+
+The core of Krugman's analysis is that the ruling is fundamentally about enabling corruption. The Federal Reserve carve-out exposes the Court's class politics — monetary policy independence is preserved not on constitutional grounds but because the Justices feared market reaction, leaving "the little people" exposed to the destruction of regulatory protections while large portfolios are shielded. The ruling eliminates government by professional civil servants in favor of "government by henchmen and lackeys" [5].
+
+## Social Democracy vs Socialism
+
+Krugman draws a sharp distinction between social democracy — a market-based system with progressive taxation, safety nets, and regulation — and actual socialism (government ownership of the means of production). He argues that very few Americans, including self-described "democratic socialists," are actually socialists. America already has extensive social-democratic policies (Social Security, Medicare, Medicaid, progressive taxation, minimum wage) that are immensely popular, even among Republicans [6].
+
+The appearance of rising socialist sentiment is largely an artifact of right-wing propagandists labeling mainstream social democratic policies as "socialist." This conflation causes some voters to reclaim the label — "Well, if that's socialism, I guess I'm OK with socialism." The real groundswell is not a lurch to the left but dismay over an economy that increasingly favors a tiny group of billionaires and a political system that works on their behalf. The important radical movement in America is not left-wing socialism but right-wing radicals who want to dismantle both social democracy and democracy itself [6].
+
 # Citations
 
 [1] https://archive.ph/8FvBT
 [2] https://www.campustimes.org/2025/09/15/why-communism-doesnt-work/
 [3] https://medium.com/@navpil/why-communism-is-a-fundamentally-terrible-ideology-an-analysis-of-the-manifesto-of-the-communist-4fd7d2f9187a
 [4] https://substack.com/@velinatchakarova/p-203689435
+
+[5] [A Verdict on (the) Slaughter](https://paulkrugman.substack.com/p/a-verdict-on-the-slaughter)
+
+[6] [There Are Very Few Socialists in America](https://paulkrugman.substack.com/p/there-are-very-few-socialists-in)

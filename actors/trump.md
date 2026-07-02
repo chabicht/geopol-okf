@@ -2,7 +2,7 @@
 type: Actor
 title: Donald Trump
 description: 45th and 47th President of the United States; central decision-maker in the 2026 US-Iran war and US-Russia policy.
-tags: [leader, military, trade, latin-america]
+tags: [leader, military, trade, latin-america, oligarchy]
 status: ongoing
 timestamp: 2026-07-02T00:00:00Z
 ---
@@ -35,6 +35,12 @@ Trump imposed tariffs on India while simultaneously claiming credit for "stoppin
 
 Trump backs conservative governments in Latin America and is associated with the "Shield of the Americas" grouping described by Tchakarova, a regional security architecture that aligns US policy with right-leaning governments across the hemisphere. [5]
 
+## Slaughter Ruling and Dictatorial Regulatory Power
+
+The Roberts Supreme Court's [Slaughter ruling](/events/slaughter-scotus-ruling.md) overturned 90 years of precedent to grant Trump effectively unlimited power over regulatory agencies created by Congress. He can now direct agencies to do the opposite of their mandate, fire civil servants who resist, or gut them entirely. Krugman frames this as "dictatorial power" — not over the presidency in general, but over Trump specifically, given the Court's partisanship. [6]
+
+The ruling is fundamentally about enabling corruption. Trump's firing decisions have been driven by personal retribution, prejudice, and greed. Jeff Yass, a billionaire, purchased a complete reversal of Trump's position on TikTok. Crypto policy flipped from denunciation to embrace once it became a channel for billions in personal enrichment. The Court has removed the legal restraints on the favor-granting machinery. [6]
+
 # Analysis
 
 ### The Leader-as-Decision-Maker Thesis
@@ -45,6 +51,10 @@ O'Brien's treatment of Trump is the clearest empirical case for the proposition 
 
 Trump's second term has accelerated a pattern visible in his first: alliances are treated as bilateral deals, not as institutional commitments. Skipping allies on Iran, tariffing India while courting Pakistan's military, and indulging Putin all reflect the same transactional logic. The systemic effect is a slow unwinding of the post-1945 alliance scaffolding.
 
+### Corruption as Governing Logic
+
+Krugman argues that corruption is not a side-effect of Trump's governance but its central dynamic. The [Slaughter ruling](/events/slaughter-scotus-ruling.md) judicially enabled this: regulatory agencies can now be weaponized to reward cronies and punish enemies. The pattern is consistent — policy reversals track personal enrichment, not principle. Civil servants are replaced by "henchmen and lackeys" who will execute whatever Trump wants. [6]
+
 # Citations
 
 [1] [Early Lessons From The US-Iran War](https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war)
@@ -52,3 +62,5 @@ Trump's second term has accelerated a pattern visible in his first: alliances ar
 [3] [Weekend Update 191 — It Is Not Just…](https://phillipspobrien.substack.com/p/weekend-update-191-it-is-not-just)
 [4] [Why India Will Stick With America](https://warontherocks.com/why-india-will-stick-with-america/)
 [5] [Velin Tchakarova — Shield of the Americas](https://substack.com/@velinatchakarova/p-203689435)
+
+[6] [A Verdict on (the) Slaughter](https://paulkrugman.substack.com/p/a-verdict-on-the-slaughter)

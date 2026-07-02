@@ -42,3 +42,4 @@
 * [Geopolitical Futures](geopolitical-futures.md) - Structured geopolitical analysis with maps, structural drivers
 * [The Honest Sorcerer](the-honest-sorcerer.md) - Energy throughput as true power, resource depletion, no next economy
 * [The Cipher Brief](the-cipher-brief.md) - National security analysis, AI military race, intelligence modernization
+* [Paul Krugman](paul-krugman.md) - Oligarchic capture of US government, social democracy vs socialism, corruption as through-line of Trump 2.0

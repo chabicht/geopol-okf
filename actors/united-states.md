@@ -2,7 +2,7 @@
 type: Actor
 title: United States
 description: The United States as a geopolitical actor — superpower facing military overstretch, diplomatic erosion, and an unresolved AI military integration gap
-tags: [country, military, ai, nuclear, energy, intelligence, middle-east, indo-pacific, latin-america, europe]
+tags: [country, military, ai, nuclear, energy, intelligence, middle-east, indo-pacific, latin-america, europe, oligarchy]
 status: ongoing
 timestamp: 2026-07-02T00:00:00Z
 ---
@@ -35,6 +35,10 @@ The Director of National Intelligence faces a set of strategic decisions: refocu
 
 In Latin America, the US is attempting to reconstruct a hemispheric bloc through the Shield of the Americas framework, seeking to consolidate influence in its immediate neighborhood even as its global reach contracts.
 
+## Domestic Institutional Degradation
+
+The [Slaughter SCOTUS ruling](/events/slaughter-scotus-ruling.md) stripped regulatory agencies of their independence, allowing [Trump](/actors/trump.md) to direct, gut, or repurpose any agency created by Congress. [Paul Krugman](/actors/paul-krugman.md) frames this as judicial enablement of oligarchic capture: civil servants replaced by loyalists, regulatory outcomes determined by who enriches the president rather than by statutory mandate. Corporate profits as a share of national income keep rising, reflecting increased monopoly power and the destruction of workers' rights — trends the ruling will accelerate. [7]
+
 # Analysis
 
 The United States is experiencing a compounding crisis: military overstretch, diplomatic isolation, domestic political dysfunction, and a technology race where its lead is narrow and poorly leveraged. The [global system rupture](/themes/global-system-rupture.md) is not merely happening to the US — it is being accelerated by American decisions that diverge from strategic logic. The [energy and resource](/themes/energy-and-resources.md) foundation of US power remains robust in absolute terms but is diminishing relative to rivals, particularly China, which uses nearly twice as much energy and houses four times the population.
@@ -52,3 +56,5 @@ The United States is experiencing a compounding crisis: military overstretch, di
 [5] Phillips P. O'Brien, "Weekend Update 191" — https://phillipspobrien.substack.com/p/weekend-update-191-it-is-not-just
 
 [6] Velina Tchakarova, "Shield of the Americas" — https://substack.com/@velinatchakarova/p-203689435
+
+[7] Paul Krugman, "A Verdict on (the) Slaughter" — https://paulkrugman.substack.com/p/a-verdict-on-the-slaughter
