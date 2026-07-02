@@ -76,11 +76,11 @@ sense for the knowledge being captured.
 
 ```
 path/to/bundle/
-├── index.md                      # Optional. Directory listing for progressive disclosure.
+├── README.md                     # Optional. Directory listing for progressive disclosure.
 ├── log.md                        # Optional. Chronological history of updates.
 ├── <concept>.md                  # A concept at the bundle root.
 └── <subdirectory>/               # Subdirectories organize concepts into groups.
-    ├── index.md
+    ├── README.md
     ├── <concept>.md
     └── <subdirectory>/
         └── …
@@ -99,6 +99,7 @@ hierarchy and MUST NOT be used for concept documents:
 
 | Filename     | Purpose                                                |
 |--------------|--------------------------------------------------------|
+| `README.md`  | Directory listing. See §6. Accepted alias for `index.md`. |
 | `index.md`   | Directory listing. See §6.                             |
 | `log.md`     | Update history. See §7.                                |
 
@@ -150,7 +151,7 @@ timestamp: <ISO 8601 datetime>     # Optional last-modified time
 - `title` — Human-readable display name. If omitted, consumers MAY
   derive a title from the filename.
 - `description` — A single sentence summarizing the concept. Used by
-  `index.md` generators, search snippets, and previews.
+  `README.md`/`index.md` generators, search snippets, and previews.
 - `resource` — A URI that uniquely identifies the underlying asset the
   concept describes. Absent for concepts that describe abstract ideas
   rather than physical resources.
@@ -270,10 +271,12 @@ not-yet-written knowledge.
 
 ## 6. Index Files
 
-An `index.md` file MAY appear in any directory, including the bundle
-root. It enumerates the directory's contents to support **progressive
-disclosure** — letting a human or agent see what is available before
-opening individual documents.
+A `README.md` or `index.md` file MAY appear in any directory, including
+the bundle root. It enumerates the directory's contents to support
+**progressive disclosure** — letting a human or agent see what is
+available before opening individual documents. `README.md` is the
+recommended filename, as platforms such as GitHub automatically render it
+when browsing a directory; `index.md` is accepted as an alias.
 
 Index files contain no frontmatter. The body uses one or more sections,
 each grouping concepts under a heading:
@@ -290,7 +293,7 @@ each grouping concepts under a heading:
 ```
 
 Entries SHOULD include the description from the linked concept's
-frontmatter. Producers MAY generate `index.md` automatically; consumers
+frontmatter. Producers MAY generate `README.md` automatically; consumers
 MAY synthesize one on the fly when none is present.
 
 ---
@@ -310,7 +313,7 @@ date-grouped entries, newest first:
 
 ## 2026-05-15
 * **Initialization**: Created foundational directory structure.
-* **Update**: Added progressive-disclosure guidelines to the root [index](/index.md).
+* **Update**: Added progressive-disclosure guidelines to the root [index](/README.md).
 ```
 
 Date headings MUST use ISO 8601 `YYYY-MM-DD` form. Log entries are
@@ -345,8 +348,8 @@ A bundle is **conformant** with OKF v0.1 if:
 1. Every non-reserved `.md` file in the tree contains a parseable YAML
    frontmatter block.
 2. Every frontmatter block contains a non-empty `type` field.
-3. Every reserved filename (`index.md`, `log.md`) follows the structure
-   described in §6 and §7 respectively when present.
+3. Every reserved filename (`README.md`, `index.md`, `log.md`) follows
+   the structure described in §6 and §7 respectively when present.
 
 Consumers SHOULD treat all other constraints as soft guidance. In
 particular, consumers MUST NOT reject a bundle because of:
@@ -355,7 +358,7 @@ particular, consumers MUST NOT reject a bundle because of:
 - Unknown `type` values.
 - Unknown additional frontmatter keys.
 - Broken cross-links.
-- Missing `index.md` files.
+- Missing `README.md` or `index.md` files.
 
 This permissive consumption model is intentional: OKF is meant to
 remain useful as bundles grow, get refactored, and are partially
@@ -390,10 +393,10 @@ versioned in the form `<major>.<minor>`:
   fields, changing reserved filenames).
 
 Bundles MAY declare the OKF version they target by including
-`okf_version: "0.1"` in a bundle-root `index.md` frontmatter block (the
-only place frontmatter is permitted in an `index.md`). Consumers that
-do not understand the declared version SHOULD attempt best-effort
-consumption rather than refusing the bundle.
+`okf_version: "0.1"` in a bundle-root `README.md` (or `index.md`)
+frontmatter block (the only place frontmatter is permitted in an index
+file). Consumers that do not understand the declared version SHOULD
+attempt best-effort consumption rather than refusing the bundle.
 
 ---
 
@@ -401,12 +404,12 @@ consumption rather than refusing the bundle.
 
 ```
 my_bundle/
-├── index.md
+├── README.md
 ├── datasets/
-│   ├── index.md
+│   ├── README.md
 │   └── sales.md
 └── tables/
-    ├── index.md
+    ├── README.md
     ├── orders.md
     └── customers.md
 ```

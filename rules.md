@@ -16,7 +16,10 @@ these conventions.
 - **Sources**: The `sources/` directory contains raw source material (clippings,
   articles, essays). It is NOT part of the OKF bundle. Concepts cite sources by
   their original URL, not by local file path.
-- **OKF version**: Declared in root `index.md` as `okf_version: "0.1"`.
+- **OKF version**: Declared in root `README.md` as `okf_version: "0.1"`.
+- **Index files**: Named `README.md` (not `index.md`) so that GitHub
+  automatically renders them when browsing a directory. This is a
+  bundle-specific deviation from the OKF spec's `index.md` convention.
 
 ---
 
@@ -24,7 +27,7 @@ these conventions.
 
 ```
 geopol-okf/
-├── index.md              # Bundle root index (has frontmatter with okf_version)
+├── README.md             # Bundle root index (has frontmatter with okf_version)
 ├── log.md                # Bundle update log
 ├── rules.md              # This file (governance, not an OKF concept)
 ├── okf.md                # The OKF specification (reference, not a concept)
@@ -237,9 +240,14 @@ output, not as concept tags.
 
 ## 12. Index Files
 
-Each top-level directory has an `index.md` with no frontmatter (except the
-root `index.md`, which has `okf_version`). Index files list all concepts in
+Each top-level directory has a `README.md` with no frontmatter (except the
+root `README.md`, which has `okf_version`). Index files list all concepts in
 the directory grouped by section, with one-line descriptions.
+
+> **Note:** The OKF spec uses `index.md` for directory listings. This bundle
+> uses `README.md` instead so that GitHub automatically renders the listing
+> when browsing a directory. The content and structure are identical; only
+> the filename differs.
 
 ---
 
