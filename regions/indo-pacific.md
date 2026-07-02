@@ -22,6 +22,9 @@ The region's geography is defined by island chains, straits, and exclusive econo
 - [Japan](/actors/japan.md) PM Takaichi suggested Japan would consider military involvement if China moves against Taiwan.
 - [India](/actors/india.md) is sticking with the US despite Trump-era friction; China is the overriding strategic concern driving this alignment.
 - Export-control friction continues with Japan over semiconductor restrictions.
+- [Australia](/actors/australia.md) illustrates governance dysfunction through self-reinforcing feedback loops: a "shaming loop" suppresses dissent while a "compliance loop" selects for conformity, progressively eliminating institutional competence. Australia's resource-export dependency (iron ore, coal, LNG, bauxite) makes it vulnerable to chokepoint disruption [4].
+- McKinsey's 2026 trade geometry analysis shows US-China trade fell approximately 30%, with ASEAN, Brazil, and [India](/actors/india.md) absorbing redirected flows. AI-related trade drove one-third of global trade growth [5].
+- The [RIC revival](/events/ric-revival-2026.md) (Russia-India-China trilateral) and India's Starlink freeze signal that the Indo-Pacific is increasingly contested through diplomatic and technological vectors, not just military posture [6].
 
 # Key Dynamics
 
@@ -35,3 +38,9 @@ The region's geography is defined by island chains, straits, and exclusive econo
 [1] [Velinatchakarova — Indo-Pacific grey-zone analysis](https://substack.com/@velinatchakarova/p-203793388)
 [2] [War on the Rocks — why India will stick with America](https://warontherocks.com/why-india-will-stick-with-america/)
 [3] [Velinatchakarova — broader geopolitical context](https://substack.com/@velinatchakarova/p-204418261)
+
+[4] [You Cannot Unsee the Loops](https://substack.com/@ctindale/p-199283136)
+
+[5] [Geopolitics and the geometry of global trade 2026 update](https://www.mckinsey.com/mgi/our-research/geopolitics-and-the-geometry-of-global-trade-2026-update)
+
+[6] [The RIC (China-India-Russia) Revival and India's Starlink Freeze](https://substack.com/@velinatchakarova/p-201566415)

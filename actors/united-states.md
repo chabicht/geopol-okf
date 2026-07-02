@@ -19,7 +19,13 @@ The US-led international order is under simultaneous pressure from multiple thea
 
 The US-Iran War revealed serious deficiencies in American military planning and execution. The US failed to protect key facilities, could not achieve its strategic objectives, and demonstrated poor operational planning throughout the campaign. Critically, there was no rally-round-the-flag effect — American society remained locked in a partisan death match, denying the wartime president the domestic political consolidation that typically accompanies foreign military operations.
 
-[Trump](/actors/trump.md) made a personal decision to attack Iran that was not grounded in national interest; there was no meaningful political pressure compelling the strike. Despite occasional critical rhetoric, Trump has continued policies that effectively assist Putin, raising questions about the alignment of executive action with declared strategic priorities.
+[Phillips O'Brien](/actors/phillips-obrien.md) catalogued the quantitative degradation: 17 advanced aircraft lost or damaged, billions in equipment damage, bases hit extensively, munitions burned through decades of production in 6 weeks. Iranian drones penetrating US defenses (6 soldiers killed in Kuwait), F-15E friendly-fire shootdowns, destruction of a Fifth Fleet radar in Bahrain by a $30K drone. A CSIS report confirmed munitions depletion. The Trump administration's corruption has "percolated to the military" [2][8][9].
+
+[Trump](/actors/trump.md) made a personal decision to attack Iran that was not grounded in national interest; there was no meaningful political pressure compelling the strike. Despite occasional critical rhetoric, Trump has continued policies that effectively assist Putin, raising questions about the alignment of executive action with declared strategic priorities. By May 2026, O'Brien reported Trump was "desperate to exit" the war but unable to, with no good military options [10].
+
+## The Myth of Energy Independence
+
+[The Honest Sorcerer](/actors/the-honest-sorcerer.md) debunks the "energy independence" narrative: the US is a net crude oil importer. NGLs are not oil and cannot make diesel or jet fuel. US refineries need heavy crude from Canada, Venezuela, and Saudi Arabia. During the Iran war, an armada of 121 empty tankers headed to the US to export refined fuels, draining the [SPR](/events/spr-depletion-crisis.md) to approximately 349 million barrels — approaching 1983 lows. Post-peak shale is evident from declining rig counts [11].
 
 ## Diplomatic Erosion
 
@@ -58,3 +64,11 @@ The United States is experiencing a compounding crisis: military overstretch, di
 [6] Velina Tchakarova, "Shield of the Americas" — https://substack.com/@velinatchakarova/p-203689435
 
 [7] Paul Krugman, "A Verdict on (the) Slaughter" — https://paulkrugman.substack.com/p/a-verdict-on-the-slaughter
+
+[8] [U.S. Capabilities Are Showing Signs of Rot](https://archive.ph/JZmE6)
+
+[9] [US Losses Fighting Iran: Signs of Degradation](https://phillipspobrien.substack.com/p/us-losses-fighting-iran-signs-of)
+
+[10] [Midweek Update 12: We Are Witnessing US Decline In Real Time](https://phillipspobrien.substack.com/p/midweek-update-12-we-are-witnessing)
+
+[11] [The Myth of American Energy Independence](https://thehonestsorcerer.substack.com/p/the-myth-of-american-energy-independence)

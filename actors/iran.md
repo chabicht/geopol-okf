@@ -11,6 +11,10 @@ timestamp: 2026-07-02T00:00:00Z
 
 Iran has long been a central actor in Middle Eastern geopolitics, leveraging its geographic position, asymmetric military capabilities, and network of regional proxies to project power far beyond its conventional means. The [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) represented the most direct military confrontation between Iran and a US-led coalition, culminating in a ceasefire that left the underlying balance of power fundamentally unresolved.
 
+## Pre-War Internal Dynamics
+
+In the weeks before the February 28 war, [Geopolitical Futures](/actors/geopolitical-futures.md) assessed that Iran's regime was headed for a "hard landing." The 47th anniversary of the 1979 revolution exposed elite factionalism, the erosion of the IRGC, and the rise of pragmatists seeking a deal with the Trump administration. The internal crisis created both an opportunity for diplomatic resolution and a risk that military action would externalize the pressure. The war launched before the internal dynamics could play out [1].
+
 # Current Situation
 
 ## Maximum Leverage
@@ -22,6 +26,10 @@ Iran entered the post-war period in a position of maximum leverage. Far from cap
 Iran retained effective leverage over the Strait of Hormuz throughout the conflict and its aftermath. Tehran controls who passes, who is inspected, who is escorted, and who is charged. The strait remains open not because the US enforced freedom of navigation, but because Iran permits it. This calibrated control gives Iran a persistent tool for escalation or de-escalation on its own timeline.
 
 The next phase of the conflict may involve commercial shipping attacks. The IRGC has already attacked the Singapore-flagged vessel Ever Lovely, demonstrating drone warfare capabilities and a willingness to extend the battlefield to maritime commerce.
+
+## Hormuz Toll System
+
+Iran has proposed a permanent [toll system](/events/hormuz-toll-system.md) for the Strait of Hormuz, negotiated through [Oman](/actors/oman.md). The system would charge approximately $2 million per tanker transit, payable in rials — a structure that both generates revenue and internationalizes the rial. [Trump](/actors/trump.md) rejected the plan, but the proposal institutionalizes Iran's chokepoint leverage as a permanent feature of global energy governance [2].
 
 ## Ceasefire as Axis Course Correction
 
@@ -37,12 +45,16 @@ Iran's post-war position demonstrates the limits of conventional military power 
 
 # Citations
 
-[1] Robert Pape, "Uncertain Deal — and Iran Certainly" — https://escalationtrap.substack.com/p/uncertain-dealand-iran-certainly
+[1] [Iran's Regime Is Headed for a Hard Landing](https://geopoliticalfutures.com/irans-regime-is-headed-for-a-hard-landing/)
 
-[2] Velina Tchakarova, "Global System June 2026" — https://substack.com/@velinatchakarova/p-202096137
+[2] [Iran War: A Light At The End of Tunnel](https://thehonestsorcerer.substack.com/p/iran-war-light-at-the-end-of-the)
 
-[3] Robert Pape, "Prediction Confirmed: The Next Phase" — https://escalationtrap.substack.com/p/prediction-confirmed-the-next-phase
+[3] Robert Pape, "Uncertain Deal — and Iran Certainly" — https://escalationtrap.substack.com/p/uncertain-dealand-iran-certainly
 
-[4] Robert Pape, "Situation Report Special Edition" — https://escalationtrap.substack.com/p/situation-report-special-edition
+[4] Velina Tchakarova, "Global System June 2026" — https://substack.com/@velinatchakarova/p-202096137
 
-[5] Velina Tchakarova, "Ceasefire in Iran" — https://substack.com/@velinatchakarova/p-204418261
+[5] Robert Pape, "Prediction Confirmed: The Next Phase" — https://escalationtrap.substack.com/p/prediction-confirmed-the-next-phase
+
+[6] Robert Pape, "Situation Report Special Edition" — https://escalationtrap.substack.com/p/situation-report-special-edition
+
+[7] Velina Tchakarova, "Ceasefire in Iran" — https://substack.com/@velinatchakarova/p-204418261

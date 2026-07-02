@@ -43,6 +43,26 @@ O'Brien provides detailed tracking of the [Russia-Ukraine War](/conflicts/russia
 
 O'Brien extracted three key analytical lessons from the [US-Iran War](/conflicts/us-iran-war-2026.md): the failure of operational planning, the absence of domestic political consolidation, and the acceleration of diplomatic erosion. Each lesson connects back to his framework — leader choices, structural power, and the limits of precision warfare.
 
+In detailed follow-ups, O'Brien catalogued the quantitative degradation:
+
+- **US capabilities rot**: Iranian drones penetrating US defenses (6 soldiers killed in Kuwait), F-15E friendly-fire shootdowns, destruction of a Fifth Fleet radar in Bahrain by a $30K drone. He compared the dynamic to Roman imperial decline [6].
+- **Aircraft losses**: 17 advanced aircraft lost or damaged (fighters, AWACS, SF helicopters), billions in equipment damage, bases hit extensively. A CSIS report confirmed munitions depletion — decades of production burned through in 6 weeks. The Trump administration's corruption has "percolated to the military" [7].
+- **US decline in real time**: Trump desperate to exit but unable to, no good military options, the emerging Iran deal worse than the JCPOA. China backing Iran while treating Taiwan as a "chip." Trump calling on Arab states to join the Abraham Accords to appease Netanyahu and GOP hardliners [8].
+
+## Ranged War Doctrine
+
+O'Brien provides a primer on long-range vs. medium-range strike in the Russia-Ukraine war:
+
+- **Long-range strike** = strategic bombing (oil refineries, weapons production, industrial base). The FP-5 Flamingo missile striking Titan-Barrikady in Volgograd represents this category.
+- **Medium-range strike** = logistics disruption (supply lines, rail hubs, ammunition depots). This is where most tactical effect is achieved.
+- The distinction matters because it reveals what each side wants and is capable of attacking — a diagnostic tool for understanding war aims and capabilities [9][10].
+
+O'Brien argues the ranged war is still in its early stages (comparable to mid-1943 in WWII), with both sides capable of significantly increasing production. Ukrainian long-range strikes on Russian oil refineries vs. medium-range strikes on logistics reveal the maturation of Ukraine's operational doctrine [9].
+
+## Putin's Catastrophe
+
+O'Brien's analysis of Ukraine's May 2026 [drone strike on Moscow](/events/moscow-drone-strike.md) compares it to Japan's loss of the Marianas in WWII — the moment when the propaganda narrative collapsed because the war reached the homeland. With Russia's 1M+ cumulative casualties and compromised Moscow air defenses, Putin can no longer hide the war's cost from the Russian public [11].
+
 # Sources in Bundle
 
 - "Early Lessons From The US-Iran War" [1]
@@ -50,6 +70,12 @@ O'Brien extracted three key analytical lessons from the [US-Iran War](/conflicts
 - "Weekend Update 190 Long-Range Reveal" [3]
 - "Watch Belarus, Indeed" [4]
 - "Weekend Update 191 It Is Not Just Oil Refineries" [5]
+- "U.S. Capabilities Are Showing Signs of Rot" [6]
+- "US Losses Fighting Iran: Signs of Degradation" [7]
+- "Midweek Update 12: We Are Witnessing US Decline In Real Time" [8]
+- "The Ranged War Is Still In An Early Stages" [9]
+- "Weekend Update 186: A Primer On Long vs Medium-Range Strike" [10]
+- "Putin Can No Longer Hide His Catastrophe" [11]
 
 # Citations
 
@@ -62,3 +88,15 @@ O'Brien extracted three key analytical lessons from the [US-Iran War](/conflicts
 [4] [Watch Belarus, Indeed](https://phillipspobrien.substack.com/p/watch-belarus-indeed)
 
 [5] [Weekend Update 191 It Is Not Just Oil Refineries](https://phillipspobrien.substack.com/p/weekend-update-191-it-is-not-just)
+
+[6] [U.S. Capabilities Are Showing Signs of Rot](https://archive.ph/JZmE6)
+
+[7] [US Losses Fighting Iran: Signs of Degradation](https://phillipspobrien.substack.com/p/us-losses-fighting-iran-signs-of)
+
+[8] [Midweek Update 12: We Are Witnessing US Decline In Real Time](https://phillipspobrien.substack.com/p/midweek-update-12-we-are-witnessing)
+
+[9] [The Ranged War Is Still In An Early Stages](https://phillipspobrien.substack.com/p/the-ranged-war-is-still-in-an-early)
+
+[10] [Weekend Update 186: A Primer On The Difference Between Long and Medium-Range Strike](https://phillipspobrien.substack.com/p/weekend-update-186-a-primer-on-the)
+
+[11] [Putin Can No Longer Hide His Catastrophe](https://www.theatlantic.com/ideas/2026/05/putin-lost-control-russia/687269/)

@@ -31,6 +31,12 @@ China is the largest investor in Central Asia, with 90% of its FDI concentrated 
 
 China's growth model is just as flawed as America's. It is impossible to grow forever on a finite planet, and China's energy-intensive, export-driven model faces the same thermodynamic constraints as any other industrial civilization.
 
+[The Honest Sorcerer](/actors/the-honest-sorcerer.md) argues that China's economic miracle has ended. Despite still growing, something is fundamentally wrong with the model, which has more in common with Western capitalist economies than most admit: ballooning debt levels, slowing growth, falling birth rates, saturated markets, environmental degradation, and resource depletion. China is not a communist country — it is a state-led capitalist economy suffering from the same ills as its American counterpart [6].
+
+## CMC Purge
+
+In February 2026, Xi Jinping purged the Central Military Commission, removing Zhang Youxia and Liu Zhenli — the only CMC members with combat experience. The purge was driven by disagreement over the [Taiwan](/conflicts/taiwan-standoff.md) timeline: Xi insists on a 2027 invasion capability, while Zhang anticipated full joint operational capability closer to 2035. The purge damages command cohesion and reduces the likelihood of a near-term Taiwan invasion, while increasing the risk of miscalculation by new commanders eager to demonstrate loyalty. See [CMC Purge of 2026](/events/cmc-purge-2026.md) [7].
+
 # Analysis
 
 China's strategic position is defined by coordinated action across domains where the US struggles to maintain coherence: AI military integration, maritime grey-zone operations, and resource investment in Central Asia. The DragonBear axis provides a force multiplier, allowing Beijing and Moscow to apply synchronized pressure on the Western coalition. However, China's growth model faces inherent limits that constrain its long-term trajectory.
@@ -46,3 +52,7 @@ China's strategic position is defined by coordinated action across domains where
 [4] Geopolitical Futures, "What Investments Say About Central Asia" — https://geopoliticalfutures.com/what-investments-say-about-central-asia/
 
 [5] Velina Tchakarova, "Ceasefire in Iran" — https://substack.com/@velinatchakarova/p-204418261
+
+[6] [China: The End of an Economic Miracle](https://thehonestsorcerer.substack.com/p/china-the-end-of-an-economic-miracle)
+
+[7] [Xi Drains the Central Military Commission](https://geopoliticalfutures.com/xi-drains-the-central-military-commission/)

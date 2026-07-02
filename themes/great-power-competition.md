@@ -53,6 +53,10 @@ Kiesewetter's CRINK alliance framework identifies the cooperative structure: Chi
 
 This is not a rejection of structural analysis but a correction of its overextension. Structural factors — energy balance, alliance architecture, demographic trajectories — set the parameters of competition. But within those parameters, the timing, intensity, and direction of competitive action are determined by leaders whose decision-making cannot be reduced to state interest. The [Cold War 2](/conflicts/cold-war-2.md) is structural in its dimensions but personal in its inflection points [5].
 
+## Spheres of Influence Asymmetry
+
+[Michael Beckley](/actors/michael-beckley.md) argues that the US possesses the only true sphere of influence — asymmetric hegemony in the Western Hemisphere rooted in the Monroe Doctrine and sustained by geographic isolation and overwhelming military dominance. China and Russia cannot consolidate spheres in their own neighborhoods because they are surrounded by states that resist their dominance. The asymmetry is dangerous but creates an opening: as allies rearm and the US leans into its hemispheric advantage, a tougher, more resilient free world is possible. The implication is that declinist narratives extrapolating from specific failures (e.g., the Iran war) miss the structural resilience of the US position [6].
+
 # Citations
 
 [1] https://thehonestsorcerer.substack.com/p/the-big-picture
@@ -60,3 +64,4 @@ This is not a rejection of structural analysis but a correction of its overexten
 [3] https://warontherocks.com/a-claim-to-lead-a-hesitation-to-act-germanys-new-military-strategy/
 [4] https://substack.com/@velinatchakarova/p-203793388
 [5] https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war
+[6] [There Is Only One Sphere of Influence](https://www.foreignaffairs.com/united-states/there-only-one-sphere-influence)

@@ -1,5 +1,36 @@
 # Bundle Update Log
 
+## 2026-07-03
+* **Sourcing**: Incorporated 59 new source documents from Feb–Jun 2026 into the bundle. Deleted 1 duplicate source file.
+* **Creation**: Created 14 new actor concepts: [UAE](/actors/uae.md), [Saudi Arabia](/actors/saudi-arabia.md), [Oman](/actors/oman.md), [Pakistan](/actors/pakistan.md), [Australia](/actors/australia.md), [Ethiopia](/actors/ethiopia.md), [Eritrea](/actors/eritrea.md), [Aurelien](/actors/aurelien.md), [Nate Hagens](/actors/nate-hagens.md), [Michael Beckley](/actors/michael-beckley.md), [Endtropy](/actors/endtropy.md), [Roger Pielke Jr.](/actors/roger-pielke-jr.md), [ctindale](/actors/ctindale.md), [Derek Thompson](/actors/derek-thompson.md), [Marian Tupy](/actors/marian-tupy.md).
+* **Creation**: Created 9 new event concepts: [Hormuz Toll System](/events/hormuz-toll-system.md), [US Naval Blockade of Iran](/events/us-naval-blockade-iran.md), [CMC Purge of 2026](/events/cmc-purge-2026.md), [Moscow Drone Strike](/events/moscow-drone-strike.md), [Saudi-Iran-Pakistan Negotiations](/events/saudi-iran-pakistan-negotiations.md), [SPR Depletion Crisis](/events/spr-depletion-crisis.md), [Germany UN Security Council Defeat](/events/germany-un-security-council-defeat.md), [RIC Revival of 2026](/events/ric-revival-2026.md), [World Adaptation Forum](/events/world-adaptation-forum.md).
+* **Creation**: Created 4 new theme concepts: [Global Depopulation](/themes/global-depopulation.md), [Food and Agriculture](/themes/food-and-agriculture.md), [Monetary System Transition](/themes/monetary-system-transition.md), [Escalation Theory Critique](/themes/escalation-theory-critique.md).
+* **Update**: Major rewrite of [US-Iran War 2026](/conflicts/us-iran-war-2026.md) — added pre-war context, energy cascade timeline, counter-blockade analysis, US military losses, buffer depletion dynamics, controlled instability doctrine, regional realignment, and expanded citations from 6 to 20.
+* **Update**: Major rewrite of [Energy and Resources](/themes/energy-and-resources.md) — added peak everything, diesel crisis, solar limits, oil export decline, Mordor Economy framework, copper/silver depletion data, renewable supply chain vulnerability, and expanded citations from 3 to 15.
+* **Update**: Updated [Global System Rupture](/themes/global-system-rupture.md) with Fourth Systemic Crisis framing (Tchakarova/Felsberger/Saurugg PDF) and polycrisis analysis.
+* **Update**: Updated [The Honest Sorcerer](/actors/the-honest-sorcerer.md) with 5 new frameworks (Mordor Economy, Peak Everything, Empty Quarter, Zero State, Polycrisis) and expanded sources from 1 to 30.
+* **Update**: Updated [Phillips O'Brien](/actors/phillips-obrien.md) with US capabilities rot, aircraft losses, ranged war doctrine, and Putin's catastrophe analysis. Expanded sources from 5 to 11.
+* **Update**: Updated [Velina Tchakarova](/actors/velina-tchakarova.md) with simultaneity theory and 4 new sources. Expanded sources from 6 to 10.
+* **Update**: Updated [Robert Pape](/actors/robert-pape.md) with controlled instability doctrine and 1 new source.
+* **Update**: Updated [China](/actors/china.md) with CMC purge and end-of-economic-miracle analysis.
+* **Update**: Updated [Iran](/actors/iran.md) with pre-war internal dynamics and Hormuz toll system.
+* **Update**: Updated [Russia](/actors/russia.md) with Moscow drone strike analysis.
+* **Update**: Updated [United States](/actors/united-states.md) with military degradation data and myth of energy independence.
+* **Update**: Updated [Germany](/actors/germany.md) with UN Security Council defeat.
+* **Update**: Updated [India](/actors/india.md) with RIC revival, Starlink freeze, and trade realignment.
+* **Update**: Updated [Trump](/actors/trump.md) with Iran war exit desperation and China-as-chip analysis.
+* **Update**: Updated [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) with Moscow drone strike and ranged war doctrine.
+* **Update**: Updated [Taiwan Standoff](/conflicts/taiwan-standoff.md) with CMC purge implications and Taiwan-as-chip framing.
+* **Update**: Updated [Critical Minerals](/themes/critical-minerals.md) with copper, silver, gallium, and graphite depletion data.
+* **Update**: Updated [Ideology and Democracy](/themes/ideology-and-democracy.md) with communism historical record, European decline debate, and End of Reason framework.
+* **Update**: Updated [Great Power Competition](/themes/great-power-competition.md) with Beckley's spheres of influence asymmetry.
+* **Update**: Updated [Europe](/regions/europe.md) with European decline debate and Germany UNSC defeat.
+* **Update**: Updated [Africa](/regions/africa.md) with Tigray powder keg.
+* **Update**: Updated [Middle East](/regions/middle-east.md) with Saudi-Iran negotiations, Hormuz toll system, and UAE petrodollar stress.
+* **Update**: Updated [Indo-Pacific](/regions/indo-pacific.md) with Australia governance dysfunction, trade geometry, and RIC revival.
+* **Update**: Updated [Geopolitical Futures](/actors/geopolitical-futures.md) with expanded sources covering CMC purge, Iran internal politics, Tigray, and Central Asia.
+* **Update**: Updated all README.md index files with new concepts.
+
 ## 2026-07-02
 * **Update**: Renamed all `index.md` files to `README.md` so GitHub auto-renders directory listings. Updated `rules.md` and `okf.md` to reflect the change.
 * **Creation**: Created actor concept for [Paul Krugman](/actors/paul-krugman.md) — economist tracking oligarchic capture, social democracy vs socialism, and corruption under Trump 2.0.

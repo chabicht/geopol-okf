@@ -45,10 +45,117 @@ The "megamachine" and "Wetiko" concepts frame the growth imperative as a civiliz
 
 Detailed analysis of copper, silver, and oil depletion dynamics. Each resource is tracked through its specific depletion curve, energy cost of extraction, and implications for the broader system. Copper and silver are particularly significant because they are both indicators of industrial throughput and essential inputs for the renewable energy infrastructure that is supposed to replace fossil fuels.
 
+## The Mordor Economy
+
+Civilization is a "Mordor Economy" spending more energy to get energy, following the second law of thermodynamics. Fossil fuels are a high-grade energy gradient; renewables are a low-grade gradient. The transition from high-grade to low-grade sources means an increasing share of civilizational energy throughput is consumed by the energy acquisition process itself — the thermodynamic definition of diminishing returns. This connects to [Nate Hagens](/actors/nate-hagens.md)'s "Great Simplification" framework [2].
+
+## Peak Everything
+
+"2025: The Year of Peak Everything" — peak industrial metals (steel, coal, copper), peak oil, peak nuclear. The end of exponential material expansion and the onset of the Mordor Economy. The "peak" is not of any single resource but of the entire material basis of industrial civilization [3].
+
+## The Empty Quarter
+
+The "Empty Quarter" is the end-state of resource depletion — what the world looks like when the Mordor Economy has run its course. It is not the end of the world but a major step towards the involuntary simplification of global civilization. The framework draws on entropy, progress traps, and the impossibility of voluntarily ending fossil fuel dependence [4].
+
+## The Zero State
+
+The "Zero State" is a system unable to create growth, where elites choose war as their "last sniff." Drawing on [Aurelien](/actors/aurelien.md)'s concept of elite homogenization, the framework describes a zombie system governed by bureaucracy and corruption rather than innovation. The Zero State is not collapse but stasis — a system that maintains itself by consuming its own foundations [5].
+
+## The Polycrisis
+
+The "polycrisis" framework: not a single crisis but the convergence of multiple stress vectors whose combined effect is greater than the sum of parts. The damage to supply chains of energy, fertilizer, food, and industrial inputs is already done — it is "just not registered by the Western ruling classes." The framework integrates the [global system rupture](/themes/global-system-rupture.md) with thermodynamic limits and institutional incapacity [6].
+
 # Sources in Bundle
 
 - "The Big Picture" [1]
+- "Beyond The Mordor Economy" [2]
+- "2025: The Year Of Peak Everything" [3]
+- "Life In The Empty Quarter" [4]
+- "The Zero State And What Comes After" [5]
+- "The Persian Polycrisis" [6]
+- "China: The End of an Economic Miracle" [7]
+- "There Is No Next Economy" [8]
+- "The Myth of American Energy Independence" [9]
+- "Don't Look Up!" [10]
+- "The New Gulf War: Epic Fubar Goes Global" [11]
+- "The War in Iran: A Giant Leap Towards Collapse" [12]
+- "Iran War: A Light At The End of Tunnel" [13]
+- "Iran War: The Road To Ruin" [14]
+- "Iran War: The Chickens Come Home To Roost" [15]
+- "Iran War: The Chokehold Tightens" [16]
+- "The Hormuz Hangover: Bend Not Break" [17]
+- "The World Beyond Hormuz" [18]
+- "Running on Empty: Copper" [19]
+- "Silver: A Story of Converging Supply Crises" [20]
+- "Are We Sleepwalking Into a Diesel Shortage" [21]
+- "The Oil Import Curse" [22]
+- "The Emirates Shows Us How Not To Build Solar" [23]
+- "Life On The Slippery Slope" [24]
+- "Life Expectancy In A Post-Industrial World" [25]
+- "The End of Reason" [26]
+- "A Frantic Search for the Pause Button" [27]
+- "2026: The Year Of The Coyote" [28]
+- "Everything Is Under Control… Until It Isn't" [29]
+- "How to Read the Signs of Collapse" (podcast with Nate Hagens) [30]
 
 # Citations
 
 [1] [The Big Picture](https://thehonestsorcerer.substack.com/p/the-big-picture)
+
+[2] [Beyond The Mordor Economy](https://thehonestsorcerer.substack.com/p/beyond-the-mordor-economy)
+
+[3] [2025: The Year Of Peak Everything](https://thehonestsorcerer.substack.com/p/2025-the-year-of-peak-everything)
+
+[4] [Life In The Empty Quarter](https://thehonestsorcerer.substack.com/p/life-in-the-empty-quarter)
+
+[5] [The Zero State And What Comes After](https://thehonestsorcerer.substack.com/p/the-zero-state-and-what-comes-after)
+
+[6] [The Persian Polycrisis](https://thehonestsorcerer.substack.com/p/the-persian-polycrisis)
+
+[7] [China: The End of an Economic Miracle](https://thehonestsorcerer.substack.com/p/china-the-end-of-an-economic-miracle)
+
+[8] [There Is No Next Economy](https://thehonestsorcerer.substack.com/p/there-is-no-next-economy)
+
+[9] [The Myth of American Energy Independence](https://thehonestsorcerer.substack.com/p/the-myth-of-american-energy-independence)
+
+[10] [Don't Look Up!](https://thehonestsorcerer.substack.com/p/dont-look-up)
+
+[11] [The New Gulf War: Epic Fubar Goes Global](https://thehonestsorcerer.substack.com/p/the-new-gulf-war-epic-fubar-goes)
+
+[12] [The War in Iran: A Giant Leap Towards Collapse](https://thehonestsorcerer.substack.com/p/the-war-in-iran-a-giant-leap-towards)
+
+[13] [Iran War: A Light At The End of Tunnel](https://thehonestsorcerer.substack.com/p/iran-war-light-at-the-end-of-the)
+
+[14] [Iran War: The Road To Ruin](https://thehonestsorcerer.substack.com/p/iran-war-the-road-to-ruin)
+
+[15] [Iran War: The Chickens Come Home To Roost](https://thehonestsorcerer.substack.com/p/iran-war-the-chickens-come-home-to)
+
+[16] [Iran War: The Chokehold Tightens](https://thehonestsorcerer.substack.com/p/iran-war-the-chokehold-tightens)
+
+[17] [The Hormuz Hangover: Bend Not Break](https://thehonestsorcerer.substack.com/p/the-hormuz-hangover-bend-not-break)
+
+[18] [The World Beyond Hormuz](https://thehonestsorcerer.substack.com/p/the-world-beyond-hormuz)
+
+[19] [Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)
+
+[20] [Silver: A Story of Converging Supply Crises](https://thehonestsorcerer.substack.com/p/silver-a-story-of-converging-supply)
+
+[21] [Are We Sleepwalking Into a Diesel Shortage](https://thehonestsorcerer.substack.com/p/are-we-sleepwalking-into-a-diesel)
+
+[22] [The Oil Import Curse](https://thehonestsorcerer.substack.com/p/the-oil-import-curse)
+
+[23] [The Emirates Shows Us How Not To Build Solar](https://thehonestsorcerer.substack.com/p/the-emirates-shows-us-how-not-to)
+
+[24] [Life On The Slippery Slope](https://thehonestsorcerer.substack.com/p/life-on-the-slippery-slope)
+
+[25] [Life Expectancy In A Post-Industrial World](https://thehonestsorcerer.substack.com/p/life-expectancy-in-a-post-industrial)
+
+[26] [The End of Reason](https://thehonestsorcerer.substack.com/p/the-end-of-reason)
+
+[27] [A Frantic Search for the Pause Button](https://thehonestsorcerer.substack.com/p/a-frantic-search-for-the-pause-button)
+
+[28] [2026: The Year Of The Coyote](https://thehonestsorcerer.substack.com/p/2026-the-year-of-the-coyote)
+
+[29] [Everything Is Under Control… Until It Isn't](https://thehonestsorcerer.substack.com/p/everything-is-under-control-until)
+
+[30] [How to Read the Signs of Collapse — The Great Simplification #209](https://natehagens.substack.com/cp/186878448)

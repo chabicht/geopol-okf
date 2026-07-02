@@ -20,6 +20,7 @@ Africa is a continent of growing strategic importance, characterized by vast ter
 - The Wagner→Africa Corps transition produced a more bureaucratic structure that is vulnerable to strategic constraints. See [Wagner/Africa Corps](/actors/wagner-africa-corps.md).
 - Russia's reputation as a regime guarantor has been damaged by its failures in Syria and Venezuela.
 - Covert discussions between the Mali junta and US intelligence suggest hedging behavior.
+- [Ethiopia](/actors/ethiopia.md) and [Eritrea](/actors/eritrea.md) are again on the verge of conflict over Tigray, complicated by Ethiopia's need for sea access (port of Assab) and Middle Eastern proxy alignments (UAE-Ethiopia-RSF vs. Eritrea). The militarization of the Red Sea corridor has elevated the strategic significance of this local conflict [2].
 
 # Key Dynamics
 
@@ -31,3 +32,5 @@ Africa is a continent of growing strategic importance, characterized by vast ter
 # Citations
 
 [1] [Geopolitical Futures — in Mali, Turkey sees an opening](https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/)
+
+[2] [The Tigray Powder Keg in the Horn of Africa](https://geopoliticalfutures.com/the-tigray-powder-keg-in-the-horn-of-africa/)

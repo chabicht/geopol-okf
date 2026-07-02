@@ -19,6 +19,8 @@ Russia anchors the DragonBear axis alongside [China](/actors/china.md), coordina
 
 The [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) continues to strain Russian resources. Putin has rejected ceasefire proposals, with demands disconnected from battlefield realities. Ukraine's long-range strikes are reaching Moscow and St. Petersburg, attacking Russian war production infrastructure — not just refineries. The FP-5 Flamingo missile has struck the Titan-Barrikady weapons complex in Volgograd, demonstrating that Ukrainian reach extends deep into Russian industrial territory.
 
+In May 2026, Ukraine conducted a major [drone strike on Moscow](/events/moscow-drone-strike.md), demonstrating that Putin can no longer protect the capital from war consequences. [Phillips O'Brien](/actors/phillips-obrien.md) compares the strike to Japan's loss of the Marianas in WWII — the moment when the propaganda narrative collapsed because the war reached the homeland. Russia's cumulative casualties exceed 1 million [6].
+
 ## Chechnya
 
 [Kadyrov](/actors/kadyrov.md) is rumored to be terminally ill, with no clear successor. Destabilization of Chechnya threatens Putin's original claim to having solved the Chechen problem — the foundational legitimacy narrative of his presidency. The Caucasus remains a vulnerability that could open a second front of instability.
@@ -50,3 +52,5 @@ Russia's strategic position is paradoxical: deeply committed in Ukraine, facing 
 [4] Velina Tchakarova, "Unexpected Turn" — https://substack.com/@velinatchakarova/p-203711905
 
 [5] Velina Tchakarova, "Ceasefire in Iran" — https://substack.com/@velinatchakarova/p-204418261
+
+[6] [Putin Can No Longer Hide His Catastrophe](https://www.theatlantic.com/ideas/2026/05/putin-lost-control-russia/687269/)

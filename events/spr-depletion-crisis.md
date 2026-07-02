@@ -1,0 +1,38 @@
+---
+type: Event
+title: SPR Depletion Crisis
+description: US Strategic Petroleum Reserve approaching operational floor as record exports and drawdowns mask the depth of the energy crisis
+tags: [energy, economics]
+status: ongoing
+timestamp: 2026-07-02T00:00:00Z
+---
+
+# Background
+
+The US Strategic Petroleum Reserve (SPR) is the world's largest emergency crude oil stockpile. During the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md), the SPR served as a critical shock absorber: record US crude exports and massive SPR drawdowns masked the depth of the supply disruption, keeping prices below the catastrophic levels that the Hormuz closure would otherwise have produced.
+
+# What Happened
+
+- The US drew down approximately 66 million barrels from the SPR, bringing stocks to approximately 349 million barrels — approaching 1983 lows [1].
+- OECD inventories hit operational minimums during May 9-30, 2026 [2].
+- China's crude imports collapsed to an 8-year low of 7.8 million barrels per day, a 29% year-over-year decline — effectively a demand destruction buffer [1].
+- Russian oil exports were forced down as Ukrainian strikes crippled Russian refineries, reducing a third buffer [1].
+- These three buffers (US SPR, Chinese demand destruction, Russian export cuts) together prevented oil from reaching $150+ despite 3+ months of Hormuz disruption [1].
+
+# Analysis
+
+[Velina Tchakarova](/actors/velina-tchakarova.md) describes the calm in oil markets as "engineered, temporary, and depleting." The three buffers are one-time measures, not structural fixes. The SPR cannot be drawn down indefinitely; Chinese demand destruction reflects economic weakness, not a sustainable adjustment; and Russian export cuts are driven by war damage, not policy choice [1].
+
+[The Honest Sorcerer](/actors/the-honest-sorcerer.md) adds that the SPR drawdown is physically unsustainable: at the rate of drawdown observed during the crisis, the operational floor — the point below which the SPR cannot be drawn without compromising its basic function — was approximately two weeks away at the peak of the crisis [2][3].
+
+[Robert Pape](/actors/robert-pape.md) warns that when these temporary buffers are exhausted, Iran's leverage reasserts itself. The "quiet" in oil markets is not evidence of resolution but of deferred reckoning [4].
+
+# Citations
+
+[1] [The Quiet Before the Squeeze — Why Hormuz Hasn't Sent Oil to $150](https://substack.com/@velinatchakarova/p-201366553)
+
+[2] [The Hormuz Hangover: Bend Not Break](https://thehonestsorcerer.substack.com/p/the-hormuz-hangover-bend-not-break)
+
+[3] [Geopolitical Outlook: The Ceasefire in Iran](https://substack.com/@velinatchakarova/p-200150759)
+
+[4] [The Price of Oil Is the Real Iran Deal](https://escalationtrap.substack.com/p/the-price-of-oil-is-the-real-iran)

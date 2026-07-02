@@ -66,6 +66,20 @@ Krugman draws a sharp distinction between social democracy — a market-based sy
 
 The appearance of rising socialist sentiment is largely an artifact of right-wing propagandists labeling mainstream social democratic policies as "socialist." This conflation causes some voters to reclaim the label — "Well, if that's socialism, I guess I'm OK with socialism." The real groundswell is not a lurch to the left but dismay over an economy that increasingly favors a tiny group of billionaires and a political system that works on their behalf. The important radical movement in America is not left-wing socialism but right-wing radicals who want to dismantle both social democracy and democracy itself [6].
 
+## Communism's Historical Record
+
+[Marian Tupy](/actors/marian-tupy.md) documents communism's 100-year human cost: 100 million+ deaths, drawn from "The Black Book of Communism" (94M+) and subsequent research (80M+). The death toll exceeds that of Tsarist Russia and the Inquisition combined. The deaths are structural consequences of the concentration of power required to enforce collectivization, not accidental policy outcomes. Tupy notes the irony of socialism's intellectual resurgence despite this record — a resurgence driven by dissatisfaction with crony capitalism, not evidence of socialist success [7].
+
+## European Decline Debate
+
+[Paul Krugman](/actors/paul-krugman.md) challenges the conventional narrative that [Europe](/regions/europe.md) is clearly falling behind the US economically. He argues that productivity growth comparisons are misleading, that Europeans have more time and social security, and that the US-Europe paradox (slow European growth without a growing gap) needs better explanation. The narrative of European decline, while containing elements of truth, is being weaponized to justify policy choices that would dismantle the social democratic model [8].
+
+[The Honest Sorcerer](/actors/the-honest-sorcerer.md) and [Nate Hagens](/actors/nate-hagens.md) provide a different angle on European decline: not relative economic performance but absolute industrial decline driven by energy costs, the loss of cheap Russian gas, and the impossibility of maintaining industrial throughput with renewable energy alone. Europe's gas storage at 46% at end of June 2026, well below seasonal norms, is the physical indicator that the decline narrative has a material basis that Krugman's economic analysis does not capture [9].
+
+## The End of Reason
+
+[The Honest Sorcerer](/actors/the-honest-sorcerer.md) poses whether we have passed "peak rationality" — the limits of human rationality, the mechanistic worldview, and diminishing returns of scientific research. Drawing on Jean Gebser's theory of consciousness structures, the framework asks what awaits at the end of the Age of Reason. This is not anti-rational but meta-rational: the recognition that the rationalist project has internal limits that cannot be overcome by more rationality [10].
+
 # Citations
 
 [1] https://archive.ph/8FvBT
@@ -76,3 +90,11 @@ The appearance of rising socialist sentiment is largely an artifact of right-win
 [5] [A Verdict on (the) Slaughter](https://paulkrugman.substack.com/p/a-verdict-on-the-slaughter)
 
 [6] [There Are Very Few Socialists in America](https://paulkrugman.substack.com/p/there-are-very-few-socialists-in)
+
+[7] [100 Years of Communism: Death and Deprivation](https://www.cato.org/commentary/100-years-communism-death-deprivation)
+
+[8] [Challenging the Narrative of European Decline](https://paulkrugman.substack.com/p/challenging-the-narrative-of-european-478)
+
+[9] [How to Read the Signs of Collapse — The Great Simplification #209](https://natehagens.substack.com/cp/186878448)
+
+[10] [The End of Reason](https://thehonestsorcerer.substack.com/p/the-end-of-reason)

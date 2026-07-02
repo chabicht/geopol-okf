@@ -33,11 +33,16 @@ Pape predicted commercial shipping as the next escalation pathway — a forecast
 
 Pape uses three indicators for assessing whether a war is ending or entering a new phase. This framework operationalizes the leverage concept into trackable signals — moving from abstract leverage gradients to observable indicators that can be monitored in real time.
 
+## Controlled Instability
+
+Pape introduces "controlled instability" as Iran's post-war strategic doctrine: persistent low-level disruptions — drone incidents, insurance volatility, shipping harassment — that sustain a geopolitical risk premium on oil without requiring total Hormuz closure. If oil stays above $90 even after Hormuz reopens, Iran wins through a continuous revenue stream from the risk premium. This transforms Iran's chokepoint leverage from a binary weapon (open or closed) into a continuous revenue stream [4].
+
 # Sources in Bundle
 
 - "Uncertain Deal — And Iran Certainly Enters Its Period of Maximum Leverage" [1]
 - "Prediction Confirmed: The Next Phase of the Iran War Has Begun" [2]
 - "Situation Report — Special Edition" [3]
+- "The Price of Oil Is the Real Iran Deal" [4]
 
 # Citations
 
@@ -46,3 +51,5 @@ Pape uses three indicators for assessing whether a war is ending or entering a n
 [2] [Prediction Confirmed: The Next Phase of the Iran War Has Begun](https://escalationtrap.substack.com/p/prediction-confirmed-the-next-phase)
 
 [3] [Situation Report — Special Edition](https://escalationtrap.substack.com/p/situation-report-special-edition)
+
+[4] [The Price of Oil Is the Real Iran Deal](https://escalationtrap.substack.com/p/the-price-of-oil-is-the-real-iran)

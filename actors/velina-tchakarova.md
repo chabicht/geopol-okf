@@ -33,6 +33,10 @@ A metric for measuring systemic stress. The simultaneity reading quantifies how 
 
 A framework distinction: de-escalating a trigger is not the same as closing a rupture. Tchakarova tracks asymmetric de-escalation across theaters — for example, the Middle East stepping back while Ukraine re-intensifies — arguing that aggregate systemic stress can increase even as individual crises appear to resolve.
 
+## Simultaneity Theory
+
+Tchakarova's framework for understanding how proxy wars and systemic crises interact when they occur simultaneously. The Iran and Ukraine wars are not separate conflicts but components of a single systemic stress pattern — the DragonBear axis creates simultaneity by design, forcing the Western coalition to allocate finite bandwidth across multiple theaters. The simultaneity reading (S1-S6 scale) operationalizes this concept into a trackable metric [7].
+
 # Recurring Themes
 
 - Global system dynamics and rupture tracking
@@ -52,6 +56,10 @@ A framework distinction: de-escalating a trigger is not the same as closing a ru
 - "The Encirclement of Taiwan and the New Eastern Front" [4]
 - "Unexpected Turn" [5]
 - "Global System June 2026" [6]
+- "GfKV: Global Systemic Rupture — The Fourth Systemic Crisis and Its Architecture" (with Felsberger & Saurugg) [7]
+- "Geopolitical Outlook: The Ceasefire in Iran" [8]
+- "The Quiet Before the Squeeze — Why Hormuz Hasn't Sent Oil to $150" [9]
+- "The RIC (China-India-Russia) Revival and India's Starlink Freeze" [10]
 
 # Citations
 
@@ -66,3 +74,11 @@ A framework distinction: de-escalating a trigger is not the same as closing a ru
 [5] [Unexpected Turn](https://substack.com/@velinatchakarova/p-203711905)
 
 [6] [Global System June 2026](https://substack.com/@velinatchakarova/p-204418261)
+
+[7] [GfKV: Global Systemic Rupture — The Fourth Systemic Crisis and Its Architecture](https://substack.com/@velinatchakarova/p-200150759)
+
+[8] [Geopolitical Outlook: The Ceasefire in Iran](https://substack.com/@velinatchakarova/p-200150759)
+
+[9] [The Quiet Before the Squeeze — Why Hormuz Hasn't Sent Oil to $150](https://substack.com/@velinatchakarova/p-201366553)
+
+[10] [The RIC (China-India-Russia) Revival and India's Starlink Freeze](https://substack.com/@velinatchakarova/p-201566415)

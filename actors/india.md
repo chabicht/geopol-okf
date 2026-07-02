@@ -29,6 +29,14 @@ Trump's tariffs, his claims of mediation in the India-Pakistan clash, and his in
 
 India's approach to the [US-Iran War](/conflicts/us-iran-war-2026.md) was passive, leading to domestic criticism. The conflict exposed the tension between India's energy dependencies in the Middle East and its alignment with the US-led security framework.
 
+## RIC Revival and Starlink Freeze
+
+The Russia-India-China (RIC) trilateral was revived in mid-2026 as a coordinated DragonBear play to pull India away from Washington. [China](/actors/china.md) endorsed the revival; [Russia](/actors/russia.md) praised both Modi and Xi. Coinciding with the revival, India froze Starlink approvals over security concerns after Starlink operated in Iran without an Indian license. India's doctrine of "multi-alignment with hard sovereignty floors" is being tested: can India participate in a RIC framework while maintaining its Quad membership? See [RIC Revival of 2026](/events/ric-revival-2026.md) [2].
+
+## Trade Realignment
+
+McKinsey's 2026 trade geometry analysis shows that US-China trade fell approximately 30%, with ASEAN, Brazil, and [India](/actors/india.md) absorbing redirected flows. India thrived as a "factory to the factories" intermediary, but the trade realignment along geopolitical lines creates both opportunity and vulnerability for Indian economic strategy [3].
+
 # Analysis
 
 India's strategic position is defined by the asymmetry with China and the absence of alternatives to the American partnership. The relationship with the US is durable not because it is satisfactory, but because it is structurally necessary. India's passivity during the Iran war and its tolerance of Trump's slights both reflect the same underlying constraint: the China threat leaves no room for strategic autonomy in alliance management.
@@ -36,3 +44,7 @@ India's strategic position is defined by the asymmetry with China and the absenc
 # Citations
 
 [1] War on the Rocks, "Why India Will Stick with America" — https://warontherocks.com/why-india-will-stick-with-america/
+
+[2] [The RIC (China-India-Russia) Revival and India's Starlink Freeze](https://substack.com/@velinatchakarova/p-201566415)
+
+[3] [Geopolitics and the geometry of global trade 2026 update](https://www.mckinsey.com/mgi/our-research/geopolitics-and-the-geometry-of-global-trade-2026-update)

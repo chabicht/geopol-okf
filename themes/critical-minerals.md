@@ -41,6 +41,12 @@ The critical minerals landscape is defined by several concurrent dynamics across
 
 This creates a feedback loop: the transition to renewable energy and electric vehicles requires critical minerals whose extraction requires increasing amounts of fossil-fuel energy. The result is that the "green transition" is not a departure from fossil fuel dependence but an extension of it — the material requirements of renewables scale with deployment, and the energy cost of those materials is rising [2].
 
+**Copper**: Record prices, declining ore grades, and the collision between tightening supply and demand from electrification and AI data centers. BHP projects 15% less copper by 2035; only 14 of 239 new deposits discovered in the past 10 years. China consumes 60% of global copper. The "Red Queen" dynamic applies: each increment of innovation buys extraction at a higher energy cost [4].
+
+**Silver**: 60%+ of silver goes to electronics, solar panels, EVs, missiles, and AI data centers — it is an industrial metal, not just a precious one. Five consecutive years of physical deficit (820M oz cumulative). 70%+ of silver is a byproduct of zinc/lead/gold/copper mining, linking silver supply to broader mineral depletion [5].
+
+**Gallium and graphite**: The Iran war exposed the vulnerability of gallium (98% refined in China) and graphite (needle coke from oil refining) supply chains. These materials are essential for semiconductors and EV batteries respectively, and their supply chains run through the Middle East — making them vulnerable to chokepoint disruption [6].
+
 ## China's Strategic Position
 
 Tchakarova's Pax Silica concept frames the semiconductor supply chain as a geopolitical architecture. China's dominance in mineral processing and refining is not accidental but strategic — sustained investment over decades has created midstream capacity that Western economies dismantled or never developed. The result is a structural dependency: Western economies can mine raw materials but must send them to China for processing [3].
@@ -57,4 +63,11 @@ The implication is that critical minerals are not merely an economic issue but a
 
 [1] https://geopoliticalfutures.com/what-investments-say-about-central-asia/
 [2] https://thehonestsorcerer.substack.com/p/the-big-picture
+
 [3] https://substack.com/@velinatchakarova/p-204418261
+
+[4] [Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)
+
+[5] [Silver: A Story of Converging Supply Crises](https://thehonestsorcerer.substack.com/p/silver-a-story-of-converging-supply)
+
+[6] [There Is No Next Economy](https://thehonestsorcerer.substack.com/p/there-is-no-next-economy)

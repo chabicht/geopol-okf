@@ -20,7 +20,9 @@ The Russia-Ukraine War began with Russia's full-scale invasion of Ukraine on Feb
 
 # Current Situation
 
-Russia's summer advance has slowed sharply, and Ukrainian strikes are now reaching deep into Russian territory, including St. Petersburg and Moscow [1][2]. The operational picture is characterized by several parallel Ukrainian campaigns:
+Russia's summer advance has slowed sharply, and Ukrainian strikes are now reaching deep into Russian territory, including St. Petersburg and Moscow [1][2]. In May 2026, Ukraine conducted a major [drone strike on Moscow](/events/moscow-drone-strike.md), demonstrating that Putin can no longer protect the capital from war consequences. O'Brien compares the strike to Japan's loss of the Marianas in WWII — the moment when the propaganda narrative collapsed. Russia's cumulative casualties exceed 1 million [8].
+
+The operational picture is characterized by several parallel Ukrainian campaigns:
 
 - **Crimea isolation**: Ukraine is successfully isolating [Crimea](/events/crimea-isolation-campaign.md), with fuel shortages becoming acute — the Russian-appointed governor has forbidden civilian fuel sales on the peninsula [3].
 - **Long-range strikes**: Ukrainian long-range strikes are targeting Russian war production, not just refineries. The Titan-Barrikady facility in Volgograd (former Stalingrad) has been hit by FP-5 Flamingo missiles [4].
@@ -55,6 +57,10 @@ O'Brien argues that battles reveal rather than determine outcomes. The Battle of
 
 O'Brien asserts that [Trump](/actors/trump.md) is still helping Putin despite occasional critical words, and that observers should not listen to the words — they are meant to deceive [4]. Trump has also been rewriting history about the war, constructing narratives that serve his political needs rather than reflecting the record [6].
 
+## Ranged War Doctrine
+
+O'Brien distinguishes long-range strikes (strategic bombing of oil refineries, weapons production, industrial base) from medium-range strikes (logistics disruption, supply lines, rail hubs). Both sides are still in the early stages of the ranged war (comparable to mid-1943 in WWII), with significant capacity to increase production. The FP-5 Flamingo missile striking Titan-Barrikady in Volgograd represents the maturation of Ukraine's long-range capability [8][9].
+
 # Citations
 
 [1] https://substack.com/@velinatchakarova/p-204418261
@@ -64,3 +70,5 @@ O'Brien asserts that [Trump](/actors/trump.md) is still helping Putin despite oc
 [5] https://phillipspobrien.substack.com/p/watch-belarus-indeed
 [6] https://phillipspobrien.substack.com/p/weekend-update-190-long-range-reveal
 [7] https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war
+[8] [Putin Can No Longer Hide His Catastrophe](https://www.theatlantic.com/ideas/2026/05/putin-lost-control-russia/687269/)
+[9] [The Ranged War Is Still In An Early Stages](https://phillipspobrien.substack.com/p/the-ranged-war-is-still-in-an-early)

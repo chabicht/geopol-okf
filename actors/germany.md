@@ -37,6 +37,10 @@ The strategy signals to Washington that Europe is ready to shoulder the conventi
 
 Along with [France](/actors/france.md) and Britain, Germany issued a rare joint statement on [Taiwan](/actors/taiwan.md) through de facto embassies in Taipei. This signals that European powers now treat Taiwan as integral to the global order — a position that extends German strategic concern beyond the European theater.
 
+## UN Security Council Defeat
+
+In June 2026, Germany suffered its worst-ever [UN Security Council election defeat](/events/germany-un-security-council-defeat.md), receiving only 104 votes against the 127 needed. The result broke a historical pattern of near-unanimous Western European support (97-98% in 2002 and 2018). Former ambassador Wolfgang Ischinger attributed the failure to missed candidacy preparation dating to 2019-2020, but the result also reflects the cumulative erosion of German diplomatic influence during the Russia-Ukraine and US-Iran wars [3][4].
+
 # Analysis
 
 Germany's military strategy represents a necessary but insufficient step. The recognition of the Russia threat and the acceptance of European conventional defense responsibility are positive developments. However, the timeline inconsistencies, lack of operational detail, and absence of institutional reform suggest that Germany remains in a declaratory phase rather than an execution phase. The gap between ambition and capability is the central challenge.
@@ -46,3 +50,7 @@ Germany's military strategy represents a necessary but insufficient step. The re
 [1] Roderich Kiesewetter, War on the Rocks, "A Claim to Lead, a Hesitation to Act: Germany's New Military Strategy" — https://warontherocks.com/a-claim-to-lead-a-hesitation-to-act-germanys-new-military-strategy/
 
 [2] Velina Tchakarova, "Taiwan Encirclement" — https://substack.com/@velinatchakarova/p-203793388
+
+[3] [Sicherheitsrat ohne Deutschland — „Die Schlappe war vorhersehbar"](https://archive.ph/1QrAN)
+
+[4] [UN-Sicherheitsrat: So schlecht hat Deutschland noch nie abgeschnitten](https://archive.ph/O3KHX)

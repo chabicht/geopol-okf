@@ -19,6 +19,8 @@ Trump's decision to attack Iran in 2026 was, per O'Brien, not driven by national
 
 Notably, the US public response broke the standard pattern: Trump's base supported whatever he wanted to do, the opposition opposed the war from the start, and there was no measurable patriotic surge behind the commander-in-chief. [1]
 
+By May 2026, O'Brien reported Trump was "desperate to exit" the war but unable to, with no good military options. The emerging Iran deal was worse than the JCPOA. Trump called on Arab states to join the Abraham Accords to appease Netanyahu and GOP hardliners, while [China](/actors/china.md) backed Iran and treated [Taiwan](/conflicts/taiwan-standoff.md) as a "chip" in the broader negotiation [7].
+
 ## Allies Left in the Dark
 
 By launching the [US-Iran War](/conflicts/us-iran-war-2026.md) without informing European allies, Japan, or South Korea, Trump "threw them under the bus." The failure to consult partners who host US forces and depend on American extended deterrence corroded trust in US alliance guarantees. [1]
@@ -64,3 +66,5 @@ Krugman argues that corruption is not a side-effect of Trump's governance but it
 [5] [Velin Tchakarova — Shield of the Americas](https://substack.com/@velinatchakarova/p-203689435)
 
 [6] [A Verdict on (the) Slaughter](https://paulkrugman.substack.com/p/a-verdict-on-the-slaughter)
+
+[7] [Midweek Update 12: We Are Witnessing US Decline In Real Time](https://phillipspobrien.substack.com/p/midweek-update-12-we-are-witnessing)

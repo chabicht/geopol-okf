@@ -19,7 +19,10 @@ Europe has been anchored by the US-led NATO alliance architecture since 1949 and
 - EU gas storage stood at approximately 46% at the end of June, reflecting continued energy vulnerability.
 - Britain, [France](/actors/france.md), and [Germany](/actors/germany.md) issued a joint statement on Taiwan, extending European deterrence rhetoric into the Pacific.
 - [Russia](/actors/russia.md) is conducting cognitive strikes targeting European nations, including [France](/actors/france.md), [Germany](/actors/germany.md), and Armenia. See [Cognitive Warfare](/themes/cognitive-warfare.md) and the [Paris pig-head attack](/events/paris-pig-head-attack.md).
-- The Ukraine war continues to strain European resources; Russia's advance has slowed, and Ukrainian strikes are reaching deep into Russian territory. See [Ukraine](/actors/ukraine.md).
+- The Ukraine war continues to strain European resources; Russia's advance has slowed, and Ukrainian strikes are reaching deep into Russian territory, including a [drone strike on Moscow](/events/moscow-drone-strike.md). See [Ukraine](/actors/ukraine.md).
+- [Paul Krugman](/actors/paul-krugman.md) challenges the narrative of European economic decline relative to the US, arguing that productivity comparisons are misleading and that the social democratic model delivers quality of life that GDP metrics miss [5].
+- [The Honest Sorcerer](/actors/the-honest-sorcerer.md) and [Nate Hagens](/actors/nate-hagens.md) provide a biophysical angle on European decline: energy costs, loss of cheap Russian gas, and the impossibility of maintaining industrial throughput with renewables alone [6].
+- [Germany](/actors/germany.md) suffered its worst-ever [UN Security Council election defeat](/events/germany-un-security-council-defeat.md), receiving only 104 votes against 127 needed [7][8].
 
 # Key Dynamics
 
@@ -34,3 +37,11 @@ Europe has been anchored by the US-led NATO alliance architecture since 1949 and
 [2] [Velinatchakarova — European security dynamics](https://substack.com/@velinatchakarova/p-203793388)
 [3] [OCCRP — leaked documents reveal Russian cognitive strikes](https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris)
 [4] [Velinatchakarova — broader geopolitical context](https://substack.com/@velinatchakarova/p-204418261)
+
+[5] [Challenging the Narrative of European Decline](https://paulkrugman.substack.com/p/challenging-the-narrative-of-european-478)
+
+[6] [How to Read the Signs of Collapse — The Great Simplification #209](https://natehagens.substack.com/cp/186878448)
+
+[7] [Sicherheitsrat ohne Deutschland — „Die Schlappe war vorhersehbar"](https://archive.ph/1QrAN)
+
+[8] [UN-Sicherheitsrat: So schlecht hat Deutschland noch nie abgeschnitten](https://archive.ph/O3KHX)

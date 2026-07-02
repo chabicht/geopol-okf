@@ -42,6 +42,12 @@ Tchakarova describes the comprehensive campaign as a combination of military enc
 
 The deployment of the *Xiang Yang Hong 22* with CCG escort is emblematic: what is framed as oceanographic research is functionally a military survey establishing baseline data for future operations, while the CCG escort asserts a governance claim over waters Taiwan considers its own [1].
 
+## CMC Purge Implications
+
+The February 2026 [CMC purge](/events/cmc-purge-2026.md) — Xi's removal of Zhang Youxia and Liu Zhenli, the only CMC members with combat experience — has significant implications for the Taiwan standoff. Zhang anticipated full joint operational capability closer to 2035, while Xi insists on 2027. The purge damages command cohesion and reduces the likelihood of a near-term invasion, as complex joint operations require experienced commanders who trust one another. However, new commanders eager to demonstrate loyalty may favor aggressive tactical behavior, increasing the risk of miscalculation [2].
+
+O'Brien reports that [China](/actors/china.md) is treating Taiwan as a "chip" in the broader Iran negotiation — backing Iran while signaling that Taiwan's status is part of the great power bargain, not an isolated territorial question [3].
+
 ## DragonBear Coordination
 
 Tchakarova argues that contesting Taiwan's maritime approaches while [Moscow](/actors/russia.md) ties down Western attention in [Ukraine](/conflicts/russia-ukraine-war.md) exemplifies coordinated pressure within the DragonBear framework [1]. The danger is bandwidth: China stretches Taiwan, Japan, and the Philippines across simultaneous theaters, forcing each to allocate finite attention and resources against multiple vectors of pressure [1]. This bandwidth exploitation is the core operational logic of the [great power competition](/themes/great-power-competition.md) — the axis does not need to win any single theater if it can overwhelm the Western capacity to respond across all of them simultaneously.
@@ -49,3 +55,7 @@ Tchakarova argues that contesting Taiwan's maritime approaches while [Moscow](/a
 # Citations
 
 [1] https://substack.com/@velinatchakarova/p-203793388
+
+[2] [Xi Drains the Central Military Commission](https://geopoliticalfutures.com/xi-drains-the-central-military-commission/)
+
+[3] [Midweek Update 12: We Are Witnessing US Decline In Real Time](https://phillipspobrien.substack.com/p/midweek-update-12-we-are-witnessing)

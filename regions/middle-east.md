@@ -21,6 +21,9 @@ The region hosts a dense web of competing actors — the United States, Iran, Is
 - The [Qatar Ras Laffan LNG explosion](/events/qatar-lng-explosion.md) compounded regional energy vulnerability, exposing the concentration of global LNG supply in a single complex. See [Qatar](/actors/qatar.md).
 - Gulf states increasingly view the US as an unreliable security partner; both Israel and Iran have demonstrated they can defy US preferences.
 - Post-MoU escalation: commercial shipping attacks resumed and US strikes followed, confirming the ceasefire's fragility.
+- [Saudi Arabia](/actors/saudi-arabia.md) conducted secret negotiations with Iran through [Pakistan](/actors/pakistan.md), with Russian and Chinese support, aiming at a non-aggression pact — signaling the end of the US monopoly on Middle East security architecture [4].
+- [Oman](/actors/oman.md) co-negotiated a permanent [toll system](/events/hormuz-toll-system.md) for Hormuz with Iran, formalizing Iran's chokepoint leverage [5].
+- The [UAE](/actors/uae.md) requested a US dollar swap line during the war, signaling stress in the petrodollar system while simultaneously facilitating Chinese-Iranian oil trade [6].
 
 # Key Dynamics
 
@@ -34,3 +37,9 @@ The region hosts a dense web of competing actors — the United States, Iran, Is
 [1] [Velinatchakarova — analysis of the Middle East situation](https://substack.com/@velinatchakarova/p-204418261)
 [2] [Phillips O'Brien — early lessons from the US-Iran War](https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war)
 [3] [Velinatchakarova — ceasefire analysis](https://substack.com/@velinatchakarova/p-202096137)
+
+[4] [The World Beyond Hormuz](https://thehonestsorcerer.substack.com/p/the-world-beyond-hormuz)
+
+[5] [Iran War: Iran, Oman in Talks Over Permanent Toll System for Strait of Hormuz](https://archive.ph/fPxWM)
+
+[6] [Operation Epic Folly(Fury) — Part 9: Gold, The UAE, Currency Swap Lines and the Petrodollar](https://endtropy.substack.com/p/operation-epic-follyfury-part-9-gold)
