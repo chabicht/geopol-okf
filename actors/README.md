@@ -58,3 +58,5 @@
 * [ctindale](ctindale.md) - Governance feedback loops, Tindale-Tchakarova Cascade model
 * [Derek Thompson](derek-thompson.md) - Global depopulation as the most undercovered structural trend
 * [Marian Tupy](marian-tupy.md) - Communism's 100-year human cost, contemporary socialist resurgence
+* [Adam Tooze](adam-tooze.md) - China Shock 2.0, financial repression, four disrupters of the 2026 world economy
+* [Anne Applebaum](anne-applebaum.md) - Kleptocracy tracker, blood-and-soil nationalism, institutional defacement under Trump

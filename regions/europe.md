@@ -2,7 +2,7 @@
 type: Region
 title: Europe
 description: Traditional US alliance architecture under NATO; EU economic bloc facing Russian hybrid warfare, shifting US priorities, and Trump's Greenland crisis fracturing the transatlantic alliance.
-tags: [europe, military, nato, energy, trade]
+tags: [europe, military, nato, energy, trade, economics]
 status: ongoing
 timestamp: 2026-07-03T00:00:00Z
 ---
@@ -26,6 +26,7 @@ Europe has been anchored by the US-led NATO alliance architecture since 1949 and
 - [Trump](/actors/trump.md)'s [Greenland crisis](/events/trump-greenland-crisis.md) — threats to seize Greenland and tariffs on eight NW European states — has fractured the transatlantic alliance. The EU's inability to respond (21 member states not sanctioned, internal divisions, lack of military cohesion) exposes the bloc's structural weakness. Only 12% of Germans view Trump's performance positively; only 15% see the US as a trustworthy partner (a new low) [9][10][11][12].
 - The Greenland crisis has alienated Europe's populist Right. France's [Bardella](/actors/france.md) criticized Trump's "imperial ambitions"; Germany's [AfD](/actors/germany.md) issued rare tepid criticism. The hope for a nationalist Internationale has collapsed — Trump's actions may instead galvanize European consolidation under the existing technocratic coalition [9][10][11][12].
 - GPF forecasts the EU will devolve into a multiregional system rather than a unified bloc, with the Franco-German engine constrained by domestic stagnation and the Poland-Romania-Greece axis anchoring Eastern Europe's containment line [13].
+- **China Shock 2.0**: [Adam Tooze](/actors/adam-tooze.md) frames the current wave of Chinese export competition as fundamentally different from the early-2000s "China Shock 1.0" — it is above all about Europe and about China's progress up the industrial value chain. The EU-China trade deficit has roughly doubled since COVID. The shock is concentrated in vehicles, green energy goods, and chemicals. Tooze calls this "mercantilist-on-mercantilist violence" — [Germany](/actors/germany.md) is itself a chronic surplus country, so the dynamic is surplus against surplus. Ironically, the EU's manufacturing trade surplus with the rest of the world is at new highs even as the deficit with China widens [14].
 
 # Key Dynamics
 
@@ -58,3 +59,5 @@ Europe has been anchored by the US-led NATO alliance architecture since 1949 and
 [12] [Germany's far right loosens its embrace of Trump](https://www.politico.eu/article/germany-donald-trump-afd-greenland-nicolas-maduro-national-rally/)
 
 [13] [2026 Forecast: Re-anchoring the World](https://geopoliticalfutures.com/forecast-for-2026-re-anchoring-the-world/)
+
+[14] [Chartbook 454: China Shock 2.0 and Mercantilist-on-Mercantilist Violence](https://adamtooze.substack.com/p/chartbook-454-china-shock-20-and)

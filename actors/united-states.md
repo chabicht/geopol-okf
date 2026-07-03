@@ -45,9 +45,17 @@ In Latin America, the US is attempting to reconstruct a hemispheric bloc through
 
 The [Slaughter SCOTUS ruling](/events/slaughter-scotus-ruling.md) stripped regulatory agencies of their independence, allowing [Trump](/actors/trump.md) to direct, gut, or repurpose any agency created by Congress. [Paul Krugman](/actors/paul-krugman.md) frames this as judicial enablement of oligarchic capture: civil servants replaced by loyalists, regulatory outcomes determined by who enriches the president rather than by statutory mandate. Corporate profits as a share of national income keep rising, reflecting increased monopoly power and the destruction of workers' rights — trends the ruling will accelerate. [7]
 
+[Anne Applebaum](/actors/anne-applebaum.md) documents the physical and symbolic dimension of institutional defacement: the Rose Garden desecrated, the East Wing rebuilt as a personal monument, the Reflecting Pool redone incompetently with police compelled to enforce the president's fiction about vandalism. The 250th Fourth of July celebration was usurped by a privately funded Trump event. The pattern is not incidental — it reflects a governing logic in which the state exists to serve the ruler's clan [12].
+
+## The AI Boom and K-Shaped Expansion
+
+[Adam Tooze](/actors/adam-tooze.md) identifies the US AI boom as a "K-shaped expansion" — one of four disrupters of the 2026 world economy. The boom is sucking in imports at a furious rate, but from [Taiwan](/actors/taiwan.md) and Mexico, not from [China](/actors/china.md). The US-China bilateral trade truce is holding; the bilateral deficit has narrowed dramatically. The US has effectively excluded the leading edge of China's export drive with 100% tariffs on Chinese EVs, making China Shock 2.0 largely a Europe problem. Trump is dismantling the IRA's energy transition subsidies even as the AI boom generates unprecedented asset price inflation [13].
+
 # Analysis
 
 The United States is experiencing a compounding crisis: military overstretch, diplomatic isolation, domestic political dysfunction, and a technology race where its lead is narrow and poorly leveraged. The [global system rupture](/themes/global-system-rupture.md) is not merely happening to the US — it is being accelerated by American decisions that diverge from strategic logic. The [energy and resource](/themes/energy-and-resources.md) foundation of US power remains robust in absolute terms but is diminishing relative to rivals, particularly China, which uses nearly twice as much energy and houses four times the population.
+
+Tooze identifies two of his four disrupters as American: Trump's trade policy rampage and US fiscal incontinence. The AI boom — the third disrupter — is centered in the US but its benefits are K-shaped, enriching a tiny elite while the institutional fabric degrades. The fourth disrupter, China's economic gear-shift, interacts with the other three to produce a world economy in which "two powerful forces are at work in the same world, at the same time" but are "to a degree separated and disconnected" [13][14].
 
 # Citations
 
@@ -72,3 +80,9 @@ The United States is experiencing a compounding crisis: military overstretch, di
 [10] [Midweek Update 12: We Are Witnessing US Decline In Real Time](https://phillipspobrien.substack.com/p/midweek-update-12-we-are-witnessing)
 
 [11] [The Myth of American Energy Independence](https://thehonestsorcerer.substack.com/p/the-myth-of-american-energy-independence)
+
+[12] [Trump and Vance Ruined the Fourth of July](https://anneapplebaum.substack.com/p/trump-and-vance-ruined-the-fourth)
+
+[13] [Chartbook 455: The AI Boom, China's Walled-In Wealth and the Financial Barriers](https://adamtooze.substack.com/p/chartbook-455-the-ai-boom-chinas)
+
+[14] [Chartbook 454: China Shock 2.0 and Mercantilist-on-Mercantilist Violence](https://adamtooze.substack.com/p/chartbook-454-china-shock-20-and)

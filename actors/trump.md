@@ -47,6 +47,18 @@ JD Vance has made himself the lead defender of the killing of Renee Nicole Good 
 
 MAGA is fundamentally about redistributing respect — away from overeducated coastal elites toward white Americans without advanced degrees who feel left behind. The ICE agent who killed Good is Trump's second-term Kyle Rittenhouse: enforcement of the MAGA vision of who must submit to whom. Vance's vociferous defense was political cash — paying moral currency where others might be trusted on credit [12].
 
+## Blood and Soil vs Founding Abstractions
+
+[Anne Applebaum](/actors/anne-applebaum.md) identifies the core ideological project of Trump and Vance as "blood and soil" nationalism. Vance's 2024 RNC acceptance speech explicitly dismissed American founding abstractions — "all men are created equal," "Life, Liberty and the pursuit of Happiness" — in favor of tombstones, homeland, and ancestral belonging. Vance argued that "people will not fight for abstractions" but "will fight for their home." Trump and Vance believe only their clan represents America; the government exists to serve them alone [13].
+
+## Institutional Defacement
+
+Trump has systematically defaced American institutions. He desecrated the Rose Garden, replacing its grass court with a patio copied from his Florida resort. He dug up the East Wing to build a monument to himself with hundreds of millions in private and taxpayer funds. He defaced the Reflecting Pool on the National Mall — then forced police and the National Guard to pretend the pool had been vandalized, arresting people who touched the water. Representatives of the American state must now comply with the president's personal fictions. He usurped Congress's planned 250th Fourth of July celebration, replacing it with a privately funded event featuring his own political speech [13].
+
+## Kleptocracy Tracker
+
+Applebaum documents the systematic monetization of presidential power. Key items from June 2026: Trump received a $400 million Qatari jet as Air Force One (to keep afterward); over 3,600 stock trades following a court ruling freeing hundreds of millions; a Kazakhstan tungsten mine deal negotiated by Trump and Commerce Secretary Lutnick with $1.6 billion in federal financing, benefiting Eric and Donald Trump Jr. as well as the Lutnick sons — "American princes" cut into more than a dozen mineral deals; Republicans introduced legislation to repeal shell company beneficial ownership disclosure; Trump personally spoke with Live Nation's CEO before DOJ abruptly settled its antitrust lawsuit; a firm founded by former Trump officials accepts hundreds of thousands to help clients secure presidential pardons; Trump Jr.'s $300K Kalshi equity is now worth millions as the firm's valuation grew from $2 billion to $22 billion [13].
+
 ## Slaughter Ruling and Dictatorial Regulatory Power
 
 The Roberts Supreme Court's [Slaughter ruling](/events/slaughter-scotus-ruling.md) overturned 90 years of precedent to grant Trump effectively unlimited power over regulatory agencies created by Congress. He can now direct agencies to do the opposite of their mandate, fire civil servants who resist, or gut them entirely. Krugman frames this as "dictatorial power" — not over the presidency in general, but over Trump specifically, given the Court's partisanship. [6]
@@ -66,6 +78,8 @@ Trump's second term has accelerated a pattern visible in his first: alliances ar
 ### Corruption as Governing Logic
 
 Krugman argues that corruption is not a side-effect of Trump's governance but its central dynamic. The [Slaughter ruling](/events/slaughter-scotus-ruling.md) judicially enabled this: regulatory agencies can now be weaponized to reward cronies and punish enemies. The pattern is consistent — policy reversals track personal enrichment, not principle. Civil servants are replaced by "henchmen and lackeys" who will execute whatever Trump wants. [6]
+
+Applebaum's Kleptocracy Tracker provides the documentary record: the Qatari jet, the Kazakhstan mineral deals enriching the Trump and Lutnick families, the stock trading surge, the shell company transparency repeal, the Live Nation settlement, the pardon lobbying industry, and the Kalshi equity windfall for Trump Jr. — all confirming that the systematic monetization of presidential power is the operational logic of the administration, not an aberration [13].
 
 # Citations
 
@@ -88,3 +102,5 @@ Krugman argues that corruption is not a side-effect of Trump's governance but it
 [11] [Germany's far right loosens its embrace of Trump](https://www.politico.eu/article/germany-donald-trump-afd-greenland-nicolas-maduro-national-rally/)
 
 [12] [Why Vance Committed So Hard to the Minneapolis Shooter](https://archive.ph/FAG0g)
+
+[13] [Trump and Vance Ruined the Fourth of July](https://anneapplebaum.substack.com/p/trump-and-vance-ruined-the-fourth)

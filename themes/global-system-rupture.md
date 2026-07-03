@@ -62,9 +62,20 @@ This asymmetry means that aggregate systemic stress can increase even as the mos
 
 ## Polycrisis and Permanent Damage
 
-[The Honest Sorcerer](/actors/the-honest-sorcerer.md) frames the current condition as a "polycrisis" — not a single crisis but the convergence of multiple stress vectors (energy, fertilizer, food, financial, supply chain) whose combined effect is greater than the sum of parts. The critical insight: the damage to supply chains is already done, regardless of whether the trigger event is resolved. The Hormuz disruption may end, but the fertilizer price cascade, the food supply chain disruption, and the financial stress will propagate for 6-12 months on their own timelines [4].
+[The Honest Sorcerer](/actors/the-honest-sorcerer.md) frames the current condition as a "polycrisis" — not a single crisis but the convergence of multiple stress vectors (energy, fertilizer, food, financial, supply chain) whose combined effect is greater than the sum of parts. The critical insight: the damage to supply chains is already done, regardless of whether the trigger event is resolved. The Hormuz disruption may end, but the fertilizer price cascade, the food supply chain disruption, and the financial stress will propagate for 6-12 months on their own timelines [5].
 
-A super El Nino in the pipeline threatens concurrent crop failures, potentially producing the first "major, permanent step towards the collapse of modern societies" — not the end of the world, but a step towards the involuntary simplification of global civilization [4].
+A super El Nino in the pipeline threatens concurrent crop failures, potentially producing the first "major, permanent step towards the collapse of modern societies" — not the end of the world, but a step towards the involuntary simplification of global civilization [5].
+
+## Four Disrupters of the 2026 World Economy
+
+[Adam Tooze](/actors/adam-tooze.md) identifies four disrupters operating simultaneously [4]:
+
+1. [Trump](/actors/trump.md)'s trade policy rampage.
+2. The extraordinary incontinence of US fiscal policy.
+3. The AI boom, which has taken on global economic scale.
+4. The gear-shift in [China](/actors/china.md)'s economic policy.
+
+China Shock 2.0 reflects #4. If trade protection and industrial bargaining are the solution, that risks compounding the disorder personified by Trump (#1). But doing nothing — spectacular, uncontrolled deindustrialization — is a serious risk for Europe. The four disrupters interact: the AI boom (#3) is centered in the US but its benefits are K-shaped, while China's export surge (#4) is walled off from the AI asset boom by capital controls, creating a "strange combination" of two powerful forces "to a degree separated and disconnected" in the same world economy [4].
 
 # Citations
 
@@ -74,4 +85,6 @@ A super El Nino in the pipeline threatens concurrent crop failures, potentially 
 
 [3] [GfKV: Global Systemic Rupture — The Fourth Systemic Crisis and Its Architecture](https://substack.com/@velinatchakarova/p-200150759)
 
-[4] [The Persian Polycrisis](https://thehonestsorcerer.substack.com/p/the-persian-polycrisis)
+[4] [Chartbook 454: China Shock 2.0 and Mercantilist-on-Mercantilist Violence](https://adamtooze.substack.com/p/chartbook-454-china-shock-20-and)
+
+[5] [The Persian Polycrisis](https://thehonestsorcerer.substack.com/p/the-persian-polycrisis)

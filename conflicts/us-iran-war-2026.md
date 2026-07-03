@@ -121,6 +121,14 @@ Pape reinforces this by noting that states gaining leverage rarely hurry to end 
 
 O'Brien observes that there was no rally-round-the-flag effect during the war. US society remains locked in a partisan death match: one side does whatever Trump wants, while the other opposed the war from the start. The old patriotic ideas that would have generated national cohesion in a wartime setting are gone [2].
 
+## Surprise-at-Failure
+
+[Aurelien](/actors/aurelien.md) classifies the US-Iran War as a classic case of "surprise-at-failure" — the most common type of strategic surprise. The outbreak of the conflict was not surprising: US leaders had been threatening to attack Iran for a decade, the methods (air campaign) were predictable, and Israel's participation was expected. The surprise came because the *overall strategic situation* was read wrongly [21].
+
+The dynamic Aurelien identifies is "backwards logic from desired outcome to necessary false assumptions": since a ground invasion was infeasible, all faith had to be placed in an air campaign — but the campaign could only succeed *if* the Iranian state was very fragile, *and* if main state targets could be reliably hit, *and* if the Iranian people would rise up once the state was weakened. These assumptions *had* to be true for the objective to be viable, and therefore the assumptions were treated as true. The US appreciation of Iran's conventional weakness was broadly correct, but Iran's *capability* (asymmetric, geographic, drone-based) was not properly understood, and the *objectives* of the Iranian state (survival and retaliation) were wrongly evaluated. Unlike the Americans, the Iranians were not surprised — they had expected the attack and developed capabilities to pursue their objective [21].
+
+Aurelien places this pattern alongside Operation Barbarossa (1941), the Iraq invasion (2003), and the Falklands (1982) as cases where the wished-for political outcome generated a chain of necessary false assumptions about the effectiveness of military action. The common thread: the desired outcome determines the intelligence assessment, rather than the intelligence assessment determining the feasible outcome [21].
+
 ## Escalation Pathways
 
 Pape identifies commercial shipping as the key escalation pathway. Hormuz remains open not because the US forced it open, but because Iran permits it — and Iran can withdraw that permission at any time [5]. Iran's three conditions for sustained passage are: release of $12 billion in frozen assets, an end to Israeli operations in Lebanon, and a reduction of US military presence in the region [5].
@@ -168,3 +176,5 @@ Pape warns that August could become the most dangerous month for the global econ
 [19] [Midweek Update 12: We Are Witnessing US Decline In Real Time](https://phillipspobrien.substack.com/p/midweek-update-12-we-are-witnessing)
 
 [20] [Situation Report — Special Edition](https://escalationtrap.substack.com/p/situation-report-special-edition)
+
+[21] [While We Were Sleeping](https://aurelien2022.substack.com/p/while-we-were-sleeping)

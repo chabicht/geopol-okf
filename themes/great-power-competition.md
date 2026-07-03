@@ -63,6 +63,12 @@ This is not a rejection of structural analysis but a correction of its overexten
 
 The consequence for [Russia](/actors/russia.md) would be a further decline: the Sino-Russian relationship is transactional, not eternal, and an entente between the US and China would leave Moscow facing a historical competitor along its long border. Russia should be seen as a regional, not global, power — that honor belongs to the US and China alone. For [Europe](/regions/europe.md), the reduction of the Russian threat and the absence of US-China confrontation would force the EU to confront its own fragmentation: the Franco-German engine is constrained, sovereigntist movements are rising, and the EU may devolve into a multiregional system rather than a unified bloc [7].
 
+## Mercantilist-on-Mercantilist Economic Competition
+
+[Adam Tooze](/actors/adam-tooze.md) provides an economic dimension to great power competition that complements the military and diplomatic frameworks. He identifies four disrupters of the 2026 world economy — Trump's trade rampage, US fiscal incontinence, the AI boom, and China's economic gear-shift — operating simultaneously but partially disconnected. The US AI boom is sucking in imports from [Taiwan](/actors/taiwan.md) and Mexico but not from China; the US-China bilateral trade truce is holding and the deficit has narrowed. Meanwhile, China Shock 2.0 is devastating European industry, particularly German automotive, through a mercantilist competition in which both sides are surplus economies. The economic competition is thus not a simple US-versus-China binary but a more complex geometry in which Europe bears the brunt of Chinese export displacement while the US maintains a separate, AI-driven expansion dynamic [8].
+
+The financial dimension reinforces the asymmetry: China's capital controls wall in $50 trillion in wealth, preventing Chinese elites from participating in the US AI asset boom. The yuan is undervalued not by market forces but by financial repression — calling for revaluation without addressing the capital control system is, in Tooze's framing, a euphemism. The "gilded cage" dynamic — in which non-US investors benefit from $13 trillion in US asset profits over the last decade while China's bourgeoisie is excluded — drives structural tension within China's political economy even as it sustains the export machine [8].
+
 # Citations
 
 [1] https://thehonestsorcerer.substack.com/p/the-big-picture
@@ -73,3 +79,5 @@ The consequence for [Russia](/actors/russia.md) would be a further decline: the 
 [6] [There Is Only One Sphere of Influence](https://www.foreignaffairs.com/united-states/there-only-one-sphere-influence)
 
 [7] [2026 Forecast: Re-anchoring the World](https://geopoliticalfutures.com/forecast-for-2026-re-anchoring-the-world/)
+
+[8] [Chartbook 455: The AI Boom, China's Walled-In Wealth and the Financial Barriers](https://adamtooze.substack.com/p/chartbook-455-the-ai-boom-chinas)

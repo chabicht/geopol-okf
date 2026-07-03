@@ -2,7 +2,7 @@
 type: Actor
 title: Germany
 description: Germany as a geopolitical actor — publishing first military strategy, signaling European conventional defense leadership, but hampered by timeline inconsistencies, capability gaps, and the AfD's Trump dilemma
-tags: [country, military, europe, nato, ideology]
+tags: [country, military, europe, nato, ideology, economics, trade]
 status: ongoing
 timestamp: 2026-07-03T00:00:00Z
 ---
@@ -45,9 +45,15 @@ In June 2026, Germany suffered its worst-ever [UN Security Council election defe
 
 Germany's far-right AfD has long sought close ties to the [Trump](/actors/trump.md) administration, viewing American ideological backing — from Elon Musk and JD Vance — as key to boosting domestic legitimacy and breaking the "firewall" imposed by mainstream parties. But Trump's [Greenland threats](/events/trump-greenland-crisis.md) and Venezuela intervention have forced a recalibration. Alice Weidel criticized Trump for violating his promise not to interfere in other countries; Tino Chrupalla condemned "Wild West methods." The criticism was tepid but rare from a party that previously embraced Trump. Only 12% of Germans view Trump's performance positively and only 15% see the US as a trustworthy partner — a new low that makes alignment with Trump politically toxic [5].
 
+## China Shock 2.0 and the Auto Crisis
+
+Germany is at the epicenter of what [Adam Tooze](/actors/adam-tooze.md) calls "China Shock 2.0" — the current wave of Chinese export competition that differs fundamentally from the early-2000s "China Shock 1.0." Germany's trade balance with [China](/actors/china.md) swung by €27 billion between 2021 and 2025, with 60% of that swing accounted for by vehicles. Chancellor Merz has taken up the accusation of an undervalued Chinese currency. Volkswagen announced plans to cut up to 100,000 jobs, conveying the depth of the industrial crisis [6].
+
+Tooze frames this as "mercantilist-on-mercantilist violence": Germany is itself a chronic trade surplus country, so China Shock 2.0 is competitive surplus against surplus, not the classic deficit-country-versus-surplus-country story. The irony is that German automakers paid out €31 billion in dividends in 2023 alone — as the Chinese EV avalanche was already upon them — rather than reinvesting in needed innovation. As Tordoir and Setser put it, "complacency is the besetting sin of European and particularly German industrial policy." [6]
+
 # Analysis
 
-Germany's military strategy represents a necessary but insufficient step. The recognition of the Russia threat and the acceptance of European conventional defense responsibility are positive developments. However, the timeline inconsistencies, lack of operational detail, and absence of institutional reform suggest that Germany remains in a declaratory phase rather than an execution phase. The gap between ambition and capability is the central challenge.
+Germany's military strategy represents a necessary but insufficient step. The recognition of the Russia threat and the acceptance of European conventional defense responsibility are positive developments. However, the timeline inconsistencies, lack of operational detail, and absence of institutional reform suggest that Germany remains in a declaratory phase rather than an execution phase. The gap between ambition and capability is the central challenge. Meanwhile, China Shock 2.0 adds an acute industrial crisis to the existing security challenges — the German automotive sector, the backbone of the economy, faces structural displacement by Chinese EVs, and the failure to reinvest record profits into innovation has compounded the vulnerability [6].
 
 # Citations
 
@@ -60,3 +66,5 @@ Germany's military strategy represents a necessary but insufficient step. The re
 [4] [UN-Sicherheitsrat: So schlecht hat Deutschland noch nie abgeschnitten](https://archive.ph/O3KHX)
 
 [5] [Germany's far right loosens its embrace of Trump](https://www.politico.eu/article/germany-donald-trump-afd-greenland-nicolas-maduro-national-rally/)
+
+[6] [Chartbook 454: China Shock 2.0 and Mercantilist-on-Mercantilist Violence](https://adamtooze.substack.com/p/chartbook-454-china-shock-20-and)

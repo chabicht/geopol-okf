@@ -29,6 +29,7 @@ The region hosts a dense web of competing actors — the United States, Iran, Is
 - Iran has entered a period of systemic uncertainty: the regime will struggle with civil unrest, succession, and the need for accommodation with the US. The IRGC is weakening, the supreme leader is being replaced, and mass unrest continues [8].
 - US policy has shifted from encouraging fragmentation to preserving unified states — opposing partition in Syria, Iraq, and Yemen to prevent Chinese and Russian exploitation of fragmented entities [9].
 - China's Saudi-Iran rapprochement (March 2023) signaled a shift in the regional balance, with Beijing positioning itself as a political mediator in a space traditionally within the Western sphere [9].
+- [Aurelien](/actors/aurelien.md) provides historical context for Western influence in the Middle East. The Mandate era (post-1919) accelerated modernization: French was taught in schools, enabling cross-community communication and the circulation of European political ideas. Leftist parties flourished (Communist Party of Syria/Lebanon formed 1924). The Ba'ath Party — cross-sectarian, heavily influenced by western socialist ideas — was the most influential political movement by 1970. The 1967 defeat by Israel shattered the fragile self-confidence of the secular era; the contemporary Western presence — "consultants and NGOs beavering away, running training courses on irrelevant subjects, producing reports no-one reads" — contrasts unfavorably with the seriousness of the missionary and Mandate era. The West's "soulless and unappealing liberal-technocratic managerial ideology" cannot compete with civilisational ideologies projected by other actors [10].
 
 # Key Dynamics
 
@@ -56,3 +57,5 @@ The region hosts a dense web of competing actors — the United States, Iran, Is
 [8] [2026 Forecast: Re-anchoring the World](https://geopoliticalfutures.com/forecast-for-2026-re-anchoring-the-world/)
 
 [9] [The Return of the Nation-State in the Middle East](https://geopoliticalfutures.com/the-return-of-the-nation-state-in-the-middle-east/)
+
+[10] [Don't Expect Respect](https://substack.com/@aurelien2022/p-204269398)
