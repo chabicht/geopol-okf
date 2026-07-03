@@ -4,7 +4,7 @@ title: India
 description: India as a geopolitical actor — balancing China as its overriding strategic concern while enduring Trump-era diplomatic slights
 tags: [country, military, indo-pacific, trade]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-03T00:00:00Z
 ---
 
 # Background
@@ -33,6 +33,10 @@ India's approach to the [US-Iran War](/conflicts/us-iran-war-2026.md) was passiv
 
 The Russia-India-China (RIC) trilateral was revived in mid-2026 as a coordinated DragonBear play to pull India away from Washington. [China](/actors/china.md) endorsed the revival; [Russia](/actors/russia.md) praised both Modi and Xi. Coinciding with the revival, India froze Starlink approvals over security concerns after Starlink operated in Iran without an Indian license. India's doctrine of "multi-alignment with hard sovereignty floors" is being tested: can India participate in a RIC framework while maintaining its Quad membership? See [RIC Revival of 2026](/events/ric-revival-2026.md) [2].
 
+## India as the Decisive Swing Variable
+
+[Velina Tchakarova](/actors/velina-tchakarova.md) identifies India as the most important swing variable between hardened bifurcation and volatile multipolarity. India widened its room for maneuver by deepening Russian energy ties, freezing Starlink approvals, and reopening high-level dialogue with China — making it the single actor whose trajectory most determines whether the global system hardens into a bipolar US-versus-China structure or fragments into a more fluid multipolar order. India's multi-alignment doctrine is not hedging but strategic autonomy: the deliberate cultivation of optionality across blocs, enabled by the fact that no bloc can afford to lose India to the other side [4].
+
 ## Trade Realignment
 
 McKinsey's 2026 trade geometry analysis shows that US-China trade fell approximately 30%, with ASEAN, Brazil, and [India](/actors/india.md) absorbing redirected flows. India thrived as a "factory to the factories" intermediary, but the trade realignment along geopolitical lines creates both opportunity and vulnerability for Indian economic strategy [3].
@@ -48,3 +52,5 @@ India's strategic position is defined by the asymmetry with China and the absenc
 [2] [The RIC (China-India-Russia) Revival and India's Starlink Freeze](https://substack.com/@velinatchakarova/p-201566415)
 
 [3] [Geopolitics and the geometry of global trade 2026 update](https://www.mckinsey.com/mgi/our-research/geopolitics-and-the-geometry-of-global-trade-2026-update)
+
+[4] [Global System June 2026](https://substack.com/@velinatchakarova/p-204418261)

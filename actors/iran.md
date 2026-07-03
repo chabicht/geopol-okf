@@ -27,6 +27,8 @@ Iran retained effective leverage over the Strait of Hormuz throughout the confli
 
 The next phase of the conflict may involve commercial shipping attacks. The IRGC has already attacked the Singapore-flagged vessel Ever Lovely, demonstrating drone warfare capabilities and a willingness to extend the battlefield to maritime commerce.
 
+Iran's de facto control over Hormuz transit has outlasted the post-war oil price collapse. Even without a formal toll regime, Tehran now exercises a degree of practical control over transit that did not exist before the war — and this shift in de facto authority is unlikely to revert once headline prices stabilize. Some shipping operators have reportedly begun obscuring vessel locations rather than risk sanctions exposure by coordinating openly with Iranian authorities, an opaque adaptation that signals how unresolved the governance question remains. Persian Gulf production remains roughly 45% below pre-war levels, regional exports sit around 25% below February levels, and shipping costs in waters south of Iran have climbed to roughly 5.5 times pre-war levels [8].
+
 ## Hormuz Toll System
 
 Iran has proposed a permanent [toll system](/events/hormuz-toll-system.md) for the Strait of Hormuz, negotiated through [Oman](/actors/oman.md). The system would charge approximately $2 million per tanker transit, payable in rials — a structure that both generates revenue and internationalizes the rial. [Trump](/actors/trump.md) rejected the plan, but the proposal institutionalizes Iran's chokepoint leverage as a permanent feature of global energy governance [2].
@@ -58,3 +60,5 @@ Iran's post-war position demonstrates the limits of conventional military power 
 [6] Robert Pape, "Situation Report Special Edition" — https://escalationtrap.substack.com/p/situation-report-special-edition
 
 [7] Velina Tchakarova, "Ceasefire in Iran" — https://substack.com/@velinatchakarova/p-204418261
+
+[8] [Priced for Peace: Why Oil's Return to Pre-War Levels Overstates the Hormuz Recovery](https://substack.com/@velinatchakarova/p-204528761)

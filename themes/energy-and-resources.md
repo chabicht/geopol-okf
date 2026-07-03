@@ -89,6 +89,18 @@ Tchakarova notes that pipeline bypass options are structurally thin: Saudi and U
 
 The concentration of LNG infrastructure at [Qatar](/actors/qatar.md)'s Ras Laffan — approximately one-fifth of global seaborne LNG supply — represents a parallel chokepoint vulnerability. A single facility's disruption would cascade through global gas markets with effects disproportionate to the scale of the physical damage.
 
+## Price Recovery vs Supply Recovery
+
+[Velina Tchakarova](/actors/velina-tchakarova.md) demonstrates that the post-war oil price collapse is a demand-side phenomenon, not a supply-side recovery. Brent fell from above $180 to around $72, but Persian Gulf production remains roughly 45% below pre-war levels and regional exports sit around 25% below February levels. The decline was driven by four offsets: physical rerouting (Saudi East-West pipeline, UAE bypass, Iran shadow fleets), coordinated strategic reserve releases (300M+ barrels — the largest emergency drawdown in history), Chinese demand destruction (crude imports fell 40%, close to 5M bpd), and broader global demand contraction (5.5M bpd in Q2 2026). Shipping costs in waters south of Iran remain at 5.5x pre-war levels, tanker charter rates at 9x. Full restoration of export capacity is expected to take months, with Qatar's damaged LNG facilities potentially requiring years [12].
+
+The implication is that markets are pricing hope ahead of facts. The price collapse is best read as evidence that global demand management and reserve coordination can absorb shocks that would have been unmanageable a decade ago — a quiet win for the Western-led IEA architecture in its competition with the DragonBear axis over who controls energy resilience tools. But Iran's retained leverage over Hormuz means the underlying rupture has not closed, only been priced as if it has. A single incident could reprice the entire system within days [12].
+
+## European Nuclear Debate
+
+[Velina Tchakarova](/actors/velina-tchakarova.md) frames the European nuclear debate through the Austrian case: a country with 87.5% renewable electricity that nonetheless needs dispatchable low-carbon baseload as the fourth industrial revolution drives demand upward. Austria's anti-nuclear position — rooted in the 1978 Zwentendorf referendum — has become hypocrisy, as the country imports electricity from neighbours whose grids run on nuclear power. Meanwhile, Europe is moving decisively: Denmark reviewing its 1985 ban, Belgium scrapping its phase-out, Italy beginning to overturn its ban, Sweden and Finland expanding, and Japan restarting. [Germany](/actors/germany.md) and Austria stand as the last outliers, on the wrong side of both energy security and industrial competitiveness [17].
+
+The nuclear question is inseparable from the [European security](/regions/europe.md) question: a country that bets heavily on volatile renewables needs stable baseload, and the countries that refuse nuclear are the same ones that refuse to seriously debate NATO membership and defense spending. The energy and security taboos reinforce each other — both reflect a posture that assumes the post-war order can persist without adaptation [17].
+
 ## Historical Oil Crisis Comparison
 
 [The Honest Sorcerer](/actors/the-honest-sorcerer.md) provides historical context by comparing the current crisis to previous oil shocks: the 1973 OPEC embargo, the 1979 Iranian Revolution, and the Iran-Iraq War. The current crisis projects 2-4 billion barrels lost and 6-12% of global crude production affected — making it the biggest energy crisis in history, exceeding all three previous shocks [13].
@@ -142,3 +154,5 @@ The implication for [energy and resources](/themes/energy-and-resources.md) is d
 [15] [There Is No Next Economy](https://thehonestsorcerer.substack.com/p/there-is-no-next-economy)
 
 [16] ['Climate change is here': Experts warn environmental crisis is decades ahead of forecasts](https://archive.ph/b0G1x)
+
+[17] [The Holy Trinity of Austrian Taboos: Nuclear, NATO, Neutrality](https://substack.com/@velinatchakarova/p-204698127)

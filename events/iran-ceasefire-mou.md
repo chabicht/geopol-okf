@@ -37,9 +37,15 @@ The [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) disrupted the Strait o
 - Pape warns that August could become the most dangerous month for the global economy, as the 60-day window expires and incentives shift [2].
 - Post-MoU escalation has been confirmed — commercial shipping attacks resumed, validating concerns that the ceasefire was a pause rather than a resolution [4].
 
+## Scenario Modeling
+
+[Velina Tchakarova](/actors/velina-tchakarova.md) reports scenario modeling built on physical supply data and shipping market behavior. The highest probability (roughly 50%) sits with a fragile equilibrium: oil trades between $70–85 while the memorandum holds despite recurring friction over Hormuz and Lebanon. A renewed rupture — a serious incident at the strait or a ceasefire breach sending prices back toward $100+ — carries roughly 30% probability. Only 20% of the probability weight sits with durable stabilization, a scenario requiring a lasting settlement that would allow prices to settle near pre-war levels and meaningfully reduce secondary risks across shipping, fertilizer, and food markets. The decisive variable is the 60-day window expiring in mid-August — if it holds, the system gains time but not stability; if it fails, Hormuz, Lebanon, Ukraine, Taiwan, and critical minerals can reactivate together within hours [5].
+
 # Citations
 
 [1] [Velinatchakarova — ceasefire as axis course correction](https://substack.com/@velinatchakarova/p-202096137)
 [2] [Robert Pape — uncertain deal, Iran certainly](https://escalationtrap.substack.com/p/uncertain-dealand-iran-certainly)
 [3] [Velinatchakarova — Iran's retained leverage](https://substack.com/@velinatchakarova/p-204418261)
 [4] [Robert Pape — situation report special edition](https://escalationtrap.substack.com/p/situation-report-special-edition)
+
+[5] [Priced for Peace: Why Oil's Return to Pre-War Levels Overstates the Hormuz Recovery](https://substack.com/@velinatchakarova/p-204528761)

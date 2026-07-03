@@ -69,6 +69,12 @@ The consequence for [Russia](/actors/russia.md) would be a further decline: the 
 
 The financial dimension reinforces the asymmetry: China's capital controls wall in $50 trillion in wealth, preventing Chinese elites from participating in the US AI asset boom. The yuan is undervalued not by market forces but by financial repression — calling for revaluation without addressing the capital control system is, in Tooze's framing, a euphemism. The "gilded cage" dynamic — in which non-US investors benefit from $13 trillion in US asset profits over the last decade while China's bourgeoisie is excluded — drives structural tension within China's political economy even as it sustains the export machine [8].
 
+## Energy Resilience as Competitive Vector
+
+[Velina Tchakarova](/actors/velina-tchakarova.md) frames the post-Iran-war energy market as a competitive arena between the Western-led IEA architecture and the DragonBear axis. The oil price collapse — Brent from above $180 to around $72 — was not a supply recovery but a demand management success: coordinated reserve releases of 300M+ barrels, Chinese demand destruction (40% import decline), and global demand contraction of 5.5M bpd in Q2 2026. This demonstrated that global demand management and reserve coordination can now absorb shocks that would have been unmanageable a decade ago — a quiet win for the Western-led IEA architecture in its competition with the DragonBear axis over who controls energy resilience tools [9].
+
+China's demand pullback also demonstrates Beijing's growing willingness to manage its own exposure unilaterally rather than rely on price signals alone — a form of strategic autonomy that middle powers will study closely. The implication is that energy resilience is no longer merely an economic function but a competitive capability: the side that can better absorb and manage supply disruptions gains systemic advantage. [Iran](/actors/iran.md)'s retained leverage over [Hormuz](/events/hormuz-toll-system.md) means the underlying rupture has not closed, only been priced as if it has — a single incident could reprice the entire system within days [9].
+
 # Citations
 
 [1] https://thehonestsorcerer.substack.com/p/the-big-picture
@@ -81,3 +87,5 @@ The financial dimension reinforces the asymmetry: China's capital controls wall 
 [7] [2026 Forecast: Re-anchoring the World](https://geopoliticalfutures.com/forecast-for-2026-re-anchoring-the-world/)
 
 [8] [Chartbook 455: The AI Boom, China's Walled-In Wealth and the Financial Barriers](https://adamtooze.substack.com/p/chartbook-455-the-ai-boom-chinas)
+
+[9] [Priced for Peace: Why Oil's Return to Pre-War Levels Overstates the Hormuz Recovery](https://substack.com/@velinatchakarova/p-204528761)

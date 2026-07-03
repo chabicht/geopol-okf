@@ -4,7 +4,7 @@ title: Velina Tchakarova
 description: Geopolitical analyst developing the Global System Rupture framework, DragonBear axis terminology, and FACE Intelligence Simultaneity methodology — tracking systemic stress across energy, trade, and conflict theaters
 tags: [author, framework]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-03T00:00:00Z
 ---
 
 # Background
@@ -60,6 +60,8 @@ Tchakarova's framework for understanding how proxy wars and systemic crises inte
 - "Geopolitical Outlook: The Ceasefire in Iran" [8]
 - "The Quiet Before the Squeeze — Why Hormuz Hasn't Sent Oil to $150" [9]
 - "The RIC (China-India-Russia) Revival and India's Starlink Freeze" [10]
+- "Priced for Peace: Why Oil's Return to Pre-War Levels Overstates the Hormuz Recovery" [11]
+- "The Holy Trinity of Austrian Taboos: Nuclear, NATO, Neutrality" [12]
 
 # Citations
 
@@ -82,3 +84,7 @@ Tchakarova's framework for understanding how proxy wars and systemic crises inte
 [9] [The Quiet Before the Squeeze — Why Hormuz Hasn't Sent Oil to $150](https://substack.com/@velinatchakarova/p-201366553)
 
 [10] [The RIC (China-India-Russia) Revival and India's Starlink Freeze](https://substack.com/@velinatchakarova/p-201566415)
+
+[11] [Priced for Peace: Why Oil's Return to Pre-War Levels Overstates the Hormuz Recovery](https://substack.com/@velinatchakarova/p-204528761)
+
+[12] [The Holy Trinity of Austrian Taboos: Nuclear, NATO, Neutrality](https://substack.com/@velinatchakarova/p-204698127)

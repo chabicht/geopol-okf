@@ -25,6 +25,7 @@
 * [Australia](australia.md) - Resource-dependent US ally whose governance dysfunction illustrates institutional feedback loops
 * [Ethiopia](ethiopia.md) - Landlocked state pursuing sea access through Eritrea, aligned with UAE-RSF axis
 * [Eritrea](eritrea.md) - Coastal state controlling Ethiopia's path to sea, aligned against UAE-Ethiopia axis
+* [Austria](austria.md) - Trapped by its holy trinity of taboos (nuclear, NATO, neutrality) as European security shifts eastward
 
 ## Leaders
 

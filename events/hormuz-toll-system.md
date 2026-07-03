@@ -4,7 +4,7 @@ title: Hormuz Toll System Negotiations
 description: Iran-Oman talks on a permanent toll system for the Strait of Hormuz, formalizing Iran's control over maritime traffic and institutionalizing chokepoint leverage
 tags: [energy, middle-east, trade]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-03T00:00:00Z
 ---
 
 # Background
@@ -24,6 +24,8 @@ Throughout the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md), [Iran](/ac
 
 [Robert Pape](/actors/robert-pape.md) argues that Iran's leverage over Hormuz is structural, not tactical — it persists regardless of the balance of conventional forces. The toll system proposal is the diplomatic manifestation of this structural leverage: Iran is not asking permission but describing the terms under which it will continue to permit passage [3].
 
+[Velina Tchakarova](/actors/velina-tchakarova.md) notes that Iran's de facto control over transit has outlasted the post-war price collapse even without a formal toll regime. Tehran now exercises a degree of practical control over Hormuz passage that did not exist before the war, and this shift in de facto authority is unlikely to revert once headline prices stabilize. Some shipping operators have reportedly begun obscuring vessel locations rather than risk sanctions exposure by coordinating openly with Iranian authorities — an opaque adaptation that itself signals how unresolved the governance question remains beneath a calmer price chart [4].
+
 # Citations
 
 [1] [Iran War: A Light At The End of Tunnel](https://thehonestsorcerer.substack.com/p/iran-war-light-at-the-end-of-the)
@@ -31,3 +33,5 @@ Throughout the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md), [Iran](/ac
 [2] [Iran War: Iran, Oman in Talks Over Permanent Toll System for Strait of Hormuz](https://archive.ph/fPxWM)
 
 [3] [The Price of Oil Is the Real Iran Deal](https://escalationtrap.substack.com/p/the-price-of-oil-is-the-real-iran)
+
+[4] [Priced for Peace: Why Oil's Return to Pre-War Levels Overstates the Hormuz Recovery](https://substack.com/@velinatchakarova/p-204528761)

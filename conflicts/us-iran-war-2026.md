@@ -87,6 +87,31 @@ The calm is "engineered, temporary, and depleting." Each buffer is a one-time me
 
 Pape warns that the real strategic outcome is not about uranium but oil prices. If oil stays above $90 even after Hormuz reopens, Iran wins through "controlled instability" — persistent disruptions, insurance volatility, and drone incidents that sustain a geopolitical risk premium without total closure [16].
 
+## Price Recovery vs Supply Recovery
+
+Tchakarova's follow-up analysis dismantles the market narrative that the oil price collapse signals a Hormuz recovery. Brent fell from a wartime peak above $180 to around $72, with the forward curve moving into contango — typically signaling traders expect ample near-term supply. But the physical data tell a different story: Persian Gulf production remains roughly 45% below its pre-war level, regional exports sit around 25% below February levels, and shipping companies remain reluctant to send vessels back through Hormuz given unresolved insurance costs and residual mine risk [22].
+
+The price decline was driven by four distinct offsets working simultaneously rather than any single fix [22]:
+
+1. **Physical rerouting**: [Saudi Arabia](/actors/saudi-arabia.md) pushed additional volumes through its East-West pipeline to the Red Sea; the [UAE](/actors/uae.md) diverted crude through its own bypass route toward [Oman](/actors/oman.md); Iran itself exported more oil during the war than before it, using shadow fleets, ship-to-ship transfers, and steep discounts.
+2. **Coordinated reserve releases**: Industrialized economies released more than 300 million barrels from strategic reserves — the largest emergency drawdown in the mechanism's history — even as it pushed American reserves toward their lowest levels since the 1980s.
+3. **China demand destruction**: [China](/actors/china.md)'s crude imports fell by roughly 40% — close to five million barrels a day — as the country drew down stockpiles built during a period of aggressive buying rather than bid aggressively into a tightening market.
+4. **Broader demand erosion**: Global oil demand contracted by an estimated 5.5 million barrels a day in Q2 2026, compounding the Chinese pullback. Asian governments and firms trimmed energy-intensive activity at the margins.
+
+These offsets covered most, though not all, of the feared shortfall, which is why prices settled in a wartime range of $80–110 rather than spiking toward the theoretical worst case. The subsequent decline toward pre-war levels reflected demand contraction, not supply restoration. Full restoration of export capacity is expected to take many months, with [Qatar](/actors/qatar.md)'s damaged LNG facilities potentially requiring years rather than months to repair. Shipping costs in waters south of Iran have climbed to roughly 5.5 times pre-war levels, and tanker charter rates have surged to nearly nine times pre-war norms [22].
+
+## Scenario Modeling
+
+Analysts at Tufton Investment Management and Energy Aspects separately warn that shipping companies remain wary of sending vessels back into the strait given unresolved insurance costs, lingering sea mine concerns, and uncertainty over the durability of the ceasefire framework itself. Iran's leverage over the waterway has outlasted the price collapse — Tehran now exercises a degree of practical control over transit that did not exist before the war, even without a formal toll regime. Some shipping operators have reportedly begun obscuring vessel locations rather than risk sanctions exposure by coordinating openly with Iranian authorities [22].
+
+Scenario modeling built around this evidence assigns the following probability weights [22]:
+
+- **Fragile equilibrium (50%)**: Oil trades between $70–85 while the memorandum holds despite recurring friction over Hormuz and Lebanon.
+- **Renewed rupture (30%)**: A serious incident at the strait or a ceasefire breach sends prices back toward $100 or higher.
+- **Durable stabilization (20%)**: A lasting settlement allows prices to settle near pre-war levels and meaningfully reduces secondary risks across shipping, fertilizer, and food markets.
+
+The price collapse is best read as evidence that global demand management and reserve coordination can now absorb shocks that would have been unmanageable a decade ago — a quiet win for the Western-led IEA architecture in its competition with the DragonBear axis over who controls energy resilience tools. But Iran's retained leverage over Hormuz means the underlying rupture has not closed, only been priced as if it has. A single incident could reprice the entire system within days [22].
+
 ## Diplomatic Dimensions
 
 O'Brien emphasizes that the United States threw its European allies, Japan, and South Korea under the bus by starting the war without informing them — a decision that inflicted lasting damage on alliance trust and cohesion [2].
@@ -178,3 +203,5 @@ Pape warns that August could become the most dangerous month for the global econ
 [20] [Situation Report — Special Edition](https://escalationtrap.substack.com/p/situation-report-special-edition)
 
 [21] [While We Were Sleeping](https://aurelien2022.substack.com/p/while-we-were-sleeping)
+
+[22] [Priced for Peace: Why Oil's Return to Pre-War Levels Overstates the Hormuz Recovery](https://substack.com/@velinatchakarova/p-204528761)

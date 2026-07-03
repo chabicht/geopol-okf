@@ -9,7 +9,7 @@ tags:
   - trade
   - sanctions
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-03T00:00:00Z
 ---
 
 # Background
@@ -59,6 +59,12 @@ The reversal of the primary shock was enabled by temporary measures: record US c
 
 A critical insight from the GSR framework: de-escalation is not uniform across theaters. After the Versailles MoU, the Middle East stepped back while Ukraine re-intensified. Russia's advance slowed, but Ukrainian strikes reached St. Petersburg — a demonstration that the kinetic dimension of the rupture shifted rather than diminished. The Indo-Pacific continued gray-zone escalation through coast guard normalization, with no pause corresponding to the Middle East de-escalation [2].
 This asymmetry means that aggregate systemic stress can increase even as the most visible crisis appears to resolve. The simultaneity reading captures this: dropping from S5-S6 to S3-S4 represents progress, but S3-S4 is still elevated — the system remains in rupture, just at a lower intensity.
+
+## Hot Peace and Cold War
+
+Tchakarova identifies the base case as "Hot Peace and Cold War": multipolar diplomacy operating inside increasingly bifurcated financial, technological, industrial, and security systems. Washington and Beijing preserved the headline trade truce while escalating through blacklists, export controls, procurement bans, biotech restrictions, robotics, and rare-earth chokepoints. Full Cold War 2.0 escalation is now the second-most-probable configuration at approximately 27%. The decisive variable is the sixty-day Iran Memorandum window expiring in mid-August — if it holds, the system gains time but not stability; if it fails, Hormuz, Lebanon, Ukraine, Taiwan, and critical minerals can reactivate together within hours. June did not turn the ship away from the rocks — it slowed the engines, narrowed the margin for error, and made the next turn more consequential [2].
+
+The DragonBear axis emerged from the Iran war more operationally coordinated but more visibly hierarchical. [China](/actors/china.md) is expanding yuan settlement, CIPS throughput, and sanctions-resistant energy infrastructure, while [Russia](/actors/russia.md) has become more dependent on Chinese pricing power and market access. The axis deepened beneath the surface of de-escalation: the trade truce is a headline, not a structural reality [2].
 
 ## Polycrisis and Permanent Damage
 
