@@ -4,7 +4,7 @@ title: India
 description: India as a geopolitical actor — balancing China as its overriding strategic concern while enduring Trump-era diplomatic slights
 tags: [country, military, indo-pacific, trade]
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -41,6 +41,10 @@ The Russia-India-China (RIC) trilateral was revived in mid-2026 as a coordinated
 
 McKinsey's 2026 trade geometry analysis shows that US-China trade fell approximately 30%, with ASEAN, Brazil, and [India](/actors/india.md) absorbing redirected flows. India thrived as a "factory to the factories" intermediary, but the trade realignment along geopolitical lines creates both opportunity and vulnerability for Indian economic strategy [3].
 
+## Bangladesh Strategic Challenge
+
+China's $9.2 billion investment push into [Bangladesh](/actors/bangladesh.md) — including 13 MOUs and the Teesta River project — represents a strategic setback for New Delhi. Bangladesh has historically been so close to India it could be considered a satellite, but the 2024 uprising that ended Sheikh Hasina's rule opened the door to strategic autonomy. Chinese commercial investments near the Siliguri Corridor raise security concerns. However, India retains structural advantages: 4,000+ km of shared border, deep historical ties, and geographic indispensability. New Delhi will likely accelerate its own connectivity initiatives rather than oppose Beijing's investment directly [5].
+
 # Analysis
 
 India's strategic position is defined by the asymmetry with China and the absence of alternatives to the American partnership. The relationship with the US is durable not because it is satisfactory, but because it is structurally necessary. India's passivity during the Iran war and its tolerance of Trump's slights both reflect the same underlying constraint: the China threat leaves no room for strategic autonomy in alliance management.
@@ -54,3 +58,5 @@ India's strategic position is defined by the asymmetry with China and the absenc
 [3] [Geopolitics and the geometry of global trade 2026 update](https://www.mckinsey.com/mgi/our-research/geopolitics-and-the-geometry-of-global-trade-2026-update)
 
 [4] [Global System June 2026](https://substack.com/@velinatchakarova/p-204418261)
+
+[5] [China Makes Its Move in Bangladesh](https://geopoliticalfutures.com/china-makes-its-move-in-bangladesh/)

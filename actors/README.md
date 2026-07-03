@@ -26,6 +26,9 @@
 * [Ethiopia](ethiopia.md) - Landlocked state pursuing sea access through Eritrea, aligned with UAE-RSF axis
 * [Eritrea](eritrea.md) - Coastal state controlling Ethiopia's path to sea, aligned against UAE-Ethiopia axis
 * [Austria](austria.md) - Trapped by its holy trinity of taboos (nuclear, NATO, neutrality) as European security shifts eastward
+* [United Kingdom](united-kingdom.md) - Post-Brexit power navigating energy security, European defence burden-sharing, and domestic asylum policy
+* [Egypt](egypt.md) - Self-styled Middle East mediator with diminishing diplomatic leverage, constrained by economic weakness
+* [Bangladesh](bangladesh.md) - Strategic player in the Bay of Bengal pursuing multi-alignment among China, India, and the US
 
 ## Leaders
 

@@ -7,7 +7,7 @@ tags:
   - economics
   - supply-chain
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -30,6 +30,8 @@ U.S. agriculture is locked into 180 million acres of corn and soybeans by a comb
 ## Farm Restructuring Pressure
 
 40% of agricultural economists surveyed believe many U.S. farms need major restructuring to survive. Falling profitability, rising debt costs, ethanol/E15 policy uncertainty, rising input costs, and declining export demand are creating cumulative financial stress across the agricultural sector [6].
+
+Half of agricultural economists do not expect broadly profitable crop margins for 3-5 years, with only 19% seeing recovery within 12 months. U.S. farm income is increasingly dependent on government payments ($44.3 billion forecast), and weather, Chinese demand, and trade are cited as the biggest wild cards ahead [7].
 
 ## The Oil Import Curse
 
@@ -61,5 +63,7 @@ The honest assessment is that mitigation, not prevention, is the available strat
 [5] [The Oil Import Curse](https://thehonestsorcerer.substack.com/p/the-oil-import-curse)
 
 [6] [40% of Ag Economists Say Many Farms May Need Major Restructuring to Survive](https://www.agweb.com/news/policy/ag-economy/40-ag-economists-say-many-farms-may-need-major-restructuring-survive)
+
+[7] [Half of Ag Economists Say Crop Profitability Might Still Be 3 to 5 Years Away](https://www.agweb.com/news/policy/ag-economy/half-ag-economists-say-crop-profitability-might-still-be-3-5-years-away)
 
 [7] [The Oil Import Curse](https://thehonestsorcerer.substack.com/p/the-oil-import-curse)

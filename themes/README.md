@@ -16,9 +16,11 @@
 * [Critical Minerals](critical-minerals.md) - Rare earth elements, silver, copper; China's 90% processing dominance and Western by-product barriers
 * [Food and Agriculture](food-and-agriculture.md) - Fertilizer cascade, U.S. agricultural lock-in, diesel dependency, and food system fragility
 * [Monetary System Transition](monetary-system-transition.md) - Petrodollar cracking, dedollarization, gold accumulation, and the monetary dimension of geopolitical conflict
+* [Sanctions and Financial Warfare](sanctions-and-financial-warfare.md) - Architecture of economic coercion — sanctions design, enforcement gaps, shadow banking, and evasion networks
 
 ## Ideology & Information
 
 * [Cognitive Warfare](cognitive-warfare.md) - Russian influence operations, vandalism attacks, election interference
 * [Ideology and Democracy](ideology-and-democracy.md) - Democratic legitimacy crisis, communism as failed ideology, Latin American realignment
 * [Global Depopulation](global-depopulation.md) - Fertility decline as the most undercovered structural trend of the 21st century
+* [Organised Crime and Statecraft](organised-crime-and-statecraft.md) - The growing nexus between states and organised criminal networks for sanctions evasion, sabotage, and influence operations

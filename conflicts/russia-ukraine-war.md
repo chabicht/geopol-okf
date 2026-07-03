@@ -9,7 +9,7 @@ tags:
   - military
   - europe
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -61,6 +61,20 @@ O'Brien asserts that [Trump](/actors/trump.md) is still helping Putin despite oc
 
 O'Brien distinguishes long-range strikes (strategic bombing of oil refineries, weapons production, industrial base) from medium-range strikes (logistics disruption, supply lines, rail hubs). Both sides are still in the early stages of the ranged war (comparable to mid-1943 in WWII), with significant capacity to increase production. The FP-5 Flamingo missile striking Titan-Barrikady in Volgograd represents the maturation of Ukraine's long-range capability [8][9].
 
+## Strike Campaign Synergy and the New Phase
+
+ISW analysis documents how the synergy between Ukraine's long-range strikes on Russian oil refineries (reducing production capacity) and its new mid-range strikes against Russian ground lines of communication (disrupting transportation of remaining fuel) produced acute gasoline shortages in occupied Crimea and other occupied Ukrainian territories. The mid-range campaign was the catalyst for shortages in occupied Ukraine specifically, while Russia itself weathered the long-range campaign through export bans and prioritization. Emerging diesel shortages may pose a more militarily consequential threat [10].
+
+Ukraine is breaking out of positional warfare through a combination of maturing operational planning (corps structure, Delta battlefield management system), an intensified intermediate-range strike campaign using AI-enabled Hornet drones to degrade Russian GLOCs at 100-160km depth, SEAD/DEAD operations, and tactical drone supremacy. Russian advance rates have plummeted to approximately 3 sq km/day with casualties exceeding recruitment since December 2025. The first mechanized counterattacks since 2023 herald a new phase of the war. Ukraine's partners have a rare, time-constrained opportunity to exploit this momentum before Russia adapts [11].
+
+## Russian Resettlement Campaign
+
+Russia is conducting a systematic [resettlement campaign](/events/russia-resettlement-campaign.md) to repopulate occupied Ukraine with Russian citizens through weaponized property law, preferential mortgages, and demographic engineering. With 75% of apartments in occupied Mariupol purchased by Russian immigrants and plans to resettle 114,000 Russians by 2045, the campaign aims to engineer a demographic reality that entrenches occupation governance and complicates any future reintegration into Ukraine [12].
+
+## Ukrainian Military Adaptation
+
+Dr. Jack Watling (RUSI) describes Ukraine's transformation from an underfunded Soviet-legacy force to a 960,000-person defense force integrating UAVs as a universal fires platform, driven by civil society and a burgeoning private defense industry that rapidly iterates equipment based on frontline feedback. The vulnerability of globalized defense supply chains (Chinese magnets, Russian titanium, Indian cotton) highlights the need for Western governments to define "sufficient" rather than perfect equipment standards. The critical lesson: engaging civil society honestly creates political freedom to solve defense problems [13].
+
 # Citations
 
 [1] https://substack.com/@velinatchakarova/p-204418261
@@ -72,3 +86,11 @@ O'Brien distinguishes long-range strikes (strategic bombing of oil refineries, w
 [7] https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war
 [8] [Putin Can No Longer Hide His Catastrophe](https://www.theatlantic.com/ideas/2026/05/putin-lost-control-russia/687269/)
 [9] [The Ranged War Is Still In An Early Stages](https://phillipspobrien.substack.com/p/the-ranged-war-is-still-in-an-early)
+
+[10] [Gasoline Shortages in Occupied Ukraine Show the Synergy of Ukraine's Long-Range and Mid-Range Strike Campaigns](https://understandingwar.org/research/russia-ukraine/gasoline-shortages-in-occupied-ukraine-show-the-synergy-of-ukraines-long-range-and-mid-range-strike-campaigns/)
+
+[11] [Ukraine's Intermediate-Range Strike Campaign and New Mechanized Attacks Herald the Start of a New Phase of the War](https://understandingwar.org/research/russia-ukraine/ukraines-intermediate-range-strike-campaign-and-new-mechanized-attacks-herald-the-start-of-a-new-phase-of-the-war/)
+
+[12] [Russia's Resettlement Strategy in Occupied Ukraine](https://understandingwar.org/research/russia-ukraine/russias-resettlement-strategy-in-occupied-ukraine/)
+
+[13] [Talking Strategy #100: Ukraine's Adaptation with Dr. Jack Watling](https://traffic.libsyn.com/secure/forcedn/cead6627-d7c0-4f81-bec6-f79d589b6745/260612_TS_Jack_W_Ukraine_V2.mp3)

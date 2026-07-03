@@ -4,7 +4,7 @@ title: Phillips P. O'Brien
 description: Military historian and analyst — author of "War and Power" — arguing that wars are choices of individual leaders, that cheap mass beats expensive precision, and that US decline is accelerating faster than expected
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -28,6 +28,8 @@ O'Brien argues that cheap mass systems have greater advantage than expensive sma
 ## US Decline Accelerating
 
 O'Brien tracks US decline across military, diplomatic, and societal dimensions, arguing it is accelerating faster than expected. The [US-Iran War](/conflicts/us-iran-war-2026.md) provided empirical confirmation: military planning failures, diplomatic alienation of allies, and the absence of domestic political consolidation (no rally-round-the-flag effect) all pointed to a superpower whose decline is not gradual but compounding.
+
+O'Brien now argues that US weakness against Iran is total — Tehran strings Washington along, controls the Strait of Hormuz, and rebuilds military capabilities — while mocking analysts who claim wars like Iran's can be won quickly and easily [12]. He warns that the Trump administration's plan to compile a master list of all foreign intelligence sources could be catastrophically destructive, serving only to sell or compromise information [12]. Using Gallup polling data, he argues America has balkanized into two partisan camps where loyalty to party determines views on war and America's global role — a loss of shared national identity that is deeply destructive [13].
 
 # Current Tracking
 
@@ -76,6 +78,8 @@ O'Brien's analysis of Ukraine's May 2026 [drone strike on Moscow](/events/moscow
 - "The Ranged War Is Still In An Early Stages" [9]
 - "Weekend Update 186: A Primer On Long vs Medium-Range Strike" [10]
 - "Putin Can No Longer Hide His Catastrophe" [11]
+- "Midweek Update #17: The Most Dangerous Intelligence Move Ever Contemplated" [12]
+- "Can Americans Become Americans Again? A Question for July 4th" [13]
 
 # Citations
 
@@ -100,3 +104,7 @@ O'Brien's analysis of Ukraine's May 2026 [drone strike on Moscow](/events/moscow
 [10] [Weekend Update 186: A Primer On The Difference Between Long and Medium-Range Strike](https://phillipspobrien.substack.com/p/weekend-update-186-a-primer-on-the)
 
 [11] [Putin Can No Longer Hide His Catastrophe](https://www.theatlantic.com/ideas/2026/05/putin-lost-control-russia/687269/)
+
+[12] [Midweek Update #17: The Most Dangerous Intelligence Move Ever Contemplated](https://phillipspobrien.substack.com/p/midweek-update-17-the-most-dangerous)
+
+[13] [Can Americans Become Americans Again? A Question for July 4th](https://phillipspobrien.substack.com/p/can-americans-become-americans-again)

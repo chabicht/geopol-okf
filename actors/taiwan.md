@@ -4,7 +4,7 @@ title: Taiwan
 description: Taiwan as a geopolitical actor — facing Chinese grey-zone encirclement, domestic budget paralysis, and an espionage campaign while European powers signal support
 tags: [country, military, naval, indo-pacific, gray-zone]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -20,6 +20,8 @@ China has opened a new front in its pressure campaign, shifting operations to th
 ## Grey-Zone Warfare
 
 The Chinese campaign operates across multiple vectors: navy patrols, drone flights, coast guard harassment, and survey vessel incursions. This grey-zone approach maintains persistent pressure below the threshold of overt military conflict, normalizing Chinese presence and degrading Taiwan's ability to distinguish routine activity from pre-invasion preparation.
+
+In December 2025, the PLA conducted Justice Mission 2025 — a large-scale surprise blockade exercise simulating the isolation of Taiwan. The exercise deployed 18 PLAN vessels, 14 coast guard ships, 201 air sorties, H-6 bombers, and Type 075 LHD *Hainan* across eight zones surrounding Taiwan. It rehearsed interdiction of Taiwanese energy imports, counter-intervention against U.S. forces, and potential decapitation strikes. Coast guard ships came within 1.3 nautical miles of Taiwanese islands. See [Justice Mission 2025](/events/justice-mission-2025.md) [3].
 
 ## Domestic Budget Paralysis
 
@@ -46,3 +48,5 @@ Taiwan's strategic challenge is multidimensional: external grey-zone pressure fr
 [1] Velina Tchakarova, "Taiwan Encirclement" — https://substack.com/@velinatchakarova/p-203793388
 
 [2] Velina Tchakarova, "Ceasefire in Iran / Taiwan Update" — https://substack.com/@velinatchakarova/p-204418261
+
+[3] [Special Report: Surprise PRC Military Exercise Around Taiwan](https://understandingwar.org/research/china-taiwan/china-taiwan-special-report-december-31-2025/)

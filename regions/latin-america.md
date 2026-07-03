@@ -4,7 +4,7 @@ title: Latin America
 description: US traditional sphere of influence experiencing a rightward wave with militarized security turn and institutional fragility.
 tags: [latin-america, elections, military, cold-war]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -20,6 +20,7 @@ Latin America has historically been within the US sphere of influence, shaped by
 - A militarized turn is underway: El Salvador's Bukele-style mass-incarceration model is spreading; drones sourced from Ukraine are being used for anti-drug operations.
 - Mexico and Brazil remain as surviving leftist strongholds.
 - Peru has had 9 presidents in a decade; fraud allegations and institutional weakness persist.
+- South America is becoming a secondary theater of U.S.-China competition. [Brazil](/actors/) is building domestic defense capacity (Gripen fighters, SISFRON border system, Tamandare frigates) while [Argentina](/actors/) rebuilds relevance through U.S.-linked F-16s and security cooperation. The contest plays out through ports, infrastructure, satellites, and defense supply chains rather than formal alliances. States that control their peripheries gain autonomy; those that cannot find external powers shaping their resource flows [2].
 
 # Key Dynamics
 
@@ -32,3 +33,5 @@ Latin America has historically been within the US sphere of influence, shaped by
 # Citations
 
 [1] [Velinatchakarova — Latin American rightward wave analysis](https://substack.com/@velinatchakarova/p-203689435)
+
+[2] [South American Sovereignty Amid US-China Competition](https://geopoliticalfutures.com/south-american-sovereignty-amid-us-china-competition/)

@@ -4,7 +4,7 @@ title: Russia
 description: Russia as a geopolitical actor — waging war in Ukraine, managing Chechnya's succession risk, projecting power in Africa, conducting cognitive warfare against the West, attempting to revitalize the CSTO, and losing its grip on its southern flank from the Black Sea to Central Asia
 tags: [country, military, cognitive-warfare, energy, sanctions, europe, caucasus, africa, central-asia]
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -28,6 +28,18 @@ In May 2026, Ukraine conducted a major [drone strike on Moscow](/events/moscow-d
 ## Africa
 
 Russia's reputation as a regime guarantor has been damaged by failures in Syria and Venezuela. In [Africa](/regions/africa.md), the transition from Wagner to the [Africa Corps](/actors/wagner-africa-corps.md) has produced a more bureaucratic, less flexible instrument — one vulnerable to wider strategic constraints as resources are prioritized for the Ukraine front. [Turkey](/actors/turkey.md) sees an opening in Mali as Russian security support shows its limits.
+
+## Misreading of America First
+
+Moscow fundamentally misjudged [Trump](/actors/trump.md)'s America First as isolationist and accommodating of Russia's sphere of influence. The [US-Iran War](/conflicts/us-iran-war-2026.md) demonstrated the opposite: the U.S. is aggressive and unrestrained when it chooses to act. Russia now realizes that multipolarity requires building a security architecture — centered on nuclear deterrence and Eurasian partnerships — that can withstand prolonged American pressure, rather than expecting a bilateral deal with Washington to recognize its interests [9].
+
+## Resettlement Campaign in Occupied Ukraine
+
+Russia is conducting a systematic [resettlement campaign](/events/russia-resettlement-campaign.md) to repopulate occupied [Ukraine](/actors/ukraine.md) with Russian citizens through weaponized property law, preferential mortgages, and demographic engineering. With 75% of apartments in occupied Mariupol purchased by Russian immigrants and plans to resettle 114,000 Russians by 2045, the campaign aims to engineer a demographic reality that entrenches occupation governance and complicates any future reintegration into Ukraine. The campaign violates the Fourth Geneva Convention's prohibition on transferring occupier populations into occupied territory [10].
+
+## Kadyrov as Islamic Messenger
+
+[Kadyrov](/actors/kadyrov.md) serves as the Kremlin's messenger to the Islamic world, leveraging his social media presence, elite interactions, and "holy jihad" narrative against the West to achieve mass media amplification across Indonesia, Saudi Arabia, and the Global South. His reported failing health threatens to create a strategic communications gap. Several potential successors exist — including Kadyrov's sons, Adam Delimkhanov, Magomed Daudov, and Apti Alaudinov — but none combine his unique blend of militaristic persona, Islamic credentials, and entertainment value. The broader Kremlin influence ecosystem will likely outlast any individual [11].
 
 ## Cognitive Warfare
 
@@ -74,3 +86,9 @@ Russia's strategic position is paradoxical: deeply committed in Ukraine, facing 
 [7] [The Evolution of the Collective Security Treaty Organization](https://geopoliticalfutures.com/the-evolution-of-the-collective-security-treaty-organization/)
 
 [8] [The Southern Flank Unraveled: Russia's Grip Loosens in Eurasia](https://geopoliticalfutures.com/the-southern-flank-unraveled-russias-grip-loosens-in-eurasia/)
+
+[9] [Russia's Misreading of America First](https://geopoliticalfutures.com/russias-misreading-of-america-first/)
+
+[10] [Russia's Resettlement Strategy in Occupied Ukraine](https://understandingwar.org/research/russia-ukraine/russias-resettlement-strategy-in-occupied-ukraine/)
+
+[11] [Ramzan Kadyrov: The Kremlin's Messenger to the Islamic World](https://www.rusi.org/explore-our-research/publications/commentary/ramzan-kadyrov-kremlins-messenger-islamic-world)

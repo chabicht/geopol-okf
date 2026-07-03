@@ -4,7 +4,7 @@ title: China
 description: China as a geopolitical actor — coordinating national AI strategy, encircling Taiwan, investing across Central Asia, anchoring the DragonBear axis, and turning toward Maoist ideological mobilization to manage economic slowdown
 tags: [country, military, ai, technology, energy, trade, indo-pacific, central-asia, ideology, economics]
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -47,6 +47,16 @@ The other side of this exchange rate management is capital controls that wall in
 
 China's wealthiest investors are effectively barred from participating in the US AI boom — the greatest run-up in asset prices in history. China's stock market lags woefully behind the world. If the capital account were liberalized, the likely result would not be yuan appreciation but capital flight and crash — a scenario akin to 2015-2016, when over a trillion dollars drained and Beijing imposed stricter controls [10].
 
+## PLA Doctrine and Strategy Textbooks
+
+The 2020 revision of the PLA's "Science of Military Strategy" textbook reveals new emphases on wartime political work, "intelligentization" (AI-driven warfare), multi-domain integrated joint operations, strategic reconnaissance, and maritime maneuver operations in far seas. New chapters cover joint logistics and a revised People's Armed Police section including coast guard roles. The text is not a fundamental rethinking but an incremental update reflecting Xi's military reforms [11].
+
+However, Western analysts face a growing blind spot in understanding Chinese military doctrine as the PLA restricts open-source information and its key doctrinal texts become outdated, lacking coverage of AI, autonomous systems, and post-2016 reforms. The PLA's pre-existing investments in AI-enabled swarm technology and sophisticated reconnaissance drones are skewing the lessons it draws from [Ukraine](/conflicts/russia-ukraine-war.md) and Middle East conflicts, where low-cost attritable FPV drones dominate. Xi's purges and institutional rigidity discourage adaptation, leading the PLA to downplay the central role of cheap, disposable systems while continuing to develop expensive, survivable platforms — creating a potential asymmetric advantage for [Taiwan](/actors/taiwan.md) [12][13].
+
+## Bangladesh Expansion
+
+China is extending its influence into [Bangladesh](/actors/bangladesh.md) through $9.2 billion in proposed investments across infrastructure, logistics, manufacturing, and energy. Prime Minister Tarique Rahman's visit to Beijing produced 13 MOUs and renewed momentum behind the Teesta River project — a long-delayed initiative that India and Bangladesh had been unable to agree on. The expansion alarms [India](/actors/india.md) but faces limits: Myanmar's instability, Bangladesh's desire for strategic autonomy, and Beijing's strained budget [14].
+
 ## CMC Purge
 
 In February 2026, Xi Jinping purged the Central Military Commission, removing Zhang Youxia and Liu Zhenli — the only CMC members with combat experience. The purge was driven by disagreement over the [Taiwan](/conflicts/taiwan-standoff.md) timeline: Xi insists on a 2027 invasion capability, while Zhang anticipated full joint operational capability closer to 2035. The purge damages command cohesion and reduces the likelihood of a near-term Taiwan invasion, while increasing the risk of miscalculation by new commanders eager to demonstrate loyalty. See [CMC Purge of 2026](/events/cmc-purge-2026.md) [7].
@@ -88,3 +98,11 @@ Tooze identifies the "gear-shift in Chinese economic policy" as one of four disr
 [9] [Chartbook 454: China Shock 2.0 and Mercantilist-on-Mercantilist Violence](https://adamtooze.substack.com/p/chartbook-454-china-shock-20-and)
 
 [10] [Chartbook 455: The AI Boom, China's Walled-In Wealth and the Financial Barriers](https://adamtooze.substack.com/p/chartbook-455-the-ai-boom-chinas)
+
+[11] [What I Learned From the PLA's Latest Strategy Textbook](https://jamestown.org/what-i-learned-from-the-plas-latest-strategy-textbook/)
+
+[12] [The Blind Spots in Chinese Military Studies](https://warontherocks.com/the-blind-spots-in-chinese-military-studies/)
+
+[13] [Lessons-learned with Chinese Characteristics: Understanding the Limits of PLA Efforts to Adapt to Contemporary Warfare](https://understandingwar.org/research/china-taiwan/lessons-learned-with-chinese-characteristics-understanding-the-limits-of-pla-efforts-to-adapt-to-contemporary-warfare/)
+
+[14] [China Makes Its Move in Bangladesh](https://geopoliticalfutures.com/china-makes-its-move-in-bangladesh/)

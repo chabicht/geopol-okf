@@ -8,7 +8,7 @@ tags:
   - trade
   - supply-chain
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -43,6 +43,14 @@ The [UAE](/actors/uae.md)'s $6 billion solar project demonstrates the physical l
 ## Oil Export Decline
 
 The ExportLand Model shows that global net oil export capacity peaked in 2004. If world oil supply falls to half by mid-century, importers lose 75% of imports in 15-20 years. The decline is uneven: exporter consumption rises (population growth, domestic development) while production plateaus or declines, squeezing net exports. [Russia](/actors/russia.md) is uniquely self-sufficient; the US, Europe, [China](/actors/china.md), and [India](/actors/india.md) are all net importers facing a musical-chairs game for diminishing export volumes [4].
+
+## Jones Act and Domestic Fuel Distribution
+
+[Trump](/actors/trump.md)'s 150-day suspension of the Jones Act allowed foreign vessels to shuttle over 31 million barrels of fuel between U.S. ports, primarily from Gulf Coast refineries to gasoline-starved California. The suspension exposed how protectionist maritime policy constrains domestic energy distribution — California's shortages were perpetuated by the absence of compliant U.S.-flagged vessels despite surplus Gulf Coast refining capacity. See [Jones Act Suspension](/events/jones-act-suspension.md) [18].
+
+## North Sea and UK Energy Policy
+
+The UK political debate over new North Sea drilling is symbolic rather than substantive — gas prices are set in international markets, new fields take years to develop, and even maximum investment would leave the UK reliant on imports for over half its gas through the 2030s. The more consequential priorities for energy security are reducing gas demand through electrification, accelerating renewable deployment, and upgrading grid infrastructure. China's rapid electrification trajectory shows competitiveness will increasingly depend on access to low-cost clean power [19].
 
 # Key Dynamics
 
@@ -156,3 +164,7 @@ The implication for [energy and resources](/themes/energy-and-resources.md) is d
 [16] ['Climate change is here': Experts warn environmental crisis is decades ahead of forecasts](https://archive.ph/b0G1x)
 
 [17] [The Holy Trinity of Austrian Taboos: Nuclear, NATO, Neutrality](https://substack.com/@velinatchakarova/p-204698127)
+
+[18] [What Happened in Fuel Markets When Trump Lifted the Century-Old Jones Act](https://www.wsj.com/business/logistics/what-happened-in-fuel-markets-when-trump-lifted-the-century-old-jones-act-199da395)
+
+[19] [The North Sea Debate Risks Missing the Point](https://www.rusi.org/explore-our-research/publications/commentary/north-sea-debate-risks-missing-point)

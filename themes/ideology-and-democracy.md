@@ -8,7 +8,7 @@ tags:
   - democracy
   - oligarchy
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -25,6 +25,7 @@ The ideological landscape is defined by several concurrent dynamics:
 - **Conservative voters revere founding design but feel institutions drifted**: The core values — faith, family, freedom, place — are seen as having been forsaken by the institutions that claim democratic authority. The legitimacy question is not "Should America be a democracy?" but "Has American democracy remained faithful to what makes it legitimate?"
 - **Latin America's rightward wave**: A broad regional rejection of the left is reshaping the hemisphere. This is not purely a Trump production — attitudes on crime and migration moved rightward independently of US influence.
 - **Communism doesn't work**: The empirical record is clear — communist governments are authoritarian, cannot run economies, result in mass death, and rely on the assumption that humans are angels. Only heavily subsidized communist states (e.g., Cuba by the Soviet Union and later Venezuela) maintain nominal functioning.
+- **Partisan balkanization**: [Phillips O'Brien](/actors/phillips-obrien.md) argues, using Gallup polling data, that America has balkanized into two partisan camps where loyalty to party now determines views on war and America's global role. Unlike during Vietnam or Kosovo, when partisanship was secondary to national identity, shared attachment to being American has eroded. Republicans and Democrats express satisfaction with the U.S. global position almost solely based on whether their party holds the presidency [14].
 
 # Key Dynamics
 
@@ -124,3 +125,5 @@ The deeper ideological problem is the West's "soulless and unappealing liberal-t
 [12] [Trump and Vance Ruined the Fourth of July](https://anneapplebaum.substack.com/p/trump-and-vance-ruined-the-fourth)
 
 [13] [Don't Expect Respect](https://substack.com/@aurelien2022/p-204269398)
+
+[14] [Can Americans Become Americans Again? A Question for July 4th](https://phillipspobrien.substack.com/p/can-americans-become-americans-again)

@@ -8,7 +8,7 @@ tags:
   - indo-pacific
   - cold-war
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -42,6 +42,16 @@ Tchakarova describes the comprehensive campaign as a combination of military enc
 
 The deployment of the *Xiang Yang Hong 22* with CCG escort is emblematic: what is framed as oceanographic research is functionally a military survey establishing baseline data for future operations, while the CCG escort asserts a governance claim over waters Taiwan considers its own [1].
 
+## Justice Mission 2025
+
+The December 2025 [Justice Mission 2025](/events/justice-mission-2025.md) exercise was the most operationally detailed blockade rehearsal to date. The PLA deployed 18 naval vessels, 14 coast guard ships, 201 air sorties, H-6 bombers, and the Type 075 LHD *Hainan* across eight zones surrounding Taiwan. The exercise simulated interdiction of Taiwanese energy imports, counter-intervention against U.S. forces, and potential decapitation strikes. CCG ships came within 1.3 nautical miles of Taiwanese islands — the first time CCG patrolled around Pratas during a blockade exercise. The absence of aircraft carriers suggests the exercise practiced only the inner layer of a larger multi-domain blockade [4].
+
+Each iteration of these exercises improves the PLA's ability to execute a real blockade. The exercise served coercive psychological warfare purposes aimed at intimidating Taiwan's DPP government and deterring [Japan](/actors/japan.md) from supporting Taiwan [4].
+
+## PLA Adaptation Limits
+
+ISW analysis suggests the PLA's pre-existing investments in AI-enabled swarm technology and sophisticated reconnaissance drones are skewing the lessons it draws from [Ukraine](/conflicts/russia-ukraine-war.md) and Middle East conflicts, where low-cost attritable FPV drones dominate. Xi's purges and institutional rigidity discourage adaptation, leading the PLA to downplay the central role of cheap, disposable systems while continuing to develop expensive, survivable platforms. This creates a potential asymmetric advantage for Taiwan if it can learn more effectively from contemporary warfare [5].
+
 ## CMC Purge Implications
 
 The February 2026 [CMC purge](/events/cmc-purge-2026.md) — Xi's removal of Zhang Youxia and Liu Zhenli, the only CMC members with combat experience — has significant implications for the Taiwan standoff. Zhang anticipated full joint operational capability closer to 2035, while Xi insists on 2027. The purge damages command cohesion and reduces the likelihood of a near-term invasion, as complex joint operations require experienced commanders who trust one another. However, new commanders eager to demonstrate loyalty may favor aggressive tactical behavior, increasing the risk of miscalculation [2].
@@ -59,3 +69,7 @@ Tchakarova argues that contesting Taiwan's maritime approaches while [Moscow](/a
 [2] [Xi Drains the Central Military Commission](https://geopoliticalfutures.com/xi-drains-the-central-military-commission/)
 
 [3] [Midweek Update 12: We Are Witnessing US Decline In Real Time](https://phillipspobrien.substack.com/p/midweek-update-12-we-are-witnessing)
+
+[4] [Special Report: Surprise PRC Military Exercise Around Taiwan](https://understandingwar.org/research/china-taiwan/china-taiwan-special-report-december-31-2025/)
+
+[5] [Lessons-learned with Chinese Characteristics: Understanding the Limits of PLA Efforts to Adapt to Contemporary Warfare](https://understandingwar.org/research/china-taiwan/lessons-learned-with-chinese-characteristics-understanding-the-limits-of-pla-efforts-to-adapt-to-contemporary-warfare/)

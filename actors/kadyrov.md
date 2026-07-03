@@ -4,7 +4,7 @@ title: Ramzan Kadyrov
 description: De facto dictator of Chechnya; Putin's loyal foot soldier whose personalist regime faces a succession crisis driven by failing health.
 tags: [leader, military, caucasus]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -25,6 +25,10 @@ His favored successor had been his son Adam, but Adam was injured in a car crash
 
 Russian security services may not accept a dynastic succession. Kadyrov's regime is tolerated by Moscow because it delivers stability through personal control; a Kadyrov son may not command the same loyalty from Chechen commanders or the same indulgence from Russian federal structures. [1]
 
+## Kremlin's Messenger to the Islamic World
+
+Beyond his role in Chechnya, Kadyrov serves as the Kremlin's primary messenger to the Islamic world. His social media presence, elite interactions, and "holy jihad" narrative against the West have achieved mass media amplification across Indonesia, Saudi Arabia, and the Global South. Kadyrov's reported failing health threatens to create a strategic communications gap for [Russia](/actors/russia.md)'s influence operations targeting Muslim audiences. Several potential successors exist — including Kadyrov's sons, Adam Delimkhanov, Magomed Daudov, and Apti Alaudinov — but none combine his unique blend of militaristic persona, Islamic credentials, and entertainment value. The broader Kremlin influence ecosystem will likely outlast any individual [2].
+
 # Analysis
 
 ### The Personalist Dictator's Dilemma
@@ -38,3 +42,5 @@ Kadyrov's Chechnya is the model for the broader risk facing [Vladimir Putin](/ac
 # Citations
 
 [1] [Russia's Chechnya Problem](https://geopoliticalfutures.com/russias-chechnya-problem/)
+
+[2] [Ramzan Kadyrov: The Kremlin's Messenger to the Islamic World](https://www.rusi.org/explore-our-research/publications/commentary/ramzan-kadyrov-kremlins-messenger-islamic-world)

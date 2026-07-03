@@ -10,7 +10,7 @@ tags:
   - sanctions
   - middle-east
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -120,6 +120,14 @@ Tchakarova reframes the ceasefire not as an American coercive success but as an 
 
 [Aurelien](/actors/aurelien.md) provides the sharpest framing of the diplomatic impasse: the US and Israeli positions are fundamentally unreconcilable with Iran's. These positions have zero overlap — there is nothing to negotiate. Diplomacy is theater, and the nuclear enrichment issue is an excuse, not a real subject of bargaining [11][17].
 
+## US-Israel Strategic Divergence
+
+The war produced a lasting strategic divergence between the [United States](/actors/united-states.md) and [Israel](/actors/israel.md). Washington seeks to use military gains to create a diplomatic framework that constrains Iran while stabilizing the region, whereas Israel remains skeptical that an ideologically driven regime can be durably moderated through negotiation. VP Vance publicly rebuked Israeli cabinet members for criticizing U.S. diplomacy, stating that Israel "might not be attacking the only powerful ally that I have anywhere left in the entire world." Washington conducted ceasefire negotiations through Pakistani mediation without Israeli participation, despite Israel bearing much of the war's cost and risk. Israel has shifted operational focus to Lebanon, where Hezbollah represents a more immediate threat, and fears that any Iranian financial relief will rebuild Hezbollah [23].
+
+## Iran's External Operations Escalation
+
+Post-war Iran has escalated external operations in Europe through the IRGC's "gig economy" model — recruiting disposable agents via gaming platforms for assassination plots and surveillance. These operations are funded through an oil-backed shadow banking system that circumvents Western financial architecture. The EU's designation of the IRGC has not materially degraded this network. A post-war Iran governed through an IRGC lens will likely escalate operations abroad, complicating any diplomatic stabilization framework. See [Organised Crime and Statecraft](/themes/organised-crime-and-statecraft.md) [24].
+
 ## Regional Realignment
 
 The war accelerated regional diplomatic realignment. [Saudi Arabia](/actors/saudi-arabia.md) conducted secret negotiations with Iran through [Pakistan](/actors/pakistan.md), with Russian and Chinese support, aiming at a non-aggression pact. [Oman](/actors/oman.md) co-negotiated a [permanent toll system](/events/hormuz-toll-system.md) for Hormuz. These initiatives signal the end of the US monopoly on Middle East security architecture — regional powers are negotiating their own stability with non-Western guarantors [18].
@@ -205,3 +213,7 @@ Pape warns that August could become the most dangerous month for the global econ
 [21] [While We Were Sleeping](https://aurelien2022.substack.com/p/while-we-were-sleeping)
 
 [22] [Priced for Peace: Why Oil's Return to Pre-War Levels Overstates the Hormuz Recovery](https://substack.com/@velinatchakarova/p-204528761)
+
+[23] [America Between an Ally and an Adversary](https://geopoliticalfutures.com/america-between-an-ally-and-an-adversary/)
+
+[24] [Suspicious Transaction Report: Iran's External Operations with Matthew Levitt](https://traffic.libsyn.com/secure/forcedn/suspicioustransactionreport/260605_STR_Matthew_Levitt_V1.mp3)

@@ -4,7 +4,7 @@ title: Israel
 description: Israel as a geopolitical actor — dissatisfied with Iran war outcome, recognizing Somaliland for Red Sea access, facing Turkey as its greatest regional challenge, and resisting the US shift to multilateral security
 tags: [country, military, middle-east, naval]
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -31,6 +31,12 @@ In December 2025, Israel became the first nation to officially recognize Somalil
 
 Iran has demanded an immediate end to Israeli military operations in Lebanon as one of three conditions for post-war negotiations. This places Israel's ongoing operations in Lebanon at the center of the broader diplomatic framework — Israel's actions in Lebanon directly affect the trajectory of US-Iran engagement.
 
+## Friction with the United States
+
+US-Israel tensions have surfaced publicly since the ceasefire. VP Vance rebuked Israeli cabinet members for attacking U.S. diplomacy, stating that Israel "might not be attacking the only powerful ally that I have anywhere left in the entire world." The friction reflects a fundamental divergence: Washington seeks a negotiated settlement that constrains Iran while stabilizing the region, whereas Israel remains skeptical that an ideologically driven regime can be durably moderated. Washington conducted ceasefire negotiations through Pakistani mediation without Israeli participation — despite Israel bearing much of the war's cost and risk [6].
+
+Israel has shifted operational focus toward Lebanon, where Hezbollah represents a more immediate and actionable threat. Unlike in Iran, where Israel relies on U.S. military power, Israel believes it can act more independently against Hezbollah. Israeli planners fear that any Iranian financial relief under a U.S.-Iran nuclear arrangement would be used to quickly rebuild Hezbollah — a fear reinforced by Tehran's calls for Washington to restrain Israeli operations in Lebanon [6].
+
 ## Capacity to Defy the US
 
 Israel can defy the United States and get away with it. This was demonstrated during the Iran war, where Israeli operational choices diverged from American preferences without producing meaningful consequences. The structural asymmetry — the US needs Israel as a regional partner more than Israel needs US approval for specific operations — gives Jerusalem freedom of action that Washington has limited ability to constrain.
@@ -52,3 +58,5 @@ The [global system rupture](/themes/global-system-rupture.md) has paradoxically 
 [4] Robert Pape, "Uncertain Deal — and Iran Certainly" — https://escalationtrap.substack.com/p/uncertain-dealand-iran-certainly
 
 [5] Phillips P. O'Brien, "Early Lessons from the US-Iran War" — https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war
+
+[6] [America Between an Ally and an Adversary](https://geopoliticalfutures.com/america-between-an-ally-and-an-adversary/)

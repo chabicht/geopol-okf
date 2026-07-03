@@ -4,7 +4,7 @@ title: Iran
 description: Iran as a geopolitical actor — surviving US-Israeli military campaign with retained leverage over Strait of Hormuz and negotiating from strength
 tags: [country, military, nuclear, energy, middle-east, drone-warfare, sanctions]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -41,6 +41,14 @@ The ceasefire was not an American coercive success. Rather, it represented a cou
 
 The war ended without resolving the underlying balance of power. Iran survived a US-Israeli military campaign designed to degrade its capabilities. The US accepted an agreement rather than imposing the decisive defeat it initially sought. [Israel](/actors/israel.md) remains dissatisfied with the outcome.
 
+## External Operations in Europe
+
+Iran's IRGC and Quds Force have escalated external operations in Europe — including assassination plots, recruitment via gaming platforms, and a "gig economy" model using disposable agents. These operations are funded through an oil-backed shadow banking system where the IRGC sells sanctioned oil via front companies and launders proceeds through intermediaries in China, the UAE, and Yemen. Despite the EU's designation of the IRGC, Europe's response remains weak. A post-war Iran governed through an IRGC lens will likely escalate operations abroad. See [Organised Crime and Statecraft](/themes/organised-crime-and-statecraft.md) and [Sanctions and Financial Warfare](/themes/sanctions-and-financial-warfare.md) [9].
+
+## US-Israel Friction
+
+Washington's pursuit of diplomatic accommodation with Iran has created friction with [Israel](/actors/israel.md). The US conducted ceasefire negotiations through Pakistani mediation without Israeli participation, despite Israel bearing much of the cost and risk of the war. Israel fears any sanctions relief will rebuild Hezbollah and allow Tehran to rebound. The divergence reflects a fundamental disagreement: Washington seeks to incorporate Iran into a new regional order while Israel believes an ideologically driven regime cannot be durably moderated through negotiation [10].
+
 # Analysis
 
 Iran's post-war position demonstrates the limits of conventional military power against a geographically entrenched adversary with asymmetric leverage. The [energy dimension](/themes/energy-and-resources.md) is central: Iran's control over Hormuz gives it influence over global oil and LNG flows that no amount of US military superiority has been able to neutralize. The [ceasefire MoU](/events/iran-ceasefire-mou.md) institutionalized an outcome that favors Iran's long-term strategic position.
@@ -62,3 +70,7 @@ Iran's post-war position demonstrates the limits of conventional military power 
 [7] Velina Tchakarova, "Ceasefire in Iran" — https://substack.com/@velinatchakarova/p-204418261
 
 [8] [Priced for Peace: Why Oil's Return to Pre-War Levels Overstates the Hormuz Recovery](https://substack.com/@velinatchakarova/p-204528761)
+
+[9] [Suspicious Transaction Report: Iran's External Operations with Matthew Levitt](https://traffic.libsyn.com/secure/forcedn/suspicioustransactionreport/260605_STR_Matthew_Levitt_V1.mp3)
+
+[10] [America Between an Ally and an Adversary](https://geopoliticalfutures.com/america-between-an-ally-and-an-adversary/)

@@ -4,7 +4,7 @@ title: United States
 description: The United States as a geopolitical actor — superpower facing military overstretch, diplomatic erosion, and an unresolved AI military integration gap
 tags: [country, military, ai, nuclear, energy, intelligence, middle-east, indo-pacific, latin-america, europe, oligarchy]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -47,6 +47,22 @@ The [Slaughter SCOTUS ruling](/events/slaughter-scotus-ruling.md) stripped regul
 
 [Anne Applebaum](/actors/anne-applebaum.md) documents the physical and symbolic dimension of institutional defacement: the Rose Garden desecrated, the East Wing rebuilt as a personal monument, the Reflecting Pool redone incompetently with police compelled to enforce the president's fiction about vandalism. The 250th Fourth of July celebration was usurped by a privately funded Trump event. The pattern is not incidental — it reflects a governing logic in which the state exists to serve the ruler's clan [12].
 
+## Intelligence Community Crisis
+
+[Phillips O'Brien](/actors/phillips-obrien.md) warns that the Trump administration's plan to compile a master list of all foreign intelligence sources could be catastrophically destructive. The centralization of source identities in a single database creates an unprecedented counterintelligence liability — a breach or leak would compromise every foreign liaison relationship the US maintains. The plan serves no operational purpose other than to consolidate control over information that has historically been compartmented across agencies [15].
+
+## Partisan Balkanization
+
+O'Brien argues, using Gallup polling data, that America has balkanized into two partisan camps where loyalty to party now determines views on war and America's global role. Republicans and Democrats express satisfaction with the U.S. global position almost solely based on whether their party holds the presidency. Unlike during Vietnam or Kosovo, when partisanship was secondary to national identity, shared attachment to being American has eroded. The loss of shared national identity is deeply destructive and compounds the military and diplomatic weaknesses exposed by the Iran war [16].
+
+## US-Israel Friction Over Iran Diplomacy
+
+Washington's core Middle East challenge is balancing diplomatic accommodation with [Iran](/actors/iran.md) against security commitments to [Israel](/actors/israel.md). VP Vance publicly rebuked Israeli cabinet members for criticizing U.S. diplomacy, reflecting growing frustration within the Trump administration over Israeli behavior. The two allies diverge fundamentally: Washington seeks a negotiated settlement constraining Iran while Israel fears any sanctions relief will rebuild Hezbollah and allow Tehran to rebound. Managing this strategic divergence may prove as difficult as managing Iran itself [17].
+
+## Jones Act Suspension
+
+[Trump](/actors/trump.md) suspended the Jones Act for 150 days, allowing foreign vessels to shuttle over 31 million barrels of fuel between U.S. ports — primarily from Gulf Coast refineries to gasoline-starved California. The suspension exposed how protectionist maritime policy constrains domestic energy distribution. The August 15 expiration creates a decision point between permanent reform and reversion. See [Jones Act Suspension](/events/jones-act-suspension.md) [18].
+
 ## The AI Boom and K-Shaped Expansion
 
 [Adam Tooze](/actors/adam-tooze.md) identifies the US AI boom as a "K-shaped expansion" — one of four disrupters of the 2026 world economy. The boom is sucking in imports at a furious rate, but from [Taiwan](/actors/taiwan.md) and Mexico, not from [China](/actors/china.md). The US-China bilateral trade truce is holding; the bilateral deficit has narrowed dramatically. The US has effectively excluded the leading edge of China's export drive with 100% tariffs on Chinese EVs, making China Shock 2.0 largely a Europe problem. Trump is dismantling the IRA's energy transition subsidies even as the AI boom generates unprecedented asset price inflation [13].
@@ -86,3 +102,11 @@ Tooze identifies two of his four disrupters as American: Trump's trade policy ra
 [13] [Chartbook 455: The AI Boom, China's Walled-In Wealth and the Financial Barriers](https://adamtooze.substack.com/p/chartbook-455-the-ai-boom-chinas)
 
 [14] [Chartbook 454: China Shock 2.0 and Mercantilist-on-Mercantilist Violence](https://adamtooze.substack.com/p/chartbook-454-china-shock-20-and)
+
+[15] [Midweek Update #17: The Most Dangerous Intelligence Move Ever Contemplated](https://phillipspobrien.substack.com/p/midweek-update-17-the-most-dangerous)
+
+[16] [Can Americans Become Americans Again? A Question for July 4th](https://phillipspobrien.substack.com/p/can-americans-become-americans-again)
+
+[17] [America Between an Ally and an Adversary](https://geopoliticalfutures.com/america-between-an-ally-and-an-adversary/)
+
+[18] [What Happened in Fuel Markets When Trump Lifted the Century-Old Jones Act](https://www.wsj.com/business/logistics/what-happened-in-fuel-markets-when-trump-lifted-the-century-old-jones-act-199da395)

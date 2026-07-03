@@ -4,7 +4,7 @@ title: Europe
 description: Traditional US alliance architecture under NATO; EU economic bloc facing Russian hybrid warfare, shifting US priorities, and Trump's Greenland crisis fracturing the transatlantic alliance.
 tags: [europe, military, nato, energy, trade, economics]
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -29,6 +29,12 @@ Europe has been anchored by the US-led NATO alliance architecture since 1949 and
 - **China Shock 2.0**: [Adam Tooze](/actors/adam-tooze.md) frames the current wave of Chinese export competition as fundamentally different from the early-2000s "China Shock 1.0" — it is above all about Europe and about China's progress up the industrial value chain. The EU-China trade deficit has roughly doubled since COVID. The shock is concentrated in vehicles, green energy goods, and chemicals. Tooze calls this "mercantilist-on-mercantilist violence" — [Germany](/actors/germany.md) is itself a chronic surplus country, so the dynamic is surplus against surplus. Ironically, the EU's manufacturing trade surplus with the rest of the world is at new highs even as the deficit with China widens [14].
 - [Velina Tchakarova](/actors/velina-tchakarova.md) identifies [Austria](/actors/austria.md) as a case study in European strategic obsolescence: trapped by its "holy trinity of taboos" (nuclear, NATO, neutrality), Austria is losing its traditional central position as the security order shifts eastward. The NATO eastern flank — Finland, Sweden, the Baltic states, Poland, Czechia, Slovakia, Hungary, Romania, Bulgaria, Greece, and Türkiye — is consolidating with massive infrastructure investment, defence-industrial cooperation, and political attention. Austria lies in the security-policy gap opening in the heart of Europe, peripheral to the very order it once sat at the center of. The Three Seas Initiative on Connectivity (13 EU members + US + EU + Ukraine invited) provides a ready-made vehicle for engagement, but Austria's refusal to open the NATO debate shuts its industry out [15].
 - **European nuclear revival**: Denmark is reviewing its 1985 ban, Belgium scrapped its phase-out, Italy has begun overturning its ban, Sweden and Finland are expanding, and Japan is restarting. [Germany](/actors/germany.md) and [Austria](/actors/austria.md) stand as the last nuclear outliers, on the wrong side of both energy security and industrial competitiveness. The nuclear debate is inseparable from the security debate — both reflect a posture that assumes the post-war order can persist without adaptation [15].
+- The [US-Iran War](/conflicts/us-iran-war-2026.md)'s cascading effects — fuel price spikes, fertilizer supply disruptions, and migration pressures — exposed [NATO](/actors/nato.md)'s vulnerability to compounding crises, underscoring the need for Article 3 resilience investments. The Hague declaration's 1.5% GDP resilience pledge requires clarification at the upcoming Ankara Summit [16].
+- European governments are expanding defense budgets while simultaneously cutting aid, humanitarian, and peacebuilding programs — creating a "defence up, aid down" pattern that weakens crisis prevention in fragile regions from the [Sahel](/conflicts/sahel-insurgency.md) to the Horn of [Africa](/regions/africa.md), where [Russia](/actors/russia.md) and Gulf states are filling the vacuum [17].
+- RUSI analysis outlines steps Europe must take to prepare for a potential U.S. withdrawal from NATO, framed against the Trump administration's pressure on European allies to take primary responsibility for their own defense. The push for a "European-led NATO" creates strategic imperatives for European defense autonomy in the decade ahead [18].
+- [Trump](/actors/trump.md)'s approach to U.S. troops in Europe is not genuine retrenchment but "illiberal hegemony" — using troop threats to extort defense spending pledges without a coherent plan for European security autonomy [19].
+- [Germany](/actors/germany.md)'s Chancellor Merz called for a new "Plaza Accord" to address China's undervalued currency, alarming Beijing and revealing the tension between European rearmament dependence on Chinese materials and the push for trade fairness [20].
+- The [United Kingdom](/actors/united-kingdom.md) is navigating energy security (North Sea debate is symbolic — gas prices set internationally, electrification is the real priority) and an asylum crisis (smugglers industrializing, 63 migrants per boat in 2026 vs. 7 in 2018) [21][22].
 
 # Key Dynamics
 
@@ -65,3 +71,17 @@ Europe has been anchored by the US-led NATO alliance architecture since 1949 and
 [14] [Chartbook 454: China Shock 2.0 and Mercantilist-on-Mercantilist Violence](https://adamtooze.substack.com/p/chartbook-454-china-shock-20-and)
 
 [15] [The Holy Trinity of Austrian Taboos: Nuclear, NATO, Neutrality](https://substack.com/@velinatchakarova/p-204698127)
+
+[16] [From Tehran to Brussels: The Iran Conflict Underscores NATO's Article 3 Imperative](https://www.rusi.org/explore-our-research/publications/commentary/tehran-brussels-iran-conflict-underscores-natos-article-3-imperative)
+
+[17] [Defence Up, Aid Down: Europe's New Security Blind Spot](https://www.rusi.org/explore-our-research/publications/commentary/defence-aid-down-europes-new-security-blind-spot)
+
+[18] [Towards a more European-led NATO: Strategic Imperatives for the Decade Ahead](https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/towards-more-european-led-nato-strategic-imperatives-decade-ahead)
+
+[19] [Misguided and Misunderstood: Trump's Approach to U.S. Troops in Europe](https://warontherocks.com/misguided-and-misunderstood-trumps-approach-to-u-s-troops-in-europe/)
+
+[20] [Germany's proposal to ease trade tensions with China has not gone down well in Beijing](https://theconversation.com/germanys-proposal-to-ease-trade-tensions-with-china-has-not-gone-down-well-in-beijing-285873)
+
+[21] [The North Sea Debate Risks Missing the Point](https://www.rusi.org/explore-our-research/publications/commentary/north-sea-debate-risks-missing-point)
+
+[22] [Smashing the Gangs, Missing the Point: UK Asylum Policy Reform Revisited](https://www.rusi.org/explore-our-research/publications/commentary/smashing-gangs-missing-point-uk-asylum-policy-reform-revisited)

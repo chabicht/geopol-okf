@@ -8,7 +8,7 @@ tags:
   - economics
   - trade
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -26,6 +26,9 @@ The competitive landscape is defined by asymmetries in energy, alliance architec
 - **German strategic awakening**: [Germany](/actors/germany.md) is publishing a military strategy; NATO has set a 5% spending target for 2035. The European component of the Western coalition is belatedly recognizing the competitive reality.
 - **Latin America as theater**: The rightward wave in [Latin America](/regions/latin-america.md) is converting ideological alignment into a contest for hemispheric spheres of influence.
 - **Africa as arena**: The [Sahel insurgency](/conflicts/sahel-insurgency.md) and broader African instability create an arena for Turkish, Russian, and Western competition — with drones, minerals, and security partnerships as the currency of influence.
+- **Bangladesh as new contested space**: [China](/actors/china.md)'s $9.2 billion investment push into [Bangladesh](/actors/bangladesh.md) extends great power competition into the Bay of Bengal. Bangladesh pursues strategic autonomy among China, [India](/actors/india.md), and the US, but economic influence does not automatically translate into political alignment [10].
+- **South American sovereignty**: South America is becoming a secondary theater of U.S.-China competition, with Brazil building domestic defense capacity and Argentina rebuilding relevance through U.S.-linked security cooperation. The contest plays out through ports, infrastructure, and defense supply chains rather than formal alliances [11].
+- **Germany-China trade tensions**: Chancellor Merz's call for a new "Plaza Accord" to address China's undervalued currency has alarmed Beijing. China views the proposal as economic coercion and has responded with rare-earth export controls, while Brussels remains hesitant to provoke a trade conflict that could hamper EU rearmament [12].
 
 # Key Dynamics
 
@@ -89,3 +92,9 @@ China's demand pullback also demonstrates Beijing's growing willingness to manag
 [8] [Chartbook 455: The AI Boom, China's Walled-In Wealth and the Financial Barriers](https://adamtooze.substack.com/p/chartbook-455-the-ai-boom-chinas)
 
 [9] [Priced for Peace: Why Oil's Return to Pre-War Levels Overstates the Hormuz Recovery](https://substack.com/@velinatchakarova/p-204528761)
+
+[10] [China Makes Its Move in Bangladesh](https://geopoliticalfutures.com/china-makes-its-move-in-bangladesh/)
+
+[11] [South American Sovereignty Amid US-China Competition](https://geopoliticalfutures.com/south-american-sovereignty-amid-us-china-competition/)
+
+[12] [Germany's proposal to ease trade tensions with China has not gone down well in Beijing](https://theconversation.com/germanys-proposal-to-ease-trade-tensions-with-china-has-not-gone-down-well-in-beijing-285873)

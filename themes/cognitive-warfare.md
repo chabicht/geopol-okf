@@ -7,7 +7,7 @@ tags:
   - intelligence
   - cyber
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -45,6 +45,18 @@ OCCRP identifies the overarching objective as helping Russia "maintain the image
 
 The Armenia operation illustrates the strategic logic: the goal is to arrest Armenia's geopolitical turn toward the West by manipulating the information environment of Russian-speaking voters. This is not about installing a pro-Russian government but about creating sufficient friction and confusion to slow or reverse the institutional realignment that has been underway since Armenia's distancing from the CSTO [1].
 
+## Kremlin Media Conglomerate
+
+Beyond the SDA's tactical operations, Russia is building a global media conglomerate through cooperation agreements with hundreds of foreign outlets, new language services (Urdu, Amharic, Chinese, Arabic), and journalism training programs (SputnikPro, RT Academy) that have trained over 12,700 participants — creating a multi-generational cadre of Russia-friendly journalists. While facing setbacks in former Soviet states and Europe, the Kremlin is expanding aggressively in Africa, Asia, and Latin America — particularly through TV BRICS — exploiting the U.S. reduction of Voice of America and USAGM to fill information vacuums with anti-Western narratives [2].
+
+## Kadyrov as Islamic Messenger
+
+[Kadyrov](/actors/kadyrov.md) serves as a key instrument of Kremlin cognitive warfare targeting the Islamic world. His social media presence, elite interactions, and "holy jihad" narrative against the West have achieved mass media amplification across Indonesia, Saudi Arabia, and the Global South. His reported failing health threatens to create a strategic communications gap, though the broader Kremlin influence ecosystem will likely outlast any individual [3].
+
 # Citations
 
 [1] https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris
+
+[2] [The Kremlin's Expanding Media Conglomerate 2026](https://understandingwar.org/research/cognitive-warfare/the-kremlins-expanding-media-conglomerate/)
+
+[3] [Ramzan Kadyrov: The Kremlin's Messenger to the Islamic World](https://www.rusi.org/explore-our-research/publications/commentary/ramzan-kadyrov-kremlins-messenger-islamic-world)

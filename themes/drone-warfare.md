@@ -7,7 +7,7 @@ tags:
   - military
   - technology
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -49,7 +49,19 @@ Drones are "changing everything in Ukraine" — not because they are wonder weap
 
 The [Sahel insurgency](/conflicts/sahel-insurgency.md) illustrates the dynamic: governments with weak ground control over vast territories use drones to maintain situational awareness and conduct targeted strikes. But drones cannot solve the underlying problems — weak state authority, poor intelligence, and ethnic tensions persist. Drones are a tool, not a strategy [2].
 
+## PLA Adaptation Limits
+
+ISW analysis suggests the [PLA](/actors/china.md)'s pre-existing investments in AI-enabled swarm technology and sophisticated reconnaissance drones are skewing the lessons it draws from Ukraine and Middle East conflicts, where low-cost attritable FPV drones dominate. Xi's purges and institutional rigidity discourage adaptation, leading the PLA to downplay the central role of cheap, disposable systems while continuing to develop expensive, survivable platforms. This creates a potential asymmetric advantage for [Taiwan](/actors/taiwan.md) if it can learn more effectively from contemporary warfare. The PLA's key doctrinal texts are outdated, lacking coverage of AI, autonomous systems, and post-2016 reforms [3].
+
+## Ukraine's Military Transformation
+
+Dr. Jack Watling (RUSI) describes [Ukraine](/actors/ukraine.md)'s transformation from an underfunded Soviet-legacy force to a 960,000-person defense force integrating UAVs as a universal fires platform, driven by civil society and a burgeoning private defense industry that rapidly iterates equipment based on frontline feedback. The vulnerability of globalized defense supply chains (Chinese magnets, Russian titanium, Indian cotton) highlights the need for Western governments to define "sufficient" rather than perfect equipment standards. The critical lesson: engaging civil society honestly creates political freedom to solve defense problems [4].
+
 # Citations
 
 [1] https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war
 [2] https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/
+
+[3] [Lessons-learned with Chinese Characteristics: Understanding the Limits of PLA Efforts to Adapt to Contemporary Warfare](https://understandingwar.org/research/china-taiwan/lessons-learned-with-chinese-characteristics-understanding-the-limits-of-pla-efforts-to-adapt-to-contemporary-warfare/)
+
+[4] [Talking Strategy #100: Ukraine's Adaptation with Dr. Jack Watling](https://traffic.libsyn.com/secure/forcedn/cead6627-d7c0-4f81-bec6-f79d589b6745/260612_TS_Jack_W_Ukraine_V2.mp3)

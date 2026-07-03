@@ -4,7 +4,7 @@ title: Germany
 description: Germany as a geopolitical actor — publishing first military strategy, signaling European conventional defense leadership, but hampered by timeline inconsistencies, capability gaps, and the AfD's Trump dilemma
 tags: [country, military, europe, nato, ideology, economics, trade]
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -47,9 +47,13 @@ Germany's far-right AfD has long sought close ties to the [Trump](/actors/trump.
 
 ## China Shock 2.0 and the Auto Crisis
 
-Germany is at the epicenter of what [Adam Tooze](/actors/adam-tooze.md) calls "China Shock 2.0" — the current wave of Chinese export competition that differs fundamentally from the early-2000s "China Shock 1.0." Germany's trade balance with [China](/actors/china.md) swung by €27 billion between 2021 and 2025, with 60% of that swing accounted for by vehicles. Chancellor Merz has taken up the accusation of an undervalued Chinese currency. Volkswagen announced plans to cut up to 100,000 jobs, conveying the depth of the industrial crisis [6].
+Germany is at the epicenter of what [Adam Tooze](/actors/adam-tooze.md) calls "China Shock 2.0" — the current wave of Chinese export competition that differs fundamentally from the early-2000s "China Shock 1.0." Germany's trade balance with [China](/actors/china.md) swung by €27 billion between 2021 and 2025, with 60% of that swing accounted for by vehicles. Chancellor Merz has taken up the accusation of an undervaluced Chinese currency. Volkswagen announced plans to cut up to 100,000 jobs, conveying the depth of the industrial crisis [6].
 
 Tooze frames this as "mercantilist-on-mercantilist violence": Germany is itself a chronic trade surplus country, so China Shock 2.0 is competitive surplus against surplus, not the classic deficit-country-versus-surplus-country story. The irony is that German automakers paid out €31 billion in dividends in 2023 alone — as the Chinese EV avalanche was already upon them — rather than reinvesting in needed innovation. As Tordoir and Setser put it, "complacency is the besetting sin of European and particularly German industrial policy." [6]
+
+## Plaza Accord Proposal and China Trade Tensions
+
+Chancellor Merz's call for a new "Plaza Accord" to address China's undervalued currency and subsidized exports has alarmed Beijing, which views the original 1985 Plaza Accord as a Western plot that crippled Japan's economy through forced yen appreciation. China views the proposal as economic coercion and has responded with retaliatory measures including rare-earth export controls. Brussels remains hesitant to provoke an open trade conflict that could hamper EU rearmament efforts — particularly as European defense procurement depends on Chinese raw materials and components [7].
 
 # Analysis
 
@@ -68,3 +72,5 @@ Germany's military strategy represents a necessary but insufficient step. The re
 [5] [Germany's far right loosens its embrace of Trump](https://www.politico.eu/article/germany-donald-trump-afd-greenland-nicolas-maduro-national-rally/)
 
 [6] [Chartbook 454: China Shock 2.0 and Mercantilist-on-Mercantilist Violence](https://adamtooze.substack.com/p/chartbook-454-china-shock-20-and)
+
+[7] [Germany's proposal to ease trade tensions with China has not gone down well in Beijing](https://theconversation.com/germanys-proposal-to-ease-trade-tensions-with-china-has-not-gone-down-well-in-beijing-285873)

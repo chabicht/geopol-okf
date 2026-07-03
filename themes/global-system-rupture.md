@@ -9,7 +9,7 @@ tags:
   - trade
   - sanctions
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -83,6 +83,10 @@ A super El Nino in the pipeline threatens concurrent crop failures, potentially 
 
 China Shock 2.0 reflects #4. If trade protection and industrial bargaining are the solution, that risks compounding the disorder personified by Trump (#1). But doing nothing — spectacular, uncontrolled deindustrialization — is a serious risk for Europe. The four disrupters interact: the AI boom (#3) is centered in the US but its benefits are K-shaped, while China's export surge (#4) is walled off from the AI asset boom by capital controls, creating a "strange combination" of two powerful forces "to a degree separated and disconnected" in the same world economy [4].
 
+## Sanctions and Financial Warfare Erosion
+
+The GSR framework extends to the erosion of Western financial coercive power. Sanctions enforcement suffers from a fundamental misalignment: sanctions use Harmonised System (HS) codes for specific goods, while banks use industry classification codes (ISIC) for customer monitoring. Meanwhile, [Iran](/actors/iran.md)'s oil-backed shadow banking system demonstrates that adversary financial architecture can operate entirely outside Western reach. As sanctioned states deepen their reliance on [organised criminal networks](/themes/organised-crime-and-statecraft.md) for sanctions evasion, the Western financial system's coercive power diminishes — contributing to the systemic rupture by weakening one of the key instruments through which the US-led order manages crises short of war [6][7].
+
 # Citations
 
 [1] https://substack.com/@velinatchakarova/p-203876124
@@ -94,3 +98,7 @@ China Shock 2.0 reflects #4. If trade protection and industrial bargaining are t
 [4] [Chartbook 454: China Shock 2.0 and Mercantilist-on-Mercantilist Violence](https://adamtooze.substack.com/p/chartbook-454-china-shock-20-and)
 
 [5] [The Persian Polycrisis](https://thehonestsorcerer.substack.com/p/the-persian-polycrisis)
+
+[6] [Decoding Sanctions: How Governments can get the Best out of Banks](https://www.rusi.org/explore-our-research/publications/commentary/decoding-sanctions-how-governments-can-get-best-out-banks)
+
+[7] [GSB Podcast: Organised Crime, Statecraft, and Geopolitics](https://traffic.libsyn.com/secure/forcedn/globalsecuritybriefing/260629_GSB_Organised_Crime_Cathy_H_V2.mp3)

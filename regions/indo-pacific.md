@@ -4,7 +4,7 @@ title: Indo-Pacific
 description: Maritime theater encompassing China, Taiwan, Japan, the Philippines, and Australia; central front of the new Cold War.
 tags: [indo-pacific, naval, gray-zone, military]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -25,6 +25,8 @@ The region's geography is defined by island chains, straits, and exclusive econo
 - [Australia](/actors/australia.md) illustrates governance dysfunction through self-reinforcing feedback loops: a "shaming loop" suppresses dissent while a "compliance loop" selects for conformity, progressively eliminating institutional competence. Australia's resource-export dependency (iron ore, coal, LNG, bauxite) makes it vulnerable to chokepoint disruption [4].
 - McKinsey's 2026 trade geometry analysis shows US-China trade fell approximately 30%, with ASEAN, Brazil, and [India](/actors/india.md) absorbing redirected flows. AI-related trade drove one-third of global trade growth [5].
 - The [RIC revival](/events/ric-revival-2026.md) (Russia-India-China trilateral) and India's Starlink freeze signal that the Indo-Pacific is increasingly contested through diplomatic and technological vectors, not just military posture [6].
+- [China](/actors/china.md) is extending its influence into [Bangladesh](/actors/bangladesh.md) through $9.2 billion in proposed investments across infrastructure, logistics, manufacturing, and energy — 13 MOUs signed during PM Tarique Rahman's Beijing visit. The move alarms [India](/actors/india.md) but faces limits from Myanmar's instability, Bangladesh's strategic autonomy, and Beijing's strained budget [7].
+- The PLA conducted [Justice Mission 2025](/events/justice-mission-2025.md) in December — a large-scale surprise blockade exercise around Taiwan with 18 PLAN vessels, 14 coast guard ships, 201 air sorties, and H-6 bombers across eight zones. The exercise rehearsed counter-intervention against U.S. forces and interdiction of Taiwanese energy imports [8].
 
 # Key Dynamics
 
@@ -44,3 +46,7 @@ The region's geography is defined by island chains, straits, and exclusive econo
 [5] [Geopolitics and the geometry of global trade 2026 update](https://www.mckinsey.com/mgi/our-research/geopolitics-and-the-geometry-of-global-trade-2026-update)
 
 [6] [The RIC (China-India-Russia) Revival and India's Starlink Freeze](https://substack.com/@velinatchakarova/p-201566415)
+
+[7] [China Makes Its Move in Bangladesh](https://geopoliticalfutures.com/china-makes-its-move-in-bangladesh/)
+
+[8] [Special Report: Surprise PRC Military Exercise Around Taiwan](https://understandingwar.org/research/china-taiwan/china-taiwan-special-report-december-31-2025/)

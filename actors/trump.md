@@ -4,7 +4,7 @@ title: Donald Trump
 description: 45th and 47th President of the United States; central decision-maker in the 2026 US-Iran war and US-Russia policy.
 tags: [leader, military, trade, latin-america, oligarchy, europe]
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -59,6 +59,18 @@ Trump has systematically defaced American institutions. He desecrated the Rose G
 
 Applebaum documents the systematic monetization of presidential power. Key items from June 2026: Trump received a $400 million Qatari jet as Air Force One (to keep afterward); over 3,600 stock trades following a court ruling freeing hundreds of millions; a Kazakhstan tungsten mine deal negotiated by Trump and Commerce Secretary Lutnick with $1.6 billion in federal financing, benefiting Eric and Donald Trump Jr. as well as the Lutnick sons — "American princes" cut into more than a dozen mineral deals; Republicans introduced legislation to repeal shell company beneficial ownership disclosure; Trump personally spoke with Live Nation's CEO before DOJ abruptly settled its antitrust lawsuit; a firm founded by former Trump officials accepts hundreds of thousands to help clients secure presidential pardons; Trump Jr.'s $300K Kalshi equity is now worth millions as the firm's valuation grew from $2 billion to $22 billion [13].
 
+## Troops in Europe as Leverage
+
+Trump's approach to U.S. troops in Europe is not genuine retrenchment but "illiberal hegemony" — using troop threats to extort defense spending pledges that are strategically worthless to the U.S. The threats are not accompanied by a coherent plan for European security autonomy; they serve as leverage for extracting spending commitments without genuine strategic recalibration. A deliberate, phased withdrawal of most U.S. conventional forces from Europe over the next decade — coupled with real European defense capacity building — would be more effective than the current extortion approach [14].
+
+## Jones Act Suspension
+
+Trump suspended the Jones Act for 150 days, allowing foreign vessels to shuttle over 31 million barrels of fuel between U.S. ports. The waiver primarily benefited gasoline-starved California, with significant shipments also to Puerto Rico and Alaska. The suspension exposed how protectionist maritime policy constrains domestic energy distribution. See [Jones Act Suspension](/events/jones-act-suspension.md) [15].
+
+## Intelligence Master List
+
+The Trump administration's plan to compile a master list of all foreign intelligence sources could be catastrophically destructive to U.S. intelligence. Centralizing source identities in a single database creates an unprecedented counterintelligence liability. The plan serves only to consolidate control over information that has historically been compartmented across agencies [16].
+
 ## Slaughter Ruling and Dictatorial Regulatory Power
 
 The Roberts Supreme Court's [Slaughter ruling](/events/slaughter-scotus-ruling.md) overturned 90 years of precedent to grant Trump effectively unlimited power over regulatory agencies created by Congress. He can now direct agencies to do the opposite of their mandate, fire civil servants who resist, or gut them entirely. Krugman frames this as "dictatorial power" — not over the presidency in general, but over Trump specifically, given the Court's partisanship. [6]
@@ -104,3 +116,9 @@ Applebaum's Kleptocracy Tracker provides the documentary record: the Qatari jet,
 [12] [Why Vance Committed So Hard to the Minneapolis Shooter](https://archive.ph/FAG0g)
 
 [13] [Trump and Vance Ruined the Fourth of July](https://anneapplebaum.substack.com/p/trump-and-vance-ruined-the-fourth)
+
+[14] [Misguided and Misunderstood: Trump's Approach to U.S. Troops in Europe](https://warontherocks.com/misguided-and-misunderstood-trumps-approach-to-u-s-troops-in-europe/)
+
+[15] [What Happened in Fuel Markets When Trump Lifted the Century-Old Jones Act](https://www.wsj.com/business/logistics/what-happened-in-fuel-markets-when-trump-lifted-the-century-old-jones-act-199da395)
+
+[16] [Midweek Update #17: The Most Dangerous Intelligence Move Ever Contemplated](https://phillipspobrien.substack.com/p/midweek-update-17-the-most-dangerous)
