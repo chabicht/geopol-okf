@@ -14,7 +14,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-The Global System Rupture (GSR) is the central analytical concept developed by [Velina Tchakarova](/actors/velina-tchakarova.md). It describes the threshold condition in which the accumulation of simultaneous, mutually reinforcing systemic stresses exceeds the global system's absorptive capacity. The defining feature is not any single crisis but the convergence of multiple stress vectors — energy, trade, conflict, financial — whose combined effect is greater than the sum of parts.
+The Global System Rupture (GSR) is the central analytical concept developed by [Velina Tchakarova](/actors/authors/velina-tchakarova.md). It describes the threshold condition in which the accumulation of simultaneous, mutually reinforcing systemic stresses exceeds the global system's absorptive capacity. The defining feature is not any single crisis but the convergence of multiple stress vectors — energy, trade, conflict, financial — whose combined effect is greater than the sum of parts.
 
 Tchakarova's "Uncharted Waters" scenario — a hypothetical stress-accumulation pathway — was upgraded to a declared Global System Rupture in March 2026, marking the transition from analytical warning to operational assessment. The core mechanism: stabilizing mechanisms that normally buffer the system activate simultaneously and, under sufficient stress, fail simultaneously. The GSR is not a single event but a condition — a phase in which the system's self-correcting capacity is overwhelmed.
 
@@ -24,7 +24,7 @@ Tchakarova, with Marco Felsberger and Herbert Saurugg, published a comprehensive
 
 # Current Situation
 
-As of June 2026, the Global System Rupture has moved from acute crisis to a supervised, reversible pause. The June 17 Versailles Memorandum of Understanding (MoU) ended the kinetic phase of the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md), producing an immediate market response: Brent crude fell from approximately $126 to below $73 per barrel. The [FACE Intelligence](/actors/velina-tchakarova.md) Simultaneity reading dropped from S5-S6 to S3-S4, reflecting a measurable reduction in systemic crisis intensity.
+As of June 2026, the Global System Rupture has moved from acute crisis to a supervised, reversible pause. The June 17 Versailles Memorandum of Understanding (MoU) ended the kinetic phase of the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md), producing an immediate market response: Brent crude fell from approximately $126 to below $73 per barrel. The [FACE Intelligence](/actors/authors/velina-tchakarova.md) Simultaneity reading dropped from S5-S6 to S3-S4, reflecting a measurable reduction in systemic crisis intensity.
 
 However, the primary energy shock, while reversed, has left secondary cascades continuing across multiple domains:
 
@@ -32,7 +32,7 @@ However, the primary energy shock, while reversed, has left secondary cascades c
 - **Emerging market debt**: The shock has cascaded into EM debt stress as import-dependent economies face balance-of-payments crises.
 - **EU gas storage**: European gas storage ended June at approximately 46%, well below seasonal norms, creating a structural deficit heading into the next winter.
 
-The [Tindale-Tchakarova Cascade](/actors/velina-tchakarova.md) operates on 6–12 month lags, meaning the secondary effects of the primary shock will continue to propagate well after the trigger event has been addressed.
+The [Tindale-Tchakarova Cascade](/actors/authors/velina-tchakarova.md) operates on 6–12 month lags, meaning the secondary effects of the primary shock will continue to propagate well after the trigger event has been addressed.
 
 # Key Dynamics
 
@@ -68,13 +68,13 @@ The DragonBear axis emerged from the Iran war more operationally coordinated but
 
 ## Polycrisis and Permanent Damage
 
-[The Honest Sorcerer](/actors/the-honest-sorcerer.md) frames the current condition as a "polycrisis" — not a single crisis but the convergence of multiple stress vectors (energy, fertilizer, food, financial, supply chain) whose combined effect is greater than the sum of parts. The critical insight: the damage to supply chains is already done, regardless of whether the trigger event is resolved. The Hormuz disruption may end, but the fertilizer price cascade, the food supply chain disruption, and the financial stress will propagate for 6-12 months on their own timelines [5].
+[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) frames the current condition as a "polycrisis" — not a single crisis but the convergence of multiple stress vectors (energy, fertilizer, food, financial, supply chain) whose combined effect is greater than the sum of parts. The critical insight: the damage to supply chains is already done, regardless of whether the trigger event is resolved. The Hormuz disruption may end, but the fertilizer price cascade, the food supply chain disruption, and the financial stress will propagate for 6-12 months on their own timelines [5].
 
 A super El Nino in the pipeline threatens concurrent crop failures, potentially producing the first "major, permanent step towards the collapse of modern societies" — not the end of the world, but a step towards the involuntary simplification of global civilization [5].
 
 ## Four Disrupters of the 2026 World Economy
 
-[Adam Tooze](/actors/adam-tooze.md) identifies four disrupters operating simultaneously [4]:
+[Adam Tooze](/actors/authors/adam-tooze.md) identifies four disrupters operating simultaneously [4]:
 
 1. [Trump](/actors/trump.md)'s trade policy rampage.
 2. The extraordinary incontinence of US fiscal policy.

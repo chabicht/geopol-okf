@@ -20,7 +20,7 @@ The Alliance of Sahel States (AES) was formed as a mutual defense and cooperatio
 
 # Current Situation
 
-In April 2025, a JNIM and Azawad Liberation Front offensive exposed the failures of the Russia-oriented security partnership [1]. The transition from Wagner to [Africa Corps](/actors/wagner-africa-corps.md) — the rebranded Russian paramilitary presence — made problems sharper rather than resolving them, as the new structure suffered from the same personnel shortages, coordination failures, and mission drift that plagued its predecessor [1].
+In April 2025, a JNIM and Azawad Liberation Front offensive exposed the failures of the Russia-oriented security partnership [1]. The transition from Wagner to [Africa Corps](/actors/organizations/wagner-africa-corps.md) — the rebranded Russian paramilitary presence — made problems sharper rather than resolving them, as the new structure suffered from the same personnel shortages, coordination failures, and mission drift that plagued its predecessor [1].
 
 [Turkey](/actors/countries/turkey.md) is now exploiting the gap left by Russian underperformance, offering security assistance without the colonial baggage or ideological conditions associated with Western or Russian alternatives [1]. Turkish drones are now operated by Mali, Burkina Faso, Niger, Chad, Ethiopia, Somalia, and Nigeria — making Ankara the dominant drone supplier across the Sahel and Horn of Africa [1]. Covert discussions with US intelligence around surveillance and logistics assistance are reportedly underway, suggesting that some Sahel regimes are hedging rather than committing fully to the Turkish option [1].
 

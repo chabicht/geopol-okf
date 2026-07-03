@@ -21,7 +21,7 @@ The conflict drew in multiple actors and exposed structural vulnerabilities in t
 
 ## Pre-War Context
 
-In the weeks before the war, [Geopolitical Futures](/actors/geopolitical-futures.md) assessed that Iran's regime was "headed for a hard landing." The 47th anniversary of the 1979 revolution exposed elite factionalism, the erosion of the IRGC, and the rise of pragmatists seeking a deal with the Trump administration. The internal crisis created both an opportunity for diplomatic resolution and a risk that military action would be seen as a way to resolve it externally. The war launched before the internal dynamics could play out [1].
+In the weeks before the war, [Geopolitical Futures](/actors/authors/geopolitical-futures.md) assessed that Iran's regime was "headed for a hard landing." The 47th anniversary of the 1979 revolution exposed elite factionalism, the erosion of the IRGC, and the rise of pragmatists seeking a deal with the Trump administration. The internal crisis created both an opportunity for diplomatic resolution and a risk that military action would be seen as a way to resolve it externally. The war launched before the internal dynamics could play out [1].
 
 # Current Situation
 
@@ -42,13 +42,13 @@ Post-MoU escalation events confirm the fragility of the arrangement:
 - A second commercial vessel was attacked.
 - Iranian drones targeted US-linked facilities in Bahrain.
 
-As [Robert Pape](/actors/robert-pape.md) observed, "The Iran War ended without resolving the underlying balance of power." See [Iran Ceasefire MoU](/events/iran-ceasefire-mou.md) for details on the diplomatic instrument.
+As [Robert Pape](/actors/authors/robert-pape.md) observed, "The Iran War ended without resolving the underlying balance of power." See [Iran Ceasefire MoU](/events/iran-ceasefire-mou.md) for details on the diplomatic instrument.
 
 # Analysis
 
 ## Military Assessment
 
-[Phillips O'Brien](/actors/phillips-obrien.md) offers a scathing assessment of US military performance, arguing that the United States bombed girls' schools, failed to protect its own facilities, and achieved no meaningful strategic objectives. He dismisses the sinking of the Iranian Navy as a "derisory achievement" given that those vessels were not the source of Iran's coercive power — control of Hormuz was exercised through geography, anti-ship missile threat, and drone swarms, not surface combatants [2]. O'Brien concludes that the US lost this war almost from the moment it started, characterizing it as a historic failure of strategic conception [2].
+[Phillips O'Brien](/actors/authors/phillips-obrien.md) offers a scathing assessment of US military performance, arguing that the United States bombed girls' schools, failed to protect its own facilities, and achieved no meaningful strategic objectives. He dismisses the sinking of the Iranian Navy as a "derisory achievement" given that those vessels were not the source of Iran's coercive power — control of Hormuz was exercised through geography, anti-ship missile threat, and drone swarms, not surface combatants [2]. O'Brien concludes that the US lost this war almost from the moment it started, characterizing it as a historic failure of strategic conception [2].
 
 In a detailed follow-up, O'Brien catalogued US aircraft losses: 17 advanced aircraft lost or damaged (fighters, AWACS, special forces helicopters), billions in equipment damage, bases hit extensively, and munitions burned through decades of production in 6 weeks. A CSIS report confirmed munitions depletion. The Trump administration's corruption has "percolated to the military," degrading institutional competence [3].
 
@@ -56,11 +56,11 @@ An earlier Atlantic article by O'Brien identified the first signs of US military
 
 Pape frames the dynamic as a shift in Iran's negotiating posture: Iran moved from negotiating to stop losing to negotiating to win more — a transition enabled by the realization that the US had no viable path to compelling Iranian compliance on Hormuz [5].
 
-[Velina Tchakarova](/actors/velina-tchakarova.md) describes the outcome as a managed step back from the cliff edge, financed by drawing down temporary shock absorbers: US and Chinese Strategic Petroleum Reserve releases, Chinese demand destruction, and waivers for Russian and Iranian oil that temporarily flooded the market [6]. The sustainability of this approach is inherently limited.
+[Velina Tchakarova](/actors/authors/velina-tchakarova.md) describes the outcome as a managed step back from the cliff edge, financed by drawing down temporary shock absorbers: US and Chinese Strategic Petroleum Reserve releases, Chinese demand destruction, and waivers for Russian and Iranian oil that temporarily flooded the market [6]. The sustainability of this approach is inherently limited.
 
 ## Energy Cascade
 
-[The Honest Sorcerer](/actors/the-honest-sorcerer.md) provides the most detailed tracking of the energy cascade across the war's timeline:
+[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) provides the most detailed tracking of the energy cascade across the war's timeline:
 
 - **Week 1 (early March)**: The Strait of Hormuz shutdown reduced tanker traffic from 40/day to 1. The diesel/jet fuel crisis began. LNG disruption took [Qatar](/actors/countries/qatar.md)'s 1/5 of global capacity offline. [Egypt](/regions/middle-east.md)'s existential crisis began as Suez transit collapsed. European gas storage dropped below seasonal norms [7].
 - **Week 2 (mid-March)**: The 16M barrel/day shortfall (crude + refined) became visible. Pipeline diversion to Yanbu was insufficient. Iran continued exports to China. The Bab-el-Mandeb chokepoint was affected by Houthi activity. Operation Prosperity Guardian's failure was confirmed. Insurance withdrawal from Gulf shipping [8].
@@ -71,7 +71,7 @@ Pape frames the dynamic as a shift in Iran's negotiating posture: Iran moved fro
 
 ## The Counter-Blockade
 
-[Endtropy](/actors/endtropy.md) draws historical parallels between the US-Iran counter-blockade dynamics and Napoleonic warfare. Napoleon's Continental System — the attempt to blockade British trade — generated adaptive responses (smuggling, redirecting trade through neutral ports, financial workarounds) that ultimately undermined the blockade's effectiveness. The US counter-blockade of Iranian ports produced analogous responses: Iran redirected oil exports through non-dollar channels, Chinese banks developed alternative settlement systems, and the [monetary system transition](/themes/monetary-system-transition.md) accelerated [13].
+[Endtropy](/actors/authors/endtropy.md) draws historical parallels between the US-Iran counter-blockade dynamics and Napoleonic warfare. Napoleon's Continental System — the attempt to blockade British trade — generated adaptive responses (smuggling, redirecting trade through neutral ports, financial workarounds) that ultimately undermined the blockade's effectiveness. The US counter-blockade of Iranian ports produced analogous responses: Iran redirected oil exports through non-dollar channels, Chinese banks developed alternative settlement systems, and the [monetary system transition](/themes/monetary-system-transition.md) accelerated [13].
 
 The counter-blockade revealed the war's true objective: controlling oil flow to [China](/actors/countries/china.md), not uranium enrichment. By blockading Iranian ports while imposing secondary sanctions on Chinese banks, the US attempted to sever the energy pipeline sustaining the DragonBear axis [10][13].
 
@@ -118,7 +118,7 @@ O'Brien emphasizes that the United States threw its European allies, Japan, and 
 
 Tchakarova reframes the ceasefire not as an American coercive success but as an axis course correction. She argues that Russia and China green-lit the MoU through the [DragonBear](/themes/global-system-rupture.md) coordination mechanism [6]. The axis endorsed the MoU because uncontrolled escalation risked a Global System Rupture that would damage their own foundations — the economic and political stability upon which their strategic ambitions depend [6].
 
-[Aurelien](/actors/aurelien.md) provides the sharpest framing of the diplomatic impasse: the US and Israeli positions are fundamentally unreconcilable with Iran's. These positions have zero overlap — there is nothing to negotiate. Diplomacy is theater, and the nuclear enrichment issue is an excuse, not a real subject of bargaining [11][17].
+[Aurelien](/actors/authors/aurelien.md) provides the sharpest framing of the diplomatic impasse: the US and Israeli positions are fundamentally unreconcilable with Iran's. These positions have zero overlap — there is nothing to negotiate. Diplomacy is theater, and the nuclear enrichment issue is an excuse, not a real subject of bargaining [11][17].
 
 ## US-Israel Strategic Divergence
 
@@ -156,7 +156,7 @@ O'Brien observes that there was no rally-round-the-flag effect during the war. U
 
 ## Surprise-at-Failure
 
-[Aurelien](/actors/aurelien.md) classifies the US-Iran War as a classic case of "surprise-at-failure" — the most common type of strategic surprise. The outbreak of the conflict was not surprising: US leaders had been threatening to attack Iran for a decade, the methods (air campaign) were predictable, and Israel's participation was expected. The surprise came because the *overall strategic situation* was read wrongly [21].
+[Aurelien](/actors/authors/aurelien.md) classifies the US-Iran War as a classic case of "surprise-at-failure" — the most common type of strategic surprise. The outbreak of the conflict was not surprising: US leaders had been threatening to attack Iran for a decade, the methods (air campaign) were predictable, and Israel's participation was expected. The surprise came because the *overall strategic situation* was read wrongly [21].
 
 The dynamic Aurelien identifies is "backwards logic from desired outcome to necessary false assumptions": since a ground invasion was infeasible, all faith had to be placed in an air campaign — but the campaign could only succeed *if* the Iranian state was very fragile, *and* if main state targets could be reliably hit, *and* if the Iranian people would rise up once the state was weakened. These assumptions *had* to be true for the objective to be viable, and therefore the assumptions were treated as true. The US appreciation of Iran's conventional weakness was broadly correct, but Iran's *capability* (asymmetric, geographic, drone-based) was not properly understood, and the *objectives* of the Iranian state (survival and retaliation) were wrongly evaluated. Unlike the Americans, the Iranians were not surprised — they had expected the attack and developed capabilities to pursue their objective [21].
 

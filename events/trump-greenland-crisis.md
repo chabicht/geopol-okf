@@ -15,7 +15,7 @@ Greenland is an autonomous territory of Denmark, leaving the EU in 1985 (long be
 
 ## Europe's Inability to Respond
 
-The EU's 21 other member states have not been sanctioned. [Italy](/actors/eu.md)'s Meloni called the tariff threat a mistake but is unlikely to break with Trump over "a patch of land far away and irrelevant to Italy's security." Eastern European states — Hungary, Czech Republic, Slovakia — will not rescue Denmark's liberal government. Even Poland, pro-EU, will not sacrifice its US alliance over Arctic ice.
+The EU's 21 other member states have not been sanctioned. [Italy](/actors/organizations/eu.md)'s Meloni called the tariff threat a mistake but is unlikely to break with Trump over "a patch of land far away and irrelevant to Italy's security." Eastern European states — Hungary, Czech Republic, Slovakia — will not rescue Denmark's liberal government. Even Poland, pro-EU, will not sacrifice its US alliance over Arctic ice.
 
 The EU lacks the military, economic, and political cohesion to resist. The eurozone crisis of 2008–2015 was the final missed moment for political unification. Since then, right-wing euroscepticism has risen, and the window for federal integration has closed. The EU's single market is full of regulatory barriers; its hostile green and tech regulation damaged competitiveness without changing the world for the better. As Munchau argues, "A union in which member states retain full sovereignty is only as strong as its weakest member" — and that is Germany right now, dependent on the US and unable to retaliate.
 

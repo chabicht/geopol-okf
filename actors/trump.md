@@ -49,7 +49,7 @@ MAGA is fundamentally about redistributing respect — away from overeducated co
 
 ## Blood and Soil vs Founding Abstractions
 
-[Anne Applebaum](/actors/anne-applebaum.md) identifies the core ideological project of Trump and Vance as "blood and soil" nationalism. Vance's 2024 RNC acceptance speech explicitly dismissed American founding abstractions — "all men are created equal," "Life, Liberty and the pursuit of Happiness" — in favor of tombstones, homeland, and ancestral belonging. Vance argued that "people will not fight for abstractions" but "will fight for their home." Trump and Vance believe only their clan represents America; the government exists to serve them alone [13].
+[Anne Applebaum](/actors/authors/anne-applebaum.md) identifies the core ideological project of Trump and Vance as "blood and soil" nationalism. Vance's 2024 RNC acceptance speech explicitly dismissed American founding abstractions — "all men are created equal," "Life, Liberty and the pursuit of Happiness" — in favor of tombstones, homeland, and ancestral belonging. Vance argued that "people will not fight for abstractions" but "will fight for their home." Trump and Vance believe only their clan represents America; the government exists to serve them alone [13].
 
 ## Institutional Defacement
 

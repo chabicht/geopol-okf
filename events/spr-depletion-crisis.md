@@ -21,11 +21,11 @@ The US Strategic Petroleum Reserve (SPR) is the world's largest emergency crude 
 
 # Analysis
 
-[Velina Tchakarova](/actors/velina-tchakarova.md) describes the calm in oil markets as "engineered, temporary, and depleting." The three buffers are one-time measures, not structural fixes. The SPR cannot be drawn down indefinitely; Chinese demand destruction reflects economic weakness, not a sustainable adjustment; and Russian export cuts are driven by war damage, not policy choice [1].
+[Velina Tchakarova](/actors/authors/velina-tchakarova.md) describes the calm in oil markets as "engineered, temporary, and depleting." The three buffers are one-time measures, not structural fixes. The SPR cannot be drawn down indefinitely; Chinese demand destruction reflects economic weakness, not a sustainable adjustment; and Russian export cuts are driven by war damage, not policy choice [1].
 
-[The Honest Sorcerer](/actors/the-honest-sorcerer.md) adds that the SPR drawdown is physically unsustainable: at the rate of drawdown observed during the crisis, the operational floor — the point below which the SPR cannot be drawn without compromising its basic function — was approximately two weeks away at the peak of the crisis [2][3].
+[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) adds that the SPR drawdown is physically unsustainable: at the rate of drawdown observed during the crisis, the operational floor — the point below which the SPR cannot be drawn without compromising its basic function — was approximately two weeks away at the peak of the crisis [2][3].
 
-[Robert Pape](/actors/robert-pape.md) warns that when these temporary buffers are exhausted, Iran's leverage reasserts itself. The "quiet" in oil markets is not evidence of resolution but of deferred reckoning [4].
+[Robert Pape](/actors/authors/robert-pape.md) warns that when these temporary buffers are exhausted, Iran's leverage reasserts itself. The "quiet" in oil markets is not evidence of resolution but of deferred reckoning [4].
 
 # Citations
 

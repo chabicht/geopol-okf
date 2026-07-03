@@ -15,7 +15,7 @@ Geopolitical Futures is a strategic analysis publication founded by George Fried
 
 ## Structural Drivers Over Personality
 
-GPF's analytical approach prioritizes structural factors — geographic constraints, demographic trajectories, institutional capacity — over the individual leader decisions that [O'Brien](/actors/phillips-obrien.md) emphasizes. This creates a complementary tension: GPF explains why structural pressures exist, while O'Brien explains why the timing and direction of action depend on the specific leader in power.
+GPF's analytical approach prioritizes structural factors — geographic constraints, demographic trajectories, institutional capacity — over the individual leader decisions that [O'Brien](/actors/authors/phillips-obrien.md) emphasizes. This creates a complementary tension: GPF explains why structural pressures exist, while O'Brien explains why the timing and direction of action depend on the specific leader in power.
 
 ## Case Studies in the Bundle
 

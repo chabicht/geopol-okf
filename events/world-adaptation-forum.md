@@ -9,7 +9,7 @@ timestamp: 2026-04-12T00:00:00Z
 
 # Background
 
-The World Adaptation Forum, held in Budapest in April 2026, convened analysts, scientists, and policy thinkers to discuss adaptation and mitigation strategies for the converging crises of energy depletion, resource scarcity, and systemic disruption. [The Honest Sorcerer](/actors/the-honest-sorcerer.md) attended the forum and described it as a "superb conference" that informed his analysis of the [polycrisis](/themes/global-system-rupture.md) [1].
+The World Adaptation Forum, held in Budapest in April 2026, convened analysts, scientists, and policy thinkers to discuss adaptation and mitigation strategies for the converging crises of energy depletion, resource scarcity, and systemic disruption. [The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) attended the forum and described it as a "superb conference" that informed his analysis of the [polycrisis](/themes/global-system-rupture.md) [1].
 
 # What Happened
 

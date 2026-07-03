@@ -19,7 +19,7 @@ The UAE's request for a US dollar swap line during the Iran war signaled structu
 
 ## Solar Energy Limits
 
-The UAE's $6 billion solar project (5.2 GW capacity plus 19 GWh battery storage for 1 GW continuous output) demonstrates the physical limits of solar energy even in optimal conditions. In the sunniest desert on Earth, solar capacity factor is only 24%; in [Germany](/actors/countries/germany.md) it is 11%. The project reveals the impossibility of seasonal storage at scale and the "dunkelflaute" problem — periods of low wind and solar generation that no battery system can bridge. [The Honest Sorcerer](/actors/the-honest-sorcerer.md) uses the UAE project as a case study in why renewables cannot replace fossil fuels in their own production [2].
+The UAE's $6 billion solar project (5.2 GW capacity plus 19 GWh battery storage for 1 GW continuous output) demonstrates the physical limits of solar energy even in optimal conditions. In the sunniest desert on Earth, solar capacity factor is only 24%; in [Germany](/actors/countries/germany.md) it is 11%. The project reveals the impossibility of seasonal storage at scale and the "dunkelflaute" problem — periods of low wind and solar generation that no battery system can bridge. [The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) uses the UAE project as a case study in why renewables cannot replace fossil fuels in their own production [2].
 
 ## Regional Mediation
 

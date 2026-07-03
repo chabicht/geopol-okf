@@ -30,7 +30,7 @@ US Treasury Secretary Scott Bessent's secondary sanctions on Chinese banks facil
 
 ## Petrodollar as Geopolitical Infrastructure
 
-[Endtropy](/actors/endtropy.md) frames the petrodollar not as a financial abstraction but as geopolitical infrastructure — the plumbing connecting US military power to global energy markets. When that plumbing shows stress (swap-line requests, gold accumulation, currency diversification), it signals that the geopolitical order the plumbing supports is also under stress. The monetary dimension of the Iran war is a central theater, not a side effect [1].
+[Endtropy](/actors/authors/endtropy.md) frames the petrodollar not as a financial abstraction but as geopolitical infrastructure — the plumbing connecting US military power to global energy markets. When that plumbing shows stress (swap-line requests, gold accumulation, currency diversification), it signals that the geopolitical order the plumbing supports is also under stress. The monetary dimension of the Iran war is a central theater, not a side effect [1].
 
 # Key Dynamics
 
@@ -41,7 +41,7 @@ US Treasury Secretary Scott Bessent's secondary sanctions on Chinese banks facil
 
 # Analysis
 
-[Endtropy](/actors/endtropy.md) draws the historical parallel to the Napoleonic Continental System: a blockade designed to deny the adversary access to the financial system instead generates adaptive workarounds that ultimately weaken the blockading power. The US financial blockade of Iran accelerated the dedollarization of Chinese-Iranian trade, just as Napoleon's trade blockade of Britain accelerated the development of alternative trade routes and ultimately strengthened British naval dominance [1].
+[Endtropy](/actors/authors/endtropy.md) draws the historical parallel to the Napoleonic Continental System: a blockade designed to deny the adversary access to the financial system instead generates adaptive workarounds that ultimately weaken the blockading power. The US financial blockade of Iran accelerated the dedollarization of Chinese-Iranian trade, just as Napoleon's trade blockade of Britain accelerated the development of alternative trade routes and ultimately strengthened British naval dominance [1].
 
 The implication for the [global system rupture](/themes/global-system-rupture.md) is that the monetary architecture is not a stable background condition but a stress vector in its own right. The cracking of the petrodollar system is both a consequence of geopolitical conflict and a driver of it — as dedollarization progresses, the US loses one of its primary instruments of coercive power, which in turn accelerates the systemic rupture [1][2].
 

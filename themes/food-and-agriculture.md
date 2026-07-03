@@ -46,9 +46,9 @@ The ExportLand Model shows that global net oil export capacity peaked in 2004. I
 
 # Analysis
 
-[The Honest Sorcerer](/actors/the-honest-sorcerer.md) frames the food system as the most vulnerable node in the [polycrisis](/themes/global-system-rupture.md): it is the point where energy depletion, resource scarcity, and supply chain disruption converge with the most direct human impact. The damage to supply chains of energy, fertilizer, and food has "already been done" by the Iran war — it is "just not registered by the Western ruling classes" yet [1].
+[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) frames the food system as the most vulnerable node in the [polycrisis](/themes/global-system-rupture.md): it is the point where energy depletion, resource scarcity, and supply chain disruption converge with the most direct human impact. The damage to supply chains of energy, fertilizer, and food has "already been done" by the Iran war — it is "just not registered by the Western ruling classes" yet [1].
 
-The honest assessment is that mitigation, not prevention, is the available strategy. [The Honest Sorcerer](/actors/the-honest-sorcerer.md) proposes rationing, localized production, and resilient community design as the practical responses — but notes that these require political will that is absent in systems optimized for efficiency rather than resilience [1].
+The honest assessment is that mitigation, not prevention, is the available strategy. [The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) proposes rationing, localized production, and resilient community design as the practical responses — but notes that these require political will that is absent in systems optimized for efficiency rather than resilience [1].
 
 # Citations
 

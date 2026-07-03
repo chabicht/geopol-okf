@@ -19,7 +19,7 @@ Russia anchors the DragonBear axis alongside [China](/actors/countries/china.md)
 
 The [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) continues to strain Russian resources. Putin has rejected ceasefire proposals, with demands disconnected from battlefield realities. Ukraine's long-range strikes are reaching Moscow and St. Petersburg, attacking Russian war production infrastructure — not just refineries. The FP-5 Flamingo missile has struck the Titan-Barrikady weapons complex in Volgograd, demonstrating that Ukrainian reach extends deep into Russian industrial territory.
 
-In May 2026, Ukraine conducted a major [drone strike on Moscow](/events/moscow-drone-strike.md), demonstrating that Putin can no longer protect the capital from war consequences. [Phillips O'Brien](/actors/phillips-obrien.md) compares the strike to Japan's loss of the Marianas in WWII — the moment when the propaganda narrative collapsed because the war reached the homeland. Russia's cumulative casualties exceed 1 million [6].
+In May 2026, Ukraine conducted a major [drone strike on Moscow](/events/moscow-drone-strike.md), demonstrating that Putin can no longer protect the capital from war consequences. [Phillips O'Brien](/actors/authors/phillips-obrien.md) compares the strike to Japan's loss of the Marianas in WWII — the moment when the propaganda narrative collapsed because the war reached the homeland. Russia's cumulative casualties exceed 1 million [6].
 
 ## Chechnya
 
@@ -27,7 +27,7 @@ In May 2026, Ukraine conducted a major [drone strike on Moscow](/events/moscow-d
 
 ## Africa
 
-Russia's reputation as a regime guarantor has been damaged by failures in Syria and Venezuela. In [Africa](/regions/africa.md), the transition from Wagner to the [Africa Corps](/actors/wagner-africa-corps.md) has produced a more bureaucratic, less flexible instrument — one vulnerable to wider strategic constraints as resources are prioritized for the Ukraine front. [Turkey](/actors/countries/turkey.md) sees an opening in Mali as Russian security support shows its limits.
+Russia's reputation as a regime guarantor has been damaged by failures in Syria and Venezuela. In [Africa](/regions/africa.md), the transition from Wagner to the [Africa Corps](/actors/organizations/wagner-africa-corps.md) has produced a more bureaucratic, less flexible instrument — one vulnerable to wider strategic constraints as resources are prioritized for the Ukraine front. [Turkey](/actors/countries/turkey.md) sees an opening in Mali as Russian security support shows its limits.
 
 ## Misreading of America First
 

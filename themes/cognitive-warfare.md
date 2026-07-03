@@ -14,7 +14,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 [Russia](/actors/countries/russia.md) uses information warfare to maintain the image of a superpower, operating below the threshold of armed conflict through cyber operations, influence campaigns, technology theft, and economic coercion. The goal is not military victory in the conventional sense but the degradation of adversary cohesion — inciting unrest, amplifying divisions, and projecting the appearance of global Russian influence.
 
-The [Social Design Agency](/actors/social-design-agency.md) (SDA) is a key instrument of this effort. Already sanctioned by the US, UK, and EU, the SDA continues operations under the oversight of Russian Presidential Administration officials, using workplace collaboration tools for coordination between staffers and administration officials.
+The [Social Design Agency](/actors/organizations/social-design-agency.md) (SDA) is a key instrument of this effort. Already sanctioned by the US, UK, and EU, the SDA continues operations under the oversight of Russian Presidential Administration officials, using workplace collaboration tools for coordination between staffers and administration officials.
 
 # Current Situation
 

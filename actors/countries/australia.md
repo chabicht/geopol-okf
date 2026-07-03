@@ -15,7 +15,7 @@ Australia is a resource-exporting nation whose strategic position in the [Indo-P
 
 ## Governance Dysfunction
 
-[ctindale](/actors/ctindale.md) identifies Australia as a case study in institutional decay driven by self-reinforcing feedback loops. A "shaming loop" reframes dissent as moral deficiency, suppressing challenge to consensus; a "compliance loop" selects for cultural conformity, progressively eliminating competence that deviates from orthodoxy. The result is visible in policy areas from net zero to immigration: institutions that cannot self-correct because the mechanisms for correction have been disabled by the mechanisms for self-protection [2].
+[ctindale](/actors/authors/ctindale.md) identifies Australia as a case study in institutional decay driven by self-reinforcing feedback loops. A "shaming loop" reframes dissent as moral deficiency, suppressing challenge to consensus; a "compliance loop" selects for cultural conformity, progressively eliminating competence that deviates from orthodoxy. The result is visible in policy areas from net zero to immigration: institutions that cannot self-correct because the mechanisms for correction have been disabled by the mechanisms for self-protection [2].
 
 ## Resource Export Dependency
 

@@ -9,7 +9,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-The Russia-India-China (RIC) trilateral format, dormant for years, was revived in mid-2026 as a coordinated diplomatic initiative. [Velina Tchakarova](/actors/velina-tchakarova.md) frames the revival as a DragonBear play designed to pull [India](/actors/countries/india.md) away from its alignment with the [United States](/actors/countries/united-states.md) — exploiting Indian dissatisfaction with Trump-era treatment and the [US-Iran War](/conflicts/us-iran-war-2026.md)'s disruption of Indian energy supplies.
+The Russia-India-China (RIC) trilateral format, dormant for years, was revived in mid-2026 as a coordinated diplomatic initiative. [Velina Tchakarova](/actors/authors/velina-tchakarova.md) frames the revival as a DragonBear play designed to pull [India](/actors/countries/india.md) away from its alignment with the [United States](/actors/countries/united-states.md) — exploiting Indian dissatisfaction with Trump-era treatment and the [US-Iran War](/conflicts/us-iran-war-2026.md)'s disruption of Indian energy supplies.
 
 # What Happened
 

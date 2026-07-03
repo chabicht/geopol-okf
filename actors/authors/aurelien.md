@@ -9,7 +9,7 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Background
 
-Aurelien is a pseudonymous writer whose essays on the Substack publication "Aurelien" combine historical analysis, institutional critique, and conflict theory. His work is distinguished by a skepticism toward formal models of international relations — particularly game theory and escalation theory — which he argues fail to capture the actual dynamics of contemporary conflicts. His analysis of the [US-Iran War](/conflicts/us-iran-war-2026.md), the [Russia-Ukraine War](/conflicts/russia-ukraine-war.md), and the broader [global system rupture](/themes/global-system-rupture.md) provides a counterpoint to the framework-driven approaches of [Tchakarova](/actors/velina-tchakarova.md) and [O'Brien](/actors/phillips-obrien.md).
+Aurelien is a pseudonymous writer whose essays on the Substack publication "Aurelien" combine historical analysis, institutional critique, and conflict theory. His work is distinguished by a skepticism toward formal models of international relations — particularly game theory and escalation theory — which he argues fail to capture the actual dynamics of contemporary conflicts. His analysis of the [US-Iran War](/conflicts/us-iran-war-2026.md), the [Russia-Ukraine War](/conflicts/russia-ukraine-war.md), and the broader [global system rupture](/themes/global-system-rupture.md) provides a counterpoint to the framework-driven approaches of [Tchakarova](/actors/authors/velina-tchakarova.md) and [O'Brien](/actors/authors/phillips-obrien.md).
 
 # Key Frameworks
 
@@ -23,7 +23,7 @@ Aurelien's analysis of the Iran war frames the US and Israeli positions as funda
 
 ## Elite Homogenization
 
-Aurelien's concept of elite homogenization — the convergence of Western ruling elites toward a single worldview regardless of nominal political affiliation — is cited by [The Honest Sorcerer](/actors/the-honest-sorcerer.md) as a structural feature of the "Zero State": a system unable to generate growth, where elites choose war as their "last sniff" and govern through bureaucracy and corruption rather than innovation [3].
+Aurelien's concept of elite homogenization — the convergence of Western ruling elites toward a single worldview regardless of nominal political affiliation — is cited by [The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) as a structural feature of the "Zero State": a system unable to generate growth, where elites choose war as their "last sniff" and govern through bureaucracy and corruption rather than innovation [3].
 
 ## Strategic Surprise Taxonomy
 

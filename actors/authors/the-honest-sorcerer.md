@@ -47,7 +47,7 @@ Detailed analysis of copper, silver, and oil depletion dynamics. Each resource i
 
 ## The Mordor Economy
 
-Civilization is a "Mordor Economy" spending more energy to get energy, following the second law of thermodynamics. Fossil fuels are a high-grade energy gradient; renewables are a low-grade gradient. The transition from high-grade to low-grade sources means an increasing share of civilizational energy throughput is consumed by the energy acquisition process itself — the thermodynamic definition of diminishing returns. This connects to [Nate Hagens](/actors/nate-hagens.md)'s "Great Simplification" framework [2].
+Civilization is a "Mordor Economy" spending more energy to get energy, following the second law of thermodynamics. Fossil fuels are a high-grade energy gradient; renewables are a low-grade gradient. The transition from high-grade to low-grade sources means an increasing share of civilizational energy throughput is consumed by the energy acquisition process itself — the thermodynamic definition of diminishing returns. This connects to [Nate Hagens](/actors/authors/nate-hagens.md)'s "Great Simplification" framework [2].
 
 ## Peak Everything
 
@@ -59,7 +59,7 @@ The "Empty Quarter" is the end-state of resource depletion — what the world lo
 
 ## The Zero State
 
-The "Zero State" is a system unable to create growth, where elites choose war as their "last sniff." Drawing on [Aurelien](/actors/aurelien.md)'s concept of elite homogenization, the framework describes a zombie system governed by bureaucracy and corruption rather than innovation. The Zero State is not collapse but stasis — a system that maintains itself by consuming its own foundations [5].
+The "Zero State" is a system unable to create growth, where elites choose war as their "last sniff." Drawing on [Aurelien](/actors/authors/aurelien.md)'s concept of elite homogenization, the framework describes a zombie system governed by bureaucracy and corruption rather than innovation. The Zero State is not collapse but stasis — a system that maintains itself by consuming its own foundations [5].
 
 ## The Polycrisis
 

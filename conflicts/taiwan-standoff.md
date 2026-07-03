@@ -34,7 +34,7 @@ China is opening a new front by shifting operations to the waters east of Taiwan
 
 ## European Intervention
 
-[Velina Tchakarova](/actors/velina-tchakarova.md) identifies a consequential development: three major NATO members — [Britain](/actors/countries/france.md), [France](/actors/countries/france.md), and [Germany](/actors/countries/germany.md) — issued a coordinated statement on the Pacific maritime dispute [1]. This represents European powers now treating Taiwan as integral to the global order and extending their deterrence posture into the Pacific, beyond the traditional Euro-Atlantic focus of NATO [1]. The statement signals that the defense of Taiwan is no longer framed solely as a US commitment but as a broader Western interest.
+[Velina Tchakarova](/actors/authors/velina-tchakarova.md) identifies a consequential development: three major NATO members — [Britain](/actors/countries/france.md), [France](/actors/countries/france.md), and [Germany](/actors/countries/germany.md) — issued a coordinated statement on the Pacific maritime dispute [1]. This represents European powers now treating Taiwan as integral to the global order and extending their deterrence posture into the Pacific, beyond the traditional Euro-Atlantic focus of NATO [1]. The statement signals that the defense of Taiwan is no longer framed solely as a US commitment but as a broader Western interest.
 
 ## Grey-Zone Strategy
 

@@ -9,7 +9,7 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Background
 
-Turkey is a Muslim-majority, non-Western member of [NATO](/actors/nato.md) — a unique combination that grants it strategic flexibility unavailable to other alliance members. Its defense industry, particularly in [drone warfare](/themes/drone-warfare.md), has made it an attractive security partner for governments across [Africa](/regions/africa.md) and the [Middle East](/regions/middle-east.md) seeking alternatives to traditional patrons. Unique among Washington's NATO allies, Turkey is pursuing dominance over its immediate surroundings — a posture that a US administration eager to reduce global risk exposure finds invaluable.
+Turkey is a Muslim-majority, non-Western member of [NATO](/actors/organizations/nato.md) — a unique combination that grants it strategic flexibility unavailable to other alliance members. Its defense industry, particularly in [drone warfare](/themes/drone-warfare.md), has made it an attractive security partner for governments across [Africa](/regions/africa.md) and the [Middle East](/regions/middle-east.md) seeking alternatives to traditional patrons. Unique among Washington's NATO allies, Turkey is pursuing dominance over its immediate surroundings — a posture that a US administration eager to reduce global risk exposure finds invaluable.
 
 # Current Situation
 

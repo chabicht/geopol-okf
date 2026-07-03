@@ -23,7 +23,7 @@ Crimea has been occupied by [Russia](/actors/countries/russia.md) since 2014 and
 
 ## Strategic Significance
 
-- [Phillips O'Brien](/actors/phillips-obrien.md) assessment: if the Russians cannot counter the Ukrainian campaign, Crimea could be isolated with dire strategic results for Russia's overall war effort [1].
+- [Phillips O'Brien](/actors/authors/phillips-obrien.md) assessment: if the Russians cannot counter the Ukrainian campaign, Crimea could be isolated with dire strategic results for Russia's overall war effort [1].
 - O'Brien notes that Putin's fiction — that Crimea is a happy, functioning part of the Russian state — is being shattered by the visible deterioration of conditions on the peninsula [1].
 
 ## Air Superiority Campaign

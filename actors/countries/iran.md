@@ -13,7 +13,7 @@ Iran has long been a central actor in Middle Eastern geopolitics, leveraging its
 
 ## Pre-War Internal Dynamics
 
-In the weeks before the February 28 war, [Geopolitical Futures](/actors/geopolitical-futures.md) assessed that Iran's regime was headed for a "hard landing." The 47th anniversary of the 1979 revolution exposed elite factionalism, the erosion of the IRGC, and the rise of pragmatists seeking a deal with the Trump administration. The internal crisis created both an opportunity for diplomatic resolution and a risk that military action would externalize the pressure. The war launched before the internal dynamics could play out [1].
+In the weeks before the February 28 war, [Geopolitical Futures](/actors/authors/geopolitical-futures.md) assessed that Iran's regime was headed for a "hard landing." The 47th anniversary of the 1979 revolution exposed elite factionalism, the erosion of the IRGC, and the rise of pragmatists seeking a deal with the Trump administration. The internal crisis created both an opportunity for diplomatic resolution and a risk that military action would externalize the pressure. The war launched before the internal dynamics could play out [1].
 
 # Current Situation
 

@@ -33,19 +33,19 @@ Multiple theaters demonstrate the transformative impact of drone warfare:
 
 ## Cheap Mass vs Expensive Precision
 
-[Phillips O'Brien](/actors/phillips-obrien.md) argues that the US relied on pricey Patriot and THAAD systems against cheap Iranian drones during the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) — a costly mismatch that exposed a structural weakness in US air defense architecture. The US did not have a cheap mass attack weapon; stocks of interceptors were run down during the conflict, creating a sustainability problem even when interceptions succeeded [1].
+[Phillips O'Brien](/actors/authors/phillips-obrien.md) argues that the US relied on pricey Patriot and THAAD systems against cheap Iranian drones during the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) — a costly mismatch that exposed a structural weakness in US air defense architecture. The US did not have a cheap mass attack weapon; stocks of interceptors were run down during the conflict, creating a sustainability problem even when interceptions succeeded [1].
 
 The deeper point is that the US war machine was built on expensive systems in small numbers — a doctrine optimized for peer conflict where precision and survivability justify cost. Against mass-produced cheap drones, this doctrine produces a cost-exchange ratio that favors the attacker. The implication is that the US needs a cheap mass capability — low-cost interceptors or directed-energy weapons — to restore the cost-exchange balance [1].
 
 ## Ukrainian Innovation
 
-[Phillips O'Brien](/actors/phillips-obrien.md) observes that Ukrainians adjusted better to UAVs than any other military, retaking land using a small number of troops in novel fashion. The innovation was not merely technological — it was doctrinal: integrating drone surveillance with precision strikes in a way that allowed small units to achieve effects previously requiring battalion-level operations [1].
+[Phillips O'Brien](/actors/authors/phillips-obrien.md) observes that Ukrainians adjusted better to UAVs than any other military, retaking land using a small number of troops in novel fashion. The innovation was not merely technological — it was doctrinal: integrating drone surveillance with precision strikes in a way that allowed small units to achieve effects previously requiring battalion-level operations [1].
 
 Drones are "changing everything in Ukraine" — not because they are wonder weapons but because they compress the sensor-to-shooter cycle and enable tactical adaptation at a speed that large, hierarchical militaries cannot match. The FP-5 Flamingo missiles striking Russian war production represent the next phase: drone-enabled deep strikes against strategic targets [1].
 
 ## Turkish Drone Diplomacy
 
-[Geopolitical Futures](/actors/geopolitical-futures.md) reports that Turkish drones are attractive to African governments for three reasons: surveillance capability over vast territories, strike capacity against insurgent forces, and modernization signaling — the visible evidence that a government possesses advanced military technology. Turkish drones provide these capabilities at a price point and with a procurement process that Western alternatives cannot match [2].
+[Geopolitical Futures](/actors/authors/geopolitical-futures.md) reports that Turkish drones are attractive to African governments for three reasons: surveillance capability over vast territories, strike capacity against insurgent forces, and modernization signaling — the visible evidence that a government possesses advanced military technology. Turkish drones provide these capabilities at a price point and with a procurement process that Western alternatives cannot match [2].
 
 The [Sahel insurgency](/conflicts/sahel-insurgency.md) illustrates the dynamic: governments with weak ground control over vast territories use drones to maintain situational awareness and conduct targeted strikes. But drones cannot solve the underlying problems — weak state authority, poor intelligence, and ethnic tensions persist. Drones are a tool, not a strategy [2].
 

@@ -44,8 +44,8 @@ Tchakarova's framework for understanding how proxy wars and systemic crises inte
 - DragonBear axis coordination and its implications
 - Gray-zone escalation across theaters
 - Critical minerals and AI supply chains
-- [EU](/actors/eu.md) enlargement as geopolitical instrument
-- [NATO](/actors/nato.md) deterrence posture and European conventional defense
+- [EU](/actors/organizations/eu.md) enlargement as geopolitical instrument
+- [NATO](/actors/organizations/nato.md) deterrence posture and European conventional defense
 - Latin American hemispheric realignment
 
 # Sources in Bundle

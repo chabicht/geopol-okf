@@ -45,7 +45,7 @@ Ethiopia's alignment with the [UAE](/actors/countries/uae.md) and the Rapid Supp
 
 A direct conventional war with Eritrea carries high risk for Ethiopia. While Ethiopia possesses modern drones and a large army, Eritrea is a heavily militarised society. Even Eritrean opposition figures would likely fight on the side of the authoritarian Isaias regime rather than accept an Ethiopian occupation. Eritrea could exert pressure through cooperation with various Ethiopian opposition movements. A further regionalisation of conflicts in Sudan and Somalia would be probable [2].
 
-The US and other governments have told Addis Abeba in clear terms that an open invasion of Eritrea would be unacceptable and would jeopardise the IMF's billion-dollar programme with Ethiopia. Both Washington and the [EU](/actors/eu.md) are currently pursuing rapprochement with Ethiopia [2].
+The US and other governments have told Addis Abeba in clear terms that an open invasion of Eritrea would be unacceptable and would jeopardise the IMF's billion-dollar programme with Ethiopia. Both Washington and the [EU](/actors/organizations/eu.md) are currently pursuing rapprochement with Ethiopia [2].
 
 ## Possible Compromise
 

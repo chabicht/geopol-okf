@@ -19,7 +19,7 @@ Tupy's analysis frames communism not as a flawed implementation of a noble ideal
 
 ## Contemporary Socialist Resurgence
 
-Tupy notes the irony of socialism's intellectual resurgence despite the empirical record. The resurgence is driven not by evidence of socialist success but by dissatisfaction with the failures of crony capitalism and the inadequacy of mainstream political institutions to address inequality — the same dynamic [Krugman](/actors/paul-krugman.md) identifies in the American context, where social democratic policies are mislabeled as "socialist" by right-wing propagandists [1].
+Tupy notes the irony of socialism's intellectual resurgence despite the empirical record. The resurgence is driven not by evidence of socialist success but by dissatisfaction with the failures of crony capitalism and the inadequacy of mainstream political institutions to address inequality — the same dynamic [Krugman](/actors/authors/paul-krugman.md) identifies in the American context, where social democratic policies are mislabeled as "socialist" by right-wing propagandists [1].
 
 # Sources in Bundle
 

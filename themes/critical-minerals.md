@@ -69,7 +69,7 @@ Bayan Obo's tailings pond stores 70,000+ tonnes of radioactive thorium, lacks pr
 
 ## Resource Depletion and Energy Cost
 
-[The Honest Sorcerer](/actors/the-honest-sorcerer.md) describes the depletion dynamic: beyond a certain point, extraction economics stops working because high-grade ore is exhausted. Silver has passed this threshold; copper is approaching it. The implication for critical minerals is that the energy cost of extraction is rising — more energy is needed to produce the same amount of mineral output, which means the energy transition itself is becoming more energy-intensive at exactly the moment when energy surpluses are contracting [2].
+[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) describes the depletion dynamic: beyond a certain point, extraction economics stops working because high-grade ore is exhausted. Silver has passed this threshold; copper is approaching it. The implication for critical minerals is that the energy cost of extraction is rising — more energy is needed to produce the same amount of mineral output, which means the energy transition itself is becoming more energy-intensive at exactly the moment when energy surpluses are contracting [2].
 
 This creates a feedback loop: the transition to renewable energy and electric vehicles requires critical minerals whose extraction requires increasing amounts of fossil-fuel energy. The result is that the "green transition" is not a departure from fossil fuel dependence but an extension of it — the material requirements of renewables scale with deployment, and the energy cost of those materials is rising [2].
 

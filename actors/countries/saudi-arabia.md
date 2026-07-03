@@ -27,7 +27,7 @@ Saudi Arabia's limited pipeline bypass capacity (via Yanbu on the Red Sea) prove
 
 # Analysis
 
-[The Honest Sorcerer](/actors/the-honest-sorcerer.md) frames Saudi-Iran negotiations through Pakistan as part of a broader tectonic shift in geopolitics — the recognition that the US security umbrella is no longer reliable and that regional powers must negotiate their own stability. The involvement of [China](/actors/countries/china.md) and [Russia](/actors/countries/russia.md) as backers of these talks signals the end of the US monopoly on Middle East security architecture [1].
+[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) frames Saudi-Iran negotiations through Pakistan as part of a broader tectonic shift in geopolitics — the recognition that the US security umbrella is no longer reliable and that regional powers must negotiate their own stability. The involvement of [China](/actors/countries/china.md) and [Russia](/actors/countries/russia.md) as backers of these talks signals the end of the US monopoly on Middle East security architecture [1].
 
 # Citations
 

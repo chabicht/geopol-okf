@@ -20,7 +20,7 @@ As the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) progressed, [Saudi 
 
 # Analysis
 
-[The Honest Sorcerer](/actors/the-honest-sorcerer.md) frames these negotiations as a tectonic shift: the recognition that the US security monopoly in the [Middle East](/regions/middle-east.md) is over. The involvement of China and Russia as backers of Saudi-Iran talks signals the emergence of a multipolar security architecture in which regional powers negotiate their own stability with external great-power guarantors — but not necessarily the United States [1].
+[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) frames these negotiations as a tectonic shift: the recognition that the US security monopoly in the [Middle East](/regions/middle-east.md) is over. The involvement of China and Russia as backers of Saudi-Iran talks signals the emergence of a multipolar security architecture in which regional powers negotiate their own stability with external great-power guarantors — but not necessarily the United States [1].
 
 The negotiations also illustrate the [global system rupture](/themes/global-system-rupture.md): the US-Iran war, rather than reasserting American dominance, accelerated its erosion by driving regional powers to seek alternative security arrangements [1].
 

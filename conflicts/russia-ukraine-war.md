@@ -35,7 +35,7 @@ Putin has rejected ceasefire proposals, with demands disconnected from battlefie
 
 ## Crimea Isolation Campaign
 
-[Phillips O'Brien](/actors/phillips-obrien.md) describes a deliberate three-step process for isolating Crimea: cutting off the peninsula from the sea (achieved), gaining air superiority over the approaches (achieved), and targeting the Kerch Bridge (in progress) [3]. Ukrainians have disabled the remaining Russian air defense systems protecting the Kerch Bridge, bringing the structure within strike range [3].
+[Phillips O'Brien](/actors/authors/phillips-obrien.md) describes a deliberate three-step process for isolating Crimea: cutting off the peninsula from the sea (achieved), gaining air superiority over the approaches (achieved), and targeting the Kerch Bridge (in progress) [3]. Ukrainians have disabled the remaining Russian air defense systems protecting the Kerch Bridge, bringing the structure within strike range [3].
 
 O'Brien argues that if the Russians cannot counter this process, Crimea could be fully isolated with dire strategic results — the loss of Crimea would constitute a political and military blow from which the Putin regime might not recover [3].
 

@@ -9,7 +9,7 @@ timestamp: 2026-01-22T00:00:00Z
 
 # Background
 
-Cold War-era alliance structures — [NATO](/actors/nato.md), the CSTO — were products of bipolarity, ideology, and nuclear escalation risk. They were designed for automatic escalation and credible mass deterrence, not for the nuanced, flexible security management that middle powers need in a multipolar environment. Recent conflicts have exposed their limits: NATO's Afghanistan campaign revealed strain when alliance solidarity extended beyond territorial defense; the CSTO repeatedly failed to defend Armenia against Azerbaijan; and the Ukraine war exposed the military limits of Russian power constrained by nuclear deterrence.
+Cold War-era alliance structures — [NATO](/actors/organizations/nato.md), the CSTO — were products of bipolarity, ideology, and nuclear escalation risk. They were designed for automatic escalation and credible mass deterrence, not for the nuanced, flexible security management that middle powers need in a multipolar environment. Recent conflicts have exposed their limits: NATO's Afghanistan campaign revealed strain when alliance solidarity extended beyond territorial defense; the CSTO repeatedly failed to defend Armenia against Azerbaijan; and the Ukraine war exposed the military limits of Russian power constrained by nuclear deterrence.
 
 States are now expanding defense cooperation outside traditional structures, investing in parallel, region-specific security relationships that stop short of automatic defense obligations. Alliances remain as strategic backstops for deterrence and escalation control, but they are increasingly supplemented by bilateral, mini-lateral, and partnership-based arrangements for regional contingencies.
 

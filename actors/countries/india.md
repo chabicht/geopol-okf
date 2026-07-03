@@ -35,7 +35,7 @@ The Russia-India-China (RIC) trilateral was revived in mid-2026 as a coordinated
 
 ## India as the Decisive Swing Variable
 
-[Velina Tchakarova](/actors/velina-tchakarova.md) identifies India as the most important swing variable between hardened bifurcation and volatile multipolarity. India widened its room for maneuver by deepening Russian energy ties, freezing Starlink approvals, and reopening high-level dialogue with China — making it the single actor whose trajectory most determines whether the global system hardens into a bipolar US-versus-China structure or fragments into a more fluid multipolar order. India's multi-alignment doctrine is not hedging but strategic autonomy: the deliberate cultivation of optionality across blocs, enabled by the fact that no bloc can afford to lose India to the other side [4].
+[Velina Tchakarova](/actors/authors/velina-tchakarova.md) identifies India as the most important swing variable between hardened bifurcation and volatile multipolarity. India widened its room for maneuver by deepening Russian energy ties, freezing Starlink approvals, and reopening high-level dialogue with China — making it the single actor whose trajectory most determines whether the global system hardens into a bipolar US-versus-China structure or fragments into a more fluid multipolar order. India's multi-alignment doctrine is not hedging but strategic autonomy: the deliberate cultivation of optionality across blocs, enabled by the fact that no bloc can afford to lose India to the other side [4].
 
 ## Trade Realignment
 

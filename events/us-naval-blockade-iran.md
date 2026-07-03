@@ -22,9 +22,9 @@ After the initial kinetic phase of the [US-Iran War of 2026](/conflicts/us-iran-
 
 # Analysis
 
-[The Honest Sorcerer](/actors/the-honest-sorcerer.md) argues the counter-blockade revealed the war's true objective: controlling oil flow to [China](/actors/countries/china.md), not uranium enrichment. By blockading Iranian ports while imposing secondary sanctions on Chinese banks, the US was attempting to sever the energy pipeline sustaining the DragonBear axis [2].
+[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) argues the counter-blockade revealed the war's true objective: controlling oil flow to [China](/actors/countries/china.md), not uranium enrichment. By blockading Iranian ports while imposing secondary sanctions on Chinese banks, the US was attempting to sever the energy pipeline sustaining the DragonBear axis [2].
 
-[Endtropy](/actors/endtropy.md) draws the historical parallel to Napoleon's Continental System: a blockade designed to deny the adversary resources instead generates adaptive trade networks, smuggling, and financial workarounds that ultimately weaken the blockading power. The US counter-blockade accelerated the dedollarization of Chinese-Iranian trade, as the secondary sanctions on Chinese banks pushed trade into non-dollar channels [1].
+[Endtropy](/actors/authors/endtropy.md) draws the historical parallel to Napoleon's Continental System: a blockade designed to deny the adversary resources instead generates adaptive trade networks, smuggling, and financial workarounds that ultimately weaken the blockading power. The US counter-blockade accelerated the dedollarization of Chinese-Iranian trade, as the secondary sanctions on Chinese banks pushed trade into non-dollar channels [1].
 
 # Citations
 

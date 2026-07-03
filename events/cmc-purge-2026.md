@@ -20,7 +20,7 @@ In early February 2026, China's Ministry of National Defense announced that Zhan
 
 # Analysis
 
-[Geopolitical Futures](/actors/geopolitical-futures.md) identifies the core driver as civil-military disagreement over the [Taiwan](/conflicts/taiwan-standoff.md) timeline. Xi insists the PLA must be capable of invading Taiwan by 2027, a politically symbolic date tied to the PLA's centenary. Zhang repeatedly emphasized fixing long-standing training deficiencies before accelerating joint operations, anticipating full joint operational capability closer to 2035 [1].
+[Geopolitical Futures](/actors/authors/geopolitical-futures.md) identifies the core driver as civil-military disagreement over the [Taiwan](/conflicts/taiwan-standoff.md) timeline. Xi insists the PLA must be capable of invading Taiwan by 2027, a politically symbolic date tied to the PLA's centenary. Zhang repeatedly emphasized fixing long-standing training deficiencies before accelerating joint operations, anticipating full joint operational capability closer to 2035 [1].
 
 The purge damages command cohesion and morale. Networks of trust have been disrupted, experienced commanders removed, and political fear reinforced. The absence of combat experience at the CMC level is significant. Strategically, the likelihood of a near-term invasion of Taiwan remains low, as complex joint operations require experienced commanders who trust one another — exactly what the purge has undermined. However, new commanders eager to demonstrate loyalty may favor aggressive tactical behavior, increasing the risk of miscalculation even as the likelihood of full-scale war decreases [1].
 

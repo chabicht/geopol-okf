@@ -9,13 +9,13 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Background
 
-Austria is a landlocked Central European state whose geopolitical identity was defined by the 1955 State Treaty and constitutional neutrality — a status negotiated within a twentieth-century security environment of clear military front lines. Surrounded by [NATO](/actors/nato.md) members on every side except [Switzerland](/actors/countries/germany.md), Austria has maintained its neutral status while joining the [EU](/actors/eu.md) in 1995. The [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) and the broader [Cold War 2](/conflicts/cold-war-2.md) have exposed the obsolescence of Austria's security posture, as hybrid warfare, energy blackmail, cyberattacks, and geoeconomic coercion render neutrality a nullity against modern threats [1].
+Austria is a landlocked Central European state whose geopolitical identity was defined by the 1955 State Treaty and constitutional neutrality — a status negotiated within a twentieth-century security environment of clear military front lines. Surrounded by [NATO](/actors/organizations/nato.md) members on every side except [Switzerland](/actors/countries/germany.md), Austria has maintained its neutral status while joining the [EU](/actors/organizations/eu.md) in 1995. The [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) and the broader [Cold War 2](/conflicts/cold-war-2.md) have exposed the obsolescence of Austria's security posture, as hybrid warfare, energy blackmail, cyberattacks, and geoeconomic coercion render neutrality a nullity against modern threats [1].
 
 # Current Situation
 
 ## The Holy Trinity of Taboos
 
-[Velina Tchakarova](/actors/velina-tchakarova.md) identifies three unspeakable words in Austrian politics — Nuclear, NATO, and Neutrality — that form a "holy trinity of taboos" blocking honest debate, strategic adaptation, and policy progress. The taboos leave Austria retrograde at the moment its European peers are adapting fastest [1].
+[Velina Tchakarova](/actors/authors/velina-tchakarova.md) identifies three unspeakable words in Austrian politics — Nuclear, NATO, and Neutrality — that form a "holy trinity of taboos" blocking honest debate, strategic adaptation, and policy progress. The taboos leave Austria retrograde at the moment its European peers are adapting fastest [1].
 
 ### Nuclear
 
@@ -25,7 +25,7 @@ Austria's anti-nuclear position has curdled from principle into hypocrisy: the c
 
 ### NATO
 
-Austrian defence spending had risen to only 1.0% of GDP by 2024, with a commitment to reach 2% by 2032 — less than half of [NATO](/actors/nato.md)'s 5% target for 2035, and solely on defence with no comparable commitment to critical and physical infrastructure. Austria is surrounded by NATO states on every side except Switzerland, yet plans to spend less than half of what the alliance demands [1].
+Austrian defence spending had risen to only 1.0% of GDP by 2024, with a commitment to reach 2% by 2032 — less than half of [NATO](/actors/organizations/nato.md)'s 5% target for 2035, and solely on defence with no comparable commitment to critical and physical infrastructure. Austria is surrounded by NATO states on every side except Switzerland, yet plans to spend less than half of what the alliance demands [1].
 
 The economic argument for NATO engagement is concrete: Austrian industry and companies would directly benefit from filling gaps in critical and physical infrastructure — digital networks, LNG connections, pipelines, and the highways and rail corridors linking Austria northward and eastward to the new centre of gravity of European security. NATO is consolidating its eastern flank and will massively expand infrastructure along the arc from Finland and Sweden through the Baltic states, Poland, Czechia, Slovakia, and Hungary down to Romania, Bulgaria, Greece, and [Türkiye](/actors/countries/turkey.md). Austria is losing its traditional central position — no longer at the crossroads between East and West but increasingly on the periphery of a security order shifting eastward [1].
 

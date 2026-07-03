@@ -15,7 +15,7 @@ The *Slaughter* case was brought on behalf of an FTC commissioner arbitrarily fi
 
 ## Dictatorial Power Over Regulatory Machinery
 
-The ruling grants [Trump](/actors/trump.md) what [Paul Krugman](/actors/paul-krugman.md) calls "dictatorial power" over the regulatory machinery of the US government. For any agency created by Congress — the FTC, EPA, FDA, NLRB, and others — Trump is now free to redirect its mission, fire non-compliant civil servants, or hollow it out entirely. The decision eliminates government by professional civil servants in favor of "government by henchmen and lackeys." [1]
+The ruling grants [Trump](/actors/trump.md) what [Paul Krugman](/actors/authors/paul-krugman.md) calls "dictatorial power" over the regulatory machinery of the US government. For any agency created by Congress — the FTC, EPA, FDA, NLRB, and others — Trump is now free to redirect its mission, fire non-compliant civil servants, or hollow it out entirely. The decision eliminates government by professional civil servants in favor of "government by henchmen and lackeys." [1]
 
 ## Fed Carve-Out
 

@@ -19,7 +19,7 @@ In late May 2026, [Ukraine](/actors/countries/ukraine.md) conducted a major dron
 
 # Analysis
 
-[Phillips O'Brien](/actors/phillips-obrien.md) compares the Moscow strike to Japan's loss of the Marianas in World War II — the moment when the propaganda narrative collapsed because the war reached the homeland. Just as the Marianas brought Japan within B-29 range and shattered the illusion of imperial invulnerability, the Moscow drone strike shattered the Russian public's insulation from the war [1].
+[Phillips O'Brien](/actors/authors/phillips-obrien.md) compares the Moscow strike to Japan's loss of the Marianas in World War II — the moment when the propaganda narrative collapsed because the war reached the homeland. Just as the Marianas brought Japan within B-29 range and shattered the illusion of imperial invulnerability, the Moscow drone strike shattered the Russian public's insulation from the war [1].
 
 O'Brien also draws a comparison to the Tet Offensive: an event that does not change the military balance but transforms the political narrative. The Russian public's perception of the war — and of Putin's ability to protect them — shifted fundamentally [1].
 

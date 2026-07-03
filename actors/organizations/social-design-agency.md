@@ -9,7 +9,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-The Social Design Agency (SDA) is a Russian PR firm already sanctioned by the US, UK, and [EU](/actors/eu.md) for influence campaigns. Internal documents reveal that Russian Presidential Administration officials oversee the SDA's work, making it an instrument of state-directed [cognitive warfare](/themes/cognitive-warfare.md) rather than an independent operation. The SDA represents the formalization of Russian influence operations — a PR firm repurposed as a weapon of strategic destabilization.
+The Social Design Agency (SDA) is a Russian PR firm already sanctioned by the US, UK, and [EU](/actors/organizations/eu.md) for influence campaigns. Internal documents reveal that Russian Presidential Administration officials oversee the SDA's work, making it an instrument of state-directed [cognitive warfare](/themes/cognitive-warfare.md) rather than an independent operation. The SDA represents the formalization of Russian influence operations — a PR firm repurposed as a weapon of strategic destabilization.
 
 # Current Situation
 

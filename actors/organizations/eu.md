@@ -9,7 +9,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-The European Union is the political-economic union of European states, serving as the civilian complement to [NATO](/actors/nato.md)'s military architecture. Together the two institutions constitute the Western alliance system in [Europe](/regions/europe.md). The EU's geopolitical role has expanded beyond trade and regulation into sanctions policy, energy security, enlargement, and strategic autonomy — driven by the [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) and the broader [global system rupture](/themes/global-system-rupture.md).
+The European Union is the political-economic union of European states, serving as the civilian complement to [NATO](/actors/organizations/nato.md)'s military architecture. Together the two institutions constitute the Western alliance system in [Europe](/regions/europe.md). The EU's geopolitical role has expanded beyond trade and regulation into sanctions policy, energy security, enlargement, and strategic autonomy — driven by the [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) and the broader [global system rupture](/themes/global-system-rupture.md).
 
 # Current Situation
 
@@ -27,11 +27,11 @@ Enlargement is actively discussed in the context of [Ukraine](/actors/countries/
 
 ## Western Alliance Under Strain
 
-Along with [NATO](/actors/nato.md), the EU is part of the Western alliance architecture under strain from the [United States](/actors/countries/united-states.md) shifting priorities. The [global system rupture](/themes/global-system-rupture.md) is not merely external pressure — it is testing the internal coherence of the EU itself, as member states diverge in their threat perceptions, energy strategies, and willingness to bear the costs of strategic autonomy.
+Along with [NATO](/actors/organizations/nato.md), the EU is part of the Western alliance architecture under strain from the [United States](/actors/countries/united-states.md) shifting priorities. The [global system rupture](/themes/global-system-rupture.md) is not merely external pressure — it is testing the internal coherence of the EU itself, as member states diverge in their threat perceptions, energy strategies, and willingness to bear the costs of strategic autonomy.
 
 ## China Shock 2.0 and Trade Defense
 
-The EU's trade deficit with [China](/actors/countries/china.md) has roughly doubled since COVID, driven by China's progress up the industrial value chain. [Adam Tooze](/actors/adam-tooze.md) frames this as "China Shock 2.0" — focused above all on Europe and concentrated in vehicles, green energy goods, and chemicals. Ironically, even as the deficit with China widens, the EU's manufacturing trade surplus with the rest of the world is at new highs. The shock is thus "mercantilist-on-mercantilist violence" — competitive surplus against surplus [4].
+The EU's trade deficit with [China](/actors/countries/china.md) has roughly doubled since COVID, driven by China's progress up the industrial value chain. [Adam Tooze](/actors/authors/adam-tooze.md) frames this as "China Shock 2.0" — focused above all on Europe and concentrated in vehicles, green energy goods, and chemicals. Ironically, even as the deficit with China widens, the EU's manufacturing trade surplus with the rest of the world is at new highs. The shock is thus "mercantilist-on-mercantilist violence" — competitive surplus against surplus [4].
 
 Setser and Tordoir recommend that the EU resort to a variety of trade defenses as a means of suasion. Tooze argues that if the EU is going to use government policy to shield industry from the consequences of Chinese policy and its own technological short-sightedness — at the expense of European consumers — there should be requirements for minimum investment levels. "European industry needs saving from itself" [4].
 
