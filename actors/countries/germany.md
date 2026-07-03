@@ -55,6 +55,14 @@ Tooze frames this as "mercantilist-on-mercantilist violence": Germany is itself 
 
 Chancellor Merz's call for a new "Plaza Accord" to address China's undervalued currency and subsidized exports has alarmed Beijing, which views the original 1985 Plaza Accord as a Western plot that crippled Japan's economy through forced yen appreciation. China views the proposal as economic coercion and has responded with retaliatory measures including rare-earth export controls. Brussels remains hesitant to provoke an open trade conflict that could hamper EU rearmament efforts — particularly as European defense procurement depends on Chinese raw materials and components [7].
 
+## Indo-Pacific and Southeast Asia Engagement
+
+Germany's Indo-Pacific policy has historically been China-centric, but is shifting toward deeper engagement with Southeast Asia. Between 2022 and 2024, high-level German representatives visited the region 13 times (versus 4 visits under preceding governments). Germany joined the ASEAN Treaty of Amity and Cooperation in 2020 and was admitted as an observer to the ASEAN Defence Ministers' Meeting Plus (ADMM+). However, engagement remains limited: €22.6 million for ASEAN initiatives in 2024 (compared to Japan's €3.8 billion), with relationships driven primarily by economic interests and de-risking imperatives. The South China Sea is a critical transit corridor — any conflict would have "serious consequences" for German and European interests. Malaysia and Vietnam are becoming significant semiconductor production sites (Infineon, Aixtron investments); Thailand is emerging as an e-mobility hub; Indonesia holds the world's largest nickel reserves [8].
+
+## Labour and Education Migration from Africa
+
+Germany is becoming a destination for African labour and education migrants. Visa applications for employment from African countries nearly quadrupled between 2019 and 2025 (from ~7,860 to 29,415), with vocational training visas rising from 1,318 to 7,531. Kenya is a priority corridor (nurses: from 3 visa applications in 2022 to 389 in 2025). Ghana is growing as an education corridor (study visa applications doubled from 621 in 2019 to 1,340 in 2025). Cameroon shows significant growth in vocational training (from 950 in 2019 to 5,260 in May 2026). Germany ranked fourth in the EU for total African migration arrivals (2014–2023), behind other member states. Structural barriers — lengthy visa issuance, qualification recognition — remain significant, and the planned "Work and Stay" agency has not yet been agreed within the federal government [9].
+
 # Analysis
 
 Germany's military strategy represents a necessary but insufficient step. The recognition of the Russia threat and the acceptance of European conventional defense responsibility are positive developments. However, the timeline inconsistencies, lack of operational detail, and absence of institutional reform suggest that Germany remains in a declaratory phase rather than an execution phase. The gap between ambition and capability is the central challenge. Meanwhile, China Shock 2.0 adds an acute industrial crisis to the existing security challenges — the German automotive sector, the backbone of the economy, faces structural displacement by Chinese EVs, and the failure to reinvest record profits into innovation has compounded the vulnerability [6].
@@ -74,3 +82,7 @@ Germany's military strategy represents a necessary but insufficient step. The re
 [6] [Chartbook 454: China Shock 2.0 and Mercantilist-on-Mercantilist Violence](https://adamtooze.substack.com/p/chartbook-454-china-shock-20-and)
 
 [7] [Germany's proposal to ease trade tensions with China has not gone down well in Beijing](https://theconversation.com/germanys-proposal-to-ease-trade-tensions-with-china-has-not-gone-down-well-in-beijing-285873)
+
+[8] [Südostasien – mehr als ein Nebenschauplatz im Indo-Pazifik](https://www.swp-berlin.org/publikation/suedostasien-mehr-als-ein-nebenschauplatz-im-indo-pazifik)
+
+[9] [The Untapped Potential of Labour and Education Migration from Africa to Germany](https://www.swp-berlin.org/publikation/mta-spotlight-75-the-untapped-potential-of-labour-and-education-migration-from-africa-to-germany)

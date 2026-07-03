@@ -29,6 +29,9 @@ The competitive landscape is defined by asymmetries in energy, alliance architec
 - **Bangladesh as new contested space**: [China](/actors/countries/china.md)'s $9.2 billion investment push into [Bangladesh](/actors/countries/bangladesh.md) extends great power competition into the Bay of Bengal. Bangladesh pursues strategic autonomy among China, [India](/actors/countries/india.md), and the US, but economic influence does not automatically translate into political alignment [10].
 - **South American sovereignty**: South America is becoming a secondary theater of U.S.-China competition, with Brazil building domestic defense capacity and Argentina rebuilding relevance through U.S.-linked security cooperation. The contest plays out through ports, infrastructure, and defense supply chains rather than formal alliances [11].
 - **Germany-China trade tensions**: Chancellor Merz's call for a new "Plaza Accord" to address China's undervalued currency has alarmed Beijing. China views the proposal as economic coercion and has responded with rare-earth export controls, while Brussels remains hesitant to provoke a trade conflict that could hamper EU rearmament [12].
+- **EU security partnership diversification**: The EU has concluded 12 Security and Defence Partnerships since 2024, spanning three circles — EEA/accession candidates, NATO partners beyond the EU (Canada, UK), and global partners (Japan, South Korea, Australia, India, Ghana). The SAFE instrument's €150 billion in defence loans with a "Buy European" clause makes SDPs a prerequisite for preferential access to the European armaments market. This represents the EU's effort to become a center of gravity for security cooperation in its own right, diversifying beyond US dependence [13].
+- **Arctic competition**: The [Arctic](/regions/arctic.md) is emerging as a theater where digital sovereignty, submarine cable infrastructure, and great power competition converge. The EU, [Russia](/actors/countries/russia.md), [China](/actors/countries/china.md), and the US all pursue competing interests. Russia suspended cooperation after the Ukraine invasion; Trump claimed Greenland; China seeks influence through research and investment. The EU is investing €347 million in submarine cable projects, designating the Arctic as one of 13 Cable Projects of European Interest [14].
+- **Southeast Asia as contested theater**: Southeast Asia has independent strategic weight beyond being a secondary arena of US-China rivalry. ASEAN states (projected fourth-largest economy by 2030, 684 million people) actively diversify partnerships — seeking OECD membership, exploring BRICS engagement — while resisting pressure to choose sides. [China](/actors/countries/china.md) is the most influential external actor, followed by the US; Japan and Australia are long-standing partners. [Germany](/actors/countries/germany.md) and the [EU](/actors/eu.md) are deepening engagement but remain limited in visibility and investment [15].
 
 # Key Dynamics
 
@@ -98,3 +101,9 @@ China's demand pullback also demonstrates Beijing's growing willingness to manag
 [11] [South American Sovereignty Amid US-China Competition](https://geopoliticalfutures.com/south-american-sovereignty-amid-us-china-competition/)
 
 [12] [Germany's proposal to ease trade tensions with China has not gone down well in Beijing](https://theconversation.com/germanys-proposal-to-ease-trade-tensions-with-china-has-not-gone-down-well-in-beijing-285873)
+
+[13] [The EU in Search of New Partners](https://ip-quarterly.com/en/eu-search-new-partners)
+
+[14] [Die neue Arktisstrategie der EU](https://www.swp-berlin.org/publikation/die-neue-arktisstrategie-der-eu-chancen-fuer-europas-digitale-souveraenitaet)
+
+[15] [Südostasien – mehr als ein Nebenschauplatz im Indo-Pazifik](https://www.swp-berlin.org/publikation/suedostasien-mehr-als-ein-nebenschauplatz-im-indo-pazifik)

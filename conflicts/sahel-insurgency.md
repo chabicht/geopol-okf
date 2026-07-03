@@ -24,6 +24,10 @@ In April 2025, a JNIM and Azawad Liberation Front offensive exposed the failures
 
 [Turkey](/actors/countries/turkey.md) is now exploiting the gap left by Russian underperformance, offering security assistance without the colonial baggage or ideological conditions associated with Western or Russian alternatives [1]. Turkish drones are now operated by Mali, Burkina Faso, Niger, Chad, Ethiopia, Somalia, and Nigeria — making Ankara the dominant drone supplier across the Sahel and Horn of Africa [1]. Covert discussions with US intelligence around surveillance and logistics assistance are reportedly underway, suggesting that some Sahel regimes are hedging rather than committing fully to the Turkish option [1].
 
+## ECOWAS Counter-Terrorism Force
+
+[ECOWAS](/actors/organizations/ecowas.md) announced a counter-terrorism unit of 1,650 troops within the existing ECOWAS Standby Force in February 2026, following the exit of Burkina Faso, Mali, and Niger (who formed the Alliance of Sahel States, AES). The unit's projected cost of USD 410 million annually roughly equals ECOWAS' entire budget. The ECOWAS Chiefs of Defence Staff envisaged close collaboration with the AES, though the AES states have not publicly responded. The unit will likely remain symbolic for the foreseeable future, given institutional bottlenecks, training gaps, funding shortfalls, and political mistrust between ECOWAS heavyweights (Nigeria, Côte d'Ivoire) and the Sahelian juntas. The AES has established its own Unified Force, whose operational viability is equally uncertain [2].
+
 # Analysis
 
 ## Russian Overstretch
@@ -41,3 +45,5 @@ The analysis suggests that Turkey's role could expand well beyond drones to enco
 # Citations
 
 [1] https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/
+
+[2] [The ECOWAS Counter-Terrorism Force: New Ambitions, Old Constraints](https://www.swp-berlin.org/publikation/mta-spotlight-74-the-ecowas-counter-terrorism-force)

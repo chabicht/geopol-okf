@@ -19,3 +19,4 @@
 * [Justice Mission 2025](justice-mission-2025.md) - PRC surprise blockade exercise around Taiwan simulating isolation, counter-intervention, and energy interdiction
 * [Jones Act Suspension](jones-act-suspension.md) - Trump's 150-day waiver allowing foreign vessels to shuttle fuel between U.S. ports
 * [Russia's Resettlement Campaign](russia-resettlement-campaign.md) - Systematic Russian campaign to repopulate occupied Ukraine with Russian citizens through demographic engineering
+* [Trump-Xi Summit May 2026](trump-xi-summit-2026.md) - May 15 summit where Xi framed Taiwan as the most important issue in US-China relations, introducing uncertainty into US-Taiwan relations

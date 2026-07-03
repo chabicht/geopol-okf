@@ -2,9 +2,9 @@
 type: Actor
 title: European Union
 description: The European Union as a geopolitical actor — managing energy storage shortfalls, sanctions secondary risk, enlargement pressure, and the strain of US shifting priorities on Western alliance architecture
-tags: [organization, economics, europe, sanctions, energy, trade]
+tags: [organization, economics, europe, sanctions, energy, trade, military]
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Background
@@ -39,6 +39,30 @@ Setser and Tordoir recommend that the EU resort to a variety of trade defenses a
 
 The EU's geopolitical position is defined by contradiction: it has the regulatory and economic weight to project power but lacks the institutional integration and military capability to act independently of the US security guarantee. The energy storage shortfall is an acute vulnerability; the sanctions secondary risk limits strategic reach; and enlargement ambitions strain against absorptive capacity. The [global system rupture](/themes/global-system-rupture.md) accelerates the EU's need to become a strategic actor while simultaneously degrading the conditions under which it could do so. China Shock 2.0 compounds the challenge: the EU must simultaneously manage energy transition, Russian hybrid threats, and an industrial displacement crisis driven by Chinese exports — while its overall trade surplus with the rest of the world remains at record highs, revealing the paradoxical nature of the mercantilist competition [4].
 
+## Security and Defence Partnerships
+
+Since 2024, the EU has concluded 12 bilateral Security and Defence Partnerships (SDPs) with countries across Europe, North America, Asia, the Indo-Pacific, and Africa. This marks a genuine break with the EU's previous approach — for much of the post-Cold War period, external security relationships were organised around stable categories (EU members, NATO allies, the political West). The SDPs reflect an effort to diversify security ties beyond the [United States](/actors/countries/united-states.md), driven by Russia's war in [Ukraine](/conflicts/russia-ukraine-war.md), uncertainty about long-term US engagement in Europe, and the intertwining of economic security, technology, and defence [5].
+
+The 12 partners fall into three circles:
+
+1. **Closely aligned countries** (EEA/accession candidates): Norway, Iceland (focused on the High North), Albania, North Macedonia, Moldova.
+2. **Like-minded NATO partners beyond the EU**: Canada and the [United Kingdom](/actors/countries/united-kingdom.md). The UK SDP marked a turning point in the post-Brexit relationship; Canada's reflects its pursuit of middle-power partnerships amid US uncertainty.
+3. **Global partners**: [Japan](/actors/countries/japan.md), South Korea, [Australia](/actors/countries/australia.md), [India](/actors/countries/india.md), Ghana. The Indo-Pacific focus is clear. India stands out as a traditional non-aligned country with a continuing Russian defence-industrial relationship.
+
+Notably absent: the United States, [China](/actors/countries/china.md), Turkey (blocked by Cyprus conflict), and most of South/Central America and South Africa [5].
+
+The SDPs are not mutual defence alliances — none mention NATO Article 5 or the EU's Article 42.7. They offer a menu of cooperation: institutionalised dialogue (annual/semi-annual consultations), thematic cooperation (cyber security, hybrid threats, counterterrorism, maritime security, space, sanctions), CSDP participation (missions, exercises, PESCO), and linkage to EU armaments instruments. The "Security Action for Europe" (SAFE) instrument provides €150 billion in loans to EU states for defence projects, with a "Buy European" clause requiring at least 65% of procurement to go to EU, EEA, Ukraine, or SDP partner firms. The SDPs thus become a political prerequisite for preferential access to the European armaments market [5].
+
+## Arctic Strategy and Digital Sovereignty
+
+The EU is updating its 2021 Arctic strategy in 2026, with digital sovereignty as a cross-cutting theme. The [Arctic](/regions/arctic.md) is identified as a strategic node for Europe's digital infrastructure — 97% of global intercontinental data traffic runs over submarine cables, and the Arctic offers alternative Europe-Asia data routes away from the vulnerable Bab al-Mandab strait. The EU's Connecting Europe Facility is investing €347 million in strategic submarine cable projects, with the Arctic designated as one of 13 Cable Projects of European Interest [6].
+
+The EU opened a bureau in Nuuk, Greenland in 2024 and opposed [Trump](/actors/trump.md)'s territorial claims on the island. The EU has been a de facto observer in the Arctic Council since 2013 but lacks official status; a strategic partnership with Canada is under discussion. The EU's strength in the Arctic lies in combining innovation and sustainability — the Nordic countries serve as a digital hub with Europe's fastest supercomputer (LUMI in Kajaani, Finland) and significant cost advantages for data infrastructure [6].
+
+## Southeast Asia Engagement
+
+The EU is expanding free trade agreements with Southeast Asia, completing negotiations with Indonesia in 2025 (after nearly a decade) with similar agreements with Thailand, Malaysia, and the Philippines expected to follow. This is part of a broader de-risking effort to reduce dependence on China. The EU's security partnerships with Japan, South Korea, Australia, and India signal that the EU is now treating the [Indo-Pacific](/regions/indo-pacific.md) as integral to its strategic interests — though the depth of engagement remains limited compared to other actors in the region [7].
+
 # Citations
 
 [1] Velina Tchakarova, "Global System June 2026" — https://substack.com/@velinatchakarova/p-204418261
@@ -48,3 +72,9 @@ The EU's geopolitical position is defined by contradiction: it has the regulator
 [3] Velina Tchakarova, "Latin America's Rightward Wave and the Battle for the Hemisphere" — https://substack.com/@velinatchakarova/p-203689435
 
 [4] [Chartbook 454: China Shock 2.0 and Mercantilist-on-Mercantilist Violence](https://adamtooze.substack.com/p/chartbook-454-china-shock-20-and)
+
+[5] [The EU in Search of New Partners](https://ip-quarterly.com/en/eu-search-new-partners)
+
+[6] [Die neue Arktisstrategie der EU](https://www.swp-berlin.org/publikation/die-neue-arktisstrategie-der-eu-chancen-fuer-europas-digitale-souveraenitaet)
+
+[7] [Südostasien – mehr als ein Nebenschauplatz im Indo-Pazifik](https://www.swp-berlin.org/publikation/suedostasien-mehr-als-ein-nebenschauplatz-im-indo-pazifik)

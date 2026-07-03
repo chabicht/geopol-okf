@@ -2,7 +2,7 @@
 type: Actor
 title: Donald Trump
 description: 45th and 47th President of the United States; central decision-maker in the 2026 US-Iran war and US-Russia policy.
-tags: [leader, military, trade, latin-america, oligarchy, europe]
+tags: [leader, military, trade, latin-america, oligarchy, europe, africa]
 status: ongoing
 timestamp: 2026-07-04T00:00:00Z
 ---
@@ -77,6 +77,14 @@ The Roberts Supreme Court's [Slaughter ruling](/events/slaughter-scotus-ruling.m
 
 The ruling is fundamentally about enabling corruption. Trump's firing decisions have been driven by personal retribution, prejudice, and greed. Jeff Yass, a billionaire, purchased a complete reversal of Trump's position on TikTok. Crypto policy flipped from denunciation to embrace once it became a channel for billions in personal enrichment. The Court has removed the legal restraints on the favor-granting machinery. [6]
 
+## Coercive Pressure on Nigeria
+
+In October 2025, Trump redesignated [Nigeria](/actors/countries/nigeria.md) a Country of Particular Concern for Christian religious freedom violations, framing it in civilisational terms and ordering the Pentagon to prepare for possible military intervention. Within four months, this coercive pressure was converted into a formal bilateral security partnership with 200 US troops deployed and MQ-9 Reaper drone operations on Nigerian soil. The May 2026 AFRICOM operation killing ISIL's shadow commander in West Africa was publicly celebrated by both Trump and Tinubu — a remarkable turnaround from threats of military action to joint counter-terrorism operations within six months [17].
+
+## Trump-Xi Summit
+
+The May 2026 [Trump-Xi summit](/events/trump-xi-summit-2026.md) introduced deep uncertainty into US-[Taiwan](/actors/countries/taiwan.md) relations. Xi framed Taiwan as the "most important issue in China-US relations" and warned that mishandling it would jeopardise the bilateral relationship. The summit produced little clarity on continued US support for Taiwan, underlining Taipei's predicament of relying on questionable American promises [18].
+
 # Analysis
 
 ### The Leader-as-Decision-Maker Thesis
@@ -122,3 +130,7 @@ Applebaum's Kleptocracy Tracker provides the documentary record: the Qatari jet,
 [15] [What Happened in Fuel Markets When Trump Lifted the Century-Old Jones Act](https://www.wsj.com/business/logistics/what-happened-in-fuel-markets-when-trump-lifted-the-century-old-jones-act-199da395)
 
 [16] [Midweek Update #17: The Most Dangerous Intelligence Move Ever Contemplated](https://phillipspobrien.substack.com/p/midweek-update-17-the-most-dangerous)
+
+[17] [Trump in Africa: Nigeria's Bounded Agency and Structural Dependence Under US Pressure](https://www.swp-berlin.org/publikation/mta-pb50trump-in-africa-nigerias-bounded-agency)
+
+[18] [Washington's Volatility and Taipei's Security](https://www.swp-berlin.org/publikation/washingtons-volatility-and-taipeis-security)

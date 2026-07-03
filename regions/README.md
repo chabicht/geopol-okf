@@ -6,3 +6,4 @@
 * [Central Asia](central-asia.md) - Landlocked region between Russia, China, Iran; rapid growth and diversification
 * [Africa](africa.md) - Sahel insurgency zone; Horn of Africa maritime chokepoint; multi-party competition
 * [Latin America](latin-america.md) - Rightward wave with militarized security turn and institutional fragility
+* [Arctic](arctic.md) - Strategic theater where digital sovereignty, submarine cable infrastructure, and great power competition converge

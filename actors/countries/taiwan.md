@@ -37,7 +37,11 @@ Beijing pairs coercion with co-optation: the Straits Forum, economic inducements
 
 ## International Support
 
-[Britain](/actors/countries/germany.md), [France](/actors/countries/france.md), and [Germany](/actors/countries/germany.md) issued a rare joint statement through their de facto embassies in Taipei. This represents a significant European signal that Taiwan is now treated as integral to the global order — not merely a regional dispute.
+[Britain](/actors/countries/united-kingdom.md), [France](/actors/countries/france.md), and [Germany](/actors/countries/germany.md) issued a rare joint statement through their de facto embassies in Taipei. This represents a significant European signal that Taiwan is now treated as integral to the global order — not merely a regional dispute.
+
+## Trump-Xi Summit and Washington's Volatility
+
+The May 2026 [Trump-Xi summit](/events/trump-xi-summit-2026.md) introduced deep uncertainty into US-Taiwan relations. Xi framed Taiwan as "the most important issue in China-US relations" and warned that mishandling it would place the relationship "in great jeopardy." While Washington's stance remains ambiguous, Taipei faces a predicament: relying heavily on now questionable American promises. The EU's expanding network of Security and Defence Partnerships creates potential openings for Taiwan to strengthen its strategic alignment with [Europe](/regions/europe.md) — presenting both risks and opportunities, particularly in drone technology, defence industry cooperation, and supply chain diversification [4].
 
 # Analysis
 
@@ -50,3 +54,5 @@ Taiwan's strategic challenge is multidimensional: external grey-zone pressure fr
 [2] Velina Tchakarova, "Ceasefire in Iran / Taiwan Update" — https://substack.com/@velinatchakarova/p-204418261
 
 [3] [Special Report: Surprise PRC Military Exercise Around Taiwan](https://understandingwar.org/research/china-taiwan/china-taiwan-special-report-december-31-2025/)
+
+[4] [Washington's Volatility and Taipei's Security](https://www.swp-berlin.org/publikation/washingtons-volatility-and-taipeis-security)

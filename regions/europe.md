@@ -35,6 +35,9 @@ Europe has been anchored by the US-led NATO alliance architecture since 1949 and
 - [Trump](/actors/trump.md)'s approach to U.S. troops in Europe is not genuine retrenchment but "illiberal hegemony" — using troop threats to extort defense spending pledges without a coherent plan for European security autonomy [19].
 - [Germany](/actors/countries/germany.md)'s Chancellor Merz called for a new "Plaza Accord" to address China's undervalued currency, alarming Beijing and revealing the tension between European rearmament dependence on Chinese materials and the push for trade fairness [20].
 - The [United Kingdom](/actors/countries/united-kingdom.md) is navigating energy security (North Sea debate is symbolic — gas prices set internationally, electrification is the real priority) and an asylum crisis (smugglers industrializing, 63 migrants per boat in 2026 vs. 7 in 2018) [21][22].
+- The [EU](/actors/eu.md) has concluded 12 Security and Defence Partnerships since 2024, reflecting an effort to diversify security ties beyond the US. The SDPs span three circles: EEA/accession candidates (Norway, Iceland, Albania, North Macedonia, Moldova), NATO partners beyond the EU (Canada, UK), and global partners (Japan, South Korea, Australia, India, Ghana). The SAFE instrument provides €150 billion in defence loans with a "Buy European" clause — making SDPs a prerequisite for preferential access to the European armaments market [23].
+- The EU is updating its Arctic strategy in 2026, with digital sovereignty as a cross-cutting theme. The [Arctic](/regions/arctic.md) is designated as one of 13 Cable Projects of European Interest — €347 million invested in strategic submarine cable projects. Two Arctic cable routes (Far North Fiber by 2029, Polar Connect by 2031) promise lower-latency Europe-Asia data connections away from the vulnerable Bab al-Mandab strait. The EU opened a bureau in Nuuk, Greenland in 2024 and opposed [Trump](/actors/trump.md)'s territorial claims [24].
+- The EU is expanding free trade with Southeast Asia: negotiations with Indonesia completed in 2025, with Thailand, Malaysia, and the Philippines expected to follow. [Germany](/actors/countries/germany.md)'s Indo-Pacific policy is shifting from a China-centric focus toward deeper engagement with ASEAN — driven by de-risking imperatives, the South China Sea as a critical transit corridor, and Southeast Asia's role as the projected fourth-largest economy by 2030 [25].
 
 # Key Dynamics
 
@@ -85,3 +88,9 @@ Europe has been anchored by the US-led NATO alliance architecture since 1949 and
 [21] [The North Sea Debate Risks Missing the Point](https://www.rusi.org/explore-our-research/publications/commentary/north-sea-debate-risks-missing-point)
 
 [22] [Smashing the Gangs, Missing the Point: UK Asylum Policy Reform Revisited](https://www.rusi.org/explore-our-research/publications/commentary/smashing-gangs-missing-point-uk-asylum-policy-reform-revisited)
+
+[23] [The EU in Search of New Partners](https://ip-quarterly.com/en/eu-search-new-partners)
+
+[24] [Die neue Arktisstrategie der EU](https://www.swp-berlin.org/publikation/die-neue-arktisstrategie-der-eu-chancen-fuer-europas-digitale-souveraenitaet)
+
+[25] [Südostasien – mehr als ein Nebenschauplatz im Indo-Pazifik](https://www.swp-berlin.org/publikation/suedostasien-mehr-als-ein-nebenschauplatz-im-indo-pazifik)

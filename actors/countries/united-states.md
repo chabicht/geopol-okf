@@ -67,6 +67,10 @@ Washington's core Middle East challenge is balancing diplomatic accommodation wi
 
 [Adam Tooze](/actors/adam-tooze.md) identifies the US AI boom as a "K-shaped expansion" — one of four disrupters of the 2026 world economy. The boom is sucking in imports at a furious rate, but from [Taiwan](/actors/countries/taiwan.md) and Mexico, not from [China](/actors/countries/china.md). The US-China bilateral trade truce is holding; the bilateral deficit has narrowed dramatically. The US has effectively excluded the leading edge of China's export drive with 100% tariffs on Chinese EVs, making China Shock 2.0 largely a Europe problem. Trump is dismantling the IRA's energy transition subsidies even as the AI boom generates unprecedented asset price inflation [13].
 
+## Coercive Pressure on Nigeria
+
+In October 2025, the Trump administration redesignated [Nigeria](/actors/countries/nigeria.md) a Country of Particular Concern for violations of Christian religious freedom, framing the situation in explicitly civilisational terms. Trump threatened to cut off all aid and ordered the Pentagon to prepare for possible military intervention. By February 2026, approximately 200 US military personnel were deployed to Maiduguri, Kainji, and Bauchi, operating an intelligence fusion cell and MQ-9 Reaper drones. The May 2026 AFRICOM operation killing Abu-Bilal al-Minuki, ISIL's shadow commander in West Africa, demonstrated the operational results of this coercive partnership. The US established a deep operational presence that shapes the parameters for all other security actors in Nigeria, including European partners [19].
+
 # Analysis
 
 The United States is experiencing a compounding crisis: military overstretch, diplomatic isolation, domestic political dysfunction, and a technology race where its lead is narrow and poorly leveraged. The [global system rupture](/themes/global-system-rupture.md) is not merely happening to the US — it is being accelerated by American decisions that diverge from strategic logic. The [energy and resource](/themes/energy-and-resources.md) foundation of US power remains robust in absolute terms but is diminishing relative to rivals, particularly China, which uses nearly twice as much energy and houses four times the population.
@@ -110,3 +114,5 @@ Tooze identifies two of his four disrupters as American: Trump's trade policy ra
 [17] [America Between an Ally and an Adversary](https://geopoliticalfutures.com/america-between-an-ally-and-an-adversary/)
 
 [18] [What Happened in Fuel Markets When Trump Lifted the Century-Old Jones Act](https://www.wsj.com/business/logistics/what-happened-in-fuel-markets-when-trump-lifted-the-century-old-jones-act-199da395)
+
+[19] [Trump in Africa: Nigeria's Bounded Agency and Structural Dependence Under US Pressure](https://www.swp-berlin.org/publikation/mta-pb50trump-in-africa-nigerias-bounded-agency)

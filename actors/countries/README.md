@@ -27,3 +27,4 @@
 * [United Kingdom](united-kingdom.md) - Post-Brexit power navigating energy security, European defence burden-sharing, and domestic asylum policy
 * [Egypt](egypt.md) - Self-styled Middle East mediator with diminishing diplomatic leverage, constrained by economic weakness
 * [Bangladesh](bangladesh.md) - Strategic player in the Bay of Bengal pursuing multi-alignment among China, India, and the US
+* [Nigeria](nigeria.md) - Africa's most populous state exercising bounded agency under US coercive pressure, navigating religiously divided politics ahead of 2027 elections

@@ -62,6 +62,12 @@ O'Brien reports that [China](/actors/countries/china.md) is treating Taiwan as a
 
 Tchakarova argues that contesting Taiwan's maritime approaches while [Moscow](/actors/countries/russia.md) ties down Western attention in [Ukraine](/conflicts/russia-ukraine-war.md) exemplifies coordinated pressure within the DragonBear framework [1]. The danger is bandwidth: China stretches Taiwan, Japan, and the Philippines across simultaneous theaters, forcing each to allocate finite attention and resources against multiple vectors of pressure [1]. This bandwidth exploitation is the core operational logic of the [great power competition](/themes/great-power-competition.md) — the axis does not need to win any single theater if it can overwhelm the Western capacity to respond across all of them simultaneously.
 
+## Washington's Volatility and Taipei's Defense Quandary
+
+The May 2026 [Trump-Xi summit](/events/trump-xi-summit-2026.md) highlighted a shift in Washington's posture that introduces deep uncertainty into US-Taiwan relations. Xi framed Taiwan as "the most important issue in China-US relations," warning that mishandling it would jeopardise the Sino-American relationship. While the meeting was not a turning point, it underlined Taipei's predicament: relying heavily on now questionable American promises. Xi may have been testing Trump's willingness to soften US language on Taiwanese sovereignty, reduce diplomatic support, or reduce arms sales [6].
+
+If Washington does reduce its security guarantees, Taiwan could strengthen its strategic alignment with [Europe](/regions/europe.md). The EU's expanding network of Security and Defence Partnerships — including with Japan, South Korea, [Australia](/actors/countries/australia.md), and [India](/actors/countries/india.md) — creates institutional frameworks for deeper Taiwan-European cooperation. This would present risks for Europe but also opportunities, particularly in drone technology, defence industry cooperation, and supply chain diversification [6].
+
 # Citations
 
 [1] https://substack.com/@velinatchakarova/p-203793388
@@ -73,3 +79,5 @@ Tchakarova argues that contesting Taiwan's maritime approaches while [Moscow](/a
 [4] [Special Report: Surprise PRC Military Exercise Around Taiwan](https://understandingwar.org/research/china-taiwan/china-taiwan-special-report-december-31-2025/)
 
 [5] [Lessons-learned with Chinese Characteristics: Understanding the Limits of PLA Efforts to Adapt to Contemporary Warfare](https://understandingwar.org/research/china-taiwan/lessons-learned-with-chinese-characteristics-understanding-the-limits-of-pla-efforts-to-adapt-to-contemporary-warfare/)
+
+[6] [Washington's Volatility and Taipei's Security](https://www.swp-berlin.org/publikation/washingtons-volatility-and-taipeis-security)
