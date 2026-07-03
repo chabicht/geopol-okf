@@ -9,9 +9,9 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-China is the world's most populous nation and its largest energy consumer, using almost twice as much energy as the [United States](/actors/united-states.md) while housing four times as many people. Its manufacturing base is the most advanced and high-tech on the planet, giving it structural advantages in the conversion of economic capacity into military power. The US perceives China as its primary strategic threat; the status quo of US dominance with roughly half the economy generates persistent friction that defines the [great power competition](/themes/great-power-competition.md) of the current era.
+China is the world's most populous nation and its largest energy consumer, using almost twice as much energy as the [United States](/actors/countries/united-states.md) while housing four times as many people. Its manufacturing base is the most advanced and high-tech on the planet, giving it structural advantages in the conversion of economic capacity into military power. The US perceives China as its primary strategic threat; the status quo of US dominance with roughly half the economy generates persistent friction that defines the [great power competition](/themes/great-power-competition.md) of the current era.
 
-China anchors the DragonBear axis with [Russia](/actors/russia.md), coordinating pressure on the Western coalition across multiple theaters simultaneously.
+China anchors the DragonBear axis with [Russia](/actors/countries/russia.md), coordinating pressure on the Western coalition across multiple theaters simultaneously.
 
 # Current Situation
 
@@ -21,11 +21,11 @@ Beijing aims to displace the United States as the global AI leader by 2030. Unli
 
 ## Taiwan Encirclement
 
-China is executing a systematic [Taiwan standoff](/conflicts/taiwan-standoff.md) campaign. The coast guard has normalized presence around [Taiwan](/actors/taiwan.md), with operations expanding to the waters east of the island — a new front in the pressure campaign. Eastern encirclement is supplemented by construction at Scarborough Shoal and carrier deployments. Grey-zone tactics include navy patrols, drone flights, and coast guard harassment. Beijing pairs coercion with co-optation through the Straits Forum, economic inducements, and united-front messaging.
+China is executing a systematic [Taiwan standoff](/conflicts/taiwan-standoff.md) campaign. The coast guard has normalized presence around [Taiwan](/actors/countries/taiwan.md), with operations expanding to the waters east of the island — a new front in the pressure campaign. Eastern encirclement is supplemented by construction at Scarborough Shoal and carrier deployments. Grey-zone tactics include navy patrols, drone flights, and coast guard harassment. Beijing pairs coercion with co-optation through the Straits Forum, economic inducements, and united-front messaging.
 
 ## Central Asia
 
-China is the largest investor in Central Asia, with 90% of its FDI concentrated in [Kazakhstan](/actors/kazakhstan.md), [Uzbekistan](/actors/uzbekistan.md), and Turkmenistan. The investment pattern is shifting from infrastructure projects to manufacturing relocation and mineral extraction — a transition that deepens structural dependency rather than merely building roads and pipelines.
+China is the largest investor in Central Asia, with 90% of its FDI concentrated in [Kazakhstan](/actors/countries/kazakhstan.md), [Uzbekistan](/actors/countries/uzbekistan.md), and Turkmenistan. The investment pattern is shifting from infrastructure projects to manufacturing relocation and mineral extraction — a transition that deepens structural dependency rather than merely building roads and pipelines.
 
 ## Structural Limits
 
@@ -51,11 +51,11 @@ China's wealthiest investors are effectively barred from participating in the US
 
 The 2020 revision of the PLA's "Science of Military Strategy" textbook reveals new emphases on wartime political work, "intelligentization" (AI-driven warfare), multi-domain integrated joint operations, strategic reconnaissance, and maritime maneuver operations in far seas. New chapters cover joint logistics and a revised People's Armed Police section including coast guard roles. The text is not a fundamental rethinking but an incremental update reflecting Xi's military reforms [11].
 
-However, Western analysts face a growing blind spot in understanding Chinese military doctrine as the PLA restricts open-source information and its key doctrinal texts become outdated, lacking coverage of AI, autonomous systems, and post-2016 reforms. The PLA's pre-existing investments in AI-enabled swarm technology and sophisticated reconnaissance drones are skewing the lessons it draws from [Ukraine](/conflicts/russia-ukraine-war.md) and Middle East conflicts, where low-cost attritable FPV drones dominate. Xi's purges and institutional rigidity discourage adaptation, leading the PLA to downplay the central role of cheap, disposable systems while continuing to develop expensive, survivable platforms — creating a potential asymmetric advantage for [Taiwan](/actors/taiwan.md) [12][13].
+However, Western analysts face a growing blind spot in understanding Chinese military doctrine as the PLA restricts open-source information and its key doctrinal texts become outdated, lacking coverage of AI, autonomous systems, and post-2016 reforms. The PLA's pre-existing investments in AI-enabled swarm technology and sophisticated reconnaissance drones are skewing the lessons it draws from [Ukraine](/conflicts/russia-ukraine-war.md) and Middle East conflicts, where low-cost attritable FPV drones dominate. Xi's purges and institutional rigidity discourage adaptation, leading the PLA to downplay the central role of cheap, disposable systems while continuing to develop expensive, survivable platforms — creating a potential asymmetric advantage for [Taiwan](/actors/countries/taiwan.md) [12][13].
 
 ## Bangladesh Expansion
 
-China is extending its influence into [Bangladesh](/actors/bangladesh.md) through $9.2 billion in proposed investments across infrastructure, logistics, manufacturing, and energy. Prime Minister Tarique Rahman's visit to Beijing produced 13 MOUs and renewed momentum behind the Teesta River project — a long-delayed initiative that India and Bangladesh had been unable to agree on. The expansion alarms [India](/actors/india.md) but faces limits: Myanmar's instability, Bangladesh's desire for strategic autonomy, and Beijing's strained budget [14].
+China is extending its influence into [Bangladesh](/actors/countries/bangladesh.md) through $9.2 billion in proposed investments across infrastructure, logistics, manufacturing, and energy. Prime Minister Tarique Rahman's visit to Beijing produced 13 MOUs and renewed momentum behind the Teesta River project — a long-delayed initiative that India and Bangladesh had been unable to agree on. The expansion alarms [India](/actors/countries/india.md) but faces limits: Myanmar's instability, Bangladesh's desire for strategic autonomy, and Beijing's strained budget [14].
 
 ## CMC Purge
 

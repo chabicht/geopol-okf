@@ -13,7 +13,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-Sanctions have become the primary instrument of Western coercive power short of military force. The [United States](/actors/united-states.md) and its allies wield the dollar's centrality, SWIFT's infrastructure, and the dominance of Western banks to constrain adversary behavior. Yet the effectiveness of sanctions is eroding as targeted states — [Russia](/actors/russia.md), [Iran](/actors/iran.md), North Korea — develop sophisticated evasion architectures through shadow banking, barter trade, cryptocurrency, and [organised criminal networks](/themes/organised-crime-and-statecraft.md). See [Global System Rupture](/themes/global-system-rupture.md) and [Great Power Competition](/themes/great-power-competition.md).
+Sanctions have become the primary instrument of Western coercive power short of military force. The [United States](/actors/countries/united-states.md) and its allies wield the dollar's centrality, SWIFT's infrastructure, and the dominance of Western banks to constrain adversary behavior. Yet the effectiveness of sanctions is eroding as targeted states — [Russia](/actors/countries/russia.md), [Iran](/actors/countries/iran.md), North Korea — develop sophisticated evasion architectures through shadow banking, barter trade, cryptocurrency, and [organised criminal networks](/themes/organised-crime-and-statecraft.md). See [Global System Rupture](/themes/global-system-rupture.md) and [Great Power Competition](/themes/great-power-competition.md).
 
 # Current Situation
 

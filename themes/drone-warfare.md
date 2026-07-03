@@ -12,15 +12,15 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-Unmanned Aerial Vehicles (UAVs) are changing the nature of combat. The core dynamic is the cost-exchange ratio: cheap mass-produced drones versus expensive precision systems. [Ukraine](/actors/ukraine.md) demonstrated drone effectiveness during the [Russia-Ukraine War](/conflicts/russia-ukraine-war.md), showing that relatively inexpensive platforms could conduct surveillance, adjust artillery fire, and deliver strikes against high-value targets — reshaping tactical assumptions about force ratios and attrition.
+Unmanned Aerial Vehicles (UAVs) are changing the nature of combat. The core dynamic is the cost-exchange ratio: cheap mass-produced drones versus expensive precision systems. [Ukraine](/actors/countries/ukraine.md) demonstrated drone effectiveness during the [Russia-Ukraine War](/conflicts/russia-ukraine-war.md), showing that relatively inexpensive platforms could conduct surveillance, adjust artillery fire, and deliver strikes against high-value targets — reshaping tactical assumptions about force ratios and attrition.
 
 # Current Situation
 
 Multiple theaters demonstrate the transformative impact of drone warfare:
 
-- **US-Iran War of 2026**: The [US-Iran War](/conflicts/us-iran-war-2026.md) exposed the cost asymmetry — cheap [Iranian](/actors/iran.md) drones versus expensive US Patriot and THAAD interceptor systems. The US relied on high-cost interceptors against low-cost threats, an unsustainable exchange ratio.
+- **US-Iran War of 2026**: The [US-Iran War](/conflicts/us-iran-war-2026.md) exposed the cost asymmetry — cheap [Iranian](/actors/countries/iran.md) drones versus expensive US Patriot and THAAD interceptor systems. The US relied on high-cost interceptors against low-cost threats, an unsustainable exchange ratio.
 - **Ukraine**: Ukrainian forces developed novel tactics using drones with fewer troops, retaking territory in ways that would have been impossible with conventional force structures. Ukraine's FP-5 Flamingo missiles are striking Russian war production facilities deep behind front lines.
-- **Turkey**: [Turkish](/actors/turkey.md) drones operated across multiple African countries, providing surveillance and strike capabilities to governments with limited conventional military capacity.
+- **Turkey**: [Turkish](/actors/countries/turkey.md) drones operated across multiple African countries, providing surveillance and strike capabilities to governments with limited conventional military capacity.
 - **African theaters**: Drones offer surveillance, strike capacity, and evidence of modernization for African governments facing insurgencies across vast territories with weak ground control.
 
 # Key Dynamics
@@ -51,11 +51,11 @@ The [Sahel insurgency](/conflicts/sahel-insurgency.md) illustrates the dynamic: 
 
 ## PLA Adaptation Limits
 
-ISW analysis suggests the [PLA](/actors/china.md)'s pre-existing investments in AI-enabled swarm technology and sophisticated reconnaissance drones are skewing the lessons it draws from Ukraine and Middle East conflicts, where low-cost attritable FPV drones dominate. Xi's purges and institutional rigidity discourage adaptation, leading the PLA to downplay the central role of cheap, disposable systems while continuing to develop expensive, survivable platforms. This creates a potential asymmetric advantage for [Taiwan](/actors/taiwan.md) if it can learn more effectively from contemporary warfare. The PLA's key doctrinal texts are outdated, lacking coverage of AI, autonomous systems, and post-2016 reforms [3].
+ISW analysis suggests the [PLA](/actors/countries/china.md)'s pre-existing investments in AI-enabled swarm technology and sophisticated reconnaissance drones are skewing the lessons it draws from Ukraine and Middle East conflicts, where low-cost attritable FPV drones dominate. Xi's purges and institutional rigidity discourage adaptation, leading the PLA to downplay the central role of cheap, disposable systems while continuing to develop expensive, survivable platforms. This creates a potential asymmetric advantage for [Taiwan](/actors/countries/taiwan.md) if it can learn more effectively from contemporary warfare. The PLA's key doctrinal texts are outdated, lacking coverage of AI, autonomous systems, and post-2016 reforms [3].
 
 ## Ukraine's Military Transformation
 
-Dr. Jack Watling (RUSI) describes [Ukraine](/actors/ukraine.md)'s transformation from an underfunded Soviet-legacy force to a 960,000-person defense force integrating UAVs as a universal fires platform, driven by civil society and a burgeoning private defense industry that rapidly iterates equipment based on frontline feedback. The vulnerability of globalized defense supply chains (Chinese magnets, Russian titanium, Indian cotton) highlights the need for Western governments to define "sufficient" rather than perfect equipment standards. The critical lesson: engaging civil society honestly creates political freedom to solve defense problems [4].
+Dr. Jack Watling (RUSI) describes [Ukraine](/actors/countries/ukraine.md)'s transformation from an underfunded Soviet-legacy force to a 960,000-person defense force integrating UAVs as a universal fires platform, driven by civil society and a burgeoning private defense industry that rapidly iterates equipment based on frontline feedback. The vulnerability of globalized defense supply chains (Chinese magnets, Russian titanium, Indian cotton) highlights the need for Western governments to define "sufficient" rather than perfect equipment standards. The critical lesson: engaging civil society honestly creates political freedom to solve defense problems [4].
 
 # Citations
 

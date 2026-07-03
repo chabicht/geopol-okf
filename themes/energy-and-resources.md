@@ -21,12 +21,12 @@ Mineral wealth is unevenly distributed across the planet, making global trade a 
 
 The global energy landscape is defined by extreme asymmetries in consumption and production:
 
-- The [United States](/actors/united-states.md) consumes 16% of world energy with 4% of the global population.
-- [China](/actors/china.md) uses almost twice as much energy as the US, reflecting its position as the world's manufacturing center.
+- The [United States](/actors/countries/united-states.md) consumes 16% of world energy with 4% of the global population.
+- [China](/actors/countries/china.md) uses almost twice as much energy as the US, reflecting its position as the world's manufacturing center.
 - The Strait of Hormuz carries approximately 20 mbpd at baseline; approximately 10 mbpd was lost during the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) crisis.
 - Silver has passed its production peak; copper is expected to peak before 2030.
-- [Qatar](/actors/qatar.md)'s Ras Laffan facility represents approximately one-fifth of global seaborne LNG supply — a concentration of risk visible in the [Qatar LNG explosion](/events/qatar-lng-explosion.md).
-- [Russia](/actors/russia.md)'s oil exports surged to 4.11 mbpd to fill the Hormuz gap, demonstrating how sanctions regimes fracture under systemic stress.
+- [Qatar](/actors/countries/qatar.md)'s Ras Laffan facility represents approximately one-fifth of global seaborne LNG supply — a concentration of risk visible in the [Qatar LNG explosion](/events/qatar-lng-explosion.md).
+- [Russia](/actors/countries/russia.md)'s oil exports surged to 4.11 mbpd to fill the Hormuz gap, demonstrating how sanctions regimes fracture under systemic stress.
 
 ## The Myth of American Energy Independence
 
@@ -38,11 +38,11 @@ The diesel/gasoil crisis is the most immediate energy vulnerability. Despite fla
 
 ## Solar Energy Limits
 
-The [UAE](/actors/uae.md)'s $6 billion solar project demonstrates the physical limits of solar energy. In the sunniest desert on Earth, solar capacity factor is only 24%; in [Germany](/actors/germany.md) it is 11%. The project reveals the impossibility of seasonal storage at scale and the "dunkelflaute" problem — periods of low wind and solar generation that no battery system can bridge. Germany's electricity generation has declined as nuclear plants closed and renewables cannot fill the gap [3].
+The [UAE](/actors/countries/uae.md)'s $6 billion solar project demonstrates the physical limits of solar energy. In the sunniest desert on Earth, solar capacity factor is only 24%; in [Germany](/actors/countries/germany.md) it is 11%. The project reveals the impossibility of seasonal storage at scale and the "dunkelflaute" problem — periods of low wind and solar generation that no battery system can bridge. Germany's electricity generation has declined as nuclear plants closed and renewables cannot fill the gap [3].
 
 ## Oil Export Decline
 
-The ExportLand Model shows that global net oil export capacity peaked in 2004. If world oil supply falls to half by mid-century, importers lose 75% of imports in 15-20 years. The decline is uneven: exporter consumption rises (population growth, domestic development) while production plateaus or declines, squeezing net exports. [Russia](/actors/russia.md) is uniquely self-sufficient; the US, Europe, [China](/actors/china.md), and [India](/actors/india.md) are all net importers facing a musical-chairs game for diminishing export volumes [4].
+The ExportLand Model shows that global net oil export capacity peaked in 2004. If world oil supply falls to half by mid-century, importers lose 75% of imports in 15-20 years. The decline is uneven: exporter consumption rises (population growth, domestic development) while production plateaus or declines, squeezing net exports. [Russia](/actors/countries/russia.md) is uniquely self-sufficient; the US, Europe, [China](/actors/countries/china.md), and [India](/actors/countries/india.md) are all net importers facing a musical-chairs game for diminishing export volumes [4].
 
 ## Jones Act and Domestic Fuel Distribution
 
@@ -91,11 +91,11 @@ The framework connects entropy, dissipative structures, and energy gradients: ci
 
 ## Chokepoint Vulnerability
 
-[Robert Pape](/actors/robert-pape.md) argues that Hormuz remains open not because it cannot be closed but because [Iran](/actors/iran.md) permits it to remain open. Iran's geographic control of the strait gives it coercive leverage disproportionate to its conventional military power — the ability to close Hormuz is a permanent threat that shapes behavior even when not exercised [11].
+[Robert Pape](/actors/robert-pape.md) argues that Hormuz remains open not because it cannot be closed but because [Iran](/actors/countries/iran.md) permits it to remain open. Iran's geographic control of the strait gives it coercive leverage disproportionate to its conventional military power — the ability to close Hormuz is a permanent threat that shapes behavior even when not exercised [11].
 
 Tchakarova notes that pipeline bypass options are structurally thin: Saudi and UAE limited capacity is an order of magnitude short of what would be needed to compensate for disrupted Hormuz throughput. This was confirmed during the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md), when approximately 10 mbpd of effective supply was lost against the 20 mbpd baseline [12].
 
-The concentration of LNG infrastructure at [Qatar](/actors/qatar.md)'s Ras Laffan — approximately one-fifth of global seaborne LNG supply — represents a parallel chokepoint vulnerability. A single facility's disruption would cascade through global gas markets with effects disproportionate to the scale of the physical damage.
+The concentration of LNG infrastructure at [Qatar](/actors/countries/qatar.md)'s Ras Laffan — approximately one-fifth of global seaborne LNG supply — represents a parallel chokepoint vulnerability. A single facility's disruption would cascade through global gas markets with effects disproportionate to the scale of the physical damage.
 
 ## Price Recovery vs Supply Recovery
 
@@ -105,7 +105,7 @@ The implication is that markets are pricing hope ahead of facts. The price colla
 
 ## European Nuclear Debate
 
-[Velina Tchakarova](/actors/velina-tchakarova.md) frames the European nuclear debate through the Austrian case: a country with 87.5% renewable electricity that nonetheless needs dispatchable low-carbon baseload as the fourth industrial revolution drives demand upward. Austria's anti-nuclear position — rooted in the 1978 Zwentendorf referendum — has become hypocrisy, as the country imports electricity from neighbours whose grids run on nuclear power. Meanwhile, Europe is moving decisively: Denmark reviewing its 1985 ban, Belgium scrapping its phase-out, Italy beginning to overturn its ban, Sweden and Finland expanding, and Japan restarting. [Germany](/actors/germany.md) and Austria stand as the last outliers, on the wrong side of both energy security and industrial competitiveness [17].
+[Velina Tchakarova](/actors/velina-tchakarova.md) frames the European nuclear debate through the Austrian case: a country with 87.5% renewable electricity that nonetheless needs dispatchable low-carbon baseload as the fourth industrial revolution drives demand upward. Austria's anti-nuclear position — rooted in the 1978 Zwentendorf referendum — has become hypocrisy, as the country imports electricity from neighbours whose grids run on nuclear power. Meanwhile, Europe is moving decisively: Denmark reviewing its 1985 ban, Belgium scrapping its phase-out, Italy beginning to overturn its ban, Sweden and Finland expanding, and Japan restarting. [Germany](/actors/countries/germany.md) and Austria stand as the last outliers, on the wrong side of both energy security and industrial competitiveness [17].
 
 The nuclear question is inseparable from the [European security](/regions/europe.md) question: a country that bets heavily on volatile renewables needs stable baseload, and the countries that refuse nuclear are the same ones that refuse to seriously debate NATO membership and defense spending. The energy and security taboos reinforce each other — both reflect a posture that assumes the post-war order can persist without adaptation [17].
 

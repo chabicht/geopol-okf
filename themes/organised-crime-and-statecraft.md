@@ -13,7 +13,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-The boundary between organised crime and statecraft is blurring. States — particularly [Russia](/actors/russia.md), [Iran](/actors/iran.md), [China](/actors/china.md), and North Korea — are increasingly outsourcing covert tasks to organised criminal networks for sanctions evasion, sabotage, and influence operations. Criminal infrastructure is becoming embedded in the systems through which international power is exercised, while policy frameworks remain anchored in 25-year-old UNTOC-era assumptions that treat crime and statecraft as separate domains. See [Cognitive Warfare](/themes/cognitive-warfare.md) and [Sanctions and Financial Warfare](/themes/sanctions-and-financial-warfare.md).
+The boundary between organised crime and statecraft is blurring. States — particularly [Russia](/actors/countries/russia.md), [Iran](/actors/countries/iran.md), [China](/actors/countries/china.md), and North Korea — are increasingly outsourcing covert tasks to organised criminal networks for sanctions evasion, sabotage, and influence operations. Criminal infrastructure is becoming embedded in the systems through which international power is exercised, while policy frameworks remain anchored in 25-year-old UNTOC-era assumptions that treat crime and statecraft as separate domains. See [Cognitive Warfare](/themes/cognitive-warfare.md) and [Sanctions and Financial Warfare](/themes/sanctions-and-financial-warfare.md).
 
 # Current Situation
 
@@ -50,7 +50,7 @@ RUSI argues that incremental adjustment to existing frameworks is insufficient �
 
 ## The Shadow Banking Architecture
 
-Iran's shadow banking system illustrates the sophistication of the crime-statecraft nexus. The IRGC sells sanctioned oil through front companies, launders proceeds through intermediaries across multiple jurisdictions, and channels funds to proxy networks including [Hezbollah](/actors/iran.md) and Hamas. This self-sustaining financial architecture operates parallel to the formal banking system and is resistant to conventional sanctions enforcement [3].
+Iran's shadow banking system illustrates the sophistication of the crime-statecraft nexus. The IRGC sells sanctioned oil through front companies, launders proceeds through intermediaries across multiple jurisdictions, and channels funds to proxy networks including [Hezbollah](/actors/countries/iran.md) and Hamas. This self-sustaining financial architecture operates parallel to the formal banking system and is resistant to conventional sanctions enforcement [3].
 
 ## Implications for Sanctions Policy
 

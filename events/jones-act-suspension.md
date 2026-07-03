@@ -13,7 +13,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-The Jones Act (Merchant Marine Act of 1920) requires that goods shipped between U.S. ports be carried on vessels built, owned, and operated by Americans. The century-old law artificially constrains domestic shipping capacity and inflates transportation costs, particularly for fuel distribution from Gulf Coast refineries to distant domestic markets. [Trump](/actors/trump.md) suspended the Act for 150 days, creating a temporary experiment in maritime deregulation. See [Energy and Resources](/themes/energy-and-resources.md) and [United States](/actors/united-states.md).
+The Jones Act (Merchant Marine Act of 1920) requires that goods shipped between U.S. ports be carried on vessels built, owned, and operated by Americans. The century-old law artificially constrains domestic shipping capacity and inflates transportation costs, particularly for fuel distribution from Gulf Coast refineries to distant domestic markets. [Trump](/actors/trump.md) suspended the Act for 150 days, creating a temporary experiment in maritime deregulation. See [Energy and Resources](/themes/energy-and-resources.md) and [United States](/actors/countries/united-states.md).
 
 # What Happened
 

@@ -9,7 +9,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-[Taiwan](/actors/taiwan.md) is the focal point of the most dangerous territorial dispute in the [Indo-Pacific](/regions/indo-pacific.md). [China](/actors/china.md) claims the island as its territory and has escalated pressure through a multi-domain grey-zone campaign. Taiwan's defense posture, democratic institutions, and international recognition gaps create a uniquely vulnerable strategic environment.
+[Taiwan](/actors/countries/taiwan.md) is the focal point of the most dangerous territorial dispute in the [Indo-Pacific](/regions/indo-pacific.md). [China](/actors/countries/china.md) claims the island as its territory and has escalated pressure through a multi-domain grey-zone campaign. Taiwan's defense posture, democratic institutions, and international recognition gaps create a uniquely vulnerable strategic environment.
 
 # Current Situation
 
@@ -25,7 +25,7 @@ In December 2025, the PLA conducted Justice Mission 2025 — a large-scale surpr
 
 ## Domestic Budget Paralysis
 
-The opposition KMT and TPP have been delaying the 2026 general budget for over nine months, threatening defense cuts. This domestic political obstruction directly undermines Taiwan's military readiness. Taiwan's defense budget stands at approximately $17.8 billion, a 20% increase, with a goal of reaching 3.3% of GDP from the current 2.4%. The [United States](/actors/united-states.md) is pressing for 3.5%.
+The opposition KMT and TPP have been delaying the 2026 general budget for over nine months, threatening defense cuts. This domestic political obstruction directly undermines Taiwan's military readiness. Taiwan's defense budget stands at approximately $17.8 billion, a 20% increase, with a goal of reaching 3.3% of GDP from the current 2.4%. The [United States](/actors/countries/united-states.md) is pressing for 3.5%.
 
 ## Espionage Campaign
 
@@ -37,7 +37,7 @@ Beijing pairs coercion with co-optation: the Straits Forum, economic inducements
 
 ## International Support
 
-[Britain](/actors/germany.md), [France](/actors/france.md), and [Germany](/actors/germany.md) issued a rare joint statement through their de facto embassies in Taipei. This represents a significant European signal that Taiwan is now treated as integral to the global order — not merely a regional dispute.
+[Britain](/actors/countries/germany.md), [France](/actors/countries/france.md), and [Germany](/actors/countries/germany.md) issued a rare joint statement through their de facto embassies in Taipei. This represents a significant European signal that Taiwan is now treated as integral to the global order — not merely a regional dispute.
 
 # Analysis
 

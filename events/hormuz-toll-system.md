@@ -9,7 +9,7 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Background
 
-Throughout the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md), [Iran](/actors/iran.md) demonstrated that the Strait of Hormuz remains open not because the [United States](/actors/united-states.md) enforces freedom of navigation but because Iran permits it. The war crystallized Iran's chokepoint control into a concrete proposal: a permanent toll system for Hormuz transit, negotiated through [Oman](/actors/oman.md), that would formalize Iran's role as gatekeeper of 20% of global oil flows.
+Throughout the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md), [Iran](/actors/countries/iran.md) demonstrated that the Strait of Hormuz remains open not because the [United States](/actors/countries/united-states.md) enforces freedom of navigation but because Iran permits it. The war crystallized Iran's chokepoint control into a concrete proposal: a permanent toll system for Hormuz transit, negotiated through [Oman](/actors/countries/oman.md), that would formalize Iran's role as gatekeeper of 20% of global oil flows.
 
 # What Happened
 

@@ -15,7 +15,7 @@ Turkey is a Muslim-majority, non-Western member of [NATO](/actors/nato.md) — a
 
 ## Opening in Africa
 
-As Russian security support shows its limits, Turkey sees an opening. In Mali, [Russia](/actors/russia.md) must prioritize manpower and equipment for the [Ukraine front](/conflicts/russia-ukraine-war.md), making its [African deployments](/conflicts/sahel-insurgency.md) less important. The transition from Wagner to the Africa Corps has produced a more bureaucratic, less flexible instrument.
+As Russian security support shows its limits, Turkey sees an opening. In Mali, [Russia](/actors/countries/russia.md) must prioritize manpower and equipment for the [Ukraine front](/conflicts/russia-ukraine-war.md), making its [African deployments](/conflicts/sahel-insurgency.md) less important. The transition from Wagner to the Africa Corps has produced a more bureaucratic, less flexible instrument.
 
 Turkey offers what competitors cannot: security assistance without the colonial baggage of France, the governance conditions of the EU, or the ideological alignment required by Russia. Its Muslim-majority, non-Western, NATO-member identity creates unique flexibility.
 
@@ -25,9 +25,9 @@ Turkish drones are attractive to African governments because they provide survei
 
 ## Horn of Africa and Red Sea Competition
 
-Turkey has become [Somalia](/actors/somalia.md)'s most important external patron, providing military training, arms, infrastructure investment, and diplomatic support to the federal government in Mogadishu. Turkey built a large military training base in Mogadishu and signed major port and infrastructure deals in 2024, becoming Somalia's primary external security and economic partner — largely at the expense of the [UAE](/actors/uae.md), whose relationship with Somalia deteriorated over port concessions and a 2018 cash-seizure incident [2].
+Turkey has become [Somalia](/actors/somalia.md)'s most important external patron, providing military training, arms, infrastructure investment, and diplomatic support to the federal government in Mogadishu. Turkey built a large military training base in Mogadishu and signed major port and infrastructure deals in 2024, becoming Somalia's primary external security and economic partner — largely at the expense of the [UAE](/actors/countries/uae.md), whose relationship with Somalia deteriorated over port concessions and a 2018 cash-seizure incident [2].
 
-Turkey's expansion is now creating rival blocs in the Horn of Africa. [Israel](/actors/israel.md)'s recognition of [Somaliland](/events/israel-somaliland-recognition.md) has solidified an Israel-UAE-Ethiopia alignment countering the Turkey-Somalia-Egypt-Eritrea axis. Port infrastructure — Turkey's deals in Mogadishu, DP World at Berbera, Saudi Arabia's Red Sea Gateway Terminal at Tadjourah — is the primary vector of competition [2].
+Turkey's expansion is now creating rival blocs in the Horn of Africa. [Israel](/actors/countries/israel.md)'s recognition of [Somaliland](/events/israel-somaliland-recognition.md) has solidified an Israel-UAE-Ethiopia alignment countering the Turkey-Somalia-Egypt-Eritrea axis. Port infrastructure — Turkey's deals in Mogadishu, DP World at Berbera, Saudi Arabia's Red Sea Gateway Terminal at Tadjourah — is the primary vector of competition [2].
 
 ## Turkey as Middle East's Dominant Power
 
@@ -37,7 +37,7 @@ Turkey's efforts to recreate its sphere of influence in the region conflict dire
 
 ## Independent Defense Cooperation
 
-Turkey remains embedded in NATO for deterrence and escalation control in [Europe](/regions/europe.md), but the alliance does not encompass the full geographic scope of Turkey's security environment. Turkey's expanding defense cooperation with [Saudi Arabia](/actors/saudi-arabia.md) and [Pakistan](/actors/pakistan.md) reflects shared interests in defense production, training, and regional balancing rather than formal collective defense. These arrangements expand operational access and defense-industrial capacity while avoiding open-ended alliance commitments — a textbook example of [layered security](/themes/layered-security.md) [4].
+Turkey remains embedded in NATO for deterrence and escalation control in [Europe](/regions/europe.md), but the alliance does not encompass the full geographic scope of Turkey's security environment. Turkey's expanding defense cooperation with [Saudi Arabia](/actors/countries/saudi-arabia.md) and [Pakistan](/actors/countries/pakistan.md) reflects shared interests in defense production, training, and regional balancing rather than formal collective defense. These arrangements expand operational access and defense-industrial capacity while avoiding open-ended alliance commitments — a textbook example of [layered security](/themes/layered-security.md) [4].
 
 ## Geographic Reach
 
@@ -45,7 +45,7 @@ Turkey is operating across the Sahel and Horn of Africa: Mali, Burkina Faso, Nig
 
 # Analysis
 
-Turkey's strategic position is uniquely favorable. The US shift from Israel-centric to multilateral security architecture elevates Turkey as the region's most capable military actor. The decline of [Iran](/actors/iran.md) removes a major competitor. Russia's overstretch in Ukraine creates openings across Africa and Eurasia. Turkey's NATO membership provides deterrence while its non-Western identity allows partnerships unavailable to other alliance members.
+Turkey's strategic position is uniquely favorable. The US shift from Israel-centric to multilateral security architecture elevates Turkey as the region's most capable military actor. The decline of [Iran](/actors/countries/iran.md) removes a major competitor. Russia's overstretch in Ukraine creates openings across Africa and Eurasia. Turkey's NATO membership provides deterrence while its non-Western identity allows partnerships unavailable to other alliance members.
 
 The Israel-Turkey rivalry is emerging as the defining competitive dynamic in the post-Iran Middle East. Turkey's rise — with Washington's assent — represents for Israel its greatest challenge since making peace with Egypt nearly 50 years ago. The competition unfolds across Syria, the Red Sea, and Gaza, with port infrastructure and proxy relationships as the primary currencies of influence [3].
 

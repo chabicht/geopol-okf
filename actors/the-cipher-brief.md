@@ -9,13 +9,13 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-The Cipher Brief is a national security and intelligence-focused analytical publication that features expert commentary from former officials and analysts. Its positioning — at the intersection of retired practitioners and active policy debate — gives it a distinctive voice: technically informed, institutionally aware, and oriented toward operational implications rather than theoretical framing. The publication covers the [AI military race](/themes/ai-military-race.md), intelligence community modernization, [China](/actors/china.md) competition, and Pentagon policy.
+The Cipher Brief is a national security and intelligence-focused analytical publication that features expert commentary from former officials and analysts. Its positioning — at the intersection of retired practitioners and active policy debate — gives it a distinctive voice: technically informed, institutionally aware, and oriented toward operational implications rather than theoretical framing. The publication covers the [AI military race](/themes/ai-military-race.md), intelligence community modernization, [China](/actors/countries/china.md) competition, and Pentagon policy.
 
 # Key Topics
 
 ## AI Military Race
 
-The Cipher Brief's coverage of the [AI military race](/themes/ai-military-race.md) focuses on the gap between model development and military integration. The central argument: the AI race will not be won by the best model but by the fastest military — meaning that operational adoption, not technological sophistication, is the decisive variable. This frames the [US](/actors/united-states.md)-[China](/actors/china.md) competition as a race between two systems with different adoption dynamics: China's coordinated national-level approach versus America's fragmented public-private interface.
+The Cipher Brief's coverage of the [AI military race](/themes/ai-military-race.md) focuses on the gap between model development and military integration. The central argument: the AI race will not be won by the best model but by the fastest military — meaning that operational adoption, not technological sophistication, is the decisive variable. This frames the [US](/actors/countries/united-states.md)-[China](/actors/countries/china.md) competition as a race between two systems with different adoption dynamics: China's coordinated national-level approach versus America's fragmented public-private interface.
 
 ## Intelligence Community Modernization
 
@@ -23,7 +23,7 @@ The publication covers the Director of National Intelligence and the strategic d
 
 ## China Competition
 
-[China](/actors/china.md) competition is treated as the organizing strategic reality for US national security. The Cipher Brief's coverage emphasizes that the competition is multi-domain — military, technological, economic, and cognitive — and that the US institutional architecture was designed for a different adversary in a different era.
+[China](/actors/countries/china.md) competition is treated as the organizing strategic reality for US national security. The Cipher Brief's coverage emphasizes that the competition is multi-domain — military, technological, economic, and cognitive — and that the US institutional architecture was designed for a different adversary in a different era.
 
 ## Pentagon Policy
 

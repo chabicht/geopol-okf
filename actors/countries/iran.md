@@ -31,15 +31,15 @@ Iran's de facto control over Hormuz transit has outlasted the post-war oil price
 
 ## Hormuz Toll System
 
-Iran has proposed a permanent [toll system](/events/hormuz-toll-system.md) for the Strait of Hormuz, negotiated through [Oman](/actors/oman.md). The system would charge approximately $2 million per tanker transit, payable in rials — a structure that both generates revenue and internationalizes the rial. [Trump](/actors/trump.md) rejected the plan, but the proposal institutionalizes Iran's chokepoint leverage as a permanent feature of global energy governance [2].
+Iran has proposed a permanent [toll system](/events/hormuz-toll-system.md) for the Strait of Hormuz, negotiated through [Oman](/actors/countries/oman.md). The system would charge approximately $2 million per tanker transit, payable in rials — a structure that both generates revenue and internationalizes the rial. [Trump](/actors/trump.md) rejected the plan, but the proposal institutionalizes Iran's chokepoint leverage as a permanent feature of global energy governance [2].
 
 ## Ceasefire as Axis Course Correction
 
-The ceasefire was not an American coercive success. Rather, it represented a course correction by the DragonBear axis — [Russia](/actors/russia.md) and [China](/actors/china.md) green-lit the memorandum of understanding that produced the ceasefire. This framing underscores the degree to which the Iran conflict is embedded in the broader [global system rupture](/themes/global-system-rupture.md) and [Cold War 2](/conflicts/cold-war-2.md).
+The ceasefire was not an American coercive success. Rather, it represented a course correction by the DragonBear axis — [Russia](/actors/countries/russia.md) and [China](/actors/countries/china.md) green-lit the memorandum of understanding that produced the ceasefire. This framing underscores the degree to which the Iran conflict is embedded in the broader [global system rupture](/themes/global-system-rupture.md) and [Cold War 2](/conflicts/cold-war-2.md).
 
 ## War Without Resolution
 
-The war ended without resolving the underlying balance of power. Iran survived a US-Israeli military campaign designed to degrade its capabilities. The US accepted an agreement rather than imposing the decisive defeat it initially sought. [Israel](/actors/israel.md) remains dissatisfied with the outcome.
+The war ended without resolving the underlying balance of power. Iran survived a US-Israeli military campaign designed to degrade its capabilities. The US accepted an agreement rather than imposing the decisive defeat it initially sought. [Israel](/actors/countries/israel.md) remains dissatisfied with the outcome.
 
 ## External Operations in Europe
 
@@ -47,7 +47,7 @@ Iran's IRGC and Quds Force have escalated external operations in Europe — incl
 
 ## US-Israel Friction
 
-Washington's pursuit of diplomatic accommodation with Iran has created friction with [Israel](/actors/israel.md). The US conducted ceasefire negotiations through Pakistani mediation without Israeli participation, despite Israel bearing much of the cost and risk of the war. Israel fears any sanctions relief will rebuild Hezbollah and allow Tehran to rebound. The divergence reflects a fundamental disagreement: Washington seeks to incorporate Iran into a new regional order while Israel believes an ideologically driven regime cannot be durably moderated through negotiation [10].
+Washington's pursuit of diplomatic accommodation with Iran has created friction with [Israel](/actors/countries/israel.md). The US conducted ceasefire negotiations through Pakistani mediation without Israeli participation, despite Israel bearing much of the cost and risk of the war. Israel fears any sanctions relief will rebuild Hezbollah and allow Tehran to rebound. The divergence reflects a fundamental disagreement: Washington seeks to incorporate Iran into a new regional order while Israel believes an ideologically driven regime cannot be durably moderated through negotiation [10].
 
 # Analysis
 

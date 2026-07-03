@@ -15,17 +15,17 @@ Israel is the dominant military power in the eastern [Middle East](/regions/midd
 
 ## Dissatisfaction with War Outcome
 
-Israel remains dissatisfied with the outcome of the Iran war. The ceasefire left [Iran](/actors/iran.md) with retained leverage and did not achieve the decisive degradation of Iranian capabilities that Israeli security doctrine demands. The gap between Israeli objectives and the war's results has created tensions with the [United States](/actors/united-states.md).
+Israel remains dissatisfied with the outcome of the Iran war. The ceasefire left [Iran](/actors/countries/iran.md) with retained leverage and did not achieve the decisive degradation of Iranian capabilities that Israeli security doctrine demands. The gap between Israeli objectives and the war's results has created tensions with the [United States](/actors/countries/united-states.md).
 
 ## Turkey as Greatest Regional Challenge
 
-The US is transitioning from a bilateral, Israel-centric security framework to a multilateral, partnership-driven approach. [Turkey](/actors/turkey.md)'s rise — with Washington's assent — represents Israel's greatest challenge since making peace with Egypt nearly 50 years ago. Turkey is pursuing dominance over its immediate surroundings and is the military actor best prepared to lead America's burden-sharing initiative [2].
+The US is transitioning from a bilateral, Israel-centric security framework to a multilateral, partnership-driven approach. [Turkey](/actors/countries/turkey.md)'s rise — with Washington's assent — represents Israel's greatest challenge since making peace with Egypt nearly 50 years ago. Turkey is pursuing dominance over its immediate surroundings and is the military actor best prepared to lead America's burden-sharing initiative [2].
 
 Israel has adamantly opposed Turkish involvement in the International Stabilization Force for Gaza. The rivalry extends to Syria, where Turkish-backed government forces have seized Kurdish areas, and to the Red Sea, where Israel's [recognition of Somaliland](/events/israel-somaliland-recognition.md) creates a counterweight to Turkey's military expansion in Somalia. For the first time, Israel has Turkey on its doorstep [2].
 
 ## Red Sea Strategy: Somaliland
 
-In December 2025, Israel became the first nation to officially recognize Somaliland — a strategic investment in Red Sea access near the Bab el-Mandeb Strait. The move reflects Israel's competition with Turkey over maritime chokepoints and creates a loose Israel-UAE-[Ethiopia](/actors/ethiopia.md) alignment countering the Turkey-Somalia-[Egypt](/actors/egypt.md)-[Eritrea](/actors/eritrea.md) axis. See [Israel Recognizes Somaliland](/events/israel-somaliland-recognition.md) [3].
+In December 2025, Israel became the first nation to officially recognize Somaliland — a strategic investment in Red Sea access near the Bab el-Mandeb Strait. The move reflects Israel's competition with Turkey over maritime chokepoints and creates a loose Israel-UAE-[Ethiopia](/actors/countries/ethiopia.md) alignment countering the Turkey-Somalia-[Egypt](/actors/countries/egypt.md)-[Eritrea](/actors/countries/eritrea.md) axis. See [Israel Recognizes Somaliland](/events/israel-somaliland-recognition.md) [3].
 
 ## Lebanon as Negotiating Condition
 

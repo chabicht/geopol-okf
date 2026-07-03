@@ -9,13 +9,13 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-The Honest Sorcerer is an energy-centered analyst, writing under the pen name "The Honest Sorcerer" (Balázs Matics, as revealed in the [Nate Hagens interview](https://www.youtube.com/watch?v=JRrOaFaQ82U) [30]), whose worldview rests on a single foundational claim: energy is (almost) everything. The analytical framework rejects GDP as the primary measure of power, substituting power in the physics sense — the rate of energy transfer. This reframing has cascading implications: it changes how one assesses the relative strength of [China](/actors/china.md) and the [United States](/actors/united-states.md), how one evaluates the renewable energy transition, and how one thinks about the material limits of economic growth.
+The Honest Sorcerer is an energy-centered analyst, writing under the pen name "The Honest Sorcerer" (Balázs Matics, as revealed in the [Nate Hagens interview](https://www.youtube.com/watch?v=JRrOaFaQ82U) [30]), whose worldview rests on a single foundational claim: energy is (almost) everything. The analytical framework rejects GDP as the primary measure of power, substituting power in the physics sense — the rate of energy transfer. This reframing has cascading implications: it changes how one assesses the relative strength of [China](/actors/countries/china.md) and the [United States](/actors/countries/united-states.md), how one evaluates the renewable energy transition, and how one thinks about the material limits of economic growth.
 
 # Key Frameworks
 
 ## Energy Throughput as Power
 
-The core framework: high energy throughput produces high GDP, which produces high political and military power. The causal chain runs through energy, not through institutions or ideology. This makes energy consumption the leading indicator and GDP the lagging indicator. The implication is that the [US](/actors/united-states.md) consumes approximately 16% of world energy with 4% of the population — a structural advantage that is diminishing as [China](/actors/china.md), which uses nearly twice as much energy and houses four times the population, closes the throughput gap.
+The core framework: high energy throughput produces high GDP, which produces high political and military power. The causal chain runs through energy, not through institutions or ideology. This makes energy consumption the leading indicator and GDP the lagging indicator. The implication is that the [US](/actors/countries/united-states.md) consumes approximately 16% of world energy with 4% of the population — a structural advantage that is diminishing as [China](/actors/countries/china.md), which uses nearly twice as much energy and houses four times the population, closes the throughput gap.
 
 ## Exponential Resource Depletion
 
@@ -35,7 +35,7 @@ Electricity is auxiliary, not a primary energy source. Renewables are an extensi
 
 ## China and US Growth Models
 
-[China](/actors/china.md)'s growth model is as flawed as the [US](/actors/united-states.md)' — impossible to grow forever on a finite planet. The Honest Sorcerer rejects the common framing that China's state-led model is more sustainable than the American market model; both are expressions of the same growth imperative running into the same thermodynamic limits.
+[China](/actors/countries/china.md)'s growth model is as flawed as the [US](/actors/countries/united-states.md)' — impossible to grow forever on a finite planet. The Honest Sorcerer rejects the common framing that China's state-led model is more sustainable than the American market model; both are expressions of the same growth imperative running into the same thermodynamic limits.
 
 ## Megamachine and Wetiko
 

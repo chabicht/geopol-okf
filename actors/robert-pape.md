@@ -19,7 +19,7 @@ Pape's central framework: states gaining leverage rarely hurry to end wars. The 
 
 ## Iran's Leverage Shift
 
-Pape argues that [Iran](/actors/iran.md) shifted from negotiating to stop losing to negotiating to win more. This is a phase transition, not a marginal change: the basis of Iran's negotiating posture flipped from damage limitation to advantage extraction. The implication is that Iran's growing leverage may weaken the [US](/actors/united-states.md) military position in the Gulf and set the stage for Iranian nuclear weapons — the leverage is not merely military but strategic, creating space for nuclear escalation.
+Pape argues that [Iran](/actors/countries/iran.md) shifted from negotiating to stop losing to negotiating to win more. This is a phase transition, not a marginal change: the basis of Iran's negotiating posture flipped from damage limitation to advantage extraction. The implication is that Iran's growing leverage may weaken the [US](/actors/countries/united-states.md) military position in the Gulf and set the stage for Iranian nuclear weapons — the leverage is not merely military but strategic, creating space for nuclear escalation.
 
 ## Hormuz as Leverage, Not Theater
 

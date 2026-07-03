@@ -9,7 +9,7 @@ timestamp: 2026-06-08T00:00:00Z
 
 # Background
 
-In June 2026, [Germany](/actors/germany.md) suffered its worst-ever result in a UN Security Council non-permanent seat election, receiving only 104 votes against the 127 needed for election. The defeat was unprecedented: in previous campaigns (2002, 2018), Germany had received 97-98% support in the Western European group. The result exposed a decline in German diplomatic standing that predates the current government — the failure was rooted in missed candidacy preparation dating to 2019-2020.
+In June 2026, [Germany](/actors/countries/germany.md) suffered its worst-ever result in a UN Security Council non-permanent seat election, receiving only 104 votes against the 127 needed for election. The defeat was unprecedented: in previous campaigns (2002, 2018), Germany had received 97-98% support in the Western European group. The result exposed a decline in German diplomatic standing that predates the current government — the failure was rooted in missed candidacy preparation dating to 2019-2020.
 
 # What Happened
 

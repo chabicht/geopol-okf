@@ -16,7 +16,7 @@ timestamp: 2026-07-03T00:00:00Z
 
 Critical minerals are essential for high-technology applications, electric vehicles, solar panels, microchips, and data centers. Silver has passed its production peak; copper is expected to peak before 2030. The uneven distribution of mineral resources creates strategic dependencies — no single country possesses all the minerals its industrial base requires, making global trade a structural necessity rather than a policy choice.
 
-The competition for critical minerals is not merely commercial but geopolitical: control of processing and refining capacity confers leverage comparable to control of production. [China](/actors/china.md) dominates processing and refining for many critical minerals, creating a strategic vulnerability for Western economies that possess raw resources but lack the industrial capacity to process them.
+The competition for critical minerals is not merely commercial but geopolitical: control of processing and refining capacity confers leverage comparable to control of production. [China](/actors/countries/china.md) dominates processing and refining for many critical minerals, creating a strategic vulnerability for Western economies that possess raw resources but lack the industrial capacity to process them.
 
 ## Rare Earth Elements
 
@@ -28,9 +28,9 @@ REEs divide into light (LREEs) and heavy (HREEs) categories with vastly differen
 
 The critical minerals landscape is defined by several concurrent dynamics across [Central Asia](/regions/central-asia.md) and beyond:
 
-- **Kazakhstan hosted C5+1 critical minerals talks**: Geological exploration, mining, processing, and value chains were on the agenda. [Kazakhstan](/actors/kazakhstan.md) is positioning itself as a critical minerals hub at the intersection of Chinese, Russian, and Western interests.
+- **Kazakhstan hosted C5+1 critical minerals talks**: Geological exploration, mining, processing, and value chains were on the agenda. [Kazakhstan](/actors/countries/kazakhstan.md) is positioning itself as a critical minerals hub at the intersection of Chinese, Russian, and Western interests.
 - **Central Asia's resource wealth and Chinese investment**: Central Asia is rich in natural resources, with China as the largest investor — approximately 90% of FDI in resource-rich Central Asian states comes from China. China is shifting from infrastructure megaprojects to mineral extraction and manufacturing relocation, reflecting a strategic recalibration of the Belt and Road Initiative.
-- **Export-control friction with Japan**: Semiconductor-related export controls have created friction with [Japan](/actors/japan.md), illustrating how mineral and technology supply chains are entangled with security policy.
+- **Export-control friction with Japan**: Semiconductor-related export controls have created friction with [Japan](/actors/countries/japan.md), illustrating how mineral and technology supply chains are entangled with security policy.
 - **AI supply chains and Pax Silica**: Tchakarova's Pax Silica concept frames the semiconductor supply chain as a geopolitical architecture — the silicon-based economy's dependence on specific minerals, processing capacity, and manufacturing concentration creates a new axis of strategic competition.
 - **Rare earth supply chain weaponization**: China introduced a rare-earth licensing regime granting Beijing power to dictate which companies and countries receive resources essential for semiconductors and defense applications. The regime was temporarily paused following Trump-Xi talks but remains a structural lever [8].
 

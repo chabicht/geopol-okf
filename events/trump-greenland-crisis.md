@@ -9,7 +9,7 @@ timestamp: 2026-01-20T00:00:00Z
 
 # Background
 
-Greenland is an autonomous territory of Denmark, leaving the EU in 1985 (long before Brexit) over fisheries policy. It is of strategic interest to the [United States](/actors/united-states.md) due to its Arctic location, mineral resources, and relevance to maritime security. [Trump](/actors/trump.md) has declared his intention to "take" the island, citing "national security" concerns, and has imposed escalating punitive tariffs — 10% on eight countries: Denmark, Norway, Sweden, Finland, the UK, [Germany](/actors/germany.md), [France](/actors/france.md), and the Netherlands — to force European acquiescence.
+Greenland is an autonomous territory of Denmark, leaving the EU in 1985 (long before Brexit) over fisheries policy. It is of strategic interest to the [United States](/actors/countries/united-states.md) due to its Arctic location, mineral resources, and relevance to maritime security. [Trump](/actors/trump.md) has declared his intention to "take" the island, citing "national security" concerns, and has imposed escalating punitive tariffs — 10% on eight countries: Denmark, Norway, Sweden, Finland, the UK, [Germany](/actors/countries/germany.md), [France](/actors/countries/france.md), and the Netherlands — to force European acquiescence.
 
 # Current Situation
 
@@ -31,7 +31,7 @@ Trump has multiple escalation options: imposing his own peace treaty on [Ukraine
 
 ### The Fracturing of the European Right
 
-Trump's Greenland threats have tainted by association every European populist group that aligned with him. The [National Rally](/actors/france.md)'s Jordan Bardella criticized Trump's "imperial ambitions" in his New Year's address, warning against "a return to imperial ambitions" and "the law of the strongest." The [AfD](/actors/germany.md)'s Alice Weidel and Tino Chrupalla issued tepid criticism — rare from a party that previously embraced Trump — with only 12% of Germans viewing Trump's performance positively and only 15% seeing the US as a trustworthy partner (a new low).
+Trump's Greenland threats have tainted by association every European populist group that aligned with him. The [National Rally](/actors/countries/france.md)'s Jordan Bardella criticized Trump's "imperial ambitions" in his New Year's address, warning against "a return to imperial ambitions" and "the law of the strongest." The [AfD](/actors/countries/germany.md)'s Alice Weidel and Tino Chrupalla issued tepid criticism — rare from a party that previously embraced Trump — with only 12% of Germans viewing Trump's performance positively and only 15% seeing the US as a trustworthy partner (a new low).
 
 Harrington argues that Trump has "royally screwed the European Right" by turning on Denmark, whose soldiers fought alongside Americans in Afghanistan. The hope for a nationalist Internationale — fanned by the State Department's call for "civilisational allies in Europe" and the NSS's praise for "patriotic parties" — has collapsed. Instead, Trump's actions have increased the likelihood that any European consolidation will happen under the existing technocratic coalition, complete with the climate, censorship, and immigration policies Trump's own NSS decries. The Canadian precedent — where Trump's threats produced an anti-Trump groundswell that elected Carney over the right-wing candidate — may repeat in Europe.
 

@@ -64,7 +64,7 @@ This asymmetry means that aggregate systemic stress can increase even as the mos
 
 Tchakarova identifies the base case as "Hot Peace and Cold War": multipolar diplomacy operating inside increasingly bifurcated financial, technological, industrial, and security systems. Washington and Beijing preserved the headline trade truce while escalating through blacklists, export controls, procurement bans, biotech restrictions, robotics, and rare-earth chokepoints. Full Cold War 2.0 escalation is now the second-most-probable configuration at approximately 27%. The decisive variable is the sixty-day Iran Memorandum window expiring in mid-August — if it holds, the system gains time but not stability; if it fails, Hormuz, Lebanon, Ukraine, Taiwan, and critical minerals can reactivate together within hours. June did not turn the ship away from the rocks — it slowed the engines, narrowed the margin for error, and made the next turn more consequential [2].
 
-The DragonBear axis emerged from the Iran war more operationally coordinated but more visibly hierarchical. [China](/actors/china.md) is expanding yuan settlement, CIPS throughput, and sanctions-resistant energy infrastructure, while [Russia](/actors/russia.md) has become more dependent on Chinese pricing power and market access. The axis deepened beneath the surface of de-escalation: the trade truce is a headline, not a structural reality [2].
+The DragonBear axis emerged from the Iran war more operationally coordinated but more visibly hierarchical. [China](/actors/countries/china.md) is expanding yuan settlement, CIPS throughput, and sanctions-resistant energy infrastructure, while [Russia](/actors/countries/russia.md) has become more dependent on Chinese pricing power and market access. The axis deepened beneath the surface of de-escalation: the trade truce is a headline, not a structural reality [2].
 
 ## Polycrisis and Permanent Damage
 
@@ -79,13 +79,13 @@ A super El Nino in the pipeline threatens concurrent crop failures, potentially 
 1. [Trump](/actors/trump.md)'s trade policy rampage.
 2. The extraordinary incontinence of US fiscal policy.
 3. The AI boom, which has taken on global economic scale.
-4. The gear-shift in [China](/actors/china.md)'s economic policy.
+4. The gear-shift in [China](/actors/countries/china.md)'s economic policy.
 
 China Shock 2.0 reflects #4. If trade protection and industrial bargaining are the solution, that risks compounding the disorder personified by Trump (#1). But doing nothing — spectacular, uncontrolled deindustrialization — is a serious risk for Europe. The four disrupters interact: the AI boom (#3) is centered in the US but its benefits are K-shaped, while China's export surge (#4) is walled off from the AI asset boom by capital controls, creating a "strange combination" of two powerful forces "to a degree separated and disconnected" in the same world economy [4].
 
 ## Sanctions and Financial Warfare Erosion
 
-The GSR framework extends to the erosion of Western financial coercive power. Sanctions enforcement suffers from a fundamental misalignment: sanctions use Harmonised System (HS) codes for specific goods, while banks use industry classification codes (ISIC) for customer monitoring. Meanwhile, [Iran](/actors/iran.md)'s oil-backed shadow banking system demonstrates that adversary financial architecture can operate entirely outside Western reach. As sanctioned states deepen their reliance on [organised criminal networks](/themes/organised-crime-and-statecraft.md) for sanctions evasion, the Western financial system's coercive power diminishes — contributing to the systemic rupture by weakening one of the key instruments through which the US-led order manages crises short of war [6][7].
+The GSR framework extends to the erosion of Western financial coercive power. Sanctions enforcement suffers from a fundamental misalignment: sanctions use Harmonised System (HS) codes for specific goods, while banks use industry classification codes (ISIC) for customer monitoring. Meanwhile, [Iran](/actors/countries/iran.md)'s oil-backed shadow banking system demonstrates that adversary financial architecture can operate entirely outside Western reach. As sanctioned states deepen their reliance on [organised criminal networks](/themes/organised-crime-and-statecraft.md) for sanctions evasion, the Western financial system's coercive power diminishes — contributing to the systemic rupture by weakening one of the key instruments through which the US-led order manages crises short of war [6][7].
 
 # Citations
 

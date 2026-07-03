@@ -9,13 +9,13 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Belarus under [Lukashenka](/actors/lukashenka.md) is one of two allies with which [Russia](/actors/russia.md) cannot wage war — the other being [China](/actors/china.md). This gives Belarus a degree of leverage within the Russian orbit that other client states lack. Belarus's geographic position — with Minsk much closer to Kyiv than Kyiv is to Crimea — makes it both a forward base for Russian operations and a target exposed to Ukrainian retaliation.
+Belarus under [Lukashenka](/actors/lukashenka.md) is one of two allies with which [Russia](/actors/countries/russia.md) cannot wage war — the other being [China](/actors/countries/china.md). This gives Belarus a degree of leverage within the Russian orbit that other client states lack. Belarus's geographic position — with Minsk much closer to Kyiv than Kyiv is to Crimea — makes it both a forward base for Russian operations and a target exposed to Ukrainian retaliation.
 
 # Current Situation
 
 ## Bending to Ukrainian Pressure
 
-Lukashenka bent to Ukrainian threats and turned off radio guidance equipment that was helping Russia direct long-range strikes. This is a significant concession: the equipment was actively supporting Russian military operations against [Ukraine](/actors/ukraine.md), and its removal degrades Russian strike capability.
+Lukashenka bent to Ukrainian threats and turned off radio guidance equipment that was helping Russia direct long-range strikes. This is a significant concession: the equipment was actively supporting Russian military operations against [Ukraine](/actors/countries/ukraine.md), and its removal degrades Russian strike capability.
 
 Lukashenka has a rat-like sense of survival. Changing tack publicly means his perceptions of the war's trajectory are adjusting — he is hedging against a Russian defeat.
 

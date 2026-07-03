@@ -35,7 +35,7 @@ The strategy signals to Washington that Europe is ready to shoulder the conventi
 
 ## Taiwan
 
-Along with [France](/actors/france.md) and Britain, Germany issued a rare joint statement on [Taiwan](/actors/taiwan.md) through de facto embassies in Taipei. This signals that European powers now treat Taiwan as integral to the global order — a position that extends German strategic concern beyond the European theater.
+Along with [France](/actors/countries/france.md) and Britain, Germany issued a rare joint statement on [Taiwan](/actors/countries/taiwan.md) through de facto embassies in Taipei. This signals that European powers now treat Taiwan as integral to the global order — a position that extends German strategic concern beyond the European theater.
 
 ## UN Security Council Defeat
 
@@ -47,7 +47,7 @@ Germany's far-right AfD has long sought close ties to the [Trump](/actors/trump.
 
 ## China Shock 2.0 and the Auto Crisis
 
-Germany is at the epicenter of what [Adam Tooze](/actors/adam-tooze.md) calls "China Shock 2.0" — the current wave of Chinese export competition that differs fundamentally from the early-2000s "China Shock 1.0." Germany's trade balance with [China](/actors/china.md) swung by €27 billion between 2021 and 2025, with 60% of that swing accounted for by vehicles. Chancellor Merz has taken up the accusation of an undervaluced Chinese currency. Volkswagen announced plans to cut up to 100,000 jobs, conveying the depth of the industrial crisis [6].
+Germany is at the epicenter of what [Adam Tooze](/actors/adam-tooze.md) calls "China Shock 2.0" — the current wave of Chinese export competition that differs fundamentally from the early-2000s "China Shock 1.0." Germany's trade balance with [China](/actors/countries/china.md) swung by €27 billion between 2021 and 2025, with 60% of that swing accounted for by vehicles. Chancellor Merz has taken up the accusation of an undervaluced Chinese currency. Volkswagen announced plans to cut up to 100,000 jobs, conveying the depth of the industrial crisis [6].
 
 Tooze frames this as "mercantilist-on-mercantilist violence": Germany is itself a chronic trade surplus country, so China Shock 2.0 is competitive surplus against surplus, not the classic deficit-country-versus-surplus-country story. The irony is that German automakers paid out €31 billion in dividends in 2023 alone — as the Chinese EV avalanche was already upon them — rather than reinvesting in needed innovation. As Tordoir and Setser put it, "complacency is the besetting sin of European and particularly German industrial policy." [6]
 

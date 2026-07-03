@@ -15,7 +15,7 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Background
 
-The 2026 DNI threat assessment elevated AI alongside quantum computing as a central driver of national power and strategic risk. [China](/actors/china.md) aims to displace the [United States](/actors/united-states.md) as the global AI leader by 2030, leveraging civil-military fusion to integrate commercial AI capabilities directly into military modernization. Open-source Chinese models trail US frontier models by approximately 3–6 months; broader estimates place the gap at roughly 7 months — narrow enough that the competition is not about who has the best model but about who can operationalize AI faster.
+The 2026 DNI threat assessment elevated AI alongside quantum computing as a central driver of national power and strategic risk. [China](/actors/countries/china.md) aims to displace the [United States](/actors/countries/united-states.md) as the global AI leader by 2030, leveraging civil-military fusion to integrate commercial AI capabilities directly into military modernization. Open-source Chinese models trail US frontier models by approximately 3–6 months; broader estimates place the gap at roughly 7 months — narrow enough that the competition is not about who has the best model but about who can operationalize AI faster.
 
 # Current Situation
 

@@ -17,7 +17,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 The US-Iran War began on February 28, 2026, when the United States initiated military action against Iran. Despite the scale of the intervention, Iran retained control of the Strait of Hormuz throughout the conflict — a chokepoint through which roughly 20 million barrels per day (mbpd) of petroleum liquids flow, representing approximately 20% of global supply. The war resulted in the loss of approximately 10 mbpd of effective daily supply against the Hormuz baseline. Pipeline bypass options proved structurally thin: Saudi and UAE limited capacity was an order of magnitude short of what would be needed to compensate for the disrupted Hormuz throughput.
 
-The conflict drew in multiple actors and exposed structural vulnerabilities in the global energy system, US military posture, and the Western alliance framework. The [United States](/actors/united-states.md) initiated hostilities as a personal decision by [Donald Trump](/actors/trump.md), while [Iran](/actors/iran.md) leveraged its geographic control of Hormuz to maintain coercive leverage even under bombardment. [Israel](/actors/israel.md) operated as a parallel actor whose interests overlapped with but did not align perfectly with US objectives.
+The conflict drew in multiple actors and exposed structural vulnerabilities in the global energy system, US military posture, and the Western alliance framework. The [United States](/actors/countries/united-states.md) initiated hostilities as a personal decision by [Donald Trump](/actors/trump.md), while [Iran](/actors/countries/iran.md) leveraged its geographic control of Hormuz to maintain coercive leverage even under bombardment. [Israel](/actors/countries/israel.md) operated as a parallel actor whose interests overlapped with but did not align perfectly with US objectives.
 
 ## Pre-War Context
 
@@ -62,7 +62,7 @@ Pape frames the dynamic as a shift in Iran's negotiating posture: Iran moved fro
 
 [The Honest Sorcerer](/actors/the-honest-sorcerer.md) provides the most detailed tracking of the energy cascade across the war's timeline:
 
-- **Week 1 (early March)**: The Strait of Hormuz shutdown reduced tanker traffic from 40/day to 1. The diesel/jet fuel crisis began. LNG disruption took [Qatar](/actors/qatar.md)'s 1/5 of global capacity offline. [Egypt](/regions/middle-east.md)'s existential crisis began as Suez transit collapsed. European gas storage dropped below seasonal norms [7].
+- **Week 1 (early March)**: The Strait of Hormuz shutdown reduced tanker traffic from 40/day to 1. The diesel/jet fuel crisis began. LNG disruption took [Qatar](/actors/countries/qatar.md)'s 1/5 of global capacity offline. [Egypt](/regions/middle-east.md)'s existential crisis began as Suez transit collapsed. European gas storage dropped below seasonal norms [7].
 - **Week 2 (mid-March)**: The 16M barrel/day shortfall (crude + refined) became visible. Pipeline diversion to Yanbu was insufficient. Iran continued exports to China. The Bab-el-Mandeb chokepoint was affected by Houthi activity. Operation Prosperity Guardian's failure was confirmed. Insurance withdrawal from Gulf shipping [8].
 - **Week 4-5 (early April)**: 500M barrels lost cumulatively. Iran's 80% missile hit rate against US bases. The US running out of munitions. Iran proposed a $2M toll per tanker transit (paid in rials). Trump threatened to escalate to wholesale destruction [9].
 - **Week 6 (mid-April)**: The US imposed a [naval blockade](/events/us-naval-blockade-iran.md) on Iranian ports — a counter-blockade. Secondary sanctions on Chinese banks. Iran threatened to block the Red Sea. The US struck the South Pars gas field (shared with Qatar). The Pentagon sought help from automakers for military production [10].
@@ -73,7 +73,7 @@ Pape frames the dynamic as a shift in Iran's negotiating posture: Iran moved fro
 
 [Endtropy](/actors/endtropy.md) draws historical parallels between the US-Iran counter-blockade dynamics and Napoleonic warfare. Napoleon's Continental System — the attempt to blockade British trade — generated adaptive responses (smuggling, redirecting trade through neutral ports, financial workarounds) that ultimately undermined the blockade's effectiveness. The US counter-blockade of Iranian ports produced analogous responses: Iran redirected oil exports through non-dollar channels, Chinese banks developed alternative settlement systems, and the [monetary system transition](/themes/monetary-system-transition.md) accelerated [13].
 
-The counter-blockade revealed the war's true objective: controlling oil flow to [China](/actors/china.md), not uranium enrichment. By blockading Iranian ports while imposing secondary sanctions on Chinese banks, the US attempted to sever the energy pipeline sustaining the DragonBear axis [10][13].
+The counter-blockade revealed the war's true objective: controlling oil flow to [China](/actors/countries/china.md), not uranium enrichment. By blockading Iranian ports while imposing secondary sanctions on Chinese banks, the US attempted to sever the energy pipeline sustaining the DragonBear axis [10][13].
 
 ## Buffer Depletion
 
@@ -93,12 +93,12 @@ Tchakarova's follow-up analysis dismantles the market narrative that the oil pri
 
 The price decline was driven by four distinct offsets working simultaneously rather than any single fix [22]:
 
-1. **Physical rerouting**: [Saudi Arabia](/actors/saudi-arabia.md) pushed additional volumes through its East-West pipeline to the Red Sea; the [UAE](/actors/uae.md) diverted crude through its own bypass route toward [Oman](/actors/oman.md); Iran itself exported more oil during the war than before it, using shadow fleets, ship-to-ship transfers, and steep discounts.
+1. **Physical rerouting**: [Saudi Arabia](/actors/countries/saudi-arabia.md) pushed additional volumes through its East-West pipeline to the Red Sea; the [UAE](/actors/countries/uae.md) diverted crude through its own bypass route toward [Oman](/actors/countries/oman.md); Iran itself exported more oil during the war than before it, using shadow fleets, ship-to-ship transfers, and steep discounts.
 2. **Coordinated reserve releases**: Industrialized economies released more than 300 million barrels from strategic reserves — the largest emergency drawdown in the mechanism's history — even as it pushed American reserves toward their lowest levels since the 1980s.
-3. **China demand destruction**: [China](/actors/china.md)'s crude imports fell by roughly 40% — close to five million barrels a day — as the country drew down stockpiles built during a period of aggressive buying rather than bid aggressively into a tightening market.
+3. **China demand destruction**: [China](/actors/countries/china.md)'s crude imports fell by roughly 40% — close to five million barrels a day — as the country drew down stockpiles built during a period of aggressive buying rather than bid aggressively into a tightening market.
 4. **Broader demand erosion**: Global oil demand contracted by an estimated 5.5 million barrels a day in Q2 2026, compounding the Chinese pullback. Asian governments and firms trimmed energy-intensive activity at the margins.
 
-These offsets covered most, though not all, of the feared shortfall, which is why prices settled in a wartime range of $80–110 rather than spiking toward the theoretical worst case. The subsequent decline toward pre-war levels reflected demand contraction, not supply restoration. Full restoration of export capacity is expected to take many months, with [Qatar](/actors/qatar.md)'s damaged LNG facilities potentially requiring years rather than months to repair. Shipping costs in waters south of Iran have climbed to roughly 5.5 times pre-war levels, and tanker charter rates have surged to nearly nine times pre-war norms [22].
+These offsets covered most, though not all, of the feared shortfall, which is why prices settled in a wartime range of $80–110 rather than spiking toward the theoretical worst case. The subsequent decline toward pre-war levels reflected demand contraction, not supply restoration. Full restoration of export capacity is expected to take many months, with [Qatar](/actors/countries/qatar.md)'s damaged LNG facilities potentially requiring years rather than months to repair. Shipping costs in waters south of Iran have climbed to roughly 5.5 times pre-war levels, and tanker charter rates have surged to nearly nine times pre-war norms [22].
 
 ## Scenario Modeling
 
@@ -122,7 +122,7 @@ Tchakarova reframes the ceasefire not as an American coercive success but as an 
 
 ## US-Israel Strategic Divergence
 
-The war produced a lasting strategic divergence between the [United States](/actors/united-states.md) and [Israel](/actors/israel.md). Washington seeks to use military gains to create a diplomatic framework that constrains Iran while stabilizing the region, whereas Israel remains skeptical that an ideologically driven regime can be durably moderated through negotiation. VP Vance publicly rebuked Israeli cabinet members for criticizing U.S. diplomacy, stating that Israel "might not be attacking the only powerful ally that I have anywhere left in the entire world." Washington conducted ceasefire negotiations through Pakistani mediation without Israeli participation, despite Israel bearing much of the war's cost and risk. Israel has shifted operational focus to Lebanon, where Hezbollah represents a more immediate threat, and fears that any Iranian financial relief will rebuild Hezbollah [23].
+The war produced a lasting strategic divergence between the [United States](/actors/countries/united-states.md) and [Israel](/actors/countries/israel.md). Washington seeks to use military gains to create a diplomatic framework that constrains Iran while stabilizing the region, whereas Israel remains skeptical that an ideologically driven regime can be durably moderated through negotiation. VP Vance publicly rebuked Israeli cabinet members for criticizing U.S. diplomacy, stating that Israel "might not be attacking the only powerful ally that I have anywhere left in the entire world." Washington conducted ceasefire negotiations through Pakistani mediation without Israeli participation, despite Israel bearing much of the war's cost and risk. Israel has shifted operational focus to Lebanon, where Hezbollah represents a more immediate threat, and fears that any Iranian financial relief will rebuild Hezbollah [23].
 
 ## Iran's External Operations Escalation
 
@@ -130,7 +130,7 @@ Post-war Iran has escalated external operations in Europe through the IRGC's "gi
 
 ## Regional Realignment
 
-The war accelerated regional diplomatic realignment. [Saudi Arabia](/actors/saudi-arabia.md) conducted secret negotiations with Iran through [Pakistan](/actors/pakistan.md), with Russian and Chinese support, aiming at a non-aggression pact. [Oman](/actors/oman.md) co-negotiated a [permanent toll system](/events/hormuz-toll-system.md) for Hormuz. These initiatives signal the end of the US monopoly on Middle East security architecture — regional powers are negotiating their own stability with non-Western guarantors [18].
+The war accelerated regional diplomatic realignment. [Saudi Arabia](/actors/countries/saudi-arabia.md) conducted secret negotiations with Iran through [Pakistan](/actors/countries/pakistan.md), with Russian and Chinese support, aiming at a non-aggression pact. [Oman](/actors/countries/oman.md) co-negotiated a [permanent toll system](/events/hormuz-toll-system.md) for Hormuz. These initiatives signal the end of the US monopoly on Middle East security architecture — regional powers are negotiating their own stability with non-Western guarantors [18].
 
 ## Technology and Cost Dynamics
 
@@ -146,7 +146,7 @@ Pape introduces the concept of "controlled instability" as Iran's post-war strat
 
 O'Brien argues that Trump's personal decision to attack Iran was not in the national interest and was made without political pressure to do so. This leads him to a broader theoretical claim: wars are choices of individual leaders, not state actors pursuing national interest — a finding that directly challenges the assumptions of realism [2].
 
-By May 2026, O'Brien reports Trump was "desperate to exit" the war but unable to, with no good military options. The emerging Iran deal was worse than the JCPOA. Trump called on Arab states to join the Abraham Accords to appease Netanyahu and GOP hardliners, and [China](/actors/china.md) was backing Iran while treating [Taiwan](/conflicts/taiwan-standoff.md) as a "chip" in the broader negotiation [19].
+By May 2026, O'Brien reports Trump was "desperate to exit" the war but unable to, with no good military options. The emerging Iran deal was worse than the JCPOA. Trump called on Arab states to join the Abraham Accords to appease Netanyahu and GOP hardliners, and [China](/actors/countries/china.md) was backing Iran while treating [Taiwan](/conflicts/taiwan-standoff.md) as a "chip" in the broader negotiation [19].
 
 Pape reinforces this by noting that states gaining leverage rarely hurry to end wars. Once Iran recognized it held the dominant position, it had no incentive to concede quickly, and the protracted conflict served its interests [5].
 

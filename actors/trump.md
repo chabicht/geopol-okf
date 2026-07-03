@@ -9,7 +9,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-Donald Trump is the 45th and 47th President of the [United States](/actors/united-states.md), returned to office in 2025. His second term has been defined by a discretionary strike on Iran, a continued personal soft spot for [Vladimir Putin](/actors/putin.md), and an aggressive unilateral trade and diplomatic posture that has disrupted long-standing US alliances.
+Donald Trump is the 45th and 47th President of the [United States](/actors/countries/united-states.md), returned to office in 2025. His second term has been defined by a discretionary strike on Iran, a continued personal soft spot for [Vladimir Putin](/actors/putin.md), and an aggressive unilateral trade and diplomatic posture that has disrupted long-standing US alliances.
 
 # Current Situation
 
@@ -19,7 +19,7 @@ Trump's decision to attack Iran in 2026 was, per O'Brien, not driven by national
 
 Notably, the US public response broke the standard pattern: Trump's base supported whatever he wanted to do, the opposition opposed the war from the start, and there was no measurable patriotic surge behind the commander-in-chief. [1]
 
-By May 2026, O'Brien reported Trump was "desperate to exit" the war but unable to, with no good military options. The emerging Iran deal was worse than the JCPOA. Trump called on Arab states to join the Abraham Accords to appease Netanyahu and GOP hardliners, while [China](/actors/china.md) backed Iran and treated [Taiwan](/conflicts/taiwan-standoff.md) as a "chip" in the broader negotiation [7].
+By May 2026, O'Brien reported Trump was "desperate to exit" the war but unable to, with no good military options. The emerging Iran deal was worse than the JCPOA. Trump called on Arab states to join the Abraham Accords to appease Netanyahu and GOP hardliners, while [China](/actors/countries/china.md) backed Iran and treated [Taiwan](/conflicts/taiwan-standoff.md) as a "chip" in the broader negotiation [7].
 
 ## Allies Left in the Dark
 
@@ -39,7 +39,7 @@ Trump backs conservative governments in Latin America and is associated with the
 
 ## Greenland Crisis
 
-Trump has declared his intention to "take" Greenland, imposing 10% punitive tariffs on eight NW European states (Denmark, Norway, Sweden, Finland, the UK, [Germany](/actors/germany.md), [France](/actors/france.md), and the Netherlands) to force European acquiescence. The move has fractured the European Right, alienated NATO allies, and signaled the end of "the West" as a cohesive concept. Europe's inability to respond — divided between sanctioned and unsanctioned member states, lacking military and economic cohesion — demonstrates the primacy of geography and hard power over institutional frameworks. See [Trump's Greenland Crisis](/events/trump-greenland-crisis.md) [8][9][10][11].
+Trump has declared his intention to "take" Greenland, imposing 10% punitive tariffs on eight NW European states (Denmark, Norway, Sweden, Finland, the UK, [Germany](/actors/countries/germany.md), [France](/actors/countries/france.md), and the Netherlands) to force European acquiescence. The move has fractured the European Right, alienated NATO allies, and signaled the end of "the West" as a cohesive concept. Europe's inability to respond — divided between sanctioned and unsanctioned member states, lacking military and economic cohesion — demonstrates the primacy of geography and hard power over institutional frameworks. See [Trump's Greenland Crisis](/events/trump-greenland-crisis.md) [8][9][10][11].
 
 ## ICE, Vance, and Governance as Spectacle
 

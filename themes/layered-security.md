@@ -17,10 +17,10 @@ States are now expanding defense cooperation outside traditional structures, inv
 
 The shift is visible across multiple theaters:
 
-- **Turkey** remains embedded in NATO for deterrence but pursues independent defense cooperation with Saudi Arabia and [Pakistan](/actors/pakistan.md), reflecting shared interests in defense production, training, and regional balancing — not formal collective defense.
+- **Turkey** remains embedded in NATO for deterrence but pursues independent defense cooperation with Saudi Arabia and [Pakistan](/actors/countries/pakistan.md), reflecting shared interests in defense production, training, and regional balancing — not formal collective defense.
 - **Poland** supplements NATO membership with deeper bilateral defense cooperation with the UK and tighter regional integration with the Baltic states, emphasizing speed, forward presence, and tailored interoperability.
 - **Japan** expands security cooperation beyond its traditional reliance on the US by institutionalizing defense ties with the Philippines, focusing on access, joint exercises, and maritime security without constructing a formal alliance.
-- **CSTO revitalization**: [Russia](/actors/russia.md) is attempting to revive the Collective Security Treaty Organization through standardization of Central Asian militaries, weapons exports, and expanded deployment authorities — but the alliance remains hampered by Armenia's frozen membership, divergent threat perceptions, and distrust of Russian security guarantees.
+- **CSTO revitalization**: [Russia](/actors/countries/russia.md) is attempting to revive the Collective Security Treaty Organization through standardization of Central Asian militaries, weapons exports, and expanded deployment authorities — but the alliance remains hampered by Armenia's frozen membership, divergent threat perceptions, and distrust of Russian security guarantees.
 
 # Key Dynamics
 
@@ -37,7 +37,7 @@ The shift from rigid alliance blocs to layered security is not a departure from 
 
 ### CSTO as Cautionary Tale
 
-The [CSTO](/actors/russia.md) illustrates the failure mode of rigid alliance frameworks when commitments are unsupported by legitimacy and capability. Its repeated failures to defend Armenia during conflicts with Azerbaijan (2016–2023), the refusal of member states to support Russia's position on Crimea, and Armenia's frozen membership demonstrate that collective defense agreements are only as credible as the power and willingness behind them. Russia's current revitalization effort — standardizing equipment, expanding deployment authorities, conducting crisis exercises — attempts to address these weaknesses, but the fundamental problem of divergent threat perceptions and distrust of Russian guarantees persists.
+The [CSTO](/actors/countries/russia.md) illustrates the failure mode of rigid alliance frameworks when commitments are unsupported by legitimacy and capability. Its repeated failures to defend Armenia during conflicts with Azerbaijan (2016–2023), the refusal of member states to support Russia's position on Crimea, and Armenia's frozen membership demonstrate that collective defense agreements are only as credible as the power and willingness behind them. Russia's current revitalization effort — standardizing equipment, expanding deployment authorities, conducting crisis exercises — attempts to address these weaknesses, but the fundamental problem of divergent threat perceptions and distrust of Russian guarantees persists.
 
 ### Implications for Great Power Competition
 

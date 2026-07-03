@@ -9,9 +9,9 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-Russia is a revisionist power seeking to overturn the post-Cold War order. Its presidency under [Putin](/actors/putin.md) has been defined from day one by the Chechen conflict — the second Chechen war was effectively Putin's presidential campaign. The war in [Ukraine](/actors/ukraine.md) has become the central strategic commitment, consuming manpower and equipment at rates that force trade-offs across all other theaters of operation.
+Russia is a revisionist power seeking to overturn the post-Cold War order. Its presidency under [Putin](/actors/putin.md) has been defined from day one by the Chechen conflict — the second Chechen war was effectively Putin's presidential campaign. The war in [Ukraine](/actors/countries/ukraine.md) has become the central strategic commitment, consuming manpower and equipment at rates that force trade-offs across all other theaters of operation.
 
-Russia anchors the DragonBear axis alongside [China](/actors/china.md), coordinating pressure on the Western coalition as part of the broader [Cold War 2](/conflicts/cold-war-2.md).
+Russia anchors the DragonBear axis alongside [China](/actors/countries/china.md), coordinating pressure on the Western coalition as part of the broader [Cold War 2](/conflicts/cold-war-2.md).
 
 # Current Situation
 
@@ -27,7 +27,7 @@ In May 2026, Ukraine conducted a major [drone strike on Moscow](/events/moscow-d
 
 ## Africa
 
-Russia's reputation as a regime guarantor has been damaged by failures in Syria and Venezuela. In [Africa](/regions/africa.md), the transition from Wagner to the [Africa Corps](/actors/wagner-africa-corps.md) has produced a more bureaucratic, less flexible instrument — one vulnerable to wider strategic constraints as resources are prioritized for the Ukraine front. [Turkey](/actors/turkey.md) sees an opening in Mali as Russian security support shows its limits.
+Russia's reputation as a regime guarantor has been damaged by failures in Syria and Venezuela. In [Africa](/regions/africa.md), the transition from Wagner to the [Africa Corps](/actors/wagner-africa-corps.md) has produced a more bureaucratic, less flexible instrument — one vulnerable to wider strategic constraints as resources are prioritized for the Ukraine front. [Turkey](/actors/countries/turkey.md) sees an opening in Mali as Russian security support shows its limits.
 
 ## Misreading of America First
 
@@ -35,7 +35,7 @@ Moscow fundamentally misjudged [Trump](/actors/trump.md)'s America First as isol
 
 ## Resettlement Campaign in Occupied Ukraine
 
-Russia is conducting a systematic [resettlement campaign](/events/russia-resettlement-campaign.md) to repopulate occupied [Ukraine](/actors/ukraine.md) with Russian citizens through weaponized property law, preferential mortgages, and demographic engineering. With 75% of apartments in occupied Mariupol purchased by Russian immigrants and plans to resettle 114,000 Russians by 2045, the campaign aims to engineer a demographic reality that entrenches occupation governance and complicates any future reintegration into Ukraine. The campaign violates the Fourth Geneva Convention's prohibition on transferring occupier populations into occupied territory [10].
+Russia is conducting a systematic [resettlement campaign](/events/russia-resettlement-campaign.md) to repopulate occupied [Ukraine](/actors/countries/ukraine.md) with Russian citizens through weaponized property law, preferential mortgages, and demographic engineering. With 75% of apartments in occupied Mariupol purchased by Russian immigrants and plans to resettle 114,000 Russians by 2045, the campaign aims to engineer a demographic reality that entrenches occupation governance and complicates any future reintegration into Ukraine. The campaign violates the Fourth Geneva Convention's prohibition on transferring occupier populations into occupied territory [10].
 
 ## Kadyrov as Islamic Messenger
 

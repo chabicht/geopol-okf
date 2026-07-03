@@ -9,7 +9,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Wagner was [Russia](/actors/russia.md)'s private military company — brutal, opportunistic, commercially predatory, but operationally flexible. It operated through informal networks and rapid tactical decision-making, allowing it to project Russian influence in [Africa](/regions/africa.md) and the [Middle East](/regions/middle-east.md) with deniability and speed. Following the death of Prigozhin and the absorption of Wagner assets into the Russian Defense Ministry, the Africa Corps emerged as the successor instrument — more directly tied to state structures, more bureaucratic, and more vulnerable to wider strategic constraints.
+Wagner was [Russia](/actors/countries/russia.md)'s private military company — brutal, opportunistic, commercially predatory, but operationally flexible. It operated through informal networks and rapid tactical decision-making, allowing it to project Russian influence in [Africa](/regions/africa.md) and the [Middle East](/regions/middle-east.md) with deniability and speed. Following the death of Prigozhin and the absorption of Wagner assets into the Russian Defense Ministry, the Africa Corps emerged as the successor instrument — more directly tied to state structures, more bureaucratic, and more vulnerable to wider strategic constraints.
 
 # Current Situation
 
@@ -19,15 +19,15 @@ The transition from Wagner to the Africa Corps has made problems sharper in [Afr
 
 ## Operational Failures
 
-Multiple operational failures have accumulated. Moscow has not delivered on promises made to African partners. [Russia](/actors/russia.md)'s reputation as a regime guarantor has been damaged by failures in Syria and Venezuela — demonstrating that Russian security guarantees are conditional on resources that are increasingly scarce. [1]
+Multiple operational failures have accumulated. Moscow has not delivered on promises made to African partners. [Russia](/actors/countries/russia.md)'s reputation as a regime guarantor has been damaged by failures in Syria and Venezuela — demonstrating that Russian security guarantees are conditional on resources that are increasingly scarce. [1]
 
 ## Ukraine Prioritization
 
-The [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) is forcing [Russia](/actors/russia.md) to prioritize manpower and equipment for the European front. African deployments are less acute in the hierarchy of Russian strategic needs. This resource starvation is the structural driver behind the Africa Corps' deteriorating performance — it is not a tactical failure but a prioritization consequence. [1]
+The [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) is forcing [Russia](/actors/countries/russia.md) to prioritize manpower and equipment for the European front. African deployments are less acute in the hierarchy of Russian strategic needs. This resource starvation is the structural driver behind the Africa Corps' deteriorating performance — it is not a tactical failure but a prioritization consequence. [1]
 
 ## Turkish Opening
 
-[Turkey](/actors/turkey.md) sees an opening in [Mali](/conflicts/sahel-insurgency.md) as Russian security support shows its limits. The contraction of Russian presence creates space for alternative security providers, and Turkey is positioned to fill it. [1]
+[Turkey](/actors/countries/turkey.md) sees an opening in [Mali](/conflicts/sahel-insurgency.md) as Russian security support shows its limits. The contraction of Russian presence creates space for alternative security providers, and Turkey is positioned to fill it. [1]
 
 # Analysis
 

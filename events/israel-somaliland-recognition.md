@@ -30,11 +30,11 @@ Israel's move has solidified rival alignments in the Horn of Africa:
 
 ## Turkey's Role
 
-[Turkey](/actors/turkey.md) has emerged as Somalia's most important external patron, providing military training, arms, infrastructure investment, and diplomatic support — largely at the expense of the UAE, whose relationship with Somalia deteriorated over port concessions and a 2018 cash-seizure incident. Turkey built a large military training base in Mogadishu and signed major port and infrastructure deals in 2024, becoming Somalia's primary external security and economic partner. This reinforces the Israel-Turkey rivalry in the region.
+[Turkey](/actors/countries/turkey.md) has emerged as Somalia's most important external patron, providing military training, arms, infrastructure investment, and diplomatic support — largely at the expense of the UAE, whose relationship with Somalia deteriorated over port concessions and a 2018 cash-seizure incident. Turkey built a large military training base in Mogadishu and signed major port and infrastructure deals in 2024, becoming Somalia's primary external security and economic partner. This reinforces the Israel-Turkey rivalry in the region.
 
 ## Great-Power Implications
 
-Somaliland maintains relations with [Taiwan](/actors/taiwan.md), offering a rare diplomatic foothold in Africa that could complicate [China's](/actors/china.md) strategic environment near the Red Sea. In 2025, Hargeisa approached Washington offering military basing and critical minerals in exchange for recognition. While the US already has a base in Djibouti and sees little benefit in upsetting the status quo, the Taiwan connection could change the calculus — linking Middle Eastern security competition with [Indo-Pacific](/regions/indo-pacific.md) strategic rivalry.
+Somaliland maintains relations with [Taiwan](/actors/countries/taiwan.md), offering a rare diplomatic foothold in Africa that could complicate [China's](/actors/countries/china.md) strategic environment near the Red Sea. In 2025, Hargeisa approached Washington offering military basing and critical minerals in exchange for recognition. While the US already has a base in Djibouti and sees little benefit in upsetting the status quo, the Taiwan connection could change the calculus — linking Middle Eastern security competition with [Indo-Pacific](/regions/indo-pacific.md) strategic rivalry.
 
 # Analysis
 

@@ -9,17 +9,17 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-NATO is the cornerstone of Western collective defense, anchoring the security architecture of [Europe](/regions/europe.md) since 1949. The alliance has undergone profound transformation since the [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) reactivated Article 5 contingency planning, but its central challenge remains the same: balancing American military primacy with European conventional defense capacity. As the [United States](/actors/united-states.md) shifts priorities toward the Indo-Pacific and domestic constraints, NATO's burden-sharing debate has moved from rhetoric to existential necessity.
+NATO is the cornerstone of Western collective defense, anchoring the security architecture of [Europe](/regions/europe.md) since 1949. The alliance has undergone profound transformation since the [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) reactivated Article 5 contingency planning, but its central challenge remains the same: balancing American military primacy with European conventional defense capacity. As the [United States](/actors/countries/united-states.md) shifts priorities toward the Indo-Pacific and domestic constraints, NATO's burden-sharing debate has moved from rhetoric to existential necessity.
 
 # Current Situation
 
 ## Pacific Deterrence Extension
 
-European powers — Britain, France, and [Germany](/actors/germany.md) — issued a rare joint statement on [Taiwan](/actors/taiwan.md) through their de facto embassies in Taipei. Tchakarova reads this as a significant extension of NATO-aligned deterrence posture into the Pacific, signaling that European powers now treat Taiwan as integral to the global order rather than a peripheral Indo-Pacific concern. [1]
+European powers — Britain, France, and [Germany](/actors/countries/germany.md) — issued a rare joint statement on [Taiwan](/actors/countries/taiwan.md) through their de facto embassies in Taipei. Tchakarova reads this as a significant extension of NATO-aligned deterrence posture into the Pacific, signaling that European powers now treat Taiwan as integral to the global order rather than a peripheral Indo-Pacific concern. [1]
 
 ## Ankara Summit and European Conventional Defense
 
-An upcoming NATO summit in Ankara is shaping the agenda for European rearmament. [Germany](/actors/germany.md) is signaling that Europe is ready to shoulder the conventional defense burden — a recognition that the [United States](/actors/united-states.md) clearly has other priorities and that Europe must provide its own conventional defense within the NATO framework. Kiesewetter argues this is not optional but structural: the American security guarantee can no longer be assumed to be unconditional. [2]
+An upcoming NATO summit in Ankara is shaping the agenda for European rearmament. [Germany](/actors/countries/germany.md) is signaling that Europe is ready to shoulder the conventional defense burden — a recognition that the [United States](/actors/countries/united-states.md) clearly has other priorities and that Europe must provide its own conventional defense within the NATO framework. Kiesewetter argues this is not optional but structural: the American security guarantee can no longer be assumed to be unconditional. [2]
 
 ## 5% Defense Spending Target
 
@@ -31,7 +31,7 @@ Germany is currently unable to fulfill its NATO obligations as a logistics hub f
 
 ## US Priorities Shifting
 
-The [United States](/actors/united-states.md) clearly has other priorities — Indo-Pacific competition with [China](/actors/china.md), domestic political dysfunction, and the aftermath of the [US-Iran War](/conflicts/us-iran-war-2026.md). The alliance framework survives, but the assumption of automatic American conventional defense provision is eroding. The [EU](/actors/eu.md) and NATO together constitute the Western alliance architecture now under strain from this shift.
+The [United States](/actors/countries/united-states.md) clearly has other priorities — Indo-Pacific competition with [China](/actors/countries/china.md), domestic political dysfunction, and the aftermath of the [US-Iran War](/conflicts/us-iran-war-2026.md). The alliance framework survives, but the assumption of automatic American conventional defense provision is eroding. The [EU](/actors/eu.md) and NATO together constitute the Western alliance architecture now under strain from this shift.
 
 ## Article 3 Imperative
 
@@ -39,7 +39,7 @@ The [US-Iran War](/conflicts/us-iran-war-2026.md)'s cascading effects — fuel p
 
 ## Defence Up, Aid Down
 
-European governments are expanding defense budgets while simultaneously cutting aid, humanitarian, and peacebuilding programs — creating a "defence up, aid down" pattern that weakens crisis prevention in fragile regions. This approach dismantles the field networks and prevention capacities that underpin European influence from the [Sahel](/conflicts/sahel-insurgency.md) to the Horn of [Africa](/regions/africa.md), where [Russia](/actors/russia.md) and Gulf states are filling the vacuum as European presence retreats [5].
+European governments are expanding defense budgets while simultaneously cutting aid, humanitarian, and peacebuilding programs — creating a "defence up, aid down" pattern that weakens crisis prevention in fragile regions. This approach dismantles the field networks and prevention capacities that underpin European influence from the [Sahel](/conflicts/sahel-insurgency.md) to the Horn of [Africa](/regions/africa.md), where [Russia](/actors/countries/russia.md) and Gulf states are filling the vacuum as European presence retreats [5].
 
 ## European-led NATO
 
@@ -47,7 +47,7 @@ RUSI analysis outlines steps Europe must take to prepare for a potential U.S. wi
 
 ## Eastern Flank Consolidation and the Three Seas Initiative
 
-NATO is consolidating its eastern flank with massive infrastructure expansion along the arc from Finland and Sweden through the Baltic states, Poland, Czechia, Slovakia, and Hungary down to Romania, Bulgaria, Greece, and Türkiye. A new iron curtain is being drawn between [Russia](/actors/russia.md) and European NATO — and the infrastructure investment, defence-industrial cooperation, and political attention are all flowing to this eastern arc. The Three Seas Initiative on Connectivity (physical, digital, raw materials, supply chain, security and defence) provides a vehicle for this consolidation: 13 EU member states from Central and Eastern Europe participate, with the US and EU as strategic partners and [Ukraine](/actors/ukraine.md) invited to join. [Velina Tchakarova](/actors/velina-tchakarova.md) argues that [Austria](/actors/austria.md) — surrounded by NATO states on every side except Switzerland, spending only 1% of GDP on defense, and refusing to open the NATO debate — is losing its traditional central position and becoming peripheral to this shifting security order. Austria's exclusion from NATO infrastructure programmes shuts its industry out of the largest peacetime defence buildout in European history [3].
+NATO is consolidating its eastern flank with massive infrastructure expansion along the arc from Finland and Sweden through the Baltic states, Poland, Czechia, Slovakia, and Hungary down to Romania, Bulgaria, Greece, and Türkiye. A new iron curtain is being drawn between [Russia](/actors/countries/russia.md) and European NATO — and the infrastructure investment, defence-industrial cooperation, and political attention are all flowing to this eastern arc. The Three Seas Initiative on Connectivity (physical, digital, raw materials, supply chain, security and defence) provides a vehicle for this consolidation: 13 EU member states from Central and Eastern Europe participate, with the US and EU as strategic partners and [Ukraine](/actors/countries/ukraine.md) invited to join. [Velina Tchakarova](/actors/velina-tchakarova.md) argues that [Austria](/actors/countries/austria.md) — surrounded by NATO states on every side except Switzerland, spending only 1% of GDP on defense, and refusing to open the NATO debate — is losing its traditional central position and becoming peripheral to this shifting security order. Austria's exclusion from NATO infrastructure programmes shuts its industry out of the largest peacetime defence buildout in European history [3].
 
 ## Austria and the Neutrality Debate
 

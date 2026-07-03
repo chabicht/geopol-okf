@@ -9,7 +9,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-Ukraine has been at war with [Russia](/actors/russia.md) since 2022, developing into one of the most technologically consequential conflicts of the modern era. Under [Zelensky](/actors/zelensky.md), Ukraine has evolved from a post-Soviet state with limited military capability into a formidable drone warfare innovator and long-range strike practitioner.
+Ukraine has been at war with [Russia](/actors/countries/russia.md) since 2022, developing into one of the most technologically consequential conflicts of the modern era. Under [Zelensky](/actors/zelensky.md), Ukraine has evolved from a post-Soviet state with limited military capability into a formidable drone warfare innovator and long-range strike practitioner.
 
 # Current Situation
 
@@ -27,7 +27,7 @@ Drones are changing the character of warfare. Ukrainians are adjusting better th
 
 ## Pressure on Belarus
 
-Ukraine has successfully pressured [Belarus](/actors/belarus.md) to halt radio guidance equipment that was helping Russia direct long-range strikes. Lukashenka bent to Ukrainian threats — an outcome that reveals the credibility of Ukrainian leverage. Ukrainian intelligence has listed every plant in Belarus working for Russia: components for armored vehicles, missile systems, and fuel. Gasoline supplies from Belarus to Russia increased 13x and diesel 3x in January-May versus the same period last year, making Belarus a critical supply node that Ukraine is now pressuring.
+Ukraine has successfully pressured [Belarus](/actors/countries/belarus.md) to halt radio guidance equipment that was helping Russia direct long-range strikes. Lukashenka bent to Ukrainian threats — an outcome that reveals the credibility of Ukrainian leverage. Ukrainian intelligence has listed every plant in Belarus working for Russia: components for armored vehicles, missile systems, and fuel. Gasoline supplies from Belarus to Russia increased 13x and diesel 3x in January-May versus the same period last year, making Belarus a critical supply node that Ukraine is now pressuring.
 
 ## Intermediate-Range Strike Campaign
 

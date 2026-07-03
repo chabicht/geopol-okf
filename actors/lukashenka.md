@@ -9,7 +9,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Aleksandr Lukashenka has ruled [Belarus](/actors/belarus.md) since 1994, making him Europe's longest-serving authoritarian leader. O'Brien describes him as a "nasty and thuggish dictator" with a "rat-like sense of survival" — a leader whose decisions are driven not by ideology or alliance loyalty but by acute sensitivity to which way the wind is blowing. [1]
+Aleksandr Lukashenka has ruled [Belarus](/actors/countries/belarus.md) since 1994, making him Europe's longest-serving authoritarian leader. O'Brien describes him as a "nasty and thuggish dictator" with a "rat-like sense of survival" — a leader whose decisions are driven not by ideology or alliance loyalty but by acute sensitivity to which way the wind is blowing. [1]
 
 His regime depends on a personal relationship with [Vladimir Putin](/actors/putin.md); there is no institutional foundation that would guarantee a successor can maintain the system. This mirrors the structural fragility seen in [Ramzan Kadyrov](/actors/kadyrov.md)'s Chechnya. [2]
 
@@ -19,7 +19,7 @@ His regime depends on a personal relationship with [Vladimir Putin](/actors/puti
 
 As his perception of the [Russia-Ukraine War](/conflicts/russia-ukraine-war.md)'s trajectory shifted, Lukashenka tried to make nice with the Ukrainians. [Volodymyr Zelensky](/actors/zelensky.md)'s pressure campaign — which publicly catalogued every Belarusian plant supporting the Russian war effort — appears to have been decisive. [1]
 
-Lukashenka turned off the radio guidance equipment that [Russia](/actors/russia.md) had been using to direct strikes into Ukrainian territory from Belarusian soil. This was a tangible operational concession, not merely a diplomatic gesture, and it degraded Russia's ability to launch coordinated strikes from Belarusian airspace. [1]
+Lukashenka turned off the radio guidance equipment that [Russia](/actors/countries/russia.md) had been using to direct strikes into Ukrainian territory from Belarusian soil. This was a tangible operational concession, not merely a diplomatic gesture, and it degraded Russia's ability to launch coordinated strikes from Belarusian airspace. [1]
 
 # Analysis
 

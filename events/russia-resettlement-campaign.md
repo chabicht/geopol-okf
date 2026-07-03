@@ -12,7 +12,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-[Russia](/actors/russia.md) has occupied parts of [Ukraine](/actors/ukraine.md) since 2014 and expanded its territorial control significantly since the full-scale invasion of February 2022. Beyond military operations, Russia is conducting a systematic campaign to alter the demographic composition of occupied territories — a strategy that violates the Fourth Geneva Convention's prohibition on transferring occupier populations into occupied territory. See [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) and [Europe](/regions/europe.md).
+[Russia](/actors/countries/russia.md) has occupied parts of [Ukraine](/actors/countries/ukraine.md) since 2014 and expanded its territorial control significantly since the full-scale invasion of February 2022. Beyond military operations, Russia is conducting a systematic campaign to alter the demographic composition of occupied territories — a strategy that violates the Fourth Geneva Convention's prohibition on transferring occupier populations into occupied territory. See [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) and [Europe](/regions/europe.md).
 
 # What Happened
 
@@ -30,7 +30,7 @@ The resettlement campaign represents a deliberate effort to erase the Ukrainian 
 
 ## Legal and International Implications
 
-The campaign constitutes a war crime under the Fourth Geneva Convention, which prohibits an occupying power from transferring parts of its civilian population into occupied territory. The scale — 114,000 planned settlers by 2045 — and the systematic use of property law as a tool of demographic transformation distinguish this from ad hoc settlement. The [ICC](/actors/russia.md) has previously issued arrest warrants for Russian officials, and the resettlement campaign adds another documented violation to the record.
+The campaign constitutes a war crime under the Fourth Geneva Convention, which prohibits an occupying power from transferring parts of its civilian population into occupied territory. The scale — 114,000 planned settlers by 2045 — and the systematic use of property law as a tool of demographic transformation distinguish this from ad hoc settlement. The [ICC](/actors/countries/russia.md) has previously issued arrest warrants for Russian officials, and the resettlement campaign adds another documented violation to the record.
 
 ## Comparison with Crimea
 

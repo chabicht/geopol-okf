@@ -9,7 +9,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Oman is a Gulf sultanate occupying the southern shore of the Strait of Hormuz — the geographic position that makes it Iran's counterpart in any arrangement governing the chokepoint. Historically neutral in regional conflicts, Oman has served as a backchannel mediator between [Iran](/actors/iran.md) and the West. The [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) elevated Oman's strategic importance: as the only Gulf state with both credibility in Tehran and a geographic claim on Hormuz, it became the natural partner for formalizing Iran's toll system proposal.
+Oman is a Gulf sultanate occupying the southern shore of the Strait of Hormuz — the geographic position that makes it Iran's counterpart in any arrangement governing the chokepoint. Historically neutral in regional conflicts, Oman has served as a backchannel mediator between [Iran](/actors/countries/iran.md) and the West. The [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) elevated Oman's strategic importance: as the only Gulf state with both credibility in Tehran and a geographic claim on Hormuz, it became the natural partner for formalizing Iran's toll system proposal.
 
 # Current Situation
 

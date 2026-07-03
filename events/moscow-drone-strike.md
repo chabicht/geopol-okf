@@ -9,7 +9,7 @@ timestamp: 2026-05-24T00:00:00Z
 
 # Background
 
-In late May 2026, [Ukraine](/actors/ukraine.md) conducted a major drone strike on Moscow, demonstrating that [Putin](/actors/putin.md) can no longer protect the capital from the consequences of his own war. The strike represented a psychological and political turning point: the Russian public, insulated from the war's direct effects, experienced it reaching into the capital itself.
+In late May 2026, [Ukraine](/actors/countries/ukraine.md) conducted a major drone strike on Moscow, demonstrating that [Putin](/actors/putin.md) can no longer protect the capital from the consequences of his own war. The strike represented a psychological and political turning point: the Russian public, insulated from the war's direct effects, experienced it reaching into the capital itself.
 
 # What Happened
 

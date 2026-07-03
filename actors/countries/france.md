@@ -9,13 +9,13 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Background
 
-France is a nuclear power, permanent member of the UN Security Council, and the leading military actor in the EU alongside [Germany](/actors/germany.md). France maintains significant interests in [Africa](/regions/africa.md), the [Middle East](/regions/middle-east.md), and the Indo-Pacific, where its overseas territories give it a direct strategic stake.
+France is a nuclear power, permanent member of the UN Security Council, and the leading military actor in the EU alongside [Germany](/actors/countries/germany.md). France maintains significant interests in [Africa](/regions/africa.md), the [Middle East](/regions/middle-east.md), and the Indo-Pacific, where its overseas territories give it a direct strategic stake.
 
 # Current Situation
 
 ## Taiwan Statement
 
-Along with Britain and [Germany](/actors/germany.md), France issued a rare joint statement on [Taiwan](/actors/taiwan.md) through de facto embassies in Taipei. This collective European signal represents a significant shift — France and its partners are now treating Taiwan as integral to the global order, extending their strategic concern beyond the European theater into the [Indo-Pacific](/regions/indo-pacific.md).
+Along with Britain and [Germany](/actors/countries/germany.md), France issued a rare joint statement on [Taiwan](/actors/countries/taiwan.md) through de facto embassies in Taipei. This collective European signal represents a significant shift — France and its partners are now treating Taiwan as integral to the global order, extending their strategic concern beyond the European theater into the [Indo-Pacific](/regions/indo-pacific.md).
 
 ## Target of Russian Cognitive Warfare
 

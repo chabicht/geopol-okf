@@ -9,7 +9,7 @@ timestamp: 2026-01-20T00:00:00Z
 
 # Background
 
-AI has emerged as a central arena of [great power competition](/themes/great-power-competition.md). The [United States](/actors/united-states.md) and [China](/actors/china.md) are leveraging control over different layers of the global technology stack to gain strategic advantage. The US leads in high-end compute (semiconductors, data centers) and frontier models; China excels in AI adaptation, hardware manufacturing, and open-weight AI. Both nations are now actively exporting their technology to secure allies and establish global dependency — a competition that extends beyond the [AI military race](/themes/ai-military-race.md) into the diplomatic and economic domains.
+AI has emerged as a central arena of [great power competition](/themes/great-power-competition.md). The [United States](/actors/countries/united-states.md) and [China](/actors/countries/china.md) are leveraging control over different layers of the global technology stack to gain strategic advantage. The US leads in high-end compute (semiconductors, data centers) and frontier models; China excels in AI adaptation, hardware manufacturing, and open-weight AI. Both nations are now actively exporting their technology to secure allies and establish global dependency — a competition that extends beyond the [AI military race](/themes/ai-military-race.md) into the diplomatic and economic domains.
 
 # Current Situation
 

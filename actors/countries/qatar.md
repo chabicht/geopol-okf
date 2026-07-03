@@ -21,7 +21,7 @@ Ras Laffan Industrial City is responsible for approximately one-fifth of global 
 
 The explosion at Ras Laffan exposed the structural fragility of concentrated global gas supply chains. The Barzan facility — oriented toward domestic grid supply — is separate from LNG export infrastructure, limiting the domestic impact but highlighting the vulnerability of export capacity.
 
-The explosion occurred during a high-risk restart window after the Hormoz crisis forced inactivity. The convergence of geopolitical disruption (the [Iran](/actors/iran.md)-controlled Strait of Hormuz crisis) and operational risk (facility restart) created conditions for a cascading failure in global energy supply.
+The explosion occurred during a high-risk restart window after the Hormoz crisis forced inactivity. The convergence of geopolitical disruption (the [Iran](/actors/countries/iran.md)-controlled Strait of Hormuz crisis) and operational risk (facility restart) created conditions for a cascading failure in global energy supply.
 
 # Analysis
 

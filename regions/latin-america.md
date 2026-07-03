@@ -9,7 +9,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-Latin America has historically been within the US sphere of influence, shaped by Cold War competition and the Monroe Doctrine. The region cycles between left and right populist waves, often driven by commodity prices, crime, and institutional weakness rather than pure ideological conviction. The current period reflects a convergence of security concerns, migration politics, and US pressure under the Trump administration. See [United States](/actors/united-states.md) and [Trump](/actors/trump.md).
+Latin America has historically been within the US sphere of influence, shaped by Cold War competition and the Monroe Doctrine. The region cycles between left and right populist waves, often driven by commodity prices, crime, and institutional weakness rather than pure ideological conviction. The current period reflects a convergence of security concerns, migration politics, and US pressure under the Trump administration. See [United States](/actors/countries/united-states.md) and [Trump](/actors/trump.md).
 
 # Current Situation
 

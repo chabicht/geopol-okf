@@ -15,7 +15,7 @@ Adam Tooze is an economic historian and author of the Chartbook newsletter on Su
 
 ## China Shock 2.0
 
-Tooze adapts Brad Setser's "China Shock 2.0" thesis to argue that the current wave of Chinese export competition differs fundamentally from the early-2000s "China Shock 1.0." The first shock was a cost-of-production story focused on low-tech sectors and felt primarily in the US. China Shock 2.0 is above all about [Europe](/regions/europe.md) and about China's progress up the industrial value chain — concentrated in a cluster of sectors, above all vehicles. 60% of the €27 billion swing in [Germany](/actors/germany.md)'s trade balance with China between 2021 and 2025 is accounted for by cars. The shock is "mercantilist-on-mercantilist violence": Germany is itself a chronic trade surplus country, so the dynamic is competitive surplus against surplus, not the classic deficit-country-versus-surplus-country story [1].
+Tooze adapts Brad Setser's "China Shock 2.0" thesis to argue that the current wave of Chinese export competition differs fundamentally from the early-2000s "China Shock 1.0." The first shock was a cost-of-production story focused on low-tech sectors and felt primarily in the US. China Shock 2.0 is above all about [Europe](/regions/europe.md) and about China's progress up the industrial value chain — concentrated in a cluster of sectors, above all vehicles. 60% of the €27 billion swing in [Germany](/actors/countries/germany.md)'s trade balance with China between 2021 and 2025 is accounted for by cars. The shock is "mercantilist-on-mercantilist violence": Germany is itself a chronic trade surplus country, so the dynamic is competitive surplus against surplus, not the classic deficit-country-versus-surplus-country story [1].
 
 Tooze highlights that the sectoral surge is not driven by macro forces — unit values of Chinese exports are rising in line with Japan and South Korea, ruling out exchange-rate-driven price dumping. The surge is concentrated in green energy goods (heavily in demand for Europe's energy transition) and chemicals (where European production has been hit by high gas prices). Chinese home demand in the affected sectors is not falling — European firms are experiencing the impact of a deliberate Chinese industrialization push backed by policy [1].
 
@@ -29,7 +29,7 @@ The paradox: those calling for yuan revaluation to address China Shock 2.0 do no
 
 ## The AI Boom and the Gilded Cage
 
-Tooze identifies the US AI boom as a "K-shaped expansion" rippling across the world economy. The boom is sucking in imports — but from [Taiwan](/actors/taiwan.md) and Mexico, not from China. The bilateral US-China trade truce is holding; the bilateral deficit has narrowed dramatically. The US has effectively excluded the leading edge of China's export drive (100% tariffs on Chinese EVs), making China Shock 2.0 largely a China-Europe problem rather than a China-US one [2].
+Tooze identifies the US AI boom as a "K-shaped expansion" rippling across the world economy. The boom is sucking in imports — but from [Taiwan](/actors/countries/taiwan.md) and Mexico, not from China. The bilateral US-China trade truce is holding; the bilateral deficit has narrowed dramatically. The US has effectively excluded the leading edge of China's export drive (100% tariffs on Chinese EVs), making China Shock 2.0 largely a China-Europe problem rather than a China-US one [2].
 
 Meanwhile, China's wealthiest investors are barred from participating in the AI boom — the concomitant of exchange rate manipulation is capital controls that wall in wealth. China's stock market lags woefully behind the world. The "gilded cage" dynamic: non-US investors have benefited from an estimated $13 trillion in profits from US assets over the last decade. China's bourgeoisie wants in on that game, but Beijing prevents them — driving the yuan down, not up, if capital were freed [2].
 
@@ -40,7 +40,7 @@ Tooze identifies four disrupters operating simultaneously [1]:
 1. [Trump](/actors/trump.md)'s trade policy rampage.
 2. The extraordinary incontinence of US fiscal policy.
 3. The AI boom, which has taken on global economic scale.
-4. The gear-shift in [China](/actors/china.md)'s economic policy.
+4. The gear-shift in [China](/actors/countries/china.md)'s economic policy.
 
 China Shock 2.0 reflects #4. If trade protection and industrial bargaining are the solution, that risks compounding the disorder personified by Trump (#1). But doing nothing — spectactular, uncontrolled deindustrialization — is also a serious risk for Europe [1].
 

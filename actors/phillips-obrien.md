@@ -19,7 +19,7 @@ O'Brien's central analytical premise: "battles rarely determine anything; they r
 
 ## Leaders, Not States
 
-Wars are choices of individual leaders, not state actors pursuing national interest. O'Brien challenges realism directly, arguing that the unitary rational actor model obscures the most important variable: who is making the decision and why. This framework is particularly relevant to his analysis of [Trump](/actors/trump.md)'s decision to attack [Iran](/actors/iran.md) — a personal decision not grounded in national interest or political pressure.
+Wars are choices of individual leaders, not state actors pursuing national interest. O'Brien challenges realism directly, arguing that the unitary rational actor model obscures the most important variable: who is making the decision and why. This framework is particularly relevant to his analysis of [Trump](/actors/trump.md)'s decision to attack [Iran](/actors/countries/iran.md) — a personal decision not grounded in national interest or political pressure.
 
 ## Cheap Mass Over Expensive Precision
 

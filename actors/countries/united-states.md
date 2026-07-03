@@ -57,7 +57,7 @@ O'Brien argues, using Gallup polling data, that America has balkanized into two 
 
 ## US-Israel Friction Over Iran Diplomacy
 
-Washington's core Middle East challenge is balancing diplomatic accommodation with [Iran](/actors/iran.md) against security commitments to [Israel](/actors/israel.md). VP Vance publicly rebuked Israeli cabinet members for criticizing U.S. diplomacy, reflecting growing frustration within the Trump administration over Israeli behavior. The two allies diverge fundamentally: Washington seeks a negotiated settlement constraining Iran while Israel fears any sanctions relief will rebuild Hezbollah and allow Tehran to rebound. Managing this strategic divergence may prove as difficult as managing Iran itself [17].
+Washington's core Middle East challenge is balancing diplomatic accommodation with [Iran](/actors/countries/iran.md) against security commitments to [Israel](/actors/countries/israel.md). VP Vance publicly rebuked Israeli cabinet members for criticizing U.S. diplomacy, reflecting growing frustration within the Trump administration over Israeli behavior. The two allies diverge fundamentally: Washington seeks a negotiated settlement constraining Iran while Israel fears any sanctions relief will rebuild Hezbollah and allow Tehran to rebound. Managing this strategic divergence may prove as difficult as managing Iran itself [17].
 
 ## Jones Act Suspension
 
@@ -65,7 +65,7 @@ Washington's core Middle East challenge is balancing diplomatic accommodation wi
 
 ## The AI Boom and K-Shaped Expansion
 
-[Adam Tooze](/actors/adam-tooze.md) identifies the US AI boom as a "K-shaped expansion" — one of four disrupters of the 2026 world economy. The boom is sucking in imports at a furious rate, but from [Taiwan](/actors/taiwan.md) and Mexico, not from [China](/actors/china.md). The US-China bilateral trade truce is holding; the bilateral deficit has narrowed dramatically. The US has effectively excluded the leading edge of China's export drive with 100% tariffs on Chinese EVs, making China Shock 2.0 largely a Europe problem. Trump is dismantling the IRA's energy transition subsidies even as the AI boom generates unprecedented asset price inflation [13].
+[Adam Tooze](/actors/adam-tooze.md) identifies the US AI boom as a "K-shaped expansion" — one of four disrupters of the 2026 world economy. The boom is sucking in imports at a furious rate, but from [Taiwan](/actors/countries/taiwan.md) and Mexico, not from [China](/actors/countries/china.md). The US-China bilateral trade truce is holding; the bilateral deficit has narrowed dramatically. The US has effectively excluded the leading edge of China's export drive with 100% tariffs on Chinese EVs, making China Shock 2.0 largely a Europe problem. Trump is dismantling the IRA's energy transition subsidies even as the AI boom generates unprecedented asset price inflation [13].
 
 # Analysis
 

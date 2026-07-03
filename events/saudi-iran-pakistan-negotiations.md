@@ -9,7 +9,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-As the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) progressed, [Saudi Arabia](/actors/saudi-arabia.md) increasingly recognized that the US security umbrella was unreliable and that direct negotiations with [Iran](/actors/iran.md) were necessary. [Pakistan](/actors/pakistan.md) emerged as the natural mediator — a state with credibility in both Riyadh and Tehran, backed by [China](/actors/china.md) and [Russia](/actors/russia.md) as guarantors.
+As the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) progressed, [Saudi Arabia](/actors/countries/saudi-arabia.md) increasingly recognized that the US security umbrella was unreliable and that direct negotiations with [Iran](/actors/countries/iran.md) were necessary. [Pakistan](/actors/countries/pakistan.md) emerged as the natural mediator — a state with credibility in both Riyadh and Tehran, backed by [China](/actors/countries/china.md) and [Russia](/actors/countries/russia.md) as guarantors.
 
 # What Happened
 

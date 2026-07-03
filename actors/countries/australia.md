@@ -9,7 +9,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Australia is a resource-exporting nation whose strategic position in the [Indo-Pacific](/regions/indo-pacific.md) makes it a critical US ally. Its economy is built on exporting iron ore, coal, LNG, and critical minerals to [China](/actors/china.md) — a dependency that creates structural tension between its economic lifeline and its security partnership with the [United States](/actors/united-states.md). Australia's geographic isolation and resource wealth give it strategic depth but also expose it to supply chain vulnerability, as the [US-Iran War](/conflicts/us-iran-war-2026.md) disrupted the flow of bauxite (aluminum) and other materials through the Middle East [1].
+Australia is a resource-exporting nation whose strategic position in the [Indo-Pacific](/regions/indo-pacific.md) makes it a critical US ally. Its economy is built on exporting iron ore, coal, LNG, and critical minerals to [China](/actors/countries/china.md) — a dependency that creates structural tension between its economic lifeline and its security partnership with the [United States](/actors/countries/united-states.md). Australia's geographic isolation and resource wealth give it strategic depth but also expose it to supply chain vulnerability, as the [US-Iran War](/conflicts/us-iran-war-2026.md) disrupted the flow of bauxite (aluminum) and other materials through the Middle East [1].
 
 # Current Situation
 

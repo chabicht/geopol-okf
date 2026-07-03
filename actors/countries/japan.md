@@ -9,7 +9,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Japan is a key node in the US-led alliance architecture in the [Indo-Pacific](/regions/indo-pacific.md), with a constitutionally constrained but increasingly capable military. Its geographic position — astride the first island chain — makes it a critical actor in any contingency involving [China](/actors/china.md) and [Taiwan](/actors/taiwan.md).
+Japan is a key node in the US-led alliance architecture in the [Indo-Pacific](/regions/indo-pacific.md), with a constitutionally constrained but increasingly capable military. Its geographic position — astride the first island chain — makes it a critical actor in any contingency involving [China](/actors/countries/china.md) and [Taiwan](/actors/countries/taiwan.md).
 
 # Current Situation
 
@@ -19,7 +19,7 @@ Tensions with Beijing have intensified since PM Takaichi suggested that Tokyo's 
 
 ## Maritime Architecture
 
-Japan is planning to delimit overlapping EEZs with the Philippines, part of a broader effort to contest China's claims over the entire maritime architecture of the region. This aligns with [US](/actors/united-states.md) efforts to build a coalition of maritime powers in the first island chain.
+Japan is planning to delimit overlapping EEZs with the Philippines, part of a broader effort to contest China's claims over the entire maritime architecture of the region. This aligns with [US](/actors/countries/united-states.md) efforts to build a coalition of maritime powers in the first island chain.
 
 ## Alliance Role
 

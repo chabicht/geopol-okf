@@ -16,13 +16,13 @@ After the initial kinetic phase of the [US-Iran War of 2026](/conflicts/us-iran-
 - The US imposed a naval blockade on Iranian ports, creating an outer-ring interception capability alongside the existing Hormuz-focused operations [2].
 - US Treasury Secretary Scott Bessent implemented secondary sanctions on Chinese banks facilitating Iranian oil trade, extending the blockade into the financial system [2].
 - Iran threatened to block the Red Sea in response, expanding the conflict's geographic scope [2].
-- The US struck the South Pars gas field — Iran's largest — in an escalation that also affected [Qatar](/actors/qatar.md), which shares the field [2].
+- The US struck the South Pars gas field — Iran's largest — in an escalation that also affected [Qatar](/actors/countries/qatar.md), which shares the field [2].
 - The USS George H.W. Bush carrier group was deployed to enforce the blockade [2].
 - The Pentagon sought help from automakers to produce military vehicles, signaling industrial capacity constraints [2].
 
 # Analysis
 
-[The Honest Sorcerer](/actors/the-honest-sorcerer.md) argues the counter-blockade revealed the war's true objective: controlling oil flow to [China](/actors/china.md), not uranium enrichment. By blockading Iranian ports while imposing secondary sanctions on Chinese banks, the US was attempting to sever the energy pipeline sustaining the DragonBear axis [2].
+[The Honest Sorcerer](/actors/the-honest-sorcerer.md) argues the counter-blockade revealed the war's true objective: controlling oil flow to [China](/actors/countries/china.md), not uranium enrichment. By blockading Iranian ports while imposing secondary sanctions on Chinese banks, the US was attempting to sever the energy pipeline sustaining the DragonBear axis [2].
 
 [Endtropy](/actors/endtropy.md) draws the historical parallel to Napoleon's Continental System: a blockade designed to deny the adversary resources instead generates adaptive trade networks, smuggling, and financial workarounds that ultimately weaken the blockading power. The US counter-blockade accelerated the dedollarization of Chinese-Iranian trade, as the secondary sanctions on Chinese banks pushed trade into non-dollar channels [1].
 

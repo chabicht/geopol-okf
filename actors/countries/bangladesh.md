@@ -13,7 +13,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-Bangladesh has historically been so close to [India](/actors/india.md) that it could almost be considered a satellite of New Delhi. The 2024 uprising that ended Sheikh Hasina's 15-year rule created an opening for Dhaka to pursue strategic autonomy with vigor. Bangladesh's geographic position on the Bay of Bengal, controlling approaches to India's Siliguri Corridor and sitting astride maritime routes between the Indian Ocean and Southeast Asia, makes it a natural arena for [great power competition](/themes/great-power-competition.md). See [Indo-Pacific](/regions/indo-pacific.md).
+Bangladesh has historically been so close to [India](/actors/countries/india.md) that it could almost be considered a satellite of New Delhi. The 2024 uprising that ended Sheikh Hasina's 15-year rule created an opening for Dhaka to pursue strategic autonomy with vigor. Bangladesh's geographic position on the Bay of Bengal, controlling approaches to India's Siliguri Corridor and sitting astride maritime routes between the Indian Ocean and Southeast Asia, makes it a natural arena for [great power competition](/themes/great-power-competition.md). See [Indo-Pacific](/regions/indo-pacific.md).
 
 # Current Situation
 
@@ -23,11 +23,11 @@ Prime Minister Tarique Rahman's visit to Beijing in mid-2026 produced 13 memoran
 
 ## India's Geographic Advantage
 
-Despite the scale of Chinese investment, [India](/actors/india.md) retains structural advantages that [China](/actors/china.md) cannot replicate. India shares more than 4,000 kilometers of border with Bangladesh and maintains deep historical, cultural, linguistic, and economic ties. During crises involving border management, migration, natural disasters, or supply chain disruptions, Bangladesh cannot bypass its immediate neighbor. India is likely to remain Bangladesh's most indispensable geographic and economic partner even as China becomes its largest investment source [1].
+Despite the scale of Chinese investment, [India](/actors/countries/india.md) retains structural advantages that [China](/actors/countries/china.md) cannot replicate. India shares more than 4,000 kilometers of border with Bangladesh and maintains deep historical, cultural, linguistic, and economic ties. During crises involving border management, migration, natural disasters, or supply chain disruptions, Bangladesh cannot bypass its immediate neighbor. India is likely to remain Bangladesh's most indispensable geographic and economic partner even as China becomes its largest investment source [1].
 
 ## Strategic Autonomy Strategy
 
-Bangladesh is simultaneously accepting Chinese investment, maintaining strong trade relations with the [United States](/actors/united-states.md), preserving extensive economic and security cooperation with India, and participating in multiple regional institutions — all while avoiding formal alliance commitments. This balancing strategy enables Dhaka to extract benefits from competing powers without sacrificing political independence [1].
+Bangladesh is simultaneously accepting Chinese investment, maintaining strong trade relations with the [United States](/actors/countries/united-states.md), preserving extensive economic and security cooperation with India, and participating in multiple regional institutions — all while avoiding formal alliance commitments. This balancing strategy enables Dhaka to extract benefits from competing powers without sacrificing political independence [1].
 
 ## Constraints on Chinese Expansion
 

@@ -18,7 +18,7 @@ The petrodollar system — the architecture linking US military power to global 
 
 ## UAE Swap-Line Request
 
-The [UAE](/actors/uae.md)'s request for a US dollar swap line during the Iran war signaled structural stress in the petrodollar system. With $270 billion in foreign exchange reserves, the UAE's turn to Washington for liquidity support revealed the cascading financial effects of the Hormuz disruption. The request came as the UAE was facilitating Chinese-Iranian oil trade in defiance of US sanctions — a dual posture exposing the contradiction between security dependence on the US and economic alignment with the DragonBear [1].
+The [UAE](/actors/countries/uae.md)'s request for a US dollar swap line during the Iran war signaled structural stress in the petrodollar system. With $270 billion in foreign exchange reserves, the UAE's turn to Washington for liquidity support revealed the cascading financial effects of the Hormuz disruption. The request came as the UAE was facilitating Chinese-Iranian oil trade in defiance of US sanctions — a dual posture exposing the contradiction between security dependence on the US and economic alignment with the DragonBear [1].
 
 ## Gold and Currency Diversification
 
@@ -36,7 +36,7 @@ US Treasury Secretary Scott Bessent's secondary sanctions on Chinese banks facil
 
 - **Weaponization accelerates dedollarization**: Each use of the dollar as a sanctions weapon demonstrates to adversaries the risk of dollar dependency, driving the creation of alternative payment systems. The short-term coercive effect is real but generates long-term structural erosion [1][2].
 - **Gold as the sanctions-resistant reserve**: Central bank gold buying across the DragonBear axis reflects a strategic preference for assets that cannot be frozen or seized. The trend is structural, not cyclical [1].
-- **Gulf states hedging**: The [UAE](/actors/uae.md) and [Saudi Arabia](/actors/saudi-arabia.md) are maintaining dollar pegs while simultaneously developing non-dollar trade channels — a hedging strategy that preserves optionality [1][2].
+- **Gulf states hedging**: The [UAE](/actors/countries/uae.md) and [Saudi Arabia](/actors/countries/saudi-arabia.md) are maintaining dollar pegs while simultaneously developing non-dollar trade channels — a hedging strategy that preserves optionality [1][2].
 - **Sovereign wealth fund reallocation**: Gulf sovereign wealth funds, among the world's largest, are gradually diversifying away from dollar-denominated assets, reflecting a structural rather than tactical shift [1].
 
 # Analysis

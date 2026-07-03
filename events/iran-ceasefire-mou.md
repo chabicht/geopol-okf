@@ -9,7 +9,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-The [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) disrupted the Strait of Hormuz and removed approximately 10 million barrels per day from global markets. The war created cascading effects across energy prices, shipping insurance, and global economic stability. The Versailles Memorandum was negotiated to end the kinetic phase, but the underlying strategic dynamics — Iran's geographic leverage, axis coordination, and US capacity constraints — remained unresolved. See [Iran](/actors/iran.md), [United States](/actors/united-states.md), and [Middle East](/regions/middle-east.md).
+The [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) disrupted the Strait of Hormuz and removed approximately 10 million barrels per day from global markets. The war created cascading effects across energy prices, shipping insurance, and global economic stability. The Versailles Memorandum was negotiated to end the kinetic phase, but the underlying strategic dynamics — Iran's geographic leverage, axis coordination, and US capacity constraints — remained unresolved. See [Iran](/actors/countries/iran.md), [United States](/actors/countries/united-states.md), and [Middle East](/regions/middle-east.md).
 
 # What Happened
 

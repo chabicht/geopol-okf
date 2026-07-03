@@ -13,7 +13,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-[China](/actors/china.md) claims [Taiwan](/actors/taiwan.md) as its territory and has conducted an ongoing gray-zone warfare campaign designed to erode Taiwan's will and capacity to resist unification. Taiwan is the central front of the new Cold War — the point at which the competition between the US-led order and the Chinese system is most acute and most potentially escalatory. The standoff encompasses military, economic, informational, and legal dimensions, with China employing a whole-of-state approach that falls below the threshold of armed conflict but steadily shifts the facts on the water and in the air.
+[China](/actors/countries/china.md) claims [Taiwan](/actors/countries/taiwan.md) as its territory and has conducted an ongoing gray-zone warfare campaign designed to erode Taiwan's will and capacity to resist unification. Taiwan is the central front of the new Cold War — the point at which the competition between the US-led order and the Chinese system is most acute and most potentially escalatory. The standoff encompasses military, economic, informational, and legal dimensions, with China employing a whole-of-state approach that falls below the threshold of armed conflict but steadily shifts the facts on the water and in the air.
 
 The [Indo-Pacific](/regions/indo-pacific.md) theater is increasingly interconnected with other theaters of great power competition, as described in the [Cold War 2.0](/conflicts/cold-war-2.md) framework.
 
@@ -28,13 +28,13 @@ China is opening a new front by shifting operations to the waters east of Taiwan
 - The opposition KMT and TPP parties have been delaying the 2026 budget for over 9 months and are threatening defense cuts, creating a domestic political crisis that mirrors Chinese pressure [1].
 - Taiwan's defense budget stands at approximately $17.8 billion (a 20% increase), with the goal of reaching 3.3% of GDP from the current 2.4%. The United States is pressing for 3.5% [1].
 - Chinese espionage operations continue: a former Air Force Academy colonel was sentenced to 11 years for espionage [1].
-- Tensions with [Japan](/actors/japan.md) are rising: PM Takaichi suggested that Tokyo's military could become involved in a Taiwan contingency [1].
+- Tensions with [Japan](/actors/countries/japan.md) are rising: PM Takaichi suggested that Tokyo's military could become involved in a Taiwan contingency [1].
 
 # Analysis
 
 ## European Intervention
 
-[Velina Tchakarova](/actors/velina-tchakarova.md) identifies a consequential development: three major NATO members — [Britain](/actors/france.md), [France](/actors/france.md), and [Germany](/actors/germany.md) — issued a coordinated statement on the Pacific maritime dispute [1]. This represents European powers now treating Taiwan as integral to the global order and extending their deterrence posture into the Pacific, beyond the traditional Euro-Atlantic focus of NATO [1]. The statement signals that the defense of Taiwan is no longer framed solely as a US commitment but as a broader Western interest.
+[Velina Tchakarova](/actors/velina-tchakarova.md) identifies a consequential development: three major NATO members — [Britain](/actors/countries/france.md), [France](/actors/countries/france.md), and [Germany](/actors/countries/germany.md) — issued a coordinated statement on the Pacific maritime dispute [1]. This represents European powers now treating Taiwan as integral to the global order and extending their deterrence posture into the Pacific, beyond the traditional Euro-Atlantic focus of NATO [1]. The statement signals that the defense of Taiwan is no longer framed solely as a US commitment but as a broader Western interest.
 
 ## Grey-Zone Strategy
 
@@ -46,7 +46,7 @@ The deployment of the *Xiang Yang Hong 22* with CCG escort is emblematic: what i
 
 The December 2025 [Justice Mission 2025](/events/justice-mission-2025.md) exercise was the most operationally detailed blockade rehearsal to date. The PLA deployed 18 naval vessels, 14 coast guard ships, 201 air sorties, H-6 bombers, and the Type 075 LHD *Hainan* across eight zones surrounding Taiwan. The exercise simulated interdiction of Taiwanese energy imports, counter-intervention against U.S. forces, and potential decapitation strikes. CCG ships came within 1.3 nautical miles of Taiwanese islands — the first time CCG patrolled around Pratas during a blockade exercise. The absence of aircraft carriers suggests the exercise practiced only the inner layer of a larger multi-domain blockade [4].
 
-Each iteration of these exercises improves the PLA's ability to execute a real blockade. The exercise served coercive psychological warfare purposes aimed at intimidating Taiwan's DPP government and deterring [Japan](/actors/japan.md) from supporting Taiwan [4].
+Each iteration of these exercises improves the PLA's ability to execute a real blockade. The exercise served coercive psychological warfare purposes aimed at intimidating Taiwan's DPP government and deterring [Japan](/actors/countries/japan.md) from supporting Taiwan [4].
 
 ## PLA Adaptation Limits
 
@@ -56,11 +56,11 @@ ISW analysis suggests the PLA's pre-existing investments in AI-enabled swarm tec
 
 The February 2026 [CMC purge](/events/cmc-purge-2026.md) — Xi's removal of Zhang Youxia and Liu Zhenli, the only CMC members with combat experience — has significant implications for the Taiwan standoff. Zhang anticipated full joint operational capability closer to 2035, while Xi insists on 2027. The purge damages command cohesion and reduces the likelihood of a near-term invasion, as complex joint operations require experienced commanders who trust one another. However, new commanders eager to demonstrate loyalty may favor aggressive tactical behavior, increasing the risk of miscalculation [2].
 
-O'Brien reports that [China](/actors/china.md) is treating Taiwan as a "chip" in the broader Iran negotiation — backing Iran while signaling that Taiwan's status is part of the great power bargain, not an isolated territorial question [3].
+O'Brien reports that [China](/actors/countries/china.md) is treating Taiwan as a "chip" in the broader Iran negotiation — backing Iran while signaling that Taiwan's status is part of the great power bargain, not an isolated territorial question [3].
 
 ## DragonBear Coordination
 
-Tchakarova argues that contesting Taiwan's maritime approaches while [Moscow](/actors/russia.md) ties down Western attention in [Ukraine](/conflicts/russia-ukraine-war.md) exemplifies coordinated pressure within the DragonBear framework [1]. The danger is bandwidth: China stretches Taiwan, Japan, and the Philippines across simultaneous theaters, forcing each to allocate finite attention and resources against multiple vectors of pressure [1]. This bandwidth exploitation is the core operational logic of the [great power competition](/themes/great-power-competition.md) — the axis does not need to win any single theater if it can overwhelm the Western capacity to respond across all of them simultaneously.
+Tchakarova argues that contesting Taiwan's maritime approaches while [Moscow](/actors/countries/russia.md) ties down Western attention in [Ukraine](/conflicts/russia-ukraine-war.md) exemplifies coordinated pressure within the DragonBear framework [1]. The danger is bandwidth: China stretches Taiwan, Japan, and the Philippines across simultaneous theaters, forcing each to allocate finite attention and resources against multiple vectors of pressure [1]. This bandwidth exploitation is the core operational logic of the [great power competition](/themes/great-power-competition.md) — the axis does not need to win any single theater if it can overwhelm the Western capacity to respond across all of them simultaneously.
 
 # Citations
 

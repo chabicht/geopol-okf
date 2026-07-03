@@ -23,7 +23,7 @@ Co-developed with Tindale, this cascade model tracks secondary cascades through 
 
 ## DragonBear Axis
 
-Tchakarova's terminology for the coordination between [China](/actors/china.md) and [Russia](/actors/russia.md). The term captures both the partnership's strategic alignment and its asymmetric character — [China](/actors/china.md) as the economic engine, [Russia](/actors/russia.md) as the military disruptor. See [Cold War 2](/conflicts/cold-war-2.md).
+Tchakarova's terminology for the coordination between [China](/actors/countries/china.md) and [Russia](/actors/countries/russia.md). The term captures both the partnership's strategic alignment and its asymmetric character — [China](/actors/countries/china.md) as the economic engine, [Russia](/actors/countries/russia.md) as the military disruptor. See [Cold War 2](/conflicts/cold-war-2.md).
 
 ## FACE Intelligence Simultaneity Reading
 

@@ -29,11 +29,11 @@ These are not isolated tactics but components of an integrated cognitive warfare
 
 ## Strategic Objective
 
-The stated goal is to help [Russia](/actors/russia.md) "maintain the image of a superpower." The internal logic is explicit: "The more Russia participates in active influence campaigns all over the world, the stronger the image of a global Russian power." This reveals that Russian cognitive warfare serves a dual purpose — destabilizing adversaries while compensating for the gap between Russia's actual capabilities and its superpower aspirations. [1]
+The stated goal is to help [Russia](/actors/countries/russia.md) "maintain the image of a superpower." The internal logic is explicit: "The more Russia participates in active influence campaigns all over the world, the stronger the image of a global Russian power." This reveals that Russian cognitive warfare serves a dual purpose — destabilizing adversaries while compensating for the gap between Russia's actual capabilities and its superpower aspirations. [1]
 
 ## Armenia Election Influence
 
-The SDA planned to influence Armenia's parliamentary election through a media outlet aimed at Russian-speaking voters. This extends the operational scope beyond the West into the post-Soviet space, targeting [Russia](/actors/russia.md)'s near abroad through media infrastructure rather than covert sabotage. [1]
+The SDA planned to influence Armenia's parliamentary election through a media outlet aimed at Russian-speaking voters. This extends the operational scope beyond the West into the post-Soviet space, targeting [Russia](/actors/countries/russia.md)'s near abroad through media infrastructure rather than covert sabotage. [1]
 
 ## Paris Pig Head Attack
 

@@ -14,7 +14,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-The Russia-Ukraine War began with Russia's full-scale invasion of Ukraine on February 24, 2022. [Vladimir Putin](/actors/putin.md) launched what is widely understood to be a war of choice, rooted in his personal views about Ukrainian nationhood and Russian imperial identity rather than in any compelling security imperative. The initial phase aimed at regime change in Kyiv failed decisively, and the war settled into an attritional pattern with front lines largely static and [Russia](/actors/russia.md) advancing only through grinding, high-cost assaults.
+The Russia-Ukraine War began with Russia's full-scale invasion of Ukraine on February 24, 2022. [Vladimir Putin](/actors/putin.md) launched what is widely understood to be a war of choice, rooted in his personal views about Ukrainian nationhood and Russian imperial identity rather than in any compelling security imperative. The initial phase aimed at regime change in Kyiv failed decisively, and the war settled into an attritional pattern with front lines largely static and [Russia](/actors/countries/russia.md) advancing only through grinding, high-cost assaults.
 
 [Volodymyr Zelensky](/actors/zelensky.md) and the Ukrainian leadership have sustained the war effort through a combination of Western military assistance, domestic innovation in [drone warfare](/themes/drone-warfare.md), and adaptive operational doctrine. The conflict has become the largest sustained land war in [Europe](/regions/europe.md) since 1945.
 
@@ -26,7 +26,7 @@ The operational picture is characterized by several parallel Ukrainian campaigns
 
 - **Crimea isolation**: Ukraine is successfully isolating [Crimea](/events/crimea-isolation-campaign.md), with fuel shortages becoming acute — the Russian-appointed governor has forbidden civilian fuel sales on the peninsula [3].
 - **Long-range strikes**: Ukrainian long-range strikes are targeting Russian war production, not just refineries. The Titan-Barrikady facility in Volgograd (former Stalingrad) has been hit by FP-5 Flamingo missiles [4].
-- **Belarus pressure**: [Lukashenka](/actors/lukashenka.md) has halted radio guidance equipment that was helping Russian strikes, responding to Ukrainian threats. [Belarus](/actors/belarus.md) is increasingly exposed: Minsk is closer to Kyiv than Kyiv is to Crimea, placing vital targets within Ukrainian reach [5].
+- **Belarus pressure**: [Lukashenka](/actors/lukashenka.md) has halted radio guidance equipment that was helping Russian strikes, responding to Ukrainian threats. [Belarus](/actors/countries/belarus.md) is increasingly exposed: Minsk is closer to Kyiv than Kyiv is to Crimea, placing vital targets within Ukrainian reach [5].
 - **Refinery attacks**: Fuel shortages are appearing across Russia as the campaign against refineries begins to bite [4].
 
 Putin has rejected ceasefire proposals, with demands disconnected from battlefield realities [1].

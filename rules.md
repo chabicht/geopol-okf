@@ -268,3 +268,47 @@ date-grouped, newest first, using ISO 8601 dates. The leading bold word
   from the source's `source:` frontmatter field is used.
 - Author actor concepts list the sources that inform them, linking to the
   original URLs.
+
+---
+
+## 15. Subdirectory Organization
+
+Top-level directories MAY be split into subdirectories to manage clutter as
+the bundle grows. Subdirectories are a purely organizational layer — they do
+not affect the `type` field, which remains flat (see §3).
+
+### 15.1 When to split
+
+- **No hard threshold** triggers splitting a directory. The decision is left
+  to author judgment, guided by how cluttered the directory has become.
+- **Group threshold:** When a single tag group within a directory exceeds
+  **20 concepts**, that group SHOULD be moved into its own subdirectory.
+  Groups below this threshold stay at the directory root alongside any
+  subdirectories.
+- The threshold is a guideline, not a gate — authors MAY split earlier or
+  later if it improves navigability.
+
+### 15.2 Subdirectory naming
+
+- Subdirectory names derive from the existing tag vocabulary (§11), not
+  invented ad hoc.
+- Use the pluralized tag name where natural: `countries/`, `authors/`,
+  `leaders/`, `organizations/`.
+
+### 15.3 Invariants
+
+- **`type` stays flat.** A file in `actors/countries/china.md` still has
+  `type: Actor`, not `type: Country`. Subdirectories are organizational,
+  not typological.
+- **Each subdirectory gets its own `README.md`** index file following the
+  same conventions as top-level index files (§12).
+- **Cross-links must be updated** when files move into subdirectories.
+  Absolute bundle-relative paths change (e.g., `/actors/countries/china.md` becomes
+  `/actors/countries/china.md`). A link-rewriting pass is part of any
+  migration.
+
+### 15.4 Concept IDs
+
+Concept IDs are derived from the full file path (OKF §2). Moving a file
+into a subdirectory changes its concept ID. Consumers that cache or index
+by concept ID MUST be updated.

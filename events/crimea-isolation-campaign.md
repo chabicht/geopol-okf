@@ -9,7 +9,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Crimea has been occupied by [Russia](/actors/russia.md) since 2014 and serves as a critical logistics and command hub for Russian forces in southern [Ukraine](/actors/ukraine.md). The [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) created the conditions for a sustained Ukrainian campaign to isolate the peninsula. The campaign follows a deliberate three-step process designed to systematically strip Russia's ability to sustain its forces in Crimea. See [Europe](/regions/europe.md) and [Drone Warfare](/themes/drone-warfare.md).
+Crimea has been occupied by [Russia](/actors/countries/russia.md) since 2014 and serves as a critical logistics and command hub for Russian forces in southern [Ukraine](/actors/countries/ukraine.md). The [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) created the conditions for a sustained Ukrainian campaign to isolate the peninsula. The campaign follows a deliberate three-step process designed to systematically strip Russia's ability to sustain its forces in Crimea. See [Europe](/regions/europe.md) and [Drone Warfare](/themes/drone-warfare.md).
 
 # What Happened
 

@@ -17,7 +17,7 @@ Under Kadyrov, Chechnya functions as a near-totalitarian state within a state �
 
 ## Health Decline and Succession Crisis
 
-Kadyrov is rumored to be terminally ill, suffering from pancreatic necrosis, with a dramatic physical decline visible in public appearances. [1] This raises an acute succession question for both Chechnya and [Russia](/actors/russia.md).
+Kadyrov is rumored to be terminally ill, suffering from pancreatic necrosis, with a dramatic physical decline visible in public appearances. [1] This raises an acute succession question for both Chechnya and [Russia](/actors/countries/russia.md).
 
 His favored successor had been his son Adam, but Adam was injured in a car crash in January 2026 and has been downgraded in the succession calculus. Favored-son status has now shifted to Akhmat Kadyrov Jr. [1]
 
@@ -27,7 +27,7 @@ Russian security services may not accept a dynastic succession. Kadyrov's regime
 
 ## Kremlin's Messenger to the Islamic World
 
-Beyond his role in Chechnya, Kadyrov serves as the Kremlin's primary messenger to the Islamic world. His social media presence, elite interactions, and "holy jihad" narrative against the West have achieved mass media amplification across Indonesia, Saudi Arabia, and the Global South. Kadyrov's reported failing health threatens to create a strategic communications gap for [Russia](/actors/russia.md)'s influence operations targeting Muslim audiences. Several potential successors exist — including Kadyrov's sons, Adam Delimkhanov, Magomed Daudov, and Apti Alaudinov — but none combine his unique blend of militaristic persona, Islamic credentials, and entertainment value. The broader Kremlin influence ecosystem will likely outlast any individual [2].
+Beyond his role in Chechnya, Kadyrov serves as the Kremlin's primary messenger to the Islamic world. His social media presence, elite interactions, and "holy jihad" narrative against the West have achieved mass media amplification across Indonesia, Saudi Arabia, and the Global South. Kadyrov's reported failing health threatens to create a strategic communications gap for [Russia](/actors/countries/russia.md)'s influence operations targeting Muslim audiences. Several potential successors exist — including Kadyrov's sons, Adam Delimkhanov, Magomed Daudov, and Apti Alaudinov — but none combine his unique blend of militaristic persona, Islamic credentials, and entertainment value. The broader Kremlin influence ecosystem will likely outlast any individual [2].
 
 # Analysis
 

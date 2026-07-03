@@ -13,9 +13,9 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Background
 
-The global system is defined by systemic great power competition between the US-led order and an emerging axis of authoritarian powers. [Velina Tchakarova](/actors/velina-tchakarova.md) coined the term "DragonBear axis" to describe the deepening coordination between [China](/actors/china.md) and [Russia](/actors/russia.md) — a partnership that operates below the threshold of a formal alliance but achieves strategic alignment through coordinated pressure across multiple theaters. The concept of a "CRINK alliance" — China, Russia, [Iran](/actors/iran.md), and North Korea — articulated by Kiesewetter, extends this framework to include all four revisionist powers cooperating militarily and technologically against NATO in every theater.
+The global system is defined by systemic great power competition between the US-led order and an emerging axis of authoritarian powers. [Velina Tchakarova](/actors/velina-tchakarova.md) coined the term "DragonBear axis" to describe the deepening coordination between [China](/actors/countries/china.md) and [Russia](/actors/countries/russia.md) — a partnership that operates below the threshold of a formal alliance but achieves strategic alignment through coordinated pressure across multiple theaters. The concept of a "CRINK alliance" — China, Russia, [Iran](/actors/countries/iran.md), and North Korea — articulated by Kiesewetter, extends this framework to include all four revisionist powers cooperating militarily and technologically against NATO in every theater.
 
-The [United States](/actors/united-states.md) finds itself stretched across these simultaneous theaters, with the same munitions, air-defense inventories, political attention, and industrial bottlenecks recurring across each — a structural vulnerability the axis is designed to exploit.
+The [United States](/actors/countries/united-states.md) finds itself stretched across these simultaneous theaters, with the same munitions, air-defense inventories, political attention, and industrial bottlenecks recurring across each — a structural vulnerability the axis is designed to exploit.
 
 # Current Situation
 
@@ -31,11 +31,11 @@ As of mid-2026, the base case is "Hot Peace and Cold War": multipolar diplomacy 
 
 ## DragonBear Hierarchy
 
-The DragonBear axis emerged from the Iran war more operationally coordinated but more visibly hierarchical. [China](/actors/china.md) is expanding yuan settlement, CIPS throughput, and sanctions-resistant energy infrastructure, while [Russia](/actors/russia.md) has become more dependent on Chinese pricing power and market access. The asymmetry within the axis is sharpening: China provides the economic architecture, Russia provides the military disruption, and the dependency flows one way [1].
+The DragonBear axis emerged from the Iran war more operationally coordinated but more visibly hierarchical. [China](/actors/countries/china.md) is expanding yuan settlement, CIPS throughput, and sanctions-resistant energy infrastructure, while [Russia](/actors/countries/russia.md) has become more dependent on Chinese pricing power and market access. The asymmetry within the axis is sharpening: China provides the economic architecture, Russia provides the military disruption, and the dependency flows one way [1].
 
 ## India as Swing Variable
 
-[India](/actors/india.md) widened its room for maneuver by deepening Russian energy ties, freezing Starlink approvals, and reopening high-level dialogue with China — making it the most important swing variable between hardened bifurcation and volatile multipolarity. India's multi-alignment doctrine is being tested: can it participate in a RIC framework while maintaining its Quad membership? The answer determines whether the system hardens into a bipolar structure or fragments into a more fluid multipolar order [1].
+[India](/actors/countries/india.md) widened its room for maneuver by deepening Russian energy ties, freezing Starlink approvals, and reopening high-level dialogue with China — making it the most important swing variable between hardened bifurcation and volatile multipolarity. India's multi-alignment doctrine is being tested: can it participate in a RIC framework while maintaining its Quad membership? The answer determines whether the system hardens into a bipolar structure or fragments into a more fluid multipolar order [1].
 
 # Analysis
 

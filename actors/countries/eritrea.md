@@ -9,7 +9,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Eritrea is a coastal state on the Horn of Africa whose independence from Ethiopia in 1993 left Ethiopia landlocked. The resulting geographic asymmetry — Eritrea controls the coastline, Ethiopia needs port access — is the structural driver of recurring conflict between the two states. Eritrea's alignment against the [UAE](/actors/uae.md)-[Ethiopia](/actors/ethiopia.md)-RSF axis places it on the opposing side of a regional proxy competition.
+Eritrea is a coastal state on the Horn of Africa whose independence from Ethiopia in 1993 left Ethiopia landlocked. The resulting geographic asymmetry — Eritrea controls the coastline, Ethiopia needs port access — is the structural driver of recurring conflict between the two states. Eritrea's alignment against the [UAE](/actors/countries/uae.md)-[Ethiopia](/actors/countries/ethiopia.md)-RSF axis places it on the opposing side of a regional proxy competition.
 
 # Current Situation
 

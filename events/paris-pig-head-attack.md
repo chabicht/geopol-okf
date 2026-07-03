@@ -9,7 +9,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-[Russia](/actors/russia.md) has been conducting a campaign of cognitive strikes against Western nations, operating below the threshold of armed conflict to destabilize societies, inflame tensions, and project an image of Russian power. The [Paris](/actors/france.md) pig-head attack is one documented instance of this broader campaign, revealed through leaked internal documents from Delfi Estonia shared with OCCRP. See [Cognitive Warfare](/themes/cognitive-warfare.md) and [Europe](/regions/europe.md).
+[Russia](/actors/countries/russia.md) has been conducting a campaign of cognitive strikes against Western nations, operating below the threshold of armed conflict to destabilize societies, inflame tensions, and project an image of Russian power. The [Paris](/actors/countries/france.md) pig-head attack is one documented instance of this broader campaign, revealed through leaked internal documents from Delfi Estonia shared with OCCRP. See [Cognitive Warfare](/themes/cognitive-warfare.md) and [Europe](/regions/europe.md).
 
 # What Happened
 

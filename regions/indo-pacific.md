@@ -9,23 +9,23 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-The Indo-Pacific is the maritime theater stretching from the eastern Indian Ocean through the South China Sea to the western Pacific. It encompasses [China](/actors/china.md), [Taiwan](/actors/taiwan.md), [Japan](/actors/japan.md), the Philippines, and Australia. It is the central front of the new Cold War, where great-power competition plays out through naval posture, coast-guard operations, and grey-zone tactics rather than conventional armed conflict.
+The Indo-Pacific is the maritime theater stretching from the eastern Indian Ocean through the South China Sea to the western Pacific. It encompasses [China](/actors/countries/china.md), [Taiwan](/actors/countries/taiwan.md), [Japan](/actors/countries/japan.md), the Philippines, and Australia. It is the central front of the new Cold War, where great-power competition plays out through naval posture, coast-guard operations, and grey-zone tactics rather than conventional armed conflict.
 
 The region's geography is defined by island chains, straits, and exclusive economic zones that create overlapping territorial claims. Key chokepoints — the Bashi Channel, Miyako Strait, and the Taiwan Strait — control access between the East and South China Seas and the broader Pacific.
 
 # Current Situation
 
-- China's coast guard has normalized operations east of Taiwan; survey vessels are conducting regular operations in contested waters. See [China](/actors/china.md).
+- China's coast guard has normalized operations east of Taiwan; survey vessels are conducting regular operations in contested waters. See [China](/actors/countries/china.md).
 - The Fujian carrier transited the Taiwan Strait; a carrier strike group deployed east of the Philippines.
 - A temporary structure appeared at Scarborough Shoal; the broader maritime architecture remains contested.
-- Britain, [France](/actors/france.md), and [Germany](/actors/germany.md) issued a joint statement on Taiwan, extending European deterrence rhetoric into the Pacific.
-- [Japan](/actors/japan.md) PM Takaichi suggested Japan would consider military involvement if China moves against Taiwan.
-- [India](/actors/india.md) is sticking with the US despite Trump-era friction; China is the overriding strategic concern driving this alignment.
+- Britain, [France](/actors/countries/france.md), and [Germany](/actors/countries/germany.md) issued a joint statement on Taiwan, extending European deterrence rhetoric into the Pacific.
+- [Japan](/actors/countries/japan.md) PM Takaichi suggested Japan would consider military involvement if China moves against Taiwan.
+- [India](/actors/countries/india.md) is sticking with the US despite Trump-era friction; China is the overriding strategic concern driving this alignment.
 - Export-control friction continues with Japan over semiconductor restrictions.
-- [Australia](/actors/australia.md) illustrates governance dysfunction through self-reinforcing feedback loops: a "shaming loop" suppresses dissent while a "compliance loop" selects for conformity, progressively eliminating institutional competence. Australia's resource-export dependency (iron ore, coal, LNG, bauxite) makes it vulnerable to chokepoint disruption [4].
-- McKinsey's 2026 trade geometry analysis shows US-China trade fell approximately 30%, with ASEAN, Brazil, and [India](/actors/india.md) absorbing redirected flows. AI-related trade drove one-third of global trade growth [5].
+- [Australia](/actors/countries/australia.md) illustrates governance dysfunction through self-reinforcing feedback loops: a "shaming loop" suppresses dissent while a "compliance loop" selects for conformity, progressively eliminating institutional competence. Australia's resource-export dependency (iron ore, coal, LNG, bauxite) makes it vulnerable to chokepoint disruption [4].
+- McKinsey's 2026 trade geometry analysis shows US-China trade fell approximately 30%, with ASEAN, Brazil, and [India](/actors/countries/india.md) absorbing redirected flows. AI-related trade drove one-third of global trade growth [5].
 - The [RIC revival](/events/ric-revival-2026.md) (Russia-India-China trilateral) and India's Starlink freeze signal that the Indo-Pacific is increasingly contested through diplomatic and technological vectors, not just military posture [6].
-- [China](/actors/china.md) is extending its influence into [Bangladesh](/actors/bangladesh.md) through $9.2 billion in proposed investments across infrastructure, logistics, manufacturing, and energy — 13 MOUs signed during PM Tarique Rahman's Beijing visit. The move alarms [India](/actors/india.md) but faces limits from Myanmar's instability, Bangladesh's strategic autonomy, and Beijing's strained budget [7].
+- [China](/actors/countries/china.md) is extending its influence into [Bangladesh](/actors/countries/bangladesh.md) through $9.2 billion in proposed investments across infrastructure, logistics, manufacturing, and energy — 13 MOUs signed during PM Tarique Rahman's Beijing visit. The move alarms [India](/actors/countries/india.md) but faces limits from Myanmar's instability, Bangladesh's strategic autonomy, and Beijing's strained budget [7].
 - The PLA conducted [Justice Mission 2025](/events/justice-mission-2025.md) in December — a large-scale surprise blockade exercise around Taiwan with 18 PLAN vessels, 14 coast guard ships, 201 air sorties, and H-6 bombers across eight zones. The exercise rehearsed counter-intervention against U.S. forces and interdiction of Taiwanese energy imports [8].
 
 # Key Dynamics
