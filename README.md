@@ -1,7 +1,3 @@
----
-okf_version: "0.1"
----
-
 # Geopolitics Open Knowledge Bundle
 
 A structured knowledge base covering global geopolitics — actors, conflicts,
