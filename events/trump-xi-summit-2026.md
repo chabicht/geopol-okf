@@ -5,6 +5,8 @@ parent: Events
 description: "May 15, 2026 summit where Xi Jinping framed Taiwan as the most important issue in US-China relations, testing Trump's willingness to soften America's Taiwan posture — introducing deep uncertainty into US-Taiwan relations"
 tags: [indo-pacific, cold-war, gray-zone]
 status: concluded
+actuality: actual
+event_date: 2026-05-15
 timestamp: 2026-07-04T00:00:00Z
 ---
 

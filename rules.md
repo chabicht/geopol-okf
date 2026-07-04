@@ -77,7 +77,7 @@ Docs navigation.
 ```yaml
 type: Actor              # REQUIRED — one of the 5 types
 title: United States     # REQUIRED — used as sidebar label and page title
-parent: Countries        # REQUIRED — the parent nav page (see §4.4)
+parent: Countries        # REQUIRED — the parent nav page (see §4.5)
 ```
 
 ### 4.2 Recommended fields (concept files)
@@ -89,7 +89,31 @@ status: ongoing           # Lifecycle state (see §6)
 timestamp: 2026-07-02T00:00:00Z  # ISO 8601 last-modified
 ```
 
-### 4.3 Extension fields
+### 4.3 Event-specific fields
+
+Event concepts (`type: Event`) SHOULD include these additional fields:
+
+```yaml
+event_date: 2026-06-17     # ISO 8601 date when the event occurred (or is projected to occur)
+actuality: actual           # "actual" (happened) or "hypothetical" (projected/speculative)
+```
+
+| Field | Purpose | Values |
+|-------|---------|--------|
+| `event_date` | When the event itself occurred — distinct from `timestamp` (last-modified) | ISO 8601 date (`YYYY-MM-DD`) |
+| `actuality` | Whether the event is real or hypothetical | `actual`, `hypothetical` |
+
+`event_date` captures the **event occurrence date**, not the file modification
+date (that's `timestamp`). For ongoing situations without a single decisive
+date, use the date the situation became notable or was first reported.
+
+`actuality` is orthogonal to `status` (§6): `status` tracks whether a situation
+is still evolving (`ongoing`/`concluded`), while `actuality` tracks whether it
+happened at all (`actual`/`hypothetical`). A hypothetical event can be
+`ongoing` (a projected scenario being actively discussed) or `concluded` (a
+speculation that has been overtaken by events).
+
+### 4.4 Extension fields
 
 Producers MAY add any additional keys. Common extensions in this bundle:
 
@@ -98,7 +122,7 @@ author: Velina Tchakarova       # For author actor concepts
 source_url: https://...         # For events sourced from a single article
 ```
 
-### 4.4 Navigation fields (Just the Docs)
+### 4.5 Navigation fields (Just the Docs)
 
 The sidebar tree is built from these frontmatter fields:
 

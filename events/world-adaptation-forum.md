@@ -5,6 +5,8 @@ parent: Events
 description: April 2026 Budapest conference on civilizational adaptation, attended by The Honest Sorcerer and Nate Hagens, focusing on mitigation strategies for the polycrisis
 tags: [energy]
 status: concluded
+actuality: actual
+event_date: 2026-04-01
 timestamp: 2026-04-12T00:00:00Z
 ---
 

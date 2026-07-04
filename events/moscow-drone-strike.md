@@ -5,6 +5,8 @@ parent: Events
 description: Ukraine's drone attack on Moscow demonstrating Putin can no longer protect the capital from war consequences
 tags: [drone-warfare, military, europe]
 status: concluded
+actuality: actual
+event_date: 2026-05-24
 timestamp: 2026-05-24T00:00:00Z
 ---
 

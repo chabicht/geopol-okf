@@ -5,6 +5,8 @@ parent: Events
 description: Secret Saudi-Iran negotiations mediated through Pakistan with Russian and Chinese support, aiming at a non-aggression pact that would stabilize the Gulf outside the US security framework
 tags: [energy, middle-east]
 status: ongoing
+actuality: actual
+event_date: 2026-07-01
 timestamp: 2026-07-02T00:00:00Z
 ---
 

@@ -5,6 +5,8 @@ parent: Events
 description: "Israel's December 2025 recognition of Somaliland as a sovereign state accelerates Red Sea competition and reshapes Horn of Africa alignments."
 tags: [middle-east, africa, naval, trade]
 status: ongoing
+actuality: actual
+event_date: 2025-12-26
 timestamp: 2026-01-20T00:00:00Z
 ---
 

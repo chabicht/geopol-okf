@@ -5,6 +5,8 @@ parent: Events
 description: Russia-India-China trilateral revival as a coordinated DragonBear play to pull India away from Washington, coinciding with India's Starlink freeze
 tags: [trade, indo-pacific]
 status: ongoing
+actuality: actual
+event_date: 2026-07-01
 timestamp: 2026-07-02T00:00:00Z
 ---
 

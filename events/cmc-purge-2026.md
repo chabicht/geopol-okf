@@ -5,6 +5,8 @@ parent: Events
 description: Xi Jinping's unprecedented purge of China's Central Military Commission, removing Zhang Youxia and Liu Zhenli — the structural rupture of China's military command
 tags: [military, indo-pacific]
 status: concluded
+actuality: actual
+event_date: 2026-02-06
 timestamp: 2026-02-06T00:00:00Z
 ---
 

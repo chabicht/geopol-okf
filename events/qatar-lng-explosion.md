@@ -5,6 +5,8 @@ parent: Events
 description: June 2026 explosion at Ras Laffan Industrial City damaging the Barzan gas facility during the Hormuz crisis restart window.
 tags: [energy, supply-chain, middle-east]
 status: concluded
+actuality: actual
+event_date: 2026-06-01
 timestamp: 2026-07-02T00:00:00Z
 ---
 

@@ -5,6 +5,8 @@ parent: Events
 description: Ukrainian campaign to isolate Russian-occupied Crimea through a three-step process of sea denial, air superiority, and Kerch Bridge targeting.
 tags: [military, drone-warfare, air-defense, europe]
 status: ongoing
+actuality: actual
+event_date: 2026-07-02
 timestamp: 2026-07-02T00:00:00Z
 ---
 

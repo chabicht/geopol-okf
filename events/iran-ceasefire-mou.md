@@ -5,6 +5,8 @@ parent: Events
 description: June 17 2026 memorandum ending the kinetic phase of the US-Iran War; a managed pause with Iran retaining Hormuz leverage.
 tags: [energy, middle-east, sanctions, nuclear]
 status: concluded
+actuality: actual
+event_date: 2026-06-17
 timestamp: 2026-07-02T00:00:00Z
 ---
 

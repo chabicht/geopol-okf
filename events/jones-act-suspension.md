@@ -9,6 +9,8 @@ tags:
   - trade
   - supply-chain
 status: ongoing
+actuality: actual
+event_date: 2026-03-08
 timestamp: 2026-07-04T00:00:00Z
 ---
 

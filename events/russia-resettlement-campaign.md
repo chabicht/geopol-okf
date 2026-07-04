@@ -8,6 +8,8 @@ tags:
   - europe
   - demography
 status: ongoing
+actuality: actual
+event_date: 2026-07-04
 timestamp: 2026-07-04T00:00:00Z
 ---
 

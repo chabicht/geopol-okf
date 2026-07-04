@@ -11,6 +11,8 @@ tags:
   - missile
   - cognitive-warfare
 status: concluded
+actuality: actual
+event_date: 2025-12-29
 timestamp: 2026-07-04T00:00:00Z
 ---
 

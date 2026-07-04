@@ -5,6 +5,8 @@ parent: Events
 description: US Strategic Petroleum Reserve approaching operational floor as record exports and drawdowns mask the depth of the energy crisis
 tags: [energy, economics]
 status: ongoing
+actuality: actual
+event_date: 2026-05-09
 timestamp: 2026-07-02T00:00:00Z
 ---
 

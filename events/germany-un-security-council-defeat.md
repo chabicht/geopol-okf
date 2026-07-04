@@ -5,6 +5,8 @@ parent: Events
 description: Germany's worst-ever UN Security Council election result — only 104 votes against 127 needed, exposing the erosion of German diplomatic standing
 tags: [europe]
 status: concluded
+actuality: actual
+event_date: 2026-06-08
 timestamp: 2026-06-08T00:00:00Z
 ---
 

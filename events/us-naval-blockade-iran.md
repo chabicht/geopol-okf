@@ -5,6 +5,8 @@ parent: Events
 description: Post-ceasefire US counter-blockade of Iranian ports, imposing a dual-blockade architecture that deepened the energy crisis and shifted the conflict to economic warfare
 tags: [kinetic, energy, sanctions, middle-east]
 status: concluded
+actuality: actual
+event_date: 2026-06-20
 timestamp: 2026-07-02T00:00:00Z
 ---
 

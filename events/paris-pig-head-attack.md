@@ -5,6 +5,8 @@ parent: Events
 description: September 2025 Russian-directed operation targeting Paris mosques with severed pig heads, part of broader cognitive strikes against the West.
 tags: [cognitive-warfare, intelligence, europe]
 status: concluded
+actuality: actual
+event_date: 2025-09-09
 timestamp: 2026-07-02T00:00:00Z
 ---
 

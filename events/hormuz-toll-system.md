@@ -5,6 +5,8 @@ parent: Events
 description: Iran-Oman talks on a permanent toll system for the Strait of Hormuz, formalizing Iran's control over maritime traffic and institutionalizing chokepoint leverage
 tags: [energy, middle-east, trade]
 status: ongoing
+actuality: actual
+event_date: 2026-05-01
 timestamp: 2026-07-03T00:00:00Z
 ---
 

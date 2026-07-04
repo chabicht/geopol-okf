@@ -5,6 +5,8 @@ parent: Events
 description: "Trump's threats to seize Greenland and tariff eight NW European states expose EU weakness, fracture the European Right, and signal the end of 'the West' as a cohesive bloc."
 tags: [europe, trade, ideology]
 status: ongoing
+actuality: actual
+event_date: 2026-01-20
 timestamp: 2026-01-20T00:00:00Z
 ---
 

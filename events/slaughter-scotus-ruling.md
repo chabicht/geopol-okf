@@ -5,6 +5,8 @@ parent: Events
 description: Supreme Court overturns 90 years of precedent to give Trump dictatorial power over regulatory agencies, stripping independence from civil servants and enabling corruption
 tags: [ideology, elections, oligarchy]
 status: ongoing
+actuality: actual
+event_date: 2026-07-01
 timestamp: 2026-07-01T00:00:00Z
 ---
 
