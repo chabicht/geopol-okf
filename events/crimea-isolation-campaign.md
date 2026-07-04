@@ -1,6 +1,7 @@
 ---
 type: Event
 title: Crimea Isolation Campaign
+parent: Events
 description: Ukrainian campaign to isolate Russian-occupied Crimea through a three-step process of sea denial, air superiority, and Kerch Bridge targeting.
 tags: [military, drone-warfare, air-defense, europe]
 status: ongoing
@@ -9,7 +10,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Crimea has been occupied by [Russia](/actors/countries/russia.md) since 2014 and serves as a critical logistics and command hub for Russian forces in southern [Ukraine](/actors/countries/ukraine.md). The [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) created the conditions for a sustained Ukrainian campaign to isolate the peninsula. The campaign follows a deliberate three-step process designed to systematically strip Russia's ability to sustain its forces in Crimea. See [Europe](/regions/europe.md) and [Drone Warfare](/themes/drone-warfare.md).
+Crimea has been occupied by [Russia]({{ site.baseurl }}/actors/countries/russia.html) since 2014 and serves as a critical logistics and command hub for Russian forces in southern [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html). The [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) created the conditions for a sustained Ukrainian campaign to isolate the peninsula. The campaign follows a deliberate three-step process designed to systematically strip Russia's ability to sustain its forces in Crimea. See [Europe]({{ site.baseurl }}/regions/europe.html) and [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html).
 
 # What Happened
 
@@ -23,7 +24,7 @@ Crimea has been occupied by [Russia](/actors/countries/russia.md) since 2014 and
 
 ## Strategic Significance
 
-- [Phillips O'Brien](/actors/authors/phillips-obrien.md) assessment: if the Russians cannot counter the Ukrainian campaign, Crimea could be isolated with dire strategic results for Russia's overall war effort [1].
+- [Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) assessment: if the Russians cannot counter the Ukrainian campaign, Crimea could be isolated with dire strategic results for Russia's overall war effort [1].
 - O'Brien notes that Putin's fiction — that Crimea is a happy, functioning part of the Russian state — is being shattered by the visible deterioration of conditions on the peninsula [1].
 
 ## Air Superiority Campaign

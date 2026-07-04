@@ -1,6 +1,7 @@
 ---
 type: Event
 title: RIC Revival of 2026
+parent: Events
 description: Russia-India-China trilateral revival as a coordinated DragonBear play to pull India away from Washington, coinciding with India's Starlink freeze
 tags: [trade, indo-pacific]
 status: ongoing
@@ -9,7 +10,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-The Russia-India-China (RIC) trilateral format, dormant for years, was revived in mid-2026 as a coordinated diplomatic initiative. [Velina Tchakarova](/actors/authors/velina-tchakarova.md) frames the revival as a DragonBear play designed to pull [India](/actors/countries/india.md) away from its alignment with the [United States](/actors/countries/united-states.md) — exploiting Indian dissatisfaction with Trump-era treatment and the [US-Iran War](/conflicts/us-iran-war-2026.md)'s disruption of Indian energy supplies.
+The Russia-India-China (RIC) trilateral format, dormant for years, was revived in mid-2026 as a coordinated diplomatic initiative. [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) frames the revival as a DragonBear play designed to pull [India]({{ site.baseurl }}/actors/countries/india.html) away from its alignment with the [United States]({{ site.baseurl }}/actors/countries/united-states.html) — exploiting Indian dissatisfaction with Trump-era treatment and the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html)'s disruption of Indian energy supplies.
 
 # What Happened
 
@@ -20,7 +21,7 @@ The Russia-India-China (RIC) trilateral format, dormant for years, was revived i
 
 # Analysis
 
-Tchakarova argues the RIC revival is a coordinated DragonBear initiative: by reviving the trilateral format, [China](/actors/countries/china.md) and [Russia](/actors/countries/russia.md) create a diplomatic structure that normalizes Indian engagement outside the Western coalition. The Starlink freeze is the sovereignty dimension: India's refusal to approve Starlink licenses signals that satellite connectivity is now treated as a national security question, not a commercial one [1].
+Tchakarova argues the RIC revival is a coordinated DragonBear initiative: by reviving the trilateral format, [China]({{ site.baseurl }}/actors/countries/china.html) and [Russia]({{ site.baseurl }}/actors/countries/russia.html) create a diplomatic structure that normalizes Indian engagement outside the Western coalition. The Starlink freeze is the sovereignty dimension: India's refusal to approve Starlink licenses signals that satellite connectivity is now treated as a national security question, not a commercial one [1].
 
 The initiative tests India's "multi-alignment" doctrine: can India participate in a RIC framework while maintaining its Quad membership and US partnership? The answer depends on whether the RIC remains a diplomatic forum or evolves into an operational coordination structure — and on whether India's sovereignty concerns about US technology companies (Starlink, but also potentially AI platforms) generate durable friction with Washington [1].
 

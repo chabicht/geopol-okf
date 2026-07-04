@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Michael Beckley
+parent: Authors & Analysts
 description: Political scientist arguing that the US possesses the only true sphere of influence — asymmetric hegemony in the Western Hemisphere that China and Russia cannot replicate
 tags: [author, framework]
 status: ongoing
@@ -19,7 +20,7 @@ Beckley argues that the US enjoys a monopoly on true sphere-of-influence control
 
 ## Military and Economic Centrality
 
-The US remains the military and economic center of gravity for the Western coalition. The dollar zone, military preponderance, and geographic depth combine to create a structural advantage that persists even as individual capabilities erode. The implication is that declinist narratives that extrapolate from specific failures (e.g., the [Iran war](/conflicts/us-iran-war-2026.md)) to systemic decline miss the structural resilience of the US position [1].
+The US remains the military and economic center of gravity for the Western coalition. The dollar zone, military preponderance, and geographic depth combine to create a structural advantage that persists even as individual capabilities erode. The implication is that declinist narratives that extrapolate from specific failures (e.g., the [Iran war]({{ site.baseurl }}/conflicts/us-iran-war-2026.html)) to systemic decline miss the structural resilience of the US position [1].
 
 # Sources in Bundle
 

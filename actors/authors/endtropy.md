@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Endtropy
+parent: Authors & Analysts
 description: Pseudonymous analyst drawing historical parallels between Napoleonic blockade warfare and the US-Iran conflict — analyzing the counter-blockade, petrodollar cracking, and the monetary dimensions of geopolitical conflict
 tags: [author, framework, opinion, energy]
 status: ongoing
@@ -19,7 +20,7 @@ Endtropy draws direct parallels between Napoleon's Continental System (the attem
 
 ## Petrodollar as Geopolitical Infrastructure
 
-The analysis of the [UAE](/actors/countries/uae.md)'s swap-line request frames the petrodollar not as a financial abstraction but as geopolitical infrastructure — the plumbing that connects US military power to global energy markets. When that plumbing shows stress (swap-line requests, gold accumulation, currency diversification), it signals that the geopolitical order the plumbing supports is also under stress. The monetary dimension of the Iran war is not a side effect but a central theater [2].
+The analysis of the [UAE]({{ site.baseurl }}/actors/countries/uae.html)'s swap-line request frames the petrodollar not as a financial abstraction but as geopolitical infrastructure — the plumbing that connects US military power to global energy markets. When that plumbing shows stress (swap-line requests, gold accumulation, currency diversification), it signals that the geopolitical order the plumbing supports is also under stress. The monetary dimension of the Iran war is not a side effect but a central theater [2].
 
 # Sources in Bundle
 

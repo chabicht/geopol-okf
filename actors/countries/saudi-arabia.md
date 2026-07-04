@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Saudi Arabia
+parent: Countries
 description: Gulf monarchy mediating between Iran and the US through Pakistan, deploying Pakistani troops and Chinese jets while negotiating a non-aggression pact
 tags: [country, energy, military, middle-east]
 status: ongoing
@@ -9,13 +10,13 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Saudi Arabia is the world's largest oil exporter and the anchor of the Gulf monarchy bloc. Its relationship with [Iran](/actors/countries/iran.md) defines the [Middle East](/regions/middle-east.md) regional order, while its security dependence on the [United States](/actors/countries/united-states.md) is increasingly contested by its economic ties with [China](/actors/countries/china.md). The [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) placed Saudi Arabia in a structurally impossible position: its security patron was at war with its regional rival, while its economic lifeline (oil exports through Hormuz) was under Iranian control.
+Saudi Arabia is the world's largest oil exporter and the anchor of the Gulf monarchy bloc. Its relationship with [Iran]({{ site.baseurl }}/actors/countries/iran.html) defines the [Middle East]({{ site.baseurl }}/regions/middle-east.html) regional order, while its security dependence on the [United States]({{ site.baseurl }}/actors/countries/united-states.html) is increasingly contested by its economic ties with [China]({{ site.baseurl }}/actors/countries/china.html). The [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) placed Saudi Arabia in a structurally impossible position: its security patron was at war with its regional rival, while its economic lifeline (oil exports through Hormuz) was under Iranian control.
 
 # Current Situation
 
 ## Secret Negotiations via Pakistan
 
-Saudi Arabia has been conducting secret negotiations with Iran through [Pakistan](/actors/countries/pakistan.md), with Russian and Chinese support. The talks aim at a potential non-aggression pact that would stabilize the Gulf without requiring direct US involvement. This diplomatic channel represents a significant departure from the historical pattern of US-mediated regional security [1].
+Saudi Arabia has been conducting secret negotiations with Iran through [Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html), with Russian and Chinese support. The talks aim at a potential non-aggression pact that would stabilize the Gulf without requiring direct US involvement. This diplomatic channel represents a significant departure from the historical pattern of US-mediated regional security [1].
 
 ## Military Posture
 
@@ -27,7 +28,7 @@ Saudi Arabia's limited pipeline bypass capacity (via Yanbu on the Red Sea) prove
 
 # Analysis
 
-[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) frames Saudi-Iran negotiations through Pakistan as part of a broader tectonic shift in geopolitics — the recognition that the US security umbrella is no longer reliable and that regional powers must negotiate their own stability. The involvement of [China](/actors/countries/china.md) and [Russia](/actors/countries/russia.md) as backers of these talks signals the end of the US monopoly on Middle East security architecture [1].
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) frames Saudi-Iran negotiations through Pakistan as part of a broader tectonic shift in geopolitics — the recognition that the US security umbrella is no longer reliable and that regional powers must negotiate their own stability. The involvement of [China]({{ site.baseurl }}/actors/countries/china.html) and [Russia]({{ site.baseurl }}/actors/countries/russia.html) as backers of these talks signals the end of the US monopoly on Middle East security architecture [1].
 
 # Citations
 

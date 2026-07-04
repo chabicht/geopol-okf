@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Germany
+parent: Countries
 description: Germany as a geopolitical actor — publishing first military strategy, signaling European conventional defense leadership, but hampered by timeline inconsistencies, capability gaps, and the AfD's Trump dilemma
 tags: [country, military, europe, nato, ideology, economics, trade]
 status: ongoing
@@ -9,7 +10,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-Germany is the largest economy in [Europe](/regions/europe.md) and a foundational member of both [NATO](/actors/organizations/nato.md) and the [EU](/actors/organizations/eu.md). Historically constrained in its military posture by the legacy of World War II, Germany has undergone a gradual strategic awakening accelerated by the [Russia-Ukraine War](/conflicts/russia-ukraine-war.md). The publication of its first military strategy marks a significant step in this transformation.
+Germany is the largest economy in [Europe]({{ site.baseurl }}/regions/europe.html) and a foundational member of both [NATO]({{ site.baseurl }}/actors/organizations/nato.html) and the [EU]({{ site.baseurl }}/actors/organizations/eu.html). Historically constrained in its military posture by the legacy of World War II, Germany has undergone a gradual strategic awakening accelerated by the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html). The publication of its first military strategy marks a significant step in this transformation.
 
 # Current Situation
 
@@ -35,19 +36,19 @@ The strategy signals to Washington that Europe is ready to shoulder the conventi
 
 ## Taiwan
 
-Along with [France](/actors/countries/france.md) and Britain, Germany issued a rare joint statement on [Taiwan](/actors/countries/taiwan.md) through de facto embassies in Taipei. This signals that European powers now treat Taiwan as integral to the global order — a position that extends German strategic concern beyond the European theater.
+Along with [France]({{ site.baseurl }}/actors/countries/france.html) and Britain, Germany issued a rare joint statement on [Taiwan]({{ site.baseurl }}/actors/countries/taiwan.html) through de facto embassies in Taipei. This signals that European powers now treat Taiwan as integral to the global order — a position that extends German strategic concern beyond the European theater.
 
 ## UN Security Council Defeat
 
-In June 2026, Germany suffered its worst-ever [UN Security Council election defeat](/events/germany-un-security-council-defeat.md), receiving only 104 votes against the 127 needed. The result broke a historical pattern of near-unanimous Western European support (97-98% in 2002 and 2018). Former ambassador Wolfgang Ischinger attributed the failure to missed candidacy preparation dating to 2019-2020, but the result also reflects the cumulative erosion of German diplomatic influence during the Russia-Ukraine and US-Iran wars [3][4].
+In June 2026, Germany suffered its worst-ever [UN Security Council election defeat]({{ site.baseurl }}/events/germany-un-security-council-defeat.html), receiving only 104 votes against the 127 needed. The result broke a historical pattern of near-unanimous Western European support (97-98% in 2002 and 2018). Former ambassador Wolfgang Ischinger attributed the failure to missed candidacy preparation dating to 2019-2020, but the result also reflects the cumulative erosion of German diplomatic influence during the Russia-Ukraine and US-Iran wars [3][4].
 
 ## AfD and the Trump Dilemma
 
-Germany's far-right AfD has long sought close ties to the [Trump](/actors/trump.md) administration, viewing American ideological backing — from Elon Musk and JD Vance — as key to boosting domestic legitimacy and breaking the "firewall" imposed by mainstream parties. But Trump's [Greenland threats](/events/trump-greenland-crisis.md) and Venezuela intervention have forced a recalibration. Alice Weidel criticized Trump for violating his promise not to interfere in other countries; Tino Chrupalla condemned "Wild West methods." The criticism was tepid but rare from a party that previously embraced Trump. Only 12% of Germans view Trump's performance positively and only 15% see the US as a trustworthy partner — a new low that makes alignment with Trump politically toxic [5].
+Germany's far-right AfD has long sought close ties to the [Trump]({{ site.baseurl }}/actors/trump.html) administration, viewing American ideological backing — from Elon Musk and JD Vance — as key to boosting domestic legitimacy and breaking the "firewall" imposed by mainstream parties. But Trump's [Greenland threats]({{ site.baseurl }}/events/trump-greenland-crisis.html) and Venezuela intervention have forced a recalibration. Alice Weidel criticized Trump for violating his promise not to interfere in other countries; Tino Chrupalla condemned "Wild West methods." The criticism was tepid but rare from a party that previously embraced Trump. Only 12% of Germans view Trump's performance positively and only 15% see the US as a trustworthy partner — a new low that makes alignment with Trump politically toxic [5].
 
 ## China Shock 2.0 and the Auto Crisis
 
-Germany is at the epicenter of what [Adam Tooze](/actors/authors/adam-tooze.md) calls "China Shock 2.0" — the current wave of Chinese export competition that differs fundamentally from the early-2000s "China Shock 1.0." Germany's trade balance with [China](/actors/countries/china.md) swung by €27 billion between 2021 and 2025, with 60% of that swing accounted for by vehicles. Chancellor Merz has taken up the accusation of an undervaluced Chinese currency. Volkswagen announced plans to cut up to 100,000 jobs, conveying the depth of the industrial crisis [6].
+Germany is at the epicenter of what [Adam Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) calls "China Shock 2.0" — the current wave of Chinese export competition that differs fundamentally from the early-2000s "China Shock 1.0." Germany's trade balance with [China]({{ site.baseurl }}/actors/countries/china.html) swung by €27 billion between 2021 and 2025, with 60% of that swing accounted for by vehicles. Chancellor Merz has taken up the accusation of an undervaluced Chinese currency. Volkswagen announced plans to cut up to 100,000 jobs, conveying the depth of the industrial crisis [6].
 
 Tooze frames this as "mercantilist-on-mercantilist violence": Germany is itself a chronic trade surplus country, so China Shock 2.0 is competitive surplus against surplus, not the classic deficit-country-versus-surplus-country story. The irony is that German automakers paid out €31 billion in dividends in 2023 alone — as the Chinese EV avalanche was already upon them — rather than reinvesting in needed innovation. As Tordoir and Setser put it, "complacency is the besetting sin of European and particularly German industrial policy." [6]
 

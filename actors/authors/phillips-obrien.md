@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Phillips P. O'Brien
+parent: Authors & Analysts
 description: Military historian and analyst — author of "War and Power" — arguing that wars are choices of individual leaders, that cheap mass beats expensive precision, and that US decline is accelerating faster than expected
 tags: [author, framework, opinion]
 status: ongoing
@@ -9,7 +10,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-Phillips P. O'Brien is a military historian and analyst whose work challenges realist assumptions about war and state behavior. His book "War and Power: Who Wins Wars and Why" provides the foundational framework for his analysis: that wars are not the rational pursuit of national interest by unitary state actors but the choices of individual leaders whose personal calculus may diverge sharply from strategic logic. He publishes detailed tracking of the [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) and the [US-Iran War](/conflicts/us-iran-war-2026.md), combining historical framework with real-time operational assessment.
+Phillips P. O'Brien is a military historian and analyst whose work challenges realist assumptions about war and state behavior. His book "War and Power: Who Wins Wars and Why" provides the foundational framework for his analysis: that wars are not the rational pursuit of national interest by unitary state actors but the choices of individual leaders whose personal calculus may diverge sharply from strategic logic. He publishes detailed tracking of the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) and the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), combining historical framework with real-time operational assessment.
 
 # Key Frameworks
 
@@ -19,7 +20,7 @@ O'Brien's central analytical premise: "battles rarely determine anything; they r
 
 ## Leaders, Not States
 
-Wars are choices of individual leaders, not state actors pursuing national interest. O'Brien challenges realism directly, arguing that the unitary rational actor model obscures the most important variable: who is making the decision and why. This framework is particularly relevant to his analysis of [Trump](/actors/trump.md)'s decision to attack [Iran](/actors/countries/iran.md) — a personal decision not grounded in national interest or political pressure.
+Wars are choices of individual leaders, not state actors pursuing national interest. O'Brien challenges realism directly, arguing that the unitary rational actor model obscures the most important variable: who is making the decision and why. This framework is particularly relevant to his analysis of [Trump]({{ site.baseurl }}/actors/trump.html)'s decision to attack [Iran]({{ site.baseurl }}/actors/countries/iran.html) — a personal decision not grounded in national interest or political pressure.
 
 ## Cheap Mass Over Expensive Precision
 
@@ -27,7 +28,7 @@ O'Brien argues that cheap mass systems have greater advantage than expensive sma
 
 ## US Decline Accelerating
 
-O'Brien tracks US decline across military, diplomatic, and societal dimensions, arguing it is accelerating faster than expected. The [US-Iran War](/conflicts/us-iran-war-2026.md) provided empirical confirmation: military planning failures, diplomatic alienation of allies, and the absence of domestic political consolidation (no rally-round-the-flag effect) all pointed to a superpower whose decline is not gradual but compounding.
+O'Brien tracks US decline across military, diplomatic, and societal dimensions, arguing it is accelerating faster than expected. The [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) provided empirical confirmation: military planning failures, diplomatic alienation of allies, and the absence of domestic political consolidation (no rally-round-the-flag effect) all pointed to a superpower whose decline is not gradual but compounding.
 
 O'Brien now argues that US weakness against Iran is total — Tehran strings Washington along, controls the Strait of Hormuz, and rebuilds military capabilities — while mocking analysts who claim wars like Iran's can be won quickly and easily [12]. He warns that the Trump administration's plan to compile a master list of all foreign intelligence sources could be catastrophically destructive, serving only to sell or compromise information [12]. Using Gallup polling data, he argues America has balkanized into two partisan camps where loyalty to party determines views on war and America's global role — a loss of shared national identity that is deeply destructive [13].
 
@@ -35,15 +36,15 @@ O'Brien now argues that US weakness against Iran is total — Tehran strings Was
 
 ## Russia-Ukraine War
 
-O'Brien provides detailed tracking of the [Russia-Ukraine War](/conflicts/russia-ukraine-war.md), focusing on:
+O'Brien provides detailed tracking of the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), focusing on:
 
 - **Crimea isolation campaign** — turning the peninsula from a Russian asset into a liability through systematic strikes on logistics and naval infrastructure
 - **Long-range strikes** — Ukrainian reach extending deep into Russian industrial territory, attacking war production infrastructure beyond refineries
-- **Belarus dynamics** — the strategic significance of Belarus as a theater where Russian and Ukrainian interests intersect with [Lukashenka](/actors/lukashenka.md)'s survival calculus
+- **Belarus dynamics** — the strategic significance of Belarus as a theater where Russian and Ukrainian interests intersect with [Lukashenka]({{ site.baseurl }}/actors/lukashenka.html)'s survival calculus
 
 ## US-Iran War
 
-O'Brien extracted three key analytical lessons from the [US-Iran War](/conflicts/us-iran-war-2026.md): the failure of operational planning, the absence of domestic political consolidation, and the acceleration of diplomatic erosion. Each lesson connects back to his framework — leader choices, structural power, and the limits of precision warfare.
+O'Brien extracted three key analytical lessons from the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html): the failure of operational planning, the absence of domestic political consolidation, and the acceleration of diplomatic erosion. Each lesson connects back to his framework — leader choices, structural power, and the limits of precision warfare.
 
 In detailed follow-ups, O'Brien catalogued the quantitative degradation:
 
@@ -63,7 +64,7 @@ O'Brien argues the ranged war is still in its early stages (comparable to mid-19
 
 ## Putin's Catastrophe
 
-O'Brien's analysis of Ukraine's May 2026 [drone strike on Moscow](/events/moscow-drone-strike.md) compares it to Japan's loss of the Marianas in WWII — the moment when the propaganda narrative collapsed because the war reached the homeland. With Russia's 1M+ cumulative casualties and compromised Moscow air defenses, Putin can no longer hide the war's cost from the Russian public [11].
+O'Brien's analysis of Ukraine's May 2026 [drone strike on Moscow]({{ site.baseurl }}/events/moscow-drone-strike.html) compares it to Japan's loss of the Marianas in WWII — the moment when the propaganda narrative collapsed because the war reached the homeland. With Russia's 1M+ cumulative casualties and compromised Moscow air defenses, Putin can no longer hide the war's cost from the Russian public [11].
 
 # Sources in Bundle
 

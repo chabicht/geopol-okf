@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Uzbekistan
+parent: Countries
 description: Uzbekistan as a geopolitical actor — Central Asia's fastest-growing investment destination, hosting major international forums, and navigating Chinese land pressure
 tags: [country, central-asia, trade]
 status: ongoing
@@ -9,7 +10,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Uzbekistan is the most populous country in [Central Asia](/regions/central-asia.md) and has undergone significant economic liberalization since 2016. Its investment climate has transformed dramatically, making it one of the fastest-growing FDI destinations in the region alongside [Kazakhstan](/actors/countries/kazakhstan.md).
+Uzbekistan is the most populous country in [Central Asia]({{ site.baseurl }}/regions/central-asia.html) and has undergone significant economic liberalization since 2016. Its investment climate has transformed dramatically, making it one of the fastest-growing FDI destinations in the region alongside [Kazakhstan]({{ site.baseurl }}/actors/countries/kazakhstan.html).
 
 # Current Situation
 
@@ -21,7 +22,7 @@ Domestic investment is driving this growth: more than 55% of capital investment 
 
 ## Chinese Engagement
 
-Uzbekistan is part of the concentration of Chinese FDI in Central Asia, with [China](/actors/countries/china.md) directing investment toward manufacturing relocation and mineral extraction. However, the relationship is not without friction: Chinese investors have been accused of pressuring Uzbek farmers to hand over land — a pattern that echoes the protests against Chinese expansion seen in [Kazakhstan](/actors/countries/kazakhstan.md) under Nazarbayev.
+Uzbekistan is part of the concentration of Chinese FDI in Central Asia, with [China]({{ site.baseurl }}/actors/countries/china.html) directing investment toward manufacturing relocation and mineral extraction. However, the relationship is not without friction: Chinese investors have been accused of pressuring Uzbek farmers to hand over land — a pattern that echoes the protests against Chinese expansion seen in [Kazakhstan]({{ site.baseurl }}/actors/countries/kazakhstan.html) under Nazarbayev.
 
 # Analysis
 

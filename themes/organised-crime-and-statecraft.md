@@ -1,6 +1,7 @@
 ---
 type: Theme
 title: Organised Crime and Statecraft
+parent: Themes
 description: The growing nexus between states and organised criminal networks, where authoritarian regimes outsource covert operations to criminal actors for sanctions evasion, sabotage, and influence operations.
 tags:
   - sanctions
@@ -13,7 +14,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-The boundary between organised crime and statecraft is blurring. States — particularly [Russia](/actors/countries/russia.md), [Iran](/actors/countries/iran.md), [China](/actors/countries/china.md), and North Korea — are increasingly outsourcing covert tasks to organised criminal networks for sanctions evasion, sabotage, and influence operations. Criminal infrastructure is becoming embedded in the systems through which international power is exercised, while policy frameworks remain anchored in 25-year-old UNTOC-era assumptions that treat crime and statecraft as separate domains. See [Cognitive Warfare](/themes/cognitive-warfare.md) and [Sanctions and Financial Warfare](/themes/sanctions-and-financial-warfare.md).
+The boundary between organised crime and statecraft is blurring. States — particularly [Russia]({{ site.baseurl }}/actors/countries/russia.html), [Iran]({{ site.baseurl }}/actors/countries/iran.html), [China]({{ site.baseurl }}/actors/countries/china.html), and North Korea — are increasingly outsourcing covert tasks to organised criminal networks for sanctions evasion, sabotage, and influence operations. Criminal infrastructure is becoming embedded in the systems through which international power is exercised, while policy frameworks remain anchored in 25-year-old UNTOC-era assumptions that treat crime and statecraft as separate domains. See [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) and [Sanctions and Financial Warfare]({{ site.baseurl }}/themes/sanctions-and-financial-warfare.html).
 
 # Current Situation
 
@@ -50,11 +51,11 @@ RUSI argues that incremental adjustment to existing frameworks is insufficient �
 
 ## The Shadow Banking Architecture
 
-Iran's shadow banking system illustrates the sophistication of the crime-statecraft nexus. The IRGC sells sanctioned oil through front companies, launders proceeds through intermediaries across multiple jurisdictions, and channels funds to proxy networks including [Hezbollah](/actors/countries/iran.md) and Hamas. This self-sustaining financial architecture operates parallel to the formal banking system and is resistant to conventional sanctions enforcement [3].
+Iran's shadow banking system illustrates the sophistication of the crime-statecraft nexus. The IRGC sells sanctioned oil through front companies, launders proceeds through intermediaries across multiple jurisdictions, and channels funds to proxy networks including [Hezbollah]({{ site.baseurl }}/actors/countries/iran.html) and Hamas. This self-sustaining financial architecture operates parallel to the formal banking system and is resistant to conventional sanctions enforcement [3].
 
 ## Implications for Sanctions Policy
 
-The crime-statecraft nexus complicates [sanctions enforcement](/themes/sanctions-and-financial-warfare.md) because criminal networks operate outside the regulated financial system. Traditional sanctions target banks and formal financial institutions; they are less effective against shadow banking, cryptocurrency, and barter-based trade networks. The mismatch between sanctions design (goods-level HS codes) and bank monitoring (customer-level ISIC codes) further weakens detection capability [4].
+The crime-statecraft nexus complicates [sanctions enforcement]({{ site.baseurl }}/themes/sanctions-and-financial-warfare.html) because criminal networks operate outside the regulated financial system. Traditional sanctions target banks and formal financial institutions; they are less effective against shadow banking, cryptocurrency, and barter-based trade networks. The mismatch between sanctions design (goods-level HS codes) and bank monitoring (customer-level ISIC codes) further weakens detection capability [4].
 
 # Citations
 

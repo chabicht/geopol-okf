@@ -1,0 +1,33 @@
+remote_theme: just-the-docs/just-the-docs
+
+title: Geopolitics Open Knowledge Bundle
+description: A structured knowledge base covering global geopolitics — actors, conflicts, regions, themes, and events.
+
+baseurl: /geopol-okf
+url: https://chabicht.github.io
+
+permalink: /:path:output_ext
+
+exclude:
+  - sources/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - node_modules/
+
+search_enabled: true
+heading_anchors: true
+back_to_top: true
+
+aux_links:
+  "View on GitHub":
+    - "https://github.com/chabicht/geopol-okf"
+
+# Just the Docs collections — we use the default "pages" collection
+# which includes all top-level and nested .md files automatically.
+
+# Sort children by title by default (alphabetical)
+nav_sort: case_insensitive
+
+# Enable collapsible navigation
+collapse_inactive_chapters: true

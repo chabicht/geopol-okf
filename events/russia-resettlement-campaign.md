@@ -1,6 +1,7 @@
 ---
 type: Event
 title: Russia's Resettlement Campaign in Occupied Ukraine
+parent: Events
 description: Systematic Russian campaign to repopulate occupied Ukrainian territory with Russian citizens through weaponized property law, preferential mortgages, and demographic engineering.
 tags:
   - military
@@ -12,7 +13,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-[Russia](/actors/countries/russia.md) has occupied parts of [Ukraine](/actors/countries/ukraine.md) since 2014 and expanded its territorial control significantly since the full-scale invasion of February 2022. Beyond military operations, Russia is conducting a systematic campaign to alter the demographic composition of occupied territories — a strategy that violates the Fourth Geneva Convention's prohibition on transferring occupier populations into occupied territory. See [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) and [Europe](/regions/europe.md).
+[Russia]({{ site.baseurl }}/actors/countries/russia.html) has occupied parts of [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) since 2014 and expanded its territorial control significantly since the full-scale invasion of February 2022. Beyond military operations, Russia is conducting a systematic campaign to alter the demographic composition of occupied territories — a strategy that violates the Fourth Geneva Convention's prohibition on transferring occupier populations into occupied territory. See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) and [Europe]({{ site.baseurl }}/regions/europe.html).
 
 # What Happened
 
@@ -30,11 +31,11 @@ The resettlement campaign represents a deliberate effort to erase the Ukrainian 
 
 ## Legal and International Implications
 
-The campaign constitutes a war crime under the Fourth Geneva Convention, which prohibits an occupying power from transferring parts of its civilian population into occupied territory. The scale — 114,000 planned settlers by 2045 — and the systematic use of property law as a tool of demographic transformation distinguish this from ad hoc settlement. The [ICC](/actors/countries/russia.md) has previously issued arrest warrants for Russian officials, and the resettlement campaign adds another documented violation to the record.
+The campaign constitutes a war crime under the Fourth Geneva Convention, which prohibits an occupying power from transferring parts of its civilian population into occupied territory. The scale — 114,000 planned settlers by 2045 — and the systematic use of property law as a tool of demographic transformation distinguish this from ad hoc settlement. The [ICC]({{ site.baseurl }}/actors/countries/russia.html) has previously issued arrest warrants for Russian officials, and the resettlement campaign adds another documented violation to the record.
 
 ## Comparison with Crimea
 
-The occupied-Ukraine resettlement campaign mirrors the demographic engineering Russia has conducted in Crimea since 2014, but at larger scale and with more explicit legal instruments. The [Crimea Isolation Campaign](/events/crimea-isolation-campaign.md) is Ukraine's military response to the broader occupation; the resettlement campaign is Russia's demographic response to Ukraine's resistance.
+The occupied-Ukraine resettlement campaign mirrors the demographic engineering Russia has conducted in Crimea since 2014, but at larger scale and with more explicit legal instruments. The [Crimea Isolation Campaign]({{ site.baseurl }}/events/crimea-isolation-campaign.html) is Ukraine's military response to the broader occupation; the resettlement campaign is Russia's demographic response to Ukraine's resistance.
 
 # Citations
 

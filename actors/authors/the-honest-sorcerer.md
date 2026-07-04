@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: The Honest Sorcerer
+parent: Authors & Analysts
 description: Energy-centered analyst arguing that energy throughput — not GDP — is the true measure of power, that resource depletion is exponential, and that there is no "next economy" on a finite planet
 tags: [author, framework, opinion, energy]
 status: ongoing
@@ -9,13 +10,13 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-The Honest Sorcerer is an energy-centered analyst, writing under the pen name "The Honest Sorcerer" (Balázs Matics, as revealed in the [Nate Hagens interview](https://www.youtube.com/watch?v=JRrOaFaQ82U) [30]), whose worldview rests on a single foundational claim: energy is (almost) everything. The analytical framework rejects GDP as the primary measure of power, substituting power in the physics sense — the rate of energy transfer. This reframing has cascading implications: it changes how one assesses the relative strength of [China](/actors/countries/china.md) and the [United States](/actors/countries/united-states.md), how one evaluates the renewable energy transition, and how one thinks about the material limits of economic growth.
+The Honest Sorcerer is an energy-centered analyst, writing under the pen name "The Honest Sorcerer" (Balázs Matics, as revealed in the [Nate Hagens interview](https://www.youtube.com/watch?v=JRrOaFaQ82U) [30]), whose worldview rests on a single foundational claim: energy is (almost) everything. The analytical framework rejects GDP as the primary measure of power, substituting power in the physics sense — the rate of energy transfer. This reframing has cascading implications: it changes how one assesses the relative strength of [China]({{ site.baseurl }}/actors/countries/china.html) and the [United States]({{ site.baseurl }}/actors/countries/united-states.html), how one evaluates the renewable energy transition, and how one thinks about the material limits of economic growth.
 
 # Key Frameworks
 
 ## Energy Throughput as Power
 
-The core framework: high energy throughput produces high GDP, which produces high political and military power. The causal chain runs through energy, not through institutions or ideology. This makes energy consumption the leading indicator and GDP the lagging indicator. The implication is that the [US](/actors/countries/united-states.md) consumes approximately 16% of world energy with 4% of the population — a structural advantage that is diminishing as [China](/actors/countries/china.md), which uses nearly twice as much energy and houses four times the population, closes the throughput gap.
+The core framework: high energy throughput produces high GDP, which produces high political and military power. The causal chain runs through energy, not through institutions or ideology. This makes energy consumption the leading indicator and GDP the lagging indicator. The implication is that the [US]({{ site.baseurl }}/actors/countries/united-states.html) consumes approximately 16% of world energy with 4% of the population — a structural advantage that is diminishing as [China]({{ site.baseurl }}/actors/countries/china.html), which uses nearly twice as much energy and houses four times the population, closes the throughput gap.
 
 ## Exponential Resource Depletion
 
@@ -35,7 +36,7 @@ Electricity is auxiliary, not a primary energy source. Renewables are an extensi
 
 ## China and US Growth Models
 
-[China](/actors/countries/china.md)'s growth model is as flawed as the [US](/actors/countries/united-states.md)' — impossible to grow forever on a finite planet. The Honest Sorcerer rejects the common framing that China's state-led model is more sustainable than the American market model; both are expressions of the same growth imperative running into the same thermodynamic limits.
+[China]({{ site.baseurl }}/actors/countries/china.html)'s growth model is as flawed as the [US]({{ site.baseurl }}/actors/countries/united-states.html)' — impossible to grow forever on a finite planet. The Honest Sorcerer rejects the common framing that China's state-led model is more sustainable than the American market model; both are expressions of the same growth imperative running into the same thermodynamic limits.
 
 ## Megamachine and Wetiko
 
@@ -47,7 +48,7 @@ Detailed analysis of copper, silver, and oil depletion dynamics. Each resource i
 
 ## The Mordor Economy
 
-Civilization is a "Mordor Economy" spending more energy to get energy, following the second law of thermodynamics. Fossil fuels are a high-grade energy gradient; renewables are a low-grade gradient. The transition from high-grade to low-grade sources means an increasing share of civilizational energy throughput is consumed by the energy acquisition process itself — the thermodynamic definition of diminishing returns. This connects to [Nate Hagens](/actors/authors/nate-hagens.md)'s "Great Simplification" framework [2].
+Civilization is a "Mordor Economy" spending more energy to get energy, following the second law of thermodynamics. Fossil fuels are a high-grade energy gradient; renewables are a low-grade gradient. The transition from high-grade to low-grade sources means an increasing share of civilizational energy throughput is consumed by the energy acquisition process itself — the thermodynamic definition of diminishing returns. This connects to [Nate Hagens]({{ site.baseurl }}/actors/authors/nate-hagens.html)'s "Great Simplification" framework [2].
 
 ## Peak Everything
 
@@ -59,11 +60,11 @@ The "Empty Quarter" is the end-state of resource depletion — what the world lo
 
 ## The Zero State
 
-The "Zero State" is a system unable to create growth, where elites choose war as their "last sniff." Drawing on [Aurelien](/actors/authors/aurelien.md)'s concept of elite homogenization, the framework describes a zombie system governed by bureaucracy and corruption rather than innovation. The Zero State is not collapse but stasis — a system that maintains itself by consuming its own foundations [5].
+The "Zero State" is a system unable to create growth, where elites choose war as their "last sniff." Drawing on [Aurelien]({{ site.baseurl }}/actors/authors/aurelien.html)'s concept of elite homogenization, the framework describes a zombie system governed by bureaucracy and corruption rather than innovation. The Zero State is not collapse but stasis — a system that maintains itself by consuming its own foundations [5].
 
 ## The Polycrisis
 
-The "polycrisis" framework: not a single crisis but the convergence of multiple stress vectors whose combined effect is greater than the sum of parts. The damage to supply chains of energy, fertilizer, food, and industrial inputs is already done — it is "just not registered by the Western ruling classes." The framework integrates the [global system rupture](/themes/global-system-rupture.md) with thermodynamic limits and institutional incapacity [6].
+The "polycrisis" framework: not a single crisis but the convergence of multiple stress vectors whose combined effect is greater than the sum of parts. The damage to supply chains of energy, fertilizer, food, and industrial inputs is already done — it is "just not registered by the Western ruling classes." The framework integrates the [global system rupture]({{ site.baseurl }}/themes/global-system-rupture.html) with thermodynamic limits and institutional incapacity [6].
 
 # Sources in Bundle
 

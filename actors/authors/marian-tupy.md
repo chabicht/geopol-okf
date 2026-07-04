@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Marian L. Tupy
+parent: Authors & Analysts
 description: Cato Institute analyst documenting communism's human cost — 100 million+ deaths, systemic economic failure, and the ideological resilience of socialism
 tags: [author, opinion]
 status: evergreen
@@ -9,7 +10,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Marian L. Tupy is a senior fellow at the Cato Institute whose work focuses on the historical record of communism and the ideological dynamics of its contemporary resurgence. His analysis draws on "The Black Book of Communism" (94 million+ deaths) and subsequent research (80 million+ deaths) to document the human cost of communist governance in the 20th century. His work provides the empirical foundation for the [ideology and democracy](/themes/ideology-and-democracy.md) theme's treatment of communism as a failed ideology.
+Marian L. Tupy is a senior fellow at the Cato Institute whose work focuses on the historical record of communism and the ideological dynamics of its contemporary resurgence. His analysis draws on "The Black Book of Communism" (94 million+ deaths) and subsequent research (80 million+ deaths) to document the human cost of communist governance in the 20th century. His work provides the empirical foundation for the [ideology and democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html) theme's treatment of communism as a failed ideology.
 
 # Key Frameworks
 
@@ -19,7 +20,7 @@ Tupy's analysis frames communism not as a flawed implementation of a noble ideal
 
 ## Contemporary Socialist Resurgence
 
-Tupy notes the irony of socialism's intellectual resurgence despite the empirical record. The resurgence is driven not by evidence of socialist success but by dissatisfaction with the failures of crony capitalism and the inadequacy of mainstream political institutions to address inequality — the same dynamic [Krugman](/actors/authors/paul-krugman.md) identifies in the American context, where social democratic policies are mislabeled as "socialist" by right-wing propagandists [1].
+Tupy notes the irony of socialism's intellectual resurgence despite the empirical record. The resurgence is driven not by evidence of socialist success but by dissatisfaction with the failures of crony capitalism and the inadequacy of mainstream political institutions to address inequality — the same dynamic [Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html) identifies in the American context, where social democratic policies are mislabeled as "socialist" by right-wing propagandists [1].
 
 # Sources in Bundle
 

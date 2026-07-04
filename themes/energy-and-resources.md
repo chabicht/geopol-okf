@@ -1,6 +1,7 @@
 ---
 type: Theme
 title: "Energy and Resources"
+parent: Themes
 description: "Energy as the foundational driver of geopolitical power — GDP, military capacity, and political influence all derive from energy throughput. Resource depletion, chokepoint vulnerability, and the finite nature of fossil fuels constrain all strategic competition."
 tags:
   - energy
@@ -21,32 +22,32 @@ Mineral wealth is unevenly distributed across the planet, making global trade a 
 
 The global energy landscape is defined by extreme asymmetries in consumption and production:
 
-- The [United States](/actors/countries/united-states.md) consumes 16% of world energy with 4% of the global population.
-- [China](/actors/countries/china.md) uses almost twice as much energy as the US, reflecting its position as the world's manufacturing center.
-- The Strait of Hormuz carries approximately 20 mbpd at baseline; approximately 10 mbpd was lost during the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) crisis.
+- The [United States]({{ site.baseurl }}/actors/countries/united-states.html) consumes 16% of world energy with 4% of the global population.
+- [China]({{ site.baseurl }}/actors/countries/china.html) uses almost twice as much energy as the US, reflecting its position as the world's manufacturing center.
+- The Strait of Hormuz carries approximately 20 mbpd at baseline; approximately 10 mbpd was lost during the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) crisis.
 - Silver has passed its production peak; copper is expected to peak before 2030.
-- [Qatar](/actors/countries/qatar.md)'s Ras Laffan facility represents approximately one-fifth of global seaborne LNG supply — a concentration of risk visible in the [Qatar LNG explosion](/events/qatar-lng-explosion.md).
-- [Russia](/actors/countries/russia.md)'s oil exports surged to 4.11 mbpd to fill the Hormuz gap, demonstrating how sanctions regimes fracture under systemic stress.
+- [Qatar]({{ site.baseurl }}/actors/countries/qatar.html)'s Ras Laffan facility represents approximately one-fifth of global seaborne LNG supply — a concentration of risk visible in the [Qatar LNG explosion]({{ site.baseurl }}/events/qatar-lng-explosion.html).
+- [Russia]({{ site.baseurl }}/actors/countries/russia.html)'s oil exports surged to 4.11 mbpd to fill the Hormuz gap, demonstrating how sanctions regimes fracture under systemic stress.
 
 ## The Myth of American Energy Independence
 
-[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) debunks the US "energy independence" narrative: the US is a net crude oil importer. Natural gas liquids (NGLs) are not oil and cannot make diesel or jet fuel. US refineries are configured for heavy crude from Canada, Venezuela, and Saudi Arabia — not the light tight oil produced by shale. An armada of 121 empty tankers headed to the US to export refined fuels during the Iran war, draining the [SPR](/events/spr-depletion-crisis.md). Post-peak shale is evident from declining rig counts. The "energy independence" claim conflates crude production with total petroleum liquids, obscuring the structural import dependency [1].
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) debunks the US "energy independence" narrative: the US is a net crude oil importer. Natural gas liquids (NGLs) are not oil and cannot make diesel or jet fuel. US refineries are configured for heavy crude from Canada, Venezuela, and Saudi Arabia — not the light tight oil produced by shale. An armada of 121 empty tankers headed to the US to export refined fuels during the Iran war, draining the [SPR]({{ site.baseurl }}/events/spr-depletion-crisis.html). Post-peak shale is evident from declining rig counts. The "energy independence" claim conflates crude production with total petroleum liquids, obscuring the structural import dependency [1].
 
 ## Diesel Crisis
 
-The diesel/gasoil crisis is the most immediate energy vulnerability. Despite flat demand and recession fears, diesel prices rose sharply due to refinery constraints and crack spread expansion. Diesel is the fuel of agriculture, mining, transport, and the military — there is no substitute. The [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) disrupted diesel supply, and the [US-Iran War](/conflicts/us-iran-war-2026.md) compounded the disruption. The crack spread (the price difference between crude oil and refined products) widened to crisis levels, signaling refining capacity as the bottleneck [2].
+The diesel/gasoil crisis is the most immediate energy vulnerability. Despite flat demand and recession fears, diesel prices rose sharply due to refinery constraints and crack spread expansion. Diesel is the fuel of agriculture, mining, transport, and the military — there is no substitute. The [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) disrupted diesel supply, and the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) compounded the disruption. The crack spread (the price difference between crude oil and refined products) widened to crisis levels, signaling refining capacity as the bottleneck [2].
 
 ## Solar Energy Limits
 
-The [UAE](/actors/countries/uae.md)'s $6 billion solar project demonstrates the physical limits of solar energy. In the sunniest desert on Earth, solar capacity factor is only 24%; in [Germany](/actors/countries/germany.md) it is 11%. The project reveals the impossibility of seasonal storage at scale and the "dunkelflaute" problem — periods of low wind and solar generation that no battery system can bridge. Germany's electricity generation has declined as nuclear plants closed and renewables cannot fill the gap [3].
+The [UAE]({{ site.baseurl }}/actors/countries/uae.html)'s $6 billion solar project demonstrates the physical limits of solar energy. In the sunniest desert on Earth, solar capacity factor is only 24%; in [Germany]({{ site.baseurl }}/actors/countries/germany.html) it is 11%. The project reveals the impossibility of seasonal storage at scale and the "dunkelflaute" problem — periods of low wind and solar generation that no battery system can bridge. Germany's electricity generation has declined as nuclear plants closed and renewables cannot fill the gap [3].
 
 ## Oil Export Decline
 
-The ExportLand Model shows that global net oil export capacity peaked in 2004. If world oil supply falls to half by mid-century, importers lose 75% of imports in 15-20 years. The decline is uneven: exporter consumption rises (population growth, domestic development) while production plateaus or declines, squeezing net exports. [Russia](/actors/countries/russia.md) is uniquely self-sufficient; the US, Europe, [China](/actors/countries/china.md), and [India](/actors/countries/india.md) are all net importers facing a musical-chairs game for diminishing export volumes [4].
+The ExportLand Model shows that global net oil export capacity peaked in 2004. If world oil supply falls to half by mid-century, importers lose 75% of imports in 15-20 years. The decline is uneven: exporter consumption rises (population growth, domestic development) while production plateaus or declines, squeezing net exports. [Russia]({{ site.baseurl }}/actors/countries/russia.html) is uniquely self-sufficient; the US, Europe, [China]({{ site.baseurl }}/actors/countries/china.html), and [India]({{ site.baseurl }}/actors/countries/india.html) are all net importers facing a musical-chairs game for diminishing export volumes [4].
 
 ## Jones Act and Domestic Fuel Distribution
 
-[Trump](/actors/trump.md)'s 150-day suspension of the Jones Act allowed foreign vessels to shuttle over 31 million barrels of fuel between U.S. ports, primarily from Gulf Coast refineries to gasoline-starved California. The suspension exposed how protectionist maritime policy constrains domestic energy distribution — California's shortages were perpetuated by the absence of compliant U.S.-flagged vessels despite surplus Gulf Coast refining capacity. See [Jones Act Suspension](/events/jones-act-suspension.md) [18].
+[Trump]({{ site.baseurl }}/actors/trump.html)'s 150-day suspension of the Jones Act allowed foreign vessels to shuttle over 31 million barrels of fuel between U.S. ports, primarily from Gulf Coast refineries to gasoline-starved California. The suspension exposed how protectionist maritime policy constrains domestic energy distribution — California's shortages were perpetuated by the absence of compliant U.S.-flagged vessels despite surplus Gulf Coast refining capacity. See [Jones Act Suspension]({{ site.baseurl }}/events/jones-act-suspension.html) [18].
 
 ## North Sea and UK Energy Policy
 
@@ -65,13 +66,13 @@ The UK political debate over new North Sea drilling is symbolic rather than subs
 
 ## Energy as Power
 
-[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) argues that GDP and inflation come after energy — money is an intermediary with no intrinsic value, a claim on energy and materials rather than a source of them. The implication is that financial analysis that ignores energy fundamentals is tracking derivatives of the real variable [5].
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) argues that GDP and inflation come after energy — money is an intermediary with no intrinsic value, a claim on energy and materials rather than a source of them. The implication is that financial analysis that ignores energy fundamentals is tracking derivatives of the real variable [5].
 
 The Luxembourg example illustrates the principle: Luxembourg has high GDP per capita but is not a superpower. It handles other people's money and produces little energy or materials. GDP without energy throughput is financial intermediation, not power. This reframes the US-China competition: China's near-double energy consumption, not its GDP, is the better indicator of its geopolitical weight [5].
 
 ## Depletion Dynamics
 
-[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) describes depletion as a dynamic where extraction economics stops working beyond a certain point — mines close not because nothing remains but because the high-grade ore is exhausted and the remaining material requires more energy to process than it yields. Silver has passed this threshold; copper is approaching it [5][6].
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) describes depletion as a dynamic where extraction economics stops working beyond a certain point — mines close not because nothing remains but because the high-grade ore is exhausted and the remaining material requires more energy to process than it yields. Silver has passed this threshold; copper is approaching it [5][6].
 
 **Copper**: Record prices, declining ore grades, and the collision between tightening supply and demand from electrification and AI data centers. BHP projects 15% less copper by 2035; only 14 of 239 new deposits discovered in the past 10 years. China consumes 60% of global copper [6].
 
@@ -81,45 +82,45 @@ Technological innovation that enables extraction from lower-grade deposits — d
 
 ## The Mordor Economy
 
-[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) introduces the "Mordor Economy" framework: civilization is spending more energy to get energy, following the second law of thermodynamics. Fossil fuels are a high-grade energy gradient; renewables are a low-grade gradient. The transition from high-grade to low-grade energy sources means that an increasing share of civilizational energy throughput is consumed by the energy acquisition process itself — the thermodynamic definition of diminishing returns [8].
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) introduces the "Mordor Economy" framework: civilization is spending more energy to get energy, following the second law of thermodynamics. Fossil fuels are a high-grade energy gradient; renewables are a low-grade gradient. The transition from high-grade to low-grade energy sources means that an increasing share of civilizational energy throughput is consumed by the energy acquisition process itself — the thermodynamic definition of diminishing returns [8].
 
-The framework connects entropy, dissipative structures, and energy gradients: civilization is a dissipative structure that maintains its complexity by consuming energy gradients. As the highest-quality gradients deplete, the structure must simplify. The "Mordor Economy" is the phase where more effort goes into obtaining energy than into productive activity — a phase that [Nate Hagens](/actors/authors/nate-hagens.md) calls "the Great Simplification" [8][9].
+The framework connects entropy, dissipative structures, and energy gradients: civilization is a dissipative structure that maintains its complexity by consuming energy gradients. As the highest-quality gradients deplete, the structure must simplify. The "Mordor Economy" is the phase where more effort goes into obtaining energy than into productive activity — a phase that [Nate Hagens]({{ site.baseurl }}/actors/authors/nate-hagens.html) calls "the Great Simplification" [8][9].
 
 ## Peak Everything
 
-[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md)'s "2025: The Year of Peak Everything" provides the year-in-review data: peak industrial metals (steel, coal, copper), peak oil, peak nuclear. The end of exponential material expansion and the onset of the Mordor Economy where more energy is spent getting energy. The analysis covers resource depletion across multiple commodities simultaneously, arguing that the "peak" is not of any single resource but of the entire material basis of industrial civilization [10].
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html)'s "2025: The Year of Peak Everything" provides the year-in-review data: peak industrial metals (steel, coal, copper), peak oil, peak nuclear. The end of exponential material expansion and the onset of the Mordor Economy where more energy is spent getting energy. The analysis covers resource depletion across multiple commodities simultaneously, arguing that the "peak" is not of any single resource but of the entire material basis of industrial civilization [10].
 
 ## Chokepoint Vulnerability
 
-[Robert Pape](/actors/authors/robert-pape.md) argues that Hormuz remains open not because it cannot be closed but because [Iran](/actors/countries/iran.md) permits it to remain open. Iran's geographic control of the strait gives it coercive leverage disproportionate to its conventional military power — the ability to close Hormuz is a permanent threat that shapes behavior even when not exercised [11].
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) argues that Hormuz remains open not because it cannot be closed but because [Iran]({{ site.baseurl }}/actors/countries/iran.html) permits it to remain open. Iran's geographic control of the strait gives it coercive leverage disproportionate to its conventional military power — the ability to close Hormuz is a permanent threat that shapes behavior even when not exercised [11].
 
-Tchakarova notes that pipeline bypass options are structurally thin: Saudi and UAE limited capacity is an order of magnitude short of what would be needed to compensate for disrupted Hormuz throughput. This was confirmed during the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md), when approximately 10 mbpd of effective supply was lost against the 20 mbpd baseline [12].
+Tchakarova notes that pipeline bypass options are structurally thin: Saudi and UAE limited capacity is an order of magnitude short of what would be needed to compensate for disrupted Hormuz throughput. This was confirmed during the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), when approximately 10 mbpd of effective supply was lost against the 20 mbpd baseline [12].
 
-The concentration of LNG infrastructure at [Qatar](/actors/countries/qatar.md)'s Ras Laffan — approximately one-fifth of global seaborne LNG supply — represents a parallel chokepoint vulnerability. A single facility's disruption would cascade through global gas markets with effects disproportionate to the scale of the physical damage.
+The concentration of LNG infrastructure at [Qatar]({{ site.baseurl }}/actors/countries/qatar.html)'s Ras Laffan — approximately one-fifth of global seaborne LNG supply — represents a parallel chokepoint vulnerability. A single facility's disruption would cascade through global gas markets with effects disproportionate to the scale of the physical damage.
 
 ## Price Recovery vs Supply Recovery
 
-[Velina Tchakarova](/actors/authors/velina-tchakarova.md) demonstrates that the post-war oil price collapse is a demand-side phenomenon, not a supply-side recovery. Brent fell from above $180 to around $72, but Persian Gulf production remains roughly 45% below pre-war levels and regional exports sit around 25% below February levels. The decline was driven by four offsets: physical rerouting (Saudi East-West pipeline, UAE bypass, Iran shadow fleets), coordinated strategic reserve releases (300M+ barrels — the largest emergency drawdown in history), Chinese demand destruction (crude imports fell 40%, close to 5M bpd), and broader global demand contraction (5.5M bpd in Q2 2026). Shipping costs in waters south of Iran remain at 5.5x pre-war levels, tanker charter rates at 9x. Full restoration of export capacity is expected to take months, with Qatar's damaged LNG facilities potentially requiring years [12].
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) demonstrates that the post-war oil price collapse is a demand-side phenomenon, not a supply-side recovery. Brent fell from above $180 to around $72, but Persian Gulf production remains roughly 45% below pre-war levels and regional exports sit around 25% below February levels. The decline was driven by four offsets: physical rerouting (Saudi East-West pipeline, UAE bypass, Iran shadow fleets), coordinated strategic reserve releases (300M+ barrels — the largest emergency drawdown in history), Chinese demand destruction (crude imports fell 40%, close to 5M bpd), and broader global demand contraction (5.5M bpd in Q2 2026). Shipping costs in waters south of Iran remain at 5.5x pre-war levels, tanker charter rates at 9x. Full restoration of export capacity is expected to take months, with Qatar's damaged LNG facilities potentially requiring years [12].
 
 The implication is that markets are pricing hope ahead of facts. The price collapse is best read as evidence that global demand management and reserve coordination can absorb shocks that would have been unmanageable a decade ago — a quiet win for the Western-led IEA architecture in its competition with the DragonBear axis over who controls energy resilience tools. But Iran's retained leverage over Hormuz means the underlying rupture has not closed, only been priced as if it has. A single incident could reprice the entire system within days [12].
 
 ## European Nuclear Debate
 
-[Velina Tchakarova](/actors/authors/velina-tchakarova.md) frames the European nuclear debate through the Austrian case: a country with 87.5% renewable electricity that nonetheless needs dispatchable low-carbon baseload as the fourth industrial revolution drives demand upward. Austria's anti-nuclear position — rooted in the 1978 Zwentendorf referendum — has become hypocrisy, as the country imports electricity from neighbours whose grids run on nuclear power. Meanwhile, Europe is moving decisively: Denmark reviewing its 1985 ban, Belgium scrapping its phase-out, Italy beginning to overturn its ban, Sweden and Finland expanding, and Japan restarting. [Germany](/actors/countries/germany.md) and Austria stand as the last outliers, on the wrong side of both energy security and industrial competitiveness [17].
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) frames the European nuclear debate through the Austrian case: a country with 87.5% renewable electricity that nonetheless needs dispatchable low-carbon baseload as the fourth industrial revolution drives demand upward. Austria's anti-nuclear position — rooted in the 1978 Zwentendorf referendum — has become hypocrisy, as the country imports electricity from neighbours whose grids run on nuclear power. Meanwhile, Europe is moving decisively: Denmark reviewing its 1985 ban, Belgium scrapping its phase-out, Italy beginning to overturn its ban, Sweden and Finland expanding, and Japan restarting. [Germany]({{ site.baseurl }}/actors/countries/germany.html) and Austria stand as the last outliers, on the wrong side of both energy security and industrial competitiveness [17].
 
-The nuclear question is inseparable from the [European security](/regions/europe.md) question: a country that bets heavily on volatile renewables needs stable baseload, and the countries that refuse nuclear are the same ones that refuse to seriously debate NATO membership and defense spending. The energy and security taboos reinforce each other — both reflect a posture that assumes the post-war order can persist without adaptation [17].
+The nuclear question is inseparable from the [European security]({{ site.baseurl }}/regions/europe.html) question: a country that bets heavily on volatile renewables needs stable baseload, and the countries that refuse nuclear are the same ones that refuse to seriously debate NATO membership and defense spending. The energy and security taboos reinforce each other — both reflect a posture that assumes the post-war order can persist without adaptation [17].
 
 ## Historical Oil Crisis Comparison
 
-[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) provides historical context by comparing the current crisis to previous oil shocks: the 1973 OPEC embargo, the 1979 Iranian Revolution, and the Iran-Iraq War. The current crisis projects 2-4 billion barrels lost and 6-12% of global crude production affected — making it the biggest energy crisis in history, exceeding all three previous shocks [13].
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) provides historical context by comparing the current crisis to previous oil shocks: the 1973 OPEC embargo, the 1979 Iranian Revolution, and the Iran-Iraq War. The current crisis projects 2-4 billion barrels lost and 6-12% of global crude production affected — making it the biggest energy crisis in history, exceeding all three previous shocks [13].
 
 ## China vs US Energy Competition
 
-[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) observes that the US maintaining global dominance with half the economy of China generates structural friction — the energy and material basis of US power is increasingly mismatched to the scale of its commitments. At the same time, China's growth model is as flawed as the US model: it is impossible to grow forever on a finite planet. Both systems face the same biophysical constraint, even as they compete for position within it [5][14].
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) observes that the US maintaining global dominance with half the economy of China generates structural friction — the energy and material basis of US power is increasingly mismatched to the scale of its commitments. At the same time, China's growth model is as flawed as the US model: it is impossible to grow forever on a finite planet. Both systems face the same biophysical constraint, even as they compete for position within it [5][14].
 
 ## Renewable Supply Chain Vulnerability
 
-[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) details how the Iran war disrupted the renewable energy supply chain itself: aluminum (Australian bauxite transit through the Middle East), gallium (98% refined in China), graphite (needle coke from oil refining), and the broader material inputs for EVs and solar panels. The "green economy" uses the same raw materials and fossil-fuel-dependent processes as the old economy — the Iran war exposed this dependency by disrupting both simultaneously [15].
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) details how the Iran war disrupted the renewable energy supply chain itself: aluminum (Australian bauxite transit through the Middle East), gallium (98% refined in China), graphite (needle coke from oil refining), and the broader material inputs for EVs and solar panels. The "green economy" uses the same raw materials and fossil-fuel-dependent processes as the old economy — the Iran war exposed this dependency by disrupting both simultaneously [15].
 
 ## Climate Acceleration
 
@@ -127,7 +128,7 @@ The biophysical context for energy competition is worsening faster than models p
 
 Economic losses from climate disasters averaged $267bn/year (2015-2024), reaching $327bn in 2024. Over 78 million people were affected by climate disasters in 2025. The California wildfires killed up to 440 people with $40bn+ in losses. Three Category 5 hurricanes hit the North Atlantic for the first time in 20 years. About 1,500 of 2,300 estimated heat deaths are directly attributable to climate change from fossil fuel burning. Regions of the Global South are severely under-reported but expected to be equally damning [16].
 
-The implication for [energy and resources](/themes/energy-and-resources.md) is dual: the energy transition is urgent but the materials required for it ([critical minerals](/themes/critical-minerals.md)) are themselves energy-intensive to extract and environmentally devastating to process — creating a feedback loop where the cure and the disease consume the same resources.
+The implication for [energy and resources]({{ site.baseurl }}/themes/energy-and-resources.html) is dual: the energy transition is urgent but the materials required for it ([critical minerals]({{ site.baseurl }}/themes/critical-minerals.html)) are themselves energy-intensive to extract and environmentally devastating to process — creating a feedback loop where the cure and the disease consume the same resources.
 
 # Citations
 

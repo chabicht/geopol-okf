@@ -1,3 +1,9 @@
+---
+title: Home
+nav_order: 0
+permalink: /
+---
+
 # Geopolitics Open Knowledge Bundle
 
 A structured knowledge base covering global geopolitics — actors, conflicts,
@@ -14,7 +20,7 @@ and strategic assessments.
 
 ## Conventions
 
-See [rules.md](rules.md) for the full set of authoring conventions, naming
+See [rules.md](rules/) for the full set of authoring conventions, naming
 rules, tag vocabulary, and structural decisions governing this bundle.
 
-See [log.md](log.md) for the change log of updates to this bundle.
+See [log.md](log/) for the change log of updates to this bundle.

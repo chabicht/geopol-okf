@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Taiwan
+parent: Countries
 description: Taiwan as a geopolitical actor — facing Chinese grey-zone encirclement, domestic budget paralysis, and an espionage campaign while European powers signal support
 tags: [country, military, naval, indo-pacific, gray-zone]
 status: ongoing
@@ -9,7 +10,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-[Taiwan](/actors/countries/taiwan.md) is the focal point of the most dangerous territorial dispute in the [Indo-Pacific](/regions/indo-pacific.md). [China](/actors/countries/china.md) claims the island as its territory and has escalated pressure through a multi-domain grey-zone campaign. Taiwan's defense posture, democratic institutions, and international recognition gaps create a uniquely vulnerable strategic environment.
+[Taiwan]({{ site.baseurl }}/actors/countries/taiwan.html) is the focal point of the most dangerous territorial dispute in the [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html). [China]({{ site.baseurl }}/actors/countries/china.html) claims the island as its territory and has escalated pressure through a multi-domain grey-zone campaign. Taiwan's defense posture, democratic institutions, and international recognition gaps create a uniquely vulnerable strategic environment.
 
 # Current Situation
 
@@ -21,11 +22,11 @@ China has opened a new front in its pressure campaign, shifting operations to th
 
 The Chinese campaign operates across multiple vectors: navy patrols, drone flights, coast guard harassment, and survey vessel incursions. This grey-zone approach maintains persistent pressure below the threshold of overt military conflict, normalizing Chinese presence and degrading Taiwan's ability to distinguish routine activity from pre-invasion preparation.
 
-In December 2025, the PLA conducted Justice Mission 2025 — a large-scale surprise blockade exercise simulating the isolation of Taiwan. The exercise deployed 18 PLAN vessels, 14 coast guard ships, 201 air sorties, H-6 bombers, and Type 075 LHD *Hainan* across eight zones surrounding Taiwan. It rehearsed interdiction of Taiwanese energy imports, counter-intervention against U.S. forces, and potential decapitation strikes. Coast guard ships came within 1.3 nautical miles of Taiwanese islands. See [Justice Mission 2025](/events/justice-mission-2025.md) [3].
+In December 2025, the PLA conducted Justice Mission 2025 — a large-scale surprise blockade exercise simulating the isolation of Taiwan. The exercise deployed 18 PLAN vessels, 14 coast guard ships, 201 air sorties, H-6 bombers, and Type 075 LHD *Hainan* across eight zones surrounding Taiwan. It rehearsed interdiction of Taiwanese energy imports, counter-intervention against U.S. forces, and potential decapitation strikes. Coast guard ships came within 1.3 nautical miles of Taiwanese islands. See [Justice Mission 2025]({{ site.baseurl }}/events/justice-mission-2025.html) [3].
 
 ## Domestic Budget Paralysis
 
-The opposition KMT and TPP have been delaying the 2026 general budget for over nine months, threatening defense cuts. This domestic political obstruction directly undermines Taiwan's military readiness. Taiwan's defense budget stands at approximately $17.8 billion, a 20% increase, with a goal of reaching 3.3% of GDP from the current 2.4%. The [United States](/actors/countries/united-states.md) is pressing for 3.5%.
+The opposition KMT and TPP have been delaying the 2026 general budget for over nine months, threatening defense cuts. This domestic political obstruction directly undermines Taiwan's military readiness. Taiwan's defense budget stands at approximately $17.8 billion, a 20% increase, with a goal of reaching 3.3% of GDP from the current 2.4%. The [United States]({{ site.baseurl }}/actors/countries/united-states.html) is pressing for 3.5%.
 
 ## Espionage Campaign
 
@@ -37,15 +38,15 @@ Beijing pairs coercion with co-optation: the Straits Forum, economic inducements
 
 ## International Support
 
-[Britain](/actors/countries/united-kingdom.md), [France](/actors/countries/france.md), and [Germany](/actors/countries/germany.md) issued a rare joint statement through their de facto embassies in Taipei. This represents a significant European signal that Taiwan is now treated as integral to the global order — not merely a regional dispute.
+[Britain]({{ site.baseurl }}/actors/countries/united-kingdom.html), [France]({{ site.baseurl }}/actors/countries/france.html), and [Germany]({{ site.baseurl }}/actors/countries/germany.html) issued a rare joint statement through their de facto embassies in Taipei. This represents a significant European signal that Taiwan is now treated as integral to the global order — not merely a regional dispute.
 
 ## Trump-Xi Summit and Washington's Volatility
 
-The May 2026 [Trump-Xi summit](/events/trump-xi-summit-2026.md) introduced deep uncertainty into US-Taiwan relations. Xi framed Taiwan as "the most important issue in China-US relations" and warned that mishandling it would place the relationship "in great jeopardy." While Washington's stance remains ambiguous, Taipei faces a predicament: relying heavily on now questionable American promises. The EU's expanding network of Security and Defence Partnerships creates potential openings for Taiwan to strengthen its strategic alignment with [Europe](/regions/europe.md) — presenting both risks and opportunities, particularly in drone technology, defence industry cooperation, and supply chain diversification [4].
+The May 2026 [Trump-Xi summit]({{ site.baseurl }}/events/trump-xi-summit-2026.html) introduced deep uncertainty into US-Taiwan relations. Xi framed Taiwan as "the most important issue in China-US relations" and warned that mishandling it would place the relationship "in great jeopardy." While Washington's stance remains ambiguous, Taipei faces a predicament: relying heavily on now questionable American promises. The EU's expanding network of Security and Defence Partnerships creates potential openings for Taiwan to strengthen its strategic alignment with [Europe]({{ site.baseurl }}/regions/europe.html) — presenting both risks and opportunities, particularly in drone technology, defence industry cooperation, and supply chain diversification [4].
 
 # Analysis
 
-Taiwan's strategic challenge is multidimensional: external grey-zone pressure from China, internal political paralysis blocking defense investment, and an espionage threat that compromises military effectiveness. The European joint statement suggests that the [Taiwan standoff](/conflicts/taiwan-standoff.md) is being absorbed into the broader framework of [great power competition](/themes/great-power-competition.md), with implications for alliance structures far beyond the Indo-Pacific.
+Taiwan's strategic challenge is multidimensional: external grey-zone pressure from China, internal political paralysis blocking defense investment, and an espionage threat that compromises military effectiveness. The European joint statement suggests that the [Taiwan standoff]({{ site.baseurl }}/conflicts/taiwan-standoff.html) is being absorbed into the broader framework of [great power competition]({{ site.baseurl }}/themes/great-power-competition.html), with implications for alliance structures far beyond the Indo-Pacific.
 
 # Citations
 

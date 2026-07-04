@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Oman
+parent: Countries
 description: Gulf sultanate co-negotiating with Iran on a permanent Hormuz toll system — mediating between Iranian and Western positions on Strait of Hormuz passage
 tags: [country, energy, middle-east]
 status: ongoing
@@ -9,13 +10,13 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Oman is a Gulf sultanate occupying the southern shore of the Strait of Hormuz — the geographic position that makes it Iran's counterpart in any arrangement governing the chokepoint. Historically neutral in regional conflicts, Oman has served as a backchannel mediator between [Iran](/actors/countries/iran.md) and the West. The [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) elevated Oman's strategic importance: as the only Gulf state with both credibility in Tehran and a geographic claim on Hormuz, it became the natural partner for formalizing Iran's toll system proposal.
+Oman is a Gulf sultanate occupying the southern shore of the Strait of Hormuz — the geographic position that makes it Iran's counterpart in any arrangement governing the chokepoint. Historically neutral in regional conflicts, Oman has served as a backchannel mediator between [Iran]({{ site.baseurl }}/actors/countries/iran.html) and the West. The [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) elevated Oman's strategic importance: as the only Gulf state with both credibility in Tehran and a geographic claim on Hormuz, it became the natural partner for formalizing Iran's toll system proposal.
 
 # Current Situation
 
 ## Hormuz Toll System Negotiations
 
-Oman is in talks with Iran over a permanent toll system for the Strait of Hormuz, formalizing Iran's control over maritime traffic. The proposed system would charge tankers for transit — a structure that institutionalizes Iran's leverage over global oil flows. [Trump](/actors/trump.md) rejected the plan, insisting the strait should be "open, free, with no tolls." The Iranian ambassador to France described the system as transparent, framing it as a regulatory rather than coercive measure [1].
+Oman is in talks with Iran over a permanent toll system for the Strait of Hormuz, formalizing Iran's control over maritime traffic. The proposed system would charge tankers for transit — a structure that institutionalizes Iran's leverage over global oil flows. [Trump]({{ site.baseurl }}/actors/trump.html) rejected the plan, insisting the strait should be "open, free, with no tolls." The Iranian ambassador to France described the system as transparent, framing it as a regulatory rather than coercive measure [1].
 
 ## Mediation Role
 

@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Vladimir Putin
+parent: Actors
 description: President of Russia; wartime leader whose presidency originated in Chechnya and is now defined by the war in Ukraine.
 tags: [leader, military, europe, caucasus]
 status: ongoing
@@ -11,7 +12,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 Vladimir Putin's presidency is inseparable from Chechnya from its very first day. When Boris Yeltsin resigned on December 31, 1999, Putin — then acting president — flew to Chechnya, positioning himself as the wartime leader who would restore order after the chaos of the 1990s. The Second Chechen War was, in effect, his presidential campaign. [1]
 
-This origin story creates a structural vulnerability: if Chechnya destabilizes, it threatens the foundational claim that Putin brought Russia back from the brink. [Ramzan Kadyrov](/actors/kadyrov.md), Chechnya's de facto ruler, is the linchpin of that stability — and his health is reportedly failing. [1]
+This origin story creates a structural vulnerability: if Chechnya destabilizes, it threatens the foundational claim that Putin brought Russia back from the brink. [Ramzan Kadyrov]({{ site.baseurl }}/actors/kadyrov.html), Chechnya's de facto ruler, is the linchpin of that stability — and his health is reportedly failing. [1]
 
 # Current Situation
 
@@ -19,7 +20,7 @@ This origin story creates a structural vulnerability: if Chechnya destabilizes, 
 
 Putin's invasion of Ukraine was a war of choice driven by personal worldview and historical grievances, not by Russian national interest as objectively construed. O'Brien treats it as a parallel case to Trump's Iran decision: individual leaders launching wars that the state, acting rationally, would not. [2]
 
-The [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) has become a grinding attritional conflict in which Russia struggles to convert manpower and material into operational breakthroughs. Tchakarova notes that Putin has rejected ceasefire proposals while maintaining demands disconnected from the realities of the battlefield. [3]
+The [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) has become a grinding attritional conflict in which Russia struggles to convert manpower and material into operational breakthroughs. Tchakarova notes that Putin has rejected ceasefire proposals while maintaining demands disconnected from the realities of the battlefield. [3]
 
 ## Straining Russian Resources
 

@@ -1,6 +1,7 @@
 ---
 type: Region
 title: Arctic
+parent: Regions
 description: Strategic theater where digital sovereignty, submarine cable infrastructure, and great power competition converge — EU updating its Arctic strategy as Russia suspends cooperation and Trump claims Greenland
 tags: [europe, naval, military, technology, supply-chain, trade]
 status: ongoing
@@ -9,7 +10,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-The Arctic is emerging as a critical theater where great power competition, digital infrastructure, and climate change converge. Eight Arctic states — the "A5" coastal states (USA/Alaska, Denmark/Greenland, [Russia](/actors/countries/russia.md), Norway, Canada) plus Finland, Sweden, and Iceland — form the core of Arctic governance through the Arctic Council. Six EU member states hold observer status. Following Russia's full invasion of Ukraine, the EU suspended Arctic cooperation with Moscow, necessitating new formats. The EU's 2021 Arctic strategy ("A stronger EU engagement for a peaceful, sustainable and prosperous Arctic") is being updated in 2026, with the consultation phase ending March 16, 2026 [1].
+The Arctic is emerging as a critical theater where great power competition, digital infrastructure, and climate change converge. Eight Arctic states — the "A5" coastal states (USA/Alaska, Denmark/Greenland, [Russia]({{ site.baseurl }}/actors/countries/russia.html), Norway, Canada) plus Finland, Sweden, and Iceland — form the core of Arctic governance through the Arctic Council. Six EU member states hold observer status. Following Russia's full invasion of Ukraine, the EU suspended Arctic cooperation with Moscow, necessitating new formats. The EU's 2021 Arctic strategy ("A stronger EU engagement for a peaceful, sustainable and prosperous Arctic") is being updated in 2026, with the consultation phase ending March 16, 2026 [1].
 
 # Current Situation
 
@@ -44,7 +45,7 @@ The Nordic countries (Norway, Sweden, Finland) stand to benefit significantly fr
 - **Sweden**: Wants a strong EU Arctic role, particularly for environmental frameworks.
 - **Finland**: Supports EU observer status in the Arctic Council alongside Norway.
 - **EU**: Has been a de facto observer in Arctic Council deliberations since 2013 but lacks official status. A strategic partnership with Canada is under discussion.
-- **Greenland**: EU opened a bureau in Nuuk in 2024; the EU opposed [Trump](/actors/trump.md)'s territorial claims on the island [1].
+- **Greenland**: EU opened a bureau in Nuuk in 2024; the EU opposed [Trump]({{ site.baseurl }}/actors/trump.html)'s territorial claims on the island [1].
 
 # Key Dynamics
 

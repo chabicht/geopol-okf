@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Velina Tchakarova
+parent: Authors & Analysts
 description: Geopolitical analyst developing the Global System Rupture framework, DragonBear axis terminology, and FACE Intelligence Simultaneity methodology — tracking systemic stress across energy, trade, and conflict theaters
 tags: [author, framework]
 status: ongoing
@@ -15,7 +16,7 @@ Velina Tchakarova is a geopolitical analyst whose work centers on systemic analy
 
 ## Global System Rupture
 
-The central analytical construct. Tchakarova defines the rupture threshold as the accumulation of simultaneous, mutually reinforcing systemic stresses exceeding the absorptive capacity of the global system. The "Uncharted Waters" scenario — a hypothetical stress-accumulation pathway — was upgraded to a declared Global System Rupture in March 2026, marking the transition from warning to assessment. See [Global System Rupture](/themes/global-system-rupture.md).
+The central analytical construct. Tchakarova defines the rupture threshold as the accumulation of simultaneous, mutually reinforcing systemic stresses exceeding the absorptive capacity of the global system. The "Uncharted Waters" scenario — a hypothetical stress-accumulation pathway — was upgraded to a declared Global System Rupture in March 2026, marking the transition from warning to assessment. See [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html).
 
 ## Tindale-Tchakarova Cascade
 
@@ -23,7 +24,7 @@ Co-developed with Tindale, this cascade model tracks secondary cascades through 
 
 ## DragonBear Axis
 
-Tchakarova's terminology for the coordination between [China](/actors/countries/china.md) and [Russia](/actors/countries/russia.md). The term captures both the partnership's strategic alignment and its asymmetric character — [China](/actors/countries/china.md) as the economic engine, [Russia](/actors/countries/russia.md) as the military disruptor. See [Cold War 2](/conflicts/cold-war-2.md).
+Tchakarova's terminology for the coordination between [China]({{ site.baseurl }}/actors/countries/china.html) and [Russia]({{ site.baseurl }}/actors/countries/russia.html). The term captures both the partnership's strategic alignment and its asymmetric character — [China]({{ site.baseurl }}/actors/countries/china.html) as the economic engine, [Russia]({{ site.baseurl }}/actors/countries/russia.html) as the military disruptor. See [Cold War 2]({{ site.baseurl }}/conflicts/cold-war-2.html).
 
 ## FACE Intelligence Simultaneity Reading
 
@@ -44,8 +45,8 @@ Tchakarova's framework for understanding how proxy wars and systemic crises inte
 - DragonBear axis coordination and its implications
 - Gray-zone escalation across theaters
 - Critical minerals and AI supply chains
-- [EU](/actors/organizations/eu.md) enlargement as geopolitical instrument
-- [NATO](/actors/organizations/nato.md) deterrence posture and European conventional defense
+- [EU]({{ site.baseurl }}/actors/organizations/eu.html) enlargement as geopolitical instrument
+- [NATO]({{ site.baseurl }}/actors/organizations/nato.html) deterrence posture and European conventional defense
 - Latin American hemispheric realignment
 
 # Sources in Bundle

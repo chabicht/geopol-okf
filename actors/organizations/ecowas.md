@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: ECOWAS
+parent: Organizations
 description: Economic Community of West African States — fractured by AES exit and pursuing a counter-terrorism force amid institutional crisis, funding shortfalls, and uncertain AES rapprochement
 tags: [organization, military, africa, terrorism, sahel]
 status: ongoing
@@ -15,7 +16,7 @@ The Economic Community of West African States (ECOWAS) is the primary regional i
 
 ## Institutional Crisis
 
-ECOWAS is navigating its deepest institutional crisis since inception. The 2025 exit of Burkina Faso, Mali, and Niger — and their formation of the Alliance of Sahel States (AES) — has deeply fractured the organisation. This places the [Sahel](/conflicts/sahel-insurgency.md) beyond the reach of ECOWAS peace and security initiatives, while security crises in the AES countries continue to spill over into coastal states. In the absence of decisive ECOWAS action, coastal states have self-organised into subregional formats such as the Accra Initiative, albeit with limited success [1].
+ECOWAS is navigating its deepest institutional crisis since inception. The 2025 exit of Burkina Faso, Mali, and Niger — and their formation of the Alliance of Sahel States (AES) — has deeply fractured the organisation. This places the [Sahel]({{ site.baseurl }}/conflicts/sahel-insurgency.html) beyond the reach of ECOWAS peace and security initiatives, while security crises in the AES countries continue to spill over into coastal states. In the absence of decisive ECOWAS action, coastal states have self-organised into subregional formats such as the Accra Initiative, albeit with limited success [1].
 
 ## Counter-Terrorism Unit
 
@@ -27,7 +28,7 @@ A maximalist version with advanced technologies (UAVs, AI-enabled ISR) would cos
 
 The ESF faces deep-rooted challenges:
 
-- **Political will**: Deployment reflects coalitions of willing states; the ESF countered the December 2025 coup attempt in [Nigeria](/actors/countries/nigeria.md) under Nigerian leadership, but similar will could not be mobilised for the Mali, Burkina Faso, and Niger coups.
+- **Political will**: Deployment reflects coalitions of willing states; the ESF countered the December 2025 coup attempt in [Nigeria]({{ site.baseurl }}/actors/countries/nigeria.html) under Nigerian leadership, but similar will could not be mobilised for the Mali, Burkina Faso, and Niger coups.
 - **Training gaps**: Member states' approaches to deployment and training are shaped by domestic political priorities. Units eventually deployed are not always trained for their mandate — particularly acute for counter-terrorism.
 - **Institutional bottlenecks**: Joint doctrines and policy frameworks take years to agree. The last Command Post Exercise was conducted in 2018; plans for a renewed edition fell victim to Secretariat bureaucratic processes.
 - **Financial shortfalls**: Some member states pay contributions only in part, or not at all.

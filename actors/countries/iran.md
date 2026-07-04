@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Iran
+parent: Countries
 description: Iran as a geopolitical actor — surviving US-Israeli military campaign with retained leverage over Strait of Hormuz and negotiating from strength
 tags: [country, military, nuclear, energy, middle-east, drone-warfare, sanctions]
 status: ongoing
@@ -9,11 +10,11 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-Iran has long been a central actor in Middle Eastern geopolitics, leveraging its geographic position, asymmetric military capabilities, and network of regional proxies to project power far beyond its conventional means. The [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) represented the most direct military confrontation between Iran and a US-led coalition, culminating in a ceasefire that left the underlying balance of power fundamentally unresolved.
+Iran has long been a central actor in Middle Eastern geopolitics, leveraging its geographic position, asymmetric military capabilities, and network of regional proxies to project power far beyond its conventional means. The [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) represented the most direct military confrontation between Iran and a US-led coalition, culminating in a ceasefire that left the underlying balance of power fundamentally unresolved.
 
 ## Pre-War Internal Dynamics
 
-In the weeks before the February 28 war, [Geopolitical Futures](/actors/authors/geopolitical-futures.md) assessed that Iran's regime was headed for a "hard landing." The 47th anniversary of the 1979 revolution exposed elite factionalism, the erosion of the IRGC, and the rise of pragmatists seeking a deal with the Trump administration. The internal crisis created both an opportunity for diplomatic resolution and a risk that military action would externalize the pressure. The war launched before the internal dynamics could play out [1].
+In the weeks before the February 28 war, [Geopolitical Futures]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) assessed that Iran's regime was headed for a "hard landing." The 47th anniversary of the 1979 revolution exposed elite factionalism, the erosion of the IRGC, and the rise of pragmatists seeking a deal with the Trump administration. The internal crisis created both an opportunity for diplomatic resolution and a risk that military action would externalize the pressure. The war launched before the internal dynamics could play out [1].
 
 # Current Situation
 
@@ -31,27 +32,27 @@ Iran's de facto control over Hormuz transit has outlasted the post-war oil price
 
 ## Hormuz Toll System
 
-Iran has proposed a permanent [toll system](/events/hormuz-toll-system.md) for the Strait of Hormuz, negotiated through [Oman](/actors/countries/oman.md). The system would charge approximately $2 million per tanker transit, payable in rials — a structure that both generates revenue and internationalizes the rial. [Trump](/actors/trump.md) rejected the plan, but the proposal institutionalizes Iran's chokepoint leverage as a permanent feature of global energy governance [2].
+Iran has proposed a permanent [toll system]({{ site.baseurl }}/events/hormuz-toll-system.html) for the Strait of Hormuz, negotiated through [Oman]({{ site.baseurl }}/actors/countries/oman.html). The system would charge approximately $2 million per tanker transit, payable in rials — a structure that both generates revenue and internationalizes the rial. [Trump]({{ site.baseurl }}/actors/trump.html) rejected the plan, but the proposal institutionalizes Iran's chokepoint leverage as a permanent feature of global energy governance [2].
 
 ## Ceasefire as Axis Course Correction
 
-The ceasefire was not an American coercive success. Rather, it represented a course correction by the DragonBear axis — [Russia](/actors/countries/russia.md) and [China](/actors/countries/china.md) green-lit the memorandum of understanding that produced the ceasefire. This framing underscores the degree to which the Iran conflict is embedded in the broader [global system rupture](/themes/global-system-rupture.md) and [Cold War 2](/conflicts/cold-war-2.md).
+The ceasefire was not an American coercive success. Rather, it represented a course correction by the DragonBear axis — [Russia]({{ site.baseurl }}/actors/countries/russia.html) and [China]({{ site.baseurl }}/actors/countries/china.html) green-lit the memorandum of understanding that produced the ceasefire. This framing underscores the degree to which the Iran conflict is embedded in the broader [global system rupture]({{ site.baseurl }}/themes/global-system-rupture.html) and [Cold War 2]({{ site.baseurl }}/conflicts/cold-war-2.html).
 
 ## War Without Resolution
 
-The war ended without resolving the underlying balance of power. Iran survived a US-Israeli military campaign designed to degrade its capabilities. The US accepted an agreement rather than imposing the decisive defeat it initially sought. [Israel](/actors/countries/israel.md) remains dissatisfied with the outcome.
+The war ended without resolving the underlying balance of power. Iran survived a US-Israeli military campaign designed to degrade its capabilities. The US accepted an agreement rather than imposing the decisive defeat it initially sought. [Israel]({{ site.baseurl }}/actors/countries/israel.html) remains dissatisfied with the outcome.
 
 ## External Operations in Europe
 
-Iran's IRGC and Quds Force have escalated external operations in Europe — including assassination plots, recruitment via gaming platforms, and a "gig economy" model using disposable agents. These operations are funded through an oil-backed shadow banking system where the IRGC sells sanctioned oil via front companies and launders proceeds through intermediaries in China, the UAE, and Yemen. Despite the EU's designation of the IRGC, Europe's response remains weak. A post-war Iran governed through an IRGC lens will likely escalate operations abroad. See [Organised Crime and Statecraft](/themes/organised-crime-and-statecraft.md) and [Sanctions and Financial Warfare](/themes/sanctions-and-financial-warfare.md) [9].
+Iran's IRGC and Quds Force have escalated external operations in Europe — including assassination plots, recruitment via gaming platforms, and a "gig economy" model using disposable agents. These operations are funded through an oil-backed shadow banking system where the IRGC sells sanctioned oil via front companies and launders proceeds through intermediaries in China, the UAE, and Yemen. Despite the EU's designation of the IRGC, Europe's response remains weak. A post-war Iran governed through an IRGC lens will likely escalate operations abroad. See [Organised Crime and Statecraft]({{ site.baseurl }}/themes/organised-crime-and-statecraft.html) and [Sanctions and Financial Warfare]({{ site.baseurl }}/themes/sanctions-and-financial-warfare.html) [9].
 
 ## US-Israel Friction
 
-Washington's pursuit of diplomatic accommodation with Iran has created friction with [Israel](/actors/countries/israel.md). The US conducted ceasefire negotiations through Pakistani mediation without Israeli participation, despite Israel bearing much of the cost and risk of the war. Israel fears any sanctions relief will rebuild Hezbollah and allow Tehran to rebound. The divergence reflects a fundamental disagreement: Washington seeks to incorporate Iran into a new regional order while Israel believes an ideologically driven regime cannot be durably moderated through negotiation [10].
+Washington's pursuit of diplomatic accommodation with Iran has created friction with [Israel]({{ site.baseurl }}/actors/countries/israel.html). The US conducted ceasefire negotiations through Pakistani mediation without Israeli participation, despite Israel bearing much of the cost and risk of the war. Israel fears any sanctions relief will rebuild Hezbollah and allow Tehran to rebound. The divergence reflects a fundamental disagreement: Washington seeks to incorporate Iran into a new regional order while Israel believes an ideologically driven regime cannot be durably moderated through negotiation [10].
 
 # Analysis
 
-Iran's post-war position demonstrates the limits of conventional military power against a geographically entrenched adversary with asymmetric leverage. The [energy dimension](/themes/energy-and-resources.md) is central: Iran's control over Hormuz gives it influence over global oil and LNG flows that no amount of US military superiority has been able to neutralize. The [ceasefire MoU](/events/iran-ceasefire-mou.md) institutionalized an outcome that favors Iran's long-term strategic position.
+Iran's post-war position demonstrates the limits of conventional military power against a geographically entrenched adversary with asymmetric leverage. The [energy dimension]({{ site.baseurl }}/themes/energy-and-resources.html) is central: Iran's control over Hormuz gives it influence over global oil and LNG flows that no amount of US military superiority has been able to neutralize. The [ceasefire MoU]({{ site.baseurl }}/events/iran-ceasefire-mou.html) institutionalized an outcome that favors Iran's long-term strategic position.
 
 # Citations
 

@@ -1,6 +1,7 @@
 ---
 type: Event
 title: Saudi-Iran-Pakistan Negotiations
+parent: Events
 description: Secret Saudi-Iran negotiations mediated through Pakistan with Russian and Chinese support, aiming at a non-aggression pact that would stabilize the Gulf outside the US security framework
 tags: [energy, middle-east]
 status: ongoing
@@ -9,7 +10,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-As the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) progressed, [Saudi Arabia](/actors/countries/saudi-arabia.md) increasingly recognized that the US security umbrella was unreliable and that direct negotiations with [Iran](/actors/countries/iran.md) were necessary. [Pakistan](/actors/countries/pakistan.md) emerged as the natural mediator — a state with credibility in both Riyadh and Tehran, backed by [China](/actors/countries/china.md) and [Russia](/actors/countries/russia.md) as guarantors.
+As the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) progressed, [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) increasingly recognized that the US security umbrella was unreliable and that direct negotiations with [Iran]({{ site.baseurl }}/actors/countries/iran.html) were necessary. [Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html) emerged as the natural mediator — a state with credibility in both Riyadh and Tehran, backed by [China]({{ site.baseurl }}/actors/countries/china.html) and [Russia]({{ site.baseurl }}/actors/countries/russia.html) as guarantors.
 
 # What Happened
 
@@ -20,9 +21,9 @@ As the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) progressed, [Saudi 
 
 # Analysis
 
-[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) frames these negotiations as a tectonic shift: the recognition that the US security monopoly in the [Middle East](/regions/middle-east.md) is over. The involvement of China and Russia as backers of Saudi-Iran talks signals the emergence of a multipolar security architecture in which regional powers negotiate their own stability with external great-power guarantors — but not necessarily the United States [1].
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) frames these negotiations as a tectonic shift: the recognition that the US security monopoly in the [Middle East]({{ site.baseurl }}/regions/middle-east.html) is over. The involvement of China and Russia as backers of Saudi-Iran talks signals the emergence of a multipolar security architecture in which regional powers negotiate their own stability with external great-power guarantors — but not necessarily the United States [1].
 
-The negotiations also illustrate the [global system rupture](/themes/global-system-rupture.md): the US-Iran war, rather than reasserting American dominance, accelerated its erosion by driving regional powers to seek alternative security arrangements [1].
+The negotiations also illustrate the [global system rupture]({{ site.baseurl }}/themes/global-system-rupture.html): the US-Iran war, rather than reasserting American dominance, accelerated its erosion by driving regional powers to seek alternative security arrangements [1].
 
 # Citations
 

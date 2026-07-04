@@ -1,8 +1,14 @@
+---
+title: Rules & Conventions
+nav_order: 7
+permalink: /rules/
+---
+
 # Geopolitics OKF Bundle — Rules & Conventions
 
 This document captures all design decisions governing the structure, formatting,
 and authoring of concepts in this OKF bundle. It is project governance, not an
-OKF concept, and has no frontmatter.
+OKF concept.
 
 All agents and humans creating or editing concepts in this bundle MUST follow
 these conventions.
@@ -12,10 +18,12 @@ these conventions.
 ## 1. Bundle Overview
 
 - **Format**: OKF v0.1 (see `okf.md` for the full specification).
+- **Site**: Published via GitHub Pages using the [Just the Docs](https://github.com/just-the-docs/just-the-docs)
+  Jekyll theme. Site config is in `_config.yml`; dependencies in `Gemfile`.
 - **Bundle root**: The repository root. All top-level OKF directories are at the root.
 - **Sources**: The `sources/` directory contains raw source material (clippings,
-  articles, essays). It is NOT part of the OKF bundle. Concepts cite sources by
-  their original URL, not by local file path.
+  articles, essays). It is NOT part of the OKF bundle and is excluded from the
+  Jekyll build. Concepts cite sources by their original URL, not by local file path.
 - **OKF version**: Declared in root `README.md` as `okf_version: "0.1"`.
 - **Index files**: Named `README.md` (not `index.md`) so that GitHub
   automatically renders them when browsing a directory. This is a
@@ -27,11 +35,13 @@ these conventions.
 
 ```
 geopol-okf/
-├── README.md             # Bundle root index (has frontmatter with okf_version)
+├── _config.yml           # Jekyll / Just the Docs site configuration
+├── Gemfile               # Ruby dependencies (github-pages gem)
+├── README.md             # Bundle root index (site home page)
 ├── log.md                # Bundle update log
 ├── rules.md              # This file (governance, not an OKF concept)
 ├── okf.md                # The OKF specification (reference, not a concept)
-├── sources/              # Raw source material (not part of the OKF bundle)
+├── sources/              # Raw source material (not part of the OKF bundle, excluded from Jekyll)
 ├── actors/               # Countries, leaders, organizations, authors
 ├── conflicts/            # Wars, crises, sustained standoffs
 ├── regions/              # Geographic areas with independent dynamics
@@ -58,16 +68,21 @@ expressed via tags, not via subtyped `type` values.
 
 ## 4. Frontmatter
 
-### 4.1 Required fields
+All markdown files in the bundle (concepts, indexes, and reference documents)
+have YAML frontmatter. The frontmatter serves both OKF metadata and Just the
+Docs navigation.
+
+### 4.1 Required fields (concept files)
 
 ```yaml
 type: Actor              # REQUIRED — one of the 5 types
+title: United States     # REQUIRED — used as sidebar label and page title
+parent: Countries        # REQUIRED — the parent nav page (see §4.4)
 ```
 
-### 4.2 Recommended fields
+### 4.2 Recommended fields (concept files)
 
 ```yaml
-title: United States     # Human-readable display name
 description: <one-line summary>
 tags: [country, military, nuclear]
 status: ongoing           # Lifecycle state (see §6)
@@ -82,6 +97,35 @@ Producers MAY add any additional keys. Common extensions in this bundle:
 author: Velina Tchakarova       # For author actor concepts
 source_url: https://...         # For events sourced from a single article
 ```
+
+### 4.4 Navigation fields (Just the Docs)
+
+The sidebar tree is built from these frontmatter fields:
+
+| Field | Used on | Purpose |
+|-------|---------|---------|
+| `title` | All pages | Sidebar label and page `<title>` |
+| `parent` | All concept files | Name of the parent page (matches the parent's `title`) |
+| `nav_order` | Top-level pages | Sort order in the sidebar (integer or string) |
+| `has_children` | Index/section pages | `true` if this page has child pages in the tree |
+| `permalink` | Index/reference pages | Custom URL (e.g. `/actors/countries/`) |
+
+**Parent values** must exactly match the parent page's `title`. The current
+parent hierarchy:
+
+| Parent `title` | Files |
+|----------------|-------|
+| `Actors` | Leader concepts in `actors/` root, and all sub-index READMEs |
+| `Countries` | `actors/countries/*.md` (non-README) |
+| `Organizations` | `actors/organizations/*.md` (non-README) |
+| `Authors & Analysts` | `actors/authors/*.md` (non-README) |
+| `Conflicts` | `conflicts/*.md` (non-README) |
+| `Regions` | `regions/*.md` (non-README) |
+| `Themes` | `themes/*.md` (non-README) |
+| `Events` | `events/*.md` (non-README) |
+
+Leaf pages (concepts) sort alphabetically by `title` automatically. No
+`nav_order` is needed on concept files.
 
 ---
 
@@ -173,7 +217,12 @@ itself is the concept.
 
 ## 9. Cross-linking
 
-- **Absolute (bundle-relative) links** are preferred: `[US-Iran War](/conflicts/us-iran-war-2026.md)`.
+- **Absolute links** use the `{{ site.baseurl }}` prefix and `.html` extension:
+  `[US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html)`.
+- **Relative links** within the same directory use bare filenames with `.html`:
+  `[United States](united-states.html)`.
+- Links to directory index pages use the permalink (no `.html`):
+  `[Countries](countries/)` or `[Actors]({{ site.baseurl }}/actors/)`.
 - Links express relationships; the kind of relationship is conveyed by
   surrounding prose, not by the link itself.
 - **Broken links are tolerated** — they represent not-yet-written knowledge.
@@ -240,9 +289,33 @@ output, not as concept tags.
 
 ## 12. Index Files
 
-Each top-level directory has a `README.md` with no frontmatter (except the
-root `README.md`, which has `okf_version`). Index files list all concepts in
-the directory grouped by section, with one-line descriptions.
+Each top-level directory has a `README.md` with Just the Docs navigation
+frontmatter (`title`, `nav_order`, `has_children`, `permalink`). Subdirectory
+index files add `parent` pointing to their top-level parent. Index files list
+all concepts in the directory grouped by section, with one-line descriptions.
+
+The frontmatter for an index file looks like:
+
+```yaml
+---
+title: Actors
+nav_order: 1
+has_children: true
+permalink: /actors/
+---
+```
+
+Subdirectory index:
+
+```yaml
+---
+title: Countries
+parent: Actors
+nav_order: 1
+has_children: true
+permalink: /actors/countries/
+---
+```
 
 > **Note:** The OKF spec uses `index.md` for directory listings. This bundle
 > uses `README.md` instead so that GitHub automatically renders the listing
@@ -303,12 +376,67 @@ not affect the `type` field, which remains flat (see §3).
 - **Each subdirectory gets its own `README.md`** index file following the
   same conventions as top-level index files (§12).
 - **Cross-links must be updated** when files move into subdirectories.
-  Absolute bundle-relative paths change (e.g., `/actors/countries/china.md` becomes
-  `/actors/countries/china.md`). A link-rewriting pass is part of any
-  migration.
+  Absolute links use `{{ site.baseurl }}/actors/countries/china.html` (with
+  `.html` extension). A link-rewriting pass is part of any migration.
 
 ### 15.4 Concept IDs
 
 Concept IDs are derived from the full file path (OKF §2). Moving a file
 into a subdirectory changes its concept ID. Consumers that cache or index
 by concept ID MUST be updated.
+
+---
+
+## 16. Jekyll / Just the Docs Integration
+
+The bundle is published as a GitHub Pages site using the
+[Just the Docs](https://github.com/just-the-docs/just-the-docs) theme.
+This section captures the rules that ensure new content renders correctly.
+
+### 16.1 Configuration
+
+- `_config.yml` at the repo root sets `remote_theme`, `baseurl`, `url`,
+  `exclude`, and theme options. Do not commit a `_config.yml` with a
+  different `baseurl` unless the repo is renamed.
+- `Gemfile` pins the `github-pages` gem for local development.
+- `sources/` is in the `exclude` list and will not be processed by Jekyll.
+
+### 16.2 Frontmatter for new concept files
+
+Every new concept file MUST include `title` and `parent` in its frontmatter
+(see §4). The `parent` value must match the parent page's `title` exactly.
+Without these, the page will not appear in the sidebar navigation tree.
+
+### 16.3 Frontmatter for new index files
+
+When creating a new subdirectory (see §15), create a `README.md` with:
+
+```yaml
+---
+title: <Section Name>
+parent: <Parent Section Title>
+nav_order: <integer>
+has_children: true
+permalink: /<path>/<subdir>/
+---
+```
+
+### 16.4 Link format
+
+- Cross-concept links use `.html` extension, not `.md`:
+  `[China]({{ site.baseurl }}/actors/countries/china.html)` (absolute) or
+  `[China](china.html)` (relative within the same directory).
+- Links to index pages use the permalink path without `.html`:
+  `[Countries](countries/)` or `[Countries]({{ site.baseurl }}/actors/countries/)`.
+- The `{{ site.baseurl }}` variable is required for absolute links so they
+  resolve correctly under the GitHub Pages subpath (`/geopol-okf`).
+
+### 16.5 Adding a new top-level section
+
+To add a new top-level section to the sidebar (e.g. a new directory):
+
+1. Create the directory with a `README.md` index file containing `nav_order`
+   and `has_children: true`.
+2. Add the directory to `_config.yml` if it needs special handling.
+3. Update the root `README.md` to link to the new directory.
+4. Choose a `nav_order` value that positions it correctly in the sidebar.

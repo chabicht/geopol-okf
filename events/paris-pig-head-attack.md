@@ -1,6 +1,7 @@
 ---
 type: Event
 title: Paris Pig-Head Attack
+parent: Events
 description: September 2025 Russian-directed operation targeting Paris mosques with severed pig heads, part of broader cognitive strikes against the West.
 tags: [cognitive-warfare, intelligence, europe]
 status: concluded
@@ -9,14 +10,14 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-[Russia](/actors/countries/russia.md) has been conducting a campaign of cognitive strikes against Western nations, operating below the threshold of armed conflict to destabilize societies, inflame tensions, and project an image of Russian power. The [Paris](/actors/countries/france.md) pig-head attack is one documented instance of this broader campaign, revealed through leaked internal documents from Delfi Estonia shared with OCCRP. See [Cognitive Warfare](/themes/cognitive-warfare.md) and [Europe](/regions/europe.md).
+[Russia]({{ site.baseurl }}/actors/countries/russia.html) has been conducting a campaign of cognitive strikes against Western nations, operating below the threshold of armed conflict to destabilize societies, inflame tensions, and project an image of Russian power. The [Paris]({{ site.baseurl }}/actors/countries/france.html) pig-head attack is one documented instance of this broader campaign, revealed through leaked internal documents from Delfi Estonia shared with OCCRP. See [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) and [Europe]({{ site.baseurl }}/regions/europe.html).
 
 # What Happened
 
 - September 2025: nine mosques and cultural centers in the Paris area were targeted with bloody severed pig heads marked "Macron."
 - Three men from Serbia were convicted; they were directed by Russian intelligence structures.
 - Leaked documents from Delfi Estonia, shared with OCCRP, revealed internal planning details.
-- The Social Design Agency and the Russian Presidential Administration were identified as the responsible entities. See [Social Design Agency](/actors/organizations/social-design-agency.md).
+- The Social Design Agency and the Russian Presidential Administration were identified as the responsible entities. See [Social Design Agency]({{ site.baseurl }}/actors/organizations/social-design-agency.html).
 - A "Report on Operation Pig's Head" detailed the operation: 6 operatives arrived in Paris on September 7, conducted reconnaissance on September 8, delivered the pig heads on September 9, and left the country.
 - The operation was part of a broader campaign of cognitive strikes including vandalism in France and Germany and election interference operations.
 

@@ -1,6 +1,7 @@
 ---
 type: Event
 title: Jones Act Suspension of 2026
+parent: Events
 description: Trump's 150-day waiver of the Jones Act allowing foreign vessels to shuttle fuel between U.S. ports, primarily from Gulf Coast refineries to gasoline-starved California.
 tags:
   - energy
@@ -13,7 +14,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-The Jones Act (Merchant Marine Act of 1920) requires that goods shipped between U.S. ports be carried on vessels built, owned, and operated by Americans. The century-old law artificially constrains domestic shipping capacity and inflates transportation costs, particularly for fuel distribution from Gulf Coast refineries to distant domestic markets. [Trump](/actors/trump.md) suspended the Act for 150 days, creating a temporary experiment in maritime deregulation. See [Energy and Resources](/themes/energy-and-resources.md) and [United States](/actors/countries/united-states.md).
+The Jones Act (Merchant Marine Act of 1920) requires that goods shipped between U.S. ports be carried on vessels built, owned, and operated by Americans. The century-old law artificially constrains domestic shipping capacity and inflates transportation costs, particularly for fuel distribution from Gulf Coast refineries to distant domestic markets. [Trump]({{ site.baseurl }}/actors/trump.html) suspended the Act for 150 days, creating a temporary experiment in maritime deregulation. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) and [United States]({{ site.baseurl }}/actors/countries/united-states.html).
 
 # What Happened
 
@@ -30,7 +31,7 @@ The suspension exposed the extent to which the Jones Act distorts domestic fuel 
 
 ## Policy Crossroads
 
-The August 15 expiration creates a decision point: permanent reform, extension, or reversion. The 52 Republican lawmakers opposing extension reflect a coalition of free-market advocates and consumer-state representatives challenging the maritime lobby. The episode illustrates how [energy security](/themes/energy-and-resources.md) and protectionist industrial policy can conflict within a single administration's platform.
+The August 15 expiration creates a decision point: permanent reform, extension, or reversion. The 52 Republican lawmakers opposing extension reflect a coalition of free-market advocates and consumer-state representatives challenging the maritime lobby. The episode illustrates how [energy security]({{ site.baseurl }}/themes/energy-and-resources.html) and protectionist industrial policy can conflict within a single administration's platform.
 
 # Citations
 

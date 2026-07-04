@@ -1,6 +1,7 @@
 ---
 type: Theme
 title: Sanctions and Financial Warfare
+parent: Themes
 description: The architecture of economic coercion — sanctions design, enforcement gaps, shadow banking, and the evolving contest between Western financial power and adversary evasion networks.
 tags:
   - sanctions
@@ -13,7 +14,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-Sanctions have become the primary instrument of Western coercive power short of military force. The [United States](/actors/countries/united-states.md) and its allies wield the dollar's centrality, SWIFT's infrastructure, and the dominance of Western banks to constrain adversary behavior. Yet the effectiveness of sanctions is eroding as targeted states — [Russia](/actors/countries/russia.md), [Iran](/actors/countries/iran.md), North Korea — develop sophisticated evasion architectures through shadow banking, barter trade, cryptocurrency, and [organised criminal networks](/themes/organised-crime-and-statecraft.md). See [Global System Rupture](/themes/global-system-rupture.md) and [Great Power Competition](/themes/great-power-competition.md).
+Sanctions have become the primary instrument of Western coercive power short of military force. The [United States]({{ site.baseurl }}/actors/countries/united-states.html) and its allies wield the dollar's centrality, SWIFT's infrastructure, and the dominance of Western banks to constrain adversary behavior. Yet the effectiveness of sanctions is eroding as targeted states — [Russia]({{ site.baseurl }}/actors/countries/russia.html), [Iran]({{ site.baseurl }}/actors/countries/iran.html), North Korea — develop sophisticated evasion architectures through shadow banking, barter trade, cryptocurrency, and [organised criminal networks]({{ site.baseurl }}/themes/organised-crime-and-statecraft.html). See [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) and [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html).
 
 # Current Situation
 
@@ -49,7 +50,7 @@ Iran's shadow banking system represents the mature end-state of sanctions evasio
 
 ## Implications for the Global System
 
-The erosion of sanctions effectiveness contributes to [Global System Rupture](/themes/global-system-rupture.md). As evasion architectures mature, the Western financial system's coercive power diminishes, and the cost of using it (in terms of ally compliance and institutional credibility) rises. The sanctions weapon is not being defused — it is being slowly neutralized by adaptive adversaries who have learned to operate in its shadow.
+The erosion of sanctions effectiveness contributes to [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html). As evasion architectures mature, the Western financial system's coercive power diminishes, and the cost of using it (in terms of ally compliance and institutional credibility) rises. The sanctions weapon is not being defused — it is being slowly neutralized by adaptive adversaries who have learned to operate in its shadow.
 
 # Citations
 

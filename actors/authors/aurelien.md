@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Aurelien
+parent: Authors & Analysts
 description: Pseudonymous essayist on geopolitics, conflict theory, and Western institutional decline — critiquing game theory and escalation models, analyzing strategic surprise, and tracing the erosion of Western influence
 tags: [author, framework, opinion]
 status: ongoing
@@ -9,7 +10,7 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Background
 
-Aurelien is a pseudonymous writer whose essays on the Substack publication "Aurelien" combine historical analysis, institutional critique, and conflict theory. His work is distinguished by a skepticism toward formal models of international relations — particularly game theory and escalation theory — which he argues fail to capture the actual dynamics of contemporary conflicts. His analysis of the [US-Iran War](/conflicts/us-iran-war-2026.md), the [Russia-Ukraine War](/conflicts/russia-ukraine-war.md), and the broader [global system rupture](/themes/global-system-rupture.md) provides a counterpoint to the framework-driven approaches of [Tchakarova](/actors/authors/velina-tchakarova.md) and [O'Brien](/actors/authors/phillips-obrien.md).
+Aurelien is a pseudonymous writer whose essays on the Substack publication "Aurelien" combine historical analysis, institutional critique, and conflict theory. His work is distinguished by a skepticism toward formal models of international relations — particularly game theory and escalation theory — which he argues fail to capture the actual dynamics of contemporary conflicts. His analysis of the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), and the broader [global system rupture]({{ site.baseurl }}/themes/global-system-rupture.html) provides a counterpoint to the framework-driven approaches of [Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) and [O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html).
 
 # Key Frameworks
 
@@ -23,13 +24,13 @@ Aurelien's analysis of the Iran war frames the US and Israeli positions as funda
 
 ## Elite Homogenization
 
-Aurelien's concept of elite homogenization — the convergence of Western ruling elites toward a single worldview regardless of nominal political affiliation — is cited by [The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) as a structural feature of the "Zero State": a system unable to generate growth, where elites choose war as their "last sniff" and govern through bureaucracy and corruption rather than innovation [3].
+Aurelien's concept of elite homogenization — the convergence of Western ruling elites toward a single worldview regardless of nominal political affiliation — is cited by [The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) as a structural feature of the "Zero State": a system unable to generate growth, where elites choose war as their "last sniff" and govern through bureaucracy and corruption rather than innovation [3].
 
 ## Strategic Surprise Taxonomy
 
 Aurelien develops a typology of strategic surprise — the persistent phenomenon of governments being caught off guard by events that were in principle foreseeable. Five types [4][5]:
 
-1. **Surprise-at-failure**: The most common type. The outbreak of conflict was predicted, the methods were expected, but the *outcome* was a surprise because the overall strategic situation was read wrongly. The [US-Iran War](/conflicts/us-iran-war-2026.md) is a classic case: the US assumed Iran's state was fragile, that bombing would degrade it, and that the Iranian people would rise up — all necessary assumptions that *had* to be true for the objective to succeed, and therefore were assumed true. Operation Barbarossa (1941) and the Iraq invasion (2003) fit the same pattern of backwards logic from desired outcome to necessary false assumptions [4].
+1. **Surprise-at-failure**: The most common type. The outbreak of conflict was predicted, the methods were expected, but the *outcome* was a surprise because the overall strategic situation was read wrongly. The [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) is a classic case: the US assumed Iran's state was fragile, that bombing would degrade it, and that the Iranian people would rise up — all necessary assumptions that *had* to be true for the objective to succeed, and therefore were assumed true. Operation Barbarossa (1941) and the Iraq invasion (2003) fit the same pattern of backwards logic from desired outcome to necessary false assumptions [4].
 
 2. **Surprise-by-indifference**: A lack of interest in finding out what the situation actually is. The Wehrmacht did not bother studying the Red Army before Barbarossa. The Argentine junta gave no thought to possible British reaction before invading the Falklands. Western planners gave little thought to the Sunni-Shia divide before dismantling the Iraqi state [4].
 

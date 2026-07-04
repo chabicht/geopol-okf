@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: India
+parent: Countries
 description: India as a geopolitical actor — balancing China as its overriding strategic concern while enduring Trump-era diplomatic slights
 tags: [country, military, indo-pacific, trade]
 status: ongoing
@@ -9,7 +10,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-India is the world's most populous democracy and a rising power with deep strategic concerns about [China](/actors/countries/china.md). Despite being courted by the [United States](/actors/countries/united-states.md) as a counterweight to Beijing, India has experienced significant friction in its relationship with Washington under the Trump administration.
+India is the world's most populous democracy and a rising power with deep strategic concerns about [China]({{ site.baseurl }}/actors/countries/china.html). Despite being courted by the [United States]({{ site.baseurl }}/actors/countries/united-states.html) as a counterweight to Beijing, India has experienced significant friction in its relationship with Washington under the Trump administration.
 
 # Current Situation
 
@@ -27,23 +28,23 @@ Trump's tariffs, his claims of mediation in the India-Pakistan clash, and his in
 
 ## Iran War Passivity
 
-India's approach to the [US-Iran War](/conflicts/us-iran-war-2026.md) was passive, leading to domestic criticism. The conflict exposed the tension between India's energy dependencies in the Middle East and its alignment with the US-led security framework.
+India's approach to the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) was passive, leading to domestic criticism. The conflict exposed the tension between India's energy dependencies in the Middle East and its alignment with the US-led security framework.
 
 ## RIC Revival and Starlink Freeze
 
-The Russia-India-China (RIC) trilateral was revived in mid-2026 as a coordinated DragonBear play to pull India away from Washington. [China](/actors/countries/china.md) endorsed the revival; [Russia](/actors/countries/russia.md) praised both Modi and Xi. Coinciding with the revival, India froze Starlink approvals over security concerns after Starlink operated in Iran without an Indian license. India's doctrine of "multi-alignment with hard sovereignty floors" is being tested: can India participate in a RIC framework while maintaining its Quad membership? See [RIC Revival of 2026](/events/ric-revival-2026.md) [2].
+The Russia-India-China (RIC) trilateral was revived in mid-2026 as a coordinated DragonBear play to pull India away from Washington. [China]({{ site.baseurl }}/actors/countries/china.html) endorsed the revival; [Russia]({{ site.baseurl }}/actors/countries/russia.html) praised both Modi and Xi. Coinciding with the revival, India froze Starlink approvals over security concerns after Starlink operated in Iran without an Indian license. India's doctrine of "multi-alignment with hard sovereignty floors" is being tested: can India participate in a RIC framework while maintaining its Quad membership? See [RIC Revival of 2026]({{ site.baseurl }}/events/ric-revival-2026.html) [2].
 
 ## India as the Decisive Swing Variable
 
-[Velina Tchakarova](/actors/authors/velina-tchakarova.md) identifies India as the most important swing variable between hardened bifurcation and volatile multipolarity. India widened its room for maneuver by deepening Russian energy ties, freezing Starlink approvals, and reopening high-level dialogue with China — making it the single actor whose trajectory most determines whether the global system hardens into a bipolar US-versus-China structure or fragments into a more fluid multipolar order. India's multi-alignment doctrine is not hedging but strategic autonomy: the deliberate cultivation of optionality across blocs, enabled by the fact that no bloc can afford to lose India to the other side [4].
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) identifies India as the most important swing variable between hardened bifurcation and volatile multipolarity. India widened its room for maneuver by deepening Russian energy ties, freezing Starlink approvals, and reopening high-level dialogue with China — making it the single actor whose trajectory most determines whether the global system hardens into a bipolar US-versus-China structure or fragments into a more fluid multipolar order. India's multi-alignment doctrine is not hedging but strategic autonomy: the deliberate cultivation of optionality across blocs, enabled by the fact that no bloc can afford to lose India to the other side [4].
 
 ## Trade Realignment
 
-McKinsey's 2026 trade geometry analysis shows that US-China trade fell approximately 30%, with ASEAN, Brazil, and [India](/actors/countries/india.md) absorbing redirected flows. India thrived as a "factory to the factories" intermediary, but the trade realignment along geopolitical lines creates both opportunity and vulnerability for Indian economic strategy [3].
+McKinsey's 2026 trade geometry analysis shows that US-China trade fell approximately 30%, with ASEAN, Brazil, and [India]({{ site.baseurl }}/actors/countries/india.html) absorbing redirected flows. India thrived as a "factory to the factories" intermediary, but the trade realignment along geopolitical lines creates both opportunity and vulnerability for Indian economic strategy [3].
 
 ## Bangladesh Strategic Challenge
 
-China's $9.2 billion investment push into [Bangladesh](/actors/countries/bangladesh.md) — including 13 MOUs and the Teesta River project — represents a strategic setback for New Delhi. Bangladesh has historically been so close to India it could be considered a satellite, but the 2024 uprising that ended Sheikh Hasina's rule opened the door to strategic autonomy. Chinese commercial investments near the Siliguri Corridor raise security concerns. However, India retains structural advantages: 4,000+ km of shared border, deep historical ties, and geographic indispensability. New Delhi will likely accelerate its own connectivity initiatives rather than oppose Beijing's investment directly [5].
+China's $9.2 billion investment push into [Bangladesh]({{ site.baseurl }}/actors/countries/bangladesh.html) — including 13 MOUs and the Teesta River project — represents a strategic setback for New Delhi. Bangladesh has historically been so close to India it could be considered a satellite, but the 2024 uprising that ended Sheikh Hasina's rule opened the door to strategic autonomy. Chinese commercial investments near the Siliguri Corridor raise security concerns. However, India retains structural advantages: 4,000+ km of shared border, deep historical ties, and geographic indispensability. New Delhi will likely accelerate its own connectivity initiatives rather than oppose Beijing's investment directly [5].
 
 # Analysis
 

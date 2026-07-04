@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: United Kingdom
+parent: Countries
 description: Post-Brexit power navigating energy security, European defence burden-sharing, and domestic asylum policy amid declining global influence.
 tags:
   - country
@@ -13,7 +14,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-The United Kingdom exited the European Union in 2020 and has since sought to redefine its global role through the "Global Britain" framework while remaining a NATO founding member and nuclear power. The UK maintains significant military capability but faces compounding challenges: energy security dependence on North Sea gas, domestic political polarization over asylum policy, and the broader question of European defence autonomy as the [United States](/actors/countries/united-states.md) pressures allies to take greater responsibility. See [Europe](/regions/europe.md) and [NATO](/actors/organizations/nato.md).
+The United Kingdom exited the European Union in 2020 and has since sought to redefine its global role through the "Global Britain" framework while remaining a NATO founding member and nuclear power. The UK maintains significant military capability but faces compounding challenges: energy security dependence on North Sea gas, domestic political polarization over asylum policy, and the broader question of European defence autonomy as the [United States]({{ site.baseurl }}/actors/countries/united-states.html) pressures allies to take greater responsibility. See [Europe]({{ site.baseurl }}/regions/europe.html) and [NATO]({{ site.baseurl }}/actors/organizations/nato.html).
 
 # Current Situation
 

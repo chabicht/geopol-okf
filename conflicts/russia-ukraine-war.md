@@ -1,6 +1,7 @@
 ---
 type: Conflict
 title: "Russia-Ukraine War"
+parent: Conflicts
 description: "Full-scale invasion launched by Russia in February 2022, evolving into an attritional war with grinding Russian advances at high cost. Ukraine has developed increasingly effective long-range strike and Crimea isolation campaigns."
 tags:
   - kinetic
@@ -14,19 +15,19 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-The Russia-Ukraine War began with Russia's full-scale invasion of Ukraine on February 24, 2022. [Vladimir Putin](/actors/putin.md) launched what is widely understood to be a war of choice, rooted in his personal views about Ukrainian nationhood and Russian imperial identity rather than in any compelling security imperative. The initial phase aimed at regime change in Kyiv failed decisively, and the war settled into an attritional pattern with front lines largely static and [Russia](/actors/countries/russia.md) advancing only through grinding, high-cost assaults.
+The Russia-Ukraine War began with Russia's full-scale invasion of Ukraine on February 24, 2022. [Vladimir Putin]({{ site.baseurl }}/actors/putin.html) launched what is widely understood to be a war of choice, rooted in his personal views about Ukrainian nationhood and Russian imperial identity rather than in any compelling security imperative. The initial phase aimed at regime change in Kyiv failed decisively, and the war settled into an attritional pattern with front lines largely static and [Russia]({{ site.baseurl }}/actors/countries/russia.html) advancing only through grinding, high-cost assaults.
 
-[Volodymyr Zelensky](/actors/zelensky.md) and the Ukrainian leadership have sustained the war effort through a combination of Western military assistance, domestic innovation in [drone warfare](/themes/drone-warfare.md), and adaptive operational doctrine. The conflict has become the largest sustained land war in [Europe](/regions/europe.md) since 1945.
+[Volodymyr Zelensky]({{ site.baseurl }}/actors/zelensky.html) and the Ukrainian leadership have sustained the war effort through a combination of Western military assistance, domestic innovation in [drone warfare]({{ site.baseurl }}/themes/drone-warfare.html), and adaptive operational doctrine. The conflict has become the largest sustained land war in [Europe]({{ site.baseurl }}/regions/europe.html) since 1945.
 
 # Current Situation
 
-Russia's summer advance has slowed sharply, and Ukrainian strikes are now reaching deep into Russian territory, including St. Petersburg and Moscow [1][2]. In May 2026, Ukraine conducted a major [drone strike on Moscow](/events/moscow-drone-strike.md), demonstrating that Putin can no longer protect the capital from war consequences. O'Brien compares the strike to Japan's loss of the Marianas in WWII — the moment when the propaganda narrative collapsed. Russia's cumulative casualties exceed 1 million [8].
+Russia's summer advance has slowed sharply, and Ukrainian strikes are now reaching deep into Russian territory, including St. Petersburg and Moscow [1][2]. In May 2026, Ukraine conducted a major [drone strike on Moscow]({{ site.baseurl }}/events/moscow-drone-strike.html), demonstrating that Putin can no longer protect the capital from war consequences. O'Brien compares the strike to Japan's loss of the Marianas in WWII — the moment when the propaganda narrative collapsed. Russia's cumulative casualties exceed 1 million [8].
 
 The operational picture is characterized by several parallel Ukrainian campaigns:
 
-- **Crimea isolation**: Ukraine is successfully isolating [Crimea](/events/crimea-isolation-campaign.md), with fuel shortages becoming acute — the Russian-appointed governor has forbidden civilian fuel sales on the peninsula [3].
+- **Crimea isolation**: Ukraine is successfully isolating [Crimea]({{ site.baseurl }}/events/crimea-isolation-campaign.html), with fuel shortages becoming acute — the Russian-appointed governor has forbidden civilian fuel sales on the peninsula [3].
 - **Long-range strikes**: Ukrainian long-range strikes are targeting Russian war production, not just refineries. The Titan-Barrikady facility in Volgograd (former Stalingrad) has been hit by FP-5 Flamingo missiles [4].
-- **Belarus pressure**: [Lukashenka](/actors/lukashenka.md) has halted radio guidance equipment that was helping Russian strikes, responding to Ukrainian threats. [Belarus](/actors/countries/belarus.md) is increasingly exposed: Minsk is closer to Kyiv than Kyiv is to Crimea, placing vital targets within Ukrainian reach [5].
+- **Belarus pressure**: [Lukashenka]({{ site.baseurl }}/actors/lukashenka.html) has halted radio guidance equipment that was helping Russian strikes, responding to Ukrainian threats. [Belarus]({{ site.baseurl }}/actors/countries/belarus.html) is increasingly exposed: Minsk is closer to Kyiv than Kyiv is to Crimea, placing vital targets within Ukrainian reach [5].
 - **Refinery attacks**: Fuel shortages are appearing across Russia as the campaign against refineries begins to bite [4].
 
 Putin has rejected ceasefire proposals, with demands disconnected from battlefield realities [1].
@@ -35,7 +36,7 @@ Putin has rejected ceasefire proposals, with demands disconnected from battlefie
 
 ## Crimea Isolation Campaign
 
-[Phillips O'Brien](/actors/authors/phillips-obrien.md) describes a deliberate three-step process for isolating Crimea: cutting off the peninsula from the sea (achieved), gaining air superiority over the approaches (achieved), and targeting the Kerch Bridge (in progress) [3]. Ukrainians have disabled the remaining Russian air defense systems protecting the Kerch Bridge, bringing the structure within strike range [3].
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) describes a deliberate three-step process for isolating Crimea: cutting off the peninsula from the sea (achieved), gaining air superiority over the approaches (achieved), and targeting the Kerch Bridge (in progress) [3]. Ukrainians have disabled the remaining Russian air defense systems protecting the Kerch Bridge, bringing the structure within strike range [3].
 
 O'Brien argues that if the Russians cannot counter this process, Crimea could be fully isolated with dire strategic results — the loss of Crimea would constitute a political and military blow from which the Putin regime might not recover [3].
 
@@ -55,7 +56,7 @@ O'Brien argues that battles reveal rather than determine outcomes. The Battle of
 
 ## Trump's Role
 
-O'Brien asserts that [Trump](/actors/trump.md) is still helping Putin despite occasional critical words, and that observers should not listen to the words — they are meant to deceive [4]. Trump has also been rewriting history about the war, constructing narratives that serve his political needs rather than reflecting the record [6].
+O'Brien asserts that [Trump]({{ site.baseurl }}/actors/trump.html) is still helping Putin despite occasional critical words, and that observers should not listen to the words — they are meant to deceive [4]. Trump has also been rewriting history about the war, constructing narratives that serve his political needs rather than reflecting the record [6].
 
 ## Ranged War Doctrine
 
@@ -69,7 +70,7 @@ Ukraine is breaking out of positional warfare through a combination of maturing 
 
 ## Russian Resettlement Campaign
 
-Russia is conducting a systematic [resettlement campaign](/events/russia-resettlement-campaign.md) to repopulate occupied Ukraine with Russian citizens through weaponized property law, preferential mortgages, and demographic engineering. With 75% of apartments in occupied Mariupol purchased by Russian immigrants and plans to resettle 114,000 Russians by 2045, the campaign aims to engineer a demographic reality that entrenches occupation governance and complicates any future reintegration into Ukraine [12].
+Russia is conducting a systematic [resettlement campaign]({{ site.baseurl }}/events/russia-resettlement-campaign.html) to repopulate occupied Ukraine with Russian citizens through weaponized property law, preferential mortgages, and demographic engineering. With 75% of apartments in occupied Mariupol purchased by Russian immigrants and plans to resettle 114,000 Russians by 2045, the campaign aims to engineer a demographic reality that entrenches occupation governance and complicates any future reintegration into Ukraine [12].
 
 ## Ukrainian Military Adaptation
 

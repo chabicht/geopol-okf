@@ -1,6 +1,7 @@
 ---
 type: Theme
 title: "Global Depopulation"
+parent: Themes
 description: "Global fertility decline as the most undercovered structural trend of the 21st century — 2023 was the first year global fertility fell below replacement rate, with cascading implications for welfare states, economic growth, and geopolitical power."
 tags:
   - demography
@@ -25,15 +26,15 @@ The implications are structural. Every major economic and political system — w
 # Key Dynamics
 
 - **Welfare state unsustainability**: Pay-as-you-go systems assume a growing base of contributors relative to beneficiaries. Depopulation inverts this ratio, creating fiscal stress that compounds over decades [1].
-- **Economic growth reversal**: Standard economic models assume labor force growth as an input to GDP growth. A contracting labor force means that maintaining GDP requires extraordinary productivity gains — gains that may not be achievable as the [energy and resource](/themes/energy-and-resources.md) basis of the economy contracts [1].
+- **Economic growth reversal**: Standard economic models assume labor force growth as an input to GDP growth. A contracting labor force means that maintaining GDP requires extraordinary productivity gains — gains that may not be achievable as the [energy and resource]({{ site.baseurl }}/themes/energy-and-resources.html) basis of the economy contracts [1].
 - **Geopolitical power shift**: Population size has historically correlated with national power. A global population contraction redistributes the demographic foundations of power, with differential timing: some regions (Africa, parts of South Asia) will maintain younger populations longer than East Asia and Europe [1].
 - **Housing and urban dynamics**: Population decline interacts with housing markets in complex ways — some areas depopulate while others remain expensive due to agglomeration effects, creating uneven geographic impacts [1].
 
 # Analysis
 
-[Derek Thompson](/actors/authors/derek-thompson.md) frames depopulation as the structural trend that renders conventional policy debates obsolete. The left-right argument over welfare state design, immigration policy, and economic management assumes a population trajectory that no longer exists. The implication is that the political instability and institutional dysfunction visible across Western democracies may be downstream effects of demographic contraction — the systems were designed for a population pyramid that is inverting [1].
+[Derek Thompson]({{ site.baseurl }}/actors/authors/derek-thompson.html) frames depopulation as the structural trend that renders conventional policy debates obsolete. The left-right argument over welfare state design, immigration policy, and economic management assumes a population trajectory that no longer exists. The implication is that the political instability and institutional dysfunction visible across Western democracies may be downstream effects of demographic contraction — the systems were designed for a population pyramid that is inverting [1].
 
-The interaction between depopulation and [energy and resources](/themes/energy-and-resources.md) is particularly significant: a contracting population requires less energy and materials in absolute terms, but the economic systems built around growth cannot adjust to contraction without crisis. The "simplification" described by [Nate Hagens](/actors/authors/nate-hagens.md) may be partly demographic — a smaller population is a simpler system, but the transition from a growth-based to a contraction-based economy is itself destabilizing [1][2].
+The interaction between depopulation and [energy and resources]({{ site.baseurl }}/themes/energy-and-resources.html) is particularly significant: a contracting population requires less energy and materials in absolute terms, but the economic systems built around growth cannot adjust to contraction without crisis. The "simplification" described by [Nate Hagens]({{ site.baseurl }}/actors/authors/nate-hagens.html) may be partly demographic — a smaller population is a simpler system, but the transition from a growth-based to a contraction-based economy is itself destabilizing [1][2].
 
 ## Africa-Europe Demographic Complementarity
 

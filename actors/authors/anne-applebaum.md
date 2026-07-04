@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Anne Applebaum
+parent: Authors & Analysts
 description: Historian and journalist tracking kleptocracy, democratic backsliding, and the defacement of American institutions under Trump — author of the Kleptocracy Tracker
 tags: [author, ideology, oligarchy, opinion]
 status: ongoing
@@ -9,13 +10,13 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Background
 
-Anne Applebaum is a Pulitzer Prize-winning historian and journalist who writes for The Atlantic and publishes on Substack. Her work focuses on authoritarianism, democratic erosion, and the corruption of democratic institutions. She is the author of "Kleptocracy Inc" and maintains an ongoing Kleptocracy Tracker documenting conflicts of interest, emoluments, and corruption under the [Trump](/actors/trump.md) administration. Her analysis of the 2026 American condition connects the defacement of physical institutions to the broader ideological project of blood-and-soil nationalism.
+Anne Applebaum is a Pulitzer Prize-winning historian and journalist who writes for The Atlantic and publishes on Substack. Her work focuses on authoritarianism, democratic erosion, and the corruption of democratic institutions. She is the author of "Kleptocracy Inc" and maintains an ongoing Kleptocracy Tracker documenting conflicts of interest, emoluments, and corruption under the [Trump]({{ site.baseurl }}/actors/trump.html) administration. Her analysis of the 2026 American condition connects the defacement of physical institutions to the broader ideological project of blood-and-soil nationalism.
 
 # Key Frameworks
 
 ## Blood and Soil vs Founding Abstractions
 
-Applebaum frames the core ideological division in contemporary America as a clash between two conceptions of nationhood. [Trump](/actors/trump.md) and [Vance](/actors/trump.md) represent a "blood and soil" nationalism — Vance's 2024 RNC speech explicitly dismissed American founding abstractions ("all men are created equal," "Life, Liberty and the pursuit of Happiness") in favor of tombstones, homeland, and ancestral belonging. Vance argued that "people will not fight for abstractions" but "will fight for their home." Applebaum counters that the American nation is precisely the community created by those abstractions — uniting people with radically different origins in a shared civic project [1].
+Applebaum frames the core ideological division in contemporary America as a clash between two conceptions of nationhood. [Trump]({{ site.baseurl }}/actors/trump.html) and [Vance]({{ site.baseurl }}/actors/trump.html) represent a "blood and soil" nationalism — Vance's 2024 RNC speech explicitly dismissed American founding abstractions ("all men are created equal," "Life, Liberty and the pursuit of Happiness") in favor of tombstones, homeland, and ancestral belonging. Vance argued that "people will not fight for abstractions" but "will fight for their home." Applebaum counters that the American nation is precisely the community created by those abstractions — uniting people with radically different origins in a shared civic project [1].
 
 The implication is that Trump and Vance do not believe in the language of unity because they believe only their clan represents America. The American government, in their view, exists to serve them alone. This is not a policy dispute but a foundational disagreement about what constitutes the American nation [1].
 

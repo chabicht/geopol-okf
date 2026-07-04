@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Ethiopia
+parent: Countries
 description: Most populous landlocked state pursuing sovereign sea access — Abiy Ahmed's rhetoric escalating toward Eritrea, building a navy, and positioning Ethiopia as a future African superpower
 tags: [country, military, africa, naval, trade]
 status: ongoing
@@ -37,7 +38,7 @@ After Pretoria, the relationship cooled. Eritrea supported the Fano — Amhara-n
 
 ## Regional Alignments
 
-Ethiopia's alignment with the [UAE](/actors/countries/uae.md) and the Rapid Support Forces (RSF) in Sudan's civil war places it on one side of a regional proxy conflict. Expanding Egyptian cooperation with Eritrea and Somalia causes unease in Addis Abeba. Multiple middle powers — [Turkey](/actors/countries/turkey.md), the UAE, [Saudi Arabia](/actors/countries/saudi-arabia.md), and [Israel](/actors/countries/israel.md) — pursue maritime interests in the Red Sea region, complicating Ethiopia's calculus [1][2].
+Ethiopia's alignment with the [UAE]({{ site.baseurl }}/actors/countries/uae.html) and the Rapid Support Forces (RSF) in Sudan's civil war places it on one side of a regional proxy conflict. Expanding Egyptian cooperation with Eritrea and Somalia causes unease in Addis Abeba. Multiple middle powers — [Turkey]({{ site.baseurl }}/actors/countries/turkey.html), the UAE, [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html), and [Israel]({{ site.baseurl }}/actors/countries/israel.html) — pursue maritime interests in the Red Sea region, complicating Ethiopia's calculus [1][2].
 
 # Analysis
 
@@ -45,7 +46,7 @@ Ethiopia's alignment with the [UAE](/actors/countries/uae.md) and the Rapid Supp
 
 A direct conventional war with Eritrea carries high risk for Ethiopia. While Ethiopia possesses modern drones and a large army, Eritrea is a heavily militarised society. Even Eritrean opposition figures would likely fight on the side of the authoritarian Isaias regime rather than accept an Ethiopian occupation. Eritrea could exert pressure through cooperation with various Ethiopian opposition movements. A further regionalisation of conflicts in Sudan and Somalia would be probable [2].
 
-The US and other governments have told Addis Abeba in clear terms that an open invasion of Eritrea would be unacceptable and would jeopardise the IMF's billion-dollar programme with Ethiopia. Both Washington and the [EU](/actors/organizations/eu.md) are currently pursuing rapprochement with Ethiopia [2].
+The US and other governments have told Addis Abeba in clear terms that an open invasion of Eritrea would be unacceptable and would jeopardise the IMF's billion-dollar programme with Ethiopia. Both Washington and the [EU]({{ site.baseurl }}/actors/organizations/eu.html) are currently pursuing rapprochement with Ethiopia [2].
 
 ## Possible Compromise
 

@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Roger Pielke Jr.
+parent: Authors & Analysts
 description: Climate policy analyst arguing that climate economics research is built on flawed methodology — the retraction of a major Nature paper exposes systemic data integrity failures
 tags: [author, opinion]
 status: ongoing

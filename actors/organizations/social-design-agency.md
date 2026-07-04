@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Social Design Agency
+parent: Organizations
 description: Russian Social Design Agency (SDA) as a cognitive warfare actor — sanctioned PR firm conducting "cognitive strikes" against the West under Russian Presidential Administration oversight
 tags: [organization, cognitive-warfare, intelligence]
 status: ongoing
@@ -9,7 +10,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-The Social Design Agency (SDA) is a Russian PR firm already sanctioned by the US, UK, and [EU](/actors/organizations/eu.md) for influence campaigns. Internal documents reveal that Russian Presidential Administration officials oversee the SDA's work, making it an instrument of state-directed [cognitive warfare](/themes/cognitive-warfare.md) rather than an independent operation. The SDA represents the formalization of Russian influence operations — a PR firm repurposed as a weapon of strategic destabilization.
+The Social Design Agency (SDA) is a Russian PR firm already sanctioned by the US, UK, and [EU]({{ site.baseurl }}/actors/organizations/eu.html) for influence campaigns. Internal documents reveal that Russian Presidential Administration officials oversee the SDA's work, making it an instrument of state-directed [cognitive warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) rather than an independent operation. The SDA represents the formalization of Russian influence operations — a PR firm repurposed as a weapon of strategic destabilization.
 
 # Current Situation
 
@@ -29,15 +30,15 @@ These are not isolated tactics but components of an integrated cognitive warfare
 
 ## Strategic Objective
 
-The stated goal is to help [Russia](/actors/countries/russia.md) "maintain the image of a superpower." The internal logic is explicit: "The more Russia participates in active influence campaigns all over the world, the stronger the image of a global Russian power." This reveals that Russian cognitive warfare serves a dual purpose — destabilizing adversaries while compensating for the gap between Russia's actual capabilities and its superpower aspirations. [1]
+The stated goal is to help [Russia]({{ site.baseurl }}/actors/countries/russia.html) "maintain the image of a superpower." The internal logic is explicit: "The more Russia participates in active influence campaigns all over the world, the stronger the image of a global Russian power." This reveals that Russian cognitive warfare serves a dual purpose — destabilizing adversaries while compensating for the gap between Russia's actual capabilities and its superpower aspirations. [1]
 
 ## Armenia Election Influence
 
-The SDA planned to influence Armenia's parliamentary election through a media outlet aimed at Russian-speaking voters. This extends the operational scope beyond the West into the post-Soviet space, targeting [Russia](/actors/countries/russia.md)'s near abroad through media infrastructure rather than covert sabotage. [1]
+The SDA planned to influence Armenia's parliamentary election through a media outlet aimed at Russian-speaking voters. This extends the operational scope beyond the West into the post-Soviet space, targeting [Russia]({{ site.baseurl }}/actors/countries/russia.html)'s near abroad through media infrastructure rather than covert sabotage. [1]
 
 ## Paris Pig Head Attack
 
-The SDA orchestrated islamophobic pig head attacks on Paris mosques — an operation that became public through the [Paris pig head attack event](/events/paris-pig-head-attack.md). This operation exemplifies the SDA's approach: low-cost physical provocations designed to trigger maximum social amplification through media coverage and political reaction. [1]
+The SDA orchestrated islamophobic pig head attacks on Paris mosques — an operation that became public through the [Paris pig head attack event]({{ site.baseurl }}/events/paris-pig-head-attack.html). This operation exemplifies the SDA's approach: low-cost physical provocations designed to trigger maximum social amplification through media coverage and political reaction. [1]
 
 # Analysis
 

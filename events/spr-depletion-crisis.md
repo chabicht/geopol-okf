@@ -1,6 +1,7 @@
 ---
 type: Event
 title: SPR Depletion Crisis
+parent: Events
 description: US Strategic Petroleum Reserve approaching operational floor as record exports and drawdowns mask the depth of the energy crisis
 tags: [energy, economics]
 status: ongoing
@@ -9,7 +10,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-The US Strategic Petroleum Reserve (SPR) is the world's largest emergency crude oil stockpile. During the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md), the SPR served as a critical shock absorber: record US crude exports and massive SPR drawdowns masked the depth of the supply disruption, keeping prices below the catastrophic levels that the Hormuz closure would otherwise have produced.
+The US Strategic Petroleum Reserve (SPR) is the world's largest emergency crude oil stockpile. During the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), the SPR served as a critical shock absorber: record US crude exports and massive SPR drawdowns masked the depth of the supply disruption, keeping prices below the catastrophic levels that the Hormuz closure would otherwise have produced.
 
 # What Happened
 
@@ -21,11 +22,11 @@ The US Strategic Petroleum Reserve (SPR) is the world's largest emergency crude 
 
 # Analysis
 
-[Velina Tchakarova](/actors/authors/velina-tchakarova.md) describes the calm in oil markets as "engineered, temporary, and depleting." The three buffers are one-time measures, not structural fixes. The SPR cannot be drawn down indefinitely; Chinese demand destruction reflects economic weakness, not a sustainable adjustment; and Russian export cuts are driven by war damage, not policy choice [1].
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) describes the calm in oil markets as "engineered, temporary, and depleting." The three buffers are one-time measures, not structural fixes. The SPR cannot be drawn down indefinitely; Chinese demand destruction reflects economic weakness, not a sustainable adjustment; and Russian export cuts are driven by war damage, not policy choice [1].
 
-[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) adds that the SPR drawdown is physically unsustainable: at the rate of drawdown observed during the crisis, the operational floor — the point below which the SPR cannot be drawn without compromising its basic function — was approximately two weeks away at the peak of the crisis [2][3].
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) adds that the SPR drawdown is physically unsustainable: at the rate of drawdown observed during the crisis, the operational floor — the point below which the SPR cannot be drawn without compromising its basic function — was approximately two weeks away at the peak of the crisis [2][3].
 
-[Robert Pape](/actors/authors/robert-pape.md) warns that when these temporary buffers are exhausted, Iran's leverage reasserts itself. The "quiet" in oil markets is not evidence of resolution but of deferred reckoning [4].
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) warns that when these temporary buffers are exhausted, Iran's leverage reasserts itself. The "quiet" in oil markets is not evidence of resolution but of deferred reckoning [4].
 
 # Citations
 

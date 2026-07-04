@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Donald Trump
+parent: Actors
 description: 45th and 47th President of the United States; central decision-maker in the 2026 US-Iran war and US-Russia policy.
 tags: [leader, military, trade, latin-america, oligarchy, europe, africa]
 status: ongoing
@@ -9,7 +10,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-Donald Trump is the 45th and 47th President of the [United States](/actors/countries/united-states.md), returned to office in 2025. His second term has been defined by a discretionary strike on Iran, a continued personal soft spot for [Vladimir Putin](/actors/putin.md), and an aggressive unilateral trade and diplomatic posture that has disrupted long-standing US alliances.
+Donald Trump is the 45th and 47th President of the [United States]({{ site.baseurl }}/actors/countries/united-states.html), returned to office in 2025. His second term has been defined by a discretionary strike on Iran, a continued personal soft spot for [Vladimir Putin]({{ site.baseurl }}/actors/putin.html), and an aggressive unilateral trade and diplomatic posture that has disrupted long-standing US alliances.
 
 # Current Situation
 
@@ -19,15 +20,15 @@ Trump's decision to attack Iran in 2026 was, per O'Brien, not driven by national
 
 Notably, the US public response broke the standard pattern: Trump's base supported whatever he wanted to do, the opposition opposed the war from the start, and there was no measurable patriotic surge behind the commander-in-chief. [1]
 
-By May 2026, O'Brien reported Trump was "desperate to exit" the war but unable to, with no good military options. The emerging Iran deal was worse than the JCPOA. Trump called on Arab states to join the Abraham Accords to appease Netanyahu and GOP hardliners, while [China](/actors/countries/china.md) backed Iran and treated [Taiwan](/conflicts/taiwan-standoff.md) as a "chip" in the broader negotiation [7].
+By May 2026, O'Brien reported Trump was "desperate to exit" the war but unable to, with no good military options. The emerging Iran deal was worse than the JCPOA. Trump called on Arab states to join the Abraham Accords to appease Netanyahu and GOP hardliners, while [China]({{ site.baseurl }}/actors/countries/china.html) backed Iran and treated [Taiwan]({{ site.baseurl }}/conflicts/taiwan-standoff.html) as a "chip" in the broader negotiation [7].
 
 ## Allies Left in the Dark
 
-By launching the [US-Iran War](/conflicts/us-iran-war-2026.md) without informing European allies, Japan, or South Korea, Trump "threw them under the bus." The failure to consult partners who host US forces and depend on American extended deterrence corroded trust in US alliance guarantees. [1]
+By launching the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) without informing European allies, Japan, or South Korea, Trump "threw them under the bus." The failure to consult partners who host US forces and depend on American extended deterrence corroded trust in US alliance guarantees. [1]
 
 ## Russia and Ukraine
 
-Despite occasionally saying non-critical things about Ukraine, Trump has "done things to really help Putin" according to O'Brien. [3] He continues to "desperately want Putin to do well," rewriting history to preserve the relationship. [2] His posture on the [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) has consistently tilted toward Moscow in substance even when rhetoric diverged.
+Despite occasionally saying non-critical things about Ukraine, Trump has "done things to really help Putin" according to O'Brien. [3] He continues to "desperately want Putin to do well," rewriting history to preserve the relationship. [2] His posture on the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) has consistently tilted toward Moscow in substance even when rhetoric diverged.
 
 ## India and South Asia
 
@@ -39,7 +40,7 @@ Trump backs conservative governments in Latin America and is associated with the
 
 ## Greenland Crisis
 
-Trump has declared his intention to "take" Greenland, imposing 10% punitive tariffs on eight NW European states (Denmark, Norway, Sweden, Finland, the UK, [Germany](/actors/countries/germany.md), [France](/actors/countries/france.md), and the Netherlands) to force European acquiescence. The move has fractured the European Right, alienated NATO allies, and signaled the end of "the West" as a cohesive concept. Europe's inability to respond — divided between sanctioned and unsanctioned member states, lacking military and economic cohesion — demonstrates the primacy of geography and hard power over institutional frameworks. See [Trump's Greenland Crisis](/events/trump-greenland-crisis.md) [8][9][10][11].
+Trump has declared his intention to "take" Greenland, imposing 10% punitive tariffs on eight NW European states (Denmark, Norway, Sweden, Finland, the UK, [Germany]({{ site.baseurl }}/actors/countries/germany.html), [France]({{ site.baseurl }}/actors/countries/france.html), and the Netherlands) to force European acquiescence. The move has fractured the European Right, alienated NATO allies, and signaled the end of "the West" as a cohesive concept. Europe's inability to respond — divided between sanctioned and unsanctioned member states, lacking military and economic cohesion — demonstrates the primacy of geography and hard power over institutional frameworks. See [Trump's Greenland Crisis]({{ site.baseurl }}/events/trump-greenland-crisis.html) [8][9][10][11].
 
 ## ICE, Vance, and Governance as Spectacle
 
@@ -49,7 +50,7 @@ MAGA is fundamentally about redistributing respect — away from overeducated co
 
 ## Blood and Soil vs Founding Abstractions
 
-[Anne Applebaum](/actors/authors/anne-applebaum.md) identifies the core ideological project of Trump and Vance as "blood and soil" nationalism. Vance's 2024 RNC acceptance speech explicitly dismissed American founding abstractions — "all men are created equal," "Life, Liberty and the pursuit of Happiness" — in favor of tombstones, homeland, and ancestral belonging. Vance argued that "people will not fight for abstractions" but "will fight for their home." Trump and Vance believe only their clan represents America; the government exists to serve them alone [13].
+[Anne Applebaum]({{ site.baseurl }}/actors/authors/anne-applebaum.html) identifies the core ideological project of Trump and Vance as "blood and soil" nationalism. Vance's 2024 RNC acceptance speech explicitly dismissed American founding abstractions — "all men are created equal," "Life, Liberty and the pursuit of Happiness" — in favor of tombstones, homeland, and ancestral belonging. Vance argued that "people will not fight for abstractions" but "will fight for their home." Trump and Vance believe only their clan represents America; the government exists to serve them alone [13].
 
 ## Institutional Defacement
 
@@ -65,7 +66,7 @@ Trump's approach to U.S. troops in Europe is not genuine retrenchment but "illib
 
 ## Jones Act Suspension
 
-Trump suspended the Jones Act for 150 days, allowing foreign vessels to shuttle over 31 million barrels of fuel between U.S. ports. The waiver primarily benefited gasoline-starved California, with significant shipments also to Puerto Rico and Alaska. The suspension exposed how protectionist maritime policy constrains domestic energy distribution. See [Jones Act Suspension](/events/jones-act-suspension.md) [15].
+Trump suspended the Jones Act for 150 days, allowing foreign vessels to shuttle over 31 million barrels of fuel between U.S. ports. The waiver primarily benefited gasoline-starved California, with significant shipments also to Puerto Rico and Alaska. The suspension exposed how protectionist maritime policy constrains domestic energy distribution. See [Jones Act Suspension]({{ site.baseurl }}/events/jones-act-suspension.html) [15].
 
 ## Intelligence Master List
 
@@ -73,17 +74,17 @@ The Trump administration's plan to compile a master list of all foreign intellig
 
 ## Slaughter Ruling and Dictatorial Regulatory Power
 
-The Roberts Supreme Court's [Slaughter ruling](/events/slaughter-scotus-ruling.md) overturned 90 years of precedent to grant Trump effectively unlimited power over regulatory agencies created by Congress. He can now direct agencies to do the opposite of their mandate, fire civil servants who resist, or gut them entirely. Krugman frames this as "dictatorial power" — not over the presidency in general, but over Trump specifically, given the Court's partisanship. [6]
+The Roberts Supreme Court's [Slaughter ruling]({{ site.baseurl }}/events/slaughter-scotus-ruling.html) overturned 90 years of precedent to grant Trump effectively unlimited power over regulatory agencies created by Congress. He can now direct agencies to do the opposite of their mandate, fire civil servants who resist, or gut them entirely. Krugman frames this as "dictatorial power" — not over the presidency in general, but over Trump specifically, given the Court's partisanship. [6]
 
 The ruling is fundamentally about enabling corruption. Trump's firing decisions have been driven by personal retribution, prejudice, and greed. Jeff Yass, a billionaire, purchased a complete reversal of Trump's position on TikTok. Crypto policy flipped from denunciation to embrace once it became a channel for billions in personal enrichment. The Court has removed the legal restraints on the favor-granting machinery. [6]
 
 ## Coercive Pressure on Nigeria
 
-In October 2025, Trump redesignated [Nigeria](/actors/countries/nigeria.md) a Country of Particular Concern for Christian religious freedom violations, framing it in civilisational terms and ordering the Pentagon to prepare for possible military intervention. Within four months, this coercive pressure was converted into a formal bilateral security partnership with 200 US troops deployed and MQ-9 Reaper drone operations on Nigerian soil. The May 2026 AFRICOM operation killing ISIL's shadow commander in West Africa was publicly celebrated by both Trump and Tinubu — a remarkable turnaround from threats of military action to joint counter-terrorism operations within six months [17].
+In October 2025, Trump redesignated [Nigeria]({{ site.baseurl }}/actors/countries/nigeria.html) a Country of Particular Concern for Christian religious freedom violations, framing it in civilisational terms and ordering the Pentagon to prepare for possible military intervention. Within four months, this coercive pressure was converted into a formal bilateral security partnership with 200 US troops deployed and MQ-9 Reaper drone operations on Nigerian soil. The May 2026 AFRICOM operation killing ISIL's shadow commander in West Africa was publicly celebrated by both Trump and Tinubu — a remarkable turnaround from threats of military action to joint counter-terrorism operations within six months [17].
 
 ## Trump-Xi Summit
 
-The May 2026 [Trump-Xi summit](/events/trump-xi-summit-2026.md) introduced deep uncertainty into US-[Taiwan](/actors/countries/taiwan.md) relations. Xi framed Taiwan as the "most important issue in China-US relations" and warned that mishandling it would jeopardise the bilateral relationship. The summit produced little clarity on continued US support for Taiwan, underlining Taipei's predicament of relying on questionable American promises [18].
+The May 2026 [Trump-Xi summit]({{ site.baseurl }}/events/trump-xi-summit-2026.html) introduced deep uncertainty into US-[Taiwan]({{ site.baseurl }}/actors/countries/taiwan.html) relations. Xi framed Taiwan as the "most important issue in China-US relations" and warned that mishandling it would jeopardise the bilateral relationship. The summit produced little clarity on continued US support for Taiwan, underlining Taipei's predicament of relying on questionable American promises [18].
 
 # Analysis
 
@@ -97,7 +98,7 @@ Trump's second term has accelerated a pattern visible in his first: alliances ar
 
 ### Corruption as Governing Logic
 
-Krugman argues that corruption is not a side-effect of Trump's governance but its central dynamic. The [Slaughter ruling](/events/slaughter-scotus-ruling.md) judicially enabled this: regulatory agencies can now be weaponized to reward cronies and punish enemies. The pattern is consistent — policy reversals track personal enrichment, not principle. Civil servants are replaced by "henchmen and lackeys" who will execute whatever Trump wants. [6]
+Krugman argues that corruption is not a side-effect of Trump's governance but its central dynamic. The [Slaughter ruling]({{ site.baseurl }}/events/slaughter-scotus-ruling.html) judicially enabled this: regulatory agencies can now be weaponized to reward cronies and punish enemies. The pattern is consistent — policy reversals track personal enrichment, not principle. Civil servants are replaced by "henchmen and lackeys" who will execute whatever Trump wants. [6]
 
 Applebaum's Kleptocracy Tracker provides the documentary record: the Qatari jet, the Kazakhstan mineral deals enriching the Trump and Lutnick families, the stock trading surge, the shell company transparency repeal, the Live Nation settlement, the pardon lobbying industry, and the Kalshi equity windfall for Trump Jr. — all confirming that the systematic monetization of presidential power is the operational logic of the administration, not an aberration [13].
 

@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Kazakhstan
+parent: Countries
 description: Kazakhstan as a geopolitical actor — Central Asia's leading FDI destination, hosting critical minerals talks, and deepening economic ties with China
 tags: [country, central-asia, trade, critical-minerals, energy]
 status: ongoing
@@ -9,13 +10,13 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Kazakhstan is the largest economy in [Central Asia](/regions/central-asia.md) and the primary destination for Chinese foreign direct investment in the region. Its vast mineral resources and strategic position between [China](/actors/countries/china.md) and [Russia](/actors/countries/russia.md) make it a critical node in the evolving geometry of Eurasian power.
+Kazakhstan is the largest economy in [Central Asia]({{ site.baseurl }}/regions/central-asia.html) and the primary destination for Chinese foreign direct investment in the region. Its vast mineral resources and strategic position between [China]({{ site.baseurl }}/actors/countries/china.html) and [Russia]({{ site.baseurl }}/actors/countries/russia.html) make it a critical node in the evolving geometry of Eurasian power.
 
 # Current Situation
 
 ## Critical Minerals
 
-Kazakhstan hosted C5+1 critical minerals talks, with Central Asian governments discussing geological exploration, mining, and processing. This positions Kazakhstan at the intersection of great-power competition for critical mineral supply chains — a domain where the [United States](/actors/countries/united-states.md), China, and Russia all have strategic interests.
+Kazakhstan hosted C5+1 critical minerals talks, with Central Asian governments discussing geological exploration, mining, and processing. This positions Kazakhstan at the intersection of great-power competition for critical mineral supply chains — a domain where the [United States]({{ site.baseurl }}/actors/countries/united-states.html), China, and Russia all have strategic interests.
 
 ## Investment Growth
 
@@ -23,11 +24,11 @@ Kazakhstan has experienced average annual growth in capital investments of 10.7%
 
 ## Chinese FDI Concentration
 
-90% of Chinese FDI in Central Asia is concentrated in Kazakhstan, [Uzbekistan](/actors/countries/uzbekistan.md), and Turkmenistan. Kazakhstan absorbs the lion's share, reflecting its larger economy and resource base. Under Nazarbayev, Kazakhstan once saw protests against Chinese expansion — a reminder that the depth of Chinese engagement generates domestic political friction that the current government must manage.
+90% of Chinese FDI in Central Asia is concentrated in Kazakhstan, [Uzbekistan]({{ site.baseurl }}/actors/countries/uzbekistan.html), and Turkmenistan. Kazakhstan absorbs the lion's share, reflecting its larger economy and resource base. Under Nazarbayev, Kazakhstan once saw protests against Chinese expansion — a reminder that the depth of Chinese engagement generates domestic political friction that the current government must manage.
 
 # Analysis
 
-Kazakhstan's strategic challenge is balancing deepening economic integration with China against the need to maintain strategic autonomy and manage domestic sensitivities about Chinese influence. The critical minerals dimension adds a new layer: Kazakhstan is not merely a transit corridor but a resource base whose exploitation patterns will shape global supply chains in the [great power competition](/themes/great-power-competition.md) era.
+Kazakhstan's strategic challenge is balancing deepening economic integration with China against the need to maintain strategic autonomy and manage domestic sensitivities about Chinese influence. The critical minerals dimension adds a new layer: Kazakhstan is not merely a transit corridor but a resource base whose exploitation patterns will shape global supply chains in the [great power competition]({{ site.baseurl }}/themes/great-power-competition.html) era.
 
 # Citations
 

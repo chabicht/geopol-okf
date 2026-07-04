@@ -1,3 +1,9 @@
+---
+title: OKF Specification
+nav_order: 6
+permalink: /okf/
+---
+
 # Open Knowledge Format (OKF)
 
 **Version 0.1 — Draft**
@@ -194,13 +200,13 @@ timestamp: 2026-05-28T14:30:00Z
 | Column        | Type      | Description                              |
 |---------------|-----------|------------------------------------------|
 | `order_id`    | STRING    | Globally unique order identifier.        |
-| `customer_id` | STRING    | Foreign key into [customers](/tables/customers.md). |
+| `customer_id` | STRING    | Foreign key into [customers]({{ site.baseurl }}/tables/customers.html). |
 | `total_usd`   | NUMERIC   | Order total in US dollars.               |
 | `placed_at`   | TIMESTAMP | When the customer submitted the order.   |
 
 # Joins
 
-Joined with [customers](/tables/customers.md) on `customer_id`.
+Joined with [customers]({{ site.baseurl }}/tables/customers.html) on `customer_id`.
 
 # Citations
 
@@ -221,7 +227,7 @@ timestamp: 2026-04-12T09:00:00Z
 # Trigger
 
 A freshness alert fires when `orders` lags more than 30 minutes behind
-its expected SLA. See the [orders table](/tables/orders.md).
+its expected SLA. See the [orders table]({{ site.baseurl }}/tables/orders.html).
 
 # Steps
 
@@ -241,7 +247,7 @@ forms are supported:
 Begin with `/`, interpreted relative to the bundle root.
 
 ```markdown
-See the [customers table](/tables/customers.md) for the join key.
+See the [customers table]({{ site.baseurl }}/tables/customers.html) for the join key.
 ```
 
 This is the **recommended** form because it is stable when documents are
@@ -252,7 +258,7 @@ moved within their subdirectory.
 Standard markdown relative paths.
 
 ```markdown
-See the [neighboring concept](./other.md).
+See the [neighboring concept](./other.html).
 ```
 
 ### 5.3 Link semantics
@@ -308,12 +314,12 @@ date-grouped entries, newest first:
 # Directory Update Log
 
 ## 2026-05-22
-* **Update**: Added new BigQuery table reference for [Customer Metrics](/tables/customer-metrics.md).
-* **Creation**: Established the [Dataplex Playbook](/playbooks/dataplex.md).
+* **Update**: Added new BigQuery table reference for [Customer Metrics]({{ site.baseurl }}/tables/customer-metrics.html).
+* **Creation**: Established the [Dataplex Playbook]({{ site.baseurl }}/playbooks/dataplex.html).
 
 ## 2026-05-15
 * **Initialization**: Created foundational directory structure.
-* **Update**: Added progressive-disclosure guidelines to the root [index](/README.md).
+* **Update**: Added progressive-disclosure guidelines to the root [index]({{ site.baseurl }}/).
 ```
 
 Date headings MUST use ISO 8601 `YYYY-MM-DD` form. Log entries are
@@ -427,7 +433,7 @@ timestamp: 2026-05-28T00:00:00Z
 ---
 
 The sales dataset contains transactional tables, including
-[orders](/tables/orders.md) and [customers](/tables/customers.md).
+[orders]({{ site.baseurl }}/tables/orders.html) and [customers]({{ site.baseurl }}/tables/customers.html).
 ```
 
 `tables/orders.md`:
@@ -447,8 +453,8 @@ timestamp: 2026-05-28T00:00:00Z
 | Column        | Type      | Description                  |
 |---------------|-----------|------------------------------|
 | `order_id`    | STRING    | Unique order identifier.     |
-| `customer_id` | STRING    | FK to [customers](/tables/customers.md). |
+| `customer_id` | STRING    | FK to [customers]({{ site.baseurl }}/tables/customers.html). |
 | `total_usd`   | NUMERIC   | Order total in USD.          |
 
-Part of the [sales dataset](/datasets/sales.md).
+Part of the [sales dataset]({{ site.baseurl }}/datasets/sales.html).
 ```

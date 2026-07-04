@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Derek Thompson
+parent: Authors & Analysts
 description: Journalist covering global depopulation — the fertility crisis as the most important undercovered trend of the 21st century
 tags: [author]
 status: ongoing

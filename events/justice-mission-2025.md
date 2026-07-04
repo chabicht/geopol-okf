@@ -1,6 +1,7 @@
 ---
 type: Event
 title: Justice Mission 2025 — PRC Blockade Exercise Around Taiwan
+parent: Events
 description: Large-scale PLA surprise exercise simulating a blockade of Taiwan with naval, coast guard, air, and rocket forces across eight zones in December 2025.
 tags:
   - military
@@ -15,7 +16,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-The [PRC](/actors/countries/china.md) has conducted increasingly frequent blockade exercises around [Taiwan](/actors/countries/taiwan.md) since Taiwanese President William Lai Ching-te's inauguration in May 2024. Justice Mission 2025, held December 29-30, 2025, was the second such exercise of that year and the most operationally detailed to date. See [Taiwan Standoff](/conflicts/taiwan-standoff.md) and [Indo-Pacific](/regions/indo-pacific.md).
+The [PRC]({{ site.baseurl }}/actors/countries/china.html) has conducted increasingly frequent blockade exercises around [Taiwan]({{ site.baseurl }}/actors/countries/taiwan.html) since Taiwanese President William Lai Ching-te's inauguration in May 2024. Justice Mission 2025, held December 29-30, 2025, was the second such exercise of that year and the most operationally detailed to date. See [Taiwan Standoff]({{ site.baseurl }}/conflicts/taiwan-standoff.html) and [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html).
 
 # What Happened
 
@@ -41,11 +42,11 @@ The 14 CCG vessels operated near PLAN ships, suggesting coordination. The PRC li
 
 ## Coercive Psychological Warfare
 
-The exercise served coercive purposes: intimidating Taiwan's DPP government, deterring [Japan](/actors/countries/japan.md) from supporting Taiwan, and demonstrating the PRC's capacity to sever energy imports. PRC propaganda emphasized the blockade aspects, but the exercise may also have rehearsed combining blockade with decapitation strikes or amphibious assault against Taiwan's east coast [1].
+The exercise served coercive purposes: intimidating Taiwan's DPP government, deterring [Japan]({{ site.baseurl }}/actors/countries/japan.html) from supporting Taiwan, and demonstrating the PRC's capacity to sever energy imports. PRC propaganda emphasized the blockade aspects, but the exercise may also have rehearsed combining blockade with decapitation strikes or amphibious assault against Taiwan's east coast [1].
 
 ## Implications for PLA Adaptation
 
-The exercise occurred amid debates about the [PLA](/actors/countries/china.md)'s ability to learn from contemporary warfare. ISW analysis suggests the PLA's pre-existing investments in expensive, sophisticated platforms are skewing its lessons from [Ukraine](/conflicts/russia-ukraine-war.md) and Middle East conflicts, where cheap attritable systems dominate. Xi's purges and institutional rigidity discourage adaptation, potentially creating an asymmetric advantage for Taiwan [2].
+The exercise occurred amid debates about the [PLA]({{ site.baseurl }}/actors/countries/china.html)'s ability to learn from contemporary warfare. ISW analysis suggests the PLA's pre-existing investments in expensive, sophisticated platforms are skewing its lessons from [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) and Middle East conflicts, where cheap attritable systems dominate. Xi's purges and institutional rigidity discourage adaptation, potentially creating an asymmetric advantage for Taiwan [2].
 
 # Citations
 

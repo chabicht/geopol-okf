@@ -1,3 +1,10 @@
+---
+title: Actors
+nav_order: 1
+has_children: true
+permalink: /actors/
+---
+
 # Actors
 
 ## Countries
@@ -6,11 +13,11 @@
 
 ## Leaders
 
-* [Donald Trump](trump.md) - Central decision-maker in US-Iran war and US-Russia policy
-* [Vladimir Putin](putin.md) - Presidency originated in Chechnya, now defined by war in Ukraine
-* [Volodymyr Zelensky](zelensky.md) - Leading multi-front campaign: defense, long-range strikes, diplomatic pressure
-* [Aleksandr Lukashenka](lukashenka.md) - Survival-driven opportunist whose alignment with Russia is contingent
-* [Ramzan Kadyrov](kadyrov.md) - Chechnya's dictator facing succession crisis driven by failing health
+* [Donald Trump](trump.html) - Central decision-maker in US-Iran war and US-Russia policy
+* [Vladimir Putin](putin.html) - Presidency originated in Chechnya, now defined by war in Ukraine
+* [Volodymyr Zelensky](zelensky.html) - Leading multi-front campaign: defense, long-range strikes, diplomatic pressure
+* [Aleksandr Lukashenka](lukashenka.html) - Survival-driven opportunist whose alignment with Russia is contingent
+* [Ramzan Kadyrov](kadyrov.html) - Chechnya's dictator facing succession crisis driven by failing health
 
 ## Organizations
 

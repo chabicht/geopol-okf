@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Eritrea
+parent: Countries
 description: Coastal authoritarian state controlling Ethiopia's path to the sea — deeply distrustful of international actors, tactically aligned with TPLF against Addis Abeba, and central to Horn of Africa tensions
 tags: [country, military, africa, naval]
 status: ongoing
@@ -9,7 +10,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-Eritrea is a coastal state on the Horn of Africa whose independence from [Ethiopia](/actors/countries/ethiopia.md) in 1993 left Ethiopia landlocked. The resulting geographic asymmetry — Eritrea controls the coastline, Ethiopia needs port access — is the structural driver of recurring conflict between the two states. Eritrea's coastline on the Red Sea, including the ports of Massawa and Assab, was controlled for centuries by Ottoman-dependent rulers, then came under Egyptian-British influence, and finally Italian colonial rule (Italy purchased Assab in 1869) [2].
+Eritrea is a coastal state on the Horn of Africa whose independence from [Ethiopia]({{ site.baseurl }}/actors/countries/ethiopia.html) in 1993 left Ethiopia landlocked. The resulting geographic asymmetry — Eritrea controls the coastline, Ethiopia needs port access — is the structural driver of recurring conflict between the two states. Eritrea's coastline on the Red Sea, including the ports of Massawa and Assab, was controlled for centuries by Ottoman-dependent rulers, then came under Egyptian-British influence, and finally Italian colonial rule (Italy purchased Assab in 1869) [2].
 
 After the devastating border war of 1998–2000, an independent border commission ruled in Eritrea's favour, but Ethiopia did not implement the decision and was not sanctioned for non-compliance — a source of deep grievance in Asmara. The UN Security Council imposed a weapons embargo and sanctions on Eritrea in 2009 for supporting Al-Shabaab; these were lifted only in 2018 [2].
 
@@ -31,7 +32,7 @@ In a remarkable shift, both Asmara and the TPLF set aside their mutual enmity an
 
 ## Regional Alignments
 
-Eritrea is aligned with [Egypt](/actors/countries/egypt.md) and Somalia against the [UAE](/actors/countries/uae.md)-[Ethiopia](/actors/countries/ethiopia.md)-RSF bloc in the broader Red Sea competition. Expanding Egyptian cooperation with Eritrea and Somalia causes unease in Addis Abeba [1][2].
+Eritrea is aligned with [Egypt]({{ site.baseurl }}/actors/countries/egypt.html) and Somalia against the [UAE]({{ site.baseurl }}/actors/countries/uae.html)-[Ethiopia]({{ site.baseurl }}/actors/countries/ethiopia.html)-RSF bloc in the broader Red Sea competition. Expanding Egyptian cooperation with Eritrea and Somalia causes unease in Addis Abeba [1][2].
 
 # Analysis
 

@@ -1,6 +1,7 @@
 ---
 type: Theme
 title: "Food and Agriculture"
+parent: Themes
 description: "Global food system vulnerability — fertilizer cascade from the Iran war, U.S. agricultural lock-in to corn and soybeans, the oil-import curse, and the structural fragility of a diesel-dependent food supply chain."
 tags:
   - energy
@@ -12,7 +13,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-The global food system is a diesel-powered, fertilizer-dependent, trade-linked network whose efficiency has been optimized for cost rather than resilience. The [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) exposed the system's fragility: the Hormuz disruption cascaded through fertilizer prices, diesel supply, and food supply chains with 6-12 month lags that are still propagating [1][2].
+The global food system is a diesel-powered, fertilizer-dependent, trade-linked network whose efficiency has been optimized for cost rather than resilience. The [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) exposed the system's fragility: the Hormuz disruption cascaded through fertilizer prices, diesel supply, and food supply chains with 6-12 month lags that are still propagating [1][2].
 
 # Current Situation
 
@@ -41,14 +42,14 @@ The ExportLand Model shows that global net oil export capacity peaked in 2004. I
 
 - **Diesel dependency**: Agriculture runs on diesel — for tractors, harvesters, trucks, and processing. The diesel shortage crisis of 2025-2026 demonstrated that even modest disruptions to diesel supply cascade through food systems with disproportionate speed [3].
 - **Fertilizer as energy derivative**: Nitrogen fertilizer is made from natural gas. The energy crisis is thus a fertilizer crisis is thus a food crisis — but with time lags that make the causal chain invisible to short-term political attention [1][2].
-- **Structural inflexibility**: The lock-in of U.S. agriculture to corn and soybeans, and of global agriculture to diesel-powered monoculture, means the system cannot adapt at the speed required by the [energy and resource](/themes/energy-and-resources.md) transition [4][5].
+- **Structural inflexibility**: The lock-in of U.S. agriculture to corn and soybeans, and of global agriculture to diesel-powered monoculture, means the system cannot adapt at the speed required by the [energy and resource]({{ site.baseurl }}/themes/energy-and-resources.html) transition [4][5].
 - **El Nino amplification**: A super El Nino in the pipeline threatens concurrent crop failures in multiple regions, compounding the fertilizer-driven yield reductions [1].
 
 # Analysis
 
-[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) frames the food system as the most vulnerable node in the [polycrisis](/themes/global-system-rupture.md): it is the point where energy depletion, resource scarcity, and supply chain disruption converge with the most direct human impact. The damage to supply chains of energy, fertilizer, and food has "already been done" by the Iran war — it is "just not registered by the Western ruling classes" yet [1].
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) frames the food system as the most vulnerable node in the [polycrisis]({{ site.baseurl }}/themes/global-system-rupture.html): it is the point where energy depletion, resource scarcity, and supply chain disruption converge with the most direct human impact. The damage to supply chains of energy, fertilizer, and food has "already been done" by the Iran war — it is "just not registered by the Western ruling classes" yet [1].
 
-The honest assessment is that mitigation, not prevention, is the available strategy. [The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) proposes rationing, localized production, and resilient community design as the practical responses — but notes that these require political will that is absent in systems optimized for efficiency rather than resilience [1].
+The honest assessment is that mitigation, not prevention, is the available strategy. [The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) proposes rationing, localized production, and resilient community design as the practical responses — but notes that these require political will that is absent in systems optimized for efficiency rather than resilience [1].
 
 # Citations
 

@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Robert Pape
+parent: Authors & Analysts
 description: Professor running the "Escalation Trap" newsletter — framework on leverage dynamics in war termination, Iran's growing leverage, and chokepoint control as the real currency of the Hormuz crisis
 tags: [author, framework, opinion]
 status: ongoing
@@ -9,7 +10,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Professor Robert Pape runs the "Escalation Trap" newsletter, focused on staying ahead of risks that matter. His analytical approach centers on leverage dynamics — how the distribution of coercive advantage shifts during a war and how those shifts determine whether a conflict moves toward termination or new escalation. Pape's work on the [US-Iran War](/conflicts/us-iran-war-2026.md) provides a leverage-centered counterpoint to O'Brien's leader-centered framework and Tchakarova's system-centered framework.
+Professor Robert Pape runs the "Escalation Trap" newsletter, focused on staying ahead of risks that matter. His analytical approach centers on leverage dynamics — how the distribution of coercive advantage shifts during a war and how those shifts determine whether a conflict moves toward termination or new escalation. Pape's work on the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) provides a leverage-centered counterpoint to O'Brien's leader-centered framework and Tchakarova's system-centered framework.
 
 # Key Frameworks
 
@@ -19,11 +20,11 @@ Pape's central framework: states gaining leverage rarely hurry to end wars. The 
 
 ## Iran's Leverage Shift
 
-Pape argues that [Iran](/actors/countries/iran.md) shifted from negotiating to stop losing to negotiating to win more. This is a phase transition, not a marginal change: the basis of Iran's negotiating posture flipped from damage limitation to advantage extraction. The implication is that Iran's growing leverage may weaken the [US](/actors/countries/united-states.md) military position in the Gulf and set the stage for Iranian nuclear weapons — the leverage is not merely military but strategic, creating space for nuclear escalation.
+Pape argues that [Iran]({{ site.baseurl }}/actors/countries/iran.html) shifted from negotiating to stop losing to negotiating to win more. This is a phase transition, not a marginal change: the basis of Iran's negotiating posture flipped from damage limitation to advantage extraction. The implication is that Iran's growing leverage may weaken the [US]({{ site.baseurl }}/actors/countries/united-states.html) military position in the Gulf and set the stage for Iranian nuclear weapons — the leverage is not merely military but strategic, creating space for nuclear escalation.
 
 ## Hormuz as Leverage, Not Theater
 
-Hormuz remains open because Iran permits it. Pape's framework reframes the chokepoint: the [Strait of Hormuz](/regions/middle-east.md) is not a battlefield where shipping happens to pass through but a lever that Iran controls. Control of the chokepoint is the real leverage — not the ability to close it, but the ability to decide whether it stays open. This makes every shipping passage through Hormuz a concession Iran grants, not a right that exists independently.
+Hormuz remains open because Iran permits it. Pape's framework reframes the chokepoint: the [Strait of Hormuz]({{ site.baseurl }}/regions/middle-east.html) is not a battlefield where shipping happens to pass through but a lever that Iran controls. Control of the chokepoint is the real leverage — not the ability to close it, but the ability to decide whether it stays open. This makes every shipping passage through Hormuz a concession Iran grants, not a right that exists independently.
 
 ## Commercial Shipping as Escalation Pathway
 

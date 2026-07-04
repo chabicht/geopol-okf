@@ -1,6 +1,7 @@
 ---
 type: Event
 title: "Trump-Xi Summit May 2026"
+parent: Events
 description: "May 15, 2026 summit where Xi Jinping framed Taiwan as the most important issue in US-China relations, testing Trump's willingness to soften America's Taiwan posture — introducing deep uncertainty into US-Taiwan relations"
 tags: [indo-pacific, cold-war, gray-zone]
 status: concluded
@@ -9,7 +10,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-The May 15, 2026 summit between US President [Trump](/actors/trump.md) and Chinese President Xi Jinping was the first face-to-face meeting of their respective current terms. The summit occurred against the backdrop of the [Taiwan standoff](/conflicts/taiwan-standoff.md) — the region's key flashpoint — and an emerging US-China trade truce. The meeting produced little clarity on whether the United States will continue to support [Taiwan](/actors/countries/taiwan.md) against Chinese aggression [1].
+The May 15, 2026 summit between US President [Trump]({{ site.baseurl }}/actors/trump.html) and Chinese President Xi Jinping was the first face-to-face meeting of their respective current terms. The summit occurred against the backdrop of the [Taiwan standoff]({{ site.baseurl }}/conflicts/taiwan-standoff.html) — the region's key flashpoint — and an emerging US-China trade truce. The meeting produced little clarity on whether the United States will continue to support [Taiwan]({{ site.baseurl }}/actors/countries/taiwan.html) against Chinese aggression [1].
 
 # Current Situation
 
@@ -19,7 +20,7 @@ While Washington's stance remains ambiguous, the Chinese position has hardened o
 
 # Analysis
 
-The summit highlights a structural shift in the [Indo-Pacific](/regions/indo-pacific.md): if Washington does reduce its security guarantees, Taiwan could strengthen its strategic alignment with [Europe](/regions/europe.md). That would present risks for Europe, but also opportunities — particularly in drone technology, defence industry cooperation, and supply chain diversification. The EU's expanding network of Security and Defence Partnerships provides institutional frameworks through which a deeper Taiwan-European relationship could develop [1].
+The summit highlights a structural shift in the [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html): if Washington does reduce its security guarantees, Taiwan could strengthen its strategic alignment with [Europe]({{ site.baseurl }}/regions/europe.html). That would present risks for Europe, but also opportunities — particularly in drone technology, defence industry cooperation, and supply chain diversification. The EU's expanding network of Security and Defence Partnerships provides institutional frameworks through which a deeper Taiwan-European relationship could develop [1].
 
 # Citations
 

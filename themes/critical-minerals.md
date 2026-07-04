@@ -1,6 +1,7 @@
 ---
 type: Theme
 title: "Critical Minerals"
+parent: Themes
 description: "Critical minerals and supply chain competition — rare earth elements, silver, copper, and the AI supply chain. China dominates 90% of REE processing; Western by-product recovery is blocked by regulatory and economic barriers. The energy transition and AI buildout intensify demand for materials whose extraction is increasingly energy-intensive and environmentally devastating."
 tags:
   - critical-minerals
@@ -16,7 +17,7 @@ timestamp: 2026-07-03T00:00:00Z
 
 Critical minerals are essential for high-technology applications, electric vehicles, solar panels, microchips, and data centers. Silver has passed its production peak; copper is expected to peak before 2030. The uneven distribution of mineral resources creates strategic dependencies — no single country possesses all the minerals its industrial base requires, making global trade a structural necessity rather than a policy choice.
 
-The competition for critical minerals is not merely commercial but geopolitical: control of processing and refining capacity confers leverage comparable to control of production. [China](/actors/countries/china.md) dominates processing and refining for many critical minerals, creating a strategic vulnerability for Western economies that possess raw resources but lack the industrial capacity to process them.
+The competition for critical minerals is not merely commercial but geopolitical: control of processing and refining capacity confers leverage comparable to control of production. [China]({{ site.baseurl }}/actors/countries/china.html) dominates processing and refining for many critical minerals, creating a strategic vulnerability for Western economies that possess raw resources but lack the industrial capacity to process them.
 
 ## Rare Earth Elements
 
@@ -26,11 +27,11 @@ REEs divide into light (LREEs) and heavy (HREEs) categories with vastly differen
 
 # Current Situation
 
-The critical minerals landscape is defined by several concurrent dynamics across [Central Asia](/regions/central-asia.md) and beyond:
+The critical minerals landscape is defined by several concurrent dynamics across [Central Asia]({{ site.baseurl }}/regions/central-asia.html) and beyond:
 
-- **Kazakhstan hosted C5+1 critical minerals talks**: Geological exploration, mining, processing, and value chains were on the agenda. [Kazakhstan](/actors/countries/kazakhstan.md) is positioning itself as a critical minerals hub at the intersection of Chinese, Russian, and Western interests.
+- **Kazakhstan hosted C5+1 critical minerals talks**: Geological exploration, mining, processing, and value chains were on the agenda. [Kazakhstan]({{ site.baseurl }}/actors/countries/kazakhstan.html) is positioning itself as a critical minerals hub at the intersection of Chinese, Russian, and Western interests.
 - **Central Asia's resource wealth and Chinese investment**: Central Asia is rich in natural resources, with China as the largest investor — approximately 90% of FDI in resource-rich Central Asian states comes from China. China is shifting from infrastructure megaprojects to mineral extraction and manufacturing relocation, reflecting a strategic recalibration of the Belt and Road Initiative.
-- **Export-control friction with Japan**: Semiconductor-related export controls have created friction with [Japan](/actors/countries/japan.md), illustrating how mineral and technology supply chains are entangled with security policy.
+- **Export-control friction with Japan**: Semiconductor-related export controls have created friction with [Japan]({{ site.baseurl }}/actors/countries/japan.html), illustrating how mineral and technology supply chains are entangled with security policy.
 - **AI supply chains and Pax Silica**: Tchakarova's Pax Silica concept frames the semiconductor supply chain as a geopolitical architecture — the silicon-based economy's dependence on specific minerals, processing capacity, and manufacturing concentration creates a new axis of strategic competition.
 - **Rare earth supply chain weaponization**: China introduced a rare-earth licensing regime granting Beijing power to dictate which companies and countries receive resources essential for semiconductors and defense applications. The regime was temporarily paused following Trump-Xi talks but remains a structural lever [8].
 
@@ -56,7 +57,7 @@ The gap between Western stockpiled REE potential and actual extraction traces to
 
 China's REE dominance was built on lax environmental regulations. For every ton of rare earth produced, the mining process yields 13kg of dust, 9,600-12,000 cubic meters of waste gas, 75 cubic meters of wastewater, and one ton of radioactive residue — 2,000 tons of toxic waste total per ton of REE [8][9].
 
-Bayan Obo's tailings pond stores 70,000+ tonnes of radioactive thorium, lacks proper lining, and contaminates groundwater feeding toward the Yellow River. Southern Jiangxi Province's cleanup is estimated at $5.5 billion (38 billion yuan) and 50-100 years for full environmental recovery. "Cancer villages" with disproportionate cancer rates have been documented near mining sites. China is now moving operations to [Africa](/regions/africa.md), obtaining exclusive rights to REE deposits in exchange for infrastructure — raising concerns about replicating the same environmental destruction abroad [8][9].
+Bayan Obo's tailings pond stores 70,000+ tonnes of radioactive thorium, lacks proper lining, and contaminates groundwater feeding toward the Yellow River. Southern Jiangxi Province's cleanup is estimated at $5.5 billion (38 billion yuan) and 50-100 years for full environmental recovery. "Cancer villages" with disproportionate cancer rates have been documented near mining sites. China is now moving operations to [Africa]({{ site.baseurl }}/regions/africa.html), obtaining exclusive rights to REE deposits in exchange for infrastructure — raising concerns about replicating the same environmental destruction abroad [8][9].
 
 # Key Dynamics
 
@@ -69,7 +70,7 @@ Bayan Obo's tailings pond stores 70,000+ tonnes of radioactive thorium, lacks pr
 
 ## Resource Depletion and Energy Cost
 
-[The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md) describes the depletion dynamic: beyond a certain point, extraction economics stops working because high-grade ore is exhausted. Silver has passed this threshold; copper is approaching it. The implication for critical minerals is that the energy cost of extraction is rising — more energy is needed to produce the same amount of mineral output, which means the energy transition itself is becoming more energy-intensive at exactly the moment when energy surpluses are contracting [2].
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) describes the depletion dynamic: beyond a certain point, extraction economics stops working because high-grade ore is exhausted. Silver has passed this threshold; copper is approaching it. The implication for critical minerals is that the energy cost of extraction is rising — more energy is needed to produce the same amount of mineral output, which means the energy transition itself is becoming more energy-intensive at exactly the moment when energy surpluses are contracting [2].
 
 This creates a feedback loop: the transition to renewable energy and electric vehicles requires critical minerals whose extraction requires increasing amounts of fossil-fuel energy. The result is that the "green transition" is not a departure from fossil fuel dependence but an extension of it — the material requirements of renewables scale with deployment, and the energy cost of those materials is rising [2].
 
@@ -89,7 +90,7 @@ The C5+1 critical minerals talks in Kazakhstan represent a Western attempt to de
 
 Export-control friction with Japan over semiconductors illustrates how mineral and technology supply chains have become instruments of state power. The weaponization of supply chains — restricting access to processing, components, or finished products — is a form of coercion that operates below the threshold of armed conflict but with strategic effect comparable to conventional military pressure.
 
-The implication is that critical minerals are not merely an economic issue but a security issue. The [Cold War 2](/conflicts/cold-war-2.md) competition is increasingly fought through supply chain architecture — who controls the mines, the processing, the refining, and the manufacturing. China's integrated approach — from mine to factory — gives it structural advantages that Western fragmentation cannot match [3].
+The implication is that critical minerals are not merely an economic issue but a security issue. The [Cold War 2]({{ site.baseurl }}/conflicts/cold-war-2.html) competition is increasingly fought through supply chain architecture — who controls the mines, the processing, the refining, and the manufacturing. China's integrated approach — from mine to factory — gives it structural advantages that Western fragmentation cannot match [3].
 
 ## Why China Controls Processing
 

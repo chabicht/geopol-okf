@@ -1,6 +1,7 @@
 ---
 type: Conflict
 title: "Cold War 2.0"
+parent: Conflicts
 description: "Systemic great power competition between the US-led order and the DragonBear axis (Russia-China coordination, extended to Iran and North Korea). Encompasses simultaneous theaters across the Middle East, Ukraine, Indo-Pacific, Latin America, and Africa."
 tags:
   - cold-war
@@ -13,13 +14,13 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Background
 
-The global system is defined by systemic great power competition between the US-led order and an emerging axis of authoritarian powers. [Velina Tchakarova](/actors/authors/velina-tchakarova.md) coined the term "DragonBear axis" to describe the deepening coordination between [China](/actors/countries/china.md) and [Russia](/actors/countries/russia.md) — a partnership that operates below the threshold of a formal alliance but achieves strategic alignment through coordinated pressure across multiple theaters. The concept of a "CRINK alliance" — China, Russia, [Iran](/actors/countries/iran.md), and North Korea — articulated by Kiesewetter, extends this framework to include all four revisionist powers cooperating militarily and technologically against NATO in every theater.
+The global system is defined by systemic great power competition between the US-led order and an emerging axis of authoritarian powers. [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) coined the term "DragonBear axis" to describe the deepening coordination between [China]({{ site.baseurl }}/actors/countries/china.html) and [Russia]({{ site.baseurl }}/actors/countries/russia.html) — a partnership that operates below the threshold of a formal alliance but achieves strategic alignment through coordinated pressure across multiple theaters. The concept of a "CRINK alliance" — China, Russia, [Iran]({{ site.baseurl }}/actors/countries/iran.html), and North Korea — articulated by Kiesewetter, extends this framework to include all four revisionist powers cooperating militarily and technologically against NATO in every theater.
 
-The [United States](/actors/countries/united-states.md) finds itself stretched across these simultaneous theaters, with the same munitions, air-defense inventories, political attention, and industrial bottlenecks recurring across each — a structural vulnerability the axis is designed to exploit.
+The [United States]({{ site.baseurl }}/actors/countries/united-states.html) finds itself stretched across these simultaneous theaters, with the same munitions, air-defense inventories, political attention, and industrial bottlenecks recurring across each — a structural vulnerability the axis is designed to exploit.
 
 # Current Situation
 
-Multiple simultaneous theaters are active: the [Middle East](/conflicts/us-iran-war-2026.md), [Ukraine](/conflicts/russia-ukraine-war.md), the [Indo-Pacific](/conflicts/taiwan-standoff.md), Latin America, and [Africa](/conflicts/sahel-insurgency.md) [1][2]. The same US munitions, air-defense inventories, political attention, and industrial bottlenecks recur across theaters, creating a bandwidth problem that the axis systematically exploits [1].
+Multiple simultaneous theaters are active: the [Middle East]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), the [Indo-Pacific]({{ site.baseurl }}/conflicts/taiwan-standoff.html), Latin America, and [Africa]({{ site.baseurl }}/conflicts/sahel-insurgency.html) [1][2]. The same US munitions, air-defense inventories, political attention, and industrial bottlenecks recur across theaters, creating a bandwidth problem that the axis systematically exploits [1].
 
 In Latin America, Washington is reconstructing a hemispheric bloc through the Shield of the Americas initiative [2]. A conservative wave has swept the region: Argentina, Bolivia, Chile, Colombia, Costa Rica, Ecuador, and Honduras have shifted rightward, creating conditions for renewed US influence and axis counter-pressure [2].
 
@@ -31,11 +32,11 @@ As of mid-2026, the base case is "Hot Peace and Cold War": multipolar diplomacy 
 
 ## DragonBear Hierarchy
 
-The DragonBear axis emerged from the Iran war more operationally coordinated but more visibly hierarchical. [China](/actors/countries/china.md) is expanding yuan settlement, CIPS throughput, and sanctions-resistant energy infrastructure, while [Russia](/actors/countries/russia.md) has become more dependent on Chinese pricing power and market access. The asymmetry within the axis is sharpening: China provides the economic architecture, Russia provides the military disruption, and the dependency flows one way [1].
+The DragonBear axis emerged from the Iran war more operationally coordinated but more visibly hierarchical. [China]({{ site.baseurl }}/actors/countries/china.html) is expanding yuan settlement, CIPS throughput, and sanctions-resistant energy infrastructure, while [Russia]({{ site.baseurl }}/actors/countries/russia.html) has become more dependent on Chinese pricing power and market access. The asymmetry within the axis is sharpening: China provides the economic architecture, Russia provides the military disruption, and the dependency flows one way [1].
 
 ## India as Swing Variable
 
-[India](/actors/countries/india.md) widened its room for maneuver by deepening Russian energy ties, freezing Starlink approvals, and reopening high-level dialogue with China — making it the most important swing variable between hardened bifurcation and volatile multipolarity. India's multi-alignment doctrine is being tested: can it participate in a RIC framework while maintaining its Quad membership? The answer determines whether the system hardens into a bipolar structure or fragments into a more fluid multipolar order [1].
+[India]({{ site.baseurl }}/actors/countries/india.html) widened its room for maneuver by deepening Russian energy ties, freezing Starlink approvals, and reopening high-level dialogue with China — making it the most important swing variable between hardened bifurcation and volatile multipolarity. India's multi-alignment doctrine is being tested: can it participate in a RIC framework while maintaining its Quad membership? The answer determines whether the system hardens into a bipolar structure or fragments into a more fluid multipolar order [1].
 
 # Analysis
 
@@ -55,7 +56,7 @@ The competition manifests across multiple domains simultaneously:
 
 - **AI military race**: The competition between the US and China in military applications of artificial intelligence, where the decisive factor will be integration speed rather than model quality [5].
 - **Critical minerals and supply chains**: Control over the inputs to modern technology and military production constitutes a persistent vector of leverage [1].
-- **Energy chokepoints**: The [Hormuz](/themes/energy-and-resources.md) crisis demonstrated how energy chokepoints serve as force multipliers for revisionist powers with geographic leverage [1].
+- **Energy chokepoints**: The [Hormuz]({{ site.baseurl }}/themes/energy-and-resources.html) crisis demonstrated how energy chokepoints serve as force multipliers for revisionist powers with geographic leverage [1].
 - **Cognitive warfare**: Russia's documented campaigns against Western societies, including operations designed to inflame social tensions through manufactured incidents, represent a hybrid warfare vector that operates below the threshold of armed conflict [6].
 - **Hemispheric consolidation**: Latin America serves as a contest for spheres of influence where the axis seeks to erode the Monroe Doctrine assumption [2].
 

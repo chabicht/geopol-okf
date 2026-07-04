@@ -1,6 +1,7 @@
 ---
 type: Theme
 title: "Cognitive Warfare"
+parent: Themes
 description: "Russian cognitive strikes and influence operations against the West — including vandalism attacks, election interference, and media manipulation conducted below the threshold of armed conflict by the Social Design Agency under Russian Presidential Administration oversight."
 tags:
   - cognitive-warfare
@@ -12,15 +13,15 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-[Russia](/actors/countries/russia.md) uses information warfare to maintain the image of a superpower, operating below the threshold of armed conflict through cyber operations, influence campaigns, technology theft, and economic coercion. The goal is not military victory in the conventional sense but the degradation of adversary cohesion — inciting unrest, amplifying divisions, and projecting the appearance of global Russian influence.
+[Russia]({{ site.baseurl }}/actors/countries/russia.html) uses information warfare to maintain the image of a superpower, operating below the threshold of armed conflict through cyber operations, influence campaigns, technology theft, and economic coercion. The goal is not military victory in the conventional sense but the degradation of adversary cohesion — inciting unrest, amplifying divisions, and projecting the appearance of global Russian influence.
 
-The [Social Design Agency](/actors/organizations/social-design-agency.md) (SDA) is a key instrument of this effort. Already sanctioned by the US, UK, and EU, the SDA continues operations under the oversight of Russian Presidential Administration officials, using workplace collaboration tools for coordination between staffers and administration officials.
+The [Social Design Agency]({{ site.baseurl }}/actors/organizations/social-design-agency.html) (SDA) is a key instrument of this effort. Already sanctioned by the US, UK, and EU, the SDA continues operations under the oversight of Russian Presidential Administration officials, using workplace collaboration tools for coordination between staffers and administration officials.
 
 # Current Situation
 
 Leaked documents from Delfi Estonia, shared with OCCRP, reveal the scope and methods of SDA operations. The documents expose a systematic program of "cognitive strikes" designed to incite unrest and project Russian influence across multiple countries:
 
-- **Operation Pig's Head**: Six operatives arrived in Paris, conducted reconnaissance, delivered pig heads to mosques, and left the country. The operation was meticulously planned — reconnaissance, delivery, extraction — and designed to incite Islamophobic unrest in [France](/actors/countries/france.md).
+- **Operation Pig's Head**: Six operatives arrived in Paris, conducted reconnaissance, delivered pig heads to mosques, and left the country. The operation was meticulously planned — reconnaissance, delivery, extraction — and designed to incite Islamophobic unrest in [France]({{ site.baseurl }}/actors/countries/france.html).
 - **Pro-Russian messaging through Western opinion leaders**: The SDA cultivates and channels narratives through ostensibly independent Western voices, obscuring the Russian origin of the messaging.
 - **Election interference**: A plan to influence Armenia's parliamentary election through a media outlet targeting Russian-speaking voters was documented in the leaked materials.
 - **Russian Presidential Administration oversight**: SDA work is not rogue activity but an instrument of state policy, with administration officials coordinating operations through workplace collaboration tools.
@@ -51,7 +52,7 @@ Beyond the SDA's tactical operations, Russia is building a global media conglome
 
 ## Kadyrov as Islamic Messenger
 
-[Kadyrov](/actors/kadyrov.md) serves as a key instrument of Kremlin cognitive warfare targeting the Islamic world. His social media presence, elite interactions, and "holy jihad" narrative against the West have achieved mass media amplification across Indonesia, Saudi Arabia, and the Global South. His reported failing health threatens to create a strategic communications gap, though the broader Kremlin influence ecosystem will likely outlast any individual [3].
+[Kadyrov]({{ site.baseurl }}/actors/kadyrov.html) serves as a key instrument of Kremlin cognitive warfare targeting the Islamic world. His social media presence, elite interactions, and "holy jihad" narrative against the West have achieved mass media amplification across Indonesia, Saudi Arabia, and the Global South. His reported failing health threatens to create a strategic communications gap, though the broader Kremlin influence ecosystem will likely outlast any individual [3].
 
 # Citations
 

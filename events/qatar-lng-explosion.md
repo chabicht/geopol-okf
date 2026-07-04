@@ -1,6 +1,7 @@
 ---
 type: Event
 title: Qatar Ras Laffan LNG Explosion
+parent: Events
 description: June 2026 explosion at Ras Laffan Industrial City damaging the Barzan gas facility during the Hormuz crisis restart window.
 tags: [energy, supply-chain, middle-east]
 status: concluded
@@ -9,7 +10,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Ras Laffan Industrial City in [Qatar](/actors/countries/qatar.md) is one of the world's largest LNG processing and export complexes. Approximately one-fifth of global seaborne LNG supply transits through this single facility, making it a critical node in the global energy system. The explosion occurred within the broader context of the [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) and the disruption of the Strait of Hormuz, which had forced operational inactivity at the complex. See [Middle East](/regions/middle-east.md) and [Energy and Resources](/themes/energy-and-resources.md).
+Ras Laffan Industrial City in [Qatar]({{ site.baseurl }}/actors/countries/qatar.html) is one of the world's largest LNG processing and export complexes. Approximately one-fifth of global seaborne LNG supply transits through this single facility, making it a critical node in the global energy system. The explosion occurred within the broader context of the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) and the disruption of the Strait of Hormuz, which had forced operational inactivity at the complex. See [Middle East]({{ site.baseurl }}/regions/middle-east.html) and [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html).
 
 # What Happened
 

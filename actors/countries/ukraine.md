@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Ukraine
+parent: Countries
 description: Ukraine as a geopolitical actor — isolating Crimea, conducting deep long-range strikes, and pressuring Belarus to curtail Russian supply lines
 tags: [country, military, drone-warfare, air-defense, europe]
 status: ongoing
@@ -9,13 +10,13 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Background
 
-Ukraine has been at war with [Russia](/actors/countries/russia.md) since 2022, developing into one of the most technologically consequential conflicts of the modern era. Under [Zelensky](/actors/zelensky.md), Ukraine has evolved from a post-Soviet state with limited military capability into a formidable drone warfare innovator and long-range strike practitioner.
+Ukraine has been at war with [Russia]({{ site.baseurl }}/actors/countries/russia.html) since 2022, developing into one of the most technologically consequential conflicts of the modern era. Under [Zelensky]({{ site.baseurl }}/actors/zelensky.html), Ukraine has evolved from a post-Soviet state with limited military capability into a formidable drone warfare innovator and long-range strike practitioner.
 
 # Current Situation
 
 ## Crimea Isolation Campaign
 
-Ukraine is executing a systematic three-step campaign to isolate Crimea: first cutting the peninsula off from the sea, then achieving air superiority, and now targeting the Kerch Bridge as the final land link. Fuel shortages in occupied Crimea are acute — the Russian-installed governor has forbidden civilian fuel sales, a clear indicator of military priority over civilian needs. The [Crimea isolation campaign](/events/crimea-isolation-campaign.md) is turning what was once a Russian asset into a liability.
+Ukraine is executing a systematic three-step campaign to isolate Crimea: first cutting the peninsula off from the sea, then achieving air superiority, and now targeting the Kerch Bridge as the final land link. Fuel shortages in occupied Crimea are acute — the Russian-installed governor has forbidden civilian fuel sales, a clear indicator of military priority over civilian needs. The [Crimea isolation campaign]({{ site.baseurl }}/events/crimea-isolation-campaign.html) is turning what was once a Russian asset into a liability.
 
 ## Long-Range Strikes
 
@@ -23,15 +24,15 @@ Ukrainian long-range strikes are reaching Moscow and St. Petersburg, attacking R
 
 ## Drone Warfare Innovation
 
-Drones are changing the character of warfare. Ukrainians are adjusting better than Russians, fighting with fewer losses through novel tactics and technological adaptation. The lessons from the Ukrainian theater are directly relevant to understanding the broader [drone warfare](/themes/drone-warfare.md) revolution.
+Drones are changing the character of warfare. Ukrainians are adjusting better than Russians, fighting with fewer losses through novel tactics and technological adaptation. The lessons from the Ukrainian theater are directly relevant to understanding the broader [drone warfare]({{ site.baseurl }}/themes/drone-warfare.html) revolution.
 
 ## Pressure on Belarus
 
-Ukraine has successfully pressured [Belarus](/actors/countries/belarus.md) to halt radio guidance equipment that was helping Russia direct long-range strikes. Lukashenka bent to Ukrainian threats — an outcome that reveals the credibility of Ukrainian leverage. Ukrainian intelligence has listed every plant in Belarus working for Russia: components for armored vehicles, missile systems, and fuel. Gasoline supplies from Belarus to Russia increased 13x and diesel 3x in January-May versus the same period last year, making Belarus a critical supply node that Ukraine is now pressuring.
+Ukraine has successfully pressured [Belarus]({{ site.baseurl }}/actors/countries/belarus.html) to halt radio guidance equipment that was helping Russia direct long-range strikes. Lukashenka bent to Ukrainian threats — an outcome that reveals the credibility of Ukrainian leverage. Ukrainian intelligence has listed every plant in Belarus working for Russia: components for armored vehicles, missile systems, and fuel. Gasoline supplies from Belarus to Russia increased 13x and diesel 3x in January-May versus the same period last year, making Belarus a critical supply node that Ukraine is now pressuring.
 
 ## Intermediate-Range Strike Campaign
 
-Ukraine is breaking out of positional warfare through a combination of maturing operational planning (corps structure, Delta battlefield management system), an intensified intermediate-range strike campaign using AI-enabled Hornet drones to degrade Russian ground lines of communication (GLOCs) at 100-160km depth, SEAD/DEAD operations, and tactical drone supremacy. Russian advance rates have plummeted to approximately 3 sq km/day with casualties exceeding recruitment since December 2025. The first mechanized counterattacks since 2023 herald a new phase of the [Russia-Ukraine War](/conflicts/russia-ukraine-war.md) [5].
+Ukraine is breaking out of positional warfare through a combination of maturing operational planning (corps structure, Delta battlefield management system), an intensified intermediate-range strike campaign using AI-enabled Hornet drones to degrade Russian ground lines of communication (GLOCs) at 100-160km depth, SEAD/DEAD operations, and tactical drone supremacy. Russian advance rates have plummeted to approximately 3 sq km/day with casualties exceeding recruitment since December 2025. The first mechanized counterattacks since 2023 herald a new phase of the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) [5].
 
 ## Synergy of Long-Range and Mid-Range Strikes
 

@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Volodymyr Zelensky
+parent: Actors
 description: President of Ukraine; leading a multi-front campaign combining battlefield defense, long-range strikes on Russian industry, and coercive diplomacy against Belarus.
 tags: [leader, military, europe]
 status: ongoing
@@ -9,13 +10,13 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Volodymyr Zelensky has led [Ukraine](/actors/countries/ukraine.md) through the full-scale Russian invasion since February 2022. His wartime leadership has evolved from a defensive, survival-oriented posture to an increasingly offensive strategy that extends beyond Ukraine's borders into Russian territory and the politics of neighboring states.
+Volodymyr Zelensky has led [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) through the full-scale Russian invasion since February 2022. His wartime leadership has evolved from a defensive, survival-oriented posture to an increasingly offensive strategy that extends beyond Ukraine's borders into Russian territory and the politics of neighboring states.
 
 # Current Situation
 
 ## Pressure Campaign Against Belarus
 
-Zelensky has run an active coercive campaign against [Belarus](/actors/countries/belarus.md) and its dictator [Aleksandr Lukashenka](/actors/lukashenka.md). He publicly listed in detail every plant in Belarus working for the Russian war effort, effectively warning Lukashenka that Ukraine knows the full supply chain and can hold it at risk. [1]
+Zelensky has run an active coercive campaign against [Belarus]({{ site.baseurl }}/actors/countries/belarus.html) and its dictator [Aleksandr Lukashenka]({{ site.baseurl }}/actors/lukashenka.html). He publicly listed in detail every plant in Belarus working for the Russian war effort, effectively warning Lukashenka that Ukraine knows the full supply chain and can hold it at risk. [1]
 
 The campaign achieved a concrete result: Lukashenka halted radio guidance equipment that had been helping Russia direct strikes into Ukrainian territory. O'Brien treats this as a notable success of Ukrainian coercion over a regime that is nominally Russia's closest ally. [1]
 
@@ -23,7 +24,7 @@ The campaign achieved a concrete result: Lukashenka halted radio guidance equipm
 
 Zelensky is leading Ukraine's deep-strike campaign against Russian war production. He personally released a tweet about the Titan-Barrikady strike in Volgograd — a plant producing mobile air-defense systems — signaling both the target's significance and Ukraine's intent to degrade Russia's capacity to produce the systems it needs to defend against the very drones and missiles Ukraine employs. [2]
 
-The campaign targets refineries, munitions plants, and defense-industrial facilities across [Russia](/actors/countries/russia.md), stretching Russian air defense thin and compounding the fuel and air-defense shortages documented by O'Brien. [2]
+The campaign targets refineries, munitions plants, and defense-industrial facilities across [Russia]({{ site.baseurl }}/actors/countries/russia.html), stretching Russian air defense thin and compounding the fuel and air-defense shortages documented by O'Brien. [2]
 
 # Analysis
 

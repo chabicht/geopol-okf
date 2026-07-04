@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Nate Hagens
+parent: Authors & Analysts
 description: Systems thinker and host of "The Great Simplification" podcast — articulating the biophysical basis of civilization, the energy-economy nexus, and the trajectory toward involuntary simplification
 tags: [author, framework, energy]
 status: ongoing
@@ -19,7 +20,7 @@ The overarching framework: industrial civilization is a temporary state enabled 
 
 ## Energy as the Master Variable
 
-Hagens argues that energy — not money, technology, or ideology — is the master variable governing human systems. Money is a claim on energy and materials, not a source of them. Technology is a way of using energy more efficiently, not a substitute for it. This framework aligns with [The Honest Sorcerer](/actors/authors/the-honest-sorcerer.md)'s energy-throughput-as-power framework and provides the theoretical foundation for understanding why economic models that ignore energy fundamentals produce unreliable predictions [1].
+Hagens argues that energy — not money, technology, or ideology — is the master variable governing human systems. Money is a claim on energy and materials, not a source of them. Technology is a way of using energy more efficiently, not a substitute for it. This framework aligns with [The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html)'s energy-throughput-as-power framework and provides the theoretical foundation for understanding why economic models that ignore energy fundamentals produce unreliable predictions [1].
 
 ## Biophysical Basis of Civilization
 

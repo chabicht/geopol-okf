@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Paul Krugman
+parent: Authors & Analysts
 description: Economist and columnist — tracking oligarchic capture of US government, the social democracy vs socialism distinction, and corruption as the through-line of Trump's second term
 tags: [author, opinion, economics, oligarchy]
 status: ongoing
@@ -9,13 +10,13 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Paul Krugman is an economist, Nobel laureate, and columnist whose recent work focuses on the intersection of economic policy, democratic institutional decay, and oligarchic influence under [Trump](/actors/trump.md)'s second term. His analysis is distinguished by its insistence that corruption — not ideology or policy disagreement — is the central dynamic of Trump's governance, and that the Roberts Supreme Court has become an enabling instrument of that corruption.
+Paul Krugman is an economist, Nobel laureate, and columnist whose recent work focuses on the intersection of economic policy, democratic institutional decay, and oligarchic influence under [Trump]({{ site.baseurl }}/actors/trump.html)'s second term. His analysis is distinguished by its insistence that corruption — not ideology or policy disagreement — is the central dynamic of Trump's governance, and that the Roberts Supreme Court has become an enabling instrument of that corruption.
 
 # Key Frameworks
 
 ## Corruption as the Central Dynamic
 
-Krugman argues that the defining feature of Trump's second term is not ideological conservatism but systemic corruption. Policy reversals track not principle but personal enrichment — Jeff Yass purchasing a TikTok reversal, crypto interests funneling billions to Trump's family, regulatory agencies gutted to favor cronies. The [Slaughter SCOTUS ruling](/events/slaughter-scotus-ruling.md) is framed as the judicial enabling of this corruption, stripping agency independence so that Trump can direct regulatory outcomes toward those who "grease his palm and puff up his ego." [1]
+Krugman argues that the defining feature of Trump's second term is not ideological conservatism but systemic corruption. Policy reversals track not principle but personal enrichment — Jeff Yass purchasing a TikTok reversal, crypto interests funneling billions to Trump's family, regulatory agencies gutted to favor cronies. The [Slaughter SCOTUS ruling]({{ site.baseurl }}/events/slaughter-scotus-ruling.html) is framed as the judicial enabling of this corruption, stripping agency independence so that Trump can direct regulatory outcomes toward those who "grease his palm and puff up his ego." [1]
 
 ## Social Democracy vs Socialism
 
@@ -32,11 +33,11 @@ Krugman treats the Roberts Supreme Court as a fundamentally partisan institution
 # Recurring Themes
 
 - Oligarchic capture of US regulatory and political institutions
-- The [Slaughter ruling](/events/slaughter-scotus-ruling.md) and judicial enablement of dictatorship
+- The [Slaughter ruling]({{ site.baseurl }}/events/slaughter-scotus-ruling.html) and judicial enablement of dictatorship
 - Social democracy as mainstream American policy under sustained right-wing attack
 - Monopoly profits, enshittification, and the destruction of workers' rights
 - Right-wing propaganda conflating social democracy with socialism
-- The [ideology and democracy](/themes/ideology-and-democracy.md) crisis as asymmetric: the real radical threat is from the right, not the left
+- The [ideology and democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html) crisis as asymmetric: the real radical threat is from the right, not the left
 
 # Sources in Bundle
 

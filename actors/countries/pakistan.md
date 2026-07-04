@@ -1,6 +1,7 @@
 ---
 type: Actor
 title: Pakistan
+parent: Countries
 description: Nuclear-armed state mediating Saudi-Iran negotiations, deploying troops to Saudi Arabia, and balancing China, the US, and Gulf relationships
 tags: [country, military, middle-east, indo-pacific]
 status: ongoing
@@ -9,13 +10,13 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Pakistan is a nuclear-armed state whose strategic position bridges the [Middle East](/regions/middle-east.md), [Central Asia](/regions/central-asia.md), and the [Indo-Pacific](/regions/indo-pacific.md). Its relationships with [Saudi Arabia](/actors/countries/saudi-arabia.md), [China](/actors/countries/china.md), and the [United States](/actors/countries/united-states.md) are structurally entangled: Pakistan depends on Saudi financial support, Chinese military and infrastructure investment, and periodic US engagement. The [US-Iran War of 2026](/conflicts/us-iran-war-2026.md) elevated Pakistan's role as a regional mediator and security provider.
+Pakistan is a nuclear-armed state whose strategic position bridges the [Middle East]({{ site.baseurl }}/regions/middle-east.html), [Central Asia]({{ site.baseurl }}/regions/central-asia.html), and the [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html). Its relationships with [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html), [China]({{ site.baseurl }}/actors/countries/china.html), and the [United States]({{ site.baseurl }}/actors/countries/united-states.html) are structurally entangled: Pakistan depends on Saudi financial support, Chinese military and infrastructure investment, and periodic US engagement. The [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) elevated Pakistan's role as a regional mediator and security provider.
 
 # Current Situation
 
 ## Saudi-Iran Mediation
 
-Pakistan is mediating secret negotiations between [Saudi Arabia](/actors/countries/saudi-arabia.md) and [Iran](/actors/countries/iran.md), with Russian and Chinese support. The talks aim at a potential non-aggression pact that would stabilize the Gulf without direct US involvement. Pakistan's credibility with both Riyadh and Tehran — rooted in religious, geographic, and historical ties — makes it the only actor that can facilitate this channel [1].
+Pakistan is mediating secret negotiations between [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) and [Iran]({{ site.baseurl }}/actors/countries/iran.html), with Russian and Chinese support. The talks aim at a potential non-aggression pact that would stabilize the Gulf without direct US involvement. Pakistan's credibility with both Riyadh and Tehran — rooted in religious, geographic, and historical ties — makes it the only actor that can facilitate this channel [1].
 
 ## Troop Deployment to Saudi Arabia
 

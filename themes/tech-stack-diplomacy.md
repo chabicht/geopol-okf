@@ -1,6 +1,7 @@
 ---
 type: Theme
 title: "Tech Stack Diplomacy"
+parent: Themes
 description: "The US-China competition over AI technology exports — America's 'export the entire tech stack' strategy vs China's AI+ Initiative and open-source approach, with middle powers pursuing sovereign AI while navigating licensing risks and critical mineral dependencies."
 tags: [ai, technology, trade, supply-chain]
 status: ongoing
@@ -9,7 +10,7 @@ timestamp: 2026-01-20T00:00:00Z
 
 # Background
 
-AI has emerged as a central arena of [great power competition](/themes/great-power-competition.md). The [United States](/actors/countries/united-states.md) and [China](/actors/countries/china.md) are leveraging control over different layers of the global technology stack to gain strategic advantage. The US leads in high-end compute (semiconductors, data centers) and frontier models; China excels in AI adaptation, hardware manufacturing, and open-weight AI. Both nations are now actively exporting their technology to secure allies and establish global dependency — a competition that extends beyond the [AI military race](/themes/ai-military-race.md) into the diplomatic and economic domains.
+AI has emerged as a central arena of [great power competition]({{ site.baseurl }}/themes/great-power-competition.html). The [United States]({{ site.baseurl }}/actors/countries/united-states.html) and [China]({{ site.baseurl }}/actors/countries/china.html) are leveraging control over different layers of the global technology stack to gain strategic advantage. The US leads in high-end compute (semiconductors, data centers) and frontier models; China excels in AI adaptation, hardware manufacturing, and open-weight AI. Both nations are now actively exporting their technology to secure allies and establish global dependency — a competition that extends beyond the [AI military race]({{ site.baseurl }}/themes/ai-military-race.html) into the diplomatic and economic domains.
 
 # Current Situation
 
@@ -33,7 +34,7 @@ Chinese open-weight AI models are now used by as many as 80% of American AI star
 
 ## Critical Mineral Interdependency
 
-The tech stack competition intersects with [critical minerals](/themes/critical-minerals.md): the US has restricted advanced chip exports to China, while China has introduced a rare-earth licensing regime granting Beijing power to dictate which companies and countries receive resources essential for semiconductors and defense applications. This volatile interdependency risks global technological bifurcation.
+The tech stack competition intersects with [critical minerals]({{ site.baseurl }}/themes/critical-minerals.html): the US has restricted advanced chip exports to China, while China has introduced a rare-earth licensing regime granting Beijing power to dictate which companies and countries receive resources essential for semiconductors and defense applications. This volatile interdependency risks global technological bifurcation.
 
 # Key Dynamics
 
@@ -54,7 +55,7 @@ Chinese open-weight AI licenses function as a form of regulatory export. By adop
 
 ### The AI-Critical Minerals Nexus
 
-The competition over AI technology is inseparable from the competition over [critical minerals](/themes/critical-minerals.md). The US restricts advanced chips; China restricts rare earths. Both are attempts to leverage control over critical inputs to shape the other's AI development trajectory. The result is a volatile interdependency where each side can inflict costs but neither can achieve autonomy — a structural condition that pushes middle powers toward hedging strategies and sovereign AI investments, even when true sovereignty is unattainable.
+The competition over AI technology is inseparable from the competition over [critical minerals]({{ site.baseurl }}/themes/critical-minerals.html). The US restricts advanced chips; China restricts rare earths. Both are attempts to leverage control over critical inputs to shape the other's AI development trajectory. The result is a volatile interdependency where each side can inflict costs but neither can achieve autonomy — a structural condition that pushes middle powers toward hedging strategies and sovereign AI investments, even when true sovereignty is unattainable.
 
 # Citations
 
