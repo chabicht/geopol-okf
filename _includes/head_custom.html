@@ -1,0 +1,13 @@
+<script>
+  (function() {
+    var dark = window.matchMedia('(prefers-color-scheme: dark)');
+    function setTheme() {
+      if (window.jtd && typeof jtd.setTheme === 'function') {
+        jtd.setTheme(dark.matches ? 'dark' : 'light');
+      }
+    }
+    setTheme();
+    document.addEventListener('DOMContentLoaded', setTheme);
+    dark.addEventListener('change', setTheme);
+  })();
+</script>

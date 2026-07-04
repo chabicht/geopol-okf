@@ -19,6 +19,8 @@ search_enabled: true
 heading_anchors: true
 back_to_top: true
 
+color_scheme: light
+
 aux_links:
   "View on GitHub":
     - "https://github.com/chabicht/geopol-okf"
