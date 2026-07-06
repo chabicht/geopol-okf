@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Energy-centered analyst arguing that energy throughput — not GDP — is the true measure of power, that resource depletion is exponential, and that there is no "next economy" on a finite planet
 tags: [author, framework, opinion, energy]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -98,6 +98,7 @@ The "polycrisis" framework: not a single crisis but the convergence of multiple 
 - "2026: The Year Of The Coyote" [28]
 - "Everything Is Under Control… Until It Isn't" [29]
 - "How to Read the Signs of Collapse" (podcast with Nate Hagens) [30]
+- "Infinite Growth Delusions Continue — For Now" [31]
 
 # Citations
 
@@ -160,3 +161,5 @@ The "polycrisis" framework: not a single crisis but the convergence of multiple 
 [29] [Everything Is Under Control… Until It Isn't](https://thehonestsorcerer.substack.com/p/everything-is-under-control-until)
 
 [30] [How to Read the Signs of Collapse — The Great Simplification #209](https://natehagens.substack.com/cp/186878448)
+
+[31] [Infinite Growth Delusions Continue — For Now](https://thehonestsorcerer.substack.com/p/infinite-growth-delusions-continue)

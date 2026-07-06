@@ -5,7 +5,7 @@ parent: Actors
 description: 45th and 47th President of the United States; central decision-maker in the 2026 US-Iran war and US-Russia policy.
 tags: [leader, military, trade, latin-america, oligarchy, europe, africa]
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -86,6 +86,14 @@ In October 2025, Trump redesignated [Nigeria]({{ site.baseurl }}/actors/countrie
 
 The May 2026 [Trump-Xi summit]({{ site.baseurl }}/events/trump-xi-summit-2026.html) introduced deep uncertainty into US-[Taiwan]({{ site.baseurl }}/actors/countries/taiwan.html) relations. Xi framed Taiwan as the "most important issue in China-US relations" and warned that mishandling it would jeopardise the bilateral relationship. The summit produced little clarity on continued US support for Taiwan, underlining Taipei's predicament of relying on questionable American promises [18].
 
+## Crypto Corruption and the 250th Anniversary
+
+[Heather Cox Richardson]({{ site.baseurl }}/actors/authors/heather-cox-richardson.html) documents additional corruption: Trump made $1.4 billion in cryptocurrency ventures since taking office. His memecoin collapsed from $75.35 to $1.76 (97%), costing nearly a million followers $3.81 billion while Trump took transaction fees up front. The Freedom 250 scheme diverted donations from the bipartisan America250 program to Trump's own organization. Trump told CNBC his children "have inside information" about almost any business decision. The Great American State Fair was plagued with electrical issues, sparse exhibits, and heat; aerial images of the empty Mall so enraged Trump that officials deleted them from social media. The Justice Department refused to produce Epstein files despite a court order [19].
+
+## Anticommunism Pivot
+
+Trump's July 2026 Mt. Rushmore speech framed political opponents as "communists" — "the greatest threat to our country, including World War I, World War II, Pearl Harbor, or even 9/11." He demanded the Senate end the filibuster and pass the SAVE America Act: "We will not lose an election for a hundred years." Richardson identifies this as panic rather than confidence — a fabricated narrative constructed after Democratic Socialist electoral successes. On July 4, hundreds of masked Patriot Front white supremacists marched in Washington, D.C.; the White House did not respond to queries about whether Trump condemns the march. Trump posted over 100 times on social media on July 5, attacking Democrats and boasting extravagantly [19].
+
 # Analysis
 
 ### The Leader-as-Decision-Maker Thesis
@@ -135,3 +143,5 @@ Applebaum's Kleptocracy Tracker provides the documentary record: the Qatari jet,
 [17] [Trump in Africa: Nigeria's Bounded Agency and Structural Dependence Under US Pressure](https://www.swp-berlin.org/publikation/mta-pb50trump-in-africa-nigerias-bounded-agency)
 
 [18] [Washington's Volatility and Taipei's Security](https://www.swp-berlin.org/publikation/washingtons-volatility-and-taipeis-security)
+
+[19] [July 5, 2026](https://heathercoxrichardson.substack.com/p/july-5-2026)

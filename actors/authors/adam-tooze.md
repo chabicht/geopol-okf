@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Economic historian and Chartbook author tracking the global economy — China Shock 2.0, financial repression, the AI boom, and the four disrupters of the 2026 world economy
 tags: [author, economics, trade]
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -45,13 +45,20 @@ Tooze identifies four disrupters operating simultaneously [1]:
 
 China Shock 2.0 reflects #4. If trade protection and industrial bargaining are the solution, that risks compounding the disorder personified by Trump (#1). But doing nothing — spectactular, uncontrolled deindustrialization — is also a serious risk for Europe [1].
 
+## AI as Oppenheimer Moment
+
+In Chartbook 456, published on the 250th anniversary of the United States, Tooze frames the AI boom as a world-transforming technology analogous to the atom bomb. The key contrast is political economy: the mid-century transformative technologies (nuclear, rockets) were under state control (Oppenheimer, von Braun), whereas AI is driven by privately developed technology, private money, and the "unfettered egos of tech entrepreneurs" — the broligarchs. The US on its 250th is best understood not as a single coherent agent but as a "zone" — an incubator from which things emerge that defy summation. The BIS Annual Economic Report identifies the AI boom as endogenously generating a China-scale investment and credit boom, with the labor share of income potentially collapsing to 20% over the next forty years. Trillions of dollars are wagered on a vision of total disruption of familiar ways of living and working — a "crossover" monument to the USA at 250 [3].
+
 # Sources in Bundle
 
 - "Chartbook 454: China Shock 2.0 and Mercantilist-on-Mercantilist Violence" [1]
 - "Chartbook 455: The AI Boom, China's Walled-In Wealth and the Financial Barriers" [2]
+- "Chartbook 456: Alien v. Predator or MAGA meets AI" [3]
 
 # Citations
 
 [1] [Chartbook 454: China Shock 2.0 and Mercantilist-on-Mercantilist Violence](https://adamtooze.substack.com/p/chartbook-454-china-shock-20-and)
 
 [2] [Chartbook 455: The AI Boom, China's Walled-In Wealth and the Financial Barriers](https://adamtooze.substack.com/p/chartbook-455-the-ai-boom-chinas)
+
+[3] [Chartbook 456: Alien v. Predator or MAGA meets AI](https://adamtooze.substack.com/p/chartbook-456-alien-v-predator-or)

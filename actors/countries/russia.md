@@ -5,7 +5,7 @@ parent: Countries
 description: Russia as a geopolitical actor — waging war in Ukraine, managing Chechnya's succession risk, projecting power in Africa, conducting cognitive warfare against the West, attempting to revitalize the CSTO, and losing its grip on its southern flank from the Black Sea to Central Asia
 tags: [country, military, cognitive-warfare, energy, sanctions, europe, caucasus, africa, central-asia]
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -66,6 +66,18 @@ Central Asian states are deepening ties with the US (C5+1 summits in 2023 and 20
 
 Russian, Ukrainian, and American negotiators held their first formal trilateral peace negotiations in Abu Dhabi in January 2026. The cautious optimism from Ukrainian officials and Russian state media suggests Moscow may be prepared to explore pathways toward ending the conflict — but the damage to Russia's influence along its southern flank is already done [8].
 
+## Mounting Costs and Economic Strain
+
+[CSIS]({{ site.baseurl }}/actors/authors/csis.html) data documents approximately 1.4 million battlefield casualties and 450,000 fatalities between February 2022 and June 2026. Russia's monthly casualty rates of 30,000-34,000 in 2026 likely exceed recruitment of ~27,000/month. Russia's territorial control shrank in spring 2026 — a net loss of ~400 sq km in April-May, the first monthly net losses since August 2024. Russian advance rates of 50-90 meters/day are among the slowest in any war over the last century [12].
+
+The [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html) concludes that Russia's macro stance is "not sustainable": the Q1 2026 budget deficit exceeded the full-year target in three months, the sovereign wealth fund's liquid assets have shrunk to 1.8% of GDP, and war capacity is directly coupled to hydrocarbon export income. Oil and gas revenue fell to its lowest level since 2020. Putin is raising VAT from 20% to 22% and cannot borrow abroad [13][14].
+
+Ukraine's long-range strike campaign has taken approximately 38-42% of Russia's oil refining capacity offline. Approximately 78 of 83 federal subjects have experienced gasoline shortages, with 48 imposing purchasing limits. Russia has banned gasoline and jet fuel exports and is rationing fuel to its own citizens — a petrostate that cannot keep its own drivers in gasoline [14][15].
+
+## Preparing for Russian Defeat
+
+[The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) argues that a Russian defeat — military exhaustion bleeding into political rupture within the next two years — has moved from a fringe scenario to one that serious governments must insure against. Russia's 1.4 million casualties, recruitment shortfall, net territorial loss, and economic fragility have made defeat a possibility. The preparation agenda includes securing ~1,800 strategic warheads, pre-negotiating recognition of borders if the Federation fragments, keeping weapons scientists employed, and defining what "victory" means for Ukraine [16].
+
 # Analysis
 
 Russia's strategic position is paradoxical: deeply committed in Ukraine, facing succession risk in Chechnya, losing ground in Africa, yet successfully exploiting Western energy dependencies and conducting effective cognitive warfare. The DragonBear axis provides critical support, but Russia's ability to sustain multiple theaters is increasingly constrained by the prioritization demands of the Ukraine war.
@@ -93,3 +105,13 @@ Russia's strategic position is paradoxical: deeply committed in Ukraine, facing 
 [10] [Russia's Resettlement Strategy in Occupied Ukraine](https://understandingwar.org/research/russia-ukraine/russias-resettlement-strategy-in-occupied-ukraine/)
 
 [11] [Ramzan Kadyrov: The Kremlin's Messenger to the Islamic World](https://www.rusi.org/explore-our-research/publications/commentary/ramzan-kadyrov-kremlins-messenger-islamic-world)
+
+[12] [Russian Blood and Treasure: The Ballooning Costs of Putin's War](https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war)
+
+[13] [Endgame: The State of the Russian Economy](https://www.kielinstitut.de/publications/endgame-the-state-of-the-russian-economy-19855/)
+
+[14] [Weekend Update #192: Can Russia Counter?](https://phillipspobrien.substack.com/p/weekend-update-192-can-russia-counter)
+
+[15] [Ukraine's Strike Campaigns Will Likely Continue to Hurt Russia's Economy and Military Operations in Ukraine](https://understandingwar.org/research/russia-ukraine/ukraines-strike-campaigns-will-likely-continue-to-hurt-russias-economy-and-military-operations-in-ukraine/)
+
+[16] [The West Needs to Prepare for a Russian Defeat in Ukraine](https://www.thecipherbrief.com/the-west-needs-to-prepare-for-a-russian-defeat-in-ukraine)

@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Professor running the "Escalation Trap" newsletter — framework on leverage dynamics in war termination, Iran's growing leverage, and chokepoint control as the real currency of the Hormuz crisis
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -38,12 +38,22 @@ Pape uses three indicators for assessing whether a war is ending or entering a n
 
 Pape introduces "controlled instability" as Iran's post-war strategic doctrine: persistent low-level disruptions — drone incidents, insurance volatility, shipping harassment — that sustain a geopolitical risk premium on oil without requiring total Hormuz closure. If oil stays above $90 even after Hormuz reopens, Iran wins through a continuous revenue stream from the risk premium. This transforms Iran's chokepoint leverage from a binary weapon (open or closed) into a continuous revenue stream [4].
 
+## The August Leverage Window
+
+Pape forecasts that August 2026 could become the decisive month of the Iran War. The US Strategic Petroleum Reserve is approaching its operational floor of ~243 million barrels by mid-to-late August, precisely as hurricane season threatens Gulf Coast production. The [Supreme Leader's funeral]({{ site.baseurl }}/events/supreme-leader-funeral-2026.html) has stiffened Iranian resolve through massive nationalist mobilization, making harder demands more politically feasible. By August, Iran is likely to possess three forms of leverage simultaneously: growing nationalist confidence, continuing Hormuz influence, and an opponent with diminishing economic room. The greatest danger is that both sides conclude they cannot afford to let the other enter September with greater leverage [5].
+
+## New War Aim: Ending US Gulf Presence
+
+Pape identifies a strategic shift enabled by the funeral: using political momentum to weaken and ultimately end the permanent American military presence in the Gulf. Iran is appealing directly to Gulf monarchies — offering lower transit fees for states that distance themselves from Washington, higher costs for those hosting US bases. The central demand is becoming the gradual removal of American military power from the Gulf itself [5].
+
 # Sources in Bundle
 
 - "Uncertain Deal — And Iran Certainly Enters Its Period of Maximum Leverage" [1]
 - "Prediction Confirmed: The Next Phase of the Iran War Has Begun" [2]
 - "Situation Report — Special Edition" [3]
 - "The Price of Oil Is the Real Iran Deal" [4]
+- "The Gathering Storm: Iran's Funeral and the Coming August Shock" [5]
+- "Live with Prof Robert Pape and Joe Kent" [6]
 
 # Citations
 
@@ -54,3 +64,7 @@ Pape introduces "controlled instability" as Iran's post-war strategic doctrine: 
 [3] [Situation Report — Special Edition](https://escalationtrap.substack.com/p/situation-report-special-edition)
 
 [4] [The Price of Oil Is the Real Iran Deal](https://escalationtrap.substack.com/p/the-price-of-oil-is-the-real-iran)
+
+[5] [The Gathering Storm: Iran's Funeral and the Coming August Shock](https://escalationtrap.substack.com/p/the-gathering-storm-irans-funeral)
+
+[6] [Live with Prof Robert Pape and Joe Kent](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-and-joe-244)

@@ -8,7 +8,7 @@ tags:
   - military
   - technology
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -58,6 +58,10 @@ ISW analysis suggests the [PLA]({{ site.baseurl }}/actors/countries/china.html)'
 
 Dr. Jack Watling (RUSI) describes [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html)'s transformation from an underfunded Soviet-legacy force to a 960,000-person defense force integrating UAVs as a universal fires platform, driven by civil society and a burgeoning private defense industry that rapidly iterates equipment based on frontline feedback. The vulnerability of globalized defense supply chains (Chinese magnets, Russian titanium, Indian cotton) highlights the need for Western governments to define "sufficient" rather than perfect equipment standards. The critical lesson: engaging civil society honestly creates political freedom to solve defense problems [4].
 
+## Arms Industry Rethink
+
+The FT reports that the war in [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) is forcing arms producers to rethink manufacturing. The defence industry was dominated by large players producing small numbers of expensive, exquisitely engineered equipment expected to remain in service for decades. Drone warfare demands the opposite: hundreds or thousands of unmanned systems that can be redesigned and manufactured in weeks. UK start-up Isembard operates a franchise model linking hundreds of small machine shops into a decentralised production network — contrasting with China's manufacturing clusters where designers receive components within a day. Q5D has developed robotic tools to automate wiring harness manufacturing (the slowest, most manual part of drone production), offering 40-50% cost reductions. Estonia's Frankenburg Technologies has opened the world's first affordable air defense missile mass-production facility in Riga, using commercial off-the-shelf components. NATO's deputy supreme allied commander stresses the need for far faster procurement cycles: "We need to be testing, adjusting, failing, learning, procuring much, much faster." Ukraine's drone losses average 670,000 per month — both Ukraine and Russia buy most drones or components from China, but NATO wants domestic capacity to manufacture such quantities [5].
+
 # Citations
 
 [1] https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war
@@ -66,3 +70,5 @@ Dr. Jack Watling (RUSI) describes [Ukraine]({{ site.baseurl }}/actors/countries/
 [3] [Lessons-learned with Chinese Characteristics: Understanding the Limits of PLA Efforts to Adapt to Contemporary Warfare](https://understandingwar.org/research/china-taiwan/lessons-learned-with-chinese-characteristics-understanding-the-limits-of-pla-efforts-to-adapt-to-contemporary-warfare/)
 
 [4] [Talking Strategy #100: Ukraine's Adaptation with Dr. Jack Watling](https://traffic.libsyn.com/secure/forcedn/cead6627-d7c0-4f81-bec6-f79d589b6745/260612_TS_Jack_W_Ukraine_V2.mp3)
+
+[5] [How modern drone warfare is forcing arms producers to rethink](https://archive.ph/KboLR)

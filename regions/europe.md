@@ -5,7 +5,7 @@ parent: Regions
 description: Traditional US alliance architecture under NATO; EU economic bloc facing Russian hybrid warfare, shifting US priorities, and Trump's Greenland crisis fracturing the transatlantic alliance.
 tags: [europe, military, nato, energy, trade, economics]
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -39,6 +39,7 @@ Europe has been anchored by the US-led NATO alliance architecture since 1949 and
 - The [EU]({{ site.baseurl }}/actors/organizations/eu.html) has concluded 12 Security and Defence Partnerships since 2024, reflecting an effort to diversify security ties beyond the US. The SDPs span three circles: EEA/accession candidates (Norway, Iceland, Albania, North Macedonia, Moldova), NATO partners beyond the EU (Canada, UK), and global partners (Japan, South Korea, Australia, India, Ghana). The SAFE instrument provides €150 billion in defence loans with a "Buy European" clause — making SDPs a prerequisite for preferential access to the European armaments market [23].
 - The EU is updating its Arctic strategy in 2026, with digital sovereignty as a cross-cutting theme. The [Arctic]({{ site.baseurl }}/regions/arctic.html) is designated as one of 13 Cable Projects of European Interest — €347 million invested in strategic submarine cable projects. Two Arctic cable routes (Far North Fiber by 2029, Polar Connect by 2031) promise lower-latency Europe-Asia data connections away from the vulnerable Bab al-Mandab strait. The EU opened a bureau in Nuuk, Greenland in 2024 and opposed [Trump]({{ site.baseurl }}/actors/trump.html)'s territorial claims [24].
 - The EU is expanding free trade with Southeast Asia: negotiations with Indonesia completed in 2025, with Thailand, Malaysia, and the Philippines expected to follow. [Germany]({{ site.baseurl }}/actors/countries/germany.html)'s Indo-Pacific policy is shifting from a China-centric focus toward deeper engagement with ASEAN — driven by de-risking imperatives, the South China Sea as a critical transit corridor, and Southeast Asia's role as the projected fourth-largest economy by 2030 [25].
+- The [NATO Ankara Summit]({{ site.baseurl }}/events/nato-ankara-summit-2026.html) on July 7-8 introduced "NATO 3.0" — a stronger Europe in a stronger NATO. Secretary General Rutte presented the "Trump Trillion" ($1.2T in extra defense spending since Trump's first term). Allies pledged €70 billion in military assistance to [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) for 2026 without direct US funding. European allies have largely filled gaps left by US force model reductions, with the main remaining gap being strategic bombers. German Chancellor Merz rebuked Trump's spending criticism, noting Germany is doubling its defense budget within four years. The next summit, planned for Albania in 2027, was not mentioned in the declaration [26].
 
 # Key Dynamics
 
@@ -95,3 +96,5 @@ Europe has been anchored by the US-led NATO alliance architecture since 1949 and
 [24] [Die neue Arktisstrategie der EU](https://www.swp-berlin.org/publikation/die-neue-arktisstrategie-der-eu-chancen-fuer-europas-digitale-souveraenitaet)
 
 [25] [Südostasien – mehr als ein Nebenschauplatz im Indo-Pazifik](https://www.swp-berlin.org/publikation/suedostasien-mehr-als-ein-nebenschauplatz-im-indo-pazifik)
+
+[26] [NATO 3.0 to Emerge at Ankara Summit Amid Fragile Unity](https://www.rusi.org/explore-our-research/publications/commentary/nato-30-emerge-ankara-summit-amid-fragile-unity)

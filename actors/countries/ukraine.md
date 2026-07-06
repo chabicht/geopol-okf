@@ -5,7 +5,7 @@ parent: Countries
 description: Ukraine as a geopolitical actor — isolating Crimea, conducting deep long-range strikes, and pressuring Belarus to curtail Russian supply lines
 tags: [country, military, drone-warfare, air-defense, europe]
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -42,6 +42,14 @@ Gasoline shortages in occupied Crimea and other occupied Ukrainian territories r
 
 Dr. Jack Watling (RUSI) describes Ukraine's transformation from an underfunded Soviet-legacy force to a 960,000-person defense force integrating UAVs as a universal fires platform, driven by civil society and a burgeoning private defense industry that rapidly iterates equipment based on frontline feedback. The vulnerability of globalized defense supply chains (Chinese magnets, Russian titanium, Indian cotton) highlights the need for Western governments to define "sufficient" rather than perfect equipment standards. The critical lesson: engaging civil society honestly — not shielding the public from hard trade-offs — creates political freedom to solve defense problems [7].
 
+## AI-Enabled Drone Warfare
+
+[CSIS]({{ site.baseurl }}/actors/authors/csis.html) documents Ukraine's fielding of the Hornet — a one-way autonomous attack drone costing ~$6,000 with a range of up to 150 km. The Hornet uses AI to analyze live video feeds, identify legitimate targets, detect Russian decoys based on geometry, surface texture, and thermal signature, and strike targets during the terminal phase using onboard AI without requiring a satellite connection. This makes it resistant to Russian electronic warfare. Over 90% of Russian casualties are now from drone attacks. Ukraine has also conducted long-range strikes (over 300 km) against St. Petersburg, Moscow, and Ukrainka Air Base (over 6,000 km from Kyiv) [8].
+
+## Accelerating Strike Campaign
+
+In June-July 2026, Ukraine dramatically intensified its coordinated strike campaign. Ukrainian forces struck 22 Russian oil refineries between January and June 30, reaching targets as far as 2,000 km from the border. Key July strikes include the Slavyansk-na-Kubani refinery, the Ufa refinery complex (~1,300 km from the front), Lukoil-Nizhegorodorgsintez (Russia's fourth-largest refinery), and the St. Petersburg oil terminal and Vysotsk port. Ukraine claimed to have shut down more than 42% of Russia's oil output. Zelensky announced a 40-day intermediate- and long-range strike campaign on June 25 [9][10].
+
 # Analysis
 
 Ukraine's strategic approach demonstrates how a numerically inferior force can impose disproportionate costs through technological innovation, deep strike capability, and astute exploitation of adversary vulnerabilities. The Crimea campaign and the Belarus pressure campaign are complementary efforts to compress Russia's operational depth. Minsk's proximity to Kyiv — much closer than Kyiv is to Crimea — means Belarus-based assets are exposed to Ukrainian retaliation in ways that Russian rear areas are not.
@@ -61,3 +69,9 @@ Ukraine's strategic approach demonstrates how a numerically inferior force can i
 [6] [Gasoline Shortages in Occupied Ukraine Show the Synergy of Ukraine's Long-Range and Mid-Range Strike Campaigns](https://understandingwar.org/research/russia-ukraine/gasoline-shortages-in-occupied-ukraine-show-the-synergy-of-ukraines-long-range-and-mid-range-strike-campaigns/)
 
 [7] [Talking Strategy #100: Ukraine's Adaptation with Dr. Jack Watling](https://traffic.libsyn.com/secure/forcedn/cead6627-d7c0-4f81-bec6-f79d589b6745/260612_TS_Jack_W_Ukraine_V2.mp3)
+
+[8] [Russian Blood and Treasure: The Ballooning Costs of Putin's War](https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war)
+
+[9] [Ukraine's Strike Campaigns Will Likely Continue to Hurt Russia's Economy and Military Operations in Ukraine](https://understandingwar.org/research/russia-ukraine/ukraines-strike-campaigns-will-likely-continue-to-hurt-russias-economy-and-military-operations-in-ukraine/)
+
+[10] [Weekend Update #192: Can Russia Counter?](https://phillipspobrien.substack.com/p/weekend-update-192-can-russia-counter)

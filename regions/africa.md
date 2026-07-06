@@ -5,7 +5,7 @@ parent: Regions
 description: Continent of growing strategic importance; Sahel as insurgency zone, Horn of Africa as maritime chokepoint with emerging rival blocs, and US-China competition along strategic resource corridors.
 tags: [africa, sahel, insurgency, military, drone-warfare, trade, terrorism]
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -28,6 +28,7 @@ Africa is a continent of growing strategic importance, characterized by vast ter
 - [ECOWAS]({{ site.baseurl }}/actors/organizations/ecowas.html) announced a counter-terrorism unit of 1,650 troops within the ECOWAS Standby Force in February 2026, following the exit of Burkina Faso, Mali, and Niger (AES). The unit's projected annual cost equals ECOWAS' entire budget, and its operational viability is severely constrained by institutional bottlenecks, training gaps, and political mistrust. The AES states have established their own Unified Force. Both initiatives face significant uncertainty [6].
 - [Nigeria]({{ site.baseurl }}/actors/countries/nigeria.html) is exercising bounded agency under US coercive pressure: [Trump]({{ site.baseurl }}/actors/trump.html)'s CPC redesignation in October 2025 led to a formal bilateral security partnership with 200 US troops deployed and MQ-9 Reaper drone operations. Nigeria's compliance is shaped not only by US leverage but by religiously and ethnically divided domestic politics ahead of the 2027 election. The US intelligence fusion cell and troop presence will outlast the political moment that produced it [7].
 - Labour and education migration from sub-Saharan Africa to [Germany]({{ site.baseurl }}/actors/countries/germany.html) is growing: visa applications for employment from African countries nearly quadrupled between 2019 and 2025 (from ~7,860 to 29,415). Kenya, Ghana, and Cameroon are emerging corridors. By 2050, Africa will account for ~25% of the global working-age population, while European populations shrink — creating a structural demographic complementarity that policy has barely begun to address [8].
+- [The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) identifies Africa's duality as both risk and opportunity: the continent leads the world in terrorist-related casualties (more than half of global fatalities in the [Sahel]({{ site.baseurl }}/conflicts/sahel-insurgency.html)), with weak health systems that can turn outbreaks into global threats. But Africa has outperformed global growth by 0.5-1.5 percentage points since 2000, is on track to outpace the world in merchandise import growth during 2026, and its working-age population will rise from ~850 million to over 1.5 billion by 2050 — accounting for 85% of the global workforce increase. The US, below replacement fertility for nearly two decades (1.6 in 2024), and [Mexico]({{ site.baseurl }}/regions/latin-america.html) below replacement for a decade (1.9 in 2024), will increasingly need Africa as a source of workers. 60 countries are set to shrink in population this year alone, including [China]({{ site.baseurl }}/actors/countries/china.html), [Germany]({{ site.baseurl }}/actors/countries/germany.html), [Japan]({{ site.baseurl }}/actors/countries/japan.html), [Italy]({{ site.baseurl }}/regions/europe.html), [Russia]({{ site.baseurl }}/actors/countries/russia.html), [Spain]({{ site.baseurl }}/regions/europe.html), and [South Korea]({{ site.baseurl }}/regions/indo-pacific.html) [9].
 
 # Key Dynamics
 
@@ -53,3 +54,5 @@ Africa is a continent of growing strategic importance, characterized by vast ter
 [7] [Trump in Africa: Nigeria's Bounded Agency and Structural Dependence Under US Pressure](https://www.swp-berlin.org/publikation/mta-pb50trump-in-africa-nigerias-bounded-agency)
 
 [8] [The Untapped Potential of Labour and Education Migration from Africa to Germany](https://www.swp-berlin.org/publikation/mta-spotlight-75-the-untapped-potential-of-labour-and-education-migration-from-africa-to-germany)
+
+[9] [A Tale of Two Africas in Maps, And How It Affects the United States](https://www.thecipherbrief.com/a-tale-of-two-africas-in-maps-and-how-it-affects-the-united-states)

@@ -25,3 +25,6 @@ permalink: /actors/authors/
 * [Marian Tupy](marian-tupy.html) - Communism's 100-year human cost, contemporary socialist resurgence
 * [Adam Tooze](adam-tooze.html) - China Shock 2.0, financial repression, four disrupters of the 2026 world economy
 * [Anne Applebaum](anne-applebaum.html) - Kleptocracy tracker, blood-and-soil nationalism, institutional defacement under Trump
+* [Heather Cox Richardson](heather-cox-richardson.html) - Political historian tracking Trump corruption, anticommunism as political weapon, democratic backsliding
+* [CSIS](csis.html) - Data-driven defense analysis — Russia-Ukraine casualty data, AI-enabled drone warfare, battlefield assessment
+* [Kiel Institute](kiel-institute.html) - Russian war economy analysis — unsustainable macro stance, fiscal buffers exhausted, hydrocarbon coupling

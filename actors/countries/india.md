@@ -5,7 +5,7 @@ parent: Countries
 description: India as a geopolitical actor — balancing China as its overriding strategic concern while enduring Trump-era diplomatic slights
 tags: [country, military, indo-pacific, trade]
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -46,6 +46,10 @@ McKinsey's 2026 trade geometry analysis shows that US-China trade fell approxima
 
 China's $9.2 billion investment push into [Bangladesh]({{ site.baseurl }}/actors/countries/bangladesh.html) — including 13 MOUs and the Teesta River project — represents a strategic setback for New Delhi. Bangladesh has historically been so close to India it could be considered a satellite, but the 2024 uprising that ended Sheikh Hasina's rule opened the door to strategic autonomy. Chinese commercial investments near the Siliguri Corridor raise security concerns. However, India retains structural advantages: 4,000+ km of shared border, deep historical ties, and geographic indispensability. New Delhi will likely accelerate its own connectivity initiatives rather than oppose Beijing's investment directly [5].
 
+## Gorging on Russian Oil
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) documents that India is "gorging" on Russian oil — June 2026 purchases hit record highs despite US sanctions supposedly reactivated on June 17. The Indian government has explicitly stated it will continue buying Russian oil regardless of US sanctions status. Trump's war with Iran ended Indian hedging: once the American bombing started, India quickly bought up all the oil it could. The sanctions reactivation after the ceasefire produced no behavioral change. India's calculated position: Trump is too afraid of India and too enamored of Putin to actually enforce sanctions. The US has created a "free-for-all" situation for purchasers of Russian oil [6].
+
 # Analysis
 
 India's strategic position is defined by the asymmetry with China and the absence of alternatives to the American partnership. The relationship with the US is durable not because it is satisfactory, but because it is structurally necessary. India's passivity during the Iran war and its tolerance of Trump's slights both reflect the same underlying constraint: the China threat leaves no room for strategic autonomy in alliance management.
@@ -61,3 +65,5 @@ India's strategic position is defined by the asymmetry with China and the absenc
 [4] [Global System June 2026](https://substack.com/@velinatchakarova/p-204418261)
 
 [5] [China Makes Its Move in Bangladesh](https://geopoliticalfutures.com/china-makes-its-move-in-bangladesh/)
+
+[6] [Weekend Update #192: Can Russia Counter?](https://phillipspobrien.substack.com/p/weekend-update-192-can-russia-counter)

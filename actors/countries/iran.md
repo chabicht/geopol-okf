@@ -5,7 +5,7 @@ parent: Countries
 description: Iran as a geopolitical actor — surviving US-Israeli military campaign with retained leverage over Strait of Hormuz and negotiating from strength
 tags: [country, military, nuclear, energy, middle-east, drone-warfare, sanctions]
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -50,6 +50,10 @@ Iran's IRGC and Quds Force have escalated external operations in Europe — incl
 
 Washington's pursuit of diplomatic accommodation with Iran has created friction with [Israel]({{ site.baseurl }}/actors/countries/israel.html). The US conducted ceasefire negotiations through Pakistani mediation without Israeli participation, despite Israel bearing much of the cost and risk of the war. Israel fears any sanctions relief will rebuild Hezbollah and allow Tehran to rebound. The divergence reflects a fundamental disagreement: Washington seeks to incorporate Iran into a new regional order while Israel believes an ideologically driven regime cannot be durably moderated through negotiation [10].
 
+## The Funeral and Hardened Resolve
+
+The [funeral of the Supreme Leader]({{ site.baseurl }}/events/supreme-leader-funeral-2026.html) produced perhaps the largest public mobilization in the history of the Islamic Republic. [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) argues this is not spectacle but strategic shift: massive nationalist mobilization changes Tehran's bargaining position by increasing the political costs of moderation. Leaders confronting millions demanding payback are less likely to concede. The funeral has enabled a more ambitious war aim: weakening and ultimately ending the permanent American military presence in the Gulf. Iran is appealing directly to Gulf monarchies — offering lower transit fees for states that distance themselves from Washington, higher costs for those hosting US bases. The August leverage window approaches as the US [SPR]({{ site.baseurl }}/events/spr-depletion-crisis.html) nears its operational floor [11].
+
 # Analysis
 
 Iran's post-war position demonstrates the limits of conventional military power against a geographically entrenched adversary with asymmetric leverage. The [energy dimension]({{ site.baseurl }}/themes/energy-and-resources.html) is central: Iran's control over Hormuz gives it influence over global oil and LNG flows that no amount of US military superiority has been able to neutralize. The [ceasefire MoU]({{ site.baseurl }}/events/iran-ceasefire-mou.html) institutionalized an outcome that favors Iran's long-term strategic position.
@@ -75,3 +79,5 @@ Iran's post-war position demonstrates the limits of conventional military power 
 [9] [Suspicious Transaction Report: Iran's External Operations with Matthew Levitt](https://traffic.libsyn.com/secure/forcedn/suspicioustransactionreport/260605_STR_Matthew_Levitt_V1.mp3)
 
 [10] [America Between an Ally and an Adversary](https://geopoliticalfutures.com/america-between-an-ally-and-an-adversary/)
+
+[11] [The Gathering Storm: Iran's Funeral and the Coming August Shock](https://escalationtrap.substack.com/p/the-gathering-storm-irans-funeral)

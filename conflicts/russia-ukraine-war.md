@@ -10,7 +10,7 @@ tags:
   - military
   - europe
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -76,6 +76,34 @@ Russia is conducting a systematic [resettlement campaign]({{ site.baseurl }}/eve
 
 Dr. Jack Watling (RUSI) describes Ukraine's transformation from an underfunded Soviet-legacy force to a 960,000-person defense force integrating UAVs as a universal fires platform, driven by civil society and a burgeoning private defense industry that rapidly iterates equipment based on frontline feedback. The vulnerability of globalized defense supply chains (Chinese magnets, Russian titanium, Indian cotton) highlights the need for Western governments to define "sufficient" rather than perfect equipment standards. The critical lesson: engaging civil society honestly creates political freedom to solve defense problems [13].
 
+## Russian Blood and Treasure
+
+[CSIS]({{ site.baseurl }}/actors/authors/csis.html) (Seth G. Jones and Riley McCabe) provides the most comprehensive data-driven assessment of Russian battlefield performance. Between February 2022 and June 2026, Russian forces suffered approximately 1.4 million battlefield casualties (killed, wounded, and missing) and between 400,000 and 450,000 fatalities. These rates are historically unprecedented: Russian fatalities in Ukraine are more than four times greater than all US fatalities in all wars combined since World War II, and more than nine times greater than all Soviet and Russian fatalities in all wars combined since World War II. In 2026, Russia's monthly casualty rates of 30,000-34,000 likely exceeded its recruitment rate of approximately 27,000 new recruits per month. The Russia-Ukraine casualty ratio has risen to nearly 8:1 in the first half of 2026, up from 2:1 to 3:1 for much of the war, largely due to Ukraine's use of AI-enabled drones [14].
+
+Russian rates of advance have been among the slowest in any war over the last century: approximately 50 meters per day around Kostiantynivka, 70 meters per day around Pokrovsk, and 90 meters per day around Sloviansk. Russia's territorial control in Ukraine *shrank* in spring 2026, with a net loss of roughly 400 square kilometers in April and May — the first monthly net losses since August 2024. Russia currently controls approximately 118,000 square kilometers (about 20% of Ukraine) [14].
+
+CSIS identifies Ukraine's AI-enabled Hornet drone as a transformative system: a one-way autonomous attack drone costing roughly $6,000 with a range of up to 150 km, using AI to analyze live video feeds, identify targets, detect decoys, and strike during the terminal phase without requiring a satellite connection. Over 90% of Russian casualties are from drone attacks rather than human-to-human engagements [14].
+
+## Ukraine's Accelerating Strike Campaign
+
+[ISW]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) documents the intensification of Ukraine's coordinated long- and intermediate-range strike campaigns since March 2026. Ukrainian forces struck 22 Russian oil refineries between January and June 30, 2026, hitting targets as far as 2,000 km from the border. The campaign has caused severe gasoline shortages across Russia: approximately 78 of 83 federal subjects have experienced fuel shortages, with 48 imposing official purchasing limits. Putin confirmed a complete ban on gasoline and jet fuel exports and is considering a diesel export ban [15].
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) reports that Ukraine claimed to have shut down more than 42% of Russia's oil output by early July, with other analysts estimating closer to one third. In June alone, Ukraine attacked 11 refineries plus ancillary oil targets. Key July strikes include the Slavyansk-na-Kubani refinery, the Ufa refinery complex (~1,300 km from the front), Lukoil-Nizhegorodorgsintez (Russia's fourth-largest refinery and second-largest gasoline producer), and the St. Petersburg oil terminal and Vysotsk port on the Baltic. The compounding spiral: more Ukrainian attacks at greater range → decreased Russian oil revenue → reduced fiscal capacity → strained war economy [16].
+
+O'Brien cautions against assuming a Russian counter is coming. The adaptation cycle for long-range strike and air interception has been considerably longer than for small, short-range drones. There is no sign of new Russian interception systems or the ability to greatly increase anti-air production. Even densely protected areas like Moscow are not invulnerable [16].
+
+## Sanctions Fraudulence and the Kiel Report
+
+O'Brien documents that [India]({{ site.baseurl }}/actors/countries/india.html) is "gorging" on Russian oil — June 2026 purchases hit record highs despite US sanctions supposedly reactivated on June 17. The Indian government has stated it will continue buying Russian oil regardless of US sanctions status. China has never paid much attention to Trump's sanctions. The US is "so weak" that major states calculate Trump will never actually enforce sanctions against Putin's customers [16].
+
+The [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html) report "Endgame: The State of the Russian Economy" concludes that Russia's macro stance is "not sustainable." High interest rates stifle the economy while loose fiscal policy props up defense. The Q1 2026 budget deficit exceeded the full-year target in three months. The liquid portion of the sovereign wealth fund has shrunk from 6.5% to 1.8% of GDP. With fiscal buffers spent, Russia's war capacity is directly coupled to hydrocarbon export income — creating a structural vulnerability that Ukraine's strike campaign is actively exploiting [16][17].
+
+## Preparing for Russian Defeat
+
+[The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) argues that the West must prepare for a Russian defeat — not as a prediction but as a scenario whose probability has moved from fringe to serious. Russia's 1.4 million casualties, recruitment shortfall, net territorial loss, and economic fragility (5.9 trillion ruble deficit in four months, sovereign wealth fund at 1.8% of GDP, oil refining capacity down 38%) have made defeat a possibility no longer ignorable [18].
+
+The preparation agenda echoes the 1991 Nunn-Lugar program: (1) secure Russia's ~1,800 strategic warheads pre-negotiated channels, ideally including [China]({{ site.baseurl }}/actors/countries/china.html) and [India]({{ site.baseurl }}/actors/countries/india.html); (2) decide in advance which borders and authorities to recognize if the Federation fragments; (3) keep Russian weapons scientists employed to prevent proliferation; (4) define what "victory" means for Ukraine and Europe — a Russia that loses this war and cannot start the next [18].
+
 # Citations
 
 [1] https://substack.com/@velinatchakarova/p-204418261
@@ -95,3 +123,13 @@ Dr. Jack Watling (RUSI) describes Ukraine's transformation from an underfunded S
 [12] [Russia's Resettlement Strategy in Occupied Ukraine](https://understandingwar.org/research/russia-ukraine/russias-resettlement-strategy-in-occupied-ukraine/)
 
 [13] [Talking Strategy #100: Ukraine's Adaptation with Dr. Jack Watling](https://traffic.libsyn.com/secure/forcedn/cead6627-d7c0-4f81-bec6-f79d589b6745/260612_TS_Jack_W_Ukraine_V2.mp3)
+
+[14] [Russian Blood and Treasure: The Ballooning Costs of Putin's War](https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war)
+
+[15] [Ukraine's Strike Campaigns Will Likely Continue to Hurt Russia's Economy and Military Operations in Ukraine](https://understandingwar.org/research/russia-ukraine/ukraines-strike-campaigns-will-likely-continue-to-hurt-russias-economy-and-military-operations-in-ukraine/)
+
+[16] [Weekend Update #192: Can Russia Counter?](https://phillipspobrien.substack.com/p/weekend-update-192-can-russia-counter)
+
+[17] [Endgame: The State of the Russian Economy](https://www.kielinstitut.de/publications/endgame-the-state-of-the-russian-economy-19855/)
+
+[18] [The West Needs to Prepare for a Russian Defeat in Ukraine](https://www.thecipherbrief.com/the-west-needs-to-prepare-for-a-russian-defeat-in-ukraine)

@@ -5,7 +5,7 @@ parent: Countries
 description: Gulf monarchy mediating between Iran and the US through Pakistan, deploying Pakistani troops and Chinese jets while negotiating a non-aggression pact
 tags: [country, energy, military, middle-east]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -26,6 +26,10 @@ Saudi Arabia has deployed Pakistani troops and Chinese jets as part of a militar
 
 Saudi Arabia's limited pipeline bypass capacity (via Yanbu on the Red Sea) proved structurally insufficient to compensate for the Hormuz disruption. The bypass can redirect only a fraction of the volumes that transit through Hormuz, confirming that no alternative route can absorb the chokepoint's throughput [2].
 
+## Saudi Realism and Houthi Pressure
+
+Saudi Arabia closed its airspace (along with Kuwait) when [Trump]({{ site.baseurl }}/actors/trump.html) wanted to conduct more aggressive operations in April 2026 — a notable refusal from a state that had been pro-war before the bombing started. [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) and Joe Kent identify a Saudi shift toward realism: having seen the limitations of American power, the Saudis may return to a traditional hedging posture. The Houthis are demanding money from Saudi Arabia for Red Sea transit — essentially payment for not attacking Saudi oil. Saudi intelligence may be distributing cash to tribal factions within the Houthi alliance to keep attacks targeted at Israel rather than Saudi infrastructure. The growing Saudi-[Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html) relationship — including Pakistani troops in Saudi Arabia — signals eroding US influence, as Saudi Arabia uses Pakistani tribal fighters as mercenaries [3].
+
 # Analysis
 
 [The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) frames Saudi-Iran negotiations through Pakistan as part of a broader tectonic shift in geopolitics — the recognition that the US security umbrella is no longer reliable and that regional powers must negotiate their own stability. The involvement of [China]({{ site.baseurl }}/actors/countries/china.html) and [Russia]({{ site.baseurl }}/actors/countries/russia.html) as backers of these talks signals the end of the US monopoly on Middle East security architecture [1].
@@ -35,3 +39,5 @@ Saudi Arabia's limited pipeline bypass capacity (via Yanbu on the Red Sea) prove
 [1] [The World Beyond Hormuz](https://thehonestsorcerer.substack.com/p/the-world-beyond-hormuz)
 
 [2] [The New Gulf War: Epic Fubar Goes Global](https://thehonestsorcerer.substack.com/p/the-new-gulf-war-epic-fubar-goes)
+
+[3] [Live with Prof Robert Pape and Joe Kent](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-and-joe-244)

@@ -11,7 +11,7 @@ tags:
   - sanctions
   - middle-east
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -163,6 +163,28 @@ The dynamic Aurelien identifies is "backwards logic from desired outcome to nece
 
 Aurelien places this pattern alongside Operation Barbarossa (1941), the Iraq invasion (2003), and the Falklands (1982) as cases where the wished-for political outcome generated a chain of necessary false assumptions about the effectiveness of military action. The common thread: the desired outcome determines the intelligence assessment, rather than the intelligence assessment determining the feasible outcome [21].
 
+## The Funeral and the Coming August Shock
+
+The [funeral of Iran's Supreme Leader]({{ site.baseurl }}/events/supreme-leader-funeral-2026.html) produced perhaps the largest public mobilization in the history of the Islamic Republic, with millions filling the streets chanting "Kill Trump" and "Revenge." Pape argues this is not a political spectacle but a strategic shift: massive nationalist mobilization changes Tehran's bargaining position by increasing the political costs of moderation. Leaders confronting millions demanding payback are less likely to concede [25].
+
+The funeral has enabled a new, more ambitious Iranian war aim: using the political momentum to weaken and ultimately end the permanent American military presence in the Gulf. Iran is appealing directly to Gulf monarchies — the future security of Bahrain, Kuwait, [Qatar]({{ site.baseurl }}/actors/countries/qatar.html), the [UAE]({{ site.baseurl }}/actors/countries/uae.html), and [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) depends not on larger American deployments but on reducing them. Iran's July 4 announcement of "special treatment" for friendly states under a new maritime fee structure extends this logic economically [25].
+
+Pape forecasts that August could become the decisive month of the war. The [SPR]({{ site.baseurl }}/events/spr-depletion-crisis.html) had fallen to 326 million barrels as of June 19, approaching its operational floor of ~243 million barrels by mid-to-late August — precisely as hurricane season threatens Gulf Coast production. By August, Iran is likely to possess three forms of leverage simultaneously: growing nationalist confidence, continuing Hormuz influence, and an opponent with diminishing economic room. The greatest danger is that both Washington and Tehran conclude they cannot afford to let the other enter September with greater leverage — when both sides believe time favors immediate action, confrontation probability rises sharply [25].
+
+## Lebanon and Horizontal Escalation
+
+Pape and Joe Kent identify Lebanon as a critical pressure point. A parallel US-Israel deal in Lebanon undermines the MoU with Iran — the two documents became contradictory. Kent calls US intervention in Lebanon "absurd" and warns that Houthi attacks in the Red Sea targeting Saudi oil would be a major game-changer, significantly worsening the economic impact. The administration operates with a "2005-era mentality" where America can dictate outcomes [26].
+
+Kent advises Trump to militarily restrain [Israel]({{ site.baseurl }}/actors/countries/israel.html) by cutting significant chunks of aid — providing maximum space for the MoU to work, resetting the US-Israel relationship, and signaling seriousness to Iran. The apparent division between VP Vance pushing for the MoU and Secretary Rubio undermining it is a genuine internal conflict, not a "good cop, bad cop" strategy [26].
+
+## Israel's Long-Term Goal
+
+Kent reveals that [Israel]({{ site.baseurl }}/actors/countries/israel.html)'s long-term goal for [Iran]({{ site.baseurl }}/actors/countries/iran.html) is complete regime change toward a secular, business-friendly government. In the short term, Israel views a chaotic Iran — potentially fracturing into ethnic states — as beneficial, despite the disaster it would cause for the US. Israel always saw this as a long war, aiming to entangle the US. The nuclear issue was a pretext used by Israel to draw the US into a war to neutralize Iran, a country Israel couldn't defeat alone [26].
+
+## China Benefiting from US Distraction
+
+Kent asserts that [China]({{ site.baseurl }}/actors/countries/china.html) is exponentially benefiting from the conflict, positioning itself as a more appealing partner to Middle Eastern states by offering deals instead of regime change. The war erodes US security guarantees and the petrodollar system, demonstrating US limitations to the world and bolstering China's position in [great power competition]({{ site.baseurl }}/themes/great-power-competition.html), including regarding [Taiwan]({{ site.baseurl }}/conflicts/taiwan-standoff.html) [26].
+
 ## Escalation Pathways
 
 Pape identifies commercial shipping as the key escalation pathway. Hormuz remains open not because the US forced it open, but because Iran permits it — and Iran can withdraw that permission at any time [5]. Iran's three conditions for sustained passage are: release of $12 billion in frozen assets, an end to Israeli operations in Lebanon, and a reduction of US military presence in the region [5].
@@ -218,3 +240,7 @@ Pape warns that August could become the most dangerous month for the global econ
 [23] [America Between an Ally and an Adversary](https://geopoliticalfutures.com/america-between-an-ally-and-an-adversary/)
 
 [24] [Suspicious Transaction Report: Iran's External Operations with Matthew Levitt](https://traffic.libsyn.com/secure/forcedn/suspicioustransactionreport/260605_STR_Matthew_Levitt_V1.mp3)
+
+[25] [The Gathering Storm: Iran's Funeral and the Coming August Shock](https://escalationtrap.substack.com/p/the-gathering-storm-irans-funeral)
+
+[26] [Live with Prof Robert Pape and Joe Kent](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-and-joe-244)

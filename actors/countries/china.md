@@ -5,7 +5,7 @@ parent: Countries
 description: China as a geopolitical actor — coordinating national AI strategy, encircling Taiwan, investing across Central Asia, anchoring the DragonBear axis, and turning toward Maoist ideological mobilization to manage economic slowdown
 tags: [country, military, ai, technology, energy, trade, indo-pacific, central-asia, ideology, economics]
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -72,6 +72,10 @@ Xi's revival of the "Fengqiao experience" — a Mao-era method (1963) for contai
 
 The parallels with Mao are structural: emphasis on ideology, centrality of the party, significance of unity under a strong leader, distrust of unchecked bureaucratic autonomy. The key difference is that Xi leads through a highly institutionalized party-state that prioritizes order and administrative control, whereas Mao ruled through mass mobilization and class struggle. The likely outcome is a "mixed" system in which ideological tightening coexists with pragmatic economic management — not Maoism restored, but ideology as a stabilizing force during structural economic stress [8].
 
+## Benefiting from US Distraction
+
+Joe Kent, in conversation with [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html), asserts that China is "exponentially benefiting" from the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), positioning itself as a more appealing partner to Middle Eastern states by offering deals instead of regime change. The war erodes US security guarantees and the petrodollar system, demonstrating US limitations to the world and bolstering China's position in [great power competition]({{ site.baseurl }}/themes/great-power-competition.html), including regarding [Taiwan]({{ site.baseurl }}/conflicts/taiwan-standoff.html) [15].
+
 # Analysis
 
 China's strategic position is defined by coordinated action across domains where the US struggles to maintain coherence: AI military integration, maritime grey-zone operations, and resource investment in Central Asia. The DragonBear axis provides a force multiplier, allowing Beijing and Moscow to apply synchronized pressure on the Western coalition. However, China's growth model faces inherent limits that constrain its long-term trajectory.
@@ -107,3 +111,5 @@ Tooze identifies the "gear-shift in Chinese economic policy" as one of four disr
 [13] [Lessons-learned with Chinese Characteristics: Understanding the Limits of PLA Efforts to Adapt to Contemporary Warfare](https://understandingwar.org/research/china-taiwan/lessons-learned-with-chinese-characteristics-understanding-the-limits-of-pla-efforts-to-adapt-to-contemporary-warfare/)
 
 [14] [China Makes Its Move in Bangladesh](https://geopoliticalfutures.com/china-makes-its-move-in-bangladesh/)
+
+[15] [Live with Prof Robert Pape and Joe Kent](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-and-joe-244)

@@ -9,7 +9,7 @@ tags:
   - trade
   - supply-chain
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -130,6 +130,14 @@ Economic losses from climate disasters averaged $267bn/year (2015-2024), reachin
 
 The implication for [energy and resources]({{ site.baseurl }}/themes/energy-and-resources.html) is dual: the energy transition is urgent but the materials required for it ([critical minerals]({{ site.baseurl }}/themes/critical-minerals.html)) are themselves energy-intensive to extract and environmentally devastating to process — creating a feedback loop where the cure and the disease consume the same resources.
 
+## Infinite Growth Delusions and the Statistical Review
+
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) analyzes the 2025 Statistical Review of World Energy, finding that total energy supply increased by 1.7% — with solar accounting for the vast majority of growth. Despite solar's 8.7% share, all other energy use expanded in absolute terms, including fossil fuels. Coal, oil, and gas still accounted for 86% of all energy supplied. The "energy transition" has not started: wind and solar are additions to an ever-growing pile of carbon-based fuels, not replacements [20].
+
+The analysis identifies a structural trap in refinery optimization: by 1980, a quarter of each barrel was burned as fuel oil; refineries increasingly focused on gasoline and diesel at the expense of fuel oil, reducing fuel oil's share to 7% by 2018. This cannibalization left no room for future fuel switching — once all crude is refined to gasoline, diesel, jet, and bunker fuel, there is no oil left to substitute with other energy resources. Growth in transportation fuel supply has been capped at 1.5% per annum since 1980, closely following increases in crude oil supply. Since 2018, transportation fuel consumption has been essentially flat — the world economy has barely climbed back to where it was eight years ago [20].
+
+The EROI decline is accelerating: in 1980, every barrel of oil equivalent invested in drilling yielded 30 new barrels; this is now below 10. In 2024, 80% of global oil production and 90% of natural gas production came from fields that had passed their peak. The US EIA projects US oil production will peak at 14 million barrels per day in 2027 before rapidly declining. The Honest Sorcerer concludes: if oil production falls — whether due to wars or a global peak — the economy falls with it. Diesel fuel, the most valuable portion of the barrel, cannot be substituted with electricity at scale. Without diesel, there is no copper, zinc, nickel, silicon — or anything needed to make "renewables" [20].
+
 # Citations
 
 [1] [The Myth of American Energy Independence](https://thehonestsorcerer.substack.com/p/the-myth-of-american-energy-independence)
@@ -169,3 +177,5 @@ The implication for [energy and resources]({{ site.baseurl }}/themes/energy-and-
 [18] [What Happened in Fuel Markets When Trump Lifted the Century-Old Jones Act](https://www.wsj.com/business/logistics/what-happened-in-fuel-markets-when-trump-lifted-the-century-old-jones-act-199da395)
 
 [19] [The North Sea Debate Risks Missing the Point](https://www.rusi.org/explore-our-research/publications/commentary/north-sea-debate-risks-missing-point)
+
+[20] [Infinite Growth Delusions Continue — For Now](https://thehonestsorcerer.substack.com/p/infinite-growth-delusions-continue)

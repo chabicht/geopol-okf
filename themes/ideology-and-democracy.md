@@ -9,7 +9,7 @@ tags:
   - democracy
   - oligarchy
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -102,6 +102,10 @@ Applebaum's Kleptocracy Tracker documents the systematic monetization of preside
 
 The deeper ideological problem is the West's "soulless and unappealing liberal-technocratic managerial ideology" competing against states whose elites project "not just competence, but a genuine civilisational ideology, and are not self-mutilated by self-hatred." The West is losing ground to states with civilisational confidence — not because of hard power deficit but because of ideological vacuity. "All we have left now is money" [13].
 
+## Anticommunism as Political Weapon
+
+[Heather Cox Richardson]({{ site.baseurl }}/actors/authors/heather-cox-richardson.html) identifies [Trump]({{ site.baseurl }}/actors/trump.html)'s July 2026 pivot to anticommunist rhetoric as a sign of panic rather than confidence. Trump's Mt. Rushmore speech framed political opponents as "communists" — "the greatest threat to our country, including World War I, World War II, Pearl Harbor, or even 9/11" — a fabricated narrative constructed after the electoral success of Democratic Socialists in primary elections and the popularity of New York City Mayor Zohran Mamdani. Richardson notes the irony that it is Trump, not his opponents, who is taking government stakes in private enterprises — the actual definition of communism. She draws a careful distinction: Democratic Socialists embrace private enterprise alongside government provision of services like healthcare, education, and infrastructure — positions that echo Republican platforms from the 1860s through the Eisenhower era (91% top marginal tax rate in 1956). The conflation of Democratic Socialism with communism is a deliberate political strategy [15].
+
 # Citations
 
 [1] https://archive.ph/8FvBT
@@ -128,3 +132,5 @@ The deeper ideological problem is the West's "soulless and unappealing liberal-t
 [13] [Don't Expect Respect](https://substack.com/@aurelien2022/p-204269398)
 
 [14] [Can Americans Become Americans Again? A Question for July 4th](https://phillipspobrien.substack.com/p/can-americans-become-americans-again)
+
+[15] [July 5, 2026](https://heathercoxrichardson.substack.com/p/july-5-2026)

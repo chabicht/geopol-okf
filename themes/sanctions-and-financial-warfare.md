@@ -9,7 +9,7 @@ tags:
   - trade
   - supply-chain
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -29,6 +29,10 @@ The IRGC operates an oil-backed shadow banking system that circumvents the forma
 ## Sanctions Evasion as State-Criminal Nexus
 
 Russia, Iran, China, and North Korea increasingly outsource sanctions evasion to organised criminal networks — shadow fleets for oil transport, shell companies for procurement, and money laundering pipelines for proceeds. This creates a self-reinforcing cycle: as sanctions tighten, states deepen their reliance on criminal infrastructure, which in turn embeds criminal networks more deeply in the architecture of state power [3].
+
+## The Fraudulence of US Sanctions on Russia
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) documents that US sanctions on Russian oil are effectively unenforced. [India]({{ site.baseurl }}/actors/countries/india.html) — the best bellwether for sanctions seriousness — is "gorging" on Russian oil, with June 2026 purchases at record highs despite sanctions supposedly reactivated on June 17. The Indian government has explicitly stated it will continue buying Russian oil regardless of US sanctions status. [China]({{ site.baseurl }}/actors/countries/china.html) has never paid much attention to the sanctions, calculating rightly that Trump is "too afraid of them and too enamored of Putin to actually take any legitimate step." The result is a "free-for-all" for purchasers of Russian oil. Trump's Iran war generated an extra $15 billion for Russia while destroying any credibility of US sanctions. The loud voices proclaiming Trump would hit Russia hard now have nothing left to fall back on [4].
 
 # Key Dynamics
 
@@ -59,3 +63,5 @@ The erosion of sanctions effectiveness contributes to [Global System Rupture]({{
 [2] [Suspicious Transaction Report: Iran's External Operations with Matthew Levitt](https://traffic.libsyn.com/secure/forcedn/suspicioustransactionreport/260605_STR_Matthew_Levitt_V1.mp3)
 
 [3] [GSB Podcast: Organised Crime, Statecraft, and Geopolitics](https://traffic.libsyn.com/secure/forcedn/globalsecuritybriefing/260629_GSB_Organised_Crime_Cathy_H_V2.mp3)
+
+[4] [Weekend Update #192: Can Russia Counter?](https://phillipspobrien.substack.com/p/weekend-update-192-can-russia-counter)

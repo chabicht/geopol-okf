@@ -11,7 +11,7 @@ tags:
   - supply-chain
   - trade
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-06T00:00:00Z
 ---
 
 # Background
@@ -60,9 +60,15 @@ The AI military race extends into the diplomatic domain. See [Tech Stack Diploma
 
 The intersection of AI competition and [critical minerals]({{ site.baseurl }}/themes/critical-minerals.html) creates a volatile interdependency: the US restricts advanced chips, China restricts rare earths. Both are attempts to leverage control over critical inputs to shape the other's AI development trajectory [3].
 
+## Private vs State-Driven Innovation
+
+[Adam Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) identifies a fundamental political economy distinction between the AI boom and previous world-transforming technologies. The mid-century transformative technologies (nuclear, rockets) were under state control — Oppenheimer was who he was because of the Manhattan Project; von Braun served the state. AI, by contrast, harnesses the engineering talents of the world to privately developed technology, private money, and the "unfettered egos of tech entrepreneurs." The Pentagon intervenes ad hoc when it fears a new model may pose national security risks, but otherwise there is excitement about the wealth being generated and silence on broader implications. The BIS Annual Economic Report identifies the AI boom as endogenously generating a China-scale investment and credit boom, with the labor share of income potentially collapsing to 20% over the next forty years. Trillions of dollars are wagered on a vision of total disruption of familiar ways of living and working [5].
+
 # Citations
 
 [1] https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military
 [2] https://www.thecipherbrief.com/dni-day-one
 [3] [Tech Stack Diplomacy: Policy Implications of the U.S. AI Export Strategy](https://newlinesinstitute.org/tech-econ-sov-sec/tech-stack-diplomacy-policy/)
 [4] [The AI Kill Switch: Dangerous Chinese Open Source](https://cepa.org/article/the-ai-kill-switch-dangerous-chinese-open-source/)
+
+[5] [Chartbook 456: Alien v. Predator or MAGA meets AI](https://adamtooze.substack.com/p/chartbook-456-alien-v-predator-or)
