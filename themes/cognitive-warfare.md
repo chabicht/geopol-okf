@@ -7,8 +7,9 @@ tags:
   - cognitive-warfare
   - intelligence
   - cyber
+  - ai
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -54,6 +55,14 @@ Beyond the SDA's tactical operations, Russia is building a global media conglome
 
 [Kadyrov]({{ site.baseurl }}/actors/kadyrov.html) serves as a key instrument of Kremlin cognitive warfare targeting the Islamic world. His social media presence, elite interactions, and "holy jihad" narrative against the West have achieved mass media amplification across Indonesia, Saudi Arabia, and the Global South. His reported failing health threatens to create a strategic communications gap, though the broader Kremlin influence ecosystem will likely outlast any individual [3].
 
+## AI Transforming Cybersecurity
+
+Colibasanu (GPF) identifies a structural transformation in cyber conflict driven by AI. Cyberspace is evolving from a human-versus-human environment into a machine-versus-machine environment. AI enables attackers to automate reconnaissance, identify vulnerabilities, and launch attacks at unprecedented speed. AI-generated phishing campaigns can replicate the exact writing style, tone, and communication patterns of company executives — even technologically savvy employees may not distinguish them from genuine communications. Crucially, cybersecurity's weakest link has shifted from humans to AI agents themselves: firms are deploying AI agents for scheduling, data analysis, communications, coding, and operational management — potentially as many as 100 per employee. If compromised, these agents can move through systems, access sensitive information, and exfiltrate data at extraordinary speed [4].
+
+AI systems behave as "living code" — continuously evolving through updates, retraining, and interaction with new data environments, with outputs that change dynamically in real time. This creates a fundamentally different security paradigm from traditional software vulnerabilities. Cybersecurity can no longer rely solely on guardrails embedded during design; AI systems require ongoing runtime enforcement — constant monitoring and validation to ensure they remain within operational and security boundaries. Companies may need the digital equivalent of background checks for AI systems: AI supply chain reviews assessing whether models, training datasets, and third-party agents have been compromised or embedded with hidden vulnerabilities [4].
+
+The threat landscape spans three overlapping categories: states (using cyberspace for military advantage and intellectual property theft), criminal networks (professionalized through ransomware-as-a-service), and transnational groups (exploiting borderless cyberspaces for funds movement, law enforcement evasion, and AI-scaled disinformation). International cooperation remains limited — even allies hesitate to disclose capabilities, vulnerabilities, or intelligence sources. The next phase of the AI race may depend on access to the most advanced AI capabilities for cybersecurity: states and corporations with superior defensive AI systems will gain major strategic advantages, while actors with advanced offensive capabilities will possess new tools for espionage, coercion, and economic disruption [4].
+
 # Citations
 
 [1] https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris
@@ -61,3 +70,5 @@ Beyond the SDA's tactical operations, Russia is building a global media conglome
 [2] [The Kremlin's Expanding Media Conglomerate 2026](https://understandingwar.org/research/cognitive-warfare/the-kremlins-expanding-media-conglomerate/)
 
 [3] [Ramzan Kadyrov: The Kremlin's Messenger to the Islamic World](https://www.rusi.org/explore-our-research/publications/commentary/ramzan-kadyrov-kremlins-messenger-islamic-world)
+
+[4] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)

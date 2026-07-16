@@ -106,6 +106,14 @@ Government intervention is now substantial and accelerating. The US Department o
 
 The paradox of green technology is that it requires materials whose extraction is environmentally devastating. An electric car requires six times the mineral inputs of a conventional car; a wind plant requires nine times. Rare earth mining releases toxic chemicals (ammonium sulfate, ammonium chloride), radioactive materials (thorium, uranium), and heavy metals (cadmium, lead) into water and soil. Workers suffer skin irritation, respiratory, nervous, and cardiovascular system damage. The environmental and health costs are borne by communities that often receive none of the benefits of the technologies enabled by REEs — raising issues of both justice and purpose [8][9].
 
+## Resource Nationalism in Africa
+
+Wordsworth (GPF) reports that Africa's critical minerals boom is increasingly shaped by resource nationalism. Mineral-rich states are no longer content to export raw materials while value is captured elsewhere. Governments are pushing for higher royalties, larger state or local ownership stakes, domestic processing, and industrial linkages that keep more of the value chain at home. The African Union's Green Minerals Strategy explicitly argues that Africa must move beyond raw mineral exports and build value chains around job creation and industrialization [10].
+
+China is structurally better positioned to capitalize on this shift. Chinese mining companies are often state-backed, less beholden to immediate shareholder returns, and have higher risk tolerance. Because Africa's mining sector relies heavily on inputs manufactured in China, Chinese firms become natural partners for localization quotas. In Zimbabwe, a raw lithium export ban saw Chinese firms rapidly build refineries, compelling Western miners to rely on Chinese-owned infrastructure. In Ghana, the Green Minerals Policy increased royalties and set minimum state participation at 30%. In Mali, industrial gold production dropped 23% in 2025 following a dispute with Canadian miner Barrick Gold [10].
+
+Western firms face ESG obligations and industry safety standards that Chinese companies often ignore, drastically increasing long-term investment risk and compressing profit margins. If mishandled by host governments, localization drives risk devolving into political rent-seeking — contracts awarded to connected elites and foreign actors willing to bypass ethical norms. However, opportunities exist for firms that can deliver processing, refining, logistics, machinery servicing, and energy supply in partnership with local partners. Increased demand for processing and refining opens opportunities in the historically power-poor continent [10].
+
 # Citations
 
 [1] https://geopoliticalfutures.com/what-investments-say-about-central-asia/
@@ -124,3 +132,5 @@ The paradox of green technology is that it requires materials whose extraction i
 [8] [Not So "Green" Technology: The Complicated Legacy of Rare Earth Mining](https://archive.ph/55ZSL)
 
 [9] [China Wrestles with the Toxic Aftermath of Rare Earth Mining](https://e360.yale.edu/features/china-wrestles-with-the-toxic-aftermath-of-rare-earth-mining)
+
+[10] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)

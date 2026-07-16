@@ -2,8 +2,8 @@
 type: Actor
 title: Russia
 parent: Countries
-description: Russia as a geopolitical actor — waging war in Ukraine, managing Chechnya's succession risk, projecting power in Africa, conducting cognitive warfare against the West, attempting to revitalize the CSTO, and losing its grip on its southern flank from the Black Sea to Central Asia
-tags: [country, military, cognitive-warfare, energy, sanctions, europe, caucasus, africa, central-asia]
+description: Russia as a geopolitical actor — waging war in Ukraine, managing Chechnya's succession risk, projecting power in Africa, conducting cognitive warfare against the West, attempting to revitalize the CSTO, losing its grip on its southern flank, and facing logistics vulnerabilities under sanctions
+tags: [country, military, cognitive-warfare, energy, sanctions, europe, caucasus, africa, central-asia, supply-chain]
 status: ongoing
 timestamp: 2026-07-15T00:00:00Z
 ---
@@ -86,6 +86,12 @@ Moscow had hoped to independently build its own technology sector, but brain dra
 
 Despite these challenges, the defense industry continues to fuel production, and the central bank notes no sharp rise in unemployment or decline in household income. Poor economic trends and rising public discontent could be the first sign that the Kremlin is finally feeling the economic costs of the war [17].
 
+## Russian Logistics Under Sanctions
+
+Ekaterina Zolotova (GPF) reports that despite sanctions, Russian seaport cargo traffic actually increased due to trade reorientation to the Asia-Pacific, Middle East, Africa, and Latin America. Cargo turnover increased by 18% in the Far East, 6% in the Baltic Sea, and 3% in the Azov-Black Sea basin over the past seven years. The Arctic basin was the exception, declining 16% due to falling dry cargo volumes. However, these increases did not always translate to net benefit — eastern ports are smaller with shoddier infrastructure. In 2025, Russian Railways entered full-blown crisis amid a slowing economy, falling demand, debt, and sanctions, requesting emergency government assistance of 200 billion rubles ($2.8 billion) to cover operating expenses. Cargo traffic along the Northern Sea Route dropped in 2025 due to declines in bulk cargo and LNG, shortage of specialized fleets, and restrictions on icebreaker support [18].
+
+The Kremlin has emphasized "transport sovereignty" for sustainable access to friendly markets, but foreign lines not controlled by Russian principals still transported 45% of container turnover in the Far East, 75% in the Baltic basin, and 80% in the Azov-Black Sea basin in 2025. Proposed measures to increase control include invalidating certain transactions, overtaking assets, and banning foreign companies from regular container shipments. New icebreaker funding proposals — a port fee of $0.20 per ton on all export cargo or $0.40-$2.75 per ton on the Northern Sea Route until 2035 — would increase shipping costs and undermine the economic interest of shippers. For international businesses, Russia remains attractive as a relatively large, unsaturated market and a waypoint to Asia-Pacific, but companies participating in or relying on logistics face significant risk [18].
+
 # Analysis
 
 Russia's strategic position is paradoxical: deeply committed in Ukraine, facing succession risk in Chechnya, losing ground in Africa, yet successfully exploiting Western energy dependencies and conducting effective cognitive warfare. The DragonBear axis provides critical support, but Russia's ability to sustain multiple theaters is increasingly constrained by the prioritization demands of the Ukraine war.
@@ -125,3 +131,5 @@ Russia's strategic position is paradoxical: deeply committed in Ukraine, facing 
 [16] [The West Needs to Prepare for a Russian Defeat in Ukraine](https://www.thecipherbrief.com/the-west-needs-to-prepare-for-a-russian-defeat-in-ukraine)
 
 [17] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
+
+[18] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)

@@ -57,6 +57,14 @@ The UK political debate over new North Sea drilling is symbolic rather than subs
 
 Colibasanu (GPF) provides detailed data on the Strait of Hormuz's throughput and the limits of bypass options. Nearly 15 million barrels of crude oil per day and more than 112 billion cubic meters of LNG passed through Hormuz in 2025. Most of these exports — including some 90% of LNG — are destined for Asia. [Europe]({{ site.baseurl }}/regions/europe.html)'s direct exposure is smaller but still significant: Hormuz-transited LNG accounts for roughly 7% of Europe's total LNG imports. Alternate crude export capacity is estimated at only around 3.5-5.5 million bpd, while spare Saudi and Emirati pipeline capacity is closer to 2.6 million bpd — meaning even partial restrictions on Hormuz quickly raise the cost of diesel, bunker fuel, fertilizer, refrigeration, and food transportation. In aviation, Europe's domestic refining capacity has fallen 16% over the past 25 years, and around 75% of Europe's jet fuel imports come from the Gulf. The IEA warned Europe could face a jet fuel shortage by June if replacement flows remained low [21].
 
+## ASEAN Energy Coordination
+
+Herczegh (GPF) reports that Indonesia has proposed an [ASEAN]({{ site.baseurl }}/actors/organizations/asean.html)-wide oil storage hub as a strategic reserve mechanism, recognizing the region's structural vulnerability to Middle East energy shocks and maritime chokepoints. The initiative would create leverage in negotiations with suppliers, refiners, and logistics operators while reducing dependence on external powers. ASEAN's broader strategy combines reserve building with the ASEAN Power Grid, renewable expansion, and cross-border electricity trade — Laos' growing role as a regional electricity exporter illustrates how energy interdependence is becoming institutionalized. Ports in western Indonesia could emerge as strategic energy nodes linking the Indian Ocean and Pacific supply chains. The proposal would not eliminate ASEAN's dependence on Middle East imports but would significantly strengthen resilience [22].
+
+## Venezuela's Oil Sector Reopening
+
+Friedman (GPF) reports that Venezuela is reopening its oil sector under heavy US pressure, with deals signed by Chevron, SBP, Shell, Eni, Maurel & Prom, SLB, and Repsol focusing on the Orinoco Belt and Monagas state. The primary US objective is rapid restoration of an orderly oil industry. However, the country's institutional weakness — fragmented governance, Maduro-era appointees, weak rule of law — means that rebuilding a functioning state capable of enforcing contracts and regulating investment will likely take years. For energy markets, Venezuela's partial return adds potential supply, but the pace and reliability of production growth remain deeply uncertain [22].
+
 # Key Dynamics
 
 - **Resource depletion is exponential**: Beyond a certain point, more energy is needed to extract the same amount of material. Mines close not because nothing is left but because the high-grade ore is gone. Technological innovation that enables extraction from lower-grade deposits becomes a trap — running faster to stay in place.
@@ -185,3 +193,5 @@ The EROI decline is accelerating: in 1980, every barrel of oil equivalent invest
 [20] [Infinite Growth Delusions Continue — For Now](https://thehonestsorcerer.substack.com/p/infinite-growth-delusions-continue)
 
 [21] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
+
+[22] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)

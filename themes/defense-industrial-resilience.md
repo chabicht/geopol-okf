@@ -50,6 +50,14 @@ Davidson argues that the defense industry can expect structural realignments dri
 
 The broader implication is that the [AI military race]({{ site.baseurl }}/themes/ai-military-race.html) is not only about models and deployment speed but about the energy infrastructure that powers AI systems. A military that cannot guarantee stable, scalable power to its data centers cannot field AI-enabled defense capabilities — no matter how advanced its models. The energy-cyber bottleneck is the physical substrate of the AI competition, and it is currently underinvested relative to the attention devoted to model development and chip fabrication [1].
 
+## AI and Cybersecurity Convergence
+
+Colibasanu (GPF) identifies a structural transformation at the intersection of AI and cybersecurity that directly affects defense industrial resilience. Cyberspace is evolving from a human-versus-human environment into a machine-versus-machine environment. AI enables attackers to automate reconnaissance, identify vulnerabilities, and launch attacks at unprecedented speed. AI-generated phishing campaigns can replicate the exact writing style of company executives — even technologically savvy employees cannot distinguish them. The weakest link has shifted from humans to AI agents themselves: firms could soon deploy as many as 100 AI agents per employee, and if compromised, these agents can exfiltrate data at extraordinary speed [2].
+
+AI systems behave as "living code" — continuously evolving through updates, retraining, and interaction with new data, with outputs that change dynamically. Cybersecurity can no longer rely solely on guardrails embedded during design; AI systems require ongoing runtime enforcement and constant monitoring. Companies may need the digital equivalent of background checks for AI systems — AI supply chain reviews assessing whether models, training datasets, and third-party agents have been compromised. The next phase of the AI race may depend on access to the most advanced AI capabilities for cybersecurity: states and corporations with superior defensive AI systems will gain major strategic advantages [2].
+
 # Citations
 
 [1] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
+
+[2] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)

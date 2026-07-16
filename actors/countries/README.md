@@ -36,3 +36,5 @@ permalink: /actors/countries/
 * [Egypt](egypt.html) - Self-styled Middle East mediator with diminishing diplomatic leverage, constrained by economic weakness
 * [Bangladesh](bangladesh.html) - Strategic player in the Bay of Bengal pursuing multi-alignment among China, India, and the US
 * [Nigeria](nigeria.html) - Africa's most populous state exercising bounded agency under US coercive pressure, navigating religiously divided politics ahead of 2027 elections
+* [Vietnam](vietnam.html) - China+1 manufacturing hub pursuing multi-alignment between the US and China, with semiconductor ambitions and rare earth partnerships
+* [Venezuela](venezuela.html) - Post-Maduro state reopening to international business under heavy US pressure, constrained by institutional weakness
