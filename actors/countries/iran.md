@@ -66,6 +66,18 @@ Iran is unlikely to relinquish its regional position without a fight, particular
 
 Iran's network of proxies and surrogates constitutes a core instrument of its [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) strategy. The IRGC is an enabler of Iran's distributed networks with global reach — projecting power, coercing neighbors, and getting inside the decision space of adversaries at relatively low cost. Iraqi militias have proven the most consistent direct threat to U.S. forces, responsible for more than 180 attacks on U.S. bases in the 18 months before the war began. Deeply embedded in [Iraq]({{ site.baseurl }}/actors/countries/iraq.html)'s official security architecture, they emerge from the war with greater public standing and strategic importance, their relative weight within Iran's proxy network having grown as Hizballah and Hamas absorbed losses [14].
 
+## From Survival to Revenge
+
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) tracks Iran's political objectives through three expanding phases in the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html):
+
+1. **Survival** (Feb–Mar 2026): After decapitation of much of the senior leadership, Tehran's overriding goal was preserving the regime and preventing military collapse.
+2. **Ambition** (Apr–Jun 2026): Once Iran demonstrated it could contest Hormuz, it used leverage to pursue a new regional security order centered on Iranian influence from Lebanon through Iraq and the Gulf to Yemen and the Red Sea.
+3. **Revenge** (Jul 2026–): The new Supreme Leader Mojtaba Khamenei issued a nationally broadcast statement: "We pledge to avenge your pure blood and the blood of all the martyrs of these two wars... Soon individuals among the freedom-seekers across the world will each carry out part of this divine mission." The Intelligence Ministry released an official decree stating vengeance is "a national demand." The statement went viral on social media and directly triggered a high-stakes digital confrontation with [Trump]({{ site.baseurl }}/actors/trump.html) [15].
+
+Pape, drawing on 25 years of suicide terrorism research, identifies this as a classic **call to action** — structurally similar to Ayatollah Khomeini's 1989 fatwa against Salman Rushdie, which produced attacks and deaths for decades. The key difference: the strategic implications are significantly greater. The US has inflicted the equivalent of three 9/11s on Iran (relative to population). Millions filled the streets beneath red flags symbolizing blood revenge — "not just the people doing this, it cannot be manipulated. You have the Supreme Leader essentially legitimating it" [15].
+
+Revenge does not replace survival and ambition; it adds a third political objective that leaders must satisfy even when doing so increases escalation risk. Every US bombing campaign kills more Iranians who are then portrayed as martyrs, strengthening the legitimacy of the revenge call. This creates a self-reinforcing spiral: the more the US escalates, the more revenge is demanded, and the more revenge attacks occur, the more the US public supports the war [15].
+
 # Analysis
 
 Iran's post-war position demonstrates the limits of conventional military power against a geographically entrenched adversary with asymmetric leverage. The [energy dimension]({{ site.baseurl }}/themes/energy-and-resources.html) is central: Iran's control over Hormuz gives it influence over global oil and LNG flows that no amount of US military superiority has been able to neutralize. The [ceasefire MoU]({{ site.baseurl }}/events/iran-ceasefire-mou.html) institutionalized an outcome that favors Iran's long-term strategic position.
@@ -105,3 +117,5 @@ Two theories of victory clashed: the U.S. and Israel wanted surrender and collap
 [13] [Outgunned, But Not Outplayed: Iran's Theory of Victory](https://warontherocks.com/outgunned-but-not-outplayed-irans-theory-of-victory/)
 
 [14] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)
+
+[15] [Live with Prof Robert Pape: Is Stage 3 Coming](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-is-stage)

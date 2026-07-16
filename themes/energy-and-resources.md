@@ -73,6 +73,22 @@ During the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), th
 
 The implication is that the [Hormuz ceasefire collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) will do less economic damage than expected — not because Hormuz is stable but because the binding constraint has shifted from crude supply to refining capacity. A true reopening of the Strait would make more crude available, but the world lacks the capacity to turn that crude into usable products in the short run. The consumer price of oil has remained far above pre-war levels even when crude prices nearly returned to normal — high consumer prices kept demand depressed, which in turn depressed crude demand. Expect the pain at the pump to continue and inflation to remain sticky [23].
 
+## Mining and Renewable Energy Impossibility
+
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) argues that mining — the physical process of extracting metals from Earth's crust — cannot be electrified or made sustainable, undermining the core premise of the renewable energy transition [24]:
+
+**Diesel dependency**: Mining is powered almost entirely by diesel fuel — harvesting machines, bulldozers, road-building equipment, haul trucks, and excavators. There are no power plugs in remote mining sites. The process requires explosives to blast away covering rock, diesel trucks to haul ore, electric grinding machines (powered by fossil-fuel plants) to crush it, and chemicals like sulfuric acid (an oil-refining byproduct) to leach metal content. The result is toxic tailings — environmental contamination on an industrial scale.
+
+**Electric truck impracticalability**: Electric dumper trucks work only when loaded downhill and empty uphill (regenerative braking recharges batteries). Open-pit mines require the opposite: driving down empty and climbing back loaded. Installing solar/wind arrays near pits means trucks spend half their time charging. Swapping batteries multiplies investment cost 2–4x. Mines are often hundreds of miles from the nearest power plant.
+
+**Resource cannibalism**: Electrifying mining equipment would require building copper, lithium, cobalt, and other "transition" metals into the very equipment used to obtain them — then replacing them several times over the mine's life cycle. Mining would actively compete for the very metals being extracted. The same applies to long-distance transportation from mine to refinery. "Not a winning proposition."
+
+**Ore degradation**: As rich deposits deplete, the industry pursues ever-lower ore grades — requiring more energy per ton of metal. Chile's copper production saw electricity demand increase 53.5% between 2015 and 2026, while production grew only 7.5%. The rock-to-metal ratio for rare elements can reach 100,000:1 or even 100,000,000:1. Energy cannibalism gets exponentially worse with time.
+
+**Long-term trajectory**: Without enough diesel, iron ore (93% of all metals mined) cannot be hauled from beneath miles of overburden. No diesel → no coal → no steel → no manufacturing → no complex society. Once large-scale fossil fuel extraction ends, descendants will return to charcoal for scrap metal processing — causing rapid deforestation and drastic production decline. Over 90% of materials in circulation today could be lost during the long descent. "Dark ages after collapse are usually not due to a loss of human intelligence, but to a loss of complexity."
+
+The article pays tribute to Simon Michaud, geologist and mining engineer, whose studies document the material impossibility of the energy transition at scale [24].
+
 # Key Dynamics
 
 - **Resource depletion is exponential**: Beyond a certain point, more energy is needed to extract the same amount of material. Mines close not because nothing is left but because the high-grade ore is gone. Technological innovation that enables extraction from lower-grade deposits becomes a trap — running faster to stay in place.
@@ -205,3 +221,5 @@ The EROI decline is accelerating: in 1980, every barrel of oil equivalent invest
 [22] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
 
 [23] [Suddenly, Hormuz is Less Crucial Than It Was](https://paulkrugman.substack.com/p/suddenly-hormuz-is-less-crucial-than)
+
+[24] [We Are Not Mining with Renewable Energy](https://thehonestsorcerer.substack.com/p/we-are-not-mining-with-renewable-104)
