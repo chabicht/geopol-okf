@@ -5,7 +5,7 @@ parent: Actors
 description: 45th and 47th President of the United States; central decision-maker in the 2026 US-Iran war and US-Russia policy.
 tags: [leader, military, trade, latin-america, oligarchy, europe, africa]
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -94,6 +94,14 @@ The May 2026 [Trump-Xi summit]({{ site.baseurl }}/events/trump-xi-summit-2026.ht
 
 Trump's July 2026 Mt. Rushmore speech framed political opponents as "communists" — "the greatest threat to our country, including World War I, World War II, Pearl Harbor, or even 9/11." He demanded the Senate end the filibuster and pass the SAVE America Act: "We will not lose an election for a hundred years." Richardson identifies this as panic rather than confidence — a fabricated narrative constructed after Democratic Socialist electoral successes. On July 4, hundreds of masked Patriot Front white supremacists marched in Washington, D.C.; the White House did not respond to queries about whether Trump condemns the march. Trump posted over 100 times on social media on July 5, attacking Democrats and boasting extravagantly [19].
 
+## Kleptocracy Tracker: June-July 2026 Update
+
+Applebaum documents the accelerating monetization of presidential power through July 2026. Key new items: Trump diverted funds from 900+ national projects to finance White House beautification; purchased $1M-$5M in Axon stock two weeks before ICE solicited a $220M taser contract; made ~$1.2 billion from crypto in one year ($500M from World Liberty Financial, $600M from his meme coin); planned 250 pardons for America's 250th birthday (attorneys report ~$2M per pardon); awarded a $500M no-bid White House ballroom contract to Clark Construction; Melania earned $10M+ from an Amazon documentary; made hundreds of stock purchases the day before pausing tariffs (S&P 500 soared ~10%); Gulf entities paid $300M+ to Trump's businesses; made 21,000 securities trades in his first year growing his account to $858M; nearly 1 million meme coin buyers lost $3.8 billion while Trump took $636M; Palm Beach Airport renamed Trump International (requiring royalty payments to his family) [20].
+
+## Lindsey Graham as Collaborator
+
+Applebaum frames [Lindsey Graham]({{ site.baseurl }}/actors/lindsey-graham.html) as the quintessential Trump-era politician — a man who shifted 180 degrees from calling Trump a "race-baiting, xenophobic, religious bigot" to becoming one of his most important defenders. Graham's need to be relevant at any cost exemplifies the broader pattern of institutional collaboration under Trump. His unexpected death in July 2026 prompted reflection on the cost of complicity [20].
+
 # Analysis
 
 ### The Leader-as-Decision-Maker Thesis
@@ -145,3 +153,5 @@ Applebaum's Kleptocracy Tracker provides the documentary record: the Qatari jet,
 [18] [Washington's Volatility and Taipei's Security](https://www.swp-berlin.org/publikation/washingtons-volatility-and-taipeis-security)
 
 [19] [July 5, 2026](https://heathercoxrichardson.substack.com/p/july-5-2026)
+
+[20] [The Quintessential Trump-era Politician](https://anneapplebaum.substack.com/p/the-quintessential-trump-era-politician)

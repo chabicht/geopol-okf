@@ -9,7 +9,7 @@ tags:
   - gray-zone
   - hybrid
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -58,6 +58,7 @@ The competition manifests across multiple domains simultaneously:
 - **Critical minerals and supply chains**: Control over the inputs to modern technology and military production constitutes a persistent vector of leverage [1].
 - **Energy chokepoints**: The [Hormuz]({{ site.baseurl }}/themes/energy-and-resources.html) crisis demonstrated how energy chokepoints serve as force multipliers for revisionist powers with geographic leverage [1].
 - **Cognitive warfare**: Russia's documented campaigns against Western societies, including operations designed to inflame social tensions through manufactured incidents, represent a hybrid warfare vector that operates below the threshold of armed conflict [6].
+- **Endless Warfare**: The [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) framework describes the adversary's persistent, long-term strategy — distinct from the gray zone and cognitive warfare that enable it. It encompasses weaponized negotiations, proxy and surrogate networks, cyber operations, and illicit financial networks. Countering it requires a network-centric strategy: identifying and prioritizing adversary networks, degrading institutional networks, and dismantling ambiguous networks [7].
 - **Hemispheric consolidation**: Latin America serves as a contest for spheres of influence where the axis seeks to erode the Monroe Doctrine assumption [2].
 
 # Citations
@@ -68,3 +69,5 @@ The competition manifests across multiple domains simultaneously:
 [4] https://warontherocks.com/a-claim-to-lead-a-hesitation-to-act-germanys-new-military-strategy/
 [5] https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military
 [6] https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris
+
+[7] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)

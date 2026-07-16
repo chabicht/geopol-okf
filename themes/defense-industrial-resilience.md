@@ -109,6 +109,12 @@ Military mobility should be understood as a network rather than a series of tran
 
 On the Black Sea sidelines, Romania, Bulgaria, and [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) expanded the Mine Countermeasures Black Sea Task Group mandate to include protection of critical undersea infrastructure — operationally significant for Romania's Neptun Deep offshore energy project. The NATO Engine aims to connect unused civilian and defense manufacturing capacity. Under the Drone Edge initiative, allies plan to invest more than $40 billion over five years in counter-drone capabilities [5].
 
+## Russian Force Generation as Industrial Mobilization Case Study
+
+Greg Whisler and Michael Kofman (War on the Rocks) document Russia's wartime force generation as a case study in defense industrial mobilization under sustained combat. Russia grew its deployed force from a small peacetime army to over 700,000 personnel — achieving nearly 200% growth in tank battalions and 400% growth in infantry battalions — while sustaining three years of casualty-intensive offensive operations. The expansion relied on a recruitment pipeline (~1.3 million contract soldiers), equipment refurbishment from storage stocks, and militarization of the economy. However, by 2025, force growth had halted as monthly recruitment was offset by losses, and rising regional bonuses became fiscally untenable — suggesting the expansion model has reached its limits [6].
+
+The paradox: Russia demonstrated a strong ability to generate and sustain forces — including high artillery and drone-fire rates throughout the war — but could not translate mass into breakthroughs. The problem was not logistical but an inability to concentrate forces at the decisive point. This case illustrates that defense industrial resilience is necessary but insufficient: the ability to produce and sustain forces must be paired with doctrinal adaptation and the capacity to employ combat power effectively at scale. [NATO]({{ site.baseurl }}/actors/organizations/nato.html) planners must account for a post-war Russian military that is much larger, with expanded drone and precision-strike capabilities on their borders — even if its ability to employ that mass effectively remains in question [6].
+
 # Citations
 
 [1] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
@@ -120,3 +126,5 @@ On the Black Sea sidelines, Romania, Bulgaria, and [Turkey]({{ site.baseurl }}/a
 [4] [Adam Smith and the Defense Industry](https://geopoliticalfutures.com/adam-smith-and-the-defense-industry/)
 
 [5] [NATO Puts Its Money Where Its Mouth Is](https://geopoliticalfutures.com/nato-puts-its-money-where-its-mouth-is/)
+
+[6] [A Return to Mass: Russian Force Expansion in the War with Ukraine](https://warontherocks.com/a-return-to-mass-russian-force-expansion-in-the-war-with-ukraine/)

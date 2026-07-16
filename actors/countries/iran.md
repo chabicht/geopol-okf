@@ -62,9 +62,19 @@ Washington's strategy rests on fostering a new geopolitical order anchored by Tu
 
 Iran is unlikely to relinquish its regional position without a fight, particularly because [Iraq]({{ site.baseurl }}/actors/countries/iraq.html) continues to serve as a strategic buffer at a moment of pronounced vulnerability. Iran maintains considerable influence in Iraq — underscored by the decision to route Supreme Leader Ayatollah Ali Khamenei's funeral procession through Najaf and Karbala before his final burial in Iran. Iraq is poised to reemerge as the principal arena of geopolitical competition between Turkey and Iran [12].
 
+## Endless Warfare Networks
+
+Iran's network of proxies and surrogates constitutes a core instrument of its [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) strategy. The IRGC is an enabler of Iran's distributed networks with global reach — projecting power, coercing neighbors, and getting inside the decision space of adversaries at relatively low cost. Iraqi militias have proven the most consistent direct threat to U.S. forces, responsible for more than 180 attacks on U.S. bases in the 18 months before the war began. Deeply embedded in [Iraq]({{ site.baseurl }}/actors/countries/iraq.html)'s official security architecture, they emerge from the war with greater public standing and strategic importance, their relative weight within Iran's proxy network having grown as Hizballah and Hamas absorbed losses [14].
+
 # Analysis
 
 Iran's post-war position demonstrates the limits of conventional military power against a geographically entrenched adversary with asymmetric leverage. The [energy dimension]({{ site.baseurl }}/themes/energy-and-resources.html) is central: Iran's control over Hormuz gives it influence over global oil and LNG flows that no amount of US military superiority has been able to neutralize. The [ceasefire MoU]({{ site.baseurl }}/events/iran-ceasefire-mou.html) institutionalized an outcome that favors Iran's long-term strategic position.
+
+## Mosaic Defense and Theory of Victory
+
+Pnina Shuker and Andrew Milburn (War on the Rocks) document how Iran's success was not improvised but the product of a twenty-year campaign plan. The mosaic defense doctrine — formalized in 2005 by the IRGC's Center for Strategy under Mohammad Ali Jafari and ideologue Hassan Abbasi — created a decentralized command structure designed to survive decapitation strikes. Iran's theory of victory was narrow but robust: survive long enough to impose costs through maritime coercion (Hormuz), economic disruption, information dominance, and political will. The regime built a sanctions-proof economy over five years — its tanker fleet grew from roughly 70 vessels in 2020 to nearly 550 by 2025, sustained by Chinese refineries accounting for close to 90 percent of foreign oil sales. Iran pioneered AI-generated animations as strategic communication, framing its resilience as narrative power [13].
+
+Two theories of victory clashed: the U.S. and Israel wanted surrender and collapse; Iran wanted survival. Tehran's narrower objective gave it the capacity to keep imposing costs and a negotiating position strong enough to turn resilience into political leverage. The Iranian regime emerged strengthened — maintaining internal cohesion under pressure, using the conflict to reinforce narratives of resistance, and denying adversaries the internal collapse they hoped for. The money flowing into Tehran can rebuild its nuclear program and replenish its missile inventory. Hizballah has been battered but not broken. The strait closure remains a card Tehran can play again [13].
 
 # Citations
 
@@ -91,3 +101,7 @@ Iran's post-war position demonstrates the limits of conventional military power 
 [11] [The Gathering Storm: Iran's Funeral and the Coming August Shock](https://escalationtrap.substack.com/p/the-gathering-storm-irans-funeral)
 
 [12] [As Iran Declines, Turkey Advances](https://geopoliticalfutures.com/as-iran-declines-turkey-advances/)
+
+[13] [Outgunned, But Not Outplayed: Iran's Theory of Victory](https://warontherocks.com/outgunned-but-not-outplayed-irans-theory-of-victory/)
+
+[14] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)

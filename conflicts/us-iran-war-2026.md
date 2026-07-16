@@ -213,6 +213,32 @@ Colibasanu (GPF) identifies the energy-to-food cascade as a defining second-orde
 
 Colibasanu frames the war's broader lesson as the replacement of efficiency with resilience as the organizing principle of the global economy. The Iran war and its cascading effects across energy, defense, trade, and finance reveal how risk is becoming embedded in the architecture of the world economy. Geopolitical shocks are increasingly transmitted directly into capital markets, linking energy disruption to inflation, monetary policy, and sovereign risk. The key pattern across all regions is not collapse but persistent cost inflation and volatility — resilience is replacing efficiency, and the cost of resilience is permanent [27].
 
+## Iran's Theory of Victory
+
+Pnina Shuker and Andrew Milburn (War on the Rocks) argue that the outcome of the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) aligns with Iran's strategy all along — not a failure of execution by the U.S. and Israel but a successful implementation of a twenty-year campaign plan. Iran fought a different war than the one it was offered: rather than contesting air superiority symmetrically, it moved the contest onto terrain its adversaries were not equipped to contest — maritime coercion, economic disruption, information dominance, and political will [28].
+
+The doctrine behind this has a name: mosaic defense, formalized in 2005 by the IRGC's Center for Strategy under Mohammad Ali Jafari and the ideologue Hassan Abbasi — a decentralized command structure designed to survive exactly the kind of decapitation strikes that opened this war. Iranian Foreign Minister Araghchi stated: "We've had two decades to study defeats of the U.S. military to our immediate east and west. We've incorporated lessons accordingly." Iran's theory of victory was simple: survive long enough to impose costs by striking the Gulf States and playing the Hormuz card [28].
+
+Iran had studied the force structure it faced and designed its counter-campaign accordingly — targeting not strike aircraft but the tankers, radar networks, communications nodes, and command platforms that sustained them, degrading U.S. and Israeli airpower incrementally rather than seeking to destroy it outright. The cost exchange told its own story: Iran's drones and missiles cost thousands of dollars apiece; the interceptors fired to stop them ran into millions. A weaker power turned its enemy's reliance on expensive systems into a weapon [28].
+
+The information domain proved equally decisive. Iran pioneered AI-generated animations as strategic communication — surprisingly entertaining propaganda containing a kernel of truth, reaching audiences far beyond the traditional battlespace. The regime framed its ability to absorb punishment while continuing to strike back as a narrative of resilience, reducing the coercive impact of the campaign. U.S. polling reflected limited appetite for prolonged conflict and strong opposition to ground force escalation [28].
+
+Economically, Tehran spent five years building a sanctions-proof economy — its tanker fleet grew from roughly 70 vessels in 2020 to nearly 550 by 2025, sustained by Chinese refineries that alone accounted for close to 90 percent of Iran's foreign oil sales. Iran's kinetic targeting of Gulf states served a wedge strategy: demonstrating that supporting the U.S. campaign has a price. When Iran struck the UAE's oil terminal, Kuwait and Saudi Arabia closed their airspace to U.S. military aircraft. [Project Freedom]({{ site.baseurl }}/events/project-freedom-collapse.html) — Trump's tanker escort plan — collapsed when Saudi Arabia refused basing, citing lack of confidence in U.S. strategy coherence [28].
+
+Two theories of victory clashed: the U.S. and Israel wanted surrender and Iran's collapse; Iran wanted survival. Tehran's narrower objective gave it the capacity to keep imposing costs and a negotiating position strong enough to turn resilience into political leverage. The deal's own sequence settles the question: before Iran has to resolve a single hard issue — the nuclear stockpile, the missile program, or its regional proxies — the United States lifts the naval blockade, withdraws forces, issues sanctions waivers, and makes frozen assets available. "Pay first, verify later is not a strategy. It is leverage leaving the room" [28].
+
+## Israel's Strategic Loss
+
+For [Israel]({{ site.baseurl }}/actors/countries/israel.html), the reckoning is stark. Israel was not a party to the talks and, by its own officials' account, had not even seen the text of the agreement it would have to live with. Hizballah gains new protection from Israeli strikes under the deal's terms, and the missile program Israel considers existential goes unaddressed. The Gulf states Israel hoped would drift toward Israel have done the opposite — maintaining and in some cases deepening ties with Tehran, taking with them Israel's hope of expanding the Abraham Accords. When Netanyahu pressed for strikes in Beirut that risked the deal, Trump reportedly told him he "would be in prison" without American protection. One Israeli diplomat summed up the result as "a glorious failure" [28].
+
+## Broader Strategic Costs
+
+The gap between stated objectives and observable outcomes has introduced uncertainty about the credibility and predictability of U.S. policy — shaping how both partners and adversaries will assess future American commitments. The fracturing of Gulf cohesion and the economic volatility generated by the strait's disruption are consequences that will define the strategic environment long after any agreement is reached. The economic costs will outlast the ceasefire: prolonged disruption to shipping cascaded through global supply chains, driving up energy prices and disrupting the flow of fertilizers, helium, and plastics. Food price consequences could persist into 2027, with Northern Hemisphere planting seasons already affected. Even the deal's signature achievement is incomplete: Brent crude remains roughly $20 above pre-war levels, and dozens of stranded tankers will take time to clear [28].
+
+## Endless Warfare Framework
+
+The [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) can be understood as a manifestation of [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) — the persistent, below-threshold conflict that adversaries wage against the United States. Iran's network of proxies and surrogates, built over decades, allows Tehran to project power and coerce neighbors at relatively low cost. The IRGC is an enabler of Iran's distributed networks with global reach. The war demonstrated that when adversaries practice Endless Warfare, conventional military superiority alone cannot compel outcomes — the adversary's theory of victory may be narrower (survival rather than conquest) and therefore more resilient [29].
+
 # Citations
 
 [1] [Iran's Regime Is Headed for a Hard Landing](https://geopoliticalfutures.com/irans-regime-is-headed-for-a-hard-landing/)
@@ -268,3 +294,7 @@ Colibasanu frames the war's broader lesson as the replacement of efficiency with
 [26] [Live with Prof Robert Pape and Joe Kent](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-and-joe-244)
 
 [27] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
+
+[28] [Outgunned, But Not Outplayed: Iran's Theory of Victory](https://warontherocks.com/outgunned-but-not-outplayed-irans-theory-of-victory/)
+
+[29] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)

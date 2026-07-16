@@ -9,7 +9,7 @@ tags:
   - democracy
   - oligarchy
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -106,6 +106,28 @@ The deeper ideological problem is the West's "soulless and unappealing liberal-t
 
 [Heather Cox Richardson]({{ site.baseurl }}/actors/authors/heather-cox-richardson.html) identifies [Trump]({{ site.baseurl }}/actors/trump.html)'s July 2026 pivot to anticommunist rhetoric as a sign of panic rather than confidence. Trump's Mt. Rushmore speech framed political opponents as "communists" — "the greatest threat to our country, including World War I, World War II, Pearl Harbor, or even 9/11" — a fabricated narrative constructed after the electoral success of Democratic Socialists in primary elections and the popularity of New York City Mayor Zohran Mamdani. Richardson notes the irony that it is Trump, not his opponents, who is taking government stakes in private enterprises — the actual definition of communism. She draws a careful distinction: Democratic Socialists embrace private enterprise alongside government provision of services like healthcare, education, and infrastructure — positions that echo Republican platforms from the 1860s through the Eisenhower era (91% top marginal tax rate in 1956). The conflation of Democratic Socialism with communism is a deliberate political strategy [15].
 
+## Political Collaboration and the Graham Case Study
+
+[Anne Applebaum]({{ site.baseurl }}/actors/authors/anne-applebaum.html) traces the career of [Lindsey Graham]({{ site.baseurl }}/actors/lindsey-graham.html) as the quintessential case study of political collaboration under [Trump]({{ site.baseurl }}/actors/trump.html). Graham — a JAG Corps lawyer, reserve officer, and lifelong patriotic internationalist who once called Trump a "race-baiting, xenophobic, religious bigot" who should "go to hell" — made a 180-degree transformation, becoming one of the president's most important defenders. Applebaum frames this through the lens of collaboration under political occupation: like Markus Wolf, who stuck with the East German regime, versus Wolfgang Leonhard, who escaped. Graham had a deep need to be relevant, to be in the game, at any cost — and that need, rather than any particular achievement, is what he will be remembered for [16].
+
+The comparison to Mitt Romney — who voted to impeach Trump despite seeming less deeply attached to patriotic ideals — underscores that the clichés about who will resist and who will comply are often wrong. The broader pattern illustrates the institutional corrosion of democratic governance: figures who once defended founding ideals choose collaboration over resistance, not through dramatic conversion but through incremental accommodation that eventually becomes indistinguishable from allegiance [16].
+
+## Kleptocracy Tracker: June-July 2026 Update
+
+Applebaum's ongoing Kleptocracy Tracker documents the accelerating monetization of presidential power through late June and July 2026 [16]:
+
+- **Trump diverted funds from 900+ national projects** — including safety upgrades at national parks — to finance White House beautification, including $700,000 for a walkway.
+- **Trump purchased $1M-$5M in Axon stock** two weeks before ICE solicited a $220M taser contract — Axon makes ~90% of US tasers.
+- **Trump made ~$1.2 billion from crypto companies** in one year, including $500M from World Liberty Financial and $600M from his meme coin.
+- **250 pardons planned for America's 250th birthday**, with white-collar defense attorneys reporting they can win pardons for clients for ~$2M.
+- **$500M no-bid contract for White House ballroom** awarded to Clark Construction, with the president directly involved in negotiations.
+- **Melania Trump earned $10M+** from an Amazon MGM Studios documentary.
+- **Trump made hundreds of stock purchases the day before pausing tariffs**, sending the S&P 500 soaring ~10% — one of the largest single-day gains ever.
+- **Gulf entities paid $300M+ to Trump's businesses**, including $263M from the sale of half his stake in World Liberty Financial to a UAE royal-backed firm.
+- **Trump made 21,000 securities trades** in his first year, growing his investment account to $858M across ~1,600 companies (vs. Biden's 13 total trades during his entire presidency).
+- **Nearly 1 million meme coin buyers lost $3.8 billion** while Trump walked away with $636 million.
+- **Palm Beach International Airport renamed to Trump International Airport** — requiring Florida to pay royalties to the president's family for licensing his name.
+
 # Citations
 
 [1] https://archive.ph/8FvBT
@@ -134,3 +156,5 @@ The deeper ideological problem is the West's "soulless and unappealing liberal-t
 [14] [Can Americans Become Americans Again? A Question for July 4th](https://phillipspobrien.substack.com/p/can-americans-become-americans-again)
 
 [15] [July 5, 2026](https://heathercoxrichardson.substack.com/p/july-5-2026)
+
+[16] [The Quintessential Trump-era Politician](https://anneapplebaum.substack.com/p/the-quintessential-trump-era-politician)

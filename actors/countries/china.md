@@ -90,6 +90,10 @@ ECB President Christine Lagarde's call for global leaders to discuss the underva
 
 The economic dimension of this coalition creates a powerful bloc that could serve as an alternative source of imports for the [United States]({{ site.baseurl }}/actors/countries/united-states.html), giving Washington more economic leverage over China. China's economy produces more products than it can domestically consume and must export massive amounts to maintain economic health — its largest customer remains the US. The massive economic power of the nations in this potential coalition could redirect trade flows away from China [17].
 
+## Endless Warfare Networks
+
+China's networks constitute a core instrument of its [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) strategy against the United States. China's cyber networks probe and penetrate U.S. critical infrastructure to sustain access, collect information, and provide a disruption capability during a crisis. Its networks enable sophisticated influence operations inside the U.S. and the transfer of critical technologies that directly enhance its military capabilities. The CCP's United Front Work Department reflects centralized national direction and a long-term horizon — in contrast to America's fragmented approach. These are not isolated activities but integrated elements of a persistent strategy to erode U.S. power and influence over time [18].
+
 # Analysis
 
 China's strategic position is defined by coordinated action across domains where the US struggles to maintain coherence: AI military integration, maritime grey-zone operations, and resource investment in Central Asia. The DragonBear axis provides a force multiplier, allowing Beijing and Moscow to apply synchronized pressure on the Western coalition. However, China's growth model faces inherent limits that constrain its long-term trajectory.
@@ -131,3 +135,5 @@ Tooze identifies the "gear-shift in Chinese economic policy" as one of four disr
 [16] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
 
 [17] [A Major Move by India](https://geopoliticalfutures.com/a-major-move-by-india/)
+
+[18] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)

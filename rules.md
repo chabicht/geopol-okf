@@ -291,7 +291,7 @@ not `energy-policy`).
 ### 11.2 Thematic tags
 
 `energy`, `military`, `technology`, `ai`, `ideology`, `economics`,
-`cognitive-warfare`, `drone-warfare`, `nuclear`, `sanctions`, `trade`,
+`cognitive-warfare`, `drone-warfare`, `nuclear`, `cbrn`, `sanctions`, `trade`,
 `demography`, `intelligence`, `critical-minerals`, `supply-chain`,
 `naval`, `air-defense`, `missile`, `cyber`, `elections`
 

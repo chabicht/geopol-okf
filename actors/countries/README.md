@@ -44,3 +44,4 @@ permalink: /actors/countries/
 * [Indonesia](indonesia.html) - ASEAN leader controlling critical maritime straits, participant in India's emerging Asian alliance network
 * [Somalia](somalia.html) - Turkey's primary Horn of Africa partner, military training base, port deals, federal government vs Somaliland
 * [Sudan](sudan.html) - Civil war (SAF vs RSF) creating a regional proxy arena with strategically significant Red Sea coastline
+* [Afghanistan](afghanistan.html) - State that collapsed because it lost the cognitive war before the battlefield; Taliban-controlled, facing ISIS-K and regional exploitation

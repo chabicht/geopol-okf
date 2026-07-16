@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Historian and journalist tracking kleptocracy, democratic backsliding, and the defacement of American institutions under Trump — author of the Kleptocracy Tracker
 tags: [author, ideology, oligarchy, opinion]
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -39,7 +39,10 @@ Applebaum maintains a Kleptocracy Tracker documenting the systematic monetizatio
 # Sources in Bundle
 
 - "Trump and Vance Ruined the Fourth of July" [1]
+- "The Quintessential Trump-era Politician" [2]
 
 # Citations
 
 [1] [Trump and Vance Ruined the Fourth of July](https://anneapplebaum.substack.com/p/trump-and-vance-ruined-the-fourth)
+
+[2] [The Quintessential Trump-era Politician](https://anneapplebaum.substack.com/p/the-quintessential-trump-era-politician)

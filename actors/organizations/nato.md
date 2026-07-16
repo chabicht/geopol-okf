@@ -78,6 +78,14 @@ Antonia Colibasanu (GPF) reports that the Ankara summit marked a shift "decisive
 
 # Analysis
 
+## Post-War Russian Force Posture
+
+Greg Whisler and Michael Kofman (War on the Rocks) argue that [NATO]({{ site.baseurl }}/actors/organizations/nato.html) planners must prepare for a fundamentally changed Russian force posture after the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html). The Leningrad Military District, re-established opposite Finland and the Baltic states, will host the 44th Army Corps with the 72nd Motorized Rifle Division and 128th Motorized Rifle Brigade, along with expanded artillery, air defense, engineer, communications, and logistics units directly subordinate to the district headquarters. The creation of these units, alongside a separate district headquarters, will yield a permanent force structure expansion along NATO members' borders — including associated supporting fires and significantly expanded precision strike capabilities that give Moscow more flexibility [10].
+
+Russia's inventories of strike drones and long-range missiles are likely to be many times larger than before the war, with battle-tested drone and deep-strike capabilities assimilated across the force. However, NATO militaries remain small and constrained in terms of the attrition they can withstand, are not pursuing the larger force sizes needed to hold the line, and have not adopted the mass drone formations that would allow them to achieve effects similar to those of the Ukrainian Armed Forces. Even with successful drone employment, Kyiv has still had to field a very large mobilized infantry force with heavy use of land mines and artillery to sustain its defenses — a lesson NATO cannot ignore. Taking lessons from the latter stages of the Ukraine war and applying them to the opening days of a Russia-NATO conflict must be done with care, as it could lead to the wrong conclusions. The Russian military will remain much larger after this war, with far more forces deployed near NATO members' borders [10].
+
+## The Triple Transition
+
 NATO faces a triple transition: from American-led to European-shared conventional defense, from Euro-Atlantic to increasingly global deterrence posture (Taiwan), and from declaratory spending targets to actual capability delivery. The 5% target is necessary but insufficient if the logistics and institutional foundations — exemplified by Germany's hub shortfall — are not addressed. The alliance's credibility now depends less on Article 5 rhetoric and more on whether European members can field, sustain, and command the conventional forces that deterrence requires.
 
 # Citations
@@ -99,3 +107,5 @@ NATO faces a triple transition: from American-led to European-shared conventiona
 [8] [George Answers Your Questions: A Strange Article from Tass and The Conception and Birth of the United States](https://geopoliticalfutures.com/george-answers-your-questions-a-strange-article-from-tass-and-the-conception-and-birth-of-the-united-states/)
 
 [9] [NATO Puts Its Money Where Its Mouth Is](https://geopoliticalfutures.com/nato-puts-its-money-where-its-mouth-is/)
+
+[10] [A Return to Mass: Russian Force Expansion in the War with Ukraine](https://warontherocks.com/a-return-to-mass-russian-force-expansion-in-the-war-with-ukraine/)
