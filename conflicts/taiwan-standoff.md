@@ -9,7 +9,7 @@ tags:
   - indo-pacific
   - cold-war
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -69,6 +69,16 @@ The May 2026 [Trump-Xi summit]({{ site.baseurl }}/events/trump-xi-summit-2026.ht
 
 If Washington does reduce its security guarantees, Taiwan could strengthen its strategic alignment with [Europe]({{ site.baseurl }}/regions/europe.html). The EU's expanding network of Security and Defence Partnerships — including with Japan, South Korea, [Australia]({{ site.baseurl }}/actors/countries/australia.html), and [India]({{ site.baseurl }}/actors/countries/india.html) — creates institutional frameworks for deeper Taiwan-European cooperation. This would present risks for Europe but also opportunities, particularly in drone technology, defence industry cooperation, and supply chain diversification [6].
 
+## Dual-Track Strategy: Coercion and Selective Engagement
+
+Victoria Herczegh (GPF) identifies a dual-track approach from Beijing that combines increased pressure with selective engagement at a politically sensitive moment. The strategy represents a transition from a static geopolitical rivalry to a more fluid and multilayered contest [7].
+
+**Coercion**: The cancellation of Taiwanese President Lai Ching-te's planned visit to Eswatini (formerly Swaziland), the last African country that formally recognizes Taiwan, exemplifies the coercive track. The trip was derailed after several African nations — including Seychelles, Mauritius, and Madagascar — abruptly denied overflight permissions for the president's plane. Taipei cited Chinese economic coercion, including threats tied to debt relief, as the reason for the cancellations. The episode points to a more assertive and targeted tactic: physically constraining Taiwan's ability to maintain diplomatic relations [7].
+
+**Selective engagement**: Simultaneously, China signaled willingness to resume certain forms of cooperation, including direct flights and trade in specific sectors such as aquaculture, following a visit by an opposition leader from Taiwan's Kuomintang (KMT) party. Discussions of a long-term cooperation mechanism between the KMT and the Chinese Communist Party suggest Beijing is trying to influence Taiwan's internal political dynamics more directly. Infrastructure proposals, such as a bridge linking mainland China to the offshore islands of Kinmen and Matsu, underscore this combination of symbolic and practical outreach [7].
+
+**Structural decoupling**: Taiwanese businesses have dramatically reduced their exposure to China, with investment flows dropping from over 80 percent in 2010 to under 4 percent in 2025. Production has increasingly relocated to Southeast Asia, to Mexico, or back to Taiwan, while trade ties with the US and the West have deepened, particularly in high-value sectors like semiconductors and artificial intelligence. The timing intersects with ongoing efforts to stabilize US-China relations — any progress in bilateral negotiations could create space for a partial recalibration of cross-strait dynamics, though any change would likely remain limited and conditional [7].
+
 # Citations
 
 [1] https://substack.com/@velinatchakarova/p-203793388
@@ -82,3 +92,5 @@ If Washington does reduce its security guarantees, Taiwan could strengthen its s
 [5] [Lessons-learned with Chinese Characteristics: Understanding the Limits of PLA Efforts to Adapt to Contemporary Warfare](https://understandingwar.org/research/china-taiwan/lessons-learned-with-chinese-characteristics-understanding-the-limits-of-pla-efforts-to-adapt-to-contemporary-warfare/)
 
 [6] [Washington's Volatility and Taipei's Security](https://www.swp-berlin.org/publikation/washingtons-volatility-and-taipeis-security)
+
+[7] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)

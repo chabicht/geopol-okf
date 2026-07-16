@@ -24,6 +24,8 @@ permalink: /themes/
 * [Food and Agriculture](food-and-agriculture.html) - Fertilizer cascade, U.S. agricultural lock-in, diesel dependency, and food system fragility
 * [Monetary System Transition](monetary-system-transition.html) - Petrodollar cracking, dedollarization, gold accumulation, and the monetary dimension of geopolitical conflict
 * [Sanctions and Financial Warfare](sanctions-and-financial-warfare.html) - Architecture of economic coercion — sanctions design, enforcement gaps, shadow banking, and evasion networks
+* [Insurance and Trade Warfare](insurance-and-trade-warfare.html) - War-risk premiums repricing geography, state-backed insurance pools, and the emergence of parallel insurance architectures
+* [Defense Industrial Resilience](defense-industrial-resilience.html) - Energy and digital infrastructure as core defense vulnerabilities; microreactors, microgrids, and cyber-physical integration
 
 ## Ideology & Information
 

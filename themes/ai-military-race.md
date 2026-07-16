@@ -11,7 +11,7 @@ tags:
   - supply-chain
   - trade
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -64,6 +64,14 @@ The intersection of AI competition and [critical minerals]({{ site.baseurl }}/th
 
 [Adam Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) identifies a fundamental political economy distinction between the AI boom and previous world-transforming technologies. The mid-century transformative technologies (nuclear, rockets) were under state control — Oppenheimer was who he was because of the Manhattan Project; von Braun served the state. AI, by contrast, harnesses the engineering talents of the world to privately developed technology, private money, and the "unfettered egos of tech entrepreneurs." The Pentagon intervenes ad hoc when it fears a new model may pose national security risks, but otherwise there is excitement about the wealth being generated and silence on broader implications. The BIS Annual Economic Report identifies the AI boom as endogenously generating a China-scale investment and credit boom, with the labor share of income potentially collapsing to 20% over the next forty years. Trillions of dollars are wagered on a vision of total disruption of familiar ways of living and working [5].
 
+## The AI Talent Reverse Brain Drain
+
+Ronan Wordsworth (GPF) identifies a potentially important structural shift: a credible reverse brain drain toward [China]({{ site.baseurl }}/actors/countries/china.html) that is gradually weakening a key US advantage. For decades, China's top engineering graduates followed a predictable pattern — graduate from elite domestic universities, pursue a doctorate in the US, then start a career in Silicon Valley or a US research lab. Growing numbers of Chinese engineers and researchers are returning home after years in the US, attracted by expanding opportunities, better pay packages, faster promotion pathways, and the prestige of working in a nationally strategic sector. Fewer young Chinese engineers appear eager to leave in the first place — the share of top graduates applying for US Ph.D. programs has fallen sharply [6].
+
+Chinese firms including ByteDance, Alibaba, Huawei, and emerging model developers can now offer globally competitive compensation, vast user bases, abundant proprietary data, and leadership roles difficult to secure in crowded US hierarchies. The US is becoming less attractive as well: visa uncertainty, tighter scrutiny of Chinese researchers, export-control sensitivities, and broader geopolitical tensions all weigh on Chinese-born engineers who want to build a long-term career in the United States [6].
+
+AI leadership is cumulative: talent attracts capital and investment, which brings in computation power, and successful ecosystems then attract more talent. The US is still a leader in frontier labs, venture finance, and advanced semiconductors, with firms like Nvidia, OpenAI, and Google DeepMind holding major advantages. China is narrowing the gap through domestic Huawei chips, aggressive model pricing, and an increasingly self-sustaining talent base. Talent acquisition has long been one of America's greatest structural strengths, and it is starting to face stiffer competition [6].
+
 # Citations
 
 [1] https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military
@@ -72,3 +80,5 @@ The intersection of AI competition and [critical minerals]({{ site.baseurl }}/th
 [4] [The AI Kill Switch: Dangerous Chinese Open Source](https://cepa.org/article/the-ai-kill-switch-dangerous-chinese-open-source/)
 
 [5] [Chartbook 456: Alien v. Predator or MAGA meets AI](https://adamtooze.substack.com/p/chartbook-456-alien-v-predator-or)
+
+[6] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)

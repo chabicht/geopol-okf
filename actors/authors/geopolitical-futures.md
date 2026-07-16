@@ -2,15 +2,17 @@
 type: Actor
 title: Geopolitical Futures (GPF)
 parent: Authors & Analysts
-description: Strategic analysis publication providing structured geopolitical assessments with maps and structural drivers — covering great power competition, Middle East security architecture, alliance evolution, rare earth supply chains, and Eurasian realignment
+description: Strategic analysis publication providing structured geopolitical assessments with maps and structural drivers — covering great power competition, Middle East security architecture, alliance evolution, rare earth supply chains, and Eurasian realignment. Publishes the monthly GeoEconomicLens report examining the global economy through a geopolitical lens.
 tags: [author, framework]
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
 
 Geopolitical Futures is a strategic analysis publication founded by George Friedman that provides structured assessments of global geopolitical dynamics. GPF's approach emphasizes structural drivers — geography, demographics, military capacity, and economic fundamentals — over personality-driven analysis. The publication produces detailed country and regional assessments, often accompanied by maps that illustrate the geographic constraints driving political outcomes.
+
+GPF also publishes GeoEconomicLens, a monthly report that views the global economy through the lens of geopolitics. GeoEconomicLens provides systemic analysis of how geopolitical events — wars, sanctions, chokepoint disruptions — cascade through energy, food, defense, insurance, and financial markets. The May 2026 issue examined the fallout from the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) across all major regions and sectors, with contributions from GPF analysts including George Friedman, Antonia Colibasanu, Andrew Davidson, Victoria Herczegh, Ronan Wordsworth, and Ekaterina Zolotova.
 
 # Key Frameworks
 
@@ -34,6 +36,15 @@ GPF analysis appears in the bundle covering:
 - **Russia's Chechnya problem**: Kadyrov's succession crisis [4]
 - **Mali and Turkish opportunity**: Russia's declining capacity in Africa [5]
 - **Central Asia investment**: Chinese FDI patterns [6]
+- **US-China relations after Iran**: Friedman's analysis of how the Iran war's most important long-term effect is on US-China bilateral relations; China's abstention driven by economic dependence on US market and Hormuz-transited energy; potential for a post-war economic accommodation analogous to post-WWII US-Germany/Japan [15]
+- **Defense industry structural shifts**: Davidson's analysis of energy and digital infrastructure as core defense vulnerabilities; 70% of US Army logistics tonnage is fuel; microreactors and microgrids for contested logistics; Locked Shields 2026 cyber exercise [15]
+- **China-Taiwan dual-track strategy**: Herczegh's analysis of Beijing combining coercion (overflight denials for Lai Ching-te's Eswatini trip) with selective engagement (KMT-CCP cooperation, Kinmen-Matsu bridge proposal); Taiwanese investment in China dropping from 80% to 4% [15]
+- **European risk redistribution**: Colibasanu's "BIF" framework — risk shifting from PIIGS periphery to Britain-Italy-France core; energy shock transmitting through sovereign financing via German yields; chemicals and aviation as most exposed sectors [15]
+- **AI talent reverse brain drain**: Wordsworth's analysis of Chinese engineers returning home; declining US PhD program applications; ByteDance/Alibaba/Huawei competing for frontier talent; visa uncertainty as push factor [15]
+- **Russian economic strain**: Zolotova's analysis of second consecutive GDP decline; domestic CAD software at less than one-third market share; capital flight to Dubai, Hong Kong, Tel Aviv; Communist Party warning of revolution risk [15]
+- **Food crisis and fertilizer cascade**: Colibasanu's feature on energy shocks becoming food insecurity; Gulf fertilizer export dominance (29% ammonia, 36% urea, 26% DAP); one-third of seaborne fertilizer through Hormuz [15]
+- **Insurance market transformation**: Colibasanu's "New Normal in Insurance" — war-risk premiums surging, voyage-by-voyage underwriting, state-backed insurance pools, insurance as strategic tool of coercion [15]
+- **Regional repercussions**: Systematic analysis across [Europe]({{ site.baseurl }}/regions/europe.html), [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html), [Africa]({{ site.baseurl }}/regions/africa.html), [Latin America]({{ site.baseurl }}/regions/latin-america.html), and [Central Asia]({{ site.baseurl }}/regions/central-asia.html) — varying intensity but consistent direction: persistent cost inflation and volatility across all regions [15]
 
 # Sources in Bundle
 
@@ -51,6 +62,7 @@ GPF analysis appears in the bundle covering:
 - "Turkey, Israel and the New US Geostrategy" [12]
 - "The Return of the Nation-State in the Middle East" [13]
 - "The Southern Flank Unraveled: Russia's Grip Loosens in Eurasia" [14]
+- "GeoEconomicLens — Fallout from the Iran War, May 2026" [15]
 
 # Citations
 
@@ -81,3 +93,5 @@ GPF analysis appears in the bundle covering:
 [13] [The Return of the Nation-State in the Middle East](https://geopoliticalfutures.com/the-return-of-the-nation-state-in-the-middle-east/)
 
 [14] [The Southern Flank Unraveled: Russia's Grip Loosens in Eurasia](https://geopoliticalfutures.com/the-southern-flank-unraveled-russias-grip-loosens-in-eurasia/)
+
+[15] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)

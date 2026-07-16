@@ -5,7 +5,7 @@ parent: Regions
 description: US traditional sphere of influence experiencing a rightward wave with militarized security turn and institutional fragility.
 tags: [latin-america, elections, military, cold-war]
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -22,6 +22,9 @@ Latin America has historically been within the US sphere of influence, shaped by
 - Mexico and Brazil remain as surviving leftist strongholds.
 - Peru has had 9 presidents in a decade; fraud allegations and institutional weakness persist.
 - South America is becoming a secondary theater of U.S.-China competition. [Brazil]({{ site.baseurl }}/actors/ is building domestic defense capacity (Gripen fighters, SISFRON border system, Tamandare frigates) while [Argentina]({{ site.baseurl }}/actors/ rebuilds relevance through U.S.-linked F-16s and security cooperation. The contest plays out through ports, infrastructure, satellites, and defense supply chains rather than formal alliances. States that control their peripheries gain autonomy; those that cannot find external powers shaping their resource flows [2].
+- **Iran war economic repercussions**: Colibasanu (GPF) reports that the war forced on Brazil a complex policy trade-off: though its oil industry is gaining value, the conflict destabilizes its domestic economy. Brazil imports 70% of its fertilizer, so the 50% spike in global fertilizer prices directly threatens agricultural output. High diesel costs are driving up food prices, creating significant domestic inflationary pressures. However, Brazil's strategic value as a major global supplier has improved, becoming a key non-OPEC producer. Argentina imports 50% of its fertilizer; costs are rising faster than crop revenues, squeezing soybean, wheat, and corn competitiveness. Mexico remains vulnerable to tighter global financial conditions due to its deep integration into US manufacturing supply chains and reliance on external demand and capital [3].
+- **Mining and metals disruption**: Chile and Peru, the world's leading copper producers, have been most directly affected. Mining is highly energy- and input-intensive, requiring imported diesel, explosives, and chemical reagents. Disruptions in maritime shipping and rising fuel costs have increased production expenses and delayed delivery of key inputs. The lithium sector (centered in Chile and Argentina) faces similar problems with an added layer of investment uncertainty from tighter global financial conditions. Atlantic basin producers like Brazil and Venezuela have gained strategic importance. Brazil leveraged its offshore production capacity to expand exports, while Venezuela saw partial restoration of its role as a hemispheric supplier, though infrastructure bottlenecks and underinvestment limit how quickly these countries can stabilize regional energy balances [3].
+- **Central American and Caribbean fragility**: Central American and Caribbean states are under the most pressure — their geographic position makes them structurally dependent on maritime imports, and higher shipping costs directly feed into energy and food insecurity. Fragile port infrastructure and limited storage capacity reduce their ability to buffer shocks. Governments adopted interventionist policies: Mexico deepened fuel price controls and expanded subsidies; Brazil used targeted subsidies, strategic fuel reserves, and credit support for logistics firms; Argentina intensified import controls, rationing mechanisms, and exchange rate management. Several Central American governments implemented temporary tariff reductions, fuel subsidies, and social transfers despite limited fiscal space [3].
 
 # Key Dynamics
 
@@ -36,3 +39,5 @@ Latin America has historically been within the US sphere of influence, shaped by
 [1] [Velinatchakarova — Latin American rightward wave analysis](https://substack.com/@velinatchakarova/p-203689435)
 
 [2] [South American Sovereignty Amid US-China Competition](https://geopoliticalfutures.com/south-american-sovereignty-amid-us-china-competition/)
+
+[3] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)

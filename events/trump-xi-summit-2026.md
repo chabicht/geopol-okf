@@ -7,7 +7,7 @@ tags: [indo-pacific, cold-war, gray-zone]
 status: concluded
 actuality: actual
 event_date: 2026-05-15
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -24,6 +24,14 @@ While Washington's stance remains ambiguous, the Chinese position has hardened o
 
 The summit highlights a structural shift in the [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html): if Washington does reduce its security guarantees, Taiwan could strengthen its strategic alignment with [Europe]({{ site.baseurl }}/regions/europe.html). That would present risks for Europe, but also opportunities — particularly in drone technology, defence industry cooperation, and supply chain diversification. The EU's expanding network of Security and Defence Partnerships provides institutional frameworks through which a deeper Taiwan-European relationship could develop [1].
 
+## China's Abstention from the Iran War
+
+George Friedman (GPF) argues that the summit's context was shaped by China's deliberate abstention from the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html). China's reasons are twofold: first, China needs to rehabilitate economic ties to the US — still its largest customer — as economic growth hovers below 5 percent; second, China is heavily dependent on imports of oil and LNG that pass through the Strait of Hormuz, making higher energy prices a direct threat to its export-driven economy. Beijing criticized the war but otherwise stayed out of it entirely, assigning its ambassador in [Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html) to attend mediation talks in Islamabad. The only visible consequence of the war on US-China relations was the delay of the summit from March 30 to May 14 [2].
+
+Friedman draws a historical parallel to post-WWII reconstruction: the US helped Germany and Japan evolve economically out of self-interest, not charity. States don't have friends or enemies, just permanent interests. The US was vital to China's initial economic explosion, and if China is to recover from its current malaise, the US will be vital again. The willingness of both sides to continue discussions on economic relations suggests that a deeper interaction on the corporate level is likely, with the most dynamic sectors being the most likely to collaborate — a radical shift with significant effect on global economics [2].
+
 # Citations
 
 [1] [Washington's Volatility and Taipei's Security](https://www.swp-berlin.org/publikation/washingtons-volatility-and-taipeis-security)
+
+[2] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)

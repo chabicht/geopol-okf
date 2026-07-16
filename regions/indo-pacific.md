@@ -5,7 +5,7 @@ parent: Regions
 description: Maritime theater encompassing China, Taiwan, Japan, the Philippines, and Australia; central front of the new Cold War.
 tags: [indo-pacific, naval, gray-zone, military]
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -30,6 +30,9 @@ The region's geography is defined by island chains, straits, and exclusive econo
 - The PLA conducted [Justice Mission 2025]({{ site.baseurl }}/events/justice-mission-2025.html) in December — a large-scale surprise blockade exercise around Taiwan with 18 PLAN vessels, 14 coast guard ships, 201 air sorties, and H-6 bombers across eight zones. The exercise rehearsed counter-intervention against U.S. forces and interdiction of Taiwanese energy imports [8].
 - The May 2026 [Trump-Xi summit]({{ site.baseurl }}/events/trump-xi-summit-2026.html) introduced deep uncertainty into US-Taiwan relations, with Xi framing Taiwan as "the most important issue in China-US relations." If Washington reduces its security guarantees, Taiwan could strengthen its strategic alignment with [Europe]({{ site.baseurl }}/regions/europe.html) — creating openings in drone technology and defence industry cooperation [9].
 - Southeast Asia has independent strategic weight beyond the China-US rivalry. ASEAN states, projected to become the fourth-largest economy by 2030 with 684 million people, are actively diversifying their partnerships — seeking OECD membership (Indonesia, Thailand), exploring BRICS engagement, and resisting pressure to choose sides between Washington and Beijing. The South China Sea remains a critical transit corridor and a flashpoint of sino-american rivalry. [Germany]({{ site.baseurl }}/actors/countries/germany.html) and the [EU]({{ site.baseurl }}/actors/organizations/eu.html) are deepening engagement through trade agreements and ASEAN institutional cooperation, though with limited visibility and investment compared to China, Japan, and Australia [10].
+- **Iran war economic repercussions across Asia-Pacific**: Colibasanu (GPF) reports that [China]({{ site.baseurl }}/actors/countries/china.html) showed resilience in the initial shock thanks to stockpiled energy and strong exports, but the war created instability through higher oil prices, supply chain disruptions, and weaker global demand. Export growth dropped sharply from 21.8% in the first two months of the year to just 2.5% in March. While industrial output remains relatively strong, consumption has been weak, with retail sales growth slowing to 1.7% in March. China leveraged the crisis to expand its influence, positioning itself as a stabilizing force and provider of energy and infrastructure solutions to Southeast Asia [11].
+- **Southeast Asian vulnerability**: The most affected countries are those with high energy import dependence and limited buffers. The Philippines declared a national emergency due to its weak domestic energy base and low reserves. Thailand and Vietnam are heavily exposed because their manufacturing-driven economies rely on affordable energy imports from the Middle East. Singapore is vulnerable as a global energy trading and shipping hub sensitive to price volatility. Indonesia is somewhat cushioned by domestic production and subsidies. Malaysia and Brunei are net energy exporters benefiting from higher prices. Japan, South Korea, and China are less immediately vulnerable due to greater diversification, strategic reserves, and stronger institutional capacity. Several governments initiated energy-saving measures including work-from-home arrangements and fuel consumption restrictions [11].
+- **Northeast Asian interventionist response**: Japan, South Korea, and China adopted proactive large-scale measures including the release of strategic reserves, restructuring of import patterns, and acceleration of alternative energy development. There is a noticeable return to coal and other high-emission energy sources as governments scramble to maintain supply. The global LNG market has tightened significantly, further constraining options for gas-dependent economies. Export-oriented manufacturing — vital to Southeast Asia's economic model — is particularly sensitive to energy costs and supply chain irregularities, squeezing margins and forcing firms to cut output, hedge energy costs, and diversify suppliers [11].
 
 # Key Dynamics
 
@@ -57,3 +60,5 @@ The region's geography is defined by island chains, straits, and exclusive econo
 [9] [Washington's Volatility and Taipei's Security](https://www.swp-berlin.org/publikation/washingtons-volatility-and-taipeis-security)
 
 [10] [Südostasien – mehr als ein Nebenschauplatz im Indo-Pazifik](https://www.swp-berlin.org/publikation/suedostasien-mehr-als-ein-nebenschauplatz-im-indo-pazifik)
+
+[11] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)

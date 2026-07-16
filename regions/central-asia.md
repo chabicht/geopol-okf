@@ -5,7 +5,7 @@ parent: Regions
 description: Landlocked region between Russia, China, and Iran experiencing rapid economic growth, diversifying away from Russian influence, and benefiting from new connectivity corridors as Russia's southern grip erodes.
 tags: [central-asia, trade, critical-minerals, energy, caucasus]
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -27,6 +27,8 @@ Central Asia is a landlocked region situated between [Russia]({{ site.baseurl }}
 - C5+1 summits with the US (2023 in New York, 2025 at the White House) reflect growing US engagement and Central Asian interest in strategic diversification [3].
 - National language revival and the steady decline of Russian as the default lingua franca mirror the region's political reorientation [3].
 - Kazakhstan and Uzbekistan lead the region, testing the limits of reform while navigating US-China-Russia dynamics [4].
+- **Iran war economic repercussions**: Colibasanu (GPF) reports that the war affected this region unevenly. Energy exporters — [Russia]({{ site.baseurl }}/actors/countries/russia.html), Azerbaijan, Kazakhstan, and Turkmenistan — benefited from the uptick in oil prices. Energy importers — Tajikistan, Armenia, Kyrgyzstan, Georgia, and to a lesser extent Uzbekistan — were hit harder. The region is fairly resilient because it engages in limited trade with Iran directly, and much of the region's energy needs are met by the regional market. However, Iran imposed a temporary ban on food and agricultural product exports in March, raising prices throughout Central Asia. Turkmenistan is vulnerable due to its dependence on Iranian food and household goods imports. Uzbekistan depends on Iran for dairy products (8-10% of imports). Tajikistan is almost entirely dependent on imported sugar, some of which comes from Iran [5].
+- **Transportation and corridor disruption**: The war complicates the use of the International North-South Transport Corridor (INSTC), which connects Russia, the Caucasus, and Central Asia with India and the Persian Gulf states. Uzbekistan uses the southern corridor through Iranian seaports for up to 60% of cargo from Turkey and Europe. Goods from Europe, Persian Gulf countries, and India typically arrive in Dubai, transit the Strait of Hormuz to Iranian ports such as Bandar Abbas, and are then transported by rail or truck through Turkmenistan. The war has delayed deliveries and complicated joint transportation projects. The short-term impact is notable — especially regarding inflation — but trade has not stopped altogether, and the longer-term inaccessibility of Iranian territory for cargo transit necessitates the implementation of alternative logistics routes [5].
 
 # Key Dynamics
 
@@ -45,3 +47,5 @@ Central Asia is a landlocked region situated between [Russia]({{ site.baseurl }}
 [3] [The Southern Flank Unraveled: Russia's Grip Loosens in Eurasia](https://geopoliticalfutures.com/the-southern-flank-unraveled-russias-grip-loosens-in-eurasia/)
 
 [4] [2026 Forecast: Re-anchoring the World](https://geopoliticalfutures.com/forecast-for-2026-re-anchoring-the-world/)
+
+[5] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)

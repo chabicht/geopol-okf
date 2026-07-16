@@ -10,7 +10,7 @@ tags:
   - trade
   - sanctions
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -88,6 +88,10 @@ China Shock 2.0 reflects #4. If trade protection and industrial bargaining are t
 
 The GSR framework extends to the erosion of Western financial coercive power. Sanctions enforcement suffers from a fundamental misalignment: sanctions use Harmonised System (HS) codes for specific goods, while banks use industry classification codes (ISIC) for customer monitoring. Meanwhile, [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s oil-backed shadow banking system demonstrates that adversary financial architecture can operate entirely outside Western reach. As sanctioned states deepen their reliance on [organised criminal networks]({{ site.baseurl }}/themes/organised-crime-and-statecraft.html) for sanctions evasion, the Western financial system's coercive power diminishes — contributing to the systemic rupture by weakening one of the key instruments through which the US-led order manages crises short of war [6][7].
 
+## Resilience Replacing Efficiency
+
+Colibasanu (GPF) frames the [Iran war]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) as proof that systemic changes — not isolated shocks — are shaping the global economy. Resilience is replacing efficiency as the organizing principle, redefining how states project power, how businesses operate, and where capital flows. The Iran war and its cascading effects across energy, defense, trade, and finance reveal how risk is becoming embedded in the architecture of the world economy. Three themes define the transition: global systems are being reshaped; energy shocks spill into food insecurity; and insurance markets drive restructuring. Geopolitical shocks are increasingly transmitted directly into capital markets, linking energy disruption to inflation, monetary policy, and sovereign risk. The key pattern across all regions is not collapse but persistent cost inflation and volatility [8].
+
 # Citations
 
 [1] https://substack.com/@velinatchakarova/p-203876124
@@ -103,3 +107,5 @@ The GSR framework extends to the erosion of Western financial coercive power. Sa
 [6] [Decoding Sanctions: How Governments can get the Best out of Banks](https://www.rusi.org/explore-our-research/publications/commentary/decoding-sanctions-how-governments-can-get-best-out-banks)
 
 [7] [GSB Podcast: Organised Crime, Statecraft, and Geopolitics](https://traffic.libsyn.com/secure/forcedn/globalsecuritybriefing/260629_GSB_Organised_Crime_Cathy_H_V2.mp3)
+
+[8] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
