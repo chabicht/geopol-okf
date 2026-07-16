@@ -7,7 +7,7 @@ tags: [europe, trade, ideology]
 status: ongoing
 actuality: actual
 event_date: 2026-01-20
-timestamp: 2026-01-20T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -44,6 +44,18 @@ Harrington frames the crisis as the moment when multipolarity stopped being abst
 
 The longer-term ripple effect may be that the man who sought to Make America Great Again ends up handing Third Worldist decolonization advocates their long-sought prize: the end of the America-led cultural and political order. America would definitively shrink from monopolist to one of several bloc leaders, from arbiter of global norms to player of realist games of geography and hard power.
 
+### NATO Summit Week Escalation
+
+The Greenland crisis continued to escalate during the [NATO Ankara Summit]({{ site.baseurl }}/events/nato-ankara-summit-2026.html) week (July 7-8, 2026). [Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) documents three explicit threats against a NATO country over three days [5]:
+
+- **July 7**: Trump made an unveiled threat to take Greenland, stating it "should be controlled by the United States, not by Denmark," claiming Denmark doesn't spend money to help Greenland, repeating the claim that the island is surrounded by Chinese and Russian ships, and threatening to remove all US forces from Europe if Europeans did not bend to his will.
+- **July 8**: Trump returned to his Greenland attacks, claiming it was "stupid" that the USA gave the island "back" to Denmark — strongly implying seizure.
+- **Post-summit plane ride**: Trump threatened to walk away from European defense if the USA did not get a "good deal" on Greenland. When asked about the future of US forces in Europe: "I haven't made that final determination. A lot's going to depend on Greenland."
+
+[Lindsey Graham]({{ site.baseurl }}/actors/lindsey-graham.html) supported Trump's Greenland posture, referring to Danish Prime Minister Mette Frederiksen as a "little lady" and saying "Who gives a shit who owns Greenland? I don't" [5].
+
+O'Brien observes that Trump's brief expression of "tremendous love" for NATO at the summit was sandwiched between these three threats — the threats, not the momentary love, constitute the real story of the summit week [5].
+
 ### Geography and Hard Power as Primacy
 
 The crisis demonstrates that geography and hard power remain the foundational forces of geopolitics, regardless of ideological alignment. Greenland's strategic value is geographic; Trump's ability to take it rests on hard power; Europe's inability to resist reflects the absence of both. States that relied on the US security umbrella for decades have comparatively little hard power of their own — and nothing that could stand up against the US. As Thucydides wrote: "The strong do what they can, and the weak suffer what they must." See [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html).
@@ -57,3 +69,5 @@ The crisis demonstrates that geography and hard power remain the foundational fo
 [3] [French far-right leader Bardella slams Trump's 'imperial ambitions' in Greenland, Venezuela](https://www.politico.eu/article/france-jordan-bardella-donald-trumps-imperial-ambitions-in-venezuela-greenland/)
 
 [4] [Germany's far right loosens its embrace of Trump](https://www.politico.eu/article/germany-donald-trump-afd-greenland-nicolas-maduro-national-rally/)
+
+[5] [The Worst NATO Summit In History](https://phillipspobrien.substack.com/p/the-worst-nato-summit-in-history)

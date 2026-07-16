@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Military historian and analyst — author of "War and Power" — arguing that wars are choices of individual leaders, that cheap mass beats expensive precision, and that US decline is accelerating faster than expected
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -25,6 +25,10 @@ Wars are choices of individual leaders, not state actors pursuing national inter
 ## Cheap Mass Over Expensive Precision
 
 O'Brien argues that cheap mass systems have greater advantage than expensive small-batch precision systems. This framework, developed through observation of the Ukraine war and the Iran war, challenges the post-Cold War Western investment in exquisite platforms. The implication is that industrial capacity and sustainment matter more than technological sophistication at the margin.
+
+## Revolution in Military Affairs
+
+O'Brien argues that the RMA debate — running since the Soviet Military-Technical Revolution of the 1970s, through Andy Marshall's Pentagon reframing, the Gulf War popularization, and the War on Terror detour — has been settled by the evidence of the Ukraine and Iran wars. The RMA is real and unstoppable. Its central direction is the **"de-humanizing" or "de-populating" of the battlefield**: drastically reducing the number of humans in direct combat through autonomous systems (software) and component miniaturization (hardware — small sensors/cameras, solid-state batteries). This will transform how wars start (less human cost calculation), how they are fought (fewer humans in the loop), their ethics, and how they are decided. Legacy arms manufacturers (e.g., Rheinmetall CEO Papperger) dismiss the change by isolating it to the drone variable — a "cute intellectual trick" that ignores the broad technological leap. O'Brien calls it the greatest revolution since the development of metal weapons. See [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) [15].
 
 ## US Decline Accelerating
 
@@ -68,6 +72,22 @@ O'Brien argues the ranged war is still in its early stages (comparable to mid-19
 
 O'Brien's analysis of Ukraine's May 2026 [drone strike on Moscow]({{ site.baseurl }}/events/moscow-drone-strike.html) compares it to Japan's loss of the Marianas in WWII — the moment when the propaganda narrative collapsed because the war reached the homeland. With Russia's 1M+ cumulative casualties and compromised Moscow air defenses, Putin can no longer hide the war's cost from the Russian public [11].
 
+## NATO Summit Critique
+
+O'Brien offers a sharply dissenting assessment of the [NATO Ankara Summit]({{ site.baseurl }}/events/nato-ankara-summit-2026.html), calling it "the worst summit in NATO history." His critique: no US conventional defense commitment, a force posture review that is a veiled threat, the nuclear umbrella is meaningless without conventional forces, the Patriot license for Ukraine is hollow (no details, no consultation with manufacturers, will take years), and the 2027 summit was dropped from the declaration because European leaders see no reason to repeat the exercise. Trump's "tremendous love" rhetoric is a reliable tell that he is lying [16].
+
+## Lindsey Graham Analysis
+
+O'Brien compiled [Lindsey Graham]({{ site.baseurl }}/actors/lindsey-graham.html)'s own quotes — without editorializing — to demonstrate Graham was never a friend of Ukraine. Key findings: Graham reversed his position on Ukraine aid to follow Trump (grants → loans), praised Trump and Vance for the Oval Office ambush of Zelensky (Feb 28, 2025), repeatedly claimed Trump would allow a vote on the Graham-Blumenthal sanctions bill (which never happened and which Graham never criticized Trump for blocking), never criticized Trump for ending all US military aid to Ukraine, and made false claims that Trump was about to support Ukraine. Graham called the Danish PM a "little lady" and said "who gives a shit who owns Greenland?" [17].
+
+## Sea of Azov Campaign
+
+O'Brien documents the under-covered [Sea of Azov campaign]({{ site.baseurl }}/events/sea-of-azov-campaign.html) — Ukraine using air and sea drones to attack 28 Russian-controlled vessels, forcing Russia to close the Kerch Strait. He argues this strategically significant campaign is extending the Crimea isolation campaign and deserves far more coverage. He also documents the Omsk refinery strike (2,500+ km, ELOU-AVT-11 unit hit) as evidence of maturing long-range capability [18].
+
+## Ballistic Missile Escalation and Air Defense Crisis
+
+O'Brien documents the dramatic escalation in Russia's ballistic missile campaign: launches tripled year-over-year (28→70+/month), Ukraine intercepting only 40% of ballistic missiles vs 89% of all threats, Patriot interceptors depleted. He argues Trump's Patriot license pledge gifts Putin 1-3 winters of unrestricted bombardment — the most optimistic Ukrainian forecast is one year to production, but most believe longer. Japan produces only 30 PAC-3 interceptors annually after years of licensing. See [Ukraine Air Defense Crisis 2026]({{ site.baseurl }}/events/ukraine-air-defense-crisis-2026.html) [18].
+
 # Sources in Bundle
 
 - "Early Lessons From The US-Iran War" [1]
@@ -84,6 +104,10 @@ O'Brien's analysis of Ukraine's May 2026 [drone strike on Moscow]({{ site.baseur
 - "Midweek Update #17: The Most Dangerous Intelligence Move Ever Contemplated" [12]
 - "Can Americans Become Americans Again? A Question for July 4th" [13]
 - "Weekend Update #192: Can Russia Counter?" [14]
+- "Yes, We Are In A Revolution In Military Affairs" [15]
+- "The Worst NATO Summit In History" [16]
+- "Lindsey Graham On Ukraine and Trump" [17]
+- "Weekend Update #193: What Is Happening In The Sea Of Azov?" [18]
 
 # Citations
 
@@ -114,3 +138,11 @@ O'Brien's analysis of Ukraine's May 2026 [drone strike on Moscow]({{ site.baseur
 [13] [Can Americans Become Americans Again? A Question for July 4th](https://phillipspobrien.substack.com/p/can-americans-become-americans-again)
 
 [14] [Weekend Update #192: Can Russia Counter?](https://phillipspobrien.substack.com/p/weekend-update-192-can-russia-counter)
+
+[15] [Yes, We Are In A Revolution In Military Affairs](https://phillipspobrien.substack.com/p/yes-we-are-in-a-revolution-in-military)
+
+[16] [The Worst NATO Summit In History](https://phillipspobrien.substack.com/p/the-worst-nato-summit-in-history)
+
+[17] [Lindsey Graham On Ukraine and Trump](https://phillipspobrien.substack.com/p/lindsey-graham-on-ukraine-and-trump)
+
+[18] [Weekend Update #193: What Is Happening In The Sea Of Azov?](https://phillipspobrien.substack.com/p/weekend-update-193-what-is-happening)

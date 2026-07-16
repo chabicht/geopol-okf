@@ -60,6 +60,16 @@ The [July 7-8 Ankara Summit]({{ site.baseurl }}/events/nato-ankara-summit-2026.h
 
 [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) assesses that NATO 3.0 is adjusting to the realities of new global competition. Conventional deterrence becomes increasingly a European responsibility while the US stays engaged through the nuclear shield. NATO 3.0 will be digitally integrated through a transatlantic warfighting cloud and alliance-wide AI adoption, and geographically stretched — treating the Black Sea-Mediterranean-Gulf chokepoints as one connected theater. NATO 3.0 is quietly expanding its geography southward, with [Türkiye]({{ site.baseurl }}/actors/countries/turkey.html) as the hinge. NATO called out [Iran]({{ site.baseurl }}/actors/countries/iran.html) on Hormuz navigation and committed €27 billion to fuel logistics. Yet the summit's unspoken lesson is that American commitment is now conditional and transactional — a strategic vulnerability the [DragonBear]({{ site.baseurl }}/conflicts/cold-war-2.html) will systematically probe below the Article 5 threshold through its hybrid warfare playbook [11].
 
+## O'Brien's Critical Assessment
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) offers a sharply dissenting view of the Ankara summit, calling it "the worst summit in NATO history" [12]:
+
+- **No US conventional defense commitment**: The summit declaration contained nothing specific about the USA. Secretary Hegseth's six-month force posture review (announced June 18) means any promise is meaningless while the review is pending — the review is a threat to withdraw forces if Europeans don't comply with US demands on basing and arms purchases.
+- **Nuclear umbrella is meaningless without conventional forces**: The position that the US might wind down conventional forces but still maintain nuclear support is "the most poorly conceived strategic position imaginable." The US might not fight for the Baltic States conventionally but will "blow up the world" if Putin uses a nuclear weapon on them? "This is simply not happening." A Europe without its own nuclear deterrent is not an independent Europe.
+- **Greenland threats during summit week**: Trump made three explicit threats against Denmark over Greenland before, during, and after the summit — the threats, not the momentary "love," constitute the real story.
+- **Patriot license is hollow**: No details, no consultation with manufacturers, timeline of years. The pledge means no existing Patriot interceptors from US stocks — gifting Putin 1-3 winters of unrestricted ballistic missile bombardment of [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html). See [Ukraine Air Defense Crisis 2026]({{ site.baseurl }}/events/ukraine-air-defense-crisis-2026.html).
+- **2027 summit dropped**: The declaration mentioned only a vague "next meeting" — European leaders see no reason to repeat these "pointless/counterproductive meetings with Trump." This meeting was so bad there might not be another while Trump is president.
+
 ## Ankara Summit Delivery
 
 Antonia Colibasanu (GPF) reports that the Ankara summit marked a shift "decisively from setting targets to delivering results." The summit's developments fall into five categories [9]:
@@ -113,3 +123,5 @@ NATO faces a triple transition: from American-led to European-shared conventiona
 [10] [A Return to Mass: Russian Force Expansion in the War with Ukraine](https://warontherocks.com/a-return-to-mass-russian-force-expansion-in-the-war-with-ukraine/)
 
 [11] [My short takeaway from the NATO summit in Ankara](https://substack.com/@velinatchakarova/p-206419418)
+
+[12] [The Worst NATO Summit In History](https://phillipspobrien.substack.com/p/the-worst-nato-summit-in-history)

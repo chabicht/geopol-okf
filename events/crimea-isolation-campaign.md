@@ -7,7 +7,7 @@ tags: [military, drone-warfare, air-defense, europe]
 status: ongoing
 actuality: actual
 event_date: 2026-07-02
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -34,6 +34,12 @@ Crimea has been occupied by [Russia]({{ site.baseurl }}/actors/countries/russia.
 - O'Brien emphasizes that the process of gaining air superiority (not supremacy) over Crimea took years of sustained effort [1].
 - Ukrainians needed to create the systems and methodically denude Crimea of air defense capabilities — a campaign of attrition rather than a single decisive operation [1].
 
+## Sea of Azov Extension
+
+The Crimea isolation campaign has now extended into the [Sea of Azov]({{ site.baseurl }}/events/sea-of-azov-campaign.html). With road and rail to Crimea degraded and the Kerch Bridge under pressure, sea transport through Azov became the primary Russian resupply alternative. Ukraine's air and sea drone campaign attacked 28 Russian-controlled vessels (21 oil tankers) by July 11, 2026, forcing Russia to close the Kerch Strait to all new traffic. The campaign demonstrates how the isolation strategy is expanding from the Black Sea into previously safe Russian logistical corridors [2].
+
 # Citations
 
 [1] [Phillips O'Brien — turning Crimea from an asset into a liability](https://phillipspobrien.substack.com/p/turning-crimea-from-an-asset-into)
+
+[2] [Weekend Update #193: What Is Happening In The Sea Of Azov?](https://phillipspobrien.substack.com/p/weekend-update-193-what-is-happening)
