@@ -108,6 +108,18 @@ Around July 13, 2026, Trump let the [Iran ceasefire]({{ site.baseurl }}/events/i
 
 [Paul Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html) argues the collapse signals that Trump has given up on extracting anything resembling victory. A few days earlier, it appeared he would de facto pull out, take advantage of falling oil prices, and spin the story as an American victory. That was doomed but at least a serious attempt to end the conflict. Trump emotionally could not bring himself to admit failure — the strategy shifted from "pretend we won" to "bomb Iran with no clear strategy" [22].
 
+## Trump's Escalation Logic and the Reversal Objective
+
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) explains why Trump is escalating despite the midterms — a question puzzling many analysts. Trump declared the United States the "Guardian of the Strait of Hormuz," said America will "probably run it," and announced plans to charge a 20% fee on cargo — a political commitment that makes backing down significantly harder. The objective has moved from punishment to reversing the strategic defeat at Hormuz [25][26].
+
+Two factors drive the logic:
+
+**The Hoover risk**: Trump signed the MOU to avoid an economic crisis, explicitly saying he did not want to be "Herbert Hoover." But the MOU failed to stop the oil inventory drawdown — only ~14 days of global supply were gained. The inventory cliff is still coming in August. The SPR salt caverns face a structural risk: at low oil levels, water injection causes cavern walls to collapse, and the threshold is unknown [25].
+
+**MAGA turnout risk**: The Reagan Institute's Summer Survey shows 51% of MAGA Republicans favor replacing Iran's government; only 25% prefer a negotiated settlement. If Trump fails to open Hormuz and allows Iran to become the fourth center of world power, 5–10% of MAGA may not show up at the polls — enough to lose many seats. The Tucker Carlson isolationist wing has not taken over MAGA [25].
+
+Pape's framing is stark: "There is no third choice." Either Trump capitulates and accepts Iran as the rising regional hegemon, or he escalates. Trump is escalating to reopen Hormuz — not because the military option is certain to succeed, but because it is certain that if he doesn't, he will fail politically [25][26].
+
 ## Election Interference Pivot
 
 With the Iran war unable to deliver a victory narrative, Trump's strategy for the midterm elections has shifted to preparing the groundwork for massive interference. He announced a primetime speech reportedly about 2020 election fraud, with reports hinting he may try to declare the two Democratic senators from Georgia illegitimate. Krugman argues this is stage-setting for blocking fair November elections — possibly blocking elections entirely. The proposition that "there are things even Trump would not do" has been "the best way to be wrong about everything, every step of the Trump administration." See [Trump Election Interference Pretext]({{ site.baseurl }}/events/trump-election-fraud-pretext-2026.html) [22].
@@ -181,3 +193,9 @@ Applebaum's Kleptocracy Tracker provides the documentary record: the Qatari jet,
 [23] [Oligarchy in Action: The Case of Corporate Tax Cuts](https://paulkrugman.substack.com/p/oligarchy-in-action-the-case-of-corporate)
 
 [24] [Chartbook 458 Postscript - A Conversation with Barnaby Raine](https://adamtooze.substack.com/p/chartbook-458-poscript-a-conversation)
+
+[25] [Live with Prof Robert Pape: Is Stage 3 Coming](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-is-stage)
+
+[26] [Trump Just Changed the Political Logic of the War](https://escalationtrap.substack.com/p/trump-just-changed-the-political)
+
+[27] [Why Is Trump Escalating When Everyone Says He Won't?](https://escalationtrap.substack.com/p/why-is-trump-escalating-when-everyone-be9)

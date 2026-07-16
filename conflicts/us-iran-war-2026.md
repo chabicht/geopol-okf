@@ -247,6 +247,72 @@ Around July 13, 2026, the Versailles Memorandum collapsed. [Trump]({{ site.baseu
 
 Krugman identifies the overarching moral: the immense folly and criminality of a war that has left America and the world in a much worse place than if Trump had preserved the 2015 Iran deal. Trump cannot admit the venture failed — he can never admit that anything failed. The strategy has shifted from "pretend we won" to bombing Iran with no clear strategy, no path to victory, and no hint that anything might be resolved in a way that would help Republican chances in the midterms [31].
 
+## The Escalation Trap Deepens (July 2026)
+
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) argues that the ceasefire collapse is not simply another round of strikes but evidence that the conflict has entered a fundamentally new phase — the Escalation Trap is becoming self-reinforcing. Each side is no longer trying merely to impose military costs; each is attempting to reverse what it sees as an unacceptable political defeat. Every successful strike and retaliation creates new domestic pressures to continue escalating. "Both governments are becoming politically invested in objectives that cannot both be achieved at the same time" [32][33].
+
+### Two Engines of Escalation
+
+The war is now driven by two separate, mutually reinforcing engines:
+
+**1. Strategic escalation**: [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s Revolutionary Guard insists only Tehran will control Hormuz; US Central Command continues preparing to guarantee freedom of navigation. These objectives cannot both be achieved. [Trump]({{ site.baseurl }}/actors/trump.html) has moved from punishment to reversing the strategic defeat — his goal is no longer to coerce Iran but to undo the perception that the US lost [33].
+
+**2. Revenge escalation**: The new Supreme Leader's nationally broadcast statement — "We pledge to avenge your pure blood and the blood of all the martyrs... Soon individuals among the freedom-seekers across the world will each carry out part of this divine mission" — has transformed revenge into an independent political objective. The Iranian Intelligence Ministry released an official decree stating vengeance is "a national demand." This is not temporary rhetoric but a structural feature of the conflict [33].
+
+The critical insight: even if one engine slows, the other can continue driving escalation. "It takes two to taco" — Iran is not simply forgiving the killing of its leader and thousands of civilians. Most analysts are treating these as separate problems; they are not. They are beginning to interact in ways that fundamentally change the logic of the war [33].
+
+### Trump's Reversal Objective and Political Logic
+
+Trump's decision to declare the ceasefire over, reimpose a blockade, and announce American control over Hormuz fundamentally changes the political objectives of the war. He declared the United States the "Guardian of the Strait of Hormuz," said America will "probably run it," and announced plans to charge a 20% fee on cargo — a political commitment that makes backing down significantly harder [34].
+
+Pape identifies two factors driving Trump's escalation despite midterm risks:
+
+**The Hoover risk**: Trump signed the MOU to avoid an economic crisis, explicitly saying he did not want to be "Herbert Hoover." But the MOU failed to stop the oil inventory drawdown — the world gained only about 14 days of supply from a couple hundred million barrels released. The inventory cliff is still coming in August. The SPR salt caverns face a structural risk: oil is pumped out by injecting water, and at low levels the water eats away the cavern walls causing collapse. The exact threshold is unknown — "we're getting into new territory" [33].
+
+**MAGA turnout risk**: According to the Reagan Institute's Summer Survey (May 26–June 3), 51% of self-identified MAGA Republicans favor replacing Iran's government; only 25% prefer a negotiated settlement. If Trump fails to open Hormuz and allows Iran to become the fourth center of world power, a significant portion of MAGA will not show up at the polls. Losing 5–10% of the voting base means losing many seats and becoming "the lamest of lame ducks" — or essentially Lyndon Johnson. The Tucker Carlson isolationist wing has not taken over MAGA [33].
+
+Trump is escalating to reopen Hormuz — not because the military option is certain to succeed, but because it is certain that if he doesn't, he will fail politically. CNN's satellite footage confirming Iran is working at critical nuclear sites only increases the incentives for at least a symbolic victory before the midterms [33].
+
+### Iran's Three-Phase Evolution: Survival to Revenge
+
+Iran's political objectives have expanded through three phases:
+
+1. **Survival** (Feb–Mar 2026): After decapitation of senior leadership, Tehran's overriding goal was preserving the regime.
+2. **Ambition** (Apr–Jun 2026): Once Iran demonstrated it could contest Hormuz, it used leverage to pursue a new regional security order from Lebanon through the Gulf to Yemen.
+3. **Revenge** (Jul 2026–): The Supreme Leader's call to action adds a third objective — vengeance for the killing of Iran's leaders and ~4,000–12,000 civilians (equivalent to three 9/11s relative to Iran's population). Pape draws on 25 years of suicide terrorism research: 95% of suicide attacks coerce democratic withdrawal from territory. The Rushdie fatwa (1989) is the closest historical parallel — it produced attacks and deaths for decades. The current call to action has significantly greater strategic implications [33].
+
+The self-reinforcing spiral works as follows: every US bombing campaign kills more Iranians who are then portrayed as martyrs, strengthening the legitimacy of the revenge call and expanding the pool of sympathizers. If even one limited revenge attack succeeds — against an American official, business executives, a commercial airliner — public pressure for decisive retaliation would intensify, giving Trump even stronger incentives to authorize larger operations including ground options. "This is no longer a simple cycle of tit-for-tat retaliation. It is an escalation spiral" [33].
+
+### Stage 3 Military Preparation
+
+The US military is already pre-positioning and preparing the battlefield for Stage 3 ground operations. The evidence is visible in force deployments and target selection:
+
+**Carrier repositioning**: Two carrier strike groups moved from the Indian Ocean (1,000 miles from Iran, out of drone/missile range) into the Gulf of Oman — a costly signal placing 5,000–6,000 personnel within Iranian missile and drone range. States do not normally accept these risks unless they believe the strategic gains justify them [33].
+
+**Coastal suppression bombing**: Recent strikes concentrate on coastal surveillance radars, command-and-control networks, anti-ship missile batteries, drone launch sites, naval facilities, and ammunition depots along Iran's southeastern coast — the classic preparatory targets for establishing local air and maritime superiority before amphibious or littoral operations. These are not random targets [33].
+
+**Marine Expeditionary Unit**: Repositioned closer to the Gulf of Oman for rapidly deployable ground operations [33].
+
+Pape identifies two operational plans:
+
+- **Plan A**: Carriers provide air cover for the "Southern Passage" (the route near Oman), protecting ships from Iranian drones and missiles. This aligns with CENTCOM rhetoric about ensuring freedom of navigation [33].
+- **Plan B**: If air cover is insufficient, take territory on the coast — specifically Chabahar, far from Iran's population centers and IRGC concentrations. Marines and special forces would establish beachheads in two stages: initial entry, then sustained control. The coastline is a "moonscape" — horrible for landings. "This would be the worst losses we've seen since Vietnam." A symbolic victory (taking territory with little resistance) does not mean success — resistance typically emerges in weeks, not days, and in other campaigns took 4–6 months. Any ground war will likely last at least six months [33].
+
+Pape also notes that the Houthi situation in the Red Sea is concurrently escalating — Saudi Arabia has been trying to move 4 million barrels/day through the Red Sea, and the Houthis have shut that down before. The war is becoming much more dangerous across multiple theaters [33].
+
+### No Third Choice
+
+Pape's framework is stark: there is no third choice between surrender and escalation. "Everybody wants there to be a third choice. That doesn't make a third choice." The alternatives are either:
+
+1. Trump capitulates and accepts Iran as the rising regional hegemon (and likely the fourth center of world power within a year or two), or
+2. Trump escalates toward Stage 3 ground operations.
+
+The war is likely to continue "at least through January" 2027. The idea it would be over by July 1 was wishful thinking. Americans may stop the war when gasoline reaches $6–$8 per gallon, but that has not yet happened — and no terrorist attacks have occurred yet, which would fuel support for the war rather than opposition [33].
+
+### Nuclear Weapons Impracticality
+
+Pape addresses suggestions of using nuclear weapons against Iran: radiation clouds cannot be controlled and travel for hundreds of miles. Radioactive soot would kill large numbers of American troops over time — 20,000–30,000 from cancer and radiation sickness. "I just can't even imagine." Lindsey Graham's call for nuclear strikes is "clickbait" — a nuclear detonation in Gaza or the West Bank would kill tens of thousands of Jews, echoing the bombing of Auschwitz dilemma [33].
+
 # Citations
 
 [1] [Iran's Regime Is Headed for a Hard Landing](https://geopoliticalfutures.com/irans-regime-is-headed-for-a-hard-landing/)
@@ -310,3 +376,11 @@ Krugman identifies the overarching moral: the immense folly and criminality of a
 [30] [Suddenly, Hormuz is Less Crucial Than It Was](https://paulkrugman.substack.com/p/suddenly-hormuz-is-less-crucial-than)
 
 [31] [The Forever War Gets Scary](https://paulkrugman.substack.com/p/the-forever-war-gets-scary)
+
+[32] [Breaking Analysis #1: The Escalation Trap Has Entered a New Phase](https://escalationtrap.substack.com/p/breaking-analysis-1-the-escalation)
+
+[33] [Live with Prof Robert Pape: Is Stage 3 Coming](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-is-stage)
+
+[34] [Trump Just Changed the Political Logic of the War](https://escalationtrap.substack.com/p/trump-just-changed-the-political)
+
+[35] [Why Is Trump Escalating When Everyone Says He Won't?](https://escalationtrap.substack.com/p/why-is-trump-escalating-when-everyone-be9)

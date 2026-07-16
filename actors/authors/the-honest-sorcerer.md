@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Energy-centered analyst arguing that energy throughput — not GDP — is the true measure of power, that resource depletion is exponential, and that there is no "next economy" on a finite planet
 tags: [author, framework, opinion, energy]
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -66,6 +66,22 @@ The "Zero State" is a system unable to create growth, where elites choose war as
 
 The "polycrisis" framework: not a single crisis but the convergence of multiple stress vectors whose combined effect is greater than the sum of parts. The damage to supply chains of energy, fertilizer, food, and industrial inputs is already done — it is "just not registered by the Western ruling classes." The framework integrates the [global system rupture]({{ site.baseurl }}/themes/global-system-rupture.html) with thermodynamic limits and institutional incapacity [6].
 
+## Mining and Renewable Energy Impossibility
+
+The Honest Sorcerer argues that mining — the physical process of extracting metals from Earth's crust — cannot be electrified or made sustainable, undermining the core premise of the renewable energy transition. The framework has several dimensions:
+
+**Diesel dependency of mining**: Opening a mine is "environmental destruction on an industrial scale," powered almost entirely by diesel fuel. Harvesting machines, bulldozers, road-building equipment, haul trucks, and excavators all run on diesel — there are no power plugs in remote mining sites. Explosives blast away rock covering ore; the ore is then hauled by diesel trucks, crushed by electric grinding machines (powered by fossil-fuel plants or grid electricity), and leached with chemicals like sulfuric acid (an oil-refining byproduct). The process leaves behind toxic tailings — "ticking time bombs" of contamination [32].
+
+**Electric truck impracticality**: Electric dumper trucks work only in specific configurations — loaded downhill, empty uphill, where regenerative braking recharges batteries. In open-pit mines, the opposite is required: driving down empty and climbing back loaded. Installing solar/wind arrays near pits means trucks spend half their time charging. Swapping batteries multiplies investment cost 2–4x, turning "an already thin margin deeply negative." Mines are often hundreds of miles from the nearest power plant [32].
+
+**Resource cannibalism**: If mining equipment were electrified, the industry would need to build tons of copper, lithium, cobalt, and other "transition" metals into the very equipment used to obtain them — then replace them several times over the mine's life cycle. "Mining would then actively compete for the very metals they are going after." The same applies to long-distance transportation from mine to refinery. This is a losing proposition: electrifying an industry already struggling with depletion makes energy cannibalism exponentially worse [32].
+
+**Ore degradation as exponential driver**: As rich deposits deplete, the industry goes after ever-lower ore grades — meaning ever more energy per ton of metal produced. Chile's copper production saw electricity demand increase 53.5% between 2015 and 2026, while production grew only 7.5%. "Energy cannibalism" gets exponentially worse with time, especially with electrification. The rock-to-metal ratio for rare elements can reach 100,000:1 or even 100,000,000:1 [32].
+
+**Deindustrialization trajectory**: The long-term implication is a radical re-localization of production. Without enough diesel, iron ore (93% of all metals mined) cannot be hauled from beneath miles of rock overburden. No diesel means no coal. No coal means no steel. No steel means no manufacturing, no construction, no complex society. Once large-scale oil and coal extraction ends, descendants will return to burning charcoal to process scrap metals — causing rapid deforestation and a drastic drop in metal production. Over 90% of materials currently in circulation could be lost during the long descent. "Dark ages after collapse are usually not due to a loss of human intelligence, but to a loss of complexity" [32].
+
+The article is a tribute to the work of Simon Michaux, geologist and mining engineer, whose studies document the material impossibility of the energy transition at scale [32].
+
 # Sources in Bundle
 
 - "The Big Picture" [1]
@@ -99,6 +115,7 @@ The "polycrisis" framework: not a single crisis but the convergence of multiple 
 - "Everything Is Under Control… Until It Isn't" [29]
 - "How to Read the Signs of Collapse" (podcast with Nate Hagens) [30]
 - "Infinite Growth Delusions Continue — For Now" [31]
+- "We Are Not Mining with Renewable Energy" [32]
 
 # Citations
 
@@ -163,3 +180,5 @@ The "polycrisis" framework: not a single crisis but the convergence of multiple 
 [30] [How to Read the Signs of Collapse — The Great Simplification #209](https://natehagens.substack.com/cp/186878448)
 
 [31] [Infinite Growth Delusions Continue — For Now](https://thehonestsorcerer.substack.com/p/infinite-growth-delusions-continue)
+
+[32] [We Are Not Mining with Renewable Energy](https://thehonestsorcerer.substack.com/p/we-are-not-mining-with-renewable-104)
