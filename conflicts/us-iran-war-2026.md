@@ -323,6 +323,16 @@ Every escalation transfers wealth toward the [DragonBear]({{ site.baseurl }}/con
 
 Tchakarova warns of a "very bumpy second half of 2026": US-Israel-[Iran]({{ site.baseurl }}/actors/countries/iran.html) escalations will continue with no end in sight; Yemen-[Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) tensions are coming; [Türkiye]({{ site.baseurl }}/actors/countries/turkey.html) and Syria might also get involved. [Russia]({{ site.baseurl }}/actors/countries/russia.html) will face a strong recession scenario due to the war in Iran and will boost its summer offensive in [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), while Ukraine will seek to quickly build antiballistic missile defence systems ahead of the winter. The Indo-Pacific will face further militarizations and tensions. Two needed (real) ceasefires in Ukraine and Iran are the mutually strengthening signal toward preventing the [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) scenario [37].
 
+## The Asymmetric Warfare Lesson
+
+Urbanski ([RUSI]({{ site.baseurl }}/actors/authors/rusi.html)) argues that the Iran war and the Ukraine war carry opposite signs — in Iran, an authoritarian regime struck by a superpower; in Ukraine, a young democracy attacked by an authoritarian superpower — yet for NATO's budget planners they yield one coherent set of lessons. Neither Iran nor Ukraine found a way to defeat a superpower decisively on the battlefield. Both found ways to make a superpower's victory expensive — and potentially unaffordable — by shifting the contest into domains where the Western alliance has under-invested: the economics of munitions, the protection of infrastructure far behind the front line, commercial risk, and the public's confidence in everyday security [38].
+
+Iran never achieved sea control in the Strait of Hormuz; it did not need to. Within days, crude oil exports fell 95% and LNG 99% — the largest supply disruption in the history of the oil market. Iran achieved this with technologically unsophisticated means: sea mines, short-range missiles, swarming fast boats, and enough demonstrated resolve to convince insurers, shipowners and energy markets that transit was not worth the risk. The US expended roughly half its Patriot inventory, more than 850 Tomahawks, and over 1,000 air-launched stand-off weapons. Rebuilding those stockpiles will take four to five years [38].
+
+## Hormuz Crisis Undermining Russian Sanctions
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) documents how the US focus on Iran under maximum-pressure strategy had a direct impact on European efforts to constrain [Russian]({{ site.baseurl }}/actors/countries/russia.html) energy revenue. The US issued general licences allowing Russian oil sales during the Hormuz crisis, kneecapping G7 price cap efforts just as they were biting (Urals fell below $50/barrel by December 2025). The political logic was understandable — governments facing an energy shock do not want to remove barrels from the market — but the sanctions logic was weaker. The US was escalating against Iran's oil smuggling networks while allowing Russian cargoes to keep flowing. If the situation in the Gulf allows, the G7 should align on replacing the exhausted price cap with a full maritime services ban [39].
+
 # Citations
 
 [1] [Iran's Regime Is Headed for a Hard Landing](https://geopoliticalfutures.com/irans-regime-is-headed-for-a-hard-landing/)
@@ -398,3 +408,7 @@ Tchakarova warns of a "very bumpy second half of 2026": US-Israel-[Iran]({{ site
 [36] [The Ceasefire That Never Was: Washington and Tehran Return to the Brink in the Strait of Hormuz](https://substack.com/@velinatchakarova/p-206278750)
 
 [37] [Short update of the second half of 2026](https://substack.com/@velinatchakarova/p-206929714)
+
+[38] [Cheap Attack, Expensive Defence: NATO 5% Pledge Following Iran and Ukraine](https://www.rusi.org/explore-our-research/publications/commentary/cheap-attack-expensive-defence-nato-5-pledge-following-iran-and-ukraine)
+
+[39] [The Future of Russian Sanctions After the Hormuz Crisis](https://www.rusi.org/explore-our-research/publications/commentary/future-russian-sanctions-after-hormuz-crisis)

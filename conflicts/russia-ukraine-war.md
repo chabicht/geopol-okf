@@ -10,7 +10,7 @@ tags:
   - military
   - europe
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -165,6 +165,14 @@ O'Brien reports that Ukraine struck [Russia]({{ site.baseurl }}/actors/countries
 
 [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) assesses that [Russia]({{ site.baseurl }}/actors/countries/russia.html) will face a strong recession scenario due to the war in [Iran]({{ site.baseurl }}/actors/countries/iran.html) — the cascading effects of the [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) are compounding Russia's existing economic strain from the Ukraine war. Russia will boost its summer offensive, while [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) will seek to quickly build antiballistic missile defence systems ahead of the winter. Two needed (real) ceasefires — in Ukraine and Iran — are the mutually strengthening signal toward preventing the Global System Rupture scenario or the fourth systemic risk-driven global crisis [24].
 
+## Cheap Mass and the Cost-Exchange Lesson
+
+Urbanski ([RUSI]({{ site.baseurl }}/actors/authors/rusi.html)) argues that both the Ukraine and Iran wars carry the same lesson for NATO procurement: cheap mass defeats expensive platforms. In Ukraine, Russia — with a 2026 defence budget four times Ukraine's — has failed to achieve its objectives for more than four years. A superpower's overwhelming advantage in troops and platforms failed to deliver decisive results. The weaker party imposed disproportionate costs on the stronger side's munitions stocks, its economy and its political will. Ukraine's naval-drone successes — uncrewed surface vessels costing a few hundred thousand dollars each, less than a single modern torpedo, knocking out around a third of Russia's Black Sea Fleet without a conventional navy — demonstrate that the cost-exchange ratio can be inverted [26].
+
+## Ukraine's Centrality to European Defence
+
+Rachel Ellehuus ([RUSI]({{ site.baseurl }}/actors/authors/rusi.html) Director-General) argues the Ankara summit confirmed [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html)'s centrality to credible European defence. The declaration's statement that "Ukraine contributes to transatlantic security" formally recognises Ukraine as a security contributor, not just a partner. Promising cooperation initiatives: Project Freya (anti-ballistic missile system with Ukrainian rockets, German Hensoldt radars, Norwegian C2), drone coproduction contracts with European and Gulf nations, integration of Ukraine's FP5 Flamingo missile with European industry. Through creative coproduction and co-development arrangements, Ukrainian industry can help Europe produce and innovate at scale — and at lower cost [27].
+
 # Citations
 
 [1] https://substack.com/@velinatchakarova/p-204418261
@@ -208,3 +216,7 @@ O'Brien reports that Ukraine struck [Russia]({{ site.baseurl }}/actors/countries
 [24] [Short update of the second half of 2026](https://substack.com/@velinatchakarova/p-206929714)
 
 [25] [Weekend Update #193: What Is Happening In The Sea Of Azov?](https://phillipspobrien.substack.com/p/weekend-update-193-what-is-happening)
+
+[26] [Cheap Attack, Expensive Defence: NATO 5% Pledge Following Iran and Ukraine](https://www.rusi.org/explore-our-research/publications/commentary/cheap-attack-expensive-defence-nato-5-pledge-following-iran-and-ukraine)
+
+[27] [The critical enablers of a more European NATO](https://www.euractiv.com/opinion/the-critical-enablers-of-a-more-european-nato/)

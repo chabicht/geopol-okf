@@ -5,7 +5,7 @@ parent: Countries
 description: Russia as a geopolitical actor — waging war in Ukraine, managing Chechnya's succession risk, projecting power in Africa, conducting cognitive warfare against the West, attempting to revitalize the CSTO, losing its grip on its southern flank, facing logistics vulnerabilities under sanctions, facing drone strikes deep into Siberia, and contending with the resilience of its security state
 tags: [country, military, cognitive-warfare, energy, sanctions, europe, caucasus, africa, central-asia, supply-chain]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -136,6 +136,24 @@ A Kremlin-approved programme is transferring Russia's Ukraine-war combat lessons
 
 As Russian nuclear saber-rattling accelerated through 2026, with prominent Russian voices openly urging the Kremlin to reach for nuclear weapons after Ukrainian strikes, Beijing reportedly delivered Moscow an ultimatum-form warning that there can be no thought of using nuclear weapons in Ukraine. The message represented a firmer Chinese stance than at any previous point in the war. The DragonBear coordinates across every domain except the one where China's global standing and strategic interest diverge absolutely from Russia's escalation logic. Beijing enables the war machine and simultaneously polices its nuclear threshold. The red line runs through Beijing, not Moscow — coordination and constraint are exercised by the same hand [25].
 
+## The Spirit of Anchorage is Dead
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) traces the collapse of the "spirit of Anchorage" — the vague term Russian media adopted after the August 2025 Trump-Putin summit in Alaska. The term had no formal written agreement behind it; each side came away with its own interpretation. By October 2025, Lavrov was noting the US had changed its rhetoric under European pressure. By June 2026, Lavrov pronounced the spirit dead, noting with regret that he did not "even want to think" the Alaska summit was designed to buy time for Kyiv. See [Spirit of Anchorage 2025]({{ site.baseurl }}/events/spirit-of-anchorage-2025.html) [26].
+
+Russia oscillates between hard doctrines, specific strategies and hard economic data, while overlaying this with abstract and occasionally religiously-themed frameworks about its "mission," "fate," or "destiny" — making international agreements difficult to negotiate. The "spirit of Anchorage" exemplifies this pattern: Russia creates an ambiguous verbal framework, assigns it whatever meaning suits the current propaganda need, and blames the other party for "betraying" a commitment that was never made [26].
+
+## Russia's Three Parallel Conversations
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) identifies three separate but parallel conversations Russia maintains: the Ukraine war, the bilateral US relationship, and potential future war with [NATO]({{ site.baseurl }}/actors/organizations/nato.html). The Kremlin sees no contradiction between sounding the alarm over imminent NATO war, continuing strikes on Kyiv, and criticising the US while maintaining engagement with [Trump]({{ site.baseurl }}/actors/trump.html). On 6 July 2026, Peskov stated the "special operation" had morphed into a "war" due to Western intervention — [Lukashenka]({{ site.baseurl }}/actors/lukashenka.html) echoed this the next day, something he had historically avoided. This was not the first time the terminology changed, but the timing on the eve of the NATO Ankara summit was deliberate [26].
+
+## Russia's Last Window: Sino-American Conflict
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) argues that a Sino-American crisis or war would represent Russia's "last window" to revise the European order. However, Russia's best options might be ensuring a Chinese victory in the Pacific rather than directly attacking Europe. The Russian Pacific Fleet has received roughly half of Russia's newest Yasen-class submarines; submarines allocated to the Northern Fleet can be reallocated east via the northern sea route. Russia has enough key capabilities — submarines and missile launchers — to potentially swing an even balance between the US and China. Much of Russia's industrial base lies within several hundred kilometres of Finland and [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) [27].
+
+## Shadow Fleet and Oil Revenue
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) documents that the US has not adopted a single designation against the Russian shadow fleet since January 2025. The US focus on Iran undermined sanctions on Russia: general licences allowing Russian oil sales during the Hormuz crisis kneecapped G7 price cap efforts just as they were biting (Urals fell below $50/barrel by December 2025). Nearly 30% of Russian crude in April 2026 was transported on G7 tankers. The price cap is exhausted — RUSI recommends replacing it with a full maritime services ban [28].
+
 # Analysis
 
 Russia's strategic position is paradoxical: deeply committed in Ukraine, facing succession risk in Chechnya, losing ground in Africa, yet successfully exploiting Western energy dependencies and conducting effective cognitive warfare. The DragonBear axis provides critical support, but Russia's ability to sustain multiple theaters is increasingly constrained by the prioritization demands of the Ukraine war.
@@ -191,3 +209,9 @@ Russia's strategic position is paradoxical: deeply committed in Ukraine, facing 
 [24] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)
 
 [25] [The DragonBear in July: Coordination Without Alliance](https://substack.com/@velinatchakarova/p-206606963)
+
+[26] [NATO Planning for War with Russia – but has Moscow Left the Door Open?](https://www.rusi.org/explore-our-research/publications/commentary/nato-planning-war-russia-has-moscow-left-door-open)
+
+[27] [Thinking Beyond the Baltics for Deterring Russia](https://www.rusi.org/explore-our-research/publications/commentary/thinking-beyond-baltics-deterring-russia)
+
+[28] [The Future of Russian Sanctions After the Hormuz Crisis](https://www.rusi.org/explore-our-research/publications/commentary/future-russian-sanctions-after-hormuz-crisis)

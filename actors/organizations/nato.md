@@ -5,7 +5,7 @@ parent: Organizations
 description: NATO as a geopolitical actor — the transatlantic alliance straining under shifting US priorities, a mandated 5% defense spending target, and the extension of deterrence posture into the Pacific
 tags: [organization, military, europe]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -100,6 +100,34 @@ Russia's inventories of strike drones and long-range missiles are likely to be m
 
 NATO faces a triple transition: from American-led to European-shared conventional defense, from Euro-Atlantic to increasingly global deterrence posture (Taiwan), and from declaratory spending targets to actual capability delivery. The 5% target is necessary but insufficient if the logistics and institutional foundations — exemplified by Germany's hub shortfall — are not addressed. The alliance's credibility now depends less on Article 5 rhetoric and more on whether European members can field, sustain, and command the conventional forces that deterrence requires.
 
+## Making the 5% Count: Cheap Attack, Expensive Defence
+
+Urbanski ([RUSI]({{ site.baseurl }}/actors/authors/rusi.html)) argues that both the [Iran]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) and [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) wars teach the same lesson: cheap mass (drones, mines, swarming boats) defeats expensive platforms. The 5% GDP pledge is historic, but the danger is that money flows into familiar platforms rather than innovative, low-cost, layered solutions. NATO can win every engagement and still lose wars. The cost-exchange ratio is unsustainable: defending often costs a hundred times more than attacking — Patriot interceptors at ~$4 million each against Shahed drones costing tens of thousands. Over 39 days against Iran, the US expended roughly half its Patriot inventory, more than 850 Tomahawks, and over 1,000 air-launched stand-off weapons. Rebuilding those stockpiles will take four to five years [13].
+
+The concrete agenda: invert the cost curve of air defence with cheap, layered, mass-produced counter-drone systems; build offensive long-range strike at low unit cost; recapitalise neglected mine countermeasures and undersea infrastructure protection; fund civilian resilience (hardened, redundant nodes in energy, transport, telecommunications, navigation that survives jamming). NATO has earmarked 1.5% of GDP precisely for this civilian resilience and innovation — the challenge is reforming procurement and decision-making so that capabilities reach the force in time [13].
+
+## Russia's Three Parallel Conversations
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) identifies three separate but parallel conversations [Russia]({{ site.baseurl }}/actors/countries/russia.html) maintains: the Ukraine war, the bilateral US relationship, and potential future war with NATO. The Kremlin sees no contradiction between sounding the alarm over imminent NATO war, continuing strikes on Kyiv, and criticising the US while maintaining engagement with [Trump]({{ site.baseurl }}/actors/trump.html). Peskov's 6 July statement that the "special operation" had morphed into a "war" — echoed by [Lukashenka]({{ site.baseurl }}/actors/lukashenka.html) — marked a significant linguistic shift. See [Spirit of Anchorage 2025]({{ site.baseurl }}/events/spirit-of-anchorage-2025.html) for the collapse of the diplomatic framework that preceded it [14].
+
+## Beyond the Baltics: Risk Manipulation and Theatre-Wide Strike
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) argues European defence planning is too narrowly focused on a single Baltic "bite and hold" scenario and should consider the broader global strategic context. A Sino-American crisis or war would represent [Russia]({{ site.baseurl }}/actors/countries/russia.html)'s "last window" to revise the European order — but Russia's best options might be ensuring a Chinese victory in the Pacific rather than directly attacking Europe. Russian officers (Sterlin, Gerasimov) describe regional war as escalating rapidly and decided primarily in the rear — making theatre-wide capabilities (deep strike, IAMD, attack submarines) more important than local force balances. The proposed strategy: "risk manipulation" — convince Russia that a regional war would be unpredictable and leave it strategically worse off, rather than attempting pure territorial denial. Missile inventories are far cheaper than armoured brigades: 220 Tomahawks for ~$833M vs. ~$600M/year for one armoured brigade. Much of Russia's industrial base lies within several hundred kilometres of Finland and [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) [15].
+
+## Three Lessons from Ankara: A More European NATO
+
+Rachel Ellehuus ([RUSI]({{ site.baseurl }}/actors/authors/rusi.html) Director-General) identifies three lessons from the Ankara summit for sustaining a more European-led NATO [16]:
+
+1. **Deliver results, not fight the scenario**: The old NATO where the US led and provided the bulk of capabilities is not returning. A more balanced alliance will be more resilient, in which Europeans have greater agency and are a better partner to the US.
+2. **Ukraine's centrality**: The summit declaration's statement that "Ukraine contributes to transatlantic security" formally recognises [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) as a security contributor. Promising cooperation initiatives include Project Freya (anti-ballistic missile system with Ukrainian rockets, German Hensoldt radars, Norwegian C2), drone coproduction contracts with European and Gulf nations, and integration of Ukraine's FP5 Flamingo missile with European industry.
+3. **Private sector's role**: The NATO Defence Industry Forum (NSDIF26), the Strategy for NATO-Industry Cooperation, and sharing NATO's aggregate defence shortfalls directly with industry signal that industry needs a seat at the table. Financing mechanisms like the Multilateral Defence Mechanism (Finland, Poland, Netherlands, [UK]({{ site.baseurl }}/actors/countries/united-kingdom.html)) and the Defence Security and Resilience Bank (Canada, Luxembourg) provide additional investor assurance.
+
+## NATO-IP4: What's Left of Asia Engagement
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) traces NATO's three phases of partnerships: post-1991 (enlargement), post-9/11 (counter-piracy/Afghanistan), and post-2019 (China rise → IP4: [Australia]({{ site.baseurl }}/actors/countries/australia.html), [Japan]({{ site.baseurl }}/actors/countries/japan.html), New Zealand, South Korea). At the 2026 Ankara summit, South Korea was represented at Presidential level, others at ministerial level — interpretable as either decline from the 2022 Madrid summit or maturation into pragmatic functionality. [China]({{ site.baseurl }}/actors/countries/china.html)'s backing of [Putin]({{ site.baseurl }}/actors/putin.html)'s 2022 escalation catalyzed NATO-IP4 mutual attraction. The Ukraine war created real material links: South Korean defence manufacturers restocking European armouries, North Korean troops fighting in Ukraine with Russian tech transfer in return, lessons flowing to Japan and Taiwan [17].
+
+However, the second Trump administration's NDS treats Euro-Atlantic/Indo-Pacific separation as desirable, and its "constructive strategic stability" détente with China conflicts with "ganging up" via NATO-IP4. The "Europeanisation" of NATO may further complicate Asian engagement: [France]({{ site.baseurl }}/actors/countries/france.html) is wary that constraints on China diplomacy could be imposed through a common NATO policy, and [Spain] is pulling toward Beijing. Even if Washington loses interest, the IP4 values access to NATO as a platform for accessing lessons from Ukraine [17].
+
 # Citations
 
 [1] Velina Tchakarova, "The Encirclement of Taiwan and the New Eastern Front" — https://substack.com/@velinatchakarova/p-203793388
@@ -125,3 +153,13 @@ NATO faces a triple transition: from American-led to European-shared conventiona
 [11] [My short takeaway from the NATO summit in Ankara](https://substack.com/@velinatchakarova/p-206419418)
 
 [12] [The Worst NATO Summit In History](https://phillipspobrien.substack.com/p/the-worst-nato-summit-in-history)
+
+[13] [Cheap Attack, Expensive Defence: NATO 5% Pledge Following Iran and Ukraine](https://www.rusi.org/explore-our-research/publications/commentary/cheap-attack-expensive-defence-nato-5-pledge-following-iran-and-ukraine)
+
+[14] [NATO Planning for War with Russia – but has Moscow Left the Door Open?](https://www.rusi.org/explore-our-research/publications/commentary/nato-planning-war-russia-has-moscow-left-door-open)
+
+[15] [Thinking Beyond the Baltics for Deterring Russia](https://www.rusi.org/explore-our-research/publications/commentary/thinking-beyond-baltics-deterring-russia)
+
+[16] [The critical enablers of a more European NATO](https://www.euractiv.com/opinion/the-critical-enablers-of-a-more-european-nato/)
+
+[17] [What's Left of NATO's Asia Engagement?](https://www.rusi.org/explore-our-research/publications/commentary/whats-left-natos-asia-engagement)

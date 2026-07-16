@@ -5,7 +5,7 @@ parent: Regions
 description: Crossroads of three continents containing the Strait of Hormuz; undergoing a US strategic reorientation from Israel-centric to multilateral security, with Turkey-Israel rivalry as the defining competitive dynamic and Iran in systemic decline.
 tags: [middle-east, energy, military, trade]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -39,6 +39,7 @@ The region hosts a dense web of competing actors — the United States, Iran, Is
 - The [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) fractured Gulf cohesion. Saudi Arabia and the UAE — which between them absorbed thousands of Iranian missiles and drones — sent condolence delegations to Tehran for Supreme Leader Ali Khamenei's funeral. The Gulf states have drawn their own conclusions about who won. [Project Freedom]({{ site.baseurl }}/events/project-freedom-collapse.html) — Trump's tanker escort plan — collapsed when Saudi Arabia refused basing, citing lack of confidence in U.S. strategy. The UAE quit OPEC and threatened to leave the Arab League. Iran's kinetic targeting of GCC countries served a deliberate wedge strategy: demonstrating that supporting the U.S. campaign has a price. When Washington called for solidarity, regional partners hesitated — Iran was imposing costs, and Washington offered no reason to pay the price [16].
 - Around July 13, 2026, the [Hormuz ceasefire collapsed]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html). [Trump]({{ site.baseurl }}/actors/trump.html) reinstated the blockade; Iran resumed drone strikes on shipping. Trump declared he would collect 20% tolls, then demanded countries invest in the US as a condition for passage. [Paul Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html) notes the collapse will do less economic damage than expected because the binding constraint has shifted from crude supply to refining capacity — roughly 10% of world refining capacity is offline, primarily from Ukraine's drone campaign against Russian refineries. Hormuz reopening would add crude but not usable fuel. The pain at the pump will continue [17].
 - [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) argues the conflict has entered a new phase of the Escalation Trap, driven by two reinforcing engines — strategic (Hormuz control) and revenge (Supreme Leader's call to action). The US military is already preparing the battlefield for Stage 3 ground operations: carrier strike groups repositioned into the Gulf of Oman, coastal suppression bombing along Iran's southeastern coast, and a Marine Expeditionary Unit moved closer. Trump's "Guardian of the Strait" declaration and 20% toll announcement constitute a political commitment making backing down harder. The war is likely to continue through January 2027 [18].
+- **Hormuz crisis undermining G7 sanctions on Russia**: [RUSI]({{ site.baseurl }}/actors/authors/rusi.html) documents how the US focus on Iran under maximum-pressure strategy undermined European efforts to constrain [Russian]({{ site.baseurl }}/actors/countries/russia.html) energy revenue. The US issued general licences allowing Russian oil sales during the Hormuz crisis (Brent surpassed $100/barrel), kneecapping G7 price cap efforts just as they were biting (Urals fell below $50/barrel by December 2025). The US was escalating against Iran's oil smuggling networks while allowing Russian cargoes to keep flowing. If normalcy returns to Hormuz, the G7 must be ready to align again on pressuring Russia — replacing the exhausted price cap with a full maritime services ban [19].
 
 # Key Dynamics
 
@@ -84,3 +85,5 @@ The region hosts a dense web of competing actors — the United States, Iran, Is
 [17] [Suddenly, Hormuz is Less Crucial Than It Was](https://paulkrugman.substack.com/p/suddenly-hormuz-is-less-crucial-than)
 
 [18] [Live with Prof Robert Pape: Is Stage 3 Coming](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-is-stage)
+
+[19] [The Future of Russian Sanctions After the Hormuz Crisis](https://www.rusi.org/explore-our-research/publications/commentary/future-russian-sanctions-after-hormuz-crisis)

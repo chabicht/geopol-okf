@@ -11,7 +11,7 @@ tags:
   - supply-chain
   - economics
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -115,6 +115,20 @@ Greg Whisler and Michael Kofman (War on the Rocks) document Russia's wartime for
 
 The paradox: Russia demonstrated a strong ability to generate and sustain forces — including high artillery and drone-fire rates throughout the war — but could not translate mass into breakthroughs. The problem was not logistical but an inability to concentrate forces at the decisive point. This case illustrates that defense industrial resilience is necessary but insufficient: the ability to produce and sustain forces must be paired with doctrinal adaptation and the capacity to employ combat power effectively at scale. [NATO]({{ site.baseurl }}/actors/organizations/nato.html) planners must account for a post-war Russian military that is much larger, with expanded drone and precision-strike capabilities on their borders — even if its ability to employ that mass effectively remains in question [6].
 
+## Inverting the Cost Curve: Cheap Attack, Expensive Defence
+
+Urbanski ([RUSI]({{ site.baseurl }}/actors/authors/rusi.html)) argues that both the [Iran]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) and [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) wars demonstrate the same structural lesson for defense industrial policy: cheap mass (drones, mines, swarming boats) defeats expensive platforms. The mathematics are stark — defending often costs a hundred times more than attacking. Over 39 days against Iran, Gulf and US air defences expended hundreds of Patriot interceptors at ~$4 million each against Iranian Shahed drones costing tens of thousands. The US expended roughly half its Patriot inventory, more than 850 Tomahawks, and over 1,000 air-launched stand-off weapons. Rebuilding those stockpiles will take four to five years [7].
+
+The vulnerability at the heart of Europe is rooted in two decades of procurement choices: exquisite platforms bought in small numbers, acquisition concentrated in a few large and often slow-moving prime contractors, a deficit of innovation and chronic neglect of precisely those civilian systems and infrastructure that adversaries now treat as the primary battlespace. Autocratic regimes aim not at Western forces but at the political and economic system of open societies — Iran never achieved sea control in Hormuz but did not need to, as crude exports fell 95% and LNG 99% within days [7].
+
+The concrete agenda: invert the cost curve of air defence with cheap, layered, mass-produced counter-drone systems (short-range air defences, directed-energy weapons, interceptor drones, guided rockets); build offensive long-range strike at low unit cost; recapitalise neglected mine countermeasures and undersea infrastructure protection; fund civilian resilience. NATO has earmarked 1.5% of GDP for this civilian resilience and innovation. The challenge is reforming procurement and decision-making so capabilities reach the force before the current window closes [7].
+
+## Spending is Not Capacity
+
+Ball, Crompton, and Detter ([RUSI]({{ site.baseurl }}/actors/authors/rusi.html)) argue that Britain's defense debate is dominated by inputs (spending totals as % of GDP) rather than outputs (capacity and readiness). A larger defense budget does not automatically produce more defense capability. A ship that cannot be repaired quickly enough is not full capacity. A weapons system without sufficient munitions, spares or trained personnel is not full capacity. A base with poor housing, weak maintenance and inadequate resilience is not merely an estate management problem — it is a contributor to poor overall readiness [8].
+
+They propose three reforms: (1) a Defence Capacity Statement with every major spending uplift, showing not just the amount spent but the capacity created (munitions output, drone production, ship repair, deployable units, training capacity, stockpile resilience, housing quality, maintenance reduction); (2) Capacity Schedules for each service and Top Level Budget holder, providing visibility of assets, condition, maintenance backlog, liabilities, bottlenecks, and capital projects; (3) a Defence Capacity Map classifying the assets, bottlenecks and liabilities that shape readiness. Weak accounting is evidence of weak management visibility — if provisions for liabilities are understated, today's budget is flattered at the expense of tomorrow's force. Deferred maintenance is not free; it is a hidden claim on future defense capacity [8].
+
 # Citations
 
 [1] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
@@ -128,3 +142,7 @@ The paradox: Russia demonstrated a strong ability to generate and sustain forces
 [5] [NATO Puts Its Money Where Its Mouth Is](https://geopoliticalfutures.com/nato-puts-its-money-where-its-mouth-is/)
 
 [6] [A Return to Mass: Russian Force Expansion in the War with Ukraine](https://warontherocks.com/a-return-to-mass-russian-force-expansion-in-the-war-with-ukraine/)
+
+[7] [Cheap Attack, Expensive Defence: NATO 5% Pledge Following Iran and Ukraine](https://www.rusi.org/explore-our-research/publications/commentary/cheap-attack-expensive-defence-nato-5-pledge-following-iran-and-ukraine)
+
+[8] [Defence Spending Must Become Defence Capacity](https://www.rusi.org/explore-our-research/publications/commentary/defence-spending-must-become-defence-capacity)
