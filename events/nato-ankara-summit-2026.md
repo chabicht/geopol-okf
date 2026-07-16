@@ -42,6 +42,22 @@ The summit's central questions — defense investment, support for Ukraine, air 
 
 See [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
 
+## O'Brien's Critical Assessment: "The Worst Summit in NATO History"
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) offers a sharply dissenting assessment of the Ankara summit, arguing it was the worst in NATO history [6]:
+
+**Greenland threats during summit week**: Trump made three explicit threats against a NATO country over three days before, during, and after the summit. On July 7, he made an unveiled threat to take [Greenland]({{ site.baseurl }}/events/trump-greenland-crisis.html) from Denmark. On July 8, he called it "stupid" that the USA gave the island "back" to Denmark. On the plane ride back from Ankara, he threatened to walk away from European defense if the USA did not get a "good deal" on Greenland — "A lot's going to depend on Greenland."
+
+**No US conventional defense commitment**: The summit declaration contained nothing specific about the USA at all — just a general statement that all states remain committed to the alliance. Secretary Hegseth announced a six-month review of US force posture in Europe on June 18, meaning any promise made now is meaningless while the review is pending. The review is a threat: do everything the US wants on basing, arms purchases, etc., or face further withdrawals.
+
+**Nuclear umbrella is meaningless without conventional defense**: O'Brien argues the position — US might wind down conventional forces but still maintain nuclear support — is the most poorly conceived strategic position imaginable. The US might not fight for the Baltic States conventionally, but it will "blow up the world" if Putin uses a nuclear weapon on them? "This is simply not happening." A Europe without its own nuclear deterrent is not an independent Europe — which is what Trump wants.
+
+**Patriot license for Ukraine is hollow**: Trump pledged to give [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) a license to make Patriots — "We'll give them the right to make Patriots. We'll show them how to do it." Critical unanswered questions: Will the license actually be granted? What will be covered (PAC-2 vs PAC-3)? Even with a license, it will take years to reach production. Trump admitted he had never discussed this with US arms manufacturers — suggesting a spur-of-the-moment decision for plaudits, not a worked-out pledge. See [Ukraine Air Defense Crisis 2026]({{ site.baseurl }}/events/ukraine-air-defense-crisis-2026.html).
+
+**2027 summit dropped from declaration**: The declaration's last paragraph mentioned only a vague "next meeting" at an indeterminate location — not the previously scheduled 2027 Tirana summit. Stories circulated that European leaders see no reason to engage in these "pointless/counterproductive meetings with Trump." This meeting was so bad there might not be another while Trump is president.
+
+**Trump's "love" tell**: O'Brien identifies Trump's claims about caring, human affection, and "tremendous love in that room" as a reliable tell that he is lying — Trump does not believe in such things, and when he invokes them, it signals the opposite.
+
 ## From Targets to Delivery
 
 Antonia Colibasanu (GPF) reports that the Ankara summit marked a new chapter — shifting "decisively from setting targets to delivering results." The summit's developments fall into five categories [3]:
@@ -93,3 +109,5 @@ The Ukrainian Ministry of Defence provided information on the specific outcomes 
 [4] [My short takeaway from the NATO summit in Ankara](https://substack.com/@velinatchakarova/p-206419418)
 
 [5] [NATO Summit – Outcomes for Ukraine](https://substack.com/@velinatchakarova/p-206687913)
+
+[6] [The Worst NATO Summit In History](https://phillipspobrien.substack.com/p/the-worst-nato-summit-in-history)

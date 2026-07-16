@@ -26,6 +26,7 @@ Russia's summer advance has slowed sharply, and Ukrainian strikes are now reachi
 The operational picture is characterized by several parallel Ukrainian campaigns:
 
 - **Crimea isolation**: Ukraine is successfully isolating [Crimea]({{ site.baseurl }}/events/crimea-isolation-campaign.html), with fuel shortages becoming acute — the Russian-appointed governor has forbidden civilian fuel sales on the peninsula [3].
+- **Sea of Azov campaign**: Ukraine has extended its isolation campaign into the [Sea of Azov]({{ site.baseurl }}/events/sea-of-azov-campaign.html), using air and sea drones to attack 28 Russian-controlled vessels (21 oil tankers) and forcing Russia to close the Kerch Strait to all new traffic [25].
 - **Long-range strikes**: Ukrainian long-range strikes are targeting Russian war production, not just refineries. The Titan-Barrikady facility in Volgograd (former Stalingrad) has been hit by FP-5 Flamingo missiles [4].
 - **Belarus pressure**: [Lukashenka]({{ site.baseurl }}/actors/lukashenka.html) has halted radio guidance equipment that was helping Russian strikes, responding to Ukrainian threats. [Belarus]({{ site.baseurl }}/actors/countries/belarus.html) is increasingly exposed: Minsk is closer to Kyiv than Kyiv is to Crimea, placing vital targets within Ukrainian reach [5].
 - **Refinery attacks**: Fuel shortages are appearing across Russia as the campaign against refineries begins to bite [4].
@@ -142,6 +143,24 @@ The global implication is that the Russia-Ukraine War's refinery campaign has be
 
 This intersection of two wars — the Iran war disrupting crude supply and the Ukraine war disrupting refining capacity — produces a compounding effect on global energy markets that neither conflict's analysts fully anticipated. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) [23].
 
+## Sea of Azov Campaign
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) documents a strategically significant but under-covered Ukrainian campaign in the [Sea of Azov]({{ site.baseurl }}/events/sea-of-azov-campaign.html). The sea was supposed to be a Russian lake — Russia has controlled every inch of its coastline since 2022. Access is only through the narrow Strait of Kerch. With road and rail to Crimea degraded and the Kerch Bridge under pressure, sea transport became the primary resupply alternative. Ukraine used air and sea drones to attack 28 Russian-controlled vessels (21 oil tankers, four tugboats, two cargo vessels, one dredging vessel) by July 11. On July 10, Russia forbade all new traffic through the Kerch Strait. If the attacks continue and Russia cannot develop countermeasures, the Sea of Azov will remain functionally closed — strangling Russian supplies to Crimea and damaging grain and fuel shipments [25].
+
+## Ballistic Missile Escalation and Air Defense Crisis
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) documents a dramatic escalation in Russia's ballistic missile campaign against Ukraine, exploiting Patriot interceptor depletion. See [Ukraine Air Defense Crisis 2026]({{ site.baseurl }}/events/ukraine-air-defense-crisis-2026.html) [25]:
+
+- Russian monthly ballistic missile launches have roughly tripled year-over-year: 28 in a comparable month a year ago versus 70+ now. January 2026 set a record of 91 ballistic missiles.
+- Ukraine intercepted 89% of all aerial threats in June but only 40% of ballistic missiles. On July 6, Ukraine admitted it had no or almost no Patriot interceptors left.
+- July 6: 29 ballistic missiles fired at Kyiv; all 29 struck their targets, killing at least 19-27 people. July 8: third ballistic missile strike on Kyiv in six days. At least 60 deaths in Kyiv since July 1.
+- [Trump]({{ site.baseurl }}/actors/trump.html) ended all US military aid to Ukraine in 2025. His vague Patriot "license" pledge at the [NATO summit]({{ site.baseurl }}/events/nato-ankara-summit-2026.html) will take years to materialize, if ever — gifting Putin 1-3 winters of unrestricted ballistic missile bombardment. Japan, after years of licensing, produces only 30 PAC-3 interceptors annually.
+- Russia is aware of the help Trump has provided and is upping its strike rate precisely as Ukraine runs out of interceptors.
+
+## Omsk Refinery Strike
+
+O'Brien reports that Ukraine struck [Russia]({{ site.baseurl }}/actors/countries/russia.html)'s largest oil refinery in Omsk — over 2,500 km from Ukraine — hitting the crucial ELOU-AVT-11 primary crude oil processing unit (8.4 million tonnes/year capacity). Ukrainian claims indicate drones flew up to 3,000 km. The refinery, Russia's top petrol producer, halted operations, likely exacerbating fuel shortages. The strike demonstrates that if Ukraine can reach Omsk, no Russian strategic asset within 2,000 miles of Ukraine is safe [25].
+
 ## H2 2026 Outlook
 
 [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) assesses that [Russia]({{ site.baseurl }}/actors/countries/russia.html) will face a strong recession scenario due to the war in [Iran]({{ site.baseurl }}/actors/countries/iran.html) — the cascading effects of the [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) are compounding Russia's existing economic strain from the Ukraine war. Russia will boost its summer offensive, while [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) will seek to quickly build antiballistic missile defence systems ahead of the winter. Two needed (real) ceasefires — in Ukraine and Iran — are the mutually strengthening signal toward preventing the Global System Rupture scenario or the fourth systemic risk-driven global crisis [24].
@@ -187,3 +206,5 @@ This intersection of two wars — the Iran war disrupting crude supply and the U
 [23] [Suddenly, Hormuz is Less Crucial Than It Was](https://paulkrugman.substack.com/p/suddenly-hormuz-is-less-crucial-than)
 
 [24] [Short update of the second half of 2026](https://substack.com/@velinatchakarova/p-206929714)
+
+[25] [Weekend Update #193: What Is Happening In The Sea Of Azov?](https://phillipspobrien.substack.com/p/weekend-update-193-what-is-happening)

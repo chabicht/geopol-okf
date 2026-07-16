@@ -102,6 +102,14 @@ Applebaum documents the accelerating monetization of presidential power through 
 
 Applebaum frames [Lindsey Graham]({{ site.baseurl }}/actors/lindsey-graham.html) as the quintessential Trump-era politician — a man who shifted 180 degrees from calling Trump a "race-baiting, xenophobic, religious bigot" to becoming one of his most important defenders. Graham's need to be relevant at any cost exemplifies the broader pattern of institutional collaboration under Trump. His unexpected death in July 2026 prompted reflection on the cost of complicity [20].
 
+O'Brien's quote-based analysis complements Applebaum's collaboration framework with concrete Ukraine policy evidence: Graham reversed his position on Ukraine aid to follow Trump, praised Trump and Vance for the Oval Office ambush of [Zelensky]({{ site.baseurl }}/actors/zelensky.html), repeatedly claimed Trump would allow a vote on the Graham-Blumenthal sanctions bill (which never happened), never criticized Trump for ending all US military aid to Ukraine, and called the Danish PM a "little lady" while saying "who gives a shit who owns Greenland?" [28].
+
+## NATO Summit: "The Worst in History"
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) offers a sharply dissenting assessment of the [NATO Ankara Summit]({{ site.baseurl }}/events/nato-ankara-summit-2026.html), calling it the worst in NATO history. Trump made three explicit threats against a NATO country (Denmark over Greenland) over three days surrounding the summit. The US made no conventional defense commitment — the summit declaration contained nothing specific about the USA. Secretary Hegseth's six-month force posture review is a veiled threat to withdraw troops if Europeans don't comply with US demands. The nuclear umbrella is meaningless without conventional forces: the US might not fight for the Baltic States conventionally but will "blow up the world" if Putin uses a nuclear weapon? "This is simply not happening." The Patriot license pledge for Ukraine was a spur-of-the-moment gesture with no consultation with manufacturers, no details, and a timeline of years [29].
+
+O'Brien identifies Trump's claims about "tremendous love" and caring as a reliable tell that he is lying — Trump does not believe in such things, and when he invokes them, it signals the opposite [29].
+
 ## Hormuz Ceasefire Collapse
 
 Around July 13, 2026, Trump let the [Iran ceasefire]({{ site.baseurl }}/events/iran-ceasefire-mou.html) collapse. He reinstated the blockade; [Iran]({{ site.baseurl }}/actors/countries/iran.html) resumed drone strikes. Trump's positions were wildly erratic — first declaring he would collect 20% tolls on all Hormuz shipping (wildly illegal and impossible), then demanding countries invest in the United States as a condition for passage (equally illegal). See [Hormuz Ceasefire Collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) [21][22].
@@ -199,3 +207,7 @@ Applebaum's Kleptocracy Tracker provides the documentary record: the Qatari jet,
 [26] [Trump Just Changed the Political Logic of the War](https://escalationtrap.substack.com/p/trump-just-changed-the-political)
 
 [27] [Why Is Trump Escalating When Everyone Says He Won't?](https://escalationtrap.substack.com/p/why-is-trump-escalating-when-everyone-be9)
+
+[28] [Lindsey Graham On Ukraine and Trump](https://phillipspobrien.substack.com/p/lindsey-graham-on-ukraine-and-trump)
+
+[29] [The Worst NATO Summit In History](https://phillipspobrien.substack.com/p/the-worst-nato-summit-in-history)

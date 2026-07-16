@@ -70,6 +70,14 @@ The challenge is mathematical: drones are difficult to detect beyond tens of kil
 
 Undefended and uninhabited parts of Russia could even serve as launch sites. In June 2025, trucks traveling through Russia unleashed drones that struck targets in Murmansk, Irkutsk, Ivanovo, Ryazan, and Amur regions. Abandoned Soviet airstrips in remote villages could be used as launch platforms. Some Russian analysts speculate the Omsk refinery attack might have originated in Kazakh territory, given the vast distance and the fact that drones must take winding paths through favorable terrain to avoid detection [6].
 
+## Sea of Azov: Maritime Drone Warfare
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) documents a new dimension of Ukrainian drone warfare: the [Sea of Azov campaign]({{ site.baseurl }}/events/sea-of-azov-campaign.html). Using both air and sea drones, Ukraine attacked 28 Russian-controlled vessels (21 oil tankers, four tugboats, two cargo vessels, one dredging vessel) by July 11, 2026. UAV attacks target the bridges of vessels — crippling but not always destroying them, rendering them uncontrollable while preserving the option of full destruction via sea drones. Russia forbade all new traffic through the Kerch Strait on July 10. The campaign demonstrates that cheap drones can deny a major power control of a strategic waterway without requiring a conventional navy [8].
+
+## Omsk Refinery: Deep Strike Evolution
+
+O'Brien reports that Ukrainian drones struck Russia's largest oil refinery in Omsk — over 2,500 km from Ukraine — hitting the ELOU-AVT-11 primary crude oil processing unit (8.4 million tonnes/year capacity). Ukrainian claims indicate drones flew up to 3,000 km. The refinery, Russia's top petrol producer, halted operations. The strike demonstrates the maturation of Ukraine's long-range drone capability and the increasing vulnerability of all Russian strategic assets. If Ukraine can reach Omsk, no Russian asset within 2,000 miles of Ukraine is safe [8].
+
 ## Drones Negating Mass: The Ukraine-Russia Paradox
 
 Greg Whisler and Michael Kofman (War on the Rocks) document how Ukraine's drone adaptation negated Russia's quantitative advantage in the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html). Despite Russia growing its deployed force to over 700,000 personnel, Ukrainian investment in drones as the central mechanism for denying mobility to Russian forces offset their own thinning manpower across a vast front line. The battlespace became a drone-saturated grey zone without cohesive lines — low density of forces providing presence but not control. Russian forces could not easily concentrate to mount assaults without detection, and attacking units were vulnerable to engagement before reaching the forward line of their own troops. Dismounted troops found themselves hunted by drones and artillery [7].
@@ -90,3 +98,5 @@ By 2025, Russian forces abandoned mechanized equipment in favor of infiltration 
 [6] [Russia's Size and Centralization Become Liabilities](https://geopoliticalfutures.com/russias-size-and-centralization-become-liabilities/)
 
 [7] [A Return to Mass: Russian Force Expansion in the War with Ukraine](https://warontherocks.com/a-return-to-mass-russian-force-expansion-in-the-war-with-ukraine/)
+
+[8] [Weekend Update #193: What Is Happening In The Sea Of Azov?](https://phillipspobrien.substack.com/p/weekend-update-193-what-is-happening)

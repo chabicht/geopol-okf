@@ -3,7 +3,7 @@ type: Actor
 title: Lindsey Graham
 parent: Actors
 description: Quintessential Trump-era politician who abandoned lifelong patriotic ideals to become a collaborative defender of the president
-tags: [leader, ideology, oligarchy]
+tags: [leader, ideology, oligarchy, europe]
 status: concluded
 timestamp: 2026-07-15T00:00:00Z
 ---
@@ -30,6 +30,26 @@ Applebaum observes that it is very difficult to look into anyone's heart and und
 
 Graham's trajectory illustrates the broader pattern of [ideology and democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html) erosion under Trump: institutional figures who once defended founding ideals choosing collaboration over resistance, not through dramatic conversion but through incremental accommodation that eventually became indistinguishable from allegiance. The comparison to Romney, who voted to impeach Trump despite having seemed less deeply attached to patriotic ideals, underscores that the clichés about who will resist and who will comply are often wrong [1].
 
+## Graham's Record on Ukraine — In His Own Words
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) compiled Graham's own quotes — without editorializing — to demonstrate that Graham was never a genuine friend of [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html). The evidence [2]:
+
+**Policy reversal on aid**: Graham previously supported military aid for Ukraine and criticized President Biden for not giving more. When [Trump]({{ site.baseurl }}/actors/trump.html) demanded aid be restructured as loans (putting Ukraine into debt), Graham changed with him, calling it a "blow to Putin" (February 2024).
+
+**Oval Office attack on Zelensky**: On February 28, 2025, when Trump and Vance ambushed [Zelensky]({{ site.baseurl }}/actors/zelensky.html) in the Oval Office, Graham said he had "never been more proud of the president," praised Vance for "standing up for our country," blamed Zelensky for being "disrespectful," and suggested Zelensky should "resign and send somebody over that we can do business with."
+
+**Graham-Blumenthal sanctions bill**: Graham co-authored a Russia sanctions bill with ~80 Senate supporters. Trump blocked the vote. Graham repeatedly claimed Trump would allow the vote — on June 29, July 8, July 9, July 13, mid-November 2025, and January 7, 2026 — saying Trump had "greenlit" or "blessed" the bill. No vote ever happened. Graham never criticized Trump for preventing it.
+
+**End of US aid**: Trump ended all US military aid to Ukraine in 2025. O'Brien could find no criticism by Graham of this decision.
+
+**False claims about Trump supporting Ukraine**: Throughout 2024-2025, Graham repeatedly told the public Trump was about to approve arms aid or pressure Putin — claims with no validity. In July 2025, Graham predicted "weapons flowing at a record level" and "a turning point." Shortly after, Trump invited Putin to the Anchorage Summit and coordinated policy with him.
+
+**Greenland and Europe**: In February 2026, Graham called Danish Prime Minister Mette Frederiksen a "little lady" and said "who gives a shit who owns Greenland?" while pressuring [Europe]({{ site.baseurl }}/regions/europe.html) to hand the territory to Trump.
+
+O'Brien's conclusion: "If you believe these are the actions of a 'friend' of Ukraine, so be it" [2].
+
 # Citations
 
 [1] [The Quintessential Trump-era Politician](https://anneapplebaum.substack.com/p/the-quintessential-trump-era-politician)
+
+[2] [Lindsey Graham On Ukraine and Trump](https://phillipspobrien.substack.com/p/lindsey-graham-on-ukraine-and-trump)

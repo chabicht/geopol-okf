@@ -5,7 +5,7 @@ parent: Countries
 description: Ukraine as a geopolitical actor — isolating Crimea, conducting deep long-range strikes, and pressuring Belarus to curtail Russian supply lines
 tags: [country, military, drone-warfare, air-defense, europe]
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -17,6 +17,10 @@ Ukraine has been at war with [Russia]({{ site.baseurl }}/actors/countries/russia
 ## Crimea Isolation Campaign
 
 Ukraine is executing a systematic three-step campaign to isolate Crimea: first cutting the peninsula off from the sea, then achieving air superiority, and now targeting the Kerch Bridge as the final land link. Fuel shortages in occupied Crimea are acute — the Russian-installed governor has forbidden civilian fuel sales, a clear indicator of military priority over civilian needs. The [Crimea isolation campaign]({{ site.baseurl }}/events/crimea-isolation-campaign.html) is turning what was once a Russian asset into a liability.
+
+## Sea of Azov Campaign
+
+Ukraine has extended its isolation campaign into the [Sea of Azov]({{ site.baseurl }}/events/sea-of-azov-campaign.html) — previously a secure Russian logistical corridor. Using air and sea drones, Ukraine attacked 28 Russian-controlled vessels (21 oil tankers, four tugboats, two cargo vessels, one dredging vessel) by July 11, 2026. UAV attacks target vessel bridges to cripple control without necessarily destroying the ship. On July 10, Russia forbade all new traffic through the Kerch Strait. The campaign strangles Russian supplies to Crimea, disrupts grain and fuel exports, and demonstrates that Ukraine can deny Russia use of a body of water Moscow has controlled since 2022 [11].
 
 ## Long-Range Strikes
 
@@ -50,6 +54,14 @@ Dr. Jack Watling (RUSI) describes Ukraine's transformation from an underfunded S
 
 In June-July 2026, Ukraine dramatically intensified its coordinated strike campaign. Ukrainian forces struck 22 Russian oil refineries between January and June 30, reaching targets as far as 2,000 km from the border. Key July strikes include the Slavyansk-na-Kubani refinery, the Ufa refinery complex (~1,300 km from the front), Lukoil-Nizhegorodorgsintez (Russia's fourth-largest refinery), and the St. Petersburg oil terminal and Vysotsk port. Ukraine claimed to have shut down more than 42% of Russia's oil output. Zelensky announced a 40-day intermediate- and long-range strike campaign on June 25 [9][10].
 
+## Omsk Refinery Strike
+
+On July 6, 2026, Ukraine struck [Russia]({{ site.baseurl }}/actors/countries/russia.html)'s largest oil refinery in Omsk — over 2,500 km from Ukraine. Ukrainian drones hit the ELOU-AVT-11 primary crude oil processing unit (8.4 million tonnes/year capacity), halting operations at Russia's top petrol producer. Ukrainian claims indicate drones flew up to 3,000 km. The strike demonstrates that no Russian strategic asset within 2,000 miles of Ukraine is safe, creating a massive air defense problem for Russian forces [11].
+
+## Air Defense Crisis
+
+[Russia]({{ site.baseurl }}/actors/countries/russia.html)'s ballistic missile campaign has escalated dramatically, exploiting Ukraine's depletion of Patriot interceptors. See [Ukraine Air Defense Crisis 2026]({{ site.baseurl }}/events/ukraine-air-defense-crisis-2026.html). Russian monthly ballistic missile launches tripled year-over-year (28→70+/month). Ukraine intercepted 89% of all aerial threats in June but only 40% of ballistic missiles. On July 6, Ukraine admitted it had no or almost no Patriot interceptors left. July 6: 29 ballistic missiles fired at Kyiv; all 29 struck their targets, killing at least 19-27 people. At least 60 deaths in Kyiv since July 1. [Trump]({{ site.baseurl }}/actors/trump.html) ended all US military aid in 2025 and his vague Patriot "license" pledge will take years to materialize — gifting Putin 1-3 winters of unrestricted bombardment [11].
+
 # Analysis
 
 Ukraine's strategic approach demonstrates how a numerically inferior force can impose disproportionate costs through technological innovation, deep strike capability, and astute exploitation of adversary vulnerabilities. The Crimea campaign and the Belarus pressure campaign are complementary efforts to compress Russia's operational depth. Minsk's proximity to Kyiv — much closer than Kyiv is to Crimea — means Belarus-based assets are exposed to Ukrainian retaliation in ways that Russian rear areas are not.
@@ -75,3 +87,5 @@ Ukraine's strategic approach demonstrates how a numerically inferior force can i
 [9] [Ukraine's Strike Campaigns Will Likely Continue to Hurt Russia's Economy and Military Operations in Ukraine](https://understandingwar.org/research/russia-ukraine/ukraines-strike-campaigns-will-likely-continue-to-hurt-russias-economy-and-military-operations-in-ukraine/)
 
 [10] [Weekend Update #192: Can Russia Counter?](https://phillipspobrien.substack.com/p/weekend-update-192-can-russia-counter)
+
+[11] [Weekend Update #193: What Is Happening In The Sea Of Azov?](https://phillipspobrien.substack.com/p/weekend-update-193-what-is-happening)

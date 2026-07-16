@@ -22,6 +22,7 @@ permalink: /themes/
 * [AI Military Race](ai-military-race.html) - US-China AI competition; real gap is deployment speed, not model quality
 * [Tech Stack Diplomacy](tech-stack-diplomacy.html) - US-China competition over AI technology exports, open-source licensing risks, and sovereign AI aspirations
 * [Drone Warfare](drone-warfare.html) - UAVs as transformative technology; cheap mass vs expensive precision
+* [Revolution in Military Affairs](revolution-in-military-affairs.html) - O'Brien's framework for the de-humanizing of the battlefield through autonomous systems, miniaturized sensors, and solid-state batteries
 * [Critical Minerals](critical-minerals.html) - Rare earth elements, silver, copper; China's 90% processing dominance and Western by-product barriers
 * [Food and Agriculture](food-and-agriculture.html) - Fertilizer cascade, U.S. agricultural lock-in, diesel dependency, and food system fragility
 * [Monetary System Transition](monetary-system-transition.html) - Petrodollar cracking, dedollarization, gold accumulation, and the monetary dimension of geopolitical conflict
