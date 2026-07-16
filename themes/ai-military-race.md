@@ -78,6 +78,14 @@ AI leadership is cumulative: talent attracts capital and investment, which bring
 
 The second danger is success. If AI replaces vast numbers of workers across virtually every industry, the result could be social and economic chaos exceeding the Great Depression. The Luddite parallel is instructive: there may have been more jobs created by industrial machinery, but for the artisans who spent decades mastering their craft, displacement was catastrophic regardless. If AI achieves its promises, mass unemployment would undermine demand — a family that cannot feed itself turns to radicalization. If it does not achieve them, vast investments will be lost. AI will be a major, perhaps foundational industry, but betting on the singularity and evolution beyond it is risky [7].
 
+## The Mythos 5 Event and AI Threat Fusion
+
+Rebecca Hersman (War on the Rocks) argues that the [Mythos 5 government takedown]({{ site.baseurl }}/events/mythos-5-takedown.html) — when the U.S. government forced Anthropic to take down its frontier model on June 12, 2026 — exposed a critical gap in public-private AI threat information sharing. The episode was a "pickup game" where government and industry invented the rules in the moment, and public-private trust in frontier AI is running low after the seemingly punitive government action. The answer lies in more bridges, not higher walls: an AI Threat Fusion Center charged with classified, threat-sensitive information sharing on AI-enabled national security risks, including [CBRN]({{ site.baseurl }}/themes/ai-military-race.html) threats that are on the horizon [8].
+
+Frontier models were already "outperforming 94% of expert virologists" as of 2025 — setting a trajectory for rapid capability expansion in biological sciences. The day when models can exceed critical capability thresholds by providing substantial uplift to chemical, biological, radiological, and nuclear development capabilities of moderately resourced state programs is approaching faster than institutional adaptation can match. Cyber threats are the problem of the day, but the next threshold-buster may be biological — and pre-established mechanisms for government-industry information sharing do not exist for that domain. The proposal calls for starting with biological risks given the relative consensus that AI-enabled CBRN threats are on the horizon [8].
+
+This extends the [AI military race]({{ site.baseurl }}/themes/ai-military-race.html) framework: the competition is not only about models and deployment speed but about the institutional architecture for managing dual-use risks. The country that builds the structures to share threat intelligence, conduct classified model evaluations, and maintain public-private trust will gain an enduring advantage — institutional restructuring is harder and slower than technology adoption [8].
+
 # Citations
 
 [1] https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military
@@ -90,3 +98,5 @@ The second danger is success. If AI replaces vast numbers of workers across virt
 [6] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
 
 [7] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
+
+[8] [Before the Next Mythos Moment: The Case for an AI Threat Fusion Center](https://warontherocks.com/before-the-next-mythos-moment-the-case-for-an-ai-threat-fusion-center/)

@@ -63,6 +63,16 @@ AI systems behave as "living code" — continuously evolving through updates, re
 
 The threat landscape spans three overlapping categories: states (using cyberspace for military advantage and intellectual property theft), criminal networks (professionalized through ransomware-as-a-service), and transnational groups (exploiting borderless cyberspaces for funds movement, law enforcement evasion, and AI-scaled disinformation). International cooperation remains limited — even allies hesitate to disclose capabilities, vulnerabilities, or intelligence sources. The next phase of the AI race may depend on access to the most advanced AI capabilities for cybersecurity: states and corporations with superior defensive AI systems will gain major strategic advantages, while actors with advanced offensive capabilities will possess new tools for espionage, coercion, and economic disruption [4].
 
+## Afghanistan: Cognitive War Before the Battlefield
+
+Masoud Andarabi, former Afghan Interior Minister, argues that [Afghanistan]({{ site.baseurl }}/actors/countries/afghanistan.html) collapsed because it lost the cognitive war long before it lost territory. The state never fully aligned its political identity with the way its people understood themselves — the modern construct of "Afghanistan" clashed with the deeper civilizational memory of Khurasan. This cognitive gap translated into fragmented trust, politicized intelligence, and shallow legitimacy. The Taliban did not need to replace reality; they needed only to degrade confidence in it — framing themselves as a corrective identity while casting the Republic as externally imposed and corrupt [5].
+
+Regional actors exploited this cognitive vulnerability through coordinated gray zone pressure: Pakistan leveraged identity divisions through the Taliban; [Iran]({{ site.baseurl }}/actors/countries/iran.html) used cultural and sectarian narratives; [Russia]({{ site.baseurl }}/actors/countries/russia.html) and [China]({{ site.baseurl }}/actors/countries/china.html) approached Afghanistan as a space of managed instability. The lesson is that state-building without cognitive alignment is unsustainable — states do not collapse only when they lose control of land; they collapse when they lose control of meaning. The appropriation of "Khorasan" by ISIS-K demonstrates that when legitimate actors fail to define identity, adversaries will weaponize it [5].
+
+## Cognitive Warfare as Endless Warfare
+
+Cognitive warfare is a central element of the [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) strategy waged by China, Russia, and Iran against the United States. China's United Front Work Department, Russia's Active Measures networks, and Iran's diverse network of surrogates reflect centralized national direction and a long-term horizon — in contrast to America's fragmented early steps (an NSC Cognitive Advantage Director, FY26 NDAA definition, SCO Cognitive Warfare Project). Cognitive Security — protecting decision autonomy — is both defensive (protecting perception, trust, and decision-making) and offensive (outthinking and outmaneuvering adversaries in the cognitive domain). America's national narrative is both sword and shield: it projects power and counters adversary narratives. The United States cannot let this narrative get lost in episodic political turbulence [6].
+
 # Citations
 
 [1] https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris
@@ -72,3 +82,7 @@ The threat landscape spans three overlapping categories: states (using cyberspac
 [3] [Ramzan Kadyrov: The Kremlin's Messenger to the Islamic World](https://www.rusi.org/explore-our-research/publications/commentary/ramzan-kadyrov-kremlins-messenger-islamic-world)
 
 [4] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
+
+[5] [Afghanistan Lost the Cognitive War Before It Lost the State](https://www.thecipherbrief.com/afghanistan-lost-the-cognitive-war-before-it-lost-the-state)
+
+[6] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)

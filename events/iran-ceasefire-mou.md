@@ -7,7 +7,7 @@ tags: [energy, middle-east, sanctions, nuclear]
 status: concluded
 actuality: actual
 event_date: 2026-06-17
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -44,6 +44,10 @@ The [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) di
 
 [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) reports scenario modeling built on physical supply data and shipping market behavior. The highest probability (roughly 50%) sits with a fragile equilibrium: oil trades between $70–85 while the memorandum holds despite recurring friction over Hormuz and Lebanon. A renewed rupture — a serious incident at the strait or a ceasefire breach sending prices back toward $100+ — carries roughly 30% probability. Only 20% of the probability weight sits with durable stabilization, a scenario requiring a lasting settlement that would allow prices to settle near pre-war levels and meaningfully reduce secondary risks across shipping, fertilizer, and food markets. The decisive variable is the 60-day window expiring in mid-August — if it holds, the system gains time but not stability; if it fails, Hormuz, Lebanon, Ukraine, Taiwan, and critical minerals can reactivate together within hours [5].
 
+## Deal Sequence Favors Iran
+
+Pnina Shuker and Andrew Milburn (War on the Rocks) dissect the deal's sequence: before Iran has to resolve a single hard issue — the nuclear stockpile, the missile program, or its regional proxies — the United States lifts the naval blockade, withdraws its forces from Iran's vicinity, issues sanctions waivers releasing oil revenue, and makes frozen Iranian assets available for transfer. Only once all of that is already underway does the memorandum call for negotiations on everything else. "Pay first, verify later is not a strategy. It is leverage leaving the room." The U.S. has retreated from demands for unconditional surrender and the elimination of enrichment to something closer to capitulation, dropping its insistence that Iran surrender its uranium stockpile outright — reportedly secured by Iran against removal. Iran, for its part, has hardened its position, adding demands for war reparations and withdrawal of U.S. forces [6].
+
 # Citations
 
 [1] [Velinatchakarova — ceasefire as axis course correction](https://substack.com/@velinatchakarova/p-202096137)
@@ -52,3 +56,5 @@ The [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) di
 [4] [Robert Pape — situation report special edition](https://escalationtrap.substack.com/p/situation-report-special-edition)
 
 [5] [Priced for Peace: Why Oil's Return to Pre-War Levels Overstates the Hormuz Recovery](https://substack.com/@velinatchakarova/p-204528761)
+
+[6] [Outgunned, But Not Outplayed: Iran's Theory of Victory](https://warontherocks.com/outgunned-but-not-outplayed-irans-theory-of-victory/)

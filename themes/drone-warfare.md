@@ -70,6 +70,12 @@ The challenge is mathematical: drones are difficult to detect beyond tens of kil
 
 Undefended and uninhabited parts of Russia could even serve as launch sites. In June 2025, trucks traveling through Russia unleashed drones that struck targets in Murmansk, Irkutsk, Ivanovo, Ryazan, and Amur regions. Abandoned Soviet airstrips in remote villages could be used as launch platforms. Some Russian analysts speculate the Omsk refinery attack might have originated in Kazakh territory, given the vast distance and the fact that drones must take winding paths through favorable terrain to avoid detection [6].
 
+## Drones Negating Mass: The Ukraine-Russia Paradox
+
+Greg Whisler and Michael Kofman (War on the Rocks) document how Ukraine's drone adaptation negated Russia's quantitative advantage in the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html). Despite Russia growing its deployed force to over 700,000 personnel, Ukrainian investment in drones as the central mechanism for denying mobility to Russian forces offset their own thinning manpower across a vast front line. The battlespace became a drone-saturated grey zone without cohesive lines — low density of forces providing presence but not control. Russian forces could not easily concentrate to mount assaults without detection, and attacking units were vulnerable to engagement before reaching the forward line of their own troops. Dismounted troops found themselves hunted by drones and artillery [7].
+
+By 2025, Russian forces abandoned mechanized equipment in favor of infiltration tactics and light motorized attacks with 1-2 man teams, splitting infantry platoons to move past Ukrainian positions. Russian combat power trickled onto the battlefield in amounts unable to concentrate or exploit breaches. Ukraine's approach — expanding drone units to control terrain with minimal infantry while maximizing attrition to Russian manpower — proved an effective counter to mass. The cost-exchange ratio told its own story: cheap drones versus expensive manned platforms and the infantry they transported. This dynamic reinforces the broader pattern observed in the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), where cheap Iranian drones imposed unsustainable costs on expensive US interceptors [7].
+
 # Citations
 
 [1] https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war
@@ -82,3 +88,5 @@ Undefended and uninhabited parts of Russia could even serve as launch sites. In 
 [5] [How modern drone warfare is forcing arms producers to rethink](https://archive.ph/KboLR)
 
 [6] [Russia's Size and Centralization Become Liabilities](https://geopoliticalfutures.com/russias-size-and-centralization-become-liabilities/)
+
+[7] [A Return to Mass: Russian Force Expansion in the War with Ukraine](https://warontherocks.com/a-return-to-mass-russian-force-expansion-in-the-war-with-ukraine/)

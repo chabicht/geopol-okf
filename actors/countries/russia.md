@@ -112,6 +112,22 @@ The bureaucracy that Russia built to exercise control over its sprawling territo
 
 The key analytical distinction is between long-term structural vulnerabilities and near-term political collapse — those are not the same thing. Prigozhin was not marching to overthrow Putin; he targeted Defense Minister Shoigu and Chief of the General Staff Gerasimov, seeking their removal. Elite infighting should not be mistaken for imminent regime collapse. Russia under Putin has shown a remarkable ability to overcome structural and corrupt vulnerabilities to launch out repeatedly with aggression. Sustained Western resolve and continued support for Ukraine are required — the security state will not collapse under its own weight [22].
 
+## Wartime Force Expansion and Post-War Structure
+
+Greg Whisler and Michael Kofman (War on the Rocks) document the most significant Russian military expansion in decades. Russia began the war with one of its smallest armies in over 100 years — a force of battalion tactical groups optimized for short, local contingencies, short on infantry, with no reserve system. The wartime expansion grew the deployed force to over 700,000 personnel through partial mobilization (300,000 in September 2022) and contract soldier recruitment (~1.3 million over the war). By 2023, the General Staff created two new combined-arms armies, two motorized rifle divisions, and 27 new maneuver brigades and regiments. The force reached over 800 maneuver battalions — roughly four times the invasion force [23].
+
+By 2025, however, force growth had largely halted as monthly recruitment (~35,000) was offset by similar losses. The cracks in the force generation model — rising regional recruitment bonuses becoming fiscally untenable, casualties exceeding recruitment — suggest Moscow has passed its high-water mark for offensive capacity. Much of the expanded force is likely to persist: the Leningrad Military District, re-established opposite Finland and the Baltic states, will host new corps and divisions with expanded precision strike capabilities — a permanent force structure shift on [NATO's]({{ site.baseurl }}/actors/organizations/nato.html) borders [23].
+
+Notably, Moscow sustained this expansion primarily through contracted volunteers (~1.3 million) rather than mass mobilization — the first large-scale, extended war Russia has fought this way, challenging prior assumptions that Moscow cannot sustain prolonged conventional war without mobilization. However, the paradox of mass: as Russia fielded more forces, the value of that mass diminished. Ukrainian adaptation in [drone warfare]({{ site.baseurl }}/themes/drone-warfare.html), combined with mines, prepared defenses, and artillery, negated traditional manpower advantages. Russian combat power became so disaggregated by drone, mine, and artillery threats that only a tiny fraction of a brigade's strength was usable at any given time [23].
+
+## Endless Warfare Networks
+
+Russia's networks constitute a core instrument of its [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) strategy against the U.S. and the West. These networks fall into two categories [24]:
+
+**Institutional networks**: the GRU, FSB, and specialized units responsible for assassinations, sabotage, influence operations, and cyber-attacks — conducting [cognitive warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) and political coercion across [Europe]({{ site.baseurl }}/regions/europe.html).
+
+**Ambiguous networks**: "ghost fleets" that have generated billions in revenue despite Western sanctions, shell and front companies, criminal organizations, and illicit financial systems that enable sanctions evasion and sustain operations. These networks are resilient, adaptive, and self-recovering, having been developed over decades. Russia fiercely protects them because they provide strategic advantage at relatively low cost [24].
+
 # Analysis
 
 Russia's strategic position is paradoxical: deeply committed in Ukraine, facing succession risk in Chechnya, losing ground in Africa, yet successfully exploiting Western energy dependencies and conducting effective cognitive warfare. The DragonBear axis provides critical support, but Russia's ability to sustain multiple theaters is increasingly constrained by the prioritization demands of the Ukraine war.
@@ -161,3 +177,7 @@ Russia's strategic position is paradoxical: deeply committed in Ukraine, facing 
 [21] [Russia's Size and Centralization Become Liabilities](https://geopoliticalfutures.com/russias-size-and-centralization-become-liabilities/)
 
 [22] [The Continued Myth of Russia's Imminent Collapse: Lessons from Prigozhin's Mutiny Three Years On](https://www.thecipherbrief.com/the-continued-myth-of-russias-imminent-collapse-lessons-from-prigozhins-mutiny-three-years-on)
+
+[23] [A Return to Mass: Russian Force Expansion in the War with Ukraine](https://warontherocks.com/a-return-to-mass-russian-force-expansion-in-the-war-with-ukraine/)
+
+[24] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)

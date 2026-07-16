@@ -2,7 +2,7 @@
 type: Actor
 title: The Cipher Brief
 parent: Authors & Analysts
-description: National security and intelligence-focused analytical publication featuring expert commentary from former officials — covering AI military competition, intelligence community reform, and China strategic rivalry
+description: National security and intelligence-focused analytical publication featuring expert commentary from former officials — covering AI military competition, intelligence community reform, China strategic rivalry, Endless Warfare framework, and cognitive warfare
 tags: [author, news]
 status: ongoing
 timestamp: 2026-07-15T00:00:00Z
@@ -42,6 +42,14 @@ The Cipher Brief identifies [Africa]({{ site.baseurl }}/regions/africa.html) as 
 
 Sean Wiswesser argues that three years after Prigozhin's Wagner mutiny, predictions of Putin's imminent collapse have failed. Three enduring lessons: (1) the mutiny exposed real vulnerabilities — corruption, patronage, institutional rivalries — but these are long-term structural weaknesses, not near-term collapse indicators; (2) weakness and resilience coexist — the war has strengthened the FSB's chokehold, the economy has weathered sanctions, and propaganda keeps the population compliant; (3) Putin's system rests on multiple overlapping centers of coercive power (FSB, Rosgvardia, FSO) deliberately structured to prevent any single institution from becoming too powerful. The key analytical distinction is between long-term structural vulnerabilities and near-term political collapse. Sustained Western resolve and continued support for [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) are required — the security state will not collapse under its own weight [5].
 
+## Endless Warfare Framework
+
+The Cipher Brief argues that the United States is already in a continuous, long-term conflict with determined adversaries who wage warfare below the threshold of open conflict. Endless Warfare — waged by [China]({{ site.baseurl }}/actors/countries/china.html), [Russia]({{ site.baseurl }}/actors/countries/russia.html), and [Iran]({{ site.baseurl }}/actors/countries/iran.html) — incorporates gray zone activity, [cognitive warfare]({{ site.baseurl }}/themes/cognitive-warfare.html), weaponized negotiations, proxies and surrogates, and subversive networks. The framework requires a different strategic mindset than conventional war: strategic deterrence in the gray zone, cognitive advantage, disciplined negotiations, and network-focused disruption. The proposal calls for a senior White House official — a Deputy National Security Advisor for Strategic Competition — to integrate interagency action. Endless Warfare will not end because adversaries choose peace; it will end when it is no longer effective [6].
+
+## Afghanistan and Cognitive Warfare
+
+The Cipher Brief published former Afghan Interior Minister Masoud Andarabi's analysis that [Afghanistan]({{ site.baseurl }}/actors/countries/afghanistan.html) collapsed because it lost the cognitive war before it lost the battlefield. The state's identity misalignment — between the modern construct of "Afghanistan" and the deeper civilizational memory of Khurasan — created a cognitive gap that regional actors (Pakistan, Iran, Russia, China) exploited through gray zone pressure. The lesson: state-building without cognitive alignment is unsustainable. States collapse when they lose control of meaning, not just territory. The appropriation of "Khorasan" by ISIS-K demonstrates that when legitimate actors fail to define identity, adversaries weaponize it [7].
+
 # Sources in Bundle
 
 - "The AI Race Won't Be Won by the Best Model — But by the Fastest Military" [1]
@@ -49,6 +57,8 @@ Sean Wiswesser argues that three years after Prigozhin's Wagner mutiny, predicti
 - "The West Needs to Prepare for a Russian Defeat in Ukraine" [3]
 - "A Tale of Two Africas in Maps, And How It Affects the United States" [4]
 - "The Continued Myth of Russia's Imminent Collapse: Lessons from Prigozhin's Mutiny Three Years On" [5]
+- "Endless Warfare – Part II: Countering Endless Warfare and its Networks" [6]
+- "Afghanistan Lost the Cognitive War Before It Lost the State" [7]
 
 # Citations
 
@@ -61,3 +71,7 @@ Sean Wiswesser argues that three years after Prigozhin's Wagner mutiny, predicti
 [4] [A Tale of Two Africas in Maps, And How It Affects the United States](https://www.thecipherbrief.com/a-tale-of-two-africas-in-maps-and-how-it-affects-the-united-states)
 
 [5] [The Continued Myth of Russia's Imminent Collapse: Lessons from Prigozhin's Mutiny Three Years On](https://www.thecipherbrief.com/the-continued-myth-of-russias-imminent-collapse-lessons-from-prigozhins-mutiny-three-years-on)
+
+[6] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)
+
+[7] [Afghanistan Lost the Cognitive War Before It Lost the State](https://www.thecipherbrief.com/afghanistan-lost-the-cognitive-war-before-it-lost-the-state)
