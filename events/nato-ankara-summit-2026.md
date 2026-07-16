@@ -112,6 +112,8 @@ Rachel Ellehuus ([RUSI]({{ site.baseurl }}/actors/authors/rusi.html) Director-Ge
 
 The NATO Secretary General invited IP4 (Indo-Pacific 4) defense ministers. South Korea was represented at Presidential level, reinforcing its prominence in defence industry partnership and procurement. Other IP4 members sent ministers of defence, and [Japan]({{ site.baseurl }}/actors/countries/japan.html) sent both defence and foreign ministers. Compared to the 2022 Madrid summit with heads of state, this level of representation may indicate decline — or maturation into pragmatic functionality. The Ukraine war created real material links: South Korean defence manufacturers restocking European armouries, North Korean troops fighting in Ukraine with Russian tech transfer in return, lessons flowing to Japan and Taiwan [8].
 
+However, the second Trump administration's NDS treats Euro-Atlantic/Indo-Pacific separation as desirable, and its "constructive strategic stability" détente with [China]({{ site.baseurl }}/actors/countries/china.html) conflicts with "ganging up" via NATO-IP4. The "Europeanisation" of NATO may further complicate Asian engagement: [France]({{ site.baseurl }}/actors/countries/france.html) is wary of constraints on China diplomacy, and Spain is pulling toward Beijing. Even if Washington loses interest, the IP4 values access to NATO as a platform for accessing lessons from Ukraine [8].
+
 # Citations
 
 [1] [NATO 3.0 to Emerge at Ankara Summit Amid Fragile Unity](https://www.rusi.org/explore-our-research/publications/commentary/nato-30-emerge-ankara-summit-amid-fragile-unity)
