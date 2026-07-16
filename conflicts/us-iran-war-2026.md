@@ -11,7 +11,7 @@ tags:
   - sanctions
   - middle-east
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -191,6 +191,28 @@ Pape identifies commercial shipping as the key escalation pathway. Hormuz remain
 
 Pape warns that August could become the most dangerous month for the global economy, as the temporary shock absorbers drawn down to stabilize markets are exhausted and Iran's leverage reasserts itself [5]. See also [Pape's situation report](https://escalationtrap.substack.com/p/situation-report-special-edition) for additional escalation tracking [20].
 
+## China's Abstention and US-China Relations
+
+George Friedman (GPF) argues that the most important long-term aspect of the Iran war is not its immediate effects but how it will affect bilateral relations between the [United States]({{ site.baseurl }}/actors/countries/united-states.html) and [China]({{ site.baseurl }}/actors/countries/china.html). China's abstention from the conflict is twofold: first, China needs to rehabilitate economic ties to the US — still its largest customer — as economic growth hovers below 5 percent; second, China is heavily dependent on imports of oil and LNG that pass through the Strait of Hormuz. Higher energy prices raise the price of exports, which are still the primary engine of Chinese economic growth. Beijing criticized the war and called on Washington to end it but otherwise stayed out of it entirely, assigning its ambassador in [Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html) to attend mediation talks in Islamabad [27].
+
+Friedman notes a historical parallel: after World War II, the US helped Germany and Japan to evolve economically — not out of charity but out of self-interest. States don't have friends or enemies, just permanent interests. The US was vital to China's initial economic explosion, and if China is to recover from its current malaise, the US will be vital again. A shared interest in reaching an understanding on trade and the muted reaction to the Iran war are important indicators that a US-China agreement on trade is in the process of emerging [27].
+
+## Insurance Market Transformation
+
+The war's most consequential structural impact may be the transformation of insurance markets. War-risk premiums in the Strait of Hormuz surged — in some cases by more than 1,000% — forcing a shift from annual policies to voyage-by-voyage underwriting. Risk, once pooled broadly, is now assessed in granular, transactional terms. As private insurers reduced exposure, governments stepped in with sovereign-backed mechanisms: the US International Development Finance Corporation supported maritime insurance capacity, [India]({{ site.baseurl }}/actors/countries/india.html) developed sovereign-backed insurance pools, and major insurers formed new consortia to maintain coverage in high-risk corridors. The emergence of regionalized insurance systems means that the ability to insure trade is becoming a strategic tool, effectively determining which routes remain viable and which become economically infeasible. See [Insurance and Trade Warfare]({{ site.baseurl }}/themes/insurance-and-trade-warfare.html) [27].
+
+## Defense Industry Cascades
+
+The war exposed structural vulnerabilities in the defense industry that extend beyond munitions depletion. In US Army deployments, more than 70 percent of logistics tonnage is fuel, and some 55 percent is consumed by the logistics systems themselves. Communications, intelligence, surveillance and reconnaissance, air defense, and data processing all rely on uninterrupted electricity, typically generated on-site through fuel-based systems. The war demonstrated that fuel supply chains can be disrupted more quickly and effectively than front-line forces can be destroyed. Meanwhile, NATO's Locked Shields 2026 exercise simulated large-scale attacks on power grids, telecom networks, and government systems, revealing the increased vulnerability of digital infrastructure. The defense industry is shifting toward energy resilience (microreactors, microgrids, storage) and cyber-physical integration. See [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) [27].
+
+## Food Crisis as Second-Order Effect
+
+Colibasanu (GPF) identifies the energy-to-food cascade as a defining second-order effect. Higher energy prices feed into fertilizer markets, raising production costs and threatening agricultural output. The Gulf was the world's largest regional exporter of urea and ammonia and the second-largest exporter of diammonium phosphate (DAP) and monoammonium phosphate (MAP). The region accounted for 29% of global ammonia exports, 36% of urea exports, 26% of DAP exports, 13% of MAP exports, and close to half of globally traded sulfur. Around one-third of global seaborne fertilizer trade passes through Hormuz. Food shocks will be strongest in regions that rely heavily on imported fertilizer, subsidized agricultural systems, and nitrogen-intensive crops. See [Food and Agriculture]({{ site.baseurl }}/themes/food-and-agriculture.html) [27].
+
+## Systemic Resilience Replacing Efficiency
+
+Colibasanu frames the war's broader lesson as the replacement of efficiency with resilience as the organizing principle of the global economy. The Iran war and its cascading effects across energy, defense, trade, and finance reveal how risk is becoming embedded in the architecture of the world economy. Geopolitical shocks are increasingly transmitted directly into capital markets, linking energy disruption to inflation, monetary policy, and sovereign risk. The key pattern across all regions is not collapse but persistent cost inflation and volatility — resilience is replacing efficiency, and the cost of resilience is permanent [27].
+
 # Citations
 
 [1] [Iran's Regime Is Headed for a Hard Landing](https://geopoliticalfutures.com/irans-regime-is-headed-for-a-hard-landing/)
@@ -244,3 +266,5 @@ Pape warns that August could become the most dangerous month for the global econ
 [25] [The Gathering Storm: Iran's Funeral and the Coming August Shock](https://escalationtrap.substack.com/p/the-gathering-storm-irans-funeral)
 
 [26] [Live with Prof Robert Pape and Joe Kent](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-and-joe-244)
+
+[27] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)

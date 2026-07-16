@@ -9,7 +9,7 @@ tags:
   - trade
   - supply-chain
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -52,6 +52,10 @@ The ExportLand Model shows that global net oil export capacity peaked in 2004. I
 ## North Sea and UK Energy Policy
 
 The UK political debate over new North Sea drilling is symbolic rather than substantive — gas prices are set in international markets, new fields take years to develop, and even maximum investment would leave the UK reliant on imports for over half its gas through the 2030s. The more consequential priorities for energy security are reducing gas demand through electrification, accelerating renewable deployment, and upgrading grid infrastructure. China's rapid electrification trajectory shows competitiveness will increasingly depend on access to low-cost clean power [19].
+
+## Hormuz Throughput and Bypass Capacity
+
+Colibasanu (GPF) provides detailed data on the Strait of Hormuz's throughput and the limits of bypass options. Nearly 15 million barrels of crude oil per day and more than 112 billion cubic meters of LNG passed through Hormuz in 2025. Most of these exports — including some 90% of LNG — are destined for Asia. [Europe]({{ site.baseurl }}/regions/europe.html)'s direct exposure is smaller but still significant: Hormuz-transited LNG accounts for roughly 7% of Europe's total LNG imports. Alternate crude export capacity is estimated at only around 3.5-5.5 million bpd, while spare Saudi and Emirati pipeline capacity is closer to 2.6 million bpd — meaning even partial restrictions on Hormuz quickly raise the cost of diesel, bunker fuel, fertilizer, refrigeration, and food transportation. In aviation, Europe's domestic refining capacity has fallen 16% over the past 25 years, and around 75% of Europe's jet fuel imports come from the Gulf. The IEA warned Europe could face a jet fuel shortage by June if replacement flows remained low [21].
 
 # Key Dynamics
 
@@ -179,3 +183,5 @@ The EROI decline is accelerating: in 1980, every barrel of oil equivalent invest
 [19] [The North Sea Debate Risks Missing the Point](https://www.rusi.org/explore-our-research/publications/commentary/north-sea-debate-risks-missing-point)
 
 [20] [Infinite Growth Delusions Continue — For Now](https://thehonestsorcerer.substack.com/p/infinite-growth-delusions-continue)
+
+[21] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)

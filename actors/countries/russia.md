@@ -5,7 +5,7 @@ parent: Countries
 description: Russia as a geopolitical actor — waging war in Ukraine, managing Chechnya's succession risk, projecting power in Africa, conducting cognitive warfare against the West, attempting to revitalize the CSTO, and losing its grip on its southern flank from the Black Sea to Central Asia
 tags: [country, military, cognitive-warfare, energy, sanctions, europe, caucasus, africa, central-asia]
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -78,6 +78,14 @@ Ukraine's long-range strike campaign has taken approximately 38-42% of Russia's 
 
 [The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) argues that a Russian defeat — military exhaustion bleeding into political rupture within the next two years — has moved from a fringe scenario to one that serious governments must insure against. Russia's 1.4 million casualties, recruitment shortfall, net territorial loss, and economic fragility have made defeat a possibility. The preparation agenda includes securing ~1,800 strategic warheads, pre-negotiating recognition of borders if the Federation fragments, keeping weapons scientists employed, and defining what "victory" means for Ukraine [16].
 
+## Russian Economy: Bad News and Good News
+
+Ekaterina Zolotova (GPF) reports that despite five years of war in Ukraine and non-stop sanctions, the Russian economy has avoided collapse — but isolation, rising inflation, tight central bank policies, insufficient import substitution, and ongoing Ukrainian attacks have taken a toll. The oil and gas squeeze from the Iran war allowed Moscow to increase energy exports, and eased sanctions pressure helped, but this was not enough to jumpstart a slowed economy. At an economic meeting on April 15, Putin announced that GDP had declined for the second consecutive month and demanded that economic officials urgently restart growth. The Ministry of Economic Development laid out the economy's challenges: a strong ruble, high interest rates, labor shortages, budget constraints, and exhausted reserves [17].
+
+Moscow had hoped to independently build its own technology sector, but brain drain and systemic issues have prevented it. By early 2026, domestic computer-aided design software systems accounted for less than a third of the market; pirated foreign software accounted for the rest. The issue is particularly pronounced in design software for composite products in the aerospace industry. Capital never stopped leaving the country, now going to places like Dubai, Hong Kong, and Tel Aviv rather than traditional European markets. Tax changes, price increases, and unpopular measures like internet and app restrictions have hurt Putin's approval ratings even in pro-government publications. The leader of the Communist Party of Russia warned the State Duma on April 22 that the country would be at risk of revolution if authorities did not halt the economic collapse [17].
+
+Despite these challenges, the defense industry continues to fuel production, and the central bank notes no sharp rise in unemployment or decline in household income. Poor economic trends and rising public discontent could be the first sign that the Kremlin is finally feeling the economic costs of the war [17].
+
 # Analysis
 
 Russia's strategic position is paradoxical: deeply committed in Ukraine, facing succession risk in Chechnya, losing ground in Africa, yet successfully exploiting Western energy dependencies and conducting effective cognitive warfare. The DragonBear axis provides critical support, but Russia's ability to sustain multiple theaters is increasingly constrained by the prioritization demands of the Ukraine war.
@@ -115,3 +123,5 @@ Russia's strategic position is paradoxical: deeply committed in Ukraine, facing 
 [15] [Ukraine's Strike Campaigns Will Likely Continue to Hurt Russia's Economy and Military Operations in Ukraine](https://understandingwar.org/research/russia-ukraine/ukraines-strike-campaigns-will-likely-continue-to-hurt-russias-economy-and-military-operations-in-ukraine/)
 
 [16] [The West Needs to Prepare for a Russian Defeat in Ukraine](https://www.thecipherbrief.com/the-west-needs-to-prepare-for-a-russian-defeat-in-ukraine)
+
+[17] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)

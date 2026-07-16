@@ -56,6 +56,8 @@ Iran's shadow banking system represents the mature end-state of sanctions evasio
 
 The erosion of sanctions effectiveness contributes to [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html). As evasion architectures mature, the Western financial system's coercive power diminishes, and the cost of using it (in terms of ally compliance and institutional credibility) rises. The sanctions weapon is not being defused — it is being slowly neutralized by adaptive adversaries who have learned to operate in its shadow.
 
+The sanctions-driven "shadow fleet" — tankers operating outside Western insurance frameworks with alternative, state-backed coverage — has expanded from a marginal phenomenon to an institutionalized feature of global trade. The [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) accelerated this trend, formalizing parallel insurance architectures alongside the regulated Western system. See [Insurance and Trade Warfare]({{ site.baseurl }}/themes/insurance-and-trade-warfare.html) for the full analysis of how insurance market transformation intersects with sanctions evasion.
+
 # Citations
 
 [1] [Decoding Sanctions: How Governments can get the Best out of Banks](https://www.rusi.org/explore-our-research/publications/commentary/decoding-sanctions-how-governments-can-get-best-out-banks)

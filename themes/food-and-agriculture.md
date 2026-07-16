@@ -8,7 +8,7 @@ tags:
   - economics
   - supply-chain
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -37,6 +37,14 @@ Half of agricultural economists do not expect broadly profitable crop margins fo
 ## The Oil Import Curse
 
 The ExportLand Model shows that global net oil export capacity peaked in 2004. If world oil supply falls to half by mid-century, importers lose 75% of imports in 15-20 years. The implications for food systems are direct: modern agriculture is oil-powered, fertilizer-intensive, and trade-dependent. As oil exports decline, the food supply chains that depend on them contract proportionally — but unevenly, with import-dependent regions hit first and hardest [7].
+
+## Gulf Fertilizer Export Dominance
+
+Colibasanu (GPF) documents the scale of Gulf fertilizer production that passes through Hormuz. From 2023 to 2025, the Gulf was the world's largest regional exporter of urea and ammonia and the second-largest exporter of diammonium and monoammonium phosphate (DAP and MAP). The region accounted for 29% of global ammonia exports, 36% of urea exports, 26% of DAP exports, 13% of MAP exports, and close to half of globally traded sulfur. Around one-third of global seaborne fertilizer trade passes through Hormuz, with urea accounting for roughly two-thirds of Gulf fertilizer exports. Food shocks will be strongest in regions that rely heavily on imported fertilizer, subsidized agricultural systems, and nitrogen-intensive crops or feed production. Rising fertilizer costs feed directly into lower yields, higher production costs, and more expensive food imports [8].
+
+## Shipping Disruption and Perishable Goods
+
+The Iran war disrupted shipping logistics dramatically. Before the war, Houthi attacks in 2023 had brought Suez Canal traffic to a crawl — tonnage remains down roughly 70% from pre-2023 levels. International carriers were already using longer routes around the Cape of Good Hope, beset by tighter vessel availability and higher freight costs. War-risk insurance surged sharply — in some cases by more than 1,000% — while risky maritime zones extended beyond Hormuz into the Red Sea, the Gulf of Aden, and the Arabian Sea. The immediate effect on food markets is strongest in perishable goods, animal products, feed imports, and fertilizer procurement cycles rather than in grain volumes alone [8].
 
 # Key Dynamics
 
@@ -68,3 +76,5 @@ The honest assessment is that mitigation, not prevention, is the available strat
 [7] [Half of Ag Economists Say Crop Profitability Might Still Be 3 to 5 Years Away](https://www.agweb.com/news/policy/ag-economy/half-ag-economists-say-crop-profitability-might-still-be-3-5-years-away)
 
 [7] [The Oil Import Curse](https://thehonestsorcerer.substack.com/p/the-oil-import-curse)
+
+[8] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)

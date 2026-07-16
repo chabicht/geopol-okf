@@ -8,7 +8,7 @@ tags:
   - trade
   - sanctions
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -46,8 +46,14 @@ US Treasury Secretary Scott Bessent's secondary sanctions on Chinese banks facil
 
 The implication for the [global system rupture]({{ site.baseurl }}/themes/global-system-rupture.html) is that the monetary architecture is not a stable background condition but a stress vector in its own right. The cracking of the petrodollar system is both a consequence of geopolitical conflict and a driver of it — as dedollarization progresses, the US loses one of its primary instruments of coercive power, which in turn accelerates the systemic rupture [1][2].
 
+## Gradual Diversification Despite Dollar Dominance
+
+GPF's Graphic of the Month data (GeoEconomicLens May 2026) illustrates how exchange rate trends reflect gradual diversification despite continued dollar dominance. Global allocated foreign reserves by currency show the USD share declining from 64.2% in Q1 2017 to 56.8% in Q1 2025, with the euro, yuan, and other currencies gradually gaining share. Spot exchange rate trends for the Indian rupee, euro, and Chinese yuan against the USD (measured as daily percentage change from an April 2025 baseline) show the rupee depreciating most sharply, the euro moderately, and the yuan least — reflecting each economy's relative exposure to the Iran war's energy shock and their respective central bank policy responses. The data confirms that while the dollar remains dominant, the trend is structural: states are gradually diversifying their reserve composition, and exchange rate volatility is increasingly driven by geopolitical factors rather than purely macroeconomic fundamentals [3].
+
 # Citations
 
 [1] [Operation Epic Folly(Fury) — Part 9: Gold, The UAE, Currency Swap Lines and the Petrodollar](https://endtropy.substack.com/p/operation-epic-follyfury-part-9-gold)
 
 [2] [Iran War: The Chokehold Tightens](https://thehonestsorcerer.substack.com/p/iran-war-the-chokehold-tightens)
+
+[3] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
