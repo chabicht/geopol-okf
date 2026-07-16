@@ -13,7 +13,7 @@ timestamp: 2026-07-15T00:00:00Z
 
 Geopolitical Futures is a strategic analysis publication founded by George Friedman that provides structured assessments of global geopolitical dynamics. GPF's approach emphasizes structural drivers — geography, demographics, military capacity, and economic fundamentals — over personality-driven analysis. The publication produces detailed country and regional assessments, often accompanied by maps that illustrate the geographic constraints driving political outcomes.
 
-GPF also publishes GeoEconomicLens, a monthly report that views the global economy through the lens of geopolitics. GeoEconomicLens provides systemic analysis of how geopolitical events — wars, sanctions, chokepoint disruptions — cascade through energy, food, defense, insurance, and financial markets. The May 2026 issue examined the fallout from the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) across all major regions and sectors, with contributions from GPF analysts including George Friedman, Antonia Colibasanu, Andrew Davidson, Victoria Herczegh, Ronan Wordsworth, and Ekaterina Zolotova. The June 2026 issue focused on inflationary pressures reshaping the global economy, covering the AI crisis, African resource nationalism, EU defense financing, Venezuela's reopening, ASEAN energy coordination, Russian logistics risks, the global inflation feature with regional breakdowns and three scenarios, Australia-Vietnam hedging case studies, AI and cybersecurity, exchange rate trends, and the June outlook [16].
+GPF also publishes GeoEconomicLens, a monthly report that views the global economy through the lens of geopolitics. GeoEconomicLens provides systemic analysis of how geopolitical events — wars, sanctions, chokepoint disruptions — cascade through energy, food, defense, insurance, and financial markets. The May 2026 issue examined the fallout from the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) across all major regions and sectors, with contributions from GPF analysts including George Friedman, Antonia Colibasanu, Andrew Davidson, Victoria Herczegh, Ronan Wordsworth, and Ekaterina Zolotova. The June 2026 issue focused on inflationary pressures reshaping the global economy, covering the AI crisis, African resource nationalism, EU defense financing, Venezuela's reopening, ASEAN energy coordination, Russian logistics risks, the global inflation feature with regional breakdowns and three scenarios, Australia-Vietnam hedging case studies, AI and cybersecurity, exchange rate trends, and the June outlook [16]. The July 2026 issue focused on the coming defense boom and geoeconomic transformations, covering the US heavy rare earths program (Friedman), Russia's fuel crisis (Zolotova), the yuan undervaluation debate (Colibasanu), Mexico-Brazil energy cooperation (Munoz), the structural defense boom feature (Davidson/Colibasanu), EV industrial competition (Wordsworth), the geoeconomics of water (Colibasanu), de-dollarization trends, and the month-ahead outlook — with new contributor Juan Francisco Munoz joining the GEL team [17].
 
 # Key Frameworks
 
@@ -56,6 +56,14 @@ GPF analysis appears in the bundle covering:
 - **Australia-Vietnam hedging case studies**: Herczegh and Wordsworth's analysis of two different Indo-Pacific responses to US-China competition — Vietnam's multi-alignment and China+1 semiconductor strategy; Australia's AUKUS dependence, critical minerals ambition, and China economic coercion experience [16]
 - **AI transforming cybersecurity**: Colibasanu's analysis of cyberspace evolving from human-vs-human to machine-vs-machine — AI-generated phishing, AI agents as attack surface, "living code" paradigm, AI supply chain reviews, and cybersecurity as geopolitical risk [16]
 - **Exchange rate trends**: GPF's Graphic of the Month showing rupee depreciation, euro weakening, yuan strengthening, and ruble strengthening — geopolitical risk driving currency volatility [16]
+- **US heavy rare earths program**: Friedman's analysis of the US funding program for domestic heavy REE exploration and processing — China's near-monopoly as an effective embargo, DoD as first customer, deposits in California and Texas [17]
+- **Russia's fuel crisis**: Zolotova's analysis of Ukrainian drone attacks reducing gasoline production 25% YoY, regional fuel sale restrictions, and the structural choice between domestic supply and refined-product exports [17]
+- **The yuan debate**: Colibasanu's analysis of ECB President Lagarde's call to discuss yuan undervaluation as part of a wider geoeconomic shift — the politicization of trade and currency relations [17]
+- **Mexico-Brazil energy cooperation**: Munoz's analysis of the Pemex-Petrobras MoU — strategic and technical cooperation in hydrocarbons, Petrobras deep-water technology for Pemex, Global South diversification, strategic autonomy outside US-led frameworks [17]
+- **The Coming Defense Boom**: Davidson and Colibasanu's feature on the structural defense growth cycle — $2.1T to $2.9T spending, NATO 5% target, geopolitical drivers, opportunity matrix, three scenarios, industrial capacity as strategic asset [17]
+- **EV industrial competition**: Wordsworth's analysis of China's dominance in EVs and batteries (13M cars, 80% battery production, $84/kWh), US/EU responses, missing supply chain layers, government strategy comparison, SWOT matrix [17]
+- **The geoeconomics of water**: Colibasanu's analysis of water stress as geoeconomic risk — Rhine, Caspian, Panama Canal, Mississippi, Amazon — disrupting transport, energy, agriculture, and manufacturing; water resilience as core risk management [17]
+- **A slow de-dollarization**: GPF's Graphic of the Month showing USD reserves declining from 62.3% to 57.1% (Q1 2020 to Q1 2026), non-economic factors driving diversification, local currency trade growing in BRICS/SCO [17]
 
 # Sources in Bundle
 
@@ -75,6 +83,7 @@ GPF analysis appears in the bundle covering:
 - "The Southern Flank Unraveled: Russia's Grip Loosens in Eurasia" [14]
 - "GeoEconomicLens — Fallout from the Iran War, May 2026" [15]
 - "GeoEconomicLens — The Truth About Inflation, June 2026" [16]
+- "GeoEconomicLens — The Coming Defense Boom, July 2026" [17]
 
 # Citations
 
@@ -109,3 +118,5 @@ GPF analysis appears in the bundle covering:
 [15] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
 
 [16] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
+
+[17] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)

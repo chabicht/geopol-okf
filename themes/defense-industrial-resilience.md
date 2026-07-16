@@ -2,13 +2,14 @@
 type: Theme
 title: "Defense Industrial Resilience"
 parent: Themes
-description: "The shift in modern defense capability from kinetic platforms to energy and digital resilience — fuel logistics as the dominant vulnerability, microreactors and microgrids for contested operations, and the integration of cybersecurity into military infrastructure."
+description: "The shift in modern defense capability from kinetic platforms to energy and digital resilience — fuel logistics as the dominant vulnerability, microreactors and microgrids for contested operations, cybersecurity integration, and the structural defense spending boom reshaping industrial policy worldwide."
 tags:
   - military
   - technology
   - energy
   - cyber
   - supply-chain
+  - economics
 status: ongoing
 timestamp: 2026-07-15T00:00:00Z
 ---
@@ -50,6 +51,44 @@ Davidson argues that the defense industry can expect structural realignments dri
 
 The broader implication is that the [AI military race]({{ site.baseurl }}/themes/ai-military-race.html) is not only about models and deployment speed but about the energy infrastructure that powers AI systems. A military that cannot guarantee stable, scalable power to its data centers cannot field AI-enabled defense capabilities — no matter how advanced its models. The energy-cyber bottleneck is the physical substrate of the AI competition, and it is currently underinvested relative to the attention devoted to model development and chip fabrication [1].
 
+## The Coming Defense Boom
+
+Davidson and Colibasanu (GPF) argue that the global defense sector is entering a structural growth cycle rather than a temporary wartime surge. Countries are no longer only importing defense systems but increasingly seeking to become exporters or co-producers of specialized technologies. The wars in [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) and the [Middle East]({{ site.baseurl }}/regions/middle-east.html) have exposed the weakness of lean inventories, slow production lines, and defense industrial systems designed for peacetime rather than sustained conflict [3].
+
+### Defense Industrial Mobilization
+
+In 2021, the last full year before Russia invaded Ukraine, world military expenditures stood at roughly $2.1 trillion. By 2025, it had reached nearly $2.9 trillion — too large an increase for temporary wartime procurement. The wars in Ukraine and the Middle East exposed how quickly allied stockpiles can be exhausted, especially as the US and [NATO]({{ site.baseurl }}/actors/organizations/nato.html) transferred munitions and equipment to Kyiv. Even short conflicts — Nagorno-Karabakh, India-Pakistan tensions — force states to reassess military readiness and procurement timelines. Interceptors, ammunition, and precision munitions can be consumed faster than peacetime industry can replace them [3].
+
+### NATO 5% Spending Target
+
+NATO's move from a 2 percent spending benchmark toward 5 percent gives industry a longer demand signal than annual procurement alone. The commitment includes 3.5% of GDP for core defense spending and another 1.5% for broader defense- and security-related investment by 2035. SIPRI estimates that if all NATO allies met the full 5 percent target in 2035, annual alliance spending would reach roughly $4.2 trillion [3].
+
+In Asia and Oceania, SIPRI estimates military spending rose 8.1% in 2025 to $681 billion — the region's fastest annual increase since 2009. [China]({{ site.baseurl }}/actors/countries/china.html), [Japan]({{ site.baseurl }}/actors/countries/japan.html), and [Taiwan]({{ site.baseurl }}/actors/countries/taiwan.html) all increased spending, while the Philippines and South Korea raised their budgets to modernize their forces [3].
+
+### Geopolitical Drivers and Industrial Effects
+
+| Driver | Defense Response | Industrial Effect | Business Opportunity |
+|--------|-----------------|-------------------|----------------------|
+| Ukraine war | Stockpile replacement | Ammunition and missile demand | Munitions, energetics, solid rocket motors |
+| Middle East conflicts | Air-defense pressure | Interceptor shortages | Air defense, radar, sensors |
+| China / Indo-Pacific competition | Naval and missile modernization | Maritime and surveillance demand | Shipbuilding, drones, space, secure data |
+| Supply-chain vulnerability | Domestic and allied production | Reshoring / co-production | [Critical minerals]({{ site.baseurl }}/themes/critical-minerals.html), electronics, specialty materials |
+| Energy security | Secure industrial power | Grid and nuclear supply-chain demand | Energy infrastructure, nuclear-grade components |
+
+### Opportunity Matrix
+
+The defense boom will not benefit all firms equally. Value moves toward firms that control scarce upstream inputs: semiconductors, critical minerals, energy systems, secure communications, specialty metals, nuclear-grade components, and certified production capacity. The most strategically valuable firms may not be those producing final weapons platforms but those controlling the technologies, materials, energy systems, and manufacturing capacity that enable military production. The strongest position belongs to firms that control capacity governments cannot quickly recreate [3].
+
+Key opportunity areas include: prime defense contractors, munitions and missile inputs, air defense and counter-drone systems, defense electronics and semiconductors, cyber/AI/battlefield software, drones and autonomous systems, shipbuilding and naval sustainment, critical minerals and rare earths, specialty metals and advanced materials, energy and grid infrastructure, nuclear and SMR supply chains, logistics and sustainment networks, allied co-production partners, and defense-adjacent industrial suppliers [3].
+
+### Three Scenarios
+
+1. **Steady defense expansion** — Geopolitical pressure sustains demand; winners are established defense contractors and suppliers controlling critical inputs.
+2. **Accelerated rearmament** — Major conflict or alliance shift triggers surge; severe shortages in labor, machine tools, energetics, critical minerals, semiconductors, and advanced electronics.
+3. **Fragmented defense industrial blocs** — Geopolitical fragmentation outpaces spending growth; defense market becomes competing regional ecosystems with increased costs and reduced economies of scale.
+
+Across all scenarios, the common theme is that industrial capacity is a strategic asset. The ability to produce, sustain, and deliver defense capabilities defines national power and competitive advantage [3].
+
 ## AI and Cybersecurity Convergence
 
 Colibasanu (GPF) identifies a structural transformation at the intersection of AI and cybersecurity that directly affects defense industrial resilience. Cyberspace is evolving from a human-versus-human environment into a machine-versus-machine environment. AI enables attackers to automate reconnaissance, identify vulnerabilities, and launch attacks at unprecedented speed. AI-generated phishing campaigns can replicate the exact writing style of company executives — even technologically savvy employees cannot distinguish them. The weakest link has shifted from humans to AI agents themselves: firms could soon deploy as many as 100 AI agents per employee, and if compromised, these agents can exfiltrate data at extraordinary speed [2].
@@ -61,3 +100,5 @@ AI systems behave as "living code" — continuously evolving through updates, re
 [1] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
 
 [2] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
+
+[3] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)

@@ -38,3 +38,5 @@ permalink: /actors/countries/
 * [Nigeria](nigeria.html) - Africa's most populous state exercising bounded agency under US coercive pressure, navigating religiously divided politics ahead of 2027 elections
 * [Vietnam](vietnam.html) - China+1 manufacturing hub pursuing multi-alignment between the US and China, with semiconductor ambitions and rare earth partnerships
 * [Venezuela](venezuela.html) - Post-Maduro state reopening to international business under heavy US pressure, constrained by institutional weakness
+* [Mexico](mexico.html) - Pursuing strategic autonomy from the US through energy cooperation with Brazil and bilateral trade renegotiation under USMCA pressure
+* [Brazil](brazil.html) - Latin America's largest economy pursuing strategic depth through energy cooperation, agricultural exports, and autonomous defense capacity

@@ -74,6 +74,8 @@ The [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html) conc
 
 Ukraine's long-range strike campaign has taken approximately 38-42% of Russia's oil refining capacity offline. Approximately 78 of 83 federal subjects have experienced gasoline shortages, with 48 imposing purchasing limits. Russia has banned gasoline and jet fuel exports and is rationing fuel to its own citizens — a petrostate that cannot keep its own drivers in gasoline [14][15].
 
+Zolotova (GPF) reports that after drone attacks in the latter half of June 2026, gasoline production fell by 25 percent year on year. Authorities in several Russian regions announced restrictions on the sale of motor fuel at gas stations to combat the surge in demand — limits ranging from 20 liters per person in Crimea to 40 liters of gasoline at highway gas stations in Omsk. Russia's fuel balance depends on refinery resilience, logistics flexibility, and access to technology under wartime conditions. The structural consequence is that Russia may have to choose between supplying the domestic market and maintaining petroleum-product exports. If more Russian diesel or other fuel products are kept at home, international supply tightens, affecting prices in a market already exposed to Middle East instability [19].
+
 ## Preparing for Russian Defeat
 
 [The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) argues that a Russian defeat — military exhaustion bleeding into political rupture within the next two years — has moved from a fringe scenario to one that serious governments must insure against. Russia's 1.4 million casualties, recruitment shortfall, net territorial loss, and economic fragility have made defeat a possibility. The preparation agenda includes securing ~1,800 strategic warheads, pre-negotiating recognition of borders if the Federation fragments, keeping weapons scientists employed, and defining what "victory" means for Ukraine [16].
@@ -133,3 +135,5 @@ Russia's strategic position is paradoxical: deeply committed in Ukraine, facing 
 [17] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
 
 [18] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
+
+[19] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
