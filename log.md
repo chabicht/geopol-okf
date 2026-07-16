@@ -4,6 +4,38 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-07-16 — Consolidation Pass
+
+First consolidation pass: designated authoritative files for 8 major topics and trimmed near-verbatim duplicates across 14 files. Unique data points were moved to authoritative files before trimming; all trimmed sections now contain 1-2 sentence summaries with cross-links.
+
+**Topics consolidated:**
+
+1. **Russia War Economy** → `conflicts/russia-ukraine-war.md` authoritative. Trimmed 10 duplicate sections in `actors/countries/russia.md` (Ukraine War, Resettlement, Mounting Costs, Preparing for Defeat, Why Russia Can't Expand, Size/Centralization, Security State, Wartime Force Expansion, Combat Knowledge Transfer, Nuclear Threshold, Russia-Iran Cyber, Russia's Last Window).
+2. **DragonBear** → `conflicts/cold-war-2.md` authoritative. Trimmed DragonBear sections in `actors/countries/china.md` and `actors/countries/russia.md`.
+3. **NATO Ankara Summit** → `events/nato-ankara-summit-2026.md` authoritative. Trimmed 5 duplicate sections in `actors/organizations/nato.md` and 6 bullets in `regions/europe.md`. Moved NDS/NATO-IP4 conflict detail to event file.
+4. **Drone Warfare Cost-Exchange** → `themes/drone-warfare.md` authoritative. Trimmed "Inverting the Cost Curve" and "Russian Force Generation" sections in `themes/defense-industrial-resilience.md`. Trimmed Urbanski data in `actors/organizations/nato.md`.
+5. **US-Iran War / Hormuz** → `conflicts/us-iran-war-2026.md` authoritative. Trimmed `events/hormuz-ceasefire-collapse-2026.md` (73→37 lines), `actors/countries/iran.md` (12 sections trimmed), `actors/trump.md` (5 sections trimmed), `themes/global-system-rupture.md` (5 sections trimmed). Moved July 7-8 tactical timeline, Mojtaba Khamenei naming, GSR simultaneity-reading framing, and UNDP $1.1T subsidies figure to conflict file.
+
+**Line count changes (net reduction ~180 lines across non-authoritative files):**
+
+| File | Before | After | Delta |
+|------|--------|-------|-------|
+| `actors/countries/russia.md` | 234 | 205 | -29 |
+| `actors/countries/china.md` | 157 | 155 | -2 |
+| `actors/countries/iran.md` | 131 | 113 | -18 |
+| `actors/trump.md` | 213 | 197 | -16 |
+| `actors/organizations/nato.md` | 165 | 139 | -26 |
+| `events/hormuz-ceasefire-collapse-2026.md` | 73 | 37 | -36 |
+| `regions/europe.md` | 117 | 117 | 0 (bullets compressed, count stable) |
+| `themes/global-system-rupture.md` | 163 | 149 | -14 |
+| `themes/defense-industrial-resilience.md` | 148 | 142 | -6 |
+
+Authoritative files gained modestly from moved unique content:
+- `conflicts/russia-ukraine-war.md`: 222 → 224 (+2)
+- `conflicts/us-iran-war-2026.md`: 426 → 430 (+4)
+- `events/nato-ankara-summit-2026.md`: 131 → 133 (+2)
+
+
 # Bundle Update Log
 
 ## 2026-07-16 (PM1)
