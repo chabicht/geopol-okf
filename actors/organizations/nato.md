@@ -58,6 +58,8 @@ Tchakarova frames Austrian neutrality as a Cold War relic that offers no protect
 
 The [July 7-8 Ankara Summit]({{ site.baseurl }}/events/nato-ankara-summit-2026.html) introduced "NATO 3.0" — a stronger Europe in a stronger NATO. Secretary General Rutte presented Trump with charts showing $1.2 trillion in extra defense expenditure since his first term (the "Trump Trillion"), including a 20% increase in 2025. All 32 allies pre-approved a short declaration reaffirming Article 5, describing [Russia]({{ site.baseurl }}/actors/countries/russia.html) as a "long-term threat," and pledging €70 billion in military assistance to [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) for 2026 with "at least equivalent" support in 2027 — without direct US funding. European allies have "largely filled the gaps" left by US force model reductions, with the main remaining gap being strategic bombers. A Defence Industry Forum aims to sign contracts worth "tens of billions" for transatlantic co-production. The next summit, planned for Albania in 2027, was not mentioned in the declaration — reflecting reluctance to repeat yearly drama [7].
 
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) assesses that NATO 3.0 is adjusting to the realities of new global competition. Conventional deterrence becomes increasingly a European responsibility while the US stays engaged through the nuclear shield. NATO 3.0 will be digitally integrated through a transatlantic warfighting cloud and alliance-wide AI adoption, and geographically stretched — treating the Black Sea-Mediterranean-Gulf chokepoints as one connected theater. NATO 3.0 is quietly expanding its geography southward, with [Türkiye]({{ site.baseurl }}/actors/countries/turkey.html) as the hinge. NATO called out [Iran]({{ site.baseurl }}/actors/countries/iran.html) on Hormuz navigation and committed €27 billion to fuel logistics. Yet the summit's unspoken lesson is that American commitment is now conditional and transactional — a strategic vulnerability the [DragonBear]({{ site.baseurl }}/conflicts/cold-war-2.html) will systematically probe below the Article 5 threshold through its hybrid warfare playbook [11].
+
 ## Ankara Summit Delivery
 
 Antonia Colibasanu (GPF) reports that the Ankara summit marked a shift "decisively from setting targets to delivering results." The summit's developments fall into five categories [9]:
@@ -109,3 +111,5 @@ NATO faces a triple transition: from American-led to European-shared conventiona
 [9] [NATO Puts Its Money Where Its Mouth Is](https://geopoliticalfutures.com/nato-puts-its-money-where-its-mouth-is/)
 
 [10] [A Return to Mass: Russian Force Expansion in the War with Ukraine](https://warontherocks.com/a-return-to-mass-russian-force-expansion-in-the-war-with-ukraine/)
+
+[11] [My short takeaway from the NATO summit in Ankara](https://substack.com/@velinatchakarova/p-206419418)

@@ -2,10 +2,10 @@
 type: Actor
 title: France
 parent: Countries
-description: France as a geopolitical actor — signaling on Taiwan, targeted by Russian cognitive warfare, navigating the Trump-era transatlantic relationship, and experiencing a populist rightward shift with Bardella's rise
-tags: [country, military, europe, cognitive-warfare, ideology]
+description: France as a geopolitical actor — signaling on Taiwan, targeted by Russian cognitive warfare, navigating the Trump-era transatlantic relationship, exercising strategic autonomy in the Indo-Pacific, and experiencing a populist rightward shift with Bardella's rise
+tags: [country, military, europe, cognitive-warfare, ideology, indo-pacific]
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -34,6 +34,12 @@ Jordan Bardella, president of the National Rally, has criticized [Trump]({{ site
 
 France occupies a unique position as a European power with global reach, nuclear deterrence, and direct experience of Russian cognitive warfare. The joint Taiwan statement signals a willingness to extend European strategic engagement beyond the continent. However, France's capacity to act independently is constrained by domestic political instability and the broader erosion of the transatlantic alliance.
 
+## Strategic Autonomy in the Indo-Pacific
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) identifies France as the exemplar of the "autonomous hedge" — declining to co-sign the American-led joint statement on the South China Sea arbitration anniversary, while simultaneously sending its ambassador to Manila to argue for credible deterrence alongside India, South Korea, and Japan. France declines from surplus: it holds the second-largest exclusive economic zone in the world on the strength of its Indo-Pacific territories, sails freedom of navigation operations, and has the platforms and doctrine to act on its own account. Its reason for declining the American text is doctrinal and long-standing: strategic autonomy requires that French Indo-Pacific presence be legible as French rather than as an auxiliary function of United States containment policy. Paris will act, and will act with the Philippines, but will not do so under a Washington letterhead [5].
+
+The distinction between the autonomous hedge and the coerced hedge (Vietnam) predicts different futures: the autonomous hedger will act unilaterally whenever its interests are engaged and will never be reliable as a coalition member, in either direction. Most of the hedging literature treats these as one phenomenon, generating forecasts that are wrong in opposite directions [5].
+
 # Citations
 
 [1] Velina Tchakarova, "Taiwan Encirclement" — https://substack.com/@velinatchakarova/p-203793388
@@ -43,3 +49,5 @@ France occupies a unique position as a European power with global reach, nuclear
 [3] Phillips P. O'Brien, "Weekend Update 190" — https://phillipspobrien.substack.com/p/weekend-update-190-long-range-reveal
 
 [4] [French far-right leader Bardella slams Trump's 'imperial ambitions' in Greenland, Venezuela](https://www.politico.eu/article/france-jordan-bardella-donald-trumps-imperial-ambitions-in-venezuela-greenland/)
+
+[5] [The Award Everyone Defends and No One Will Co-Sign](https://substack.com/@velinatchakarova/p-206915723)

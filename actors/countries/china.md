@@ -94,9 +94,17 @@ The economic dimension of this coalition creates a powerful bloc that could serv
 
 China's networks constitute a core instrument of its [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) strategy against the United States. China's cyber networks probe and penetrate U.S. critical infrastructure to sustain access, collect information, and provide a disruption capability during a crisis. Its networks enable sophisticated influence operations inside the U.S. and the transfer of critical technologies that directly enhance its military capabilities. The CCP's United Front Work Department reflects centralized national direction and a long-term horizon — in contrast to America's fragmented approach. These are not isolated activities but integrated elements of a persistent strategy to erode U.S. power and influence over time [18].
 
+## DragonBear Military Coordination (July 2026)
+
+July 2026 demonstrated the DragonBear's military coordination across multiple layers. Joint Sea-2026 ran in the Yellow Sea off Qingdao (July 6-13), with the two navies establishing a joint command for anti-submarine warfare, submarine rescue, air and missile defence, and surface-strike exercises — interoperability under construction. China is drawing on Russian submarine-rescue expertise, an operational competence it is still building. A Kremlin-approved programme transfers Russia's Ukraine-war combat lessons to the Chinese military, signed July 2. China holds industrial scale and technological weight but has not fought a war in decades; [Russia]({{ site.baseurl }}/actors/countries/russia.html) supplies combat experience. Each partner supplies what the other lacks [19].
+
+The one hard boundary: as Russian nuclear saber-rattling accelerated, Beijing delivered Moscow an ultimatum-form warning that there can be no thought of using nuclear weapons in Ukraine. The red line runs through Beijing, not Moscow — China coordinates across every domain except the one where its global standing diverges from Russia's escalation logic. Beijing enables the war machine and simultaneously polices its nuclear threshold [19].
+
 # Analysis
 
 China's strategic position is defined by coordinated action across domains where the US struggles to maintain coherence: AI military integration, maritime grey-zone operations, and resource investment in Central Asia. The DragonBear axis provides a force multiplier, allowing Beijing and Moscow to apply synchronized pressure on the Western coalition. However, China's growth model faces inherent limits that constrain its long-term trajectory.
+
+The DragonBear coordination architecture does not require a formal alliance to reshape the balance of power. The division of labour — China as economic engine, Russia as combat-experienced military partner — is the logic in its purest form. A Russia degraded by war becomes the weaker partner, yet in becoming weaker it transfers expertise upward to a rising China that can industrialise those lessons at scale. The West may face a more capable and assertive PLA as a result [19].
 
 Tooze identifies the "gear-shift in Chinese economic policy" as one of four disrupters of the 2026 world economy — alongside Trump's trade rampage, US fiscal incontinence, and the AI boom. China Shock 2.0 is the export-facing manifestation of this gear-shift. The mercantilist export model is sustained by financial repression: capital controls that wall in wealth, prevent yuan appreciation, and keep Chinese goods artificially competitive. The system's internal tension — between the regime's need for control and the elite's desire to participate in global asset markets — is a structural vulnerability [9][10].
 
@@ -137,3 +145,5 @@ Tooze identifies the "gear-shift in Chinese economic policy" as one of four disr
 [17] [A Major Move by India](https://geopoliticalfutures.com/a-major-move-by-india/)
 
 [18] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)
+
+[19] [The DragonBear in July: Coordination Without Alliance](https://substack.com/@velinatchakarova/p-206606963)

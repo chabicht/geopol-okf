@@ -10,6 +10,7 @@ permalink: /themes/
 ## Systemic Frameworks
 
 * [Global System Rupture](global-system-rupture.html) - Tchakarova's framework tracking simultaneous systemic stresses exceeding absorptive capacity
+* [Global System Bifurcation](global-system-bifurcation.html) - Structural splitting of global trade flows into competing order spaces, tracked through WTO data
 * [Great Power Competition](great-power-competition.html) - US hegemony contested by China and Russia across military, economic, technological domains
 * [Layered Security](layered-security.html) - Middle powers supplementing Cold War-era alliances with mission-limited, region-specific security arrangements
 * [Escalation Theory Critique](escalation-theory-critique.html) - Aurelien's critique of game theory and rational-actor models in contemporary conflicts

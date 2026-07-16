@@ -59,6 +59,10 @@ The February 2026 [CMC purge]({{ site.baseurl }}/events/cmc-purge-2026.html) —
 
 O'Brien reports that [China]({{ site.baseurl }}/actors/countries/china.html) is treating Taiwan as a "chip" in the broader Iran negotiation — backing Iran while signaling that Taiwan's status is part of the great power bargain, not an isolated territorial question [3].
 
+## Rejection of Third-Party Dispute Settlement
+
+Tchakarova identifies a significant escalation in China's declaratory posture on the South China Sea. On the 10th anniversary of the 2016 arbitration ruling, Beijing's Foreign Ministry stated that China "does not accept any means of third-party dispute settlement or any solution imposed on China." This is not a claim about the 2016 tribunal specifically but about a category of institution — the same claim [Moscow]({{ site.baseurl }}/actors/countries/russia.html) makes about the International Criminal Court. China's Coast Guard declared "clearing operations" at Scarborough Reef in March 2026, deploying coast guard, maritime militia, and a PLAN warship to drive off Philippine fishing craft inside the Philippine EEZ. Beijing sanctioned Philippine Defence Secretary Teodoro personally with an entry ban after he named China as ASEAN's principal challenge at the Shangri-La Dialogue. These actions — institutional rejection, maritime coercion, individual sanctions against officials of neighboring states — represent a comprehensive campaign that sets precedents applicable to a Taiwan contingency [8].
+
 ## DragonBear Coordination
 
 Tchakarova argues that contesting Taiwan's maritime approaches while [Moscow]({{ site.baseurl }}/actors/countries/russia.html) ties down Western attention in [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) exemplifies coordinated pressure within the DragonBear framework [1]. The danger is bandwidth: China stretches Taiwan, Japan, and the Philippines across simultaneous theaters, forcing each to allocate finite attention and resources against multiple vectors of pressure [1]. This bandwidth exploitation is the core operational logic of the [great power competition]({{ site.baseurl }}/themes/great-power-competition.html) — the axis does not need to win any single theater if it can overwhelm the Western capacity to respond across all of them simultaneously.
@@ -94,3 +98,5 @@ Victoria Herczegh (GPF) identifies a dual-track approach from Beijing that combi
 [6] [Washington's Volatility and Taipei's Security](https://www.swp-berlin.org/publikation/washingtons-volatility-and-taipeis-security)
 
 [7] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
+
+[8] [The Award Everyone Defends and No One Will Co-Sign](https://substack.com/@velinatchakarova/p-206915723)

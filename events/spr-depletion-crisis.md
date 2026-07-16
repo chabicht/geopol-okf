@@ -30,6 +30,12 @@ The US Strategic Petroleum Reserve (SPR) is the world's largest emergency crude 
 
 [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) warns that when these temporary buffers are exhausted, Iran's leverage reasserts itself. The "quiet" in oil markets is not evidence of resolution but of deferred reckoning [4].
 
+## Approaching the Operational Floor
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) reports that by the end of July 2026, the US Strategic Petroleum Reserve reaches the minimum level approved by Congress. Keeping prices suppressed through America's November elections would require draining another 120 to 160 million barrels, pushing the reserve below the operational minimum at which the salt caverns physically stop working properly — the point where water injected to displace oil begins eating away the cavern walls, risking structural collapse. The exact threshold is unknown: "we're getting into new territory." [China]({{ site.baseurl }}/actors/countries/china.html) has also been releasing from its reserves, and since Beijing does not publish the figures, nobody outside China knows how close it is to its own bottom [5].
+
+The arithmetic is stark: about 1.3 billion barrels of oil have vanished from the market this year — the equivalent of thirteen full days of everything the entire world consumes — and the gap was covered almost entirely by emptying emergency and commercial stockpiles. Nobody is refilling them. Every barrel from a stockpile can be used only once. The moment the drawdowns stop and normal buying resumes, the arithmetic reverses — with less oil in storage than at any point in decades [5].
+
 # Citations
 
 [1] [The Quiet Before the Squeeze — Why Hormuz Hasn't Sent Oil to $150](https://substack.com/@velinatchakarova/p-201366553)
@@ -39,3 +45,5 @@ The US Strategic Petroleum Reserve (SPR) is the world's largest emergency crude 
 [3] [Geopolitical Outlook: The Ceasefire in Iran](https://substack.com/@velinatchakarova/p-200150759)
 
 [4] [The Price of Oil Is the Real Iran Deal](https://escalationtrap.substack.com/p/the-price-of-oil-is-the-real-iran)
+
+[5] [Global System Rupture](https://substack.com/@velinatchakarova/p-205351600)

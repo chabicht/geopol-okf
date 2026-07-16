@@ -40,6 +40,14 @@ Vietnam faces several structural risks. It remains deeply dependent on Chinese i
 - **South China Sea as permanent concern**: Beijing's expanding maritime presence and pressure on disputed waters drives Vietnam to seek stronger defense ties with middle powers (India, Japan, Australia, South Korea, ASEAN) to avoid strategic isolation — while avoiding too close a military alignment with Washington that could provoke Chinese retaliation.
 - **Geoeconomic hedge**: Vietnam's working relations with so many countries make it a flexible platform for companies operating across competing economic blocs — useful not only as a production base but as a geoeconomic hedge.
 
+## The Coerced Hedge
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) identifies Vietnam as the exemplar of the "coerced hedge" — declining to co-sign the American-led joint statement on the South China Sea arbitration anniversary despite having the second-strongest claim in the Spratlys and the longest record of Chinese coercion. Vietnam declines from deficit: it cannot act alone, cannot absorb retaliation, and its calculation is about the morning after. The "four noes" — no military alliances, no siding with one country against another, no foreign military bases on Vietnamese soil, no using force or threatening to use force in international relations — forbid formal alignment. Vietnam has to live with the consequences on a shared land border and a shared sea [2].
+
+Hanoi files notes verbales, protests bilaterally, and has invoked the arbitration award's reasoning without naming it. What Hanoi will not do is appear in a collective, American-branded alignment column. Declining the American text costs Vietnam the chance to consolidate a legal position it badly needs, and buys it the only thing it can afford: deniability. This distinction predicts that Vietnam's alignment will be a lagging indicator of the local balance of power rather than an expression of preference — alignment will come only when the coercion is lifted [2].
+
 # Citations
 
 [1] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
+
+[2] [The Award Everyone Defends and No One Will Co-Sign](https://substack.com/@velinatchakarova/p-206915723)
