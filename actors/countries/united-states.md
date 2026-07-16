@@ -5,7 +5,7 @@ parent: Countries
 description: The United States as a geopolitical actor — superpower facing military overstretch, diplomatic erosion, and an unresolved AI military integration gap
 tags: [country, military, ai, nuclear, energy, intelligence, middle-east, indo-pacific, latin-america, europe, oligarchy]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -110,6 +110,22 @@ The US response to [China]({{ site.baseurl }}/actors/countries/china.html)'s [EV
 
 The US is part of a structural defense spending boom — global military expenditures rose from $2.1 trillion in 2021 to nearly $2.9 trillion in 2025. The wars in Ukraine and the Middle East exposed the limits of lean inventories and slow weapons production. NATO's 5% spending target (3.5% core defense + 1.5% security-related investment by 2035) gives industry a longer demand signal. The most strategically valuable firms are those controlling capacity governments cannot quickly recreate: critical minerals, semiconductors, specialty metals, nuclear-grade components, and certified production capacity [23]. See [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
 
+## Iran War Costs: The $87.6 Billion Supplemental
+
+[CSIS]({{ site.baseurl }}/actors/authors/csis.html) (Cancian and Park) analyze the Trump administration's $87.6 billion supplemental request to Congress (June 24, 2026). Approximately one-third (~$32.7 billion) is driven by the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html); the remainder funds other administration priorities. The DOD receives $67.1 billion — but the main driver is not war costs but future conflict preparation. OMB Director Vought confirmed Iran war costs at ~$30 billion, meaning roughly half the DOD request is not directly war-related [26].
+
+Key DOD line items: $21 billion for munitions (only ~$7.6B estimated for war-use replacement; the rest prioritizes other theaters and the 14 "critical munitions" identified by the Munitions Acceleration Council), $17.3 billion for operational costs, $5.1 billion for cybersecurity and autonomy, $2.4 billion for drones (not replacement of 25 lost MQ-9s but future capabilities), $12.1 billion for classified programs. A major omission: base repair — 228 destroyed structures identified by satellite imagery, with the DOD reviewing whether to rebuild all bases [26].
+
+CSIS's own war cost estimate ($35.2–$42.5 billion including base repair) is comparable to the administration's $32.7 billion (excluding base repair). Other estimates reaching trillions assumed a far longer, more intense war than occurred [26].
+
+## AI Data Center Backlash
+
+A dramatic shift in American public opinion on AI data centers has emerged as a new political dynamic. According to Heatmap polling, Americans went from being evenly split on local data center construction (43% support / 42% oppose in August 2025) to overwhelmingly opposed (21% support / 71% oppose) by spring 2026 — a 50-point swing that may be the fastest opinion shift in modern American politics [27].
+
+The backlash has a strong NIMBY core: the top concerns are water use and electricity prices, which unite Americans across party and age lines. When data center projects are actually canceled, the reason is typically noise. Among younger opponents, suspicion of AI itself drives opposition. The movement draws on deeper anxieties: a few tech executives perceived as laying claim to the country's future, communities feeling powerless against forces they cannot control, and the sense that decades of computing innovation have left the world shallower rather than richer [27].
+
+The political implications are significant. The backlash is underwater among all parties — Republicans, independents, and Democrats. Democrats are already running against AI data centers in midterms, benefiting from voter instinct to reach for Democrats when an industry appears out of control. However, the coalition fractures when moving beyond local concerns: Democrats care about environmental impact; Republicans do not. If the data center were powered by renewable energy, Democrats would support it and Republicans would oppose it. Bernie Sanders has proposed a national moratorium, though his rationale (existential AI risks) differs from the NIMBY concerns driving most opposition. No clear policy menu has emerged beyond moratoriums, though a more productive approach would channel data center investment into grid upgrades the economy needs anyway [27].
+
 # Analysis
 
 The United States is experiencing a compounding crisis: military overstretch, diplomatic isolation, domestic political dysfunction, and a technology race where its lead is narrow and poorly leveraged. The [global system rupture]({{ site.baseurl }}/themes/global-system-rupture.html) is not merely happening to the US — it is being accelerated by American decisions that diverge from strategic logic. The [energy and resource]({{ site.baseurl }}/themes/energy-and-resources.html) foundation of US power remains robust in absolute terms but is diminishing relative to rivals, particularly China, which uses nearly twice as much energy and houses four times the population.
@@ -167,3 +183,7 @@ Tooze identifies two of his four disrupters as American: Trump's trade policy ra
 [24] [Oligarchy in Action: The Case of Corporate Tax Cuts](https://paulkrugman.substack.com/p/oligarchy-in-action-the-case-of-corporate)
 
 [25] [Chartbook 457: The Metamorphoses of the Dollar](https://adamtooze.substack.com/p/chartbook-457-the-metamorphoses-of)
+
+[26] [War Costs Make Up a Third of the $87.6 Billion Supplemental Request](https://www.csis.org/analysis/war-costs-make-third-876-billion-supplemental-request)
+
+[27] [Is This the Fastest Opinion Shift in American Politics?](https://www.nytimes.com/2026/07/15/opinion/ai-data-center-politics.html)

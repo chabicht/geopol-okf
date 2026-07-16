@@ -9,7 +9,7 @@ tags:
   - cyber
   - ai
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -73,6 +73,14 @@ Regional actors exploited this cognitive vulnerability through coordinated gray 
 
 Cognitive warfare is a central element of the [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) strategy waged by China, Russia, and Iran against the United States. China's United Front Work Department, Russia's Active Measures networks, and Iran's diverse network of surrogates reflect centralized national direction and a long-term horizon — in contrast to America's fragmented early steps (an NSC Cognitive Advantage Director, FY26 NDAA definition, SCO Cognitive Warfare Project). Cognitive Security — protecting decision autonomy — is both defensive (protecting perception, trust, and decision-making) and offensive (outthinking and outmaneuvering adversaries in the cognitive domain). America's national narrative is both sword and shield: it projects power and counters adversary narratives. The United States cannot let this narrative get lost in episodic political turbulence [6].
 
+## Russia-Iran Cyber Collaboration: Overstated but Real
+
+[CSIS]({{ site.baseurl }}/actors/authors/csis.html) (Shah and Sherman) provide a nuanced assessment of Russia-Iran cyber cooperation, arguing it has been repeatedly misread and misunderstood. Both states operate complex, multi-layered cyber ecosystems: Russia's includes state intelligence agencies (FSB), front companies, state-coerced cybercriminals, private contractors, and patriotic hackers; Iran's includes the IRGC, MOIS, hacktivist proxies (Handala Hack, CyberAv3ngers), and private sector companies. Not specifying which actor is involved undercuts practical threat assessment [7].
+
+The history of cooperation includes a 2001 treaty, a 2021 cyber security agreement (largely defensive, focused on regime control), Russian private sector surveillance software transfers to Iran (2022–23), and a 2025 Comprehensive Strategic Partnership Treaty. In the US-Iran conflict, an unverified Ukrainian intelligence assessment suggested hacktivist coordination via Telegram and use of Russian infrastructure by Iranian actors [7].
+
+However, several factors limit the depth of cooperation: hacktivist coordination does not equate to state-to-state collaboration; the Russian actor Turla previously commandeered Iranian cyber infrastructure for false-flag operations, deepening distrust; each state has counterintelligence concerns about the other operating on its infrastructure; and both are "uneasy strategic partners" characterized by "mutual suspicion, ideological differences, and competition." The evidence does not substantiate closely coordinated operations or joint capability development. Drone technology and satellite imagery sharing have demonstrated far greater strategic impact. Overstating cyber cooperation risks misleading policymakers and diverting resources from higher-priority threats [7]. See [Russia]({{ site.baseurl }}/actors/countries/russia.html) and [Iran]({{ site.baseurl }}/actors/countries/iran.html).
+
 # Citations
 
 [1] https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris
@@ -86,3 +94,5 @@ Cognitive warfare is a central element of the [Endless Warfare]({{ site.baseurl 
 [5] [Afghanistan Lost the Cognitive War Before It Lost the State](https://www.thecipherbrief.com/afghanistan-lost-the-cognitive-war-before-it-lost-the-state)
 
 [6] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)
+
+[7] [Understanding Russia-Iran Collaboration in Cyberspace](https://www.csis.org/analysis/understanding-russia-iran-collaboration-cyberspace)

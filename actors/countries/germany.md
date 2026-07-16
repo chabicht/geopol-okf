@@ -3,7 +3,7 @@ type: Actor
 title: Germany
 parent: Countries
 description: Germany as a geopolitical actor — publishing first military strategy, signaling European conventional defense leadership, but hampered by timeline inconsistencies, capability gaps, and the AfD's Trump dilemma
-tags: [country, military, europe, nato, ideology, economics, trade]
+tags: [country, military, europe, nato, ideology, economics, trade, energy]
 status: ongoing
 timestamp: 2026-07-15T00:00:00Z
 ---
@@ -74,6 +74,10 @@ See [Geoeconomics of Water]({{ site.baseurl }}/themes/geoeconomics-of-water.html
 
 Europe's automotive sector supports more than 13 million jobs and generated 273 billion euros in gross value added in 2023. The [EV transition]({{ site.baseurl }}/themes/ev-competition.html) places Germany at the center of a structural challenge: Europe's response to [China]({{ site.baseurl }}/actors/countries/china.html)'s EV dominance is built around the Critical Raw Materials Act, strategic autonomy, and selective industrial support, but Europe's main constraint is cost. Energy prices, labor costs, permitting delays, and fragmented national priorities make it difficult to match China's scale and speed. If European EVs remain too expensive, policymakers must balance three goals that do not always align: protecting domestic industry, keeping the transition affordable, and reducing dependence on Chinese inputs [10].
 
+## Colombia Climate Cooperation
+
+In 2023, Germany and [Colombia]({{ site.baseurl }}/actors/countries/colombia.html) signed a bilateral Partnership for Climate Action and a Just Energy Transition, focusing on expanding renewable energy, protecting the environment and biodiversity, and promoting sustainable urban development. Germany pledged up to €200 million in funding. Colombia is one of three bilateral partners of the Federal Ministry for Economic Cooperation and Development (BMZ) in Latin America. However, cooperation falls short of its strategic potential: the EU is perceived as fragmented and hesitant, with financing materializing only once projects are well advanced and little presence during high-risk early phases. The question of whether Germany and the EU can provide reliable support for Colombia's transformation is being closely watched by other Global South fossil fuel exporters [11].
+
 # Analysis
 
 Germany's military strategy represents a necessary but insufficient step. The recognition of the Russia threat and the acceptance of European conventional defense responsibility are positive developments. However, the timeline inconsistencies, lack of operational detail, and absence of institutional reform suggest that Germany remains in a declaratory phase rather than an execution phase. The gap between ambition and capability is the central challenge. Meanwhile, China Shock 2.0 adds an acute industrial crisis to the existing security challenges — the German automotive sector, the backbone of the economy, faces structural displacement by Chinese EVs, and the failure to reinvest record profits into innovation has compounded the vulnerability [6].
@@ -99,3 +103,5 @@ Germany's military strategy represents a necessary but insufficient step. The re
 [9] [The Untapped Potential of Labour and Education Migration from Africa to Germany](https://www.swp-berlin.org/publikation/mta-spotlight-75-the-untapped-potential-of-labour-and-education-migration-from-africa-to-germany)
 
 [10] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
+
+[11] [Colombia as a Leader in Climate and Energy Policy](https://www.swp-berlin.org/publikation/colombia-as-a-leader-in-climate-and-energy-policy)

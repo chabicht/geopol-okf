@@ -29,3 +29,4 @@ permalink: /actors/authors/
 * [CSIS](csis.html) - Data-driven defense analysis — Russia-Ukraine casualty data, AI-enabled drone warfare, battlefield assessment
 * [Kiel Institute](kiel-institute.html) - Russian war economy analysis — unsustainable macro stance, fiscal buffers exhausted, hydrocarbon coupling
 * [RUSI](rusi.html) - UK defense think tank — NATO strategy, asymmetric warfare, defense industrial capacity, sanctions, Indo-Pacific security
+* [SWP](swp.html) - German Institute for International and Security Affairs — climate diplomacy, conflict prevention, European foreign policy, regional dynamics

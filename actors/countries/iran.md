@@ -3,9 +3,9 @@ type: Actor
 title: Iran
 parent: Countries
 description: Iran as a geopolitical actor — surviving US-Israeli military campaign with retained leverage over Strait of Hormuz and negotiating from strength
-tags: [country, military, nuclear, energy, middle-east, drone-warfare, sanctions]
+tags: [country, military, nuclear, energy, middle-east, drone-warfare, sanctions, cyber]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -66,6 +66,14 @@ Iran is unlikely to relinquish its regional position without a fight, particular
 
 Iran's network of proxies and surrogates constitutes a core instrument of its [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) strategy. The IRGC is an enabler of Iran's distributed networks with global reach — projecting power, coercing neighbors, and getting inside the decision space of adversaries at relatively low cost. Iraqi militias have proven the most consistent direct threat to U.S. forces, responsible for more than 180 attacks on U.S. bases in the 18 months before the war began. Deeply embedded in [Iraq]({{ site.baseurl }}/actors/countries/iraq.html)'s official security architecture, they emerge from the war with greater public standing and strategic importance, their relative weight within Iran's proxy network having grown as Hizballah and Hamas absorbed losses [14].
 
+## Russia-Iran Cyber Collaboration
+
+[CSIS]({{ site.baseurl }}/actors/authors/csis.html) (Shah and Sherman) document Iran's complex, decentralized cyber ecosystem, which comprises state actors across military and civilian intelligence agencies — especially the IRGC and Ministry of Intelligence and Security (MOIS) — cyber criminals, proxy hacktivist groups, and private sector companies. The hacktivist landscape is fluid: state-sponsored groups like Handala Hack (thought to be a MOIS front) and CyberAv3ngers (linked to the IRGC) operate alongside pro-Iran regional hacktivists and anti-regime hacktivists operating from exile. Iran's private sector provides technical capabilities, talent pipelines, and front companies for cyber operations [16].
+
+In the 2026 US-Iran conflict, an unverified Ukrainian intelligence assessment suggested Russian and Iranian hacktivist collaboration — interactions between Russian groups (Z-Pentest Alliance, NoName057(16), DDoSia Project) and Iranian Handala Hack via Telegram, and alleged use of Russian technical infrastructure by Iranian actors. However, the evidence base is thin. The cyber activity described would do little to provide meaningful operational advantage in either the Russia-Ukraine or US-Iran conflict. Drone technology and satellite imagery sharing — where Russia has provided Iran with targeting intelligence — have demonstrated far greater strategic impact [16].
+
+The Russia-Iran cyber relationship is a partnership of strategic convenience, characterized by mutual suspicion. Iran's use of proxy actors as asymmetric advantage means its cyber ecosystem is particularly diffuse — making attribution and state responsibility assessment difficult. Overstating the degree of cyber cooperation risks misleading policymakers; the low-level activity reported is highly unlikely to alter the trajectory of the conflict [16].
+
 ## From Survival to Revenge
 
 [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) tracks Iran's political objectives through three expanding phases in the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html):
@@ -119,3 +127,5 @@ Two theories of victory clashed: the U.S. and Israel wanted surrender and collap
 [14] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)
 
 [15] [Live with Prof Robert Pape: Is Stage 3 Coming](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-is-stage)
+
+[16] [Understanding Russia-Iran Collaboration in Cyberspace](https://www.csis.org/analysis/understanding-russia-iran-collaboration-cyberspace)

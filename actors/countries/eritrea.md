@@ -3,9 +3,9 @@ type: Actor
 title: Eritrea
 parent: Countries
 description: Coastal authoritarian state controlling Ethiopia's path to the sea — deeply distrustful of international actors, tactically aligned with TPLF against Addis Abeba, and central to Horn of Africa tensions
-tags: [country, military, africa, naval]
+tags: [country, military, africa, naval, middle-east]
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -44,8 +44,18 @@ Eritrea is a heavily militarised society that has been preparing for confrontati
 
 Ethiopia's October 2025 letter to the UN accusing Eritrea of preparing war with the TPLF, and Foreign Minister Gedion's November 2025 statement that a "casus belli" already exists, mark a rhetorical escalation. However, mediation efforts by the US, Saudi Arabia, and European actors have so far been unsuccessful. A compromise combining regional integration with confidence-building measures and an Ethiopian naval base in Somaliland or Djibouti (without an extraterritorial corridor) is conceivable but requires trust that is currently absent [2].
 
+## Tsimdo Selam and the TPLF Tactical Alliance
+
+Eritrea has undertaken a remarkable strategic shift — from co-belligerent with the ENDF against the TPLF (2020–2022) to tactical ally of the TPLF against the Addis Abeba government. First contacts occurred in early 2024 in Dubai. The driver is Abiy's escalating rhetoric about Ethiopia's right to sea access, which Foreign Minister Gedion framed in November 2025 as grounds for war that Ethiopia was "responsibly" restraining. Eritrea's Red Sea coastline — including the ports of Assab and Massawa that Abiy has signaled interest in — is now the object of the threat [3].
+
+In 2025, Eritrea launched the "Tsimdo Selam" initiative, presented as a grassroots peace movement among related peoples in the border region of Ethiopia, Eritrea, and Sudan. Addis Abeba perceives it as an anti-Ethiopian alliance bringing together the TPLF, Eritrea, Amhara Fano, and other opposition movements preparing a joint military offensive. The cooperation is tactical, not strategic — each actor calculates it can manipulate the other's interests for its own purposes. This pattern of "lesser evil" cooperation is widespread in the region [3].
+
+Eritrea's interest is to overcome its regional isolation without abandoning its totalitarian governance model. Constant emphasis on external threats — particularly from Ethiopia — justifies the continued militarization of society. Eritrea is also expanding its relationship with [Egypt]({{ site.baseurl }}/actors/countries/egypt.html), which contests Ethiopia over Nile water control. In June 2026, Asmara and Cairo agreed to cooperate in maritime economy and develop the ports of Assab and Massawa [3].
+
 # Citations
 
 [1] [The Tigray Powder Keg in the Horn of Africa](https://geopoliticalfutures.com/the-tigray-powder-keg-in-the-horn-of-africa/)
 
 [2] [Äthiopien und das Meer](https://internationalepolitik.de/de/aethiopien-und-das-meer)
+
+[3] [Die Region Tigray in der Grauzone des Krieges](https://www.swp-berlin.org/publikation/die-region-tigray-in-der-grauzone-des-krieges)

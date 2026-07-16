@@ -3,9 +3,9 @@ type: Actor
 title: Turkey
 parent: Countries
 description: Turkey as a geopolitical actor — emerging as the Middle East's dominant power, capitalizing on Iran's decline to expand across Syria, Iraq, Lebanon, and the Horn of Africa, competing with Israel for regional influence, and pursuing independent defense cooperation outside NATO constraints
-tags: [country, military, drone-warfare, africa, nato, middle-east, naval]
+tags: [country, military, drone-warfare, africa, nato, middle-east, naval, ideology]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -66,6 +66,36 @@ Turkey's strategic position is uniquely favorable. The US shift from Israel-cent
 
 The Israel-Turkey rivalry is emerging as the defining competitive dynamic in the post-Iran Middle East. Turkey's rise — with Washington's assent — represents for Israel its greatest challenge since making peace with Egypt nearly 50 years ago. The competition unfolds across Syria, the Red Sea, and Gaza, with port infrastructure and proxy relationships as the primary currencies of influence [3].
 
+## Autocratisation and Its Economic Consequences
+
+Yaşar Aydın ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) documents Turkey's trajectory from competitive authoritarianism to full autocracy, with the 2016 failed coup as the inflection point. On July 15, 2016, factions within the Turkish military attempted to overthrow [Erdoğan]({{ site.baseurl }}/) and the government. The coup failed due to public resistance, political opposition, and army divisions. Erdoğan used the event as a political opportunity to consolidate power [7].
+
+### Purges and Institutional Restructuring
+
+A state of emergency (July 2016 – July 2018) enabled comprehensive purges through 32 emergency decrees:
+
+- ~130,000 public-sector employees dismissed
+- ~332,000 people arrested and detained in connection with the coup attempt by end of 2022
+- 4,000 judges and prosecutors removed
+- Thousands of schools, universities, and foundations closed by decree
+- 131 media companies shut down (45 newspapers, 16 TV stations, 23 radio stations, 3 news agencies)
+- Tens of thousands of passports revoked [7]
+
+The April 2017 constitutional referendum introduced a presidential system with significantly expanded executive powers — passed by a narrow, contested majority. International observers reported irregularities; the Supreme Electoral Committee admitted ~2 million improperly stamped ballots on election night, pushing the result to a narrow victory. Parliament's oversight and veto rights were restricted; judicial independence weakened. Political scientists initially classified Turkey as "competitive authoritarian"; more recent analyses assess it as a full "autocracy." Freedom House downgraded Turkey to "Not Free" in 2018. Turkey's Liberal Democracy Index score nearly halved within a few years [7].
+
+### Economic Erosion
+
+Autocratisation accompanied significant erosion of the Turkish economy's institutional framework. Weakening of the rule of law, property rights protection, and central bank independence increased policy uncertainty:
+
+- Average annual real GDP growth fell from 6.5% (pre-coup five years) to 3.5% (post-coup five years)
+- Nominal GDP per capita fell from ~$11,000 to ~$9,700
+- Foreign direct investment inflows declined from an average of $15B to $11B
+- Export growth slowed from 5% to 3%
+- Inflation rose from 7% to 14%
+- The Turkish lira depreciated significantly and became more volatile [7]
+
+Ongoing repression against the CHP opposition and its mayors, along with renewed efforts to amend the constitution to secure power, continue to increase political instability and impact the investment climate. There are no signs of sustained economic recovery [7].
+
 # Citations
 
 [1] Geopolitical Futures, "In Mali, Turkey Sees an Opening" — https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/
@@ -79,3 +109,5 @@ The Israel-Turkey rivalry is emerging as the defining competitive dynamic in the
 [5] [As Iran Declines, Turkey Advances](https://geopoliticalfutures.com/as-iran-declines-turkey-advances/)
 
 [6] [The Red Sea: A Strategic Basin Far Beyond the Houthi Threat](https://geopoliticalfutures.com/the-red-sea-a-strategic-basin-far-beyond-the-houthi-threat/)
+
+[7] [The failed coup and Turkey's path towards autocracy](https://www.swp-berlin.org/publikation/the-failed-coup-and-turkeys-path-towards-autocracy)
