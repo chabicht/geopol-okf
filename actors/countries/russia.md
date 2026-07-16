@@ -2,7 +2,7 @@
 type: Actor
 title: Russia
 parent: Countries
-description: Russia as a geopolitical actor — waging war in Ukraine, managing Chechnya's succession risk, projecting power in Africa, conducting cognitive warfare against the West, attempting to revitalize the CSTO, losing its grip on its southern flank, and facing logistics vulnerabilities under sanctions
+description: Russia as a geopolitical actor — waging war in Ukraine, managing Chechnya's succession risk, projecting power in Africa, conducting cognitive warfare against the West, attempting to revitalize the CSTO, losing its grip on its southern flank, facing logistics vulnerabilities under sanctions, facing drone strikes deep into Siberia, and contending with the resilience of its security state
 tags: [country, military, cognitive-warfare, energy, sanctions, europe, caucasus, africa, central-asia, supply-chain]
 status: ongoing
 timestamp: 2026-07-15T00:00:00Z
@@ -94,6 +94,24 @@ Ekaterina Zolotova (GPF) reports that despite sanctions, Russian seaport cargo t
 
 The Kremlin has emphasized "transport sovereignty" for sustainable access to friendly markets, but foreign lines not controlled by Russian principals still transported 45% of container turnover in the Far East, 75% in the Baltic basin, and 80% in the Azov-Black Sea basin in 2025. Proposed measures to increase control include invalidating certain transactions, overtaking assets, and banning foreign companies from regular container shipments. New icebreaker funding proposals — a port fee of $0.20 per ton on all export cargo or $0.40-$2.75 per ton on the Northern Sea Route until 2035 — would increase shipping costs and undermine the economic interest of shippers. For international businesses, Russia remains attractive as a relatively large, unsaturated market and a waypoint to Asia-Pacific, but companies participating in or relying on logistics face significant risk [18].
 
+## Why Russia Can't Expand the War
+
+[George Friedman]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) (GPF) argues that Russia does not have one hand tied behind its back — it is missing a hand. The Russian military has performed poorly in [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), and its ability to mount another attack on a European nation is extremely limited. [Poland]({{ site.baseurl }}/regions/europe.html) has developed a substantial, well-armed, and well-trained military — an attack in the Baltics or on Poland would almost certainly trigger a Polish response. Moreover, the US has some 10,000 troops in Poland. The reason Putin has not expanded the war is that any attack on any western-oriented country will likely evolve into a Polish and possibly a US response [20].
+
+## Size and Centralization as Liabilities
+
+Ekaterina Zolotova (GPF) reports that Ukraine's drone strikes are reaching deep into Siberia — a drone threat was declared for the first time ever in Novosibirsk and Omsk, with Ukrainian drones venturing 2,500 kilometers beyond the border to attack the Omsk oil refinery, the largest in Russia. The strike illustrates how one of Russia's greatest strengths — its immense size — has become a weakness [21].
+
+Russia possesses high-quality air defense systems (S-500, A-235 Nudol, Pantsir-SMD), but the challenge is the sheer number needed to protect its vast territory. Approximately 80% of the population lives west of the Urals, and just to cover the line of contact with Ukraine, Russia would need as many as 500 Pantsir units — which it does not have. Drones are difficult to detect beyond tens of kilometers, so defenses must be spread out. Ukraine is able to identify gaps in Russia's radar and missile coverage with each attack [21].
+
+The bureaucracy that Russia built to exercise control over its sprawling territory is a liability when reacting swiftly to external threats. Centralized control proved unreliable in war: not until late May 2026 did Russia's Defense Ministry authorize private companies to acquire anti-aircraft artillery systems and electronic warfare stations for their own defense. During the weeks that the centralized system amends legislation, Ukraine's drone strikes continue inflicting damage. Airport closures occur almost daily due to drone threats — cancellations in 2026 were up 4.3-fold year on year, with disruptions costing airlines and related industries up to billions of rubles per day [21].
+
+## Security State Resilience
+
+[The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) argues that repeated predictions of Vladimir Putin's imminent collapse have failed. Three years after Yevgeny Prigozhin's Wagner mutiny, the Russian security state has demonstrated remarkable durability. Putin's system rests on multiple overlapping centers of coercive power — the FSB (domestic intelligence), Rosgvardia (National Guard), and FSO (Federal Protective Service) — deliberately structured to counterbalance one another and ensure threats can be contained from multiple directions. Prigozhin's mutiny did not invalidate this architecture; if anything, the aftermath demonstrated its durability, as Rosgvardia was strengthened immediately after [22].
+
+The key analytical distinction is between long-term structural vulnerabilities and near-term political collapse — those are not the same thing. Prigozhin was not marching to overthrow Putin; he targeted Defense Minister Shoigu and Chief of the General Staff Gerasimov, seeking their removal. Elite infighting should not be mistaken for imminent regime collapse. Russia under Putin has shown a remarkable ability to overcome structural and corrupt vulnerabilities to launch out repeatedly with aggression. Sustained Western resolve and continued support for Ukraine are required — the security state will not collapse under its own weight [22].
+
 # Analysis
 
 Russia's strategic position is paradoxical: deeply committed in Ukraine, facing succession risk in Chechnya, losing ground in Africa, yet successfully exploiting Western energy dependencies and conducting effective cognitive warfare. The DragonBear axis provides critical support, but Russia's ability to sustain multiple theaters is increasingly constrained by the prioritization demands of the Ukraine war.
@@ -137,3 +155,9 @@ Russia's strategic position is paradoxical: deeply committed in Ukraine, facing 
 [18] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
 
 [19] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
+
+[20] [George Answers Your Questions: A Strange Article from Tass and The Conception and Birth of the United States](https://geopoliticalfutures.com/george-answers-your-questions-a-strange-article-from-tass-and-the-conception-and-birth-of-the-united-states/)
+
+[21] [Russia's Size and Centralization Become Liabilities](https://geopoliticalfutures.com/russias-size-and-centralization-become-liabilities/)
+
+[22] [The Continued Myth of Russia's Imminent Collapse: Lessons from Prigozhin's Mutiny Three Years On](https://www.thecipherbrief.com/the-continued-myth-of-russias-imminent-collapse-lessons-from-prigozhins-mutiny-three-years-on)

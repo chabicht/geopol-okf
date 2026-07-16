@@ -2,10 +2,10 @@
 type: Actor
 title: India
 parent: Countries
-description: India as a geopolitical actor — balancing China as its overriding strategic concern while enduring Trump-era diplomatic slights
+description: India as a geopolitical actor — balancing China as its overriding strategic concern, building an Asian alliance network, and enduring Trump-era diplomatic slights
 tags: [country, military, indo-pacific, trade]
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -50,9 +50,17 @@ China's $9.2 billion investment push into [Bangladesh]({{ site.baseurl }}/actors
 
 [Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) documents that India is "gorging" on Russian oil — June 2026 purchases hit record highs despite US sanctions supposedly reactivated on June 17. The Indian government has explicitly stated it will continue buying Russian oil regardless of US sanctions status. Trump's war with Iran ended Indian hedging: once the American bombing started, India quickly bought up all the oil it could. The sanctions reactivation after the ceasefire produced no behavioral change. India's calculated position: Trump is too afraid of India and too enamored of Putin to actually enforce sanctions. The US has created a "free-for-all" situation for purchasers of Russian oil [6].
 
+## Asian Alliance Network
+
+[George Friedman]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) (GPF) argues that Modi's July 2026 Asia tour — visiting [Indonesia]({{ site.baseurl }}/actors/countries/indonesia.html), [Australia]({{ site.baseurl }}/actors/countries/australia.html), and New Zealand after the Japanese PM visited New Delhi — represents the beginning of a fundamental shift in the global system. The emerging coalition (India, [Japan]({{ site.baseurl }}/actors/countries/japan.html), Australia, Indonesia, New Zealand, and [Vietnam]({{ site.baseurl }}/actors/countries/vietnam.html)) is far more significant than the Quadrilateral Security Dialogue (Quad) because it has an economic dimension and includes Indonesia, which could further limit [China]({{ site.baseurl }}/actors/countries/china.html)'s maritime access to Europe and the [Middle East]({{ site.baseurl }}/regions/middle-east.html) [7].
+
+The economic dimension of these agreements creates a powerful bloc that could serve as an alternative source of imports for the [United States]({{ site.baseurl }}/actors/countries/united-states.html), giving Washington more economic leverage over China. The emerging network would threaten China on land from India and Vietnam and, in theory, impose a naval barrier to China's access to the oceans. From the US point of view, this evolution relieves the US from being the primary force containing China — consistent with the broader American disengagement from the Eastern Hemisphere [7].
+
 # Analysis
 
 India's strategic position is defined by the asymmetry with China and the absence of alternatives to the American partnership. The relationship with the US is durable not because it is satisfactory, but because it is structurally necessary. India's passivity during the Iran war and its tolerance of Trump's slights both reflect the same underlying constraint: the China threat leaves no room for strategic autonomy in alliance management.
+
+Modi's Asia tour suggests India is not merely passively accepting the American alliance but actively building a regional coalition that serves its own China containment interests. The emerging network — stretching from Japan through Indonesia to Australia, with India and Vietnam as land-based anchors — could become the most significant geopolitical development of 2026 if it solidifies.
 
 # Citations
 
@@ -67,3 +75,5 @@ India's strategic position is defined by the asymmetry with China and the absenc
 [5] [China Makes Its Move in Bangladesh](https://geopoliticalfutures.com/china-makes-its-move-in-bangladesh/)
 
 [6] [Weekend Update #192: Can Russia Counter?](https://phillipspobrien.substack.com/p/weekend-update-192-can-russia-counter)
+
+[7] [A Major Move by India](https://geopoliticalfutures.com/a-major-move-by-india/)

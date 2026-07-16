@@ -14,3 +14,4 @@ permalink: /regions/
 * [Africa](africa.html) - Sahel insurgency zone; Horn of Africa maritime chokepoint; multi-party competition
 * [Latin America](latin-america.html) - Rightward wave with militarized security turn and institutional fragility
 * [Arctic](arctic.html) - Strategic theater where digital sovereignty, submarine cable infrastructure, and great power competition converge
+* [Red Sea](red-sea.html) - Strategic maritime basin connecting the Mediterranean to the Indian Ocean; evolving from Houthi threat theater to interstate rivalry arena

@@ -2,7 +2,7 @@
 type: Actor
 title: China
 parent: Countries
-description: China as a geopolitical actor — coordinating national AI strategy, encircling Taiwan, investing across Central Asia, anchoring the DragonBear axis, and turning toward Maoist ideological mobilization to manage economic slowdown
+description: China as a geopolitical actor — coordinating national AI strategy, encircling Taiwan, investing across Central Asia, anchoring the DragonBear axis, and turning toward Maoist ideological mobilization to manage economic slowdown while facing an emerging Asian containment coalition
 tags: [country, military, ai, technology, energy, trade, indo-pacific, central-asia, ideology, economics]
 status: ongoing
 timestamp: 2026-07-15T00:00:00Z
@@ -84,6 +84,12 @@ China's dominance in the [EV industrial competition]({{ site.baseurl }}/themes/e
 
 ECB President Christine Lagarde's call for global leaders to discuss the undervaluation of the Chinese yuan reflects a wider geoeconomic shift. China's rising trade surplus, weak domestic demand, and strong industrial output are increasing pressure on advanced economies. A weaker yuan makes Chinese exports more competitive, but the larger issue is the interaction between exchange rates, industrial subsidies, excess manufacturing capacity, and global trade imbalances. The structural change is the gradual politicization of trade and currency relations — exchange rates are becoming part of the wider contest over industrial power [16]. See [Monetary System Transition]({{ site.baseurl }}/themes/monetary-system-transition.html).
 
+## Asian Containment Network
+
+[George Friedman]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) (GPF) identifies an emerging Asian coalition — [India]({{ site.baseurl }}/actors/countries/india.html), [Japan]({{ site.baseurl }}/actors/countries/japan.html), [Australia]({{ site.baseurl }}/actors/countries/australia.html), [Indonesia]({{ site.baseurl }}/actors/countries/indonesia.html), New Zealand, and [Vietnam]({{ site.baseurl }}/actors/countries/vietnam.html) — as a potentially more significant containment architecture than the Quad. The coalition threatens China on land from India and Vietnam and, in theory, imposes a naval barrier to China's access to the oceans. Indonesia's participation could further limit China's maritime access to Europe and the [Middle East]({{ site.baseurl }}/regions/middle-east.html), making China dependent on a trans-Pacific route through the Panama Canal or around South America [17].
+
+The economic dimension of this coalition creates a powerful bloc that could serve as an alternative source of imports for the [United States]({{ site.baseurl }}/actors/countries/united-states.html), giving Washington more economic leverage over China. China's economy produces more products than it can domestically consume and must export massive amounts to maintain economic health — its largest customer remains the US. The massive economic power of the nations in this potential coalition could redirect trade flows away from China [17].
+
 # Analysis
 
 China's strategic position is defined by coordinated action across domains where the US struggles to maintain coherence: AI military integration, maritime grey-zone operations, and resource investment in Central Asia. The DragonBear axis provides a force multiplier, allowing Beijing and Moscow to apply synchronized pressure on the Western coalition. However, China's growth model faces inherent limits that constrain its long-term trajectory.
@@ -123,3 +129,5 @@ Tooze identifies the "gear-shift in Chinese economic policy" as one of four disr
 [15] [Live with Prof Robert Pape and Joe Kent](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-and-joe-244)
 
 [16] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
+
+[17] [A Major Move by India](https://geopoliticalfutures.com/a-major-move-by-india/)

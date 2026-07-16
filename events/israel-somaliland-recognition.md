@@ -53,6 +53,14 @@ Control of port infrastructure is the primary vector of competition: DP World at
 
 Somaliland's Taiwan connection makes it a node linking Middle Eastern security competition with Indo-Pacific strategic rivalry. Beijing maintains a military base in Djibouti; Somaliland's openness to alternative partnerships introduces the possibility of Western or allied arrangements that could constrain Chinese freedom of action near the Red Sea. The international community may find Somaliland increasingly difficult to ignore as it becomes implicated in multiple overlapping rivalries.
 
+## Red Sea as Strategic Basin
+
+Kamran Bokhari (GPF) frames the Red Sea as evolving from a theater dominated by the Houthi non-state maritime threat into one defined by overlapping interstate rivalries. The broader strategic landscape is shaped by Israel's recognition of Somaliland, [Turkey]({{ site.baseurl }}/actors/countries/turkey.html)'s expanding military partnership with [Somalia]({{ site.baseurl }}/actors/countries/somalia.html), the destabilizing effects of [Sudan]({{ site.baseurl }}/actors/countries/sudan.html)'s civil war, [Ethiopia]({{ site.baseurl }}/actors/countries/ethiopia.html)'s drive to secure maritime access, and [Egypt]({{ site.baseurl }}/actors/countries/egypt.html)'s efforts to reassert its regional role. The region's future stability will depend not only on protecting shipping lanes but also on the intersecting rivalries unfolding among the states that border and influence the waterway [2].
+
+Saudi Arabia is weighing a multibillion-dollar expansion of its East-West oil pipeline to the Red Sea — potentially adding up to 2 million barrels per day in capacity — to reduce reliance on the Strait of Hormuz. Container shipping giants Maersk and Hapag-Lloyd rerouted a key Asia-Mediterranean service back through the Red Sea and Suez Canal. These developments show that the Red Sea basin's security challenges extend well beyond the Bab el-Mandeb [2].
+
 # Citations
 
 [1] [Competition in the Horn of Africa Heats Up](https://geopoliticalfutures.com/competition-in-the-horn-of-africa-heats-up/)
+
+[2] [The Red Sea: A Strategic Basin Far Beyond the Houthi Threat](https://geopoliticalfutures.com/the-red-sea-a-strategic-basin-far-beyond-the-houthi-threat/)

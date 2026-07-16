@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: National security and intelligence-focused analytical publication featuring expert commentary from former officials — covering AI military competition, intelligence community reform, and China strategic rivalry
 tags: [author, news]
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -38,12 +38,17 @@ The Cipher Brief argues that the West must prepare for a [Russian]({{ site.baseu
 
 The Cipher Brief identifies [Africa]({{ site.baseurl }}/regions/africa.html) as a continent of contrasting risks and opportunities. The risk side: deepening insecurity and underdevelopment, with the continent accounting for more than half of global terrorist-related casualties. The opportunity side: Africa has outperformed global growth by 0.5-1.5 percentage points since 2000, is on track to outpace the world in merchandise import growth, and its working-age population will rise from ~850 million to over 1.5 billion by 2050 — accounting for 85% of the global workforce increase. The US, below replacement fertility for nearly two decades, will need Africa as a source of workers [4].
 
+## Russian Security State Resilience
+
+Sean Wiswesser argues that three years after Prigozhin's Wagner mutiny, predictions of Putin's imminent collapse have failed. Three enduring lessons: (1) the mutiny exposed real vulnerabilities — corruption, patronage, institutional rivalries — but these are long-term structural weaknesses, not near-term collapse indicators; (2) weakness and resilience coexist — the war has strengthened the FSB's chokehold, the economy has weathered sanctions, and propaganda keeps the population compliant; (3) Putin's system rests on multiple overlapping centers of coercive power (FSB, Rosgvardia, FSO) deliberately structured to prevent any single institution from becoming too powerful. The key analytical distinction is between long-term structural vulnerabilities and near-term political collapse. Sustained Western resolve and continued support for [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) are required — the security state will not collapse under its own weight [5].
+
 # Sources in Bundle
 
 - "The AI Race Won't Be Won by the Best Model — But by the Fastest Military" [1]
 - "DNI Day One: Three Strategic Decisions for National Security Evolution" [2]
 - "The West Needs to Prepare for a Russian Defeat in Ukraine" [3]
 - "A Tale of Two Africas in Maps, And How It Affects the United States" [4]
+- "The Continued Myth of Russia's Imminent Collapse: Lessons from Prigozhin's Mutiny Three Years On" [5]
 
 # Citations
 
@@ -54,3 +59,5 @@ The Cipher Brief identifies [Africa]({{ site.baseurl }}/regions/africa.html) as 
 [3] [The West Needs to Prepare for a Russian Defeat in Ukraine](https://www.thecipherbrief.com/the-west-needs-to-prepare-for-a-russian-defeat-in-ukraine)
 
 [4] [A Tale of Two Africas in Maps, And How It Affects the United States](https://www.thecipherbrief.com/a-tale-of-two-africas-in-maps-and-how-it-affects-the-united-states)
+
+[5] [The Continued Myth of Russia's Imminent Collapse: Lessons from Prigozhin's Mutiny Three Years On](https://www.thecipherbrief.com/the-continued-myth-of-russias-imminent-collapse-lessons-from-prigozhins-mutiny-three-years-on)

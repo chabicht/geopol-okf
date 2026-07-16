@@ -95,6 +95,20 @@ Colibasanu (GPF) identifies a structural transformation at the intersection of A
 
 AI systems behave as "living code" — continuously evolving through updates, retraining, and interaction with new data, with outputs that change dynamically. Cybersecurity can no longer rely solely on guardrails embedded during design; AI systems require ongoing runtime enforcement and constant monitoring. Companies may need the digital equivalent of background checks for AI systems — AI supply chain reviews assessing whether models, training datasets, and third-party agents have been compromised. The next phase of the AI race may depend on access to the most advanced AI capabilities for cybersecurity: states and corporations with superior defensive AI systems will gain major strategic advantages [2].
 
+## Geoeconomics: The Economic-Military Nexus
+
+[George Friedman]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) (GPF) draws on Adam Smith to frame the inextricable relationship between economic and military power. Smith understood that the essential role of government for economics was a standing and powerful military force, without which the economy could not survive. To have military power is to have enough economic success to build a military; to have economic power is to have a strong enough military to fend off those that covet the nation's wealth. A nation that is wealthy but weak is the most vulnerable to predatory nations; a nation that is strong but poor is vulnerable to internal strife [4].
+
+The defense industry is unique in that the level of government control is enormous — a primary customer of a defense company is normally its own country. Competition between defense industries in different countries depends to a great extent on the government's policy in that country. Geoeconomics uses geopolitics as a lens to observe the effects of geopolitical confrontation on national economies — distinct from geopolitics, which looks at the entirety of a nation's power and interest [4].
+
+## NATO Military Mobility and Fuel Infrastructure
+
+Antonia Colibasanu (GPF) reports that the Ankara summit addressed the gap between political commitments and operational capability on NATO's eastern flank. Allies announced a planned 27 billion euro ($31 billion) investment to modernize NATO's fuel storage and distribution infrastructure and develop new pipelines extending eastward — adapting Cold War pipeline architecture to present strategic geography, where the main conventional threat lies much farther east [5].
+
+Military mobility should be understood as a network rather than a series of transport projects. Its effectiveness is determined by its weakest point. A port may receive a large shipment, but the surrounding railway may lack suitable wagons. The Bucharest-Sofia corridor remains one of the most vulnerable sections of the wider corridor — dependent on national roads, ageing railway infrastructure, and a limited number of Danube crossings. NATO now maintains nine multinational Forward Land Forces battlegroups in Bulgaria, Estonia, Finland, Hungary, Latvia, Lithuania, Poland, Romania, and Slovakia. The central question is no longer whether allies are willing to defend the eastern flank but whether they can build the interconnected industrial, logistical, and regional architecture required to do so under wartime conditions [5].
+
+On the Black Sea sidelines, Romania, Bulgaria, and [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) expanded the Mine Countermeasures Black Sea Task Group mandate to include protection of critical undersea infrastructure — operationally significant for Romania's Neptun Deep offshore energy project. The NATO Engine aims to connect unused civilian and defense manufacturing capacity. Under the Drone Edge initiative, allies plan to invest more than $40 billion over five years in counter-drone capabilities [5].
+
 # Citations
 
 [1] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
@@ -102,3 +116,7 @@ AI systems behave as "living code" — continuously evolving through updates, re
 [2] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
 
 [3] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
+
+[4] [Adam Smith and the Defense Industry](https://geopoliticalfutures.com/adam-smith-and-the-defense-industry/)
+
+[5] [NATO Puts Its Money Where Its Mouth Is](https://geopoliticalfutures.com/nato-puts-its-money-where-its-mouth-is/)

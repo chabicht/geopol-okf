@@ -5,7 +5,7 @@ parent: Regions
 description: Crossroads of three continents containing the Strait of Hormuz; undergoing a US strategic reorientation from Israel-centric to multilateral security, with Turkey-Israel rivalry as the defining competitive dynamic and Iran in systemic decline.
 tags: [middle-east, energy, military, trade]
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -34,6 +34,8 @@ The region hosts a dense web of competing actors — the United States, Iran, Is
 - US-Israel friction has surfaced publicly: Washington seeks diplomatic accommodation with [Iran]({{ site.baseurl }}/actors/countries/iran.html) while [Israel]({{ site.baseurl }}/actors/countries/israel.html) remains skeptical that an ideologically driven regime can be durably moderated. VP Vance publicly rebuked Israeli cabinet members. The divergence reflects two fundamentally different approaches to managing the Iranian problem [11].
 - [Egypt]({{ site.baseurl }}/actors/countries/egypt.html) presents itself as a central Middle East mediator but consistently fails to resolve core conflicts, managing crises only superficially due to economic weakness and a risk-averse foreign policy. Qatar and Pakistan have eclipsed Cairo's diplomatic role in Gaza and Iran negotiations [12].
 - Iran's IRGC has escalated external operations in Europe through a "gig economy" model of disposable agents, funded by an oil-backed shadow banking system. See [Organised Crime and Statecraft]({{ site.baseurl }}/themes/organised-crime-and-statecraft.html) [13].
+- [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) is capitalizing on [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s decline to expand across [Syria]({{ site.baseurl }}/regions/middle-east.html), [Lebanon]({{ site.baseurl }}/regions/middle-east.html), and [Iraq]({{ site.baseurl }}/actors/countries/iraq.html). The collapse of the Syrian government in December 2024 transformed Syria from a central pillar of Iranian influence into a springboard for Turkish regional ambitions. Washington's strategy rests on fostering a new geopolitical order anchored by Turkey, Arab states, and [Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html) to prevent Tehran from reclaiming its dominant position. Iraq is poised to reemerge as the principal arena of Turkish-Iranian competition [14].
+- The [Red Sea]({{ site.baseurl }}/regions/red-sea.html) basin is evolving from a theater dominated by non-state maritime threats (Houthi rebels) into one defined by overlapping interstate rivalries. Saudi Arabia is weighing a multibillion-dollar pipeline expansion to the Red Sea (+2M bpd) to reduce reliance on Hormuz. [Egypt]({{ site.baseurl }}/actors/countries/egypt.html)'s Octagon military headquarters and [Ethiopia]({{ site.baseurl }}/actors/countries/ethiopia.html)'s drive for sea access add new dimensions. [Sudan]({{ site.baseurl }}/actors/countries/sudan.html)'s civil war and [Somalia]({{ site.baseurl }}/actors/countries/somalia.html)'s alignment with Turkey further complicate the strategic landscape [15].
 
 # Key Dynamics
 
@@ -69,3 +71,7 @@ The region hosts a dense web of competing actors — the United States, Iran, Is
 [12] [A Realist View of Egypt's Mediator Role](https://geopoliticalfutures.com/a-realist-view-of-egypts-mediator-role/)
 
 [13] [Suspicious Transaction Report: Iran's External Operations with Matthew Levitt](https://traffic.libsyn.com/secure/forcedn/suspicioustransactionreport/260605_STR_Matthew_Levitt_V1.mp3)
+
+[14] [As Iran Declines, Turkey Advances](https://geopoliticalfutures.com/as-iran-declines-turkey-advances/)
+
+[15] [The Red Sea: A Strategic Basin Far Beyond the Houthi Threat](https://geopoliticalfutures.com/the-red-sea-a-strategic-basin-far-beyond-the-houthi-threat/)
