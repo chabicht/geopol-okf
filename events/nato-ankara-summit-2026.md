@@ -98,6 +98,20 @@ The Ukrainian Ministry of Defence provided information on the specific outcomes 
 - Three agreements on unmanned aerial vehicles (UAVs) were signed. Ukraine will develop drone production in partnership with [Estonia]({{ site.baseurl }}/actors/countries/estonia.html), the [Netherlands]({{ site.baseurl }}/actors/countries/netherlands.html), and [Denmark]({{ site.baseurl }}/actors/countries/denmark.html).
 - The **DSRB bank** is being established with funding of up to $134 billion. Representatives from Canada, [Albania]({{ site.baseurl }}/actors/countries/albania.html), Belgium, [Greece]({{ site.baseurl }}/actors/countries/greece.html), [Latvia]({{ site.baseurl }}/actors/countries/latvia.html), [Luxembourg]({{ site.baseurl }}/actors/countries/luxembourg.html), [Romania]({{ site.baseurl }}/actors/countries/romania.html), and [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) announced their intention to establish the bank.
 
+## Three Lessons for a More European NATO
+
+Rachel Ellehuus ([RUSI]({{ site.baseurl }}/actors/authors/rusi.html) Director-General) identifies three lessons from the Ankara summit for sustaining momentum toward a more European-led NATO [7]:
+
+1. **Deliver results, not fight the scenario**: The old NATO where the US led and provided the bulk of capabilities is not returning. European allies and Canada have the means to do more. A more balanced alliance will be more resilient, with Europeans having greater agency and being a better, more valuable partner to the US. Smarter allies take their cue from Rutte and model allies like the Nordics, Baltics, and [Germany]({{ site.baseurl }}/actors/countries/germany.html) by adopting a pragmatic, results-focused approach.
+
+2. **Ukraine's centrality to credible European defence**: The declaration's statement that "[Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) contributes to transatlantic security" formally recognises Ukraine as a security contributor — not just a partner. Promising initiatives: Project Freya (anti-ballistic missile system with Ukrainian rockets, German Hensoldt radars, Norwegian C2), drone coproduction contracts with European and Gulf nations, integration of Ukraine's FP5 Flamingo missile with European industry. Ukraine should influence everything from how NATO fights to how it integrates emerging technologies with conventional platforms.
+
+3. **Private sector's role**: The NATO Defence Industry Forum (NSDIF26), the Strategy for NATO-Industry Cooperation, and sharing NATO's aggregate defence shortfalls and capability targets directly with defence industry signal that industry needs a seat at the table. Financing mechanisms: the Multilateral Defence Mechanism (Finland, Poland, Netherlands, [UK]({{ site.baseurl }}/actors/countries/united-kingdom.html)) and the Defence Security and Resilience Bank (Canada, Luxembourg) provide investor assurance.
+
+## IP4 Representation
+
+The NATO Secretary General invited IP4 (Indo-Pacific 4) defense ministers. South Korea was represented at Presidential level, reinforcing its prominence in defence industry partnership and procurement. Other IP4 members sent ministers of defence, and [Japan]({{ site.baseurl }}/actors/countries/japan.html) sent both defence and foreign ministers. Compared to the 2022 Madrid summit with heads of state, this level of representation may indicate decline — or maturation into pragmatic functionality. The Ukraine war created real material links: South Korean defence manufacturers restocking European armouries, North Korean troops fighting in Ukraine with Russian tech transfer in return, lessons flowing to Japan and Taiwan [8].
+
 # Citations
 
 [1] [NATO 3.0 to Emerge at Ankara Summit Amid Fragile Unity](https://www.rusi.org/explore-our-research/publications/commentary/nato-30-emerge-ankara-summit-amid-fragile-unity)
@@ -111,3 +125,7 @@ The Ukrainian Ministry of Defence provided information on the specific outcomes 
 [5] [NATO Summit – Outcomes for Ukraine](https://substack.com/@velinatchakarova/p-206687913)
 
 [6] [The Worst NATO Summit In History](https://phillipspobrien.substack.com/p/the-worst-nato-summit-in-history)
+
+[7] [The critical enablers of a more European NATO](https://www.euractiv.com/opinion/the-critical-enablers-of-a-more-european-nato/)
+
+[8] [What's Left of NATO's Asia Engagement?](https://www.rusi.org/explore-our-research/publications/commentary/whats-left-natos-asia-engagement)

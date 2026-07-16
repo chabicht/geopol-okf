@@ -5,7 +5,7 @@ parent: Countries
 description: China as a geopolitical actor — coordinating national AI strategy, encircling Taiwan, investing across Central Asia, anchoring the DragonBear axis, and turning toward Maoist ideological mobilization to manage economic slowdown while facing an emerging Asian containment coalition
 tags: [country, military, ai, technology, energy, trade, indo-pacific, central-asia, ideology, economics]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -100,6 +100,12 @@ July 2026 demonstrated the DragonBear's military coordination across multiple la
 
 The one hard boundary: as Russian nuclear saber-rattling accelerated, Beijing delivered Moscow an ultimatum-form warning that there can be no thought of using nuclear weapons in Ukraine. The red line runs through Beijing, not Moscow — China coordinates across every domain except the one where its global standing diverges from Russia's escalation logic. Beijing enables the war machine and simultaneously polices its nuclear threshold [19].
 
+## NATO-IP4 and China's Response
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) traces how China's backing of [Putin]({{ site.baseurl }}/actors/putin.html)'s 2022 escalation catalyzed NATO-IP4 mutual attraction, validating security "indivisibility" between the Euro-Atlantic and Indo-Pacific theatres. China remains unhappy with NATO's Asian partnerships — as Odgaard notes, NATO's outreach reinforces Beijing's "concerns about encirclement and the extension of transatlantic security structures into Asia." The PRC stigmatises "block formation" that runs counter to its interest in separating Asian allies from America, from Europe, and from each other [20].
+
+However, the second Trump administration's NDS treats Euro-Atlantic/Indo-Pacific separation as desirable, and its "constructive strategic stability" détente with China conflicts with "ganging up" via NATO-IP4. This suggests US interests may be diverging from those of NATO's Asian and European partners — creating an opening for China to exploit. The "Europeanisation" of NATO may further complicate Asian engagement: [France]({{ site.baseurl }}/actors/countries/france.html) is wary of constraints on China diplomacy, and Spain is pulling toward Beijing. Even if Washington loses interest, the IP4 values access to NATO as a platform for accessing lessons from Ukraine [20].
+
 # Analysis
 
 China's strategic position is defined by coordinated action across domains where the US struggles to maintain coherence: AI military integration, maritime grey-zone operations, and resource investment in Central Asia. The DragonBear axis provides a force multiplier, allowing Beijing and Moscow to apply synchronized pressure on the Western coalition. However, China's growth model faces inherent limits that constrain its long-term trajectory.
@@ -147,3 +153,5 @@ Tooze identifies the "gear-shift in Chinese economic policy" as one of four disr
 [18] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)
 
 [19] [The DragonBear in July: Coordination Without Alliance](https://substack.com/@velinatchakarova/p-206606963)
+
+[20] [What's Left of NATO's Asia Engagement?](https://www.rusi.org/explore-our-research/publications/commentary/whats-left-natos-asia-engagement)

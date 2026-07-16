@@ -9,7 +9,7 @@ tags:
   - economics
   - trade
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -99,6 +99,18 @@ The binding constraint is mindset, not resources and not geography. Tchakarova i
 
 The verdict: a middle power that can neither anchor its own bloc nor commit to an existing one has not found a third way — it has only found a slower path to becoming someone else's terrain. The strategy exists: an Anglo-Pacific bloc of networks organized around raw materials, chips, rare earths, critical infrastructure, advanced industry, AI, and countless minilateral defense arrangements, set against the DragonBear. What is missing is not the design — what is missing is the mindset to pay for it in the only currency systemic players accept [17].
 
+## Russia's Last Window: Sino-American Conflict and European Deterrence
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) argues that a crisis or major war between the [United States]({{ site.baseurl }}/actors/countries/united-states.html) and [China]({{ site.baseurl }}/actors/countries/china.html) would represent [Russia]({{ site.baseurl }}/actors/countries/russia.html)'s "last window" to fundamentally revise the European order in its favour. However, Russia's best options in a Sino-American war might not be in Europe but rather in ensuring a Chinese victory in the Pacific — after which matters in Europe could be resolved to its satisfaction. The Russian Pacific Fleet has received roughly half of Russia's newest Yasen-class submarines; submarines allocated to the Northern Fleet can be reallocated east via the northern sea route. Russia does not have the firepower of a US or China but has enough key capabilities — submarines and missile launchers — to potentially swing an even balance between them [18].
+
+Within this context, the function of European forces shifts: instead of fighting into the Baltic, the key determinant of events in the Pacific would be whether Russian capabilities most relevant to the Pacific balance could be pinned in European Russia. This requires the capacity to pressure the Russian Northern Fleet in its bastions and deep precision strike capabilities to hit targets deep within Russia, limiting Russia's freedom to reallocate air defence and strike capabilities. Currently, [Europe]({{ site.baseurl }}/regions/europe.html) has relatively little on either count. The global context complicates Russia's assessment: Russian officials treat allied military capabilities as part of an aggregate Western military balance, not independent of the US. [Japan]({{ site.baseurl }}/actors/countries/japan.html)'s acquisition of Tomahawk cruise missiles is discussed in Moscow less as a Japanese capability than as an extension of American power [18].
+
+## NATO-IP4 and the Divergence with US China Policy
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) identifies a growing tension between NATO's Asian partnerships (IP4) and the second Trump administration's China policy. China's backing of [Putin]({{ site.baseurl }}/actors/putin.html)'s 2022 escalation catalyzed NATO-IP4 mutual attraction, validating security "indivisibility" between the Euro-Atlantic and Indo-Pacific theatres. The Ukraine war created real material links: South Korean defence manufacturers restocking European armouries, North Korean troops fighting in Ukraine with Russian tech transfer in return, lessons flowing to Japan and Taiwan. IP4 is perceived as a network linking the two security environments through industrial cooperation, interoperability, technological innovation and strategic coordination [19].
+
+However, the latest US National Defence Strategy treats Euro-Atlantic/Indo-Pacific separation as desirable. The Trump administration's "constructive strategic stability" détente with China implies not causing offense to Beijing by "ganging up" with Europeans and Asians together. This shift suggests US interests may be diverging from those of NATO's Asian and European partners. Even if Washington loses interest, the IP4 values access to NATO as a platform for accessing lessons from Ukraine. [Japan]({{ site.baseurl }}/actors/countries/japan.html)'s PM Takaichi is seeking to leverage the G7 and NATO to manage supply chain pressure from China, while the US has no interest in the use of these structures to complicate US diplomacy with Beijing. The "Europeanisation" of NATO may further complicate Asian engagement: [France]({{ site.baseurl }}/actors/countries/france.html) is wary of constraints on China diplomacy, and Spain is pulling toward Beijing [19].
+
 # Citations
 
 [1] https://thehonestsorcerer.substack.com/p/the-big-picture
@@ -129,3 +141,7 @@ The verdict: a middle power that can neither anchor its own bloc nor commit to a
 [16] [A Major Move by India](https://geopoliticalfutures.com/a-major-move-by-india/)
 
 [17] [The Middle Power Mirage: Colby, the Skeptics, and the Verdict Nobody Wants](https://substack.com/@velinatchakarova/p-207135676)
+
+[18] [Thinking Beyond the Baltics for Deterring Russia](https://www.rusi.org/explore-our-research/publications/commentary/thinking-beyond-baltics-deterring-russia)
+
+[19] [What's Left of NATO's Asia Engagement?](https://www.rusi.org/explore-our-research/publications/commentary/whats-left-natos-asia-engagement)

@@ -28,3 +28,4 @@ permalink: /actors/authors/
 * [Heather Cox Richardson](heather-cox-richardson.html) - Political historian tracking Trump corruption, anticommunism as political weapon, democratic backsliding
 * [CSIS](csis.html) - Data-driven defense analysis — Russia-Ukraine casualty data, AI-enabled drone warfare, battlefield assessment
 * [Kiel Institute](kiel-institute.html) - Russian war economy analysis — unsustainable macro stance, fiscal buffers exhausted, hydrocarbon coupling
+* [RUSI](rusi.html) - UK defense think tank — NATO strategy, asymmetric warfare, defense industrial capacity, sanctions, Indo-Pacific security

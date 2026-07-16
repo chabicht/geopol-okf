@@ -5,7 +5,7 @@ parent: Actors
 description: President of Russia; wartime leader whose presidency originated in Chechnya and is now defined by the war in Ukraine.
 tags: [leader, military, europe, caucasus]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -36,9 +36,17 @@ Putin's entire political identity rests on the narrative that he pacified Chechn
 
 By rejecting ceasefires while insisting on maximalist terms, Putin has locked himself into a logic where any negotiated outcome short of victory looks like defeat. Tchakarova frames this as a demand set increasingly untethered from the balance of forces on the ground. [3]
 
+## The Spirit of Anchorage and Strategic Oscillation
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) identifies a structural challenge in dealing with Putin's Russia: it oscillates between hard doctrines, specific strategies and hard economic data, while overlaying this with a much more abstract and occasionally religiously-themed framework about its "mission," its "fate," or "destiny" in the world. The August 2025 Anchorage summit with [Trump]({{ site.baseurl }}/actors/trump.html) produced no written agreement, yet Russian media retrospectively branded it the "spirit of Anchorage" — a catch-all term meaning whatever suited the current propaganda need. By June 2026, Lavrov pronounced the spirit dead. See [Spirit of Anchorage 2025]({{ site.baseurl }}/events/spirit-of-anchorage-2025.html) [5].
+
+Putin's 23 June address to graduates of military academies noted that [NATO]({{ site.baseurl }}/actors/organizations/nato.html) is "openly declaring its preparations for war with Russia" through calls for increased defence spending. Peskov's 6 July 2026 statement that the "special operation" had morphed into a "war" marked a deliberate linguistic escalation on the eve of the NATO Ankara summit — part of Russia's three parallel conversations (Ukraine war, bilateral US relationship, potential NATO war) that the Kremlin maintains as entirely separate [5].
+
 # Citations
 
 [1] [Russia's Chechnya Problem](https://geopoliticalfutures.com/russias-chechnya-problem/)
 [2] [Early Lessons From The US-Iran War](https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war)
 [3] [Velin Tchakarova — Ceasefire Analysis](https://substack.com/@velinatchakarova/p-204418261)
 [4] [Weekend Update 191 — It Is Not Just…](https://phillipspobrien.substack.com/p/weekend-update-191-it-is-not-just)
+
+[5] [NATO Planning for War with Russia – but has Moscow Left the Door Open?](https://www.rusi.org/explore-our-research/publications/commentary/nato-planning-war-russia-has-moscow-left-door-open)

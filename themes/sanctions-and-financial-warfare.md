@@ -9,7 +9,7 @@ tags:
   - trade
   - supply-chain
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -58,6 +58,18 @@ The erosion of sanctions effectiveness contributes to [Global System Rupture]({{
 
 The sanctions-driven "shadow fleet" — tankers operating outside Western insurance frameworks with alternative, state-backed coverage — has expanded from a marginal phenomenon to an institutionalized feature of global trade. The [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) accelerated this trend, formalizing parallel insurance architectures alongside the regulated Western system. See [Insurance and Trade Warfare]({{ site.baseurl }}/themes/insurance-and-trade-warfare.html) for the full analysis of how insurance market transformation intersects with sanctions evasion.
 
+## The Price Cap is Exhausted
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) argues the G7 oil price cap is exhausted and unreliable. The US focus on [Iran]({{ site.baseurl }}/actors/countries/iran.html) under maximum-pressure strategy undermined European efforts to constrain [Russian]({{ site.baseurl }}/actors/countries/russia.html) energy revenue. The US issued general licences allowing Russian oil sales during the Hormuz crisis (Brent surpassed $100/barrel), kneecapping G7 price cap efforts just as they were biting — Urals fell below $50/barrel by December 2025, and Russia's fossil fuel export revenues reached their lowest post-invasion levels. The US licence did not discriminate in terms of pricing or origin, meaning Russian oil trades could be above the price cap and from a sanctioned source. EU and UK sanctions were still in place, which in practice meant the licence primarily served the interests of Russia's shadow fleet [5].
+
+The cap's credibility problem is structural: nearly 30% of all Russian crude exports in April 2026 were transported on G7 tankers, particularly Greek-owned. At a time when Urals are trading closer to $70, it is hard to believe these services are price cap compliant, and any related documentation is widely considered unreliable — especially after the EU and UK unilaterally decreased the cap to $44.10 outside the G7 framework. The growing divergence among partners suffered another blow when the UK followed its restriction on third-country processed oil with a controversial general licence for diesel and jet fuel imports, citing the same tight energy market reasoning as the US licence [5].
+
+## A Maritime Services Ban
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) recommends replacing the price cap with a full maritime services ban. The EU introduced the legal basis in its 20th sanctions package, subject to G7 coordination. Under a full ban, Western operators would no longer provide maritime transport, insurance, brokering, finance, technical support or related services for Russian oil exports, regardless of price. Russia would turn even more heavily to the shadow fleet, but by forcing complete reliance on the parallel market, its limits would be exposed: Russia cannot sustain the extent of exports that Western services are supporting, and operating costs will continue to rise as the EU and UK become emboldened to disrupt shadow fleet voyages. The recent Evian G7 meeting committed to increasing pressure on Russia, including in the oil and gas sectors — providing an opening to align on a clearer objective [5].
+
+The contrast with US sanctions on Iran is stark: the sustained targeting of the Shamkhani network against Iran showcased the ability to move against an entire illicit ecosystem rather than chasing individual vessels. Against Russia, the US has not adopted a single designation against the shadow fleet since January 2025. The US was escalating against Iran's oil smuggling networks while allowing Russian cargoes to keep flowing [5].
+
 # Citations
 
 [1] [Decoding Sanctions: How Governments can get the Best out of Banks](https://www.rusi.org/explore-our-research/publications/commentary/decoding-sanctions-how-governments-can-get-best-out-banks)
@@ -67,3 +79,5 @@ The sanctions-driven "shadow fleet" — tankers operating outside Western insura
 [3] [GSB Podcast: Organised Crime, Statecraft, and Geopolitics](https://traffic.libsyn.com/secure/forcedn/globalsecuritybriefing/260629_GSB_Organised_Crime_Cathy_H_V2.mp3)
 
 [4] [Weekend Update #192: Can Russia Counter?](https://phillipspobrien.substack.com/p/weekend-update-192-can-russia-counter)
+
+[5] [The Future of Russian Sanctions After the Hormuz Crisis](https://www.rusi.org/explore-our-research/publications/commentary/future-russian-sanctions-after-hormuz-crisis)

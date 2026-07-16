@@ -8,7 +8,7 @@ tags:
   - military
   - technology
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -84,6 +84,12 @@ Greg Whisler and Michael Kofman (War on the Rocks) document how Ukraine's drone 
 
 By 2025, Russian forces abandoned mechanized equipment in favor of infiltration tactics and light motorized attacks with 1-2 man teams, splitting infantry platoons to move past Ukrainian positions. Russian combat power trickled onto the battlefield in amounts unable to concentrate or exploit breaches. Ukraine's approach — expanding drone units to control terrain with minimal infantry while maximizing attrition to Russian manpower — proved an effective counter to mass. The cost-exchange ratio told its own story: cheap drones versus expensive manned platforms and the infantry they transported. This dynamic reinforces the broader pattern observed in the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), where cheap Iranian drones imposed unsustainable costs on expensive US interceptors [7].
 
+## The Mathematics of Asymmetric Defence
+
+Urbanski ([RUSI]({{ site.baseurl }}/actors/authors/rusi.html)) provides the most granular cost-exchange data from the Iran war. Over 39 days, Gulf and US air defences expended hundreds of Patriot interceptors at ~$4 million each against Iranian Shahed drones costing, at the top end, tens of thousands. Iran launched an estimated 4,000 one-way attack drones; by day four it had fired more than 500 ballistic missiles and 2,000 drones. Interception rates exceeded 90% — a genuine proof point for US-made systems. Yet the US expended roughly half its Patriot inventory, more than 850 Tomahawks, and over 1,000 air-launched stand-off weapons. When every incoming weapon costs the attacker a fraction of what its interception costs the defender, the defender can win every engagement and still lose the war of stockpiles, available funding and public patience [9].
+
+Ukraine is running the same play in reverse against Russia. Cheap, domestically produced drones have fought a much larger force to a frozen front line and carried the war deep into Russia. With uncrewed surface vessels costing a few hundred thousand dollars each — less than a single modern torpedo — Ukraine has knocked out around a third of Russia's Black Sea Fleet and immobilised the remainder, without operating a conventional navy. The lesson is not that high-end interceptors are useless but that air defence must be cheap to produce and deep in its layering, with scarce high-end systems reserved for ballistic and cruise-missile threats [9].
+
 # Citations
 
 [1] https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war
@@ -100,3 +106,5 @@ By 2025, Russian forces abandoned mechanized equipment in favor of infiltration 
 [7] [A Return to Mass: Russian Force Expansion in the War with Ukraine](https://warontherocks.com/a-return-to-mass-russian-force-expansion-in-the-war-with-ukraine/)
 
 [8] [Weekend Update #193: What Is Happening In The Sea Of Azov?](https://phillipspobrien.substack.com/p/weekend-update-193-what-is-happening)
+
+[9] [Cheap Attack, Expensive Defence: NATO 5% Pledge Following Iran and Ukraine](https://www.rusi.org/explore-our-research/publications/commentary/cheap-attack-expensive-defence-nato-5-pledge-following-iran-and-ukraine)
