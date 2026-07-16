@@ -72,6 +72,12 @@ Chinese firms including ByteDance, Alibaba, Huawei, and emerging model developer
 
 AI leadership is cumulative: talent attracts capital and investment, which brings in computation power, and successful ecosystems then attract more talent. The US is still a leader in frontier labs, venture finance, and advanced semiconductors, with firms like Nvidia, OpenAI, and Google DeepMind holding major advantages. China is narrowing the gap through domestic Huawei chips, aggressive model pricing, and an increasingly self-sustaining talent base. Talent acquisition has long been one of America's greatest structural strengths, and it is starting to face stiffer competition [6].
 
+## The Crisis of AI — Friedman's Dual Danger
+
+[George Friedman]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) (GPF) identifies two fundamental dangers of AI: that it will fail to realize its potential, and that it will succeed. The singularity — the moment AI surpasses human intelligence and generates new technologies without human input — is a modern version of ancient mythological fears. The Jewish Golem and the Greek Talos both ended in tragedy: the Golem turned on its creators, and Talos was defeated. Much of the promise of AI is built on confidence that the singularity is near, but the history of technology is the history of its limits — each transportation revolution reached a point where fundamental reinvention stopped and only minor improvements remained [7].
+
+The second danger is success. If AI replaces vast numbers of workers across virtually every industry, the result could be social and economic chaos exceeding the Great Depression. The Luddite parallel is instructive: there may have been more jobs created by industrial machinery, but for the artisans who spent decades mastering their craft, displacement was catastrophic regardless. If AI achieves its promises, mass unemployment would undermine demand — a family that cannot feed itself turns to radicalization. If it does not achieve them, vast investments will be lost. AI will be a major, perhaps foundational industry, but betting on the singularity and evolution beyond it is risky [7].
+
 # Citations
 
 [1] https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military
@@ -82,3 +88,5 @@ AI leadership is cumulative: talent attracts capital and investment, which bring
 [5] [Chartbook 456: Alien v. Predator or MAGA meets AI](https://adamtooze.substack.com/p/chartbook-456-alien-v-predator-or)
 
 [6] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
+
+[7] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)

@@ -92,6 +92,10 @@ The GSR framework extends to the erosion of Western financial coercive power. Sa
 
 Colibasanu (GPF) frames the [Iran war]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) as proof that systemic changes — not isolated shocks — are shaping the global economy. Resilience is replacing efficiency as the organizing principle, redefining how states project power, how businesses operate, and where capital flows. The Iran war and its cascading effects across energy, defense, trade, and finance reveal how risk is becoming embedded in the architecture of the world economy. Three themes define the transition: global systems are being reshaped; energy shocks spill into food insecurity; and insurance markets drive restructuring. Geopolitical shocks are increasingly transmitted directly into capital markets, linking energy disruption to inflation, monetary policy, and sovereign risk. The key pattern across all regions is not collapse but persistent cost inflation and volatility [8].
 
+## Inflation as a Systemic Cascade
+
+Zolotova (GPF) documents how the Iran war's energy shock has cascaded into global inflation, creating a systemic cascade that propagates independently of the primary trigger. The IMF forecasts global inflation rising to 4.4% by end-2026. The transmission is gradual: fastest in retail fuel and traded goods, slower in utilities (3-6 months), food and wages (6-12 months), and second-round effects (1-3 years). Three scenarios — mild (Brent $80-$95), baseline (Brent $95-$110), and stagflation (Brent $115-$140) — all share the feature that the baseline already embeds an oil shock relative to prewar assumptions. The impact is asymmetric: countries dependent on imports with weak currencies, large fiscal deficits, and limited monetary credibility are disproportionately affected. Supply chain strategy is shifting from "friend-shoring" to node-by-node vulnerability mapping. See [Inflation and Monetary Policy]({{ site.baseurl }}/themes/inflation-and-monetary-policy.html) [9].
+
 # Citations
 
 [1] https://substack.com/@velinatchakarova/p-203876124
@@ -109,3 +113,5 @@ Colibasanu (GPF) frames the [Iran war]({{ site.baseurl }}/conflicts/us-iran-war-
 [7] [GSB Podcast: Organised Crime, Statecraft, and Geopolitics](https://traffic.libsyn.com/secure/forcedn/globalsecuritybriefing/260629_GSB_Organised_Crime_Cathy_H_V2.mp3)
 
 [8] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
+
+[9] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)

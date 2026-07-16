@@ -7,12 +7,13 @@ tags: [author, framework]
 status: ongoing
 timestamp: 2026-07-15T00:00:00Z
 ---
+---
 
 # Background
 
 Geopolitical Futures is a strategic analysis publication founded by George Friedman that provides structured assessments of global geopolitical dynamics. GPF's approach emphasizes structural drivers — geography, demographics, military capacity, and economic fundamentals — over personality-driven analysis. The publication produces detailed country and regional assessments, often accompanied by maps that illustrate the geographic constraints driving political outcomes.
 
-GPF also publishes GeoEconomicLens, a monthly report that views the global economy through the lens of geopolitics. GeoEconomicLens provides systemic analysis of how geopolitical events — wars, sanctions, chokepoint disruptions — cascade through energy, food, defense, insurance, and financial markets. The May 2026 issue examined the fallout from the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) across all major regions and sectors, with contributions from GPF analysts including George Friedman, Antonia Colibasanu, Andrew Davidson, Victoria Herczegh, Ronan Wordsworth, and Ekaterina Zolotova.
+GPF also publishes GeoEconomicLens, a monthly report that views the global economy through the lens of geopolitics. GeoEconomicLens provides systemic analysis of how geopolitical events — wars, sanctions, chokepoint disruptions — cascade through energy, food, defense, insurance, and financial markets. The May 2026 issue examined the fallout from the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) across all major regions and sectors, with contributions from GPF analysts including George Friedman, Antonia Colibasanu, Andrew Davidson, Victoria Herczegh, Ronan Wordsworth, and Ekaterina Zolotova. The June 2026 issue focused on inflationary pressures reshaping the global economy, covering the AI crisis, African resource nationalism, EU defense financing, Venezuela's reopening, ASEAN energy coordination, Russian logistics risks, the global inflation feature with regional breakdowns and three scenarios, Australia-Vietnam hedging case studies, AI and cybersecurity, exchange rate trends, and the June outlook [16].
 
 # Key Frameworks
 
@@ -45,6 +46,16 @@ GPF analysis appears in the bundle covering:
 - **Food crisis and fertilizer cascade**: Colibasanu's feature on energy shocks becoming food insecurity; Gulf fertilizer export dominance (29% ammonia, 36% urea, 26% DAP); one-third of seaborne fertilizer through Hormuz [15]
 - **Insurance market transformation**: Colibasanu's "New Normal in Insurance" — war-risk premiums surging, voyage-by-voyage underwriting, state-backed insurance pools, insurance as strategic tool of coercion [15]
 - **Regional repercussions**: Systematic analysis across [Europe]({{ site.baseurl }}/regions/europe.html), [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html), [Africa]({{ site.baseurl }}/regions/africa.html), [Latin America]({{ site.baseurl }}/regions/latin-america.html), and [Central Asia]({{ site.baseurl }}/regions/central-asia.html) — varying intensity but consistent direction: persistent cost inflation and volatility across all regions [15]
+- **The Crisis of AI**: Friedman's philosophical analysis of AI's dual dangers — failure to realize potential, and success that displaces workers en masse. The singularity as modern myth (Golem/Talos parallels); the Luddite lesson that job destruction without replacement creates social and economic chaos; AI as potentially foundational industry but betting on the singularity is risky [16]
+- **Resource nationalism in Africa**: Wordsworth's analysis of how African states are pushing for higher royalties, state ownership, domestic processing, and industrial linkages — with China structurally better positioned than Western firms bound by ESG obligations. Zimbabwe lithium ban, Ghana 30% state participation, Mali Barrick dispute [16]
+- **EU SAFE defense financing debate**: Colibasanu's analysis of Italy's challenge to the EU's SAFE program — demanding fiscal flexibility for energy spending alongside defense, exposing a growing divide between states prioritizing the Russian threat and those concerned with debt and energy insecurity [16]
+- **Venezuela's reopening**: Friedman's analysis of a managed transition under heavy US pressure — oil deals with Chevron, Shell, Eni signal reengagement, but institutional weakness and Maduro-era appointees constrain the pace of reform [16]
+- **ASEAN energy coordination**: Herczegh's analysis of Indonesia's ASEAN-wide oil storage hub proposal — energy security as geoeconomic resilience, ASEAN Power Grid, and the ASEAN 2045 framework [16]
+- **Russian logistics risks**: Zolotova's analysis of seaport cargo increases alongside structural vulnerabilities — Russian Railways crisis, Northern Sea Route decline, foreign carrier dependence, and the Kremlin's push for transport sovereignty [16]
+- **Global inflation feature**: Zolotova's comprehensive analysis of inflation driven by the Iran war energy shock — regional breakdowns (US, Europe, Asia, Central Asia, Russia, Turkey, Latin America), three scenarios (mild/baseline/stagflation), business impact, and investor risk [16]
+- **Australia-Vietnam hedging case studies**: Herczegh and Wordsworth's analysis of two different Indo-Pacific responses to US-China competition — Vietnam's multi-alignment and China+1 semiconductor strategy; Australia's AUKUS dependence, critical minerals ambition, and China economic coercion experience [16]
+- **AI transforming cybersecurity**: Colibasanu's analysis of cyberspace evolving from human-vs-human to machine-vs-machine — AI-generated phishing, AI agents as attack surface, "living code" paradigm, AI supply chain reviews, and cybersecurity as geopolitical risk [16]
+- **Exchange rate trends**: GPF's Graphic of the Month showing rupee depreciation, euro weakening, yuan strengthening, and ruble strengthening — geopolitical risk driving currency volatility [16]
 
 # Sources in Bundle
 
@@ -63,6 +74,7 @@ GPF analysis appears in the bundle covering:
 - "The Return of the Nation-State in the Middle East" [13]
 - "The Southern Flank Unraveled: Russia's Grip Loosens in Eurasia" [14]
 - "GeoEconomicLens — Fallout from the Iran War, May 2026" [15]
+- "GeoEconomicLens — The Truth About Inflation, June 2026" [16]
 
 # Citations
 
@@ -95,3 +107,5 @@ GPF analysis appears in the bundle covering:
 [14] [The Southern Flank Unraveled: Russia's Grip Loosens in Eurasia](https://geopoliticalfutures.com/the-southern-flank-unraveled-russias-grip-loosens-in-eurasia/)
 
 [15] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
+
+[16] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)

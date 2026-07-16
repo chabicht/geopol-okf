@@ -50,6 +50,14 @@ The implication for the [global system rupture]({{ site.baseurl }}/themes/global
 
 GPF's Graphic of the Month data (GeoEconomicLens May 2026) illustrates how exchange rate trends reflect gradual diversification despite continued dollar dominance. Global allocated foreign reserves by currency show the USD share declining from 64.2% in Q1 2017 to 56.8% in Q1 2025, with the euro, yuan, and other currencies gradually gaining share. Spot exchange rate trends for the Indian rupee, euro, and Chinese yuan against the USD (measured as daily percentage change from an April 2025 baseline) show the rupee depreciating most sharply, the euro moderately, and the yuan least — reflecting each economy's relative exposure to the Iran war's energy shock and their respective central bank policy responses. The data confirms that while the dollar remains dominant, the trend is structural: states are gradually diversifying their reserve composition, and exchange rate volatility is increasingly driven by geopolitical factors rather than purely macroeconomic fundamentals [3].
 
+## June 2026 Exchange Rate Dynamics
+
+GPF's June 2026 Graphic of the Month updates the exchange rate picture with April-May 2026 data. The volatility of the euro, yuan, and rupee against the dollar continues to be affected by the [Middle East]({{ site.baseurl }}/regions/middle-east.html) conflict. The [Indian rupee]({{ site.baseurl }}/actors/countries/india.html) depreciated most sharply — accelerated capital outflows caused by the oil shock, RBI decisions, and PM Modi's call to reduce gold purchases, fuel consumption, and foreign travel to conserve foreign exchange reserves. The [euro]({{ site.baseurl }}/regions/europe.html) weakened, driven by geopolitical tensions and a downturn in [Germany]({{ site.baseurl }}/actors/countries/germany.html)'s industrial sector. The [Chinese yuan]({{ site.baseurl }}/actors/countries/china.html) continued to strengthen — in mid-May the PBOC set the official exchange rate at its highest in three years — though weak domestic economic activity will keep Beijing from allowing too rapid appreciation [4].
+
+The [ruble]({{ site.baseurl }}/actors/countries/russia.html) strengthened steadily for two months on high oil and gas prices, but this does not indicate a strong economy. Rather, supply and demand are imbalanced because the ruble's exchange rate is heavily dependent on foreign trade under sanctions. With trade restricted, [Russia]({{ site.baseurl }}/actors/countries/russia.html) cannot take advantage of a strong ruble. A weaker ruble would be better for the Kremlin, whose budget remains dependent on oil and gas revenues. The Finance Ministry's decision to resume purchasing foreign currency and gold highlights the imbalance — high central bank rates, low imports, and high oil prices prevent a favorable exchange rate [4].
+
+The US dollar strengthened modestly as a reserve asset in response to the war, but remains under pressure from prolonged market uncertainty and risks arising from the change in leadership of the Federal Reserve [4].
+
 # Citations
 
 [1] [Operation Epic Folly(Fury) — Part 9: Gold, The UAE, Currency Swap Lines and the Petrodollar](https://endtropy.substack.com/p/operation-epic-follyfury-part-9-gold)
@@ -57,3 +65,5 @@ GPF's Graphic of the Month data (GeoEconomicLens May 2026) illustrates how excha
 [2] [Iran War: The Chokehold Tightens](https://thehonestsorcerer.substack.com/p/iran-war-the-chokehold-tightens)
 
 [3] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
+
+[4] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)

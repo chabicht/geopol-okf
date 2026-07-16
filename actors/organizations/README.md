@@ -13,3 +13,4 @@ permalink: /actors/organizations/
 * [ECOWAS](ecowas.html) - West African regional body fractured by AES exit, pursuing a counter-terrorism force amid institutional crisis
 * [Wagner / Africa Corps](wagner-africa-corps.html) - Russian proxy actors in Africa, transitioning to bureaucratic model
 * [Social Design Agency](social-design-agency.html) - Russian cognitive warfare unit conducting influence operations
+* [ASEAN](asean.html) - Southeast Asian regional bloc treating energy security as strategic resilience — Indonesia's oil storage hub proposal, ASEAN Power Grid, ASEAN 2045 framework
