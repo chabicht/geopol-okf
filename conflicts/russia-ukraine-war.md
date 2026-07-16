@@ -134,6 +134,14 @@ Much of the expanded Russian force is likely to persist after the war. One legac
 
 A notable finding: Moscow sustained this force expansion without relying on the historical twin pillars of Russian force generation — conscription and mass mobilization. The roughly 1.3 million contract soldiers recruited dwarf the 300,000 mobilized reservists. This is the first large-scale, extended war Russia has fought using primarily contracted volunteers, challenging prior assumptions that Moscow cannot sustain prolonged conventional war without mass mobilization [22].
 
+## Ukraine's Refinery Campaign and Global Energy Impact
+
+[Paul Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html) identifies Ukraine's drone campaign against Russian oil refineries as a strategic campaign with global consequences extending far beyond the bilateral conflict. Ukraine's "astonishing mastery of drone warfare" has enabled an ever-more-effective campaign that has not only shut down Russian refined product exports but created a global shortage of refining capacity — roughly 10% of world refining capacity is now out of operation. Russia faces major domestic fuel shortages and gas lines, and may soon be forced to import refined products [23].
+
+The global implication is that the Russia-Ukraine War's refinery campaign has become a structural factor in the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) and its aftermath. The "effective price" of oil to consumers (weighted gasoline + diesel prices) has remained far above pre-war levels even as crude prices nearly returned to normal — because the refining bottleneck means that even available crude cannot be turned into usable products fast enough. This structural disconnect between crude and consumer prices means that the [Hormuz ceasefire collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) will do less economic damage than expected — the binding constraint has shifted from crude supply (Iran's leverage) to refining capacity (partly Ukraine's doing) [23].
+
+This intersection of two wars — the Iran war disrupting crude supply and the Ukraine war disrupting refining capacity — produces a compounding effect on global energy markets that neither conflict's analysts fully anticipated. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) [23].
+
 # Citations
 
 [1] https://substack.com/@velinatchakarova/p-204418261
@@ -171,3 +179,5 @@ A notable finding: Moscow sustained this force expansion without relying on the 
 [21] [The Continued Myth of Russia's Imminent Collapse: Lessons from Prigozhin's Mutiny Three Years On](https://www.thecipherbrief.com/the-continued-myth-of-russias-imminent-collapse-lessons-from-prigozhins-mutiny-three-years-on)
 
 [22] [A Return to Mass: Russian Force Expansion in the War with Ukraine](https://warontherocks.com/a-return-to-mass-russian-force-expansion-in-the-war-with-ukraine/)
+
+[23] [Suddenly, Hormuz is Less Crucial Than It Was](https://paulkrugman.substack.com/p/suddenly-hormuz-is-less-crucial-than)

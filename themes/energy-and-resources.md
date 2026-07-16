@@ -65,6 +65,14 @@ Herczegh (GPF) reports that Indonesia has proposed an [ASEAN]({{ site.baseurl }}
 
 Friedman (GPF) reports that Venezuela is reopening its oil sector under heavy US pressure, with deals signed by Chevron, SBP, Shell, Eni, Maurel & Prom, SLB, and Repsol focusing on the Orinoco Belt and Monagas state. The primary US objective is rapid restoration of an orderly oil industry. However, the country's institutional weakness — fragmented governance, Maduro-era appointees, weak rule of law — means that rebuilding a functioning state capable of enforcing contracts and regulating investment will likely take years. For energy markets, Venezuela's partial return adds potential supply, but the pace and reliability of production growth remain deeply uncertain [22].
 
+## The Refining Capacity Bottleneck
+
+[Paul Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html) identifies a structural disconnect between crude oil prices and the effective price of oil to consumers that reframes the Hormuz crisis. Consumers do not burn crude oil — they burn refined products like gasoline and diesel. A rough rule of thumb: every three barrels of crude refine into two barrels of gasoline and one barrel of heavier distillates. The "effective price" of a barrel of oil to consumers is thus 28 times the pump price of a gallon of gasoline plus 14 times the price of a gallon of diesel [23].
+
+During the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), the effective consumer price of oil rose approximately $75/barrel, while the crude price rose only about $45/barrel — a $30 gap driven by a global shortage of refining capacity. Roughly 10% of world refining capacity is now out of operation. Some of this reflects lost Persian Gulf refined product exports, but the dominant new factor is the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html): [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html)'s drone campaign against Russian refineries has been astonishingly effective. Russia can no longer export gasoline and diesel, faces major domestic shortages and gas lines, and may soon be forced to import refined products [23].
+
+The implication is that the [Hormuz ceasefire collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) will do less economic damage than expected — not because Hormuz is stable but because the binding constraint has shifted from crude supply to refining capacity. A true reopening of the Strait would make more crude available, but the world lacks the capacity to turn that crude into usable products in the short run. The consumer price of oil has remained far above pre-war levels even when crude prices nearly returned to normal — high consumer prices kept demand depressed, which in turn depressed crude demand. Expect the pain at the pump to continue and inflation to remain sticky [23].
+
 # Key Dynamics
 
 - **Resource depletion is exponential**: Beyond a certain point, more energy is needed to extract the same amount of material. Mines close not because nothing is left but because the high-grade ore is gone. Technological innovation that enables extraction from lower-grade deposits becomes a trap — running faster to stay in place.
@@ -195,3 +203,5 @@ The EROI decline is accelerating: in 1980, every barrel of oil equivalent invest
 [21] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
 
 [22] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
+
+[23] [Suddenly, Hormuz is Less Crucial Than It Was](https://paulkrugman.substack.com/p/suddenly-hormuz-is-less-crucial-than)

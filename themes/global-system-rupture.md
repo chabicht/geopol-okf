@@ -96,6 +96,14 @@ Colibasanu (GPF) frames the [Iran war]({{ site.baseurl }}/conflicts/us-iran-war-
 
 Zolotova (GPF) documents how the Iran war's energy shock has cascaded into global inflation, creating a systemic cascade that propagates independently of the primary trigger. The IMF forecasts global inflation rising to 4.4% by end-2026. The transmission is gradual: fastest in retail fuel and traded goods, slower in utilities (3-6 months), food and wages (6-12 months), and second-round effects (1-3 years). Three scenarios — mild (Brent $80-$95), baseline (Brent $95-$110), and stagflation (Brent $115-$140) — all share the feature that the baseline already embeds an oil shock relative to prewar assumptions. The impact is asymmetric: countries dependent on imports with weak currencies, large fiscal deficits, and limited monetary credibility are disproportionately affected. Supply chain strategy is shifting from "friend-shoring" to node-by-node vulnerability mapping. See [Inflation and Monetary Policy]({{ site.baseurl }}/themes/inflation-and-monetary-policy.html) [9].
 
+## Hyper-Agency as Rupture Driver
+
+[Adam Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) introduces "hyper-agency" as a concept for understanding why the current moment is more dangerous than structural analysis suggests. The question: why are men with destructive fantasies — Netanyahu, Musk, Trump, Hegseth — now in a position to act on them? Every prior administration, faced with the prospect of attacking Iran alongside Israel, concluded "that is not what we are going to do" — not from virtue but from the institutional logic of restraint. The current moment is overdetermined but not necessary: the chain of contingent events leading to Hegseth in the Pentagon can be traced, but the outcome was not inevitable [10].
+
+The hyper-agency concept connects to the GSR framework by identifying a mechanism through which the rupture can accelerate beyond the capacity of stabilizing mechanisms to absorb. When institutional restraints are dismantled — the courts via the [Slaughter ruling]({{ site.baseurl }}/events/slaughter-scotus-ruling.html), the civil service via oligarchic capture, the alliance system via transactional diplomacy — the remaining constraint on executive action is the personal psychology of the leader. This is the most volatile possible constraint, and it means that systemic shocks can be triggered by individual decisions rather than structural logic — exactly the pattern O'Brien identified in Trump's decision to attack Iran [10].
+
+Tooze situates hyper-agency within the broader theme of Western hegemony rupture — "five hundred years of Western hegemony are coming unstuck." The conversation with Barnaby Raine debates whether the appropriate response is a politics of universal human freedom or a more minimal, ameliorist project of technocratic statecraft. Tooze identifies Europe as the only conceivable space for an alternative politics, while acknowledging the violence written into the idea of Europe — from settler colonialism to Gaza. The Green New Deal is discussed as a comprehensive vision that was broken and lost in 2021-22 [10].
+
 # Citations
 
 [1] https://substack.com/@velinatchakarova/p-203876124
@@ -115,3 +123,5 @@ Zolotova (GPF) documents how the Iran war's energy shock has cascaded into globa
 [8] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
 
 [9] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
+
+[10] [Chartbook 458 Postscript - A Conversation with Barnaby Raine](https://adamtooze.substack.com/p/chartbook-458-poscript-a-conversation)

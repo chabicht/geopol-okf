@@ -72,6 +72,18 @@ GPF's July 2026 Graphic of the Month updates the reserve currency picture. The U
 
 Trading in currencies other than the US dollar is growing, particularly in commodities from BRICS and Shanghai Cooperation Organization members. Commodity traders in Asia and [Latin America]({{ site.baseurl }}/regions/latin-america.html) benefit from local currency transactions, which reduce the need for dollar reserves and stimulate domestic investment. For multinational corporations, de-dollarization creates hedging costs, especially as it slowly creates regional blocs with bespoke trade barriers [5].
 
+## The Five Metamorphoses of the Dollar
+
+[Adam Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) argues that asking "what comes after the dollar" obscures the real question: the dollar system has never been one thing. It has undergone five distinct metamorphoses, each with its own political economy — as qualitatively different from each other as a Model T Ford, a modern EV, and a steam train are all "ground transport" [6]:
+
+1. **Dollar #1 (1944–1958)**: A postwar alliance aid architecture — the Marshall Plan, European Payments Union, sterling zone. Bretton Woods was a failed experiment at first.
+2. **Dollar #2 (1958–1971)**: Bretton Woods in effect — gold-anchored dollar, fixed exchange rates. Undermined by the reviving Wall Street and the offshore eurodollar market from the 1960s.
+3. **Dollar #3 (1971–late 1990s)**: The "Wall Street dollar" — fiat currency, explosive globalization, Volcker shock. The era of recurring emerging-market crises managed by the Goldman-to-Treasury pipeline.
+4. **Dollar #4 (~2000–~2015)**: Bretton Woods 2.0 — emerging markets (above all China) pegged to the dollar and accumulated official reserves as self-insurance. "Exorbitant privilege" made not by the US but by the policy choices of the rest of the world.
+5. **Dollar #5 (mid-2010s–present)**: The "profit dollar" — official reserve accumulation stopped; the system is now sustained by private capital inflows attracted by the dominance of US financial markets. America's unequal, K-shaped economy is the "honeypot of global capitalism." Since 2015, Beijing has imposed tight capital controls trapping $50-60 trillion. America's deficits are financed by inflows from Europe, South Korea, Taiwan, and Japan — not China. The dollar is no longer a "reserve currency" in the traditional sense but a promise of liquidity and a vehicle for unfettered capital accumulation.
+
+Tooze's framework has direct implications for dedollarization analysis. The regime that observers project into the future and past — Bretton Woods 2.0 / Dollar #4 — was in fact very particular to the period 2000-2015. The current regime (#5) is structurally different: it depends on the attractiveness of US private assets, not official reserve accumulation. This means that the dedollarization trend tracked by GPF's reserve data captures the shift from #4 to #5 (official reserves declining as a share) rather than a flight from the dollar per se. The "profit dollar" is sustained by the unequal structure of the US economy itself — the K-shaped expansion that makes American financial markets the honeypot. If that attractiveness fades (through institutional degradation, political instability, or the rise of competitive financial markets), Dollar #5 could metamorphose again — but the successor would not be a "post-dollar" regime so much as another mutation of the dollar system [6].
+
 # Citations
 
 [1] [Operation Epic Folly(Fury) — Part 9: Gold, The UAE, Currency Swap Lines and the Petrodollar](https://endtropy.substack.com/p/operation-epic-follyfury-part-9-gold)
@@ -83,3 +95,5 @@ Trading in currencies other than the US dollar is growing, particularly in commo
 [4] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
 
 [5] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
+
+[6] [Chartbook 457: The Metamorphoses of the Dollar](https://adamtooze.substack.com/p/chartbook-457-the-metamorphoses-of)

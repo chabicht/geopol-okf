@@ -128,6 +128,24 @@ Applebaum's ongoing Kleptocracy Tracker documents the accelerating monetization 
 - **Nearly 1 million meme coin buyers lost $3.8 billion** while Trump walked away with $636 million.
 - **Palm Beach International Airport renamed to Trump International Airport** — requiring Florida to pay royalties to the president's family for licensing his name.
 
+## The Oligarchy Spiral
+
+[Paul Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html) describes a self-reinforcing downward spiral of oligarchy: the political power of the hyper-wealthy tilts policy in their favor, and this policy tilt reinforces the wealth and power of that tiny minority. The clearest case study is corporate taxation — corporate taxes fell from 35% in the 1960s to around 12% today, despite overwhelming and stable public opposition. Gallup polling over 20+ years shows a huge majority consistently saying corporations pay too little, while hardly anyone says they pay too much. Yet corporate taxes keep going down [17].
+
+The mechanisms are threefold: (1) campaign finance increasingly dominated by billionaire money, accelerated by Citizens United; (2) corruption shifting from implicit revolving-door incentives to open cash, crypto, and sweetheart contracts under Trump 2.0; (3) shaping of the information environment — right-wing think tanks, subsidized "research," and captured media relentlessly push billionaire interests, shifting the Overton Window so that even centrists view billionaire-friendly policies as "sensible" while high corporate taxes are viewed as "radical." The 2017 Trump corporate tax cuts produced no surge in US investment, confirming that there is very little trickle-down from corporate tax cuts — the decline was effectively a massive indirect tax cut for wealthy stockholders, fueling the oligarchy spiral [17].
+
+## Hyper-Agency and the Destruction of Restraint
+
+[Adam Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) introduces "hyper-agency" as the concept explaining why destructive fantasies are now being acted upon by men in power — Netanyahu's project of total regional revision, Musk going to Mars, Trump living out his fantasies in real time, Hegseth with his crusader tattoos. The question is not whether such fantasies existed before (every prior Pentagon holder from Western civilization may have had "wet dreams" about fighting a crusader war) but why the restraints that previously prevented their enactment have collapsed. Tooze traces this to a chain of contingent events that is overdetermined but not necessary — the situation was not inevitable, but the lines of determination can be traced [18].
+
+The hyper-agency concept connects to the broader pattern of democratic backsliding: institutional restraints — the courts, the civil service, the alliance system, the presumption that certain things "are not done" — have been dismantled one by one. The Slaughter ruling stripped regulatory independence; the Kleptocracy Tracker documents open monetization of power; the [Hormuz ceasefire collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) demonstrates that even foreign policy failure does not generate restraint. The cumulative effect is a system in which the remaining constraint on executive action is the personal psychology of the leader — the most dangerous possible constraint, as O'Brien's "leader-as-decision-maker" thesis demonstrates [18].
+
+## Election Interference as Endgame
+
+Krugman argues that Trump's pivot from "the economy is great, we won" to bombing Iran with no strategy signals an enormous domestic risk. With the Iran war unable to deliver a victory narrative for the midterms, the administration has shifted to preparing the groundwork for massive interference in the November elections — a primetime speech about 2020 election fraud as pretext for blocking fair elections or blocking them entirely. The proposition that "there are things even Trump would not do" has been "the best way to be wrong about everything, every step of the Trump administration." See [Trump Election Interference Pretext]({{ site.baseurl }}/events/trump-election-fraud-pretext-2026.html) [19].
+
+The pattern connects foreign policy failure to domestic repression: when winning at the ballot box is no longer feasible, the groundwork for preventing the vote is laid. This is not causation — the authoritarian impulse was always present — but the removal of the last constraint of electoral pragmatism. The [Slaughter ruling]({{ site.baseurl }}/events/slaughter-scotus-ruling.html) provided the judicial infrastructure; the oligarchy spiral provided the financial infrastructure; the Iran war failure removed the electoral incentive to restrain [19].
+
 # Citations
 
 [1] https://archive.ph/8FvBT
@@ -158,3 +176,9 @@ Applebaum's ongoing Kleptocracy Tracker documents the accelerating monetization 
 [15] [July 5, 2026](https://heathercoxrichardson.substack.com/p/july-5-2026)
 
 [16] [The Quintessential Trump-era Politician](https://anneapplebaum.substack.com/p/the-quintessential-trump-era-politician)
+
+[17] [Oligarchy in Action: The Case of Corporate Tax Cuts](https://paulkrugman.substack.com/p/oligarchy-in-action-the-case-of-corporate)
+
+[18] [Chartbook 458 Postscript - A Conversation with Barnaby Raine](https://adamtooze.substack.com/p/chartbook-458-poscript-a-conversation)
+
+[19] [The Forever War Gets Scary](https://paulkrugman.substack.com/p/the-forever-war-gets-scary)
