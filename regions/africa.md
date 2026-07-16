@@ -5,7 +5,7 @@ parent: Regions
 description: Continent of growing strategic importance; Sahel as insurgency zone, Horn of Africa as maritime chokepoint with emerging rival blocs, and US-China competition along strategic resource corridors.
 tags: [africa, sahel, insurgency, military, drone-warfare, trade, terrorism]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -34,6 +34,8 @@ Africa is a continent of growing strategic importance, characterized by vast ter
 - **East African exposure**: Africa's dependencies are not on Iran itself but on the global energy, fertilizer, shipping, and financing systems that the war destabilized. Ethiopia is especially exposed due to the scale of its migrant labor presence in the Gulf. Kenya is one of the region's most exposed oil importers, responding by requesting rapid World Bank support, cutting VAT on petroleum products from 13% to 8% for three months, and pausing its rate-cutting cycle. The IMF highlighted tighter fuel availability in Ethiopia, DRC, Malawi, Sierra Leone, and Zambia [10].
 - **Resource nationalism**: Wordsworth (GPF) reports that Africa's critical minerals boom is increasingly shaped by resource nationalism. Mineral-rich states are pushing for higher royalties, larger state or local ownership stakes, domestic processing, and industrial linkages. The African Union's Green Minerals Strategy argues that Africa must move beyond raw mineral exports. China is best positioned to capitalize — Chinese mining companies are state-backed, less beholden to shareholder returns, and can leverage political weight. In Zimbabwe, a raw lithium export ban saw Chinese firms rapidly build refineries while Western miners were compelled to rely on Chinese-owned infrastructure. In Ghana, the Green Minerals Policy set minimum state participation at 30%. In Mali, industrial gold production dropped 23% in 2025 following a dispute with Barrick Gold. Western firms face ESG obligations that Chinese companies often ignore, compressing profit margins and increasing long-term investment risk [11].
 - **Red Sea interstate rivalries**: Bokhari (GPF) reports that the [Red Sea]({{ site.baseurl }}/regions/red-sea.html) basin is evolving from a theater dominated by Houthi non-state threats into one defined by interstate rivalries. [Sudan]({{ site.baseurl }}/actors/countries/sudan.html)'s civil war has become an arena for regional competition, with [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) supporting the Sudanese Armed Forces and the [UAE]({{ site.baseurl }}/actors/countries/uae.html) backing the Rapid Support Forces. [Egypt]({{ site.baseurl }}/actors/countries/egypt.html)'s July 3 inauguration of the Octagon military headquarters reflects Cairo's ambitions to enhance its regional military posture. [Ethiopia]({{ site.baseurl }}/actors/countries/ethiopia.html)'s military leadership continues to signal its determination to secure maritime access. [Somalia]({{ site.baseurl }}/actors/countries/somalia.html) has emerged as Turkey's primary Horn of Africa partner [12].
+- **Tigray gray zone**: Kurtz ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) documents that Tigray exists in a gray zone between war and peace — the Pretoria Agreement hangs by a thread. The TPLF has split internally (Debretsion vs Getachew vs Tadesse), its legal status revoked by Ethiopia's election board. The Tigray Peace Force (TPF) splinter is backed by the ENDF. Sporadic violence has escalated since January 2026, with TDF incursions into disputed territories and ENDF drone strikes. Ethiopia has become a transit country for UAE supplies to the RSF in Sudan. Eritrea and Egypt are cooperating on port development at Assab and Massawa. The conflict draws in Eritrea, Sudan, Egypt, UAE, and Saudi Arabia — creating potential for regional escalation. See [Ethiopia]({{ site.baseurl }}/actors/countries/ethiopia.html) [13].
+- **Tunisia's democratic backsliding**: Werenfels (SWP) documents that President Kais Saied has systematically dismantled democratic institutions while Europe's engagement remains invisible to the Tunisian public. The EU's visibility dilemma — European-funded infrastructure presented as Chinese projects, migration diplomacy failures, and the Gaza war's strain — illustrates the broader challenge of European soft power in North Africa. See [Tunisia]({{ site.baseurl }}/actors/countries/tunisia.html) [14].
 
 # Key Dynamics
 
@@ -67,3 +69,7 @@ Africa is a continent of growing strategic importance, characterized by vast ter
 [11] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
 
 [12] [The Red Sea: A Strategic Basin Far Beyond the Houthi Threat](https://geopoliticalfutures.com/the-red-sea-a-strategic-basin-far-beyond-the-houthi-threat/)
+
+[13] [Die Region Tigray in der Grauzone des Krieges](https://www.swp-berlin.org/publikation/die-region-tigray-in-der-grauzone-des-krieges)
+
+[14] [Europe's Visibility Dilemma in Tunisia](https://www.swp-berlin.org/publikation/mta-spot-76-europes-visibility-dilemma-in-tunisia)

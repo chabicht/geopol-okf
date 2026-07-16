@@ -9,7 +9,7 @@ tags:
   - ai
   - drone-warfare
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -76,8 +76,16 @@ The RMA is visible in multiple theaters:
 
 O'Brien's conclusion: the de-humanizing of war will be the greatest revolution in military affairs since the development of metal weapons. It is unstoppable, and it will be here sooner than most expect [1].
 
+## Land Carrier Battle Group: Operationalising the RMA
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) proposes the Land Carrier Battle Group (LCBG) as an operationalisation of the RMA — applying the historical evolution of naval aviation to land warfare. The concept addresses the core problem of drone-dominated battlefields: how to regain mechanised manoeuvrability without absorbing unsustainable attrition. The LCBG centres on UAS carriers (land platforms mounting drone storage, launch, and C2 systems) rather than traditional tank battalions, paired with mobile SHORAD, tactical missile carriers, and conventional armour for close combat [3].
+
+The AI dimension is critical: the LCBG requires rapid decision-making localised at the vehicle and platform level — not just at higher-echelon HQs. Big-data AI-enhanced situational awareness becomes the equivalent of radio-enabled mission command that defined Panzer division supremacy in 1940. Competing LCBGs will vie for first identification and first strike; the better-informed team wins. This represents a concrete path from the abstract RMA (de-humanizing, autonomous systems, sensor revolution) to an operational concept that reconfigures combined arms around new air and anti-air components. See [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) [3].
+
 # Citations
 
 [1] [Yes, We Are In A Revolution In Military Affairs](https://phillipspobrien.substack.com/p/yes-we-are-in-a-revolution-in-military)
 
 [2] [Weekend Update #193: What Is Happening In The Sea Of Azov?](https://phillipspobrien.substack.com/p/weekend-update-193-what-is-happening)
+
+[3] [The AI-Enhanced Land Carrier Battle Group: The Way Forward](https://www.rusi.org/explore-our-research/publications/rusi-defence-systems/ai-enhanced-land-carrier-battle-group-way-forward)

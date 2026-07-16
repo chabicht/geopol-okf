@@ -50,6 +50,10 @@ RUSI argues European defence planning is too narrowly focused on a single Baltic
 
 RUSI traces NATO's three phases of partnerships: post-1991 (enlargement and post-Soviet stabilisation), post-9/11 (counter-piracy and Afghanistan), and post-2019 (China rise → IP4: Australia, [Japan]({{ site.baseurl }}/actors/countries/japan.html), New Zealand, South Korea). At the 2026 Ankara summit, South Korea was represented at Presidential level, others at ministerial level — interpretable either as decline from the 2022 Madrid summit or as maturation into pragmatic functionality. [China]({{ site.baseurl }}/actors/countries/china.html)'s backing of [Putin]({{ site.baseurl }}/actors/putin.html)'s 2022 escalation catalyzed NATO-IP4 mutual attraction, validating security "indivisibility" between the two theatres. The Ukraine war created real material links: South Korean defence manufacturers restocking European armouries, North Korean troops fighting in Ukraine with Russian tech transfer in return, lessons flowing to Japan and Taiwan. However, the second Trump administration's NDS treats Euro-Atlantic/Indo-Pacific separation as desirable, and its "constructive strategic stability" détente with China conflicts with "ganging up" via NATO-IP4. The "Europeanisation" of NATO may further complicate Asian engagement (France wary of constraints on China diplomacy, Spain pulling toward Beijing) [7].
 
+## Land Carrier Battle Group Concept
+
+RUSI proposes the Land Carrier Battle Group (LCBG) — a combined arms formation centred on UAS carriers rather than traditional tank battalions, drawing on the historical evolution of naval aviation. Just as aircraft carriers made air power integral to naval task forces, drone carriers could make UAS integral to land manoeuvre operations. The LCBG integrates: (1) UAS storage, launch, and C2 systems mounted on traditional land platforms providing continuous tactical drone support; (2) mobile counter-UAS platforms (SHORAD) for short-range air defence against drones and anti-tank missiles; (3) tactical missile carriers for rapid precision fires; (4) traditional tanks and APCs for direct fire and infantry support during close combat. AI-enhanced situational awareness is the integrating element — enabling rapid decision-making at vehicle and platform level, analogous to how radio-enabled mission command defined Panzer division supremacy in 1940. The concept addresses the attrition stalemate of drone-dominated battlefields (Ukraine, Israel-Lebanon) where mechanised manoeuvrability has been paralyzed [8].
+
 # Sources in Bundle
 
 - "Cheap Attack, Expensive Defence: NATO 5% Pledge Following Iran and Ukraine" [1]
@@ -59,6 +63,7 @@ RUSI traces NATO's three phases of partnerships: post-1991 (enlargement and post
 - "The critical enablers of a more European NATO" (Euractiv) [5]
 - "Thinking Beyond the Baltics for Deterring Russia" [6]
 - "What's Left of NATO's Asia Engagement?" [7]
+- "The AI-Enhanced Land Carrier Battle Group: The Way Forward" [8]
 
 # Citations
 
@@ -75,3 +80,5 @@ RUSI traces NATO's three phases of partnerships: post-1991 (enlargement and post
 [6] [Thinking Beyond the Baltics for Deterring Russia](https://www.rusi.org/explore-our-research/publications/commentary/thinking-beyond-baltics-deterring-russia)
 
 [7] [What's Left of NATO's Asia Engagement?](https://www.rusi.org/explore-our-research/publications/commentary/whats-left-natos-asia-engagement)
+
+[8] [The AI-Enhanced Land Carrier Battle Group: The Way Forward](https://www.rusi.org/explore-our-research/publications/rusi-defence-systems/ai-enhanced-land-carrier-battle-group-way-forward)

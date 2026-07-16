@@ -3,7 +3,7 @@ type: Actor
 title: Russia
 parent: Countries
 description: Russia as a geopolitical actor — waging war in Ukraine, managing Chechnya's succession risk, projecting power in Africa, conducting cognitive warfare against the West, attempting to revitalize the CSTO, losing its grip on its southern flank, facing logistics vulnerabilities under sanctions, facing drone strikes deep into Siberia, and contending with the resilience of its security state
-tags: [country, military, cognitive-warfare, energy, sanctions, europe, caucasus, africa, central-asia, supply-chain]
+tags: [country, military, cognitive-warfare, energy, sanctions, europe, caucasus, africa, central-asia, supply-chain, cyber]
 status: ongoing
 timestamp: 2026-07-16T00:00:00Z
 ---
@@ -154,6 +154,21 @@ Russia oscillates between hard doctrines, specific strategies and hard economic 
 
 [RUSI]({{ site.baseurl }}/actors/authors/rusi.html) documents that the US has not adopted a single designation against the Russian shadow fleet since January 2025. The US focus on Iran undermined sanctions on Russia: general licences allowing Russian oil sales during the Hormuz crisis kneecapped G7 price cap efforts just as they were biting (Urals fell below $50/barrel by December 2025). Nearly 30% of Russian crude in April 2026 was transported on G7 tankers. The price cap is exhausted — RUSI recommends replacing it with a full maritime services ban [28].
 
+## Russia-Iran Cyber Collaboration
+
+[CSIS]({{ site.baseurl }}/actors/authors/csis.html) (Shah and Sherman) document that Russia-Iran cyber cooperation has been repeatedly misread and overstated. Russia's cyber ecosystem is expansive — state intelligence agencies (FSB), state-created front companies, state-coerced cybercriminals, private sector contractors, and patriotic hackers form a complex web. Each actor has different incentives and capabilities. Moscow has established rules (cybercriminals should not undermine Kremlin objectives) but interactions with the state vary widely [29].
+
+Russia and Iran's strategic partnership is driven by self-interest and shared Western adversaries. In cyberspace, their history of cooperation includes: a 2001 treaty establishing a framework for interstate cooperation; a 2021 agreement on cyber and information security (largely defensive, focused on regime control); Russian private sector provision of digital surveillance and censorship software to Iran (2022–23); and a 2025 Comprehensive Strategic Partnership Treaty including strengthened state control of the internet. Russian universities have hosted Iranian state institution delegations; Iranian companies linked to the MOIS have attended Russian hacking competitions [29].
+
+However, several mitigating factors limit the depth of cyber cooperation:
+
+- **Hacktivist coordination ≠ state-to-state collaboration**: Even where cyber actors have state links, degrees of knowledge, approval, and operational alignment vary widely.
+- **Distrust from past incidents**: Russian cyber actor Turla commandeered Iranian cyber espionage infrastructure to launch its own operations — a "false-flag" that likely deepened distrust.
+- **Counterintelligence concerns**: Each state worries about the other conducting cyber espionage on its infrastructure.
+- **Uneasy partnership**: Russia and Iran are strategic partners of convenience, characterized by "mutual suspicion, ideological differences, and competition." Sharing sophisticated capabilities risks repurposing by the partner [29].
+
+The evidence does not substantiate claims of closely coordinated cyber operations or joint capability development. The low-level cyber activity reported in media is highly unlikely to produce a game-changing cyberattack — drone technology and satellite imagery sharing have demonstrated far greater strategic impact [29].
+
 # Analysis
 
 Russia's strategic position is paradoxical: deeply committed in Ukraine, facing succession risk in Chechnya, losing ground in Africa, yet successfully exploiting Western energy dependencies and conducting effective cognitive warfare. The DragonBear axis provides critical support, but Russia's ability to sustain multiple theaters is increasingly constrained by the prioritization demands of the Ukraine war.
@@ -215,3 +230,5 @@ Russia's strategic position is paradoxical: deeply committed in Ukraine, facing 
 [27] [Thinking Beyond the Baltics for Deterring Russia](https://www.rusi.org/explore-our-research/publications/commentary/thinking-beyond-baltics-deterring-russia)
 
 [28] [The Future of Russian Sanctions After the Hormuz Crisis](https://www.rusi.org/explore-our-research/publications/commentary/future-russian-sanctions-after-hormuz-crisis)
+
+[29] [Understanding Russia-Iran Collaboration in Cyberspace](https://www.csis.org/analysis/understanding-russia-iran-collaboration-cyberspace)

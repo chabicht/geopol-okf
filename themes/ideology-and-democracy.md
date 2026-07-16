@@ -9,7 +9,7 @@ tags:
   - democracy
   - oligarchy
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -146,6 +146,24 @@ Krugman argues that Trump's pivot from "the economy is great, we won" to bombing
 
 The pattern connects foreign policy failure to domestic repression: when winning at the ballot box is no longer feasible, the groundwork for preventing the vote is laid. This is not causation — the authoritarian impulse was always present — but the removal of the last constraint of electoral pragmatism. The [Slaughter ruling]({{ site.baseurl }}/events/slaughter-scotus-ruling.html) provided the judicial infrastructure; the oligarchy spiral provided the financial infrastructure; the Iran war failure removed the electoral incentive to restrain [19].
 
+## Turkey's Autocratisation Path
+
+Yaşar Aydın ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) documents Turkey's trajectory from competitive authoritarianism to full autocracy, using the 2016 failed coup as the inflection point. [Erdoğan]({{ site.baseurl }}/) used the failed coup to consolidate power through comprehensive purges (~130,000 dismissed, ~332,000 arrested, 4,000 judges removed, 131 media companies shut down) under a state of emergency lasting until July 2018. The April 2017 constitutional referendum introduced a presidential system — passed by a narrow, contested majority with ~2 million improperly stamped ballots admitted by the Supreme Electoral Committee. Freedom House downgraded Turkey to "Not Free" in 2018; the Liberal Democracy Index score nearly halved [20].
+
+The economic consequences of autocratisation are documented: average GDP growth fell from 6.5% to 3.5%, nominal GDP per capita fell from ~$11,000 to ~$9,700, FDI declined from $15B to $11B, inflation rose from 7% to 14%, and the lira depreciated significantly. The weakening of the rule of law, property rights, and central bank independence increased policy uncertainty and eroded the institutional framework of the Turkish economy. Ongoing repression against the CHP and renewed constitutional amendment efforts continue to destabilize the investment climate. See [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) [20].
+
+## Tunisia's Democratic Collapse
+
+Isabelle Werenfels ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) documents the systematic dismantling of Tunisia's democratic institutions under President Kais Saied. Since 2021, Saied has accused dozens of opposition figures of conspiring with foreign support, sentenced them to lengthy prison terms, and summoned the EU Ambassador for meeting with trade unions. The 2011 democratic dividend — when Brussels championed Tunisia as the Arab world's democratic beacon — has been entirely reversed. Europe's inaction is partly explained by fear of meddling accusations and migration diplomacy priorities: the 2023 EU-Tunisia MoU (€1 billion for migration cooperation) was poorly received, and Saied returned €60 million as insufficient [21].
+
+The democratic collapse is compounded by a soft power reversal: [China]({{ site.baseurl }}/actors/countries/china.html) has gained visibility and popularity while Europe has lost both. European-funded infrastructure (the "Chinese Bridge" financed by the EIB, German-funded dam extensions, wastewater treatment plants) goes unattributed, while Chinese projects receive extensive media coverage. The visibility dilemma illustrates a broader pattern of European strategic communication failure in the face of authoritarian consolidation. See [Tunisia]({{ site.baseurl }}/actors/countries/tunisia.html) [21].
+
+## AI Data Center Backlash as Political Movement
+
+David Wallace-Wells and Robinson Meyer (Heatmap/NYT) document what may be the fastest opinion shift in modern American politics: opposition to local AI data center construction went from 42% to 71% in less than a year — a 50-point swing. The backlash has a strong NIMBY core (water and electricity concerns unite Americans across party lines), but draws on deeper anxieties: the sense that a few tech executives are laying claim to the country's future, that communities have no leverage against forces they cannot control, and that decades of computing innovation have left the world shallower rather than richer [22].
+
+The political implications are significant. The backlash is underwater among all parties. Democrats are already running against AI data centers, benefiting from voter instinct to reach for Democrats when an industry appears out of control. However, the coalition fractures beyond local concerns: Democrats care about environmental impact; Republicans do not. The tech industry's identification with the Trump administration has created a new political dynamic — Democrats who once empowered the technology sector as economic development policy now face the question of whether to regulate it as aggressively as other industries. No clear policy menu has emerged beyond moratoriums, though a more productive approach would channel data center investment into grid modernization. See [United States]({{ site.baseurl }}/actors/countries/united-states.html) [22].
+
 # Citations
 
 [1] https://archive.ph/8FvBT
@@ -182,3 +200,9 @@ The pattern connects foreign policy failure to domestic repression: when winning
 [18] [Chartbook 458 Postscript - A Conversation with Barnaby Raine](https://adamtooze.substack.com/p/chartbook-458-poscript-a-conversation)
 
 [19] [The Forever War Gets Scary](https://paulkrugman.substack.com/p/the-forever-war-gets-scary)
+
+[20] [The failed coup and Turkey's path towards autocracy](https://www.swp-berlin.org/publikation/the-failed-coup-and-turkeys-path-towards-autocracy)
+
+[21] [Europe's Visibility Dilemma in Tunisia](https://www.swp-berlin.org/publikation/mta-spot-76-europes-visibility-dilemma-in-tunisia)
+
+[22] [Is This the Fastest Opinion Shift in American Politics?](https://www.nytimes.com/2026/07/15/opinion/ai-data-center-politics.html)

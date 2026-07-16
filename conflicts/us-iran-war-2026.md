@@ -11,7 +11,7 @@ tags:
   - sanctions
   - middle-east
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -333,6 +333,16 @@ Iran never achieved sea control in the Strait of Hormuz; it did not need to. Wit
 
 [RUSI]({{ site.baseurl }}/actors/authors/rusi.html) documents how the US focus on Iran under maximum-pressure strategy had a direct impact on European efforts to constrain [Russian]({{ site.baseurl }}/actors/countries/russia.html) energy revenue. The US issued general licences allowing Russian oil sales during the Hormuz crisis, kneecapping G7 price cap efforts just as they were biting (Urals fell below $50/barrel by December 2025). The political logic was understandable — governments facing an energy shock do not want to remove barrels from the market — but the sanctions logic was weaker. The US was escalating against Iran's oil smuggling networks while allowing Russian cargoes to keep flowing. If the situation in the Gulf allows, the G7 should align on replacing the exhausted price cap with a full maritime services ban [39].
 
+## War Costs: The $87.6 Billion Supplemental
+
+[CSIS]({{ site.baseurl }}/actors/authors/csis.html) (Cancian and Park) analyze the Trump administration's $87.6 billion supplemental request to Congress (June 24, 2026). Approximately one-third (~$32.7 billion) is driven by Iran war costs. The DOD receives $67.1 billion, but OMB Director Vought confirmed only ~$30 billion is war-related — the rest funds future conflict preparation. The supplemental covers three categories: Iran war costs ($32.7B), nonwar national security activities ($39.2B), and unrelated activities ($15.6B, including $11.1B for Agriculture) [40].
+
+Key DOD line items include $21 billion for munitions (only ~$7.6B estimated for war-use replacement), $17.3 billion for operational costs, $12.1 billion for classified programs (only ~$1B estimated war-related), $5.1 billion for cybersecurity and autonomy, $2.4 billion for drones (funding future capabilities, not replacing 25 lost MQ-9s), and $4 billion for airborne moving target indication and space data network. A major omission is base repair — 228 destroyed structures identified by satellite imagery, with the DOD reviewing whether to rebuild. CSIS's own estimate ($35.2–$42.5B including base repair) vs the administration's $32.7B (excluding base repair) are comparable. Estimates reaching hundreds of billions or trillions did not account for the decline in daily costs after the first days, as the US used cheaper, shorter-range munitions and Iranian launches declined [40].
+
+## Russia-Iran Cyber Dimension
+
+[CSIS]({{ site.baseurl }}/actors/authors/csis.html) (Shah and Sherman) assess that Russia-Iran cyber collaboration during the conflict has been overstated. An unverified Ukrainian intelligence assessment suggested interactions between Russian hacktivist groups (Z-Pentest Alliance, NoName057(16), DDoSia Project) and Iranian Handala Hack via Telegram, and alleged use of Russian technical infrastructure by Iranian actors. However, the evidence base is thin — hacktivist coordination does not equate to state-to-state collaboration, and historical distrust (Russian Turla's commandeering of Iranian cyber infrastructure for false-flag operations) limits capability sharing. The low-level cyber activity reported is highly unlikely to alter the conflict's trajectory. Drone technology and satellite imagery sharing — where Russia provided Iran with targeting intelligence for US assets — have demonstrated far greater strategic impact. Overstating cyber cooperation risks misleading policymakers and diverting resources from higher-priority threats like drone supply chains [40].
+
 # Citations
 
 [1] [Iran's Regime Is Headed for a Hard Landing](https://geopoliticalfutures.com/irans-regime-is-headed-for-a-hard-landing/)
@@ -412,3 +422,5 @@ Iran never achieved sea control in the Strait of Hormuz; it did not need to. Wit
 [38] [Cheap Attack, Expensive Defence: NATO 5% Pledge Following Iran and Ukraine](https://www.rusi.org/explore-our-research/publications/commentary/cheap-attack-expensive-defence-nato-5-pledge-following-iran-and-ukraine)
 
 [39] [The Future of Russian Sanctions After the Hormuz Crisis](https://www.rusi.org/explore-our-research/publications/commentary/future-russian-sanctions-after-hormuz-crisis)
+
+[40] [War Costs Make Up a Third of the $87.6 Billion Supplemental Request](https://www.csis.org/analysis/war-costs-make-third-876-billion-supplemental-request) and [Understanding Russia-Iran Collaboration in Cyberspace](https://www.csis.org/analysis/understanding-russia-iran-collaboration-cyberspace)

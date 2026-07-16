@@ -5,7 +5,7 @@ parent: Organizations
 description: The European Union as a geopolitical actor — managing energy storage shortfalls, sanctions secondary risk, enlargement pressure, and the strain of US shifting priorities on Western alliance architecture
 tags: [organization, economics, europe, sanctions, energy, trade, military]
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-16T00:00:00Z
 ---
 
 # Background
@@ -64,6 +64,18 @@ The EU opened a bureau in Nuuk, Greenland in 2024 and opposed [Trump]({{ site.ba
 
 The EU is expanding free trade agreements with Southeast Asia, completing negotiations with Indonesia in 2025 (after nearly a decade) with similar agreements with Thailand, Malaysia, and the Philippines expected to follow. This is part of a broader de-risking effort to reduce dependence on China. The EU's security partnerships with Japan, South Korea, Australia, and India signal that the EU is now treating the [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html) as integral to its strategic interests — though the depth of engagement remains limited compared to other actors in the region [7].
 
+## Tunisia Visibility Dilemma
+
+The EU faces a structural visibility problem in [Tunisia]({{ site.baseurl }}/actors/countries/tunisia.html). Despite being Tunisia's most important economic partner (85% of FDI, budget support, grants), European engagement is nearly invisible to the Tunisian public. The emblematic case: the "Chinese Bridge" in Bizerte is financed by the European Investment Bank but universally known as a Chinese project — built by a Chinese company, presented by the Chinese ambassador. France's donation of 165 buses went unnoticed while 461 Chinese buses received extensive media coverage [8].
+
+The visibility deficit stems from authoritarian constraints under President Saied, fear of meddling accusations, the 2023 migration MoU backlash (Saied returned €60 million), and the Gaza war's strain on relations. European diplomats struggle to inaugurate projects they finance. The EU retreats to diffuse initiatives (ELMED, Pact for the Mediterranean) where visibility is less politically sensitive. Meanwhile, [China]({{ site.baseurl }}/actors/countries/china.html) fills the visibility gap without European hesitation — European-funded infrastructure bankrolls major contracts awarded to Chinese companies in Europe's neighbourhood [8].
+
+## Colombia Cooperation
+
+The EU is [Colombia]({{ site.baseurl }}/actors/countries/colombia.html)'s third-largest trading partner and second-largest source of FDI after the US. For 2021–2027, the EU is providing at least €106 million through the Global Gateway strategy, covering renewable energy, green hydrogen, and regional electricity integration. In 2025, the EU and Colombia agreed to launch negotiations on a Partnership and Cooperation Agreement. Germany pledged up to €200 million under a 2023 bilateral climate partnership [9].
+
+However, EU cooperation falls short of its strategic potential. The EU is perceived as fragmented, hesitant, and strategically invisible. Financing materializes only once projects are well advanced; the EU has little presence during high-risk early phases. The Global Gateway procedures are difficult to navigate. From the European side, lack of coordination between EU institutions and member states hinders strategic alignment. Whether the EU can transform piecemeal cooperation into a coherent partnership is being closely watched by other Global South fossil fuel exporters as a test of European climate diplomacy credibility [9].
+
 # Citations
 
 [1] Velina Tchakarova, "Global System June 2026" — https://substack.com/@velinatchakarova/p-204418261
@@ -79,3 +91,7 @@ The EU is expanding free trade agreements with Southeast Asia, completing negoti
 [6] [Die neue Arktisstrategie der EU](https://www.swp-berlin.org/publikation/die-neue-arktisstrategie-der-eu-chancen-fuer-europas-digitale-souveraenitaet)
 
 [7] [Südostasien – mehr als ein Nebenschauplatz im Indo-Pazifik](https://www.swp-berlin.org/publikation/suedostasien-mehr-als-ein-nebenschauplatz-im-indo-pazifik)
+
+[8] [Europe's Visibility Dilemma in Tunisia](https://www.swp-berlin.org/publikation/mta-spot-76-europes-visibility-dilemma-in-tunisia)
+
+[9] [Colombia as a Leader in Climate and Energy Policy](https://www.swp-berlin.org/publikation/colombia-as-a-leader-in-climate-and-energy-policy)

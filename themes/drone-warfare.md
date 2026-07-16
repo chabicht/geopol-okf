@@ -90,6 +90,14 @@ Urbanski ([RUSI]({{ site.baseurl }}/actors/authors/rusi.html)) provides the most
 
 Ukraine is running the same play in reverse against Russia. Cheap, domestically produced drones have fought a much larger force to a frozen front line and carried the war deep into Russia. With uncrewed surface vessels costing a few hundred thousand dollars each — less than a single modern torpedo — Ukraine has knocked out around a third of Russia's Black Sea Fleet and immobilised the remainder, without operating a conventional navy. The lesson is not that high-end interceptors are useless but that air defence must be cheap to produce and deep in its layering, with scarce high-end systems reserved for ballistic and cruise-missile threats [9].
 
+## The Land Carrier Battle Group Concept
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) proposes the Land Carrier Battle Group (LCBG) — a combined arms formation that addresses the attrition stalemate of drone-dominated battlefields. The concept draws on the historical evolution of naval aviation: just as aircraft carriers made air power integral to naval task forces, drone carriers could make UAS integral to land manoeuvre operations. In the drone-saturated battlefields of Ukraine and the Israel-Lebanon front, mechanised forces have been immobilised — pinned down by anti-tank missiles and drone threats. The question is how to regain manoeuvrability while avoiding unsustainable losses [10].
+
+The LCBG integrates four components: (1) UAS storage, launch, and C2 systems mounted on traditional land platforms, providing continuous tactical drone support — the "carrier" element; (2) mobile counter-UAS platforms (SHORAD) for short-range air defence, capable of neutralising drones, anti-tank missiles, and loitering munitions; (3) tactical missile carriers (howitzers or rocket artillery) for rapid precision fires against targets detected by the formation's reconnaissance UAVs; (4) traditional tanks and APCs for direct fire and infantry support during close combat. The primary mission is to suppress and eliminate area-denial assets — artillery, drone operators, ground-based air defence batteries — enabling conventional forces to regain manoeuvrability [10].
+
+AI is the integrating element. Unlike naval warfare, where the sea lacks terrain features and communication is straightforward, land warfare involves cover, concealment, and dispersed small-team infiltration. The LCBG requires excellent communications links, accurate real-time geolocation, and — above all — rapid decision-making localised on vehicles and UAS. Big-data AI-enhanced situational awareness may enable a better-informed team to anticipate enemy locations and movements, analogous to how radio-enabled mission command defined Panzer division supremacy in 1940. Current AI tools focus on higher-echelon HQs and smart-munition seekers; the LCBG concept requires transformation toward platform-level integration [10]. See [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html).
+
 # Citations
 
 [1] https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war
@@ -108,3 +116,5 @@ Ukraine is running the same play in reverse against Russia. Cheap, domestically 
 [8] [Weekend Update #193: What Is Happening In The Sea Of Azov?](https://phillipspobrien.substack.com/p/weekend-update-193-what-is-happening)
 
 [9] [Cheap Attack, Expensive Defence: NATO 5% Pledge Following Iran and Ukraine](https://www.rusi.org/explore-our-research/publications/commentary/cheap-attack-expensive-defence-nato-5-pledge-following-iran-and-ukraine)
+
+[10] [The AI-Enhanced Land Carrier Battle Group: The Way Forward](https://www.rusi.org/explore-our-research/publications/rusi-defence-systems/ai-enhanced-land-carrier-battle-group-way-forward)
