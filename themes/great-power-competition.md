@@ -9,7 +9,7 @@ tags:
   - economics
   - trade
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -33,6 +33,7 @@ The competitive landscape is defined by asymmetries in energy, alliance architec
 - **EU security partnership diversification**: The EU has concluded 12 Security and Defence Partnerships since 2024, spanning three circles — EEA/accession candidates, NATO partners beyond the EU (Canada, UK), and global partners (Japan, South Korea, Australia, India, Ghana). The SAFE instrument's €150 billion in defence loans with a "Buy European" clause makes SDPs a prerequisite for preferential access to the European armaments market. This represents the EU's effort to become a center of gravity for security cooperation in its own right, diversifying beyond US dependence [13].
 - **Arctic competition**: The [Arctic]({{ site.baseurl }}/regions/arctic.html) is emerging as a theater where digital sovereignty, submarine cable infrastructure, and great power competition converge. The EU, [Russia]({{ site.baseurl }}/actors/countries/russia.html), [China]({{ site.baseurl }}/actors/countries/china.html), and the US all pursue competing interests. Russia suspended cooperation after the Ukraine invasion; Trump claimed Greenland; China seeks influence through research and investment. The EU is investing €347 million in submarine cable projects, designating the Arctic as one of 13 Cable Projects of European Interest [14].
 - **Southeast Asia as contested theater**: Southeast Asia has independent strategic weight beyond being a secondary arena of US-China rivalry. ASEAN states (projected fourth-largest economy by 2030, 684 million people) actively diversify partnerships — seeking OECD membership, exploring BRICS engagement — while resisting pressure to choose sides. [China]({{ site.baseurl }}/actors/countries/china.html) is the most influential external actor, followed by the US; Japan and Australia are long-standing partners. [Germany]({{ site.baseurl }}/actors/countries/germany.html) and the [EU]({{ site.baseurl }}/actors/organizations/eu.html) are deepening engagement but remain limited in visibility and investment [15].
+- **India-led Asian containment coalition**: Friedman (GPF) argues that Modi's July 2026 Asia tour signals the emergence of an Asian coalition (India, Japan, Australia, Indonesia, New Zealand, Vietnam) that is more significant than the Quad because it includes an economic dimension and Indonesia. The network would threaten China on land and sea, potentially limiting China's maritime access to Europe and the Middle East and making China dependent on a trans-Pacific route. This evolution relieves the US from being the primary force containing China — consistent with broader American disengagement from the Eastern Hemisphere [16].
 
 # Key Dynamics
 
@@ -108,3 +109,5 @@ China's demand pullback also demonstrates Beijing's growing willingness to manag
 [14] [Die neue Arktisstrategie der EU](https://www.swp-berlin.org/publikation/die-neue-arktisstrategie-der-eu-chancen-fuer-europas-digitale-souveraenitaet)
 
 [15] [Südostasien – mehr als ein Nebenschauplatz im Indo-Pazifik](https://www.swp-berlin.org/publikation/suedostasien-mehr-als-ein-nebenschauplatz-im-indo-pazifik)
+
+[16] [A Major Move by India](https://geopoliticalfutures.com/a-major-move-by-india/)

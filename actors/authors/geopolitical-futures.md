@@ -14,6 +14,7 @@ timestamp: 2026-07-15T00:00:00Z
 Geopolitical Futures is a strategic analysis publication founded by George Friedman that provides structured assessments of global geopolitical dynamics. GPF's approach emphasizes structural drivers — geography, demographics, military capacity, and economic fundamentals — over personality-driven analysis. The publication produces detailed country and regional assessments, often accompanied by maps that illustrate the geographic constraints driving political outcomes.
 
 GPF also publishes GeoEconomicLens, a monthly report that views the global economy through the lens of geopolitics. GeoEconomicLens provides systemic analysis of how geopolitical events — wars, sanctions, chokepoint disruptions — cascade through energy, food, defense, insurance, and financial markets. The May 2026 issue examined the fallout from the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) across all major regions and sectors, with contributions from GPF analysts including George Friedman, Antonia Colibasanu, Andrew Davidson, Victoria Herczegh, Ronan Wordsworth, and Ekaterina Zolotova. The June 2026 issue focused on inflationary pressures reshaping the global economy, covering the AI crisis, African resource nationalism, EU defense financing, Venezuela's reopening, ASEAN energy coordination, Russian logistics risks, the global inflation feature with regional breakdowns and three scenarios, Australia-Vietnam hedging case studies, AI and cybersecurity, exchange rate trends, and the June outlook [16]. The July 2026 issue focused on the coming defense boom and geoeconomic transformations, covering the US heavy rare earths program (Friedman), Russia's fuel crisis (Zolotova), the yuan undervaluation debate (Colibasanu), Mexico-Brazil energy cooperation (Munoz), the structural defense boom feature (Davidson/Colibasanu), EV industrial competition (Wordsworth), the geoeconomics of water (Colibasanu), de-dollarization trends, and the month-ahead outlook — with new contributor Juan Francisco Munoz joining the GEL team [17].
+GPF also publishes regular analytical articles by contributors including George Friedman, Antonia Colibasanu, Kamran Bokhari, and Ekaterina Zolotova, covering global geopolitical developments, Middle East security dynamics, and Russia-Ukraine war analysis [18][19][20][21][22][23][24].
 
 # Key Frameworks
 
@@ -64,6 +65,13 @@ GPF analysis appears in the bundle covering:
 - **EV industrial competition**: Wordsworth's analysis of China's dominance in EVs and batteries (13M cars, 80% battery production, $84/kWh), US/EU responses, missing supply chain layers, government strategy comparison, SWOT matrix [17]
 - **The geoeconomics of water**: Colibasanu's analysis of water stress as geoeconomic risk — Rhine, Caspian, Panama Canal, Mississippi, Amazon — disrupting transport, energy, agriculture, and manufacturing; water resilience as core risk management [17]
 - **A slow de-dollarization**: GPF's Graphic of the Month showing USD reserves declining from 62.3% to 57.1% (Q1 2020 to Q1 2026), non-economic factors driving diversification, local currency trade growing in BRICS/SCO [17]
+- **India's Asian alliance network**: Friedman's analysis of Modi's July 2026 Asia tour — visits to Indonesia, Australia, and New Zealand; emerging coalition more significant than the Quad; economic and naval dimensions; potential fundamental shift in the global system [18]
+- **Geoeconomics and the defense industry**: Friedman's Adam Smith framing — economic and military power as inextricable; defense industry as uniquely government-controlled; geoeconomics as methodology for understanding geopolitical effects on national economies [19]
+- **Turkey capitalizing on Iran's decline**: Bokhari's analysis of Turkey's expansion across Syria, Lebanon, Iraq, and Egypt; Turkey-Arab-Pakistan triumvirate; Iraq as emerging Turkish-Iranian competition arena; Ottoman foothold in the Levant [20]
+- **Russia's inability to expand the war**: Friedman's analysis of why Russia can't attack another European nation — poor military performance, Poland as fundamental problem, US troops in Poland [21]
+- **Russia's size and centralization as liabilities**: Zolotova's analysis of Ukrainian drone strikes reaching Siberia (Omsk refinery, 2,500km); air defense gaps across vast territory; bureaucratic centralization hampering flexible response; airport disruptions costing billions [22]
+- **NATO Ankara summit delivery**: Colibasanu's comprehensive analysis of the summit's five categories — financial ($139B increase, DSRB), technological (NATO Front Door, NATO Engine, Drone Edge $40B), eastern front ($70B Ukraine aid, Black Sea task group), deterrence (27B euro fuel infrastructure), and military mobility as network problem (Bucharest-Sofia corridor vulnerability) [23]
+- **Red Sea as strategic basin**: Bokhari's analysis of the Red Sea evolving from Houthi non-state threat theater to interstate rivalry arena — Saudi pipeline expansion (+2M bpd), Ethiopia sea access drive, Egypt Octagon HQ, Sudan civil war, Israel-Somaliland, Turkey-Somalia, Maersk/Hapag-Lloyd rerouting [24]
 
 # Sources in Bundle
 
@@ -84,6 +92,13 @@ GPF analysis appears in the bundle covering:
 - "GeoEconomicLens — Fallout from the Iran War, May 2026" [15]
 - "GeoEconomicLens — The Truth About Inflation, June 2026" [16]
 - "GeoEconomicLens — The Coming Defense Boom, July 2026" [17]
+- "A Major Move by India" [18]
+- "Adam Smith and the Defense Industry" [19]
+- "As Iran Declines, Turkey Advances" [20]
+- "George Answers Your Questions: A Strange Article from Tass" [21]
+- "Russia's Size and Centralization Become Liabilities" [22]
+- "NATO Puts Its Money Where Its Mouth Is" [23]
+- "The Red Sea: A Strategic Basin Far Beyond the Houthi Threat" [24]
 
 # Citations
 
@@ -120,3 +135,17 @@ GPF analysis appears in the bundle covering:
 [16] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
 
 [17] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
+
+[18] [A Major Move by India](https://geopoliticalfutures.com/a-major-move-by-india/)
+
+[19] [Adam Smith and the Defense Industry](https://geopoliticalfutures.com/adam-smith-and-the-defense-industry/)
+
+[20] [As Iran Declines, Turkey Advances](https://geopoliticalfutures.com/as-iran-declines-turkey-advances/)
+
+[21] [George Answers Your Questions: A Strange Article from Tass and The Conception and Birth of the United States](https://geopoliticalfutures.com/george-answers-your-questions-a-strange-article-from-tass-and-the-conception-and-birth-of-the-united-states/)
+
+[22] [Russia's Size and Centralization Become Liabilities](https://geopoliticalfutures.com/russias-size-and-centralization-become-liabilities/)
+
+[23] [NATO Puts Its Money Where Its Mouth Is](https://geopoliticalfutures.com/nato-puts-its-money-where-its-mouth-is/)
+
+[24] [The Red Sea: A Strategic Basin Far Beyond the Houthi Threat](https://geopoliticalfutures.com/the-red-sea-a-strategic-basin-far-beyond-the-houthi-threat/)

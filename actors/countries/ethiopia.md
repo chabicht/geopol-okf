@@ -5,7 +5,7 @@ parent: Countries
 description: Most populous landlocked state pursuing sovereign sea access — Abiy Ahmed's rhetoric escalating toward Eritrea, building a navy, and positioning Ethiopia as a future African superpower
 tags: [country, military, africa, naval, trade]
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -40,6 +40,12 @@ After Pretoria, the relationship cooled. Eritrea supported the Fano — Amhara-n
 
 Ethiopia's alignment with the [UAE]({{ site.baseurl }}/actors/countries/uae.html) and the Rapid Support Forces (RSF) in Sudan's civil war places it on one side of a regional proxy conflict. Expanding Egyptian cooperation with Eritrea and Somalia causes unease in Addis Abeba. Multiple middle powers — [Turkey]({{ site.baseurl }}/actors/countries/turkey.html), the UAE, [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html), and [Israel]({{ site.baseurl }}/actors/countries/israel.html) — pursue maritime interests in the Red Sea region, complicating Ethiopia's calculus [1][2].
 
+## Red Sea Access as National Security Priority
+
+Ethiopia's military leadership has continued to signal its determination to secure maritime access, with Navy Commander Kindu Gezu calling it "inevitable" that Ethiopia would regain what he described as its "unfairly lost" access to the [Red Sea]({{ site.baseurl }}/regions/red-sea.html), while Army Chief Birhanu Jula told senior officers that "elaborate preparations" were needed to achieve that objective [3].
+
+Under Prime Minister Abiy Ahmed, Ethiopia's access to the sea has increasingly been framed as a national security priority. The government has sought arrangements with coastal actors, including Somaliland and Puntland, to diversify its maritime options. The fallout from the Tigray War has complicated the matter; relations with [Eritrea]({{ site.baseurl }}/actors/countries/eritrea.html) remain tense, and Addis Ababa wants to prevent Asmara from curbing its regional ambitions while managing internal political and ethnic challenges. Ethiopia's efforts to reach the ocean reflect a broader push to restore strategic autonomy, expand regional influence, and reduce vulnerability to neighboring powers [3].
+
 # Analysis
 
 ## Constraints on Military Action
@@ -57,3 +63,5 @@ A compromise is conceivable that combines regional integration and cross-border 
 [1] [The Tigray Powder Keg in the Horn of Africa](https://geopoliticalfutures.com/the-tigray-powder-keg-in-the-horn-of-africa/)
 
 [2] [Äthiopien und das Meer](https://internationalepolitik.de/de/aethiopien-und-das-meer)
+
+[3] [The Red Sea: A Strategic Basin Far Beyond the Houthi Threat](https://geopoliticalfutures.com/the-red-sea-a-strategic-basin-far-beyond-the-houthi-threat/)

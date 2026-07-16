@@ -10,7 +10,7 @@ tags:
   - military
   - europe
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -104,6 +104,20 @@ The [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html) repo
 
 The preparation agenda echoes the 1991 Nunn-Lugar program: (1) secure Russia's ~1,800 strategic warheads pre-negotiated channels, ideally including [China]({{ site.baseurl }}/actors/countries/china.html) and [India]({{ site.baseurl }}/actors/countries/india.html); (2) decide in advance which borders and authorities to recognize if the Federation fragments; (3) keep Russian weapons scientists employed to prevent proliferation; (4) define what "victory" means for Ukraine and Europe — a Russia that loses this war and cannot start the next [18].
 
+## Why Russia Can't Expand the War
+
+[George Friedman]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) (GPF) argues that Russia's military has performed so poorly in [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) that it cannot mount another attack on a European nation. Dividing already inadequate forces would be suicidal. Poland has developed a substantial, well-armed, and well-trained military — an attack in the Baltics or on Poland would almost certainly trigger a Polish response, and the US has some 10,000 troops in Poland. Putin has behaved predictably for over four years, failing to defeat Ukraine and trying to convince his nation and the world that he is still dangerous. The reason Putin has not expanded the war is that the Russian army cannot [19].
+
+## Russia's Size as Vulnerability
+
+Ekaterina Zolotova (GPF) documents how Ukraine's drone strikes are exploiting Russia's immense territory. A drone threat was declared for the first time ever in Novosibirsk and Omsk, with Ukrainian drones venturing 2,500 kilometers beyond the border to attack the Omsk oil refinery — Russia's largest. Russia possesses high-quality air defense systems but cannot field enough of them across its vast territory. Just to cover the line of contact with Ukraine, Russia would need as many as 500 Pantsir units. Undefended and uninhabited parts of Russia could even serve as launch sites for Ukrainian strikes — abandoned Soviet airstrips in remote villages could be used as launch platforms [20].
+
+Russia is finally developing a unified information environment to increase situational awareness — almost four and a half years into the war. Authorities are stepping up recruitment for mobile fire teams armed with FPV interceptors. But the centralized bureaucracy that Russia built to exercise control over its sprawling territory continues to hamper its response: not until late May 2026 did the Defense Ministry authorize private companies to acquire anti-aircraft systems for their own defense [20].
+
+## Myth of Imminent Collapse
+
+[The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) argues that three years after Prigozhin's Wagner mutiny, predictions of Putin's imminent collapse have not aged well. Three enduring lessons: (1) the mutiny exposed real vulnerabilities — corruption, patronage, institutional rivalries — but these are long-term structural weaknesses, not near-term collapse indicators; (2) weakness and resilience are not mutually exclusive — the war has strengthened the FSB's chokehold, the economy has weathered sanctions, and propaganda keeps the population compliant; (3) Putin's system rests on multiple overlapping centers of coercive power (FSB, Rosgvardia, FSO) deliberately structured to prevent any single institution from becoming too powerful. Prigozhin was not marching to overthrow Putin — he targeted Shoigu and Gerasimov. Elite infighting should not be mistaken for regime collapse. Sustained Western resolve and continued support for Ukraine are required [21].
+
 # Citations
 
 [1] https://substack.com/@velinatchakarova/p-204418261
@@ -133,3 +147,9 @@ The preparation agenda echoes the 1991 Nunn-Lugar program: (1) secure Russia's ~
 [17] [Endgame: The State of the Russian Economy](https://www.kielinstitut.de/publications/endgame-the-state-of-the-russian-economy-19855/)
 
 [18] [The West Needs to Prepare for a Russian Defeat in Ukraine](https://www.thecipherbrief.com/the-west-needs-to-prepare-for-a-russian-defeat-in-ukraine)
+
+[19] [George Answers Your Questions: A Strange Article from Tass and The Conception and Birth of the United States](https://geopoliticalfutures.com/george-answers-your-questions-a-strange-article-from-tass-and-the-conception-and-birth-of-the-united-states/)
+
+[20] [Russia's Size and Centralization Become Liabilities](https://geopoliticalfutures.com/russias-size-and-centralization-become-liabilities/)
+
+[21] [The Continued Myth of Russia's Imminent Collapse: Lessons from Prigozhin's Mutiny Three Years On](https://www.thecipherbrief.com/the-continued-myth-of-russias-imminent-collapse-lessons-from-prigozhins-mutiny-three-years-on)

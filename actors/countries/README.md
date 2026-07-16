@@ -40,3 +40,7 @@ permalink: /actors/countries/
 * [Venezuela](venezuela.html) - Post-Maduro state reopening to international business under heavy US pressure, constrained by institutional weakness
 * [Mexico](mexico.html) - Pursuing strategic autonomy from the US through energy cooperation with Brazil and bilateral trade renegotiation under USMCA pressure
 * [Brazil](brazil.html) - Latin America's largest economy pursuing strategic depth through energy cooperation, agricultural exports, and autonomous defense capacity
+* [Iraq](iraq.html) - Arena of Turkish-Iranian competition, Shiite demographics, KDP/Barzani relationship, oil export crisis
+* [Indonesia](indonesia.html) - ASEAN leader controlling critical maritime straits, participant in India's emerging Asian alliance network
+* [Somalia](somalia.html) - Turkey's primary Horn of Africa partner, military training base, port deals, federal government vs Somaliland
+* [Sudan](sudan.html) - Civil war (SAF vs RSF) creating a regional proxy arena with strategically significant Red Sea coastline

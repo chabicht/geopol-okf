@@ -8,7 +8,7 @@ tags:
   - military
   - technology
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -62,6 +62,14 @@ Dr. Jack Watling (RUSI) describes [Ukraine]({{ site.baseurl }}/actors/countries/
 
 The FT reports that the war in [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) is forcing arms producers to rethink manufacturing. The defence industry was dominated by large players producing small numbers of expensive, exquisitely engineered equipment expected to remain in service for decades. Drone warfare demands the opposite: hundreds or thousands of unmanned systems that can be redesigned and manufactured in weeks. UK start-up Isembard operates a franchise model linking hundreds of small machine shops into a decentralised production network — contrasting with China's manufacturing clusters where designers receive components within a day. Q5D has developed robotic tools to automate wiring harness manufacturing (the slowest, most manual part of drone production), offering 40-50% cost reductions. Estonia's Frankenburg Technologies has opened the world's first affordable air defense missile mass-production facility in Riga, using commercial off-the-shelf components. NATO's deputy supreme allied commander stresses the need for far faster procurement cycles: "We need to be testing, adjusting, failing, learning, procuring much, much faster." Ukraine's drone losses average 670,000 per month — both Ukraine and Russia buy most drones or components from China, but NATO wants domestic capacity to manufacture such quantities [5].
 
+## Exploiting Russia's Vast Territory
+
+Ekaterina Zolotova (GPF) documents how Ukraine's drone campaign is exploiting Russia's greatest geographic asset as a vulnerability. Ukrainian drones ventured 2,500 kilometers beyond the border to attack the Omsk oil refinery — Russia's largest — triggering the first-ever drone threat declarations in Novosibirsk and Omsk. The strike illustrates a fundamental inversion: when defending against an invading army, Russia's immense territory is a blessing, but faced with waves of hard-to-detect drones capable of launching from almost any remote area — and even within Russia itself — that same size becomes a curse [6].
+
+The challenge is mathematical: drones are difficult to detect beyond tens of kilometers, so defenses must be spread out. Approximately 80% of Russia's population lives west of the Urals, yet Russia would need as many as 500 Pantsir units just to cover the line of contact with Ukraine. In a slowing economy short on workers and funds, rapid mass production and deployment of high-quality air defenses for strategic facilities is not feasible. With each attack, Ukraine identifies gaps in Russia's radar and missile coverage — information used to plan the next attack [6].
+
+Undefended and uninhabited parts of Russia could even serve as launch sites. In June 2025, trucks traveling through Russia unleashed drones that struck targets in Murmansk, Irkutsk, Ivanovo, Ryazan, and Amur regions. Abandoned Soviet airstrips in remote villages could be used as launch platforms. Some Russian analysts speculate the Omsk refinery attack might have originated in Kazakh territory, given the vast distance and the fact that drones must take winding paths through favorable terrain to avoid detection [6].
+
 # Citations
 
 [1] https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war
@@ -72,3 +80,5 @@ The FT reports that the war in [Ukraine]({{ site.baseurl }}/actors/countries/ukr
 [4] [Talking Strategy #100: Ukraine's Adaptation with Dr. Jack Watling](https://traffic.libsyn.com/secure/forcedn/cead6627-d7c0-4f81-bec6-f79d589b6745/260612_TS_Jack_W_Ukraine_V2.mp3)
 
 [5] [How modern drone warfare is forcing arms producers to rethink](https://archive.ph/KboLR)
+
+[6] [Russia's Size and Centralization Become Liabilities](https://geopoliticalfutures.com/russias-size-and-centralization-become-liabilities/)

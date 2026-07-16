@@ -2,10 +2,10 @@
 type: Actor
 title: Turkey
 parent: Countries
-description: Turkey as a geopolitical actor — emerging as the Middle East's dominant power, expanding across the Horn of Africa through military training and port deals, competing with Israel for regional influence, and pursuing independent defense cooperation outside NATO constraints
+description: Turkey as a geopolitical actor — emerging as the Middle East's dominant power, capitalizing on Iran's decline to expand across Syria, Iraq, Lebanon, and the Horn of Africa, competing with Israel for regional influence, and pursuing independent defense cooperation outside NATO constraints
 tags: [country, military, drone-warfare, africa, nato, middle-east, naval]
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -22,11 +22,11 @@ Turkey offers what competitors cannot: security assistance without the colonial 
 
 ## Drone Exports
 
-Turkish drones are attractive to African governments because they provide surveillance and strike capacity along with evidence of modernization. The [Somalia model]({{ site.baseurl }}/actors/somalia.html) — military training, infrastructure, education, diplomatic support, and maritime security — demonstrates the comprehensive nature of Turkish engagement.
+Turkish drones are attractive to African governments because they provide surveillance and strike capacity along with evidence of modernization. The [Somalia model]({{ site.baseurl }}/actors/countries/somalia.html) — military training, infrastructure, education, diplomatic support, and maritime security — demonstrates the comprehensive nature of Turkish engagement.
 
 ## Horn of Africa and Red Sea Competition
 
-Turkey has become [Somalia]({{ site.baseurl }}/actors/somalia.html)'s most important external patron, providing military training, arms, infrastructure investment, and diplomatic support to the federal government in Mogadishu. Turkey built a large military training base in Mogadishu and signed major port and infrastructure deals in 2024, becoming Somalia's primary external security and economic partner — largely at the expense of the [UAE]({{ site.baseurl }}/actors/countries/uae.html), whose relationship with Somalia deteriorated over port concessions and a 2018 cash-seizure incident [2].
+Turkey has become [Somalia]({{ site.baseurl }}/actors/countries/somalia.html)'s most important external patron, providing military training, arms, infrastructure investment, and diplomatic support to the federal government in Mogadishu. Turkey built a large military training base in Mogadishu and signed major port and infrastructure deals in 2024, becoming Somalia's primary external security and economic partner — largely at the expense of the [UAE]({{ site.baseurl }}/actors/countries/uae.html), whose relationship with Somalia deteriorated over port concessions and a 2018 cash-seizure incident [2].
 
 Turkey's expansion is now creating rival blocs in the Horn of Africa. [Israel]({{ site.baseurl }}/actors/countries/israel.html)'s recognition of [Somaliland]({{ site.baseurl }}/events/israel-somaliland-recognition.html) has solidified an Israel-UAE-Ethiopia alignment countering the Turkey-Somalia-Egypt-Eritrea axis. Port infrastructure — Turkey's deals in Mogadishu, DP World at Berbera, Saudi Arabia's Red Sea Gateway Terminal at Tadjourah — is the primary vector of competition [2].
 
@@ -44,6 +44,22 @@ Turkey remains embedded in NATO for deterrence and escalation control in [Europe
 
 Turkey is operating across the Sahel and Horn of Africa: Mali, Burkina Faso, Niger, Chad, Ethiopia, Somalia, and Nigeria. In the Middle East, Turkey's influence now extends through Syria, Somalia, and the Board of Peace framework. This represents a significant expansion of Turkish influence at the expense of both Russia and France.
 
+## Capitalizing on Iran's Decline
+
+Kamran Bokhari (GPF) argues that the weakening of [Iran]({{ site.baseurl }}/actors/countries/iran.html) and its regional proxy, Hezbollah, has created an unprecedented strategic opening for Ankara. Turkey moved swiftly to capitalize, backing Ahmed al-Sharaa's Hayat Tahrir al-Sham movement in its successful effort to overthrow the Syrian regime in December 2024 — transforming Syria from a central pillar of Iranian influence into a springboard for Turkish regional ambitions. Ankara regained a major foothold in the Levant for the first time since the fall of the Ottoman Empire [5].
+
+### Egypt, Lebanon, and Iraq
+
+Turkey is parlaying its position in Syria into a bigger footprint across the region. Egyptian Defense Minister Lt. Gen. Ashraf Salem Zaher arrived in Ankara on July 12 for talks on expanding bilateral military cooperation, following Turkish Chief of the General Staff Gen. Selcuk Bayraktaroglu's senior military delegation to Cairo. Lebanese Prime Minister Nawaf Salam met with President Erdogan in Istanbul, calling for elevating bilateral ties to a "strategic partnership." Turkish intelligence chief Ibrahim Kalin held high-level security consultations in Baghdad with President Nizar Amedi and Prime Minister Ali al-Zaidi before traveling to Irbil, Sulaimaniyah, and Kirkuk for meetings with Kurdistan Regional Government leaders [5].
+
+### The Turkey-Arab-Pakistan Triumvirate
+
+Washington's strategy for the Middle East rests on two pillars: weakening Iran and fostering a new geopolitical order anchored by Turkey, Arab states, and [Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html). A strategic, if informal, triumvirate has emerged — with secondary support from [Egypt]({{ site.baseurl }}/actors/countries/egypt.html) and [Qatar]({{ site.baseurl }}/actors/countries/qatar.html). Turkey's geographic position and expanding regional footprint make it uniquely able to contest Iranian influence. Unlike the other actors, Ankara possesses the strategic depth and proximity necessary to keep Tehran from reconstituting itself in the Fertile Crescent [5].
+
+### Iraq as Emerging Competition Arena
+
+[Iraq]({{ site.baseurl }}/actors/countries/iraq.html) is poised to reemerge as the principal arena of geopolitical competition between Turkey and Iran. Turkey is leveraging its direct border, its close relationship with the Kurdistan Democratic Party (Barzani clan), and Iraq's oil export crisis to press Baghdad into a deeper energy partnership. The weakening of Iran is compelling Iraq's Shiite political forces to reassess Tehran's influence — and from Ankara's perspective, even a handful of Shiite factions seeking to balance between Iran and Turkey would constitute a meaningful strategic gain [5].
+
 # Analysis
 
 Turkey's strategic position is uniquely favorable. The US shift from Israel-centric to multilateral security architecture elevates Turkey as the region's most capable military actor. The decline of [Iran]({{ site.baseurl }}/actors/countries/iran.html) removes a major competitor. Russia's overstretch in Ukraine creates openings across Africa and Eurasia. Turkey's NATO membership provides deterrence while its non-Western identity allows partnerships unavailable to other alliance members.
@@ -59,3 +75,7 @@ The Israel-Turkey rivalry is emerging as the defining competitive dynamic in the
 [3] [Turkey, Israel and the New US Geostrategy](https://geopoliticalfutures.com/turkey-israel-and-the-new-us-geostrategy/)
 
 [4] [Outgrowing Old Alliance Behavior](https://geopoliticalfutures.com/outgrowing-old-alliance-behavior/)
+
+[5] [As Iran Declines, Turkey Advances](https://geopoliticalfutures.com/as-iran-declines-turkey-advances/)
+
+[6] [The Red Sea: A Strategic Basin Far Beyond the Houthi Threat](https://geopoliticalfutures.com/the-red-sea-a-strategic-basin-far-beyond-the-houthi-threat/)
