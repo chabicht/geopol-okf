@@ -62,6 +62,10 @@ India's strategic position is defined by the asymmetry with China and the absenc
 
 Modi's Asia tour suggests India is not merely passively accepting the American alliance but actively building a regional coalition that serves its own China containment interests. The emerging network — stretching from Japan through Indonesia to Australia, with India and Vietnam as land-based anchors — could become the most significant geopolitical development of 2026 if it solidifies.
 
+## The Sole Genuine Strategic Autonomous Middle Power
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) identifies India as the single country that genuinely possesses strategic autonomy as a middle power right now. Everything else in the middle power debate — France, Germany, Canada — is aspiration mislabeled as capability. Some analysts argue that tripolarity (US-China-India) is more stable than bipolarity because it widens optionality, and that India sits at the center of an emerging tripolar order. Tchakarova's assessment is that while strategic autonomy is feasible for India, it requires civilizational effort and is constrained by the same mindset-capabilities-cohesion deficit chain that limits other middle powers — just less severely [8].
+
 # Citations
 
 [1] War on the Rocks, "Why India Will Stick with America" — https://warontherocks.com/why-india-will-stick-with-america/
@@ -77,3 +81,5 @@ Modi's Asia tour suggests India is not merely passively accepting the American a
 [6] [Weekend Update #192: Can Russia Counter?](https://phillipspobrien.substack.com/p/weekend-update-192-can-russia-counter)
 
 [7] [A Major Move by India](https://geopoliticalfutures.com/a-major-move-by-india/)
+
+[8] [The Middle Power Mirage: Colby, the Skeptics, and the Verdict Nobody Wants](https://substack.com/@velinatchakarova/p-207135676)

@@ -313,6 +313,16 @@ The war is likely to continue "at least through January" 2027. The idea it would
 
 Pape addresses suggestions of using nuclear weapons against Iran: radiation clouds cannot be controlled and travel for hundreds of miles. Radioactive soot would kill large numbers of American troops over time — 20,000–30,000 from cancer and radiation sickness. "I just can't even imagine." Lindsey Graham's call for nuclear strikes is "clickbait" — a nuclear detonation in Gaza or the West Bank would kill tens of thousands of Jews, echoing the bombing of Auschwitz dilemma [33].
 
+## The Repricing of Rupture (July 2026)
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) documents that the collapse of the ceasefire has delivered the sharpest market repricing since the Hormuz war began. Brent surged nearly 8 percent to over $80 per barrel, the Dow shed more than 800 points, and 10-year Treasury yields spiked toward 4.6 percent. The energy-to-fertilizer-to-food cascade has forced emergency interventions on both sides of the Atlantic — €1.5 billion from the European Parliament, $500 million in US production subsidies (FIELDS program), and an emergency proclamation suspending anti-dumping duties on Moroccan phosphate imports. Agriculture has joined semiconductors and energy as a securitized sector. The system is not breaking evenly — it is repricing, rationing, and re-blocking. That is what rupture looks like [36].
+
+Every escalation transfers wealth toward the [DragonBear]({{ site.baseurl }}/conflicts/cold-war-2.html)'s discounted-crude arbitrage — [China]({{ site.baseurl }}/actors/countries/china.html) absorbing sanctioned Iranian barrels — while inflating the West's rates, food costs, and fiscal burdens. Threats against desalination and power plants weaponize the water-energy nexus itself, setting precedents Beijing will study for [Taiwan]({{ site.baseurl }}/conflicts/taiwan-standoff.html) contingencies. The conflict is a live-fire laboratory: drone swarms versus counter-drone munitions, contested undersea and electromagnetic domains, and AI-enabled targeting compressing decision cycles below human deliberation speed. Prolonged Gulf instability threatens the sulfur, ammonia, and LNG feedstocks underpinning semiconductor-grade supply chains — meaning the strait now sits on the critical path of the digital economy itself [36].
+
+## H2 2026 Outlook
+
+Tchakarova warns of a "very bumpy second half of 2026": US-Israel-[Iran]({{ site.baseurl }}/actors/countries/iran.html) escalations will continue with no end in sight; Yemen-[Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) tensions are coming; [Türkiye]({{ site.baseurl }}/actors/countries/turkey.html) and Syria might also get involved. [Russia]({{ site.baseurl }}/actors/countries/russia.html) will face a strong recession scenario due to the war in Iran and will boost its summer offensive in [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), while Ukraine will seek to quickly build antiballistic missile defence systems ahead of the winter. The Indo-Pacific will face further militarizations and tensions. Two needed (real) ceasefires in Ukraine and Iran are the mutually strengthening signal toward preventing the [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) scenario [37].
+
 # Citations
 
 [1] [Iran's Regime Is Headed for a Hard Landing](https://geopoliticalfutures.com/irans-regime-is-headed-for-a-hard-landing/)
@@ -384,3 +394,7 @@ Pape addresses suggestions of using nuclear weapons against Iran: radiation clou
 [34] [Trump Just Changed the Political Logic of the War](https://escalationtrap.substack.com/p/trump-just-changed-the-political)
 
 [35] [Why Is Trump Escalating When Everyone Says He Won't?](https://escalationtrap.substack.com/p/why-is-trump-escalating-when-everyone-be9)
+
+[36] [The Ceasefire That Never Was: Washington and Tehran Return to the Brink in the Strait of Hormuz](https://substack.com/@velinatchakarova/p-206278750)
+
+[37] [Short update of the second half of 2026](https://substack.com/@velinatchakarova/p-206929714)

@@ -128,6 +128,14 @@ Russia's networks constitute a core instrument of its [Endless Warfare]({{ site.
 
 **Ambiguous networks**: "ghost fleets" that have generated billions in revenue despite Western sanctions, shell and front companies, criminal organizations, and illicit financial systems that enable sanctions evasion and sustain operations. These networks are resilient, adaptive, and self-recovering, having been developed over decades. Russia fiercely protects them because they provide strategic advantage at relatively low cost [24].
 
+## Combat Knowledge Transfer to China
+
+A Kremlin-approved programme is transferring Russia's Ukraine-war combat lessons to the Chinese military. The agreement was signed July 2, 2026 by a Russian major general and a Chinese senior colononel. The subject matter is precisely what one would expect from more than four years of high-intensity war: drone warfare, anti-ship missile exposure, and the tactical realities of a contested modern battlefield. Russia holds combat experience accumulated at enormous cost; [China]({{ site.baseurl }}/actors/countries/china.html) holds industrial scale, technological weight, and simulators but has not fought a war in decades. Internal Russian assessments praised the caliber of Chinese training infrastructure while noting Beijing's lack of actual combat experience. A Russia degraded by war, increasingly dependent on Beijing economically and industrially, becomes the weaker partner — yet in becoming weaker it transfers hard-won expertise upward to a rising China that can absorb and industrialise those lessons at scale [25].
+
+## Nuclear Threshold Policed by Beijing
+
+As Russian nuclear saber-rattling accelerated through 2026, with prominent Russian voices openly urging the Kremlin to reach for nuclear weapons after Ukrainian strikes, Beijing reportedly delivered Moscow an ultimatum-form warning that there can be no thought of using nuclear weapons in Ukraine. The message represented a firmer Chinese stance than at any previous point in the war. The DragonBear coordinates across every domain except the one where China's global standing and strategic interest diverge absolutely from Russia's escalation logic. Beijing enables the war machine and simultaneously polices its nuclear threshold. The red line runs through Beijing, not Moscow — coordination and constraint are exercised by the same hand [25].
+
 # Analysis
 
 Russia's strategic position is paradoxical: deeply committed in Ukraine, facing succession risk in Chechnya, losing ground in Africa, yet successfully exploiting Western energy dependencies and conducting effective cognitive warfare. The DragonBear axis provides critical support, but Russia's ability to sustain multiple theaters is increasingly constrained by the prioritization demands of the Ukraine war.
@@ -181,3 +189,5 @@ Russia's strategic position is paradoxical: deeply committed in Ukraine, facing 
 [23] [A Return to Mass: Russian Force Expansion in the War with Ukraine](https://warontherocks.com/a-return-to-mass-russian-force-expansion-in-the-war-with-ukraine/)
 
 [24] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)
+
+[25] [The DragonBear in July: Coordination Without Alliance](https://substack.com/@velinatchakarova/p-206606963)

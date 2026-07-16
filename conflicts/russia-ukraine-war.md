@@ -142,6 +142,10 @@ The global implication is that the Russia-Ukraine War's refinery campaign has be
 
 This intersection of two wars — the Iran war disrupting crude supply and the Ukraine war disrupting refining capacity — produces a compounding effect on global energy markets that neither conflict's analysts fully anticipated. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) [23].
 
+## H2 2026 Outlook
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) assesses that [Russia]({{ site.baseurl }}/actors/countries/russia.html) will face a strong recession scenario due to the war in [Iran]({{ site.baseurl }}/actors/countries/iran.html) — the cascading effects of the [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) are compounding Russia's existing economic strain from the Ukraine war. Russia will boost its summer offensive, while [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) will seek to quickly build antiballistic missile defence systems ahead of the winter. Two needed (real) ceasefires — in Ukraine and Iran — are the mutually strengthening signal toward preventing the Global System Rupture scenario or the fourth systemic risk-driven global crisis [24].
+
 # Citations
 
 [1] https://substack.com/@velinatchakarova/p-204418261
@@ -181,3 +185,5 @@ This intersection of two wars — the Iran war disrupting crude supply and the U
 [22] [A Return to Mass: Russian Force Expansion in the War with Ukraine](https://warontherocks.com/a-return-to-mass-russian-force-expansion-in-the-war-with-ukraine/)
 
 [23] [Suddenly, Hormuz is Less Crucial Than It Was](https://paulkrugman.substack.com/p/suddenly-hormuz-is-less-crucial-than)
+
+[24] [Short update of the second half of 2026](https://substack.com/@velinatchakarova/p-206929714)

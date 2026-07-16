@@ -44,8 +44,16 @@ The [CSTO]({{ site.baseurl }}/actors/countries/russia.html) illustrates the fail
 
 The emergence of layered security reflects the broader [great power competition]({{ site.baseurl }}/themes/great-power-competition.html) environment in which middle powers have more room to maneuver. As the US and China engage in the [AI military race]({{ site.baseurl }}/themes/ai-military-race.html) and compete across multiple theaters, middle powers are not passive bystanders — they are actively constructing security architectures that preserve their autonomy while maintaining access to great-power capabilities. A major war between great powers would "re-centralize" alliance behavior, but under prevailing conditions, layered security has become the dominant mode of cooperation below the threshold of alliance-wide war.
 
+### The Middle Power Autonomy Constraint
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) provides a corrective to the optimism embedded in much of the layered security literature. The single country that genuinely possesses strategic autonomy as a middle power right now is [India]({{ site.baseurl }}/actors/countries/india.html). Everything else is aspiration mislabeled as capability. Achieving strategic autonomy requires what Tchakarova calls "civilizational effort": significant sacrifice of the social welfare system, hard-core reindustrialization, the brutal filling of defense gaps, and genuine skin in the game from citizens, industries, companies, and governments together. It will take European and other middle powers decades, not years, to reach anything resembling strategic autonomy [3].
+
+The binding constraint is mindset, not resources or geography. Tchakarova identifies three compounding deficits: mindset, capabilities, and political cohesion — the last two downstream of the first. The "narrated world" pathology — in which narration replaces analysis and virtue replaces vision — produces crisis-management summits and emergency packages that feel like action while changing nothing structural. Layered security arrangements that emerge from this mindset will be declaratory rather than operational, convening rather than executing. The gap between the coalition of the anxious and something a great power must reckon with is years of unglamorous work: shipyards that launch submarines, air defense batteries that exist outside a procurement announcement, and magazines refilled after half their contents went to [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) [3].
+
 # Citations
 
 [1] [Outgrowing Old Alliance Behavior](https://geopoliticalfutures.com/outgrowing-old-alliance-behavior/)
 
 [2] [The Evolution of the Collective Security Treaty Organization](https://geopoliticalfutures.com/the-evolution-of-the-collective-security-treaty-organization/)
+
+[3] [The Middle Power Mirage: Colby, the Skeptics, and the Verdict Nobody Wants](https://substack.com/@velinatchakarova/p-207135676)

@@ -83,6 +83,22 @@ The financial dimension reinforces the asymmetry: China's capital controls wall 
 
 China's demand pullback also demonstrates Beijing's growing willingness to manage its own exposure unilaterally rather than rely on price signals alone — a form of strategic autonomy that middle powers will study closely. The implication is that energy resilience is no longer merely an economic function but a competitive capability: the side that can better absorb and manage supply disruptions gains systemic advantage. [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s retained leverage over [Hormuz]({{ site.baseurl }}/events/hormuz-toll-system.html) means the underlying rupture has not closed, only been priced as if it has — a single incident could reprice the entire system within days [9].
 
+## The Middle Power Mirage
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) challenges the proposition that a collective middle powers strategy can function as a third force between Pax Americana 2.0 and the DragonBear. Elbridge Colby, speaking from the US Department of War, dismissed the concept as a distraction — a handful of allies mistaking a threat to American primacy for a genuine one. His argument: middle powers share no coherent basis for alignment, and no alternative country or coalition can match the American defense industrial base. But as Tchakarova notes, this is not the language of a superpower indifferent to the project — it is the language of one that has noticed [17].
+
+The debate exposed five fault lines. Phil Gordon captured the contradiction: it is extraordinary to treat allies like vassals, threaten their territorial integrity, impose unilateral tariffs, and then express surprise when those allies seek autonomy. Gerard Araud supplied the missing basis for alignment: middle powers cooperate not out of virtue but out of shared interest in not being crushed between the Chinese rock and the American hard place. Shashank Joshi made the cleanest analytical point: it can be simultaneously true that middle powers want more American engagement and that they hedge against the genuine risk of abandonment — engagement and hedging are concurrent, not mutually exclusive. Alexander Clarkson noted the awkward fact that American shipbuilding is in such crisis that the US Navy orders from Korean and Italian yards. Ben Woodfinden read the thread as both a swipe at Carney and the most useful thing Washington has said about the middle power project [17].
+
+Tchakarova's geopolitical judgment: the single country that genuinely possesses strategic autonomy as a middle power right now is [India]({{ site.baseurl }}/actors/countries/india.html). Everything else is aspiration mislabeled as capability. To expect that European powers like [France]({{ site.baseurl }}/actors/countries/france.html) or [Germany]({{ site.baseurl }}/actors/countries/germany.html), or Canada, will develop a functioning middle power strategy on any near horizon is wishful projection. It will take European and other middle powers decades, not years, to reach anything resembling strategic autonomy — and only through what Tchakarova calls "civilizational effort": significant sacrifice of the social welfare system, hard-core reindustrialization, the brutal filling of defense gaps, and genuine skin in the game [17].
+
+### The Narrated World
+
+The binding constraint is mindset, not resources and not geography. Tchakarova identifies three compounding deficits: mindset, capabilities, and political cohesion — the last two downstream of the first. The specific pathology is what she terms the "narrated world": European elites increasingly inhabit a reality manufactured by institutions, consultants, and public relations machinery, in which narration replaces analysis and virtue replaces vision. Crisis-management summits, emergency packages, and beautifully produced Davos speeches are the native output. This is why Europe debates whether the new Cold War even exists while Washington debates how to win it. These are post-heroic societies, demographically aging, psychologically fatigued, and ideologically divided by hubris, moral complacency, and strategic passivity [17].
+
+### If You Cannot Be a Side, Join a Side
+
+The verdict: a middle power that can neither anchor its own bloc nor commit to an existing one has not found a third way — it has only found a slower path to becoming someone else's terrain. The strategy exists: an Anglo-Pacific bloc of networks organized around raw materials, chips, rare earths, critical infrastructure, advanced industry, AI, and countless minilateral defense arrangements, set against the DragonBear. What is missing is not the design — what is missing is the mindset to pay for it in the only currency systemic players accept [17].
+
 # Citations
 
 [1] https://thehonestsorcerer.substack.com/p/the-big-picture
@@ -111,3 +127,5 @@ China's demand pullback also demonstrates Beijing's growing willingness to manag
 [15] [Südostasien – mehr als ein Nebenschauplatz im Indo-Pazifik](https://www.swp-berlin.org/publikation/suedostasien-mehr-als-ein-nebenschauplatz-im-indo-pazifik)
 
 [16] [A Major Move by India](https://geopoliticalfutures.com/a-major-move-by-india/)
+
+[17] [The Middle Power Mirage: Colby, the Skeptics, and the Verdict Nobody Wants](https://substack.com/@velinatchakarova/p-207135676)

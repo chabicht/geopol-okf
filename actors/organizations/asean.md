@@ -37,8 +37,14 @@ The proposal coincides with broader ASEAN discussions around resilience, connect
 - **Indonesia's leadership bid**: Jakarta's proposal positions Indonesia as the de facto energy anchor, elevating its influence within the bloc.
 - **Infrastructure investment opportunities**: New storage infrastructure would require billions in financing, engineering, shipping, insurance, and digital monitoring systems. Ports in western Indonesia could emerge as strategic energy nodes linking the Indian Ocean and Pacific supply chains [2].
 
+## Structural Non-Agency on the South China Sea
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) identifies ASEAN's structural inability to act on the South China Sea arbitration. Not one ASEAN member besides the Philippines signed the 10th anniversary joint statement in July 2026 — not [Vietnam]({{ site.baseurl }}/actors/countries/vietnam.html), not [Indonesia]({{ site.baseurl }}/actors/countries/indonesia.html), not [Malaysia]({{ site.baseurl }}/actors/countries/malaysia.html), not Brunei — in the year the Philippines holds the chair. ASEAN has never officially recognised the 2016 award. Consensus rules mean that Phnom Penh and Vientiane hold what is functionally a Chinese veto over the bloc's language. The November ASEAN Summit in Manila is the real deadline: Marcos is pinning the Code of Conduct to that summit. Watch specifically for any COC provision requiring joint development with [China]({{ site.baseurl }}/actors/countries/china.html) to the exclusion of external parties, which would render the award moot by contract rather than by defiance [3].
+
 # Citations
 
 [1] [Südostasien – mehr als ein Nebenschauplatz im Indo-Pazifik](https://www.swp-berlin.org/publikation/suedostasien-mehr-als-ein-nebenschauplatz-im-indo-pazifik)
 
 [2] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
+
+[3] [The Award Everyone Defends and No One Will Co-Sign](https://substack.com/@velinatchakarova/p-206915723)
