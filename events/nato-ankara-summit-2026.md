@@ -36,6 +36,14 @@ All 32 allies pre-approved a short declaration reaffirming "ironclad commitment 
 
 Despite the constructive setup, Trump lashed out on Truth Social, repeating claims that NATO allies "were not there for us" and that the relationship is "not reciprocal." German Chancellor Merz rebuked Trump's spending criticism, noting Germany is doubling its defense budget within four years. The summit's success depends heavily on Rutte's diplomatic skills and Trump's relationship with Erdoğan, whom Trump calls "a hell of a leader." The next summit, planned for Albania in 2027, was not mentioned in the declaration — reflecting reluctance to repeat yearly drama [1].
 
+## Defense Industrial Mobilization
+
+The summit's central questions — defense investment, support for Ukraine, air defense, industrial production, and burden-sharing — are increasingly economically consequential because rearmament is no longer solely a military issue but an industrial and fiscal one. Any commitments made at the summit could accelerate demand for defense production, logistics, energy infrastructure, electronics, shipyards, skilled labor, and dual-use transport networks. The 5% GDP target (3.5% core defense + 1.5% security-related investment by 2035) gives industry a longer demand signal than annual procurement alone. SIPRI estimates that if all allies met the full target in 2035, annual alliance spending would reach roughly $4.2 trillion [2].
+
+See [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
+
 # Citations
 
 [1] [NATO 3.0 to Emerge at Ankara Summit Amid Fragile Unity](https://www.rusi.org/explore-our-research/publications/commentary/nato-30-emerge-ankara-summit-amid-fragile-unity)
+
+[2] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)

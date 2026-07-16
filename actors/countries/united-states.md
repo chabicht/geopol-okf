@@ -5,7 +5,7 @@ parent: Countries
 description: The United States as a geopolitical actor — superpower facing military overstretch, diplomatic erosion, and an unresolved AI military integration gap
 tags: [country, military, ai, nuclear, energy, intelligence, middle-east, indo-pacific, latin-america, europe, oligarchy]
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -88,6 +88,18 @@ Trump's July 2026 Mt. Rushmore speech framed political opponents as "communists"
 
 The US has been below the replacement fertility rate of 2.1 children per woman for nearly two decades (1.6 in 2024). [Mexico]({{ site.baseurl }}/regions/latin-america.html), the top provider of immigrant workers, has been below replacement for about a decade (1.9 in 2024). [Africa]({{ site.baseurl }}/regions/africa.html)'s working-age population is projected to rise from ~850 million today to over 1.5 billion by 2050, accounting for 85% of the global workforce increase — positioning Africa as a sought-after source of workers for shrinking developed economies [22].
 
+## US Rare Earths Program
+
+Friedman (GPF) reports that the US has launched a program for funding the exploration and processing of heavy rare earth minerals within its own territory. Deposits exist in California and Texas. The government will provide funding to private companies, but they are not state-run and will need additional capital. The Defense Department will likely be the first customer. The driver is China's near-monopoly over heavy rare earth processing, which effectively constitutes an embargo — heavy rare earths are required for military applications including magnets and lasers that function in extreme heat. The US is late to the party but, it seems, not too late [23]. See [Critical Minerals]({{ site.baseurl }}/themes/critical-minerals.html).
+
+## EV Supply Chain Gaps
+
+The US response to [China]({{ site.baseurl }}/actors/countries/china.html)'s [EV dominance]({{ site.baseurl }}/themes/ev-competition.html) is more focused on security risks than market-driven policies. With the exception of Tesla, US companies have been reluctant to ramp up EV production rapidly, focusing on profitable trucks and SUVs. Policy volatility compounds the problem — battery plants, mines, and refineries require long investment horizons, while tax credits and consumer-side support have been inconsistent. Washington has stronger bipartisan agreement to reduce Chinese imports than to curb EV adoption itself, but lacks the scale and innovation to effectively compete with China's whole-process ecosystem. Mining companies, refiners, battery recyclers, and logistics providers stand to benefit from the policy push [23].
+
+## Defense Industrial Mobilization
+
+The US is part of a structural defense spending boom — global military expenditures rose from $2.1 trillion in 2021 to nearly $2.9 trillion in 2025. The wars in Ukraine and the Middle East exposed the limits of lean inventories and slow weapons production. NATO's 5% spending target (3.5% core defense + 1.5% security-related investment by 2035) gives industry a longer demand signal. The most strategically valuable firms are those controlling capacity governments cannot quickly recreate: critical minerals, semiconductors, specialty metals, nuclear-grade components, and certified production capacity [23]. See [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
+
 # Analysis
 
 The United States is experiencing a compounding crisis: military overstretch, diplomatic isolation, domestic political dysfunction, and a technology race where its lead is narrow and poorly leveraged. The [global system rupture]({{ site.baseurl }}/themes/global-system-rupture.html) is not merely happening to the US — it is being accelerated by American decisions that diverge from strategic logic. The [energy and resource]({{ site.baseurl }}/themes/energy-and-resources.html) foundation of US power remains robust in absolute terms but is diminishing relative to rivals, particularly China, which uses nearly twice as much energy and houses four times the population.
@@ -139,3 +151,5 @@ Tooze identifies two of his four disrupters as American: Trump's trade policy ra
 [21] [July 5, 2026](https://heathercoxrichardson.substack.com/p/july-5-2026)
 
 [22] [A Tale of Two Africas in Maps, And How It Affects the United States](https://www.thecipherbrief.com/a-tale-of-two-africas-in-maps-and-how-it-affects-the-united-states)
+
+[23] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)

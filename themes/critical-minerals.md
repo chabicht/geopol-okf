@@ -10,7 +10,7 @@ tags:
   - technology
   - energy
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -114,6 +114,14 @@ China is structurally better positioned to capitalize on this shift. Chinese min
 
 Western firms face ESG obligations and industry safety standards that Chinese companies often ignore, drastically increasing long-term investment risk and compressing profit margins. If mishandled by host governments, localization drives risk devolving into political rent-seeking — contracts awarded to connected elites and foreign actors willing to bypass ethical norms. However, opportunities exist for firms that can deliver processing, refining, logistics, machinery servicing, and energy supply in partnership with local partners. Increased demand for processing and refining opens opportunities in the historically power-poor continent [10].
 
+## US Heavy Rare Earths Program
+
+Friedman (GPF) reports that the [United States]({{ site.baseurl }}/actors/countries/united-states.html) has launched a program for funding the exploration and processing of heavy rare earth minerals within its own territory. Already there are deposits in California and Texas. The government will provide some funding to private companies to extract them, but they are not state-run, so they will need additional capital. The US Defense Department will likely be the first customer, giving all parties an interest in making it work [11].
+
+The driver is China's near-monopoly over heavy rare earth processing, which effectively constitutes an embargo on heavy REE exports to the US. Heavy rare earths — yttrium and the heavier lanthanides (terbium, dysprosium, holmium, erbium, thulium, ytterbium, lutetium) — are required for military applications including magnets and lasers that can withstand and function in extreme heat. Despite bilateral ties warming, China will not give away a major military advantage or negotiating tool [11].
+
+Friedman identifies three lessons: (1) the current technological revolution is simultaneously a military evolution; (2) a government's task includes incentivizing and resourcing the private sector for defense needs; (3) having experts able to forecast military evolution — and a government that listens — is essential. The US is late to the party but, it seems, not too late [11].
+
 # Citations
 
 [1] https://geopoliticalfutures.com/what-investments-say-about-central-asia/
@@ -134,3 +142,5 @@ Western firms face ESG obligations and industry safety standards that Chinese co
 [9] [China Wrestles with the Toxic Aftermath of Rare Earth Mining](https://e360.yale.edu/features/china-wrestles-with-the-toxic-aftermath-of-rare-earth-mining)
 
 [10] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
+
+[11] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)

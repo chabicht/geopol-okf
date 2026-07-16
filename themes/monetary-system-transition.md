@@ -58,6 +58,20 @@ The [ruble]({{ site.baseurl }}/actors/countries/russia.html) strengthened steadi
 
 The US dollar strengthened modestly as a reserve asset in response to the war, but remains under pressure from prolonged market uncertainty and risks arising from the change in leadership of the Federal Reserve [4].
 
+## The Yuan Debate
+
+Colibasanu (GPF) reports that ECB President Christine Lagarde's call for global leaders to discuss the undervaluation of the [Chinese yuan]({{ site.baseurl }}/actors/countries/china.html) should be read as part of a wider geoeconomic shift rather than a narrow currency dispute. Lagarde did not present the issue as a formal accusation of currency manipulation but placed the yuan inside a broader debate over macroeconomic imbalances, trade surpluses, and the pressures created by China's export-led growth model [5].
+
+What is driving the issue is tension between China's manufacturing power and the inability of the G7, especially [Europe]({{ site.baseurl }}/regions/europe.html), to absorb its effects. China's rising trade surplus, weak domestic demand, and strong industrial output are increasing pressure on advanced economies already dealing with industrial decline, underinvestment, energy costs, and strategic dependence on Chinese supply chains. A weaker yuan makes Chinese exports more competitive, but the larger issue is the interaction between exchange rates, industrial subsidies, excess manufacturing capacity, and global trade imbalances [5].
+
+The structural change taking place is the gradual politicization of trade and currency relations. Exchange rates are becoming part of the wider contest over industrial power, export competitiveness, and supply chain resilience — not merely macroeconomic variables. Companies exposed to EU-China trade could face more investigations, defensive trade measures, localization requirements, or pressure to diversify suppliers [5].
+
+## A Slow De-Dollarization
+
+GPF's July 2026 Graphic of the Month updates the reserve currency picture. The USD share of global allocated foreign exchange reserves declined from 62.3% in Q1 2020 to 57.1% by Q1 2026 — confirming the structural downward trend. The euro is steadily declining alongside a relatively cautious ECB policy. Non-economic factors are compounding the shift: the unpredictability of US leadership is compelling states to reduce non-economic risks and dependence on US policy by diversifying the currency structure of reserve assets using the euro, yuan, and other currencies [5].
+
+Trading in currencies other than the US dollar is growing, particularly in commodities from BRICS and Shanghai Cooperation Organization members. Commodity traders in Asia and [Latin America]({{ site.baseurl }}/regions/latin-america.html) benefit from local currency transactions, which reduce the need for dollar reserves and stimulate domestic investment. For multinational corporations, de-dollarization creates hedging costs, especially as it slowly creates regional blocs with bespoke trade barriers [5].
+
 # Citations
 
 [1] [Operation Epic Folly(Fury) — Part 9: Gold, The UAE, Currency Swap Lines and the Petrodollar](https://endtropy.substack.com/p/operation-epic-follyfury-part-9-gold)
@@ -67,3 +81,5 @@ The US dollar strengthened modestly as a reserve asset in response to the war, b
 [3] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
 
 [4] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
+
+[5] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)

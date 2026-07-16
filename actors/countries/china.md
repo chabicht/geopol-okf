@@ -5,7 +5,7 @@ parent: Countries
 description: China as a geopolitical actor — coordinating national AI strategy, encircling Taiwan, investing across Central Asia, anchoring the DragonBear axis, and turning toward Maoist ideological mobilization to manage economic slowdown
 tags: [country, military, ai, technology, energy, trade, indo-pacific, central-asia, ideology, economics]
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -76,6 +76,14 @@ The parallels with Mao are structural: emphasis on ideology, centrality of the p
 
 Joe Kent, in conversation with [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html), asserts that China is "exponentially benefiting" from the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), positioning itself as a more appealing partner to Middle Eastern states by offering deals instead of regime change. The war erodes US security guarantees and the petrodollar system, demonstrating US limitations to the world and bolstering China's position in [great power competition]({{ site.baseurl }}/themes/great-power-competition.html), including regarding [Taiwan]({{ site.baseurl }}/conflicts/taiwan-standoff.html) [15].
 
+## EV Industrial Dominance
+
+China's dominance in the [EV industrial competition]({{ site.baseurl }}/themes/ev-competition.html) is structural. In 2025, China alone sold more than 13 million electric cars (55% of new car sales in the Chinese market), accounted for nearly three-quarters of global electric car production, and saw EV exports double to more than 2.5 million units — overtaking [Japan]({{ site.baseurl }}/actors/countries/japan.html) as the global auto sales leader. China was responsible for more than 80% of global battery cell production, with battery prices at roughly $84/kWh compared to as much as 55% higher in North America and Europe. This dominance extends across the entire supply chain: mineral refining, battery manufacturing, vehicle assembly, charging infrastructure, and government coordination [16].
+
+## The Yuan Debate
+
+ECB President Christine Lagarde's call for global leaders to discuss the undervaluation of the Chinese yuan reflects a wider geoeconomic shift. China's rising trade surplus, weak domestic demand, and strong industrial output are increasing pressure on advanced economies. A weaker yuan makes Chinese exports more competitive, but the larger issue is the interaction between exchange rates, industrial subsidies, excess manufacturing capacity, and global trade imbalances. The structural change is the gradual politicization of trade and currency relations — exchange rates are becoming part of the wider contest over industrial power [16]. See [Monetary System Transition]({{ site.baseurl }}/themes/monetary-system-transition.html).
+
 # Analysis
 
 China's strategic position is defined by coordinated action across domains where the US struggles to maintain coherence: AI military integration, maritime grey-zone operations, and resource investment in Central Asia. The DragonBear axis provides a force multiplier, allowing Beijing and Moscow to apply synchronized pressure on the Western coalition. However, China's growth model faces inherent limits that constrain its long-term trajectory.
@@ -113,3 +121,5 @@ Tooze identifies the "gear-shift in Chinese economic policy" as one of four disr
 [14] [China Makes Its Move in Bangladesh](https://geopoliticalfutures.com/china-makes-its-move-in-bangladesh/)
 
 [15] [Live with Prof Robert Pape and Joe Kent](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-and-joe-244)
+
+[16] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)

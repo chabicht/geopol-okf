@@ -25,8 +25,10 @@ permalink: /themes/
 * [Monetary System Transition](monetary-system-transition.html) - Petrodollar cracking, dedollarization, gold accumulation, and the monetary dimension of geopolitical conflict
 * [Sanctions and Financial Warfare](sanctions-and-financial-warfare.html) - Architecture of economic coercion — sanctions design, enforcement gaps, shadow banking, and evasion networks
 * [Insurance and Trade Warfare](insurance-and-trade-warfare.html) - War-risk premiums repricing geography, state-backed insurance pools, and the emergence of parallel insurance architectures
-* [Defense Industrial Resilience](defense-industrial-resilience.html) - Energy and digital infrastructure as core defense vulnerabilities; microreactors, microgrids, and cyber-physical integration
+* [Defense Industrial Resilience](defense-industrial-resilience.html) - Energy and digital infrastructure as core defense vulnerabilities; microreactors, microgrids, cyber-physical integration, and the structural defense spending boom
 * [Inflation and Monetary Policy](inflation-and-monetary-policy.html) - Global inflation driven by the Iran war energy shock; regional breakdowns, three scenarios, central bank responses, and asymmetric business impact
+* [EV Industrial Competition](ev-competition.html) - The global electric vehicle transition as a contest over industrial power — China's battery and mineral dominance versus US and EU industrial policy responses
+* [Geoeconomics of Water](geoeconomics-of-water.html) - Water stress disrupting trade corridors, energy production, agriculture, and manufacturing — water resilience as core risk management
 
 ## Ideology & Information
 
