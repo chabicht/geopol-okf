@@ -2,10 +2,10 @@
 type: Actor
 title: Adam Tooze
 parent: Authors & Analysts
-description: Economic historian and Chartbook author tracking the global economy — China Shock 2.0, financial repression, the AI boom, and the four disrupters of the 2026 world economy
+description: Economic historian and Chartbook author tracking the global economy — China Shock 2.0, financial repression, the AI boom, the four disrupters of the 2026 world economy, the five metamorphoses of the dollar, and hyper-agency as the driver of Western rupture
 tags: [author, economics, trade]
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-15T00:00:00Z
 ---
 
 # Background
@@ -49,11 +49,33 @@ China Shock 2.0 reflects #4. If trade protection and industrial bargaining are t
 
 In Chartbook 456, published on the 250th anniversary of the United States, Tooze frames the AI boom as a world-transforming technology analogous to the atom bomb. The key contrast is political economy: the mid-century transformative technologies (nuclear, rockets) were under state control (Oppenheimer, von Braun), whereas AI is driven by privately developed technology, private money, and the "unfettered egos of tech entrepreneurs" — the broligarchs. The US on its 250th is best understood not as a single coherent agent but as a "zone" — an incubator from which things emerge that defy summation. The BIS Annual Economic Report identifies the AI boom as endogenously generating a China-scale investment and credit boom, with the labor share of income potentially collapsing to 20% over the next forty years. Trillions of dollars are wagered on a vision of total disruption of familiar ways of living and working — a "crossover" monument to the USA at 250 [3].
 
+## The Five Dollar Regimes
+
+In Chartbook 457, Tooze argues that the "dollar system" is not one thing but has undergone five distinct metamorphoses, each with its own political economy — as different from each other as a Model T Ford, a Ford 150 truck, and a modern EV. The sequential "reserve currency" narrative (Genoa → Netherlands → Britain → US) obscures more than it reveals, because it conflates unlike systems under an overly general rubric [4]:
+
+1. **Dollar #1 (1944–1958)**: A complex, asymmetric alliance system centered on America's loan programs and the Marshall Plan. The Bretton Woods agreement was a failed experiment at first — Europe operated its own Payments Union, Britain maintained the sterling zone. Not a functioning gold-anchored system but a postwar aid architecture.
+2. **Dollar #2 (1958–1971)**: Bretton Woods in effect — the dollar anchored on gold, other currencies fixed with convertibility for trade and capital movements. But Wall Street was reviving and chafing against regulation; the offshore eurodollar market was in full swing by the 1960s. The system began to fail almost as soon as it was implemented.
+3. **Dollar #3 (1971–late 1990s)**: The "Wall Street dollar" — Nixon's undoing of the gold peg opened the era of fiat currency and explosive globalization. Volcker's 1979 interest rate shock definitively established the dollar's dominance. The era of recurring financial crises in emerging markets, managed by a tight nexus of Wall Street, the Fed, and the US Treasury (the Goldman Sachs-to-Treasury pipeline).
+4. **Dollar #4 (~2000–~2015)**: Bretton Woods 2.0 — emerging markets, above all China, pegged currencies to the dollar and accumulated reserves as self-insurance against financial crisis. Official reserve accumulation covered America's balance of payments imbalance. "Exorbitant privilege" — but one made by the policy choices of the rest of the world, not the US.
+5. **Dollar #5 (mid-2010s–present)**: The "profit dollar" — official reserve holders stopped building new reserves; the system is now sustained by private capital inflows attracted by the dramatic dominance of US financial markets. America's unequal, K-shaped economy is the "honeypot of global capitalism." Since 2015, Beijing has imposed tight capital controls trapping $50-60 trillion behind a financial firewall. America's deficits are financed by inflows from Europe, South Korea, Taiwan, and Japan — not China. The current dollar is not a "reserve currency" in the time-honored sense of bank vaults and probity; it is above all a promise of liquidity and a vehicle for outsized, unfettered capital accumulation.
+
+Tooze's framework reframes the [monetary system transition]({{ site.baseurl }}/themes/monetary-system-transition.html) debate: asking "what comes after the dollar" presupposes a stable entity called "the dollar system" that has in fact been constantly shifting. The successor to the dollar was the dollar — but that is because it wasn't; the dollar before and after 1971 was a fundamentally different thing [4].
+
+## Hyper-Agency and Western Hegemony Rupture
+
+In Chartbook 458 (conversation with Barnaby Raine), Tooze introduces the concept of "hyper-agency" to explain the current moment in Western politics. The question is why a group of men with destructive fantasies — Netanyahu's project of total regional revision, Musk going to Mars, Trump living out his fantasies in real time, Hegseth with his crusader tattoos — are now in a position to act on them. Tooze traces this to the breakdown of institutional restraint: every prior administration, faced with the prospect of attacking Iran alongside Israel, concluded "that is not what we are going to do" — not from virtue but from the logic of restraint. The current moment is overdetermined but not necessary: the chain of contingent events that led to Hegseth in the Pentagon can be traced, but the outcome was not inevitable [5].
+
+The conversation situates this within the broader theme of Western hegemony rupture — "five hundred years of Western hegemony are coming unstuck." Tooze and Raine debate whether the appropriate response is a politics of universal human freedom (Raine) or a more minimal, ameliorist project of technocratic statecraft (Tooze, channeling Keynes). Tooze identifies Europe as the only conceivable space for an alternative politics, while acknowledging the violence written into the idea of Europe — from settler colonialism to Gaza. He frames Gaza as a test of whether one can distinguish disaster from something defensible: "it was an opportunity to totally fail, and it was crucial not to fail" [5].
+
+Tooze identifies three thinkers as speaking to the current conjuncture: Lenin (conjunctural analysis written in medias res, searching for underlying structure), Keynes (provisional, ameliorist crisis management), and Carl Schmitt. The Green New Deal is discussed as a genuinely comprehensive vision that was broken and lost in the struggles of 2021-22 — "a politics of freedom" that answered the degrowth critique directly but was cut down to little more than green industrial policy [5].
+
 # Sources in Bundle
 
 - "Chartbook 454: China Shock 2.0 and Mercantilist-on-Mercantilist Violence" [1]
 - "Chartbook 455: The AI Boom, China's Walled-In Wealth and the Financial Barriers" [2]
 - "Chartbook 456: Alien v. Predator or MAGA meets AI" [3]
+- "Chartbook 457: The Metamorphoses of the Dollar" [4]
+- "Chartbook 458 Postscript: A Conversation with Barnaby Raine" [5]
 
 # Citations
 
@@ -62,3 +84,7 @@ In Chartbook 456, published on the 250th anniversary of the United States, Tooze
 [2] [Chartbook 455: The AI Boom, China's Walled-In Wealth and the Financial Barriers](https://adamtooze.substack.com/p/chartbook-455-the-ai-boom-chinas)
 
 [3] [Chartbook 456: Alien v. Predator or MAGA meets AI](https://adamtooze.substack.com/p/chartbook-456-alien-v-predator-or)
+
+[4] [Chartbook 457: The Metamorphoses of the Dollar](https://adamtooze.substack.com/p/chartbook-457-the-metamorphoses-of)
+
+[5] [Chartbook 458 Postscript - A Conversation with Barnaby Raine](https://adamtooze.substack.com/p/chartbook-458-poscript-a-conversation)

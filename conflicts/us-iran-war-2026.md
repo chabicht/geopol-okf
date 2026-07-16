@@ -239,6 +239,14 @@ The gap between stated objectives and observable outcomes has introduced uncerta
 
 The [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) can be understood as a manifestation of [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) — the persistent, below-threshold conflict that adversaries wage against the United States. Iran's network of proxies and surrogates, built over decades, allows Tehran to project power and coerce neighbors at relatively low cost. The IRGC is an enabler of Iran's distributed networks with global reach. The war demonstrated that when adversaries practice Endless Warfare, conventional military superiority alone cannot compel outcomes — the adversary's theory of victory may be narrower (survival rather than conquest) and therefore more resilient [29].
 
+## Ceasefire Collapse (July 2026)
+
+Around July 13, 2026, the Versailles Memorandum collapsed. [Trump]({{ site.baseurl }}/actors/trump.html) reinstated the blockade; [Iran]({{ site.baseurl }}/actors/countries/iran.html) resumed drone and missile strikes on shipping. Iran, emboldened by its success in defying America, demanded sovereignty over the Strait of Hormuz. Trump declared he would collect 20% tolls on all shipping traffic, then shifted to demanding that countries invest in the United States as a condition for passage — both proposals wildly illegal and impossible to enforce. See [Hormuz Ceasefire Collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) [30][31].
+
+[Paul Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html) argues the ceasefire collapse will do less economic damage than expected — not because Hormuz is stable but because the binding constraint has shifted from crude supply to refining capacity. Roughly 10% of world refining capacity is offline, primarily from Ukraine's drone campaign against Russian refineries in the parallel [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html). The effective consumer price of oil (weighted gasoline + diesel) rose approximately $75/barrel during the war, while crude rose only $45 — high consumer prices kept demand depressed even when crude prices nearly normalized. A Hormuz reopening would add crude but not usable fuel, since the world lacks the capacity to refine it. The pain at the pump will continue and inflation will remain sticky [30].
+
+Krugman identifies the overarching moral: the immense folly and criminality of a war that has left America and the world in a much worse place than if Trump had preserved the 2015 Iran deal. Trump cannot admit the venture failed — he can never admit that anything failed. The strategy has shifted from "pretend we won" to bombing Iran with no clear strategy, no path to victory, and no hint that anything might be resolved in a way that would help Republican chances in the midterms [31].
+
 # Citations
 
 [1] [Iran's Regime Is Headed for a Hard Landing](https://geopoliticalfutures.com/irans-regime-is-headed-for-a-hard-landing/)
@@ -298,3 +306,7 @@ The [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) can be und
 [28] [Outgunned, But Not Outplayed: Iran's Theory of Victory](https://warontherocks.com/outgunned-but-not-outplayed-irans-theory-of-victory/)
 
 [29] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)
+
+[30] [Suddenly, Hormuz is Less Crucial Than It Was](https://paulkrugman.substack.com/p/suddenly-hormuz-is-less-crucial-than)
+
+[31] [The Forever War Gets Scary](https://paulkrugman.substack.com/p/the-forever-war-gets-scary)

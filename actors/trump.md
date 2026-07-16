@@ -3,7 +3,7 @@ type: Actor
 title: Donald Trump
 parent: Actors
 description: 45th and 47th President of the United States; central decision-maker in the 2026 US-Iran war and US-Russia policy.
-tags: [leader, military, trade, latin-america, oligarchy, europe, africa]
+tags: [leader, military, trade, latin-america, oligarchy, europe, africa, energy, elections]
 status: ongoing
 timestamp: 2026-07-15T00:00:00Z
 ---
@@ -102,6 +102,24 @@ Applebaum documents the accelerating monetization of presidential power through 
 
 Applebaum frames [Lindsey Graham]({{ site.baseurl }}/actors/lindsey-graham.html) as the quintessential Trump-era politician — a man who shifted 180 degrees from calling Trump a "race-baiting, xenophobic, religious bigot" to becoming one of his most important defenders. Graham's need to be relevant at any cost exemplifies the broader pattern of institutional collaboration under Trump. His unexpected death in July 2026 prompted reflection on the cost of complicity [20].
 
+## Hormuz Ceasefire Collapse
+
+Around July 13, 2026, Trump let the [Iran ceasefire]({{ site.baseurl }}/events/iran-ceasefire-mou.html) collapse. He reinstated the blockade; [Iran]({{ site.baseurl }}/actors/countries/iran.html) resumed drone strikes. Trump's positions were wildly erratic — first declaring he would collect 20% tolls on all Hormuz shipping (wildly illegal and impossible), then demanding countries invest in the United States as a condition for passage (equally illegal). See [Hormuz Ceasefire Collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) [21][22].
+
+[Paul Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html) argues the collapse signals that Trump has given up on extracting anything resembling victory. A few days earlier, it appeared he would de facto pull out, take advantage of falling oil prices, and spin the story as an American victory. That was doomed but at least a serious attempt to end the conflict. Trump emotionally could not bring himself to admit failure — the strategy shifted from "pretend we won" to "bomb Iran with no clear strategy" [22].
+
+## Election Interference Pivot
+
+With the Iran war unable to deliver a victory narrative, Trump's strategy for the midterm elections has shifted to preparing the groundwork for massive interference. He announced a primetime speech reportedly about 2020 election fraud, with reports hinting he may try to declare the two Democratic senators from Georgia illegitimate. Krugman argues this is stage-setting for blocking fair November elections — possibly blocking elections entirely. The proposition that "there are things even Trump would not do" has been "the best way to be wrong about everything, every step of the Trump administration." See [Trump Election Interference Pretext]({{ site.baseurl }}/events/trump-election-fraud-pretext-2026.html) [22].
+
+## The Oligarchy Spiral
+
+Krugman describes a self-reinforcing downward spiral of oligarchy: the political power of the hyper-wealthy tilts policy in their favor, and this policy tilt reinforces their wealth and power. The clearest case is corporate taxation — from 35% in the 1960s to around 12% today, despite overwhelming and stable public opposition. Gallup polling over 20+ years shows a huge majority saying corporations pay too little, yet taxes keep going down. The mechanisms are campaign finance (Citizens United), corruption (under Trump 2.0 shifting to open cash and crypto), and information environment shaping (right-wing think tanks shifting the Overton Window). The 2017 corporate tax cuts produced no surge in US investment — confirming no trickle-down. The decline was a massive indirect tax cut for wealthy stockholders, fueling the spiral [23].
+
+## Hyper-Agency
+
+[Adam Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) frames Trump as a case study in "hyper-agency" — the question of why men with destructive fantasies are now in a position to act on them. Every prior administration, faced with the prospect of attacking Iran alongside Israel, concluded "that is not what we are going to do." The chain of contingent events leading to Trump acting on his impulses can be traced — the situation is overdetermined but not necessary. The dismantling of institutional restraints (the courts via [Slaughter]({{ site.baseurl }}/events/slaughter-scotus-ruling.html), the civil service via oligarchic capture, the alliance system via transactional diplomacy) has left the personal psychology of the leader as the remaining constraint — the most volatile possible [24].
+
 # Analysis
 
 ### The Leader-as-Decision-Maker Thesis
@@ -155,3 +173,11 @@ Applebaum's Kleptocracy Tracker provides the documentary record: the Qatari jet,
 [19] [July 5, 2026](https://heathercoxrichardson.substack.com/p/july-5-2026)
 
 [20] [The Quintessential Trump-era Politician](https://anneapplebaum.substack.com/p/the-quintessential-trump-era-politician)
+
+[21] [Suddenly, Hormuz is Less Crucial Than It Was](https://paulkrugman.substack.com/p/suddenly-hormuz-is-less-crucial-than)
+
+[22] [The Forever War Gets Scary](https://paulkrugman.substack.com/p/the-forever-war-gets-scary)
+
+[23] [Oligarchy in Action: The Case of Corporate Tax Cuts](https://paulkrugman.substack.com/p/oligarchy-in-action-the-case-of-corporate)
+
+[24] [Chartbook 458 Postscript - A Conversation with Barnaby Raine](https://adamtooze.substack.com/p/chartbook-458-poscript-a-conversation)
