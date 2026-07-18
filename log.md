@@ -4,6 +4,112 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-07-18 — Consolidation Pass 2: Bundle-Wide Narrative Refactoring
+
+Two-pass consolidation spanning 21 concept files across all concept types,
+reorganizing source-organized section lists into thematically woven multi-author
+prose. Used parallel subagents per concept-type cluster across 5 waves.
+Created 1 new conflict file. Fixed heading-structure anomalies, citation gaps,
+and link bugs.
+
+**Files refactored:**
+
+Conflicts:
+- [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) — 25 → 10 thematic clusters
+  (Ukrainian Strike Campaigns, Russian Strikes/Air-Defense, Russian Force &
+  Paradox of Mass, Regime Defeat vs Resilience, War Economy & Sanctions,
+  Ukrainian Adaptation & Cost-Exchange, Belarus, Demographic Engineering,
+  US Political Dimension, Strategic Outlook). Moved energy-cascade content to
+  theme, Trump posture to actor, NATO implications to actor.
+- [Taiwan Standoff]({{ site.baseurl }}/conflicts/taiwan-standoff.html) — 9 → 4 thematic clusters
+  (Gray-Zone Coercion, Blockade-Rehearsal Arc, PLA Capability, Diplomatic
+  Dimension). Moved DragonBear framework to Cold War 2; fixed Britain link bug.
+- [Cold War 2]({{ site.baseurl }}/conflicts/cold-war-2.html) — 7 → 4 thematic clusters
+  (DragonBear Axis, Systemic Competition/Bandwidth, Avenues, India Swing).
+  Merged DragonBear content split across Current-Situation/Analysis boundary;
+  received content from Taiwan.
+- [Tigray Conflict]({{ site.baseurl }}/conflicts/tigray-conflict.html) — **new file** created from
+  Ethiopia's Tigray Gray Zone operational content (5 subsections). Cross-linked
+  bidirectionally with Ethiopia actor.
+
+Themes:
+- [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) — 24 → 6 thematic clusters
+  (Substrate of Power, Depletion/Red Queen, Diesel-Refining Bottleneck,
+  Chokepoint/Hormuz, Renewable Transition/Material Limits, Regional Postures).
+  Received energy-cascade content from Russia-Ukraine conflict.
+- [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html) — 21 → 5 clusters
+  (Legitimacy Crisis, Kleptocracy/Oligarchic Capture, Institutional Restraint,
+  Communism as Failed Ideology, Comparative Democratic Decline). Merged 2
+  duplicated Kleptocracy Tracker sections, 3 communism sections.
+- [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) — 12 → 5 clusters
+  (Cost-Exchange Inversion, Doctrinal Adaptation, Drone Diplomacy, Arms Industry
+  Rethink, LCBG). Moved deep-strike case material to conflict; received
+  cost-exchange framework from conflict.
+- [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) — 16 → 9 clusters.
+  Merged framework origins; trimmed 3 cross-theme stubs to cross-links.
+- [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) — 11 → 8 clusters.
+  Merged 4 energy/cyber subsections; de-duplicated cost-curve and AI-cyber content.
+- [Monetary System Transition]({{ site.baseurl }}/themes/monetary-system-transition.html) — 9 → 5 clusters.
+  Merged 3 GPF-monthly fragments into one synthesized trend section.
+- [Critical Minerals]({{ site.baseurl }}/themes/critical-minerals.html) — 12 → 5 clusters.
+  Merged 4 REE technical sections, 4 China-position sections.
+
+Country actors:
+- [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) — 12 → 6 thematic clusters. Moved 9
+  operational sections to conflict file; restored actor-owned doctrine/posture.
+- [Ethiopia]({{ site.baseurl }}/actors/countries/ethiopia.html) — ~15 → 6 clusters. Moved Tigray
+  operations to new conflict file; merged sea-access fragments.
+- [United States]({{ site.baseurl }}/actors/countries/united-states.html) — 23 → 9 clusters. Wove
+  domestic-dynamics and political-economy fragments into multi-author prose.
+- [Germany]({{ site.baseurl }}/actors/countries/germany.html) — 15 → 7 clusters. Merged 5
+  military-strategy fragments, 4 economic fragments.
+- [China]({{ site.baseurl }}/actors/countries/china.html) — 17 → 10 clusters. Merged 4
+  political-economy fragments; reduced CMC Purge to event cross-link.
+- [India]({{ site.baseurl }}/actors/countries/india.html) — 11 → 6 clusters. Merged 4 US-relationship
+  fragments; fixed misplaced heading under Analysis.
+- [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) — 8 → 5 clusters. Merged 3 Africa
+  fragments; promoted Autocratisation from Analysis to Current Situation.
+
+Leader/org actors:
+- [Trump]({{ site.baseurl }}/actors/trump.html) — 26 → 7 thematic clusters. Merged 2 duplicated
+  Kleptocracy Tracker sections; wove 6 stubs into thematic sections; moved
+  event/conflict operational details out.
+- [EU]({{ site.baseurl }}/actors/organizations/eu.html) — 10 → 4 clusters. Fixed outline anomaly;
+  merged source-per-paragraph sections.
+- [Putin]({{ site.baseurl }}/actors/putin.html) — 4 → 3 clusters. Fixed malformed heading outline.
+- [Lindsey Graham]({{ site.baseurl }}/actors/lindsey-graham.html) — converted bulleted quote dump to
+  woven prose; fixed heading levels.
+- [ASEAN]({{ site.baseurl }}/actors/organizations/asean.html) — 6 → 2 clusters. Merged 4 energy
+  fragments into woven prose.
+- [Social Design Agency]({{ site.baseurl }}/actors/organizations/social-design-agency.html) — 5 → 2 clusters.
+- [Wagner/Africa Corps]({{ site.baseurl }}/actors/organizations/wagner-africa-corps.html) — 4 → 2 clusters.
+
+Author/event:
+- [CSIS]({{ site.baseurl }}/actors/authors/csis.html) — fixed corrupted duplicate structure (mechanical).
+- [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) — 19 → 8 sections. Compressed 7
+  time-bound forecasts to posture + cross-links.
+- [Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) — 13 → 9 sections.
+  Compressed 4 event-duplicated sections to posture + links; moved Graham
+  analysis to Graham actor file.
+- [Geopolitical Futures]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) — replaced 50-line
+  stub-farm index with 4 framework sections.
+- [RUSI]({{ site.baseurl }}/actors/authors/rusi.html) — 10 → 9 sections. Compressed 3
+  event-duplicated sections to posture + links.
+- [NATO Ankara Summit 2026]({{ site.baseurl }}/events/nato-ankara-summit-2026.html) — 12 → 6
+  thematic clusters. Re-themed by-author sections into multi-author woven prose.
+
+**Structural changes:**
+- Reorganized ~280 source-organized sections into ~130 thematic clusters across 21 files
+- Created 1 new conflict file (Tigray Conflict)
+- Moved conflict operations from 2 actor files to conflict files (Ukraine, Ethiopia)
+- Moved theme-level content from conflict files to theme files (energy cascade, cost-exchange)
+- Moved actor-posture content from conflict files to actor files (Trump, NATO)
+- Fixed heading-structure anomalies in 5 files (## sections after # Analysis)
+- Fixed citation numbering gaps in 4 files (renumbered after content migrations)
+- Fixed link bugs (Taiwan Britain→france.html, Sahel Mali→africa.html)
+- Refreshed 22 timestamps
+- Validation: 0 errors, 51 warnings (pre-existing broken links and orphaned citations)
+
 ## 2026-07-18 — Consolidation Pass 1: Narrative Refactoring
 
 Two-pass consolidation: refactored 4 concept files for narrative coherence,

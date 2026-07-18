@@ -13,4 +13,5 @@ permalink: /conflicts/
 * [Russia-Ukraine War](russia-ukraine-war.html) - Full-scale invasion since Feb 2022; attritional with Ukrainian deep strikes and Crimea isolation
 * [Taiwan Standoff](taiwan-standoff.html) - China's gray-zone campaign: military encirclement, coast guard harassment, espionage
 * [Sahel Insurgency](sahel-insurgency.html) - Jihadist insurgency across Mali, Burkina Faso, Niger with great power competition
+* [Tigray Conflict](tigray-conflict.html) - Post-Pretoria gray zone in Ethiopia's Tigray region: disputed territories, TPLF fracture, regional spillover
 * [Cold War 2](cold-war-2.html) - Systemic US-led order vs DragonBear axis competition across multiple theaters
