@@ -5,7 +5,7 @@ parent: Regions
 description: Landlocked region between Russia, China, and Iran experiencing rapid economic growth, diversifying away from Russian influence, and benefiting from new connectivity corridors as Russia's southern grip erodes.
 tags: [central-asia, trade, critical-minerals, energy, caucasus]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-18T00:00:00Z
 ---
 
 # Background
@@ -14,23 +14,23 @@ Central Asia is a landlocked region situated between [Russia]({{ site.baseurl }}
 
 # Current Situation
 
-- [Uzbekistan]({{ site.baseurl }}/actors/countries/uzbekistan.html) hosted the Tashkent International Investment Forum: over 10,000 participants from 100+ countries.
-- [Kazakhstan]({{ site.baseurl }}/actors/countries/kazakhstan.html) hosted C5+1 critical minerals talks, positioning the region in global supply chains. See [Critical Minerals]({{ site.baseurl }}/themes/critical-minerals.html).
-- Growth figures: Kazakhstan 10.7%, Tajikistan 18%, Uzbekistan 21.7% capital investment growth (2023–25).
-- Uzbekistan FDI increased 45x since 2016.
-- Domestic investment drives growth — over 55% comes from businesses and households rather than state expenditure.
-- China is the largest investor: $35.9 billion accumulated by mid-2025, up from approximately $23 billion in 2020.
-- China is shifting from infrastructure lending to manufacturing relocation and mineral extraction.
-- Western countries are interested but selective due to sanctions risk and limited access.
-- [Russia]({{ site.baseurl }}/actors/countries/russia.html) is attempting to revitalize the [CSTO]({{ site.baseurl }}/themes/layered-security.html) as a tool for maintaining dialogue and standardizing Central Asian militaries on Russian equipment [2].
-- The Trump Route corridor — connecting Azerbaijan to Nakhchivan through Armenian territory — is removing a major bottleneck in the Middle Corridor (a China-to-Europe trade route bypassing Russia), reducing dependence on Russian transit [3].
-- C5+1 summits with the US (2023 in New York, 2025 at the White House) reflect growing US engagement and Central Asian interest in strategic diversification [3].
-- National language revival and the steady decline of Russian as the default lingua franca mirror the region's political reorientation [3].
-- Kazakhstan and Uzbekistan lead the region, testing the limits of reform while navigating US-China-Russia dynamics [4].
-- **Iran war economic repercussions**: Colibasanu (GPF) reports that the war affected this region unevenly. Energy exporters — [Russia]({{ site.baseurl }}/actors/countries/russia.html), Azerbaijan, Kazakhstan, and Turkmenistan — benefited from the uptick in oil prices. Energy importers — Tajikistan, Armenia, Kyrgyzstan, Georgia, and to a lesser extent Uzbekistan — were hit harder. The region is fairly resilient because it engages in limited trade with Iran directly, and much of the region's energy needs are met by the regional market. However, Iran imposed a temporary ban on food and agricultural product exports in March, raising prices throughout Central Asia. Turkmenistan is vulnerable due to its dependence on Iranian food and household goods imports. Uzbekistan depends on Iran for dairy products (8-10% of imports). Tajikistan is almost entirely dependent on imported sugar, some of which comes from Iran [5].
-- **Transportation and corridor disruption**: The war complicates the use of the International North-South Transport Corridor (INSTC), which connects Russia, the Caucasus, and Central Asia with India and the Persian Gulf states. Uzbekistan uses the southern corridor through Iranian seaports for up to 60% of cargo from Turkey and Europe. Goods from Europe, Persian Gulf countries, and India typically arrive in Dubai, transit the Strait of Hormuz to Iranian ports such as Bandar Abbas, and are then transported by rail or truck through Turkmenistan. The war has delayed deliveries and complicated joint transportation projects. The short-term impact is notable — especially regarding inflation — but trade has not stopped altogether, and the longer-term inaccessibility of Iranian territory for cargo transit necessitates the implementation of alternative logistics routes [5].
+## Economic Growth and Diversification
 
-- **Caspian Sea water level decline**: The Caspian has been receding for decades, creating a strategic problem for a region built around energy, ports, fisheries, and trans-Caspian connectivity. Falling water levels can complicate port access, reduce draft, require dredging, and raise the cost of maintaining maritime infrastructure for ports in Azerbaijan, [Kazakhstan]({{ site.baseurl }}/actors/countries/kazakhstan.html), and Turkmenistan. The Caspian is shared by five states, and its levels are affected not only by climatological factors but also by management, dams, irrigation, and upstream water use, especially in the Volga basin — creating an international governance problem. Turkmenistan also faces water shortages linked to broader Central Asian water stress. See [Geoeconomics of Water]({{ site.baseurl }}/themes/geoeconomics-of-water.html) [6].
+[Uzbekistan]({{ site.baseurl }}/actors/countries/uzbekistan.html) hosted the Tashkent International Investment Forum: over 10,000 participants from 100+ countries. [Kazakhstan]({{ site.baseurl }}/actors/countries/kazakhstan.html) hosted C5+1 critical minerals talks, positioning the region in global supply chains. See [Critical Minerals]({{ site.baseurl }}/themes/critical-minerals.html). Growth figures: Kazakhstan 10.7%, Tajikistan 18%, Uzbekistan 21.7% capital investment growth (2023–25). Uzbekistan FDI increased 45x since 2016. Domestic investment drives growth — over 55% comes from businesses and households rather than state expenditure. China is the largest investor: $35.9 billion accumulated by mid-2025, up from approximately $23 billion in 2020. China is shifting from infrastructure lending to manufacturing relocation and mineral extraction. Western countries are interested but selective due to sanctions risk and limited access [1].
+
+## Geopolitical Balancing
+
+[Russia]({{ site.baseurl }}/actors/countries/russia.html) is attempting to revitalize the [CSTO]({{ site.baseurl }}/themes/layered-security.html) as a tool for maintaining dialogue and standardizing Central Asian militaries on Russian equipment [2]. The Trump Route corridor — connecting Azerbaijan to Nakhchivan through Armenian territory — is removing a major bottleneck in the Middle Corridor (a China-to-Europe trade route bypassing Russia), reducing dependence on Russian transit [3]. C5+1 summits with the US (2023 in New York, 2025 at the White House) reflect growing US engagement and Central Asian interest in strategic diversification [3]. National language revival and the steady decline of Russian as the default lingua franca mirror the region's political reorientation [3]. Kazakhstan and Uzbekistan lead the region, testing the limits of reform while navigating US-China-Russia dynamics [4].
+
+## Iran War Economic Fallout
+
+Colibasanu (GPF) reports that the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) affected this region unevenly. Energy exporters — [Russia]({{ site.baseurl }}/actors/countries/russia.html), Azerbaijan, Kazakhstan, and Turkmenistan — benefited from the uptick in oil prices. Energy importers — Tajikistan, Armenia, Kyrgyzstan, Georgia, and to a lesser extent Uzbekistan — were hit harder. The region is fairly resilient because it engages in limited trade with Iran directly, and much of the region's energy needs are met by the regional market. However, Iran imposed a temporary ban on food and agricultural product exports in March, raising prices throughout Central Asia. Turkmenistan is vulnerable due to its dependence on Iranian food and household goods imports. Uzbekistan depends on Iran for dairy products (8-10% of imports). Tajikistan is almost entirely dependent on imported sugar, some of which comes from Iran [5].
+
+The war complicates the use of the International North-South Transport Corridor (INSTC), which connects Russia, the Caucasus, and Central Asia with India and the Persian Gulf states. Uzbekistan uses the southern corridor through Iranian seaports for up to 60% of cargo from Turkey and Europe. Goods from Europe, Persian Gulf countries, and India typically arrive in Dubai, transit the Strait of Hormuz to Iranian ports such as Bandar Abbas, and are then transported by rail or truck through Turkmenistan. The war has delayed deliveries and complicated joint transportation projects. The short-term impact is notable — especially regarding inflation — but trade has not stopped altogether, and the longer-term inaccessibility of Iranian territory for cargo transit necessitates the implementation of alternative logistics routes [5].
+
+## Caspian Water Crisis
+
+The Caspian has been receding for decades, creating a strategic problem for a region built around energy, ports, fisheries, and trans-Caspian connectivity. Falling water levels can complicate port access, reduce draft, require dredging, and raise the cost of maintaining maritime infrastructure for ports in Azerbaijan, [Kazakhstan]({{ site.baseurl }}/actors/countries/kazakhstan.html), and Turkmenistan. The Caspian is shared by five states, and its levels are affected not only by climatological factors but also by management, dams, irrigation, and upstream water use, especially in the Volga basin — creating an international governance problem. Turkmenistan also faces water shortages linked to broader Central Asian water stress. See [Geoeconomics of Water]({{ site.baseurl }}/themes/geoeconomics-of-water.html) [6].
 
 # Key Dynamics
 
