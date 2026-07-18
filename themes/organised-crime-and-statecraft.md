@@ -9,7 +9,7 @@ tags:
   - cognitive-warfare
   - hybrid
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-18T00:00:00Z
 ---
 
 # Background
@@ -57,6 +57,15 @@ Iran's shadow banking system illustrates the sophistication of the crime-statecr
 
 The crime-statecraft nexus complicates [sanctions enforcement]({{ site.baseurl }}/themes/sanctions-and-financial-warfare.html) because criminal networks operate outside the regulated financial system. Traditional sanctions target banks and formal financial institutions; they are less effective against shadow banking, cryptocurrency, and barter-based trade networks. The mismatch between sanctions design (goods-level HS codes) and bank monitoring (customer-level ISIC codes) further weakens detection capability [4].
 
+## Armed Criminal Networks and Military Drone Technology
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) (Carneiro Júnior) identifies a parallel transformation on the other side of the state's monopoly on force: armed criminal-governance networks are adopting military-grade [drone warfare]({{ site.baseurl }}/themes/drone-warfare.html) technology, reproducing the cost-exchange asymmetry between great powers at a sub-state scale [5]:
+
+- **[Mexico]({{ site.baseurl }}/actors/countries/mexico.html)**: The Jalisco New Generation Cartel (CJNG) maintains a dedicated "Drone Operators" unit with its own insignia, has flown explosive-laden drones against state prosecutors' offices and rival groups, and was linked to roughly 40 incidents in a single dataset spanning 2021-25, alongside more than 130 further attacks attributed to unidentified criminal groups. Weaponised drones have been used operationally since at least 2020.
+- **[Colombia]({{ site.baseurl }}/actors/countries/colombia.html)**: Dissident factions of the former FARC have adopted the same tactics against army and police installations in the country's south-west.
+
+These are not isolated curiosities but evidence that the asymmetry between great powers — cheap mass defeating expensive platforms — is reproducing itself between states and armed non-state actors operating inside their own territory. The Ukrainian doctrine for modified commercial drones is being studied by security services worldwide and, on the evidence, by criminal organisations monitoring the same developments at least as closely. The category of conflict these networks create — combining territorial control, transnational financing, lawfare against the state, and growing use of military-grade technology — fits awkwardly into existing doctrine, which is built for either conventional war or conventional policing. Capability of this kind migrates faster than the policing doctrine built to anticipate it [5].
+
 # Citations
 
 [1] [The Changing Face of Organised Crime](https://www.rusi.org/explore-our-research/publications/commentary/changing-face-organised-crime)
@@ -66,3 +75,5 @@ The crime-statecraft nexus complicates [sanctions enforcement]({{ site.baseurl }
 [3] [Suspicious Transaction Report: Iran's External Operations with Matthew Levitt](https://traffic.libsyn.com/secure/forcedn/suspicioustransactionreport/260605_STR_Matthew_Levitt_V1.mp3)
 
 [4] [Decoding Sanctions: How Governments can get the Best out of Banks](https://www.rusi.org/explore-our-research/publications/commentary/decoding-sanctions-how-governments-can-get-best-out-banks)
+
+[5] [The Algorithmic Deterrent](https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/algorithmic-deterrent)

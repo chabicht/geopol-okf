@@ -139,6 +139,10 @@ O'Brien identifies a structural asymmetry in the conflict: cheap mass has greate
 
 The broader conclusion O'Brien draws is that the US war machine is built on wrong principles — expensive, technologically advanced systems in small numbers, optimized for a paradigm of warfare that [drone warfare]({{ site.baseurl }}/themes/drone-warfare.html) has rendered obsolete [2].
 
+## AI-Enabled Targeting: Maven Smart System
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) (Carneiro Júnior) documents the operational role of Palantir's Maven Smart System during Operation Epic Fury. The platform — descended from Project Maven, which provoked internal revolt at Google before Palantir took it over — fused satellite reconnaissance, persistent drone surveillance, signals intelligence, and population pattern-of-life analysis to identify, prioritise, and recommend strike packages. By April 9, US Central Command reported more than 13,000 strikes against Iranian targets, roughly 1,000 on the opening day alone. Palantir's CTO told Bloomberg Television the conflict would be remembered as the first major war in which AI played a central role. The juxtaposition is analytically significant: a war fought substantially over the survival of Iran's nuclear programme is difficult evidence for Palantir's manifesto claim that "the atomic age is ending, and a new era of deterrence built on AI is set to begin." See [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html) [41].
+
 ## Controlled Instability
 
 Pape introduces the concept of "controlled instability" as Iran's post-war strategic doctrine: persistent low-level disruptions — drone incidents, insurance volatility, shipping harassment — that sustain a geopolitical risk premium on oil without requiring total Hormuz closure. This approach allows Iran to monetize its chokepoint leverage continuously rather than wielding it as a binary weapon. If oil stays above $90, Iran's fiscal position strengthens while Western economies absorb the inflationary cost [16].
@@ -248,6 +252,12 @@ Around July 13, 2026, the escalation deepened further. Trump reinstated the bloc
 [Paul Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html) argues the ceasefire collapse will do less economic damage than expected — not because Hormuz is stable but because the binding constraint has shifted from crude supply to refining capacity. Roughly 10% of world refining capacity is offline, primarily from Ukraine's drone campaign against Russian refineries in the parallel [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html). The effective consumer price of oil (weighted gasoline + diesel) rose approximately $75/barrel during the war, while crude rose only $45 — high consumer prices kept demand depressed even when crude prices nearly normalized. A Hormuz reopening would add crude but not usable fuel, since the world lacks the capacity to refine it. The pain at the pump will continue and inflation will remain sticky [30].
 
 Krugman identifies the overarching moral: the immense folly and criminality of a war that has left America and the world in a much worse place than if Trump had preserved the 2015 Iran deal. Trump cannot admit the venture failed — he can never admit that anything failed. The strategy has shifted from "pretend we won" to bombing Iran with no clear strategy, no path to victory, and no hint that anything might be resolved in a way that would help Republican chances in the midterms [31].
+
+## The Diesel Crack Spread and the Real Price of Oil
+
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) extends the refining-capacity analysis with physical supply chain data. Despite the ceasefire collapse, tanker attacks, the US naval blockade, and transits through Hormuz falling to single digits, oil prices gained only ~12% over the week — not because the situation is stable but because the binding constraint has moved upstream of crude supply. Nearly 3 million bpd of Middle East refining capacity shut down; refineries globally cut back by 9 million bpd (more than 10% of global capacity). [China]({{ site.baseurl }}/actors/countries/china.html)'s refinery runs crashed to pandemic lows as crude imports collapsed 40%+. With refineries reluctant to restart and shippers unwilling to risk the strait, physical demand for crude remains extremely low — and with no buyers, prices fall, not rise [42].
+
+The real economic damage is visible in the crack spread: ultra-low sulfur diesel reached $168 per barrel against ~$80 crude. Russian diesel exports collapsed from 800,000 bpd to zero under the Ukrainian drone campaign. Persian Gulf diesel exports fell by more than 520,000 bpd. [India]({{ site.baseurl }}/actors/countries/india.html) — now the refining swing producer — doubled export duties to keep barrels domestic. The [SPR]({{ site.baseurl }}/events/spr-depletion-crisis.html) drawdown rate fell from ~1.3 million bpd in mid-June to 0.43 million by July 10, trending toward zero by early August. Basing decisions on crude prices alone — in a world stripped of refining capacity where multiple wars are waged over energy — has become a civilizational risk, not merely a bad economic forecast [42].
 
 ## The Escalation Trap Deepens (July 2026)
 
@@ -428,3 +438,7 @@ Key DOD line items include $21 billion for munitions (only ~$7.6B estimated for 
 [39] [The Future of Russian Sanctions After the Hormuz Crisis](https://www.rusi.org/explore-our-research/publications/commentary/future-russian-sanctions-after-hormuz-crisis)
 
 [40] [War Costs Make Up a Third of the $87.6 Billion Supplemental Request](https://www.csis.org/analysis/war-costs-make-third-876-billion-supplemental-request) and [Understanding Russia-Iran Collaboration in Cyberspace](https://www.csis.org/analysis/understanding-russia-iran-collaboration-cyberspace)
+
+[41] [The Algorithmic Deterrent](https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/algorithmic-deterrent)
+
+[42] [The Oil Price "Mystery"](https://thehonestsorcerer.substack.com/p/the-oil-price-mystery)

@@ -11,7 +11,7 @@ tags:
   - supply-chain
   - trade
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-18T00:00:00Z
 ---
 
 # Background
@@ -86,6 +86,16 @@ Frontier models were already "outperforming 94% of expert virologists" as of 202
 
 This extends the [AI military race]({{ site.baseurl }}/themes/ai-military-race.html) framework: the competition is not only about models and deployment speed but about the institutional architecture for managing dual-use risks. The country that builds the structures to share threat intelligence, conduct classified model evaluations, and maintain public-private trust will gain an enduring advantage — institutional restructuring is harder and slower than technology adoption [8].
 
+## Algorithmic Deterrence and the Post-Atomic Era
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) (Francisco Carneiro Júnior) identifies a doctrine-level shift announced by Palantir Technologies' 22-point manifesto (posted April 18-19, 2026, accumulating 32 million views). Point 12 states the shift directly: "One age of deterrence, the atomic age, is ending, and a new era of deterrence built on AI is set to begin." The new deterrent is not nuclear but algorithmic — whoever controls the most capable autonomous targeting algorithms, real-time data-fusion platforms, ML-driven electronic warfare, and AI-coordinated drone swarms will hold strategic weight approaching what the bomb conferred in the last century. The crucial difference: this technology does not cost billions to reproduce. A commercial kamikaze drone costing a few hundred dollars can destroy a tank costing fifteen million; a swarm of a hundred coordinated autonomous drones can saturate most conventional air-defence systems on the planet. The asymmetry of power has changed sides [9].
+
+The manifesto's four arguments: (1) a claim of moral debt — Silicon Valley grew rich under American protection and owes service to the state; (2) the primacy of hard power — "hard power in this century will be built on software"; (3) structural Western rearmament — universal national service, reversal of postwar disarmament settlements on Germany and Japan; (4) a critique of cultural egalitarianism. A fifth, quieter layer calls for less public scrutiny of officials and more tolerance for private failings — strategically convenient for a company operating through classified contracts and NDAs [9].
+
+The evidence is not abstract. Palantir's Maven Smart System — descended from Project Maven, which provoked internal revolt at Google before Palantir took it over — fused satellite reconnaissance, drone surveillance, signals intelligence, and pattern-of-life analysis to identify, prioritise, and recommend strike packages during [Operation Epic Fury]({{ site.baseurl }}/conflicts/us-iran-war-2026.html). By April 9, US Central Command reported more than 13,000 strikes against [Iranian]({{ site.baseurl }}/actors/countries/iran.html) targets, roughly 1,000 on the opening day alone. Palantir's CTO told Bloomberg the conflict would be remembered as the first major war in which AI played a central role. The juxtaposition is striking: a war fought substantially over the survival of Iran's nuclear programme is difficult evidence for the proposition that nuclear weapons no longer organise great-power behaviour [9].
+
+This connects to the broader [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html): the de-humanizing of the battlefield is not only about drones and sensors but about algorithmic targeting compressing decision cycles below human deliberation speed. The six lessons Carneiro draws for retaining sovereignty — digital sovereignty as autonomous information-processing capacity, organised crime as low-intensity conflict requiring its own doctrine, OODA-loop speed as a survival requirement, training for the war being fought not the war that was fought, drawing the line between security and surveillance before technology erases it, and the need to deliberately choose a side in the emerging technological order — frame algorithmic warfare as a civilizational choice, not a procurement decision. See also [Tech Stack Diplomacy]({{ site.baseurl }}/themes/tech-stack-diplomacy.html) for the digital sovereignty dimension and [Organised Crime and Statecraft]({{ site.baseurl }}/themes/organised-crime-and-statecraft.html) for the criminal-network adoption of drone technology [9].
+
 # Citations
 
 [1] https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military
@@ -100,3 +110,5 @@ This extends the [AI military race]({{ site.baseurl }}/themes/ai-military-race.h
 [7] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
 
 [8] [Before the Next Mythos Moment: The Case for an AI Threat Fusion Center](https://warontherocks.com/before-the-next-mythos-moment-the-case-for-an-ai-threat-fusion-center/)
+
+[9] [The Algorithmic Deterrent](https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/algorithmic-deterrent)

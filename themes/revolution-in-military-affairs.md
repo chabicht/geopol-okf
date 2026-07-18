@@ -82,6 +82,10 @@ O'Brien's conclusion: the de-humanizing of war will be the greatest revolution i
 
 The AI dimension is critical: the LCBG requires rapid decision-making localised at the vehicle and platform level — not just at higher-echelon HQs. Big-data AI-enhanced situational awareness becomes the equivalent of radio-enabled mission command that defined Panzer division supremacy in 1940. Competing LCBGs will vie for first identification and first strike; the better-informed team wins. This represents a concrete path from the abstract RMA (de-humanizing, autonomous systems, sensor revolution) to an operational concept that reconfigures combined arms around new air and anti-air components. See [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) [3].
 
+## Algorithmic Deterrence as RMA Doctrine
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) (Carneiro Júnior) provides the doctrine-level articulation of the RMA through Palantir's 22-point manifesto: "One age of deterrence, the atomic age, is ending, and a new era of deterrence built on AI is set to begin." This is not a vendor's marketing claim but the considered position of a company whose Maven Smart System fused satellite reconnaissance, drone surveillance, signals intelligence, and pattern-of-life analysis to recommend strike packages during [Operation Epic Fury]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — over 13,000 strikes, roughly 1,000 on the opening day. The algorithmic deterrent is the RMA's strategic expression: the capability that mattered in the last century was warhead yield; in this century it is the speed and accuracy of autonomous targeting and data fusion. The cost asymmetry O'Brien identifies (cheap mass vs expensive precision) is the mechanism through which algorithmic deterrence operates — a few-hundred-dollar drone destroying a $15M tank, a swarm of a hundred autonomous drones saturating conventional air defence. See [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html) for the full analysis [4].
+
 # Citations
 
 [1] [Yes, We Are In A Revolution In Military Affairs](https://phillipspobrien.substack.com/p/yes-we-are-in-a-revolution-in-military)
@@ -89,3 +93,5 @@ The AI dimension is critical: the LCBG requires rapid decision-making localised 
 [2] [Weekend Update #193: What Is Happening In The Sea Of Azov?](https://phillipspobrien.substack.com/p/weekend-update-193-what-is-happening)
 
 [3] [The AI-Enhanced Land Carrier Battle Group: The Way Forward](https://www.rusi.org/explore-our-research/publications/rusi-defence-systems/ai-enhanced-land-carrier-battle-group-way-forward)
+
+[4] [The Algorithmic Deterrent](https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/algorithmic-deterrent)

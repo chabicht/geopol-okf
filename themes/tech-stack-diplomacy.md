@@ -5,7 +5,7 @@ parent: Themes
 description: "The US-China competition over AI technology exports — America's 'export the entire tech stack' strategy vs China's AI+ Initiative and open-source approach, with middle powers pursuing sovereign AI while navigating licensing risks and critical mineral dependencies."
 tags: [ai, technology, trade, supply-chain]
 status: ongoing
-timestamp: 2026-01-20T00:00:00Z
+timestamp: 2026-07-18T00:00:00Z
 ---
 
 # Background
@@ -57,8 +57,22 @@ Chinese open-weight AI licenses function as a form of regulatory export. By adop
 
 The competition over AI technology is inseparable from the competition over [critical minerals]({{ site.baseurl }}/themes/critical-minerals.html). The US restricts advanced chips; China restricts rare earths. Both are attempts to leverage control over critical inputs to shape the other's AI development trajectory. The result is a volatile interdependency where each side can inflict costs but neither can achieve autonomy — a structural condition that pushes middle powers toward hedging strategies and sovereign AI investments, even when true sovereignty is unattainable.
 
+### The Digital Protectorate
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) (Francisco Carneiro Júnior) defines the stakes of tech stack dependency in sovereignty terms: a state that outsources its AI capability to foreign companies with organic ties to a foreign government is not sovereign — it is a "digital protectorate." 21st-century sovereignty is measured not only in territory, foreign-exchange reserves, or multilateral seats, but in the capacity to process strategic information autonomously and operate critical security systems without dependence on suppliers answerable to another government [3].
+
+Palantir Technologies illustrates the pattern. Founded in 2003 by Peter Thiel and Alex Karp with CIA seed funding via In-Q-Tel, its Gotham platform fuses satellite imagery, drone footage, financial records, and telecommunications metadata into a single operational picture. By 2026 the company was embedded in approximately a dozen countries, supplied the Maven Smart System to [NATO]({{ site.baseurl }}/actors/organizations/nato.html) under a no-bid contract (2025), processed data for 90 million UN World Food Programme beneficiaries since 2017, and ran the IAEA's safeguards-monitoring platform MOSAIC since 2015. Each customer must now assess what it means to depend operationally on a company that has publicly defined its allegiance as an instrument of American national defence [3].
+
+**[Switzerland]({{ site.baseurl }}/actors/countries/germany.html)** supplies the one documented case of a government formally assessing Palantir against a sovereignty standard and rejecting it. An internal Swiss Army study concluded Palantir's systems could be structurally incompatible with Swiss data sovereignty — even with servers on Swiss soil, the company remains subject to US law that can compel American government access to data processed anywhere. Palantir's response was instructive: rather than contesting the reporting, it invoked a Swiss judicial "right of reply" mechanism against the independent magazine *Republik*, a manoeuvre the European Federation of Journalists classified as a potential Strategic Lawsuit Against Public Participation. A $300 billion company used a defamation-adjacent legal mechanism against a small outlet for accurately reporting that the company's own host government had assessed it as a sovereignty risk [3].
+
+**[United Kingdom]({{ site.baseurl }}/actors/countries/united-kingdom.html)** supplies the opposite case: exposure without reckoning. The NHS Federated Data Platform — the central system through which English NHS trusts manage patient data — operates under a £330 million Palantir contract. Digital-rights organisations mounted a legal challenge on inadequate consultation and data-sharing grounds; the platform went live regardless. The manifesto's publication prompted no formal reopening of debate, even as healthcare data for tens of millions of citizens continued flowing through infrastructure operated by a company that had just described itself as an instrument of American national defence [3].
+
+Political scientist Don Moynihan identifies the pattern at the level of theory: a fusion of state power and Silicon Valley technology pursued without commensurate accountability, in which dominant infrastructure providers shape defence and digital-sovereignty policy through contracts that by design resist legislative and judicial scrutiny. Almost no government that signed such a contract conducted the kind of structural risk assessment Switzerland's army did before the manifesto made the allegiance explicit. Most will now have to decide whether to conduct one after the fact — a strictly harder position from which to negotiate [3].
+
 # Citations
 
 [1] [Tech Stack Diplomacy: Policy Implications of the U.S. AI Export Strategy](https://newlinesinstitute.org/tech-econ-sov-sec/tech-stack-diplomacy-policy/)
 
 [2] [The AI Kill Switch: Dangerous Chinese Open Source](https://cepa.org/article/the-ai-kill-switch-dangerous-chinese-open-source/)
+
+[3] [The Algorithmic Deterrent](https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/algorithmic-deterrent)
