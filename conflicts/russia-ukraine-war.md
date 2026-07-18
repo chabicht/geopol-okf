@@ -71,7 +71,7 @@ Ukraine is breaking out of positional warfare through a combination of maturing 
 
 ## Russian Resettlement Campaign
 
-Russia is conducting a systematic [resettlement campaign]({{ site.baseurl }}/events/russia-resettlement-campaign.html) to repopulate occupied Ukraine with Russian citizens through weaponized property law, preferential mortgages, and demographic engineering. With 75% of apartments in occupied Mariupol purchased by Russian immigrants and plans to resettle 114,000 Russians by 2045, the campaign aims to engineer a demographic reality that entrenches occupation governance and complicates any future reintegration into Ukraine. The campaign violates the Fourth Geneva Convention's prohibition on transferring occupier populations into occupied territory [12].
+Russia is conducting a systematic [resettlement campaign]({{ site.baseurl }}/events/russia-resettlement-campaign.html) to repopulate occupied Ukraine with Russian citizens through weaponized property law, preferential mortgages, and demographic engineering. With 75% of apartments in occupied Mariupol purchased by Russian immigrants and plans to resettle 114,000 Russians by 2045, the campaign aims to engineer a demographic reality that entrenches occupation governance and complicates any future reintegration into Ukraine [12].
 
 ## Ukrainian Military Adaptation
 
@@ -93,8 +93,6 @@ CSIS identifies Ukraine's AI-enabled Hornet drone as a transformative system: a 
 
 O'Brien cautions against assuming a Russian counter is coming. The adaptation cycle for long-range strike and air interception has been considerably longer than for small, short-range drones. There is no sign of new Russian interception systems or the ability to greatly increase anti-air production. Even densely protected areas like Moscow are not invulnerable [16].
 
-Zolotova (GPF) reports that after drone attacks in the latter half of June 2026, gasoline production fell by 25 percent year on year. Authorities in several Russian regions announced restrictions on the sale of motor fuel at gas stations — limits ranging from 20 liters per person in Crimea to 40 liters of gasoline at highway gas stations in Omsk. The structural consequence is that Russia may have to choose between supplying the domestic market and maintaining petroleum-product exports, tightening international supply in a market already exposed to Middle East instability [20].
-
 ## Sanctions Fraudulence and the Kiel Report
 
 O'Brien documents that [India]({{ site.baseurl }}/actors/countries/india.html) is "gorging" on Russian oil — June 2026 purchases hit record highs despite US sanctions supposedly reactivated on June 17. The Indian government has stated it will continue buying Russian oil regardless of US sanctions status. China has never paid much attention to Trump's sanctions. The US is "so weak" that major states calculate Trump will never actually enforce sanctions against Putin's customers [16].
@@ -115,7 +113,7 @@ The preparation agenda echoes the 1991 Nunn-Lugar program: (1) secure Russia's ~
 
 Ekaterina Zolotova (GPF) documents how Ukraine's drone strikes are exploiting Russia's immense territory. A drone threat was declared for the first time ever in Novosibirsk and Omsk, with Ukrainian drones venturing 2,500 kilometers beyond the border to attack the Omsk oil refinery — Russia's largest. Russia possesses high-quality air defense systems but cannot field enough of them across its vast territory. Just to cover the line of contact with Ukraine, Russia would need as many as 500 Pantsir units. Undefended and uninhabited parts of Russia could even serve as launch sites for Ukrainian strikes — abandoned Soviet airstrips in remote villages could be used as launch platforms [20].
 
-Russia is finally developing a unified information environment to increase situational awareness — almost four and a half years into the war. Authorities are stepping up recruitment for mobile fire teams armed with FPV interceptors. But the centralized bureaucracy that Russia built to exercise control over its sprawling territory continues to hamper its response: not until late May 2026 did the Defense Ministry authorize private companies to acquire anti-aircraft systems for their own defense. Airport closures occur almost daily due to drone threats — cancellations in 2026 were up 4.3-fold year on year, with disruptions costing airlines and related industries up to billions of rubles per day [20].
+Russia is finally developing a unified information environment to increase situational awareness — almost four and a half years into the war. Authorities are stepping up recruitment for mobile fire teams armed with FPV interceptors. But the centralized bureaucracy that Russia built to exercise control over its sprawling territory continues to hamper its response: not until late May 2026 did the Defense Ministry authorize private companies to acquire anti-aircraft systems for their own defense [20].
 
 ## Myth of Imminent Collapse
 
