@@ -82,6 +82,10 @@ The Honest Sorcerer argues that mining — the physical process of extracting me
 
 The article is a tribute to the work of Simon Michaux, geologist and mining engineer, whose studies document the material impossibility of the energy transition at scale [32].
 
+## Refining Capacity as the Binding Constraint
+
+The "Oil Price 'Mystery'" framework inverts the usual focus on crude prices: the real economy runs on refined products, not crude, so refining capacity — not the barrel price — is the binding constraint on economic activity. During the Hormuz crisis nearly 3 million bpd of Middle East refining capacity shut down and global refiners cut a further 9 million bpd (>10% of world capacity), destroying physical demand for crude even as headline prices stayed subdued. The signal to watch is the crack spread: ultra-low-sulfur diesel hit $168/barrel against ~$80 crude, a record gap confirming a refined-product scarcity that crude-price metrics systematically conceal. The framework tracks the cascade — Russian diesel exports collapsing from 800,000 bpd to zero under Ukrainian strikes, India doubling export duties, US Gulf refineries at 96% utilization — and the SPR's diminishing capacity to bridge the gap, with drawdown rates decelerating toward zero by August. The closing thesis is "model collapse": basing economic and military decisions on crude prices alone, in a world stripped of refining capacity, has become a civilizational risk [33].
+
 # Sources in Bundle
 
 - "The Big Picture" [1]
