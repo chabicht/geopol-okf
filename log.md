@@ -4,6 +4,37 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-07-18 — Consolidation Pass 1: Narrative Refactoring
+
+Two-pass consolidation: refactored 4 concept files for narrative coherence,
+reorganizing source-organized section lists into thematically woven multi-author
+prose. Event and theme files confirmed already in good shape — no changes needed.
+
+**Files refactored:**
+- `conflicts/us-iran-war-2026.md` — reorganized 35 source-organized sections into
+  7 thematic clusters (Strategic Assessment, Iran's Theory of Victory, Energy War,
+  Diplomatic Realignment, Escalation Dynamics, Technology/Cost, Second-Order
+  Cascades). Removed content duplicated in event/theme files, replaced with
+  cross-links. 440 → ~300 lines.
+- `actors/countries/iran.md` — merged 15 sections into 5 thematic clusters
+  (Post-War Posture/Hormuz, Survival to Revenge, Regional Relationships,
+  Asymmetric Operations, Doctrine). Fixed 5 previously orphaned citations [3]-[7].
+- `actors/organizations/nato.md` — consolidated 22 sections into 4 thematic
+  clusters (European Defense Shift, Ankara Summit/NATO 3.0, Eastern Flank/Russia
+  Posture, Capability/Doctrine/Global Posture).
+- `actors/countries/russia.md` — clustered 28 sections into 7 thematic groups
+  (Ukraine War Costs, Economic Strain/Logistics, Military Force/Posture,
+  Internal Stability/Succession, DragonBear/Strategic Relationships,
+  Asymmetric/Hybrid Operations, Southern Flank/CSTO). Fixed 5 previously
+  orphaned citations [1]-[5].
+
+**Structural changes:**
+- Reorganized 100 source-organized sections into 23 thematic clusters across 4 files
+- Removed 2 duplicated sections from conflict file (Repricing of Rupture → event,
+  H2 2026 Outlook → theme), replaced with cross-links
+- Fixed 10 orphaned citations, refreshed 4 timestamps
+- Validation: 0 errors, 48 warnings (down from 50; 2 pre-existing residual)
+
 ## 2026-07-18 — Revert Consolidation Pass (95f648d) + Add okf-consolidate Skill
 
 Reverted the "Consolidation pass" commit `95f648d` which had mechanically
