@@ -4,6 +4,30 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-07-18 — Revert Consolidation Pass (95f648d) + Add okf-consolidate Skill
+
+Reverted the "Consolidation pass" commit `95f648d` which had mechanically
+deduplicated content by trimming 13 concept files to stub farms and absorbing
+their analysis into conflict files. The revert restores the pre-consolidation
+content so a proper narrative refactoring can be done with the new
+okf-consolidate skill.
+
+**Files restored to pre-consolidation state:**
+`actors/countries/china.md`, `actors/countries/iran.md`,
+`actors/countries/russia.md`, `actors/organizations/nato.md`,
+`actors/trump.md`, `conflicts/russia-ukraine-war.md`,
+`conflicts/us-iran-war-2026.md`, `events/hormuz-ceasefire-collapse-2026.md`,
+`events/nato-ankara-summit-2026.md`, `regions/europe.md`,
+`themes/defense-industrial-resilience.md`, `themes/global-system-rupture.md`
+
+**New skill added:** `okf-consolidate` — two-pass refactoring skill that
+surveys concept files for structural incoherence, produces a reorganization
+plan for approval, then re-weaves sections into thematically organized,
+multi-author prose. Includes `references/concept-type-authority.md` doctrine.
+
+**Validator upgrade:** Added orphaned-citation check to `validate.py` —
+flags citation entries with no matching body `[N]` reference.
+
 ## 2026-07-18 — Review Remediation Pass
 
 Applied fixes from the okf-review of the last 5 source-incorporation commits (af9a0f3, f80dddd, a0c00db, ae8f0e5, d99a098).
@@ -39,38 +63,6 @@ Incorporated two new source articles into the knowledge base, dissolving their a
 | `themes/energy-and-resources.md` | Added "The Oil Price 'Mystery': Refining Capacity as the Binding Constraint" analysis section (refining collapse, crack spread, Russian diesel, SPR, futures curve, pipeline bypass, model collapse). Citation [25]. |
 | `events/spr-depletion-crisis.md` | Added "Drawdown Deceleration (July 2026)" section with latest SPR data (316.5M barrels, rate falling to 0.43M bpd, trending to zero by August). Citation [6]. |
 | `actors/authors/the-honest-sorcerer.md` | Added source [33] and citation for "The Oil Price 'Mystery'". |
-
-## 2026-07-16 — Consolidation Pass
-
-First consolidation pass: designated authoritative files for 8 major topics and trimmed near-verbatim duplicates across 14 files. Unique data points were moved to authoritative files before trimming; all trimmed sections now contain 1-2 sentence summaries with cross-links.
-
-**Topics consolidated:**
-
-1. **Russia War Economy** → `conflicts/russia-ukraine-war.md` authoritative. Trimmed 10 duplicate sections in `actors/countries/russia.md` (Ukraine War, Resettlement, Mounting Costs, Preparing for Defeat, Why Russia Can't Expand, Size/Centralization, Security State, Wartime Force Expansion, Combat Knowledge Transfer, Nuclear Threshold, Russia-Iran Cyber, Russia's Last Window).
-2. **DragonBear** → `conflicts/cold-war-2.md` authoritative. Trimmed DragonBear sections in `actors/countries/china.md` and `actors/countries/russia.md`.
-3. **NATO Ankara Summit** → `events/nato-ankara-summit-2026.md` authoritative. Trimmed 5 duplicate sections in `actors/organizations/nato.md` and 6 bullets in `regions/europe.md`. Moved NDS/NATO-IP4 conflict detail to event file.
-4. **Drone Warfare Cost-Exchange** → `themes/drone-warfare.md` authoritative. Trimmed "Inverting the Cost Curve" and "Russian Force Generation" sections in `themes/defense-industrial-resilience.md`. Trimmed Urbanski data in `actors/organizations/nato.md`.
-5. **US-Iran War / Hormuz** → `conflicts/us-iran-war-2026.md` authoritative. Trimmed `events/hormuz-ceasefire-collapse-2026.md` (73→37 lines), `actors/countries/iran.md` (12 sections trimmed), `actors/trump.md` (5 sections trimmed), `themes/global-system-rupture.md` (5 sections trimmed). Moved July 7-8 tactical timeline, Mojtaba Khamenei naming, GSR simultaneity-reading framing, and UNDP $1.1T subsidies figure to conflict file.
-
-**Line count changes (net reduction ~180 lines across non-authoritative files):**
-
-| File | Before | After | Delta |
-|------|--------|-------|-------|
-| `actors/countries/russia.md` | 234 | 205 | -29 |
-| `actors/countries/china.md` | 157 | 155 | -2 |
-| `actors/countries/iran.md` | 131 | 113 | -18 |
-| `actors/trump.md` | 213 | 197 | -16 |
-| `actors/organizations/nato.md` | 165 | 139 | -26 |
-| `events/hormuz-ceasefire-collapse-2026.md` | 73 | 37 | -36 |
-| `regions/europe.md` | 117 | 117 | 0 (bullets compressed, count stable) |
-| `themes/global-system-rupture.md` | 163 | 149 | -14 |
-| `themes/defense-industrial-resilience.md` | 148 | 142 | -6 |
-
-Authoritative files gained modestly from moved unique content:
-- `conflicts/russia-ukraine-war.md`: 222 → 224 (+2)
-- `conflicts/us-iran-war-2026.md`: 426 → 430 (+4)
-- `events/nato-ankara-summit-2026.md`: 131 → 133 (+2)
-
 
 # Bundle Update Log
 

@@ -96,7 +96,9 @@ China's networks constitute a core instrument of its [Endless Warfare]({{ site.b
 
 ## DragonBear Military Coordination (July 2026)
 
-Joint Sea-2026 and a Kremlin-approved combat-knowledge transfer programme illustrate the DragonBear's deepening coordination, while Beijing's nuclear ultimatum to Moscow defines the one hard boundary. See [Cold War 2.0]({{ site.baseurl }}/conflicts/cold-war-2.html) for full analysis [19].
+July 2026 demonstrated the DragonBear's military coordination across multiple layers. Joint Sea-2026 ran in the Yellow Sea off Qingdao (July 6-13), with the two navies establishing a joint command for anti-submarine warfare, submarine rescue, air and missile defence, and surface-strike exercises — interoperability under construction. China is drawing on Russian submarine-rescue expertise, an operational competence it is still building. A Kremlin-approved programme transfers Russia's Ukraine-war combat lessons to the Chinese military, signed July 2. China holds industrial scale and technological weight but has not fought a war in decades; [Russia]({{ site.baseurl }}/actors/countries/russia.html) supplies combat experience. Each partner supplies what the other lacks [19].
+
+The one hard boundary: as Russian nuclear saber-rattling accelerated, Beijing delivered Moscow an ultimatum-form warning that there can be no thought of using nuclear weapons in Ukraine. The red line runs through Beijing, not Moscow — China coordinates across every domain except the one where its global standing diverges from Russia's escalation logic. Beijing enables the war machine and simultaneously polices its nuclear threshold [19].
 
 ## NATO-IP4 and China's Response
 
@@ -108,7 +110,7 @@ However, the second Trump administration's NDS treats Euro-Atlantic/Indo-Pacific
 
 China's strategic position is defined by coordinated action across domains where the US struggles to maintain coherence: AI military integration, maritime grey-zone operations, and resource investment in Central Asia. The DragonBear axis provides a force multiplier, allowing Beijing and Moscow to apply synchronized pressure on the Western coalition. However, China's growth model faces inherent limits that constrain its long-term trajectory.
 
-The DragonBear coordination architecture does not require a formal alliance to reshape the balance of power — a division of labour where China is the economic engine and Russia the combat-experienced military partner. See [Cold War 2.0]({{ site.baseurl }}/conflicts/cold-war-2.html) for full analysis [19].
+The DragonBear coordination architecture does not require a formal alliance to reshape the balance of power. The division of labour — China as economic engine, Russia as combat-experienced military partner — is the logic in its purest form. A Russia degraded by war becomes the weaker partner, yet in becoming weaker it transfers expertise upward to a rising China that can industrialise those lessons at scale. The West may face a more capable and assertive PLA as a result [19].
 
 Tooze identifies the "gear-shift in Chinese economic policy" as one of four disrupters of the 2026 world economy — alongside Trump's trade rampage, US fiscal incontinence, and the AI boom. China Shock 2.0 is the export-facing manifestation of this gear-shift. The mercantilist export model is sustained by financial repression: capital controls that wall in wealth, prevent yuan appreciation, and keep Chinese goods artificially competitive. The system's internal tension — between the regime's need for control and the elite's desire to participate in global asset markets — is a structural vulnerability [9][10].
 

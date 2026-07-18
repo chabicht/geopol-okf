@@ -16,11 +16,15 @@ Donald Trump is the 45th and 47th President of the [United States]({{ site.baseu
 
 ## The US-Iran War as a Personal Choice
 
-O'Brien frames the Iran strike as proof that major wars are products of individual leader psychology, not structural state logic — no constituency demanded it, no rally-round-the-flag effect materialized. By May 2026, Trump was "desperate to exit" but unable to. See [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — "Leadership and Decision-Making" and "Societal Impact" [1][7].
+Trump's decision to attack Iran in 2026 was, per O'Brien, not driven by national interest or political pressure. There was no constituency demanding strikes, no rally-round-the-flag effect, and no obvious strategic gain that justified the costs. O'Brien frames the episode as proof that wars are choices of *individual leaders*, not the inevitable output of states acting in national interest. [1]
+
+Notably, the US public response broke the standard pattern: Trump's base supported whatever he wanted to do, the opposition opposed the war from the start, and there was no measurable patriotic surge behind the commander-in-chief. [1]
+
+By May 2026, O'Brien reported Trump was "desperate to exit" the war but unable to, with no good military options. The emerging Iran deal was worse than the JCPOA. Trump called on Arab states to join the Abraham Accords to appease Netanyahu and GOP hardliners, while [China]({{ site.baseurl }}/actors/countries/china.html) backed Iran and treated [Taiwan]({{ site.baseurl }}/conflicts/taiwan-standoff.html) as a "chip" in the broader negotiation [7].
 
 ## Allies Left in the Dark
 
-Trump launched the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) without informing European allies, Japan, or South Korea — corroding trust in US alliance guarantees. See [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — "Diplomatic Dimensions" [1].
+By launching the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) without informing European allies, Japan, or South Korea, Trump "threw them under the bus." The failure to consult partners who host US forces and depend on American extended deterrence corroded trust in US alliance guarantees. [1]
 
 ## Russia and Ukraine
 
@@ -102,15 +106,27 @@ O'Brien's quote-based analysis complements Applebaum's collaboration framework w
 
 ## NATO Summit: "The Worst in History"
 
-O'Brien calls the Ankara summit the worst in NATO history — Trump threatened Greenland, made no US conventional defense commitment, and the Patriot license was hollow. See [NATO Ankara Summit 2026]({{ site.baseurl }}/events/nato-ankara-summit-2026.html) — "O'Brien's Critical Assessment" [29].
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) offers a sharply dissenting assessment of the [NATO Ankara Summit]({{ site.baseurl }}/events/nato-ankara-summit-2026.html), calling it the worst in NATO history. Trump made three explicit threats against a NATO country (Denmark over Greenland) over three days surrounding the summit. The US made no conventional defense commitment — the summit declaration contained nothing specific about the USA. Secretary Hegseth's six-month force posture review is a veiled threat to withdraw troops if Europeans don't comply with US demands. The nuclear umbrella is meaningless without conventional forces: the US might not fight for the Baltic States conventionally but will "blow up the world" if Putin uses a nuclear weapon? "This is simply not happening." The Patriot license pledge for Ukraine was a spur-of-the-moment gesture with no consultation with manufacturers, no details, and a timeline of years [29].
+
+O'Brien identifies Trump's claims about "tremendous love" and caring as a reliable tell that he is lying — Trump does not believe in such things, and when he invokes them, it signals the opposite [29].
 
 ## Hormuz Ceasefire Collapse
 
-Around July 13, 2026, Trump let the [Iran ceasefire]({{ site.baseurl }}/events/iran-ceasefire-mou.html) collapse — reinstating the blockade while Iran resumed drone strikes. His positions were wildly erratic (20% tolls, then invest-in-US demands). Krugman argues the strategy shifted from "pretend we won" to "bomb Iran with no clear strategy." See [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — "Ceasefire Collapse" [21][22].
+Around July 13, 2026, Trump let the [Iran ceasefire]({{ site.baseurl }}/events/iran-ceasefire-mou.html) collapse. He reinstated the blockade; [Iran]({{ site.baseurl }}/actors/countries/iran.html) resumed drone strikes. Trump's positions were wildly erratic — first declaring he would collect 20% tolls on all Hormuz shipping (wildly illegal and impossible), then demanding countries invest in the United States as a condition for passage (equally illegal). See [Hormuz Ceasefire Collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) [21][22].
+
+[Paul Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html) argues the collapse signals that Trump has given up on extracting anything resembling victory. A few days earlier, it appeared he would de facto pull out, take advantage of falling oil prices, and spin the story as an American victory. That was doomed but at least a serious attempt to end the conflict. Trump emotionally could not bring himself to admit failure — the strategy shifted from "pretend we won" to "bomb Iran with no clear strategy" [22].
 
 ## Trump's Escalation Logic and the Reversal Objective
 
-Pape explains why Trump is escalating despite midterms: the Hoover risk (MOU failed to stop oil inventory drawdown, SPR salt caverns at risk) and the MAGA turnout risk (51% of MAGA Republicans favor replacing Iran's government vs 25% for negotiated settlement). "There is no third choice" between capitulation and escalation. See [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — "Trump's Reversal Objective and Political Logic" and "No Third Choice" [25][26].
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) explains why Trump is escalating despite the midterms — a question puzzling many analysts. Trump declared the United States the "Guardian of the Strait of Hormuz," said America will "probably run it," and announced plans to charge a 20% fee on cargo — a political commitment that makes backing down significantly harder. The objective has moved from punishment to reversing the strategic defeat at Hormuz [25][26].
+
+Two factors drive the logic:
+
+**The Hoover risk**: Trump signed the MOU to avoid an economic crisis, explicitly saying he did not want to be "Herbert Hoover." But the MOU failed to stop the oil inventory drawdown — only ~14 days of global supply were gained. The inventory cliff is still coming in August. The SPR salt caverns face a structural risk: at low oil levels, water injection causes cavern walls to collapse, and the threshold is unknown [25].
+
+**MAGA turnout risk**: The Reagan Institute's Summer Survey shows 51% of MAGA Republicans favor replacing Iran's government; only 25% prefer a negotiated settlement. If Trump fails to open Hormuz and allows Iran to become the fourth center of world power, 5–10% of MAGA may not show up at the polls — enough to lose many seats. The Tucker Carlson isolationist wing has not taken over MAGA [25].
+
+Pape's framing is stark: "There is no third choice." Either Trump capitulates and accepts Iran as the rising regional hegemon, or he escalates. Trump is escalating to reopen Hormuz — not because the military option is certain to succeed, but because it is certain that if he doesn't, he will fail politically [25][26].
 
 ## Election Interference Pivot
 

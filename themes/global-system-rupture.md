@@ -25,15 +25,27 @@ Tchakarova, with Marco Felsberger and Herbert Saurugg, published a comprehensive
 
 # Current Situation
 
-As of June 2026, the GSR moved from acute crisis to a supervised, reversible pause after the June 17 MoU. The Simultaneity reading dropped from S5-S6 to S3-S4. Secondary cascades (fertilizer/food, EM debt, EU gas storage at 46%) continue propagating on 6–12 month lags. See [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — "Current Situation" for the full cascade data [2].
+As of June 2026, the Global System Rupture has moved from acute crisis to a supervised, reversible pause. The June 17 Versailles Memorandum of Understanding (MoU) ended the kinetic phase of the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), producing an immediate market response: Brent crude fell from approximately $126 to below $73 per barrel. The [FACE Intelligence]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) Simultaneity reading dropped from S5-S6 to S3-S4, reflecting a measurable reduction in systemic crisis intensity.
+
+However, the primary energy shock, while reversed, has left secondary cascades continuing across multiple domains:
+
+- **Fertilizer and food**: The World Bank projects fertilizer prices up 31% and urea up 60% in 2026, with downstream implications for global food security on 6–12 month lags.
+- **Emerging market debt**: The shock has cascaded into EM debt stress as import-dependent economies face balance-of-payments crises.
+- **EU gas storage**: European gas storage ended June at approximately 46%, well below seasonal norms, creating a structural deficit heading into the next winter.
+
+The [Tindale-Tchakarova Cascade]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) operates on 6–12 month lags, meaning the secondary effects of the primary shock will continue to propagate well after the trigger event has been addressed.
 
 ## The Supervised Pause Collapses (July 7-8, 2026)
 
-The supervised pause did not hold. The Simultaneity reading moved from S3–S4 to approximately S4, trending toward S5. The May understanding between Washington and Beijing is the decisive variable. See [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — "Ceasefire Collapse" and "The Repricing of Rupture" for the full timeline and market repricing [11][12].
+The supervised pause did not hold. On July 7-8 — eleven days after Tchakarova warned that the calm was a political artifact resting on three withdrawable supports — the [United States]({{ site.baseurl }}/actors/countries/united-states.html) struck [Iran]({{ site.baseurl }}/actors/countries/iran.html), revoked the oil waiver, and declared the Memorandum over. Iran answered against American installations and Gulf capitals. The Simultaneity reading moved from S3–S4 to approximately S4, trending toward S5 [11][12].
+
+Tchakarova's tripwires fired almost exactly in the order flagged: the Gulf track (already demonstrably live after the late-June Bahrain and Kuwait strikes), the Hormuz-governance track (vessels attacked over the approved-routes dispute), and the sanctions snap-back. The Lebanon track, rated the most probable breach point, was in fact defused by an Israel–Hezbollah ceasefire days earlier. The re-pricing began from the geopolitical side first, before Chinese demand has even returned — on top of record-low inventories, a 45 percent hole in Gulf production, and a fiscal cushion already costing the developing world a trillion dollars [11].
+
+The mid-August Memorandum window is now a dead letter. The new master clock is July 17, when the oil wind-down expires; the new base case is armed bargaining over the strait, with throughput plausibly below half of pre-war levels for many months and periodic flare-ups. The question that decides whether this remains a managed confrontation or reopens the full rupture is whether the May understanding between Washington and Beijing survives the death of the Memorandum it produced [11].
 
 ## Fertilizer-to-Food Cascade Confirmed
 
-The cascade is confirmed operational — €1.5B EU aid, $500M FIELDS program, Moroccan phosphate emergency, and UNDP projecting $1.1T in global fossil-fuel subsidies. See [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — "Food Crisis as Second-Order Effect" and "The Repricing of Rupture" [12][14].
+The fertilizer cascade identified by this framework is now confirmed as real and running. Washington declared a national emergency on June 29 to secure duty-free phosphate fertilizer imports from [Morocco]({{ site.baseurl }}/actors/countries/morocco.html) — the clearest official certification yet that the energy-to-fertilizer-to-food cascade is operational. The European Parliament approved up to €1.5 billion in aid to offset surging fertilizer prices. The USDA launched the $500 million FIELDS program. The UNDP projects global fossil-fuel subsidies climbing to $1.1 trillion in 2026 — roughly $410 billion above 2025 — as developing economies shield households at the cost of their own fiscal futures, with nearly half of the world's poorest countries already in or at high risk of debt distress [12][14].
 
 # Key Dynamics
 
@@ -63,7 +75,9 @@ This asymmetry means that aggregate systemic stress can increase even as the mos
 
 ## Hot Peace and Cold War
 
-The base case is "Hot Peace and Cold War" — multipolar diplomacy inside bifurcated systems. The DragonBear axis deepened beneath the surface of de-escalation. See [Cold War 2.0]({{ site.baseurl }}/conflicts/cold-war-2.html) for the full axis analysis [2].
+Tchakarova identifies the base case as "Hot Peace and Cold War": multipolar diplomacy operating inside increasingly bifurcated financial, technological, industrial, and security systems. Washington and Beijing preserved the headline trade truce while escalating through blacklists, export controls, procurement bans, biotech restrictions, robotics, and rare-earth chokepoints. Full Cold War 2.0 escalation is now the second-most-probable configuration at approximately 27%. The decisive variable is the sixty-day Iran Memorandum window expiring in mid-August — if it holds, the system gains time but not stability; if it fails, Hormuz, Lebanon, Ukraine, Taiwan, and critical minerals can reactivate together within hours. June did not turn the ship away from the rocks — it slowed the engines, narrowed the margin for error, and made the next turn more consequential [2].
+
+The DragonBear axis emerged from the Iran war more operationally coordinated but more visibly hierarchical. [China]({{ site.baseurl }}/actors/countries/china.html) is expanding yuan settlement, CIPS throughput, and sanctions-resistant energy infrastructure, while [Russia]({{ site.baseurl }}/actors/countries/russia.html) has become more dependent on Chinese pricing power and market access. The axis deepened beneath the surface of de-escalation: the trade truce is a headline, not a structural reality [2].
 
 ## Polycrisis and Permanent Damage
 
@@ -88,7 +102,7 @@ The GSR framework extends to the erosion of Western financial coercive power. Sa
 
 ## Resilience Replacing Efficiency
 
-The Iran war proved that resilience is replacing efficiency as the organizing principle of the global economy — geopolitical shocks are transmitted directly into capital markets. See [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — "Systemic Resilience Replacing Efficiency" [8].
+Colibasanu (GPF) frames the [Iran war]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) as proof that systemic changes — not isolated shocks — are shaping the global economy. Resilience is replacing efficiency as the organizing principle, redefining how states project power, how businesses operate, and where capital flows. The Iran war and its cascading effects across energy, defense, trade, and finance reveal how risk is becoming embedded in the architecture of the world economy. Three themes define the transition: global systems are being reshaped; energy shocks spill into food insecurity; and insurance markets drive restructuring. Geopolitical shocks are increasingly transmitted directly into capital markets, linking energy disruption to inflation, monetary policy, and sovereign risk. The key pattern across all regions is not collapse but persistent cost inflation and volatility [8].
 
 ## Inflation as a Systemic Cascade
 
@@ -116,7 +130,7 @@ The world has been draining its savings account: about 1.3 billion barrels of oi
 
 ## H2 2026 Outlook
 
-Tchakarova warns of a "very bumpy second half of 2026" — continued US-Israel-Iran escalation, Yemen-Saudi tensions, Türkiye/Syria involvement, Russia recession, and two needed ceasefires. See [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — "H2 2026 Outlook" [14].
+Tchakarova warns of a "very bumpy second half of 2026": US-Israel-[Iran]({{ site.baseurl }}/actors/countries/iran.html) escalations will continue with no end in sight; Yemen-Saudi Arabia tensions are coming; [Türkiye]({{ site.baseurl }}/actors/countries/turkey.html) and Syria might also get involved. [Russia]({{ site.baseurl }}/actors/countries/russia.html) will face a strong recession scenario due to the war in Iran and will boost its summer offensive, while [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) will seek to quickly build antiballistic missile defence systems ahead of the winter. The Indo-Pacific will face further militarizations and tensions. Two needed (real) ceasefires in Ukraine and Iran are the mutually strengthening signal toward preventing the Global System Rupture scenario — or the fourth systemic risk-driven global crisis [14].
 
 # Citations
 

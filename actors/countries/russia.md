@@ -18,7 +18,9 @@ Russia anchors the DragonBear axis alongside [China]({{ site.baseurl }}/actors/c
 
 ## Ukraine War
 
-The [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) continues to strain Russian resources, with Ukrainian long-range strikes now reaching Moscow and St. Petersburg and cumulative casualties exceeding 1 million. See the [conflict file]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) for full battlefield analysis, strike campaigns, and war economics.
+The [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) continues to strain Russian resources. Putin has rejected ceasefire proposals, with demands disconnected from battlefield realities. Ukraine's long-range strikes are reaching Moscow and St. Petersburg, attacking Russian war production infrastructure — not just refineries. The FP-5 Flamingo missile has struck the Titan-Barrikady weapons complex in Volgograd, demonstrating that Ukrainian reach extends deep into Russian industrial territory.
+
+In May 2026, Ukraine conducted a major [drone strike on Moscow]({{ site.baseurl }}/events/moscow-drone-strike.html), demonstrating that Putin can no longer protect the capital from war consequences. [Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) compares the strike to Japan's loss of the Marianas in WWII — the moment when the propaganda narrative collapsed because the war reached the homeland. Russia's cumulative casualties exceed 1 million [6].
 
 ## Chechnya
 
@@ -34,7 +36,7 @@ Moscow fundamentally misjudged [Trump]({{ site.baseurl }}/actors/trump.html)'s A
 
 ## Resettlement Campaign in Occupied Ukraine
 
-Russia is conducting a systematic [resettlement campaign]({{ site.baseurl }}/events/russia-resettlement-campaign.html) in occupied [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html), using weaponized property law and demographic engineering to entrench occupation — violating the Fourth Geneva Convention. See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) for full details.
+Russia is conducting a systematic [resettlement campaign]({{ site.baseurl }}/events/russia-resettlement-campaign.html) to repopulate occupied [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) with Russian citizens through weaponized property law, preferential mortgages, and demographic engineering. With 75% of apartments in occupied Mariupol purchased by Russian immigrants and plans to resettle 114,000 Russians by 2045, the campaign aims to engineer a demographic reality that entrenches occupation governance and complicates any future reintegration into Ukraine. The campaign violates the Fourth Geneva Convention's prohibition on transferring occupier populations into occupied territory [10].
 
 ## Kadyrov as Islamic Messenger
 
@@ -66,11 +68,17 @@ Russian, Ukrainian, and American negotiators held their first formal trilateral 
 
 ## Mounting Costs and Economic Strain
 
-CSIS documents approximately 1.4 million battlefield casualties and 450,000 fatalities through June 2026, with monthly casualties exceeding recruitment. The Kiel Institute confirms Russia's macro stance is "not sustainable" — fiscal buffers spent, war capacity coupled to hydrocarbon income. Ukraine's strike campaign has taken ~38-42% of refining capacity offline, with 78 of 83 federal subjects experiencing fuel shortages. See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) for full data and analysis [12][13][14][15].
+[CSIS]({{ site.baseurl }}/actors/authors/csis.html) data documents approximately 1.4 million battlefield casualties and 450,000 fatalities between February 2022 and June 2026. Russia's monthly casualty rates of 30,000-34,000 in 2026 likely exceed recruitment of ~27,000/month. Russia's territorial control shrank in spring 2026 — a net loss of ~400 sq km in April-May, the first monthly net losses since August 2024. Russian advance rates of 50-90 meters/day are among the slowest in any war over the last century [12].
+
+The [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html) concludes that Russia's macro stance is "not sustainable": the Q1 2026 budget deficit exceeded the full-year target in three months, the sovereign wealth fund's liquid assets have shrunk to 1.8% of GDP, and war capacity is directly coupled to hydrocarbon export income. Oil and gas revenue fell to its lowest level since 2020. Putin is raising VAT from 20% to 22% and cannot borrow abroad [13][14].
+
+Ukraine's long-range strike campaign has taken approximately 38-42% of Russia's oil refining capacity offline. Approximately 78 of 83 federal subjects have experienced gasoline shortages, with 48 imposing purchasing limits. Russia has banned gasoline and jet fuel exports and is rationing fuel to its own citizens — a petrostate that cannot keep its own drivers in gasoline [14][15].
+
+Zolotova (GPF) reports that after drone attacks in the latter half of June 2026, gasoline production fell by 25 percent year on year. Authorities in several Russian regions announced restrictions on the sale of motor fuel at gas stations to combat the surge in demand — limits ranging from 20 liters per person in Crimea to 40 liters of gasoline at highway gas stations in Omsk. Russia's fuel balance depends on refinery resilience, logistics flexibility, and access to technology under wartime conditions. The structural consequence is that Russia may have to choose between supplying the domestic market and maintaining petroleum-product exports. If more Russian diesel or other fuel products are kept at home, international supply tightens, affecting prices in a market already exposed to Middle East instability [19].
 
 ## Preparing for Russian Defeat
 
-[The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) argues that Russian defeat has moved from fringe to serious scenario, with a Nunn-Lugar-style preparation agenda. See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) for full analysis [16].
+[The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) argues that a Russian defeat — military exhaustion bleeding into political rupture within the next two years — has moved from a fringe scenario to one that serious governments must insure against. Russia's 1.4 million casualties, recruitment shortfall, net territorial loss, and economic fragility have made defeat a possibility. The preparation agenda includes securing ~1,800 strategic warheads, pre-negotiating recognition of borders if the Federation fragments, keeping weapons scientists employed, and defining what "victory" means for Ukraine [16].
 
 ## Russian Economy: Bad News and Good News
 
@@ -88,19 +96,29 @@ The Kremlin has emphasized "transport sovereignty" for sustainable access to fri
 
 ## Why Russia Can't Expand the War
 
-GPF argues Russia is "missing a hand" — its military cannot mount another attack on a European nation, with Poland and 10,000 US troops as deterrents. See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) for full analysis [20].
+[George Friedman]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) (GPF) argues that Russia does not have one hand tied behind its back — it is missing a hand. The Russian military has performed poorly in [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), and its ability to mount another attack on a European nation is extremely limited. [Poland]({{ site.baseurl }}/regions/europe.html) has developed a substantial, well-armed, and well-trained military — an attack in the Baltics or on Poland would almost certainly trigger a Polish response. Moreover, the US has some 10,000 troops in Poland. The reason Putin has not expanded the war is that any attack on any western-oriented country will likely evolve into a Polish and possibly a US response [20].
 
 ## Size and Centralization as Liabilities
 
-Russia's immense territory has become a vulnerability, with Ukrainian drones reaching 2,500 km into Siberia and 80% of the population west of the Urals impossible to fully defend. Centralized bureaucracy delays responses — airport closures up 4.3-fold year on year. See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) for full analysis [21].
+Ekaterina Zolotova (GPF) reports that Ukraine's drone strikes are reaching deep into Siberia — a drone threat was declared for the first time ever in Novosibirsk and Omsk, with Ukrainian drones venturing 2,500 kilometers beyond the border to attack the Omsk oil refinery, the largest in Russia. The strike illustrates how one of Russia's greatest strengths — its immense size — has become a weakness [21].
+
+Russia possesses high-quality air defense systems (S-500, A-235 Nudol, Pantsir-SMD), but the challenge is the sheer number needed to protect its vast territory. Approximately 80% of the population lives west of the Urals, and just to cover the line of contact with Ukraine, Russia would need as many as 500 Pantsir units — which it does not have. Drones are difficult to detect beyond tens of kilometers, so defenses must be spread out. Ukraine is able to identify gaps in Russia's radar and missile coverage with each attack [21].
+
+The bureaucracy that Russia built to exercise control over its sprawling territory is a liability when reacting swiftly to external threats. Centralized control proved unreliable in war: not until late May 2026 did Russia's Defense Ministry authorize private companies to acquire anti-aircraft artillery systems and electronic warfare stations for their own defense. During the weeks that the centralized system amends legislation, Ukraine's drone strikes continue inflicting damage. Airport closures occur almost daily due to drone threats — cancellations in 2026 were up 4.3-fold year on year, with disruptions costing airlines and related industries up to billions of rubles per day [21].
 
 ## Security State Resilience
 
-The Cipher Brief argues that predictions of Putin's imminent collapse have failed — the security state (FSB, Rosgvardia, FSO) is durable, and structural weakness ≠ near-term collapse. See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) for full analysis [22].
+[The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) argues that repeated predictions of Vladimir Putin's imminent collapse have failed. Three years after Yevgeny Prigozhin's Wagner mutiny, the Russian security state has demonstrated remarkable durability. Putin's system rests on multiple overlapping centers of coercive power — the FSB (domestic intelligence), Rosgvardia (National Guard), and FSO (Federal Protective Service) — deliberately structured to counterbalance one another and ensure threats can be contained from multiple directions. Prigozhin's mutiny did not invalidate this architecture; if anything, the aftermath demonstrated its durability, as Rosgvardia was strengthened immediately after [22].
+
+The key analytical distinction is between long-term structural vulnerabilities and near-term political collapse — those are not the same thing. Prigozhin was not marching to overthrow Putin; he targeted Defense Minister Shoigu and Chief of the General Staff Gerasimov, seeking their removal. Elite infighting should not be mistaken for imminent regime collapse. Russia under Putin has shown a remarkable ability to overcome structural and corrupt vulnerabilities to launch out repeatedly with aggression. Sustained Western resolve and continued support for Ukraine are required — the security state will not collapse under its own weight [22].
 
 ## Wartime Force Expansion and Post-War Structure
 
-Russia executed the most significant military expansion in decades — growing to 700K deployed personnel and 800+ maneuver battalions, primarily through contracted volunteers (~1.3M) rather than mass mobilization. Yet the "paradox of mass" meant more forces delivered diminishing returns as drone warfare negated manpower advantages. The expanded force structure, including the Leningrad Military District, will persist post-war on NATO's borders. See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) for full analysis [23].
+Greg Whisler and Michael Kofman (War on the Rocks) document the most significant Russian military expansion in decades. Russia began the war with one of its smallest armies in over 100 years — a force of battalion tactical groups optimized for short, local contingencies, short on infantry, with no reserve system. The wartime expansion grew the deployed force to over 700,000 personnel through partial mobilization (300,000 in September 2022) and contract soldier recruitment (~1.3 million over the war). By 2023, the General Staff created two new combined-arms armies, two motorized rifle divisions, and 27 new maneuver brigades and regiments. The force reached over 800 maneuver battalions — roughly four times the invasion force [23].
+
+By 2025, however, force growth had largely halted as monthly recruitment (~35,000) was offset by similar losses. The cracks in the force generation model — rising regional recruitment bonuses becoming fiscally untenable, casualties exceeding recruitment — suggest Moscow has passed its high-water mark for offensive capacity. Much of the expanded force is likely to persist: the Leningrad Military District, re-established opposite Finland and the Baltic states, will host new corps and divisions with expanded precision strike capabilities — a permanent force structure shift on [NATO's]({{ site.baseurl }}/actors/organizations/nato.html) borders [23].
+
+Notably, Moscow sustained this expansion primarily through contracted volunteers (~1.3 million) rather than mass mobilization — the first large-scale, extended war Russia has fought this way, challenging prior assumptions that Moscow cannot sustain prolonged conventional war without mobilization. However, the paradox of mass: as Russia fielded more forces, the value of that mass diminished. Ukrainian adaptation in [drone warfare]({{ site.baseurl }}/themes/drone-warfare.html), combined with mines, prepared defenses, and artillery, negated traditional manpower advantages. Russian combat power became so disaggregated by drone, mine, and artillery threats that only a tiny fraction of a brigade's strength was usable at any given time [23].
 
 ## Endless Warfare Networks
 
@@ -112,11 +130,11 @@ Russia's networks constitute a core instrument of its [Endless Warfare]({{ site.
 
 ## Combat Knowledge Transfer to China
 
-A Kremlin-approved programme transfers Russia's Ukraine-war combat lessons to the Chinese military (signed July 2, 2026) — the DragonBear division of labour in its purest form. See [Cold War 2.0]({{ site.baseurl }}/conflicts/cold-war-2.html) for full analysis [25].
+A Kremlin-approved programme is transferring Russia's Ukraine-war combat lessons to the Chinese military. The agreement was signed July 2, 2026 by a Russian major general and a Chinese senior colononel. The subject matter is precisely what one would expect from more than four years of high-intensity war: drone warfare, anti-ship missile exposure, and the tactical realities of a contested modern battlefield. Russia holds combat experience accumulated at enormous cost; [China]({{ site.baseurl }}/actors/countries/china.html) holds industrial scale, technological weight, and simulators but has not fought a war in decades. Internal Russian assessments praised the caliber of Chinese training infrastructure while noting Beijing's lack of actual combat experience. A Russia degraded by war, increasingly dependent on Beijing economically and industrially, becomes the weaker partner — yet in becoming weaker it transfers hard-won expertise upward to a rising China that can absorb and industrialise those lessons at scale [25].
 
 ## Nuclear Threshold Policed by Beijing
 
-Beijing delivered Moscow an ultimatum-form warning against using nuclear weapons in Ukraine — the one domain where China's interests diverge from Russia's escalation logic. See [Cold War 2.0]({{ site.baseurl }}/conflicts/cold-war-2.html) for full analysis [25].
+As Russian nuclear saber-rattling accelerated through 2026, with prominent Russian voices openly urging the Kremlin to reach for nuclear weapons after Ukrainian strikes, Beijing reportedly delivered Moscow an ultimatum-form warning that there can be no thought of using nuclear weapons in Ukraine. The message represented a firmer Chinese stance than at any previous point in the war. The DragonBear coordinates across every domain except the one where China's global standing and strategic interest diverge absolutely from Russia's escalation logic. Beijing enables the war machine and simultaneously polices its nuclear threshold. The red line runs through Beijing, not Moscow — coordination and constraint are exercised by the same hand [25].
 
 ## The Spirit of Anchorage is Dead
 
@@ -130,7 +148,7 @@ Russia oscillates between hard doctrines, specific strategies and hard economic 
 
 ## Russia's Last Window: Sino-American Conflict
 
-A Sino-American crisis would represent Russia's "last window" to revise the European order — potentially by ensuring a Chinese Pacific victory rather than directly attacking Europe. The Russian Pacific Fleet has received roughly half of Russia's newest Yasen-class submarines. See [NATO]({{ site.baseurl }}/actors/organizations/nato.html) — "Beyond the Baltics: Risk Manipulation and Theatre-Wide Strike" [27].
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) argues that a Sino-American crisis or war would represent Russia's "last window" to revise the European order. However, Russia's best options might be ensuring a Chinese victory in the Pacific rather than directly attacking Europe. The Russian Pacific Fleet has received roughly half of Russia's newest Yasen-class submarines; submarines allocated to the Northern Fleet can be reallocated east via the northern sea route. Russia has enough key capabilities — submarines and missile launchers — to potentially swing an even balance between the US and China. Much of Russia's industrial base lies within several hundred kilometres of Finland and [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) [27].
 
 ## Shadow Fleet and Oil Revenue
 
@@ -138,7 +156,18 @@ A Sino-American crisis would represent Russia's "last window" to revise the Euro
 
 ## Russia-Iran Cyber Collaboration
 
-Russia-Iran cyber cooperation has been overstated — the relationship is a partnership of convenience with mutual suspicion, limited by distrust (Turla false-flag incident) and counterintelligence concerns. Drone technology and satellite imagery sharing have demonstrated far greater strategic impact. See [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — "Russia-Iran Cyber Dimension" [29].
+[CSIS]({{ site.baseurl }}/actors/authors/csis.html) (Shah and Sherman) document that Russia-Iran cyber cooperation has been repeatedly misread and overstated. Russia's cyber ecosystem is expansive — state intelligence agencies (FSB), state-created front companies, state-coerced cybercriminals, private sector contractors, and patriotic hackers form a complex web. Each actor has different incentives and capabilities. Moscow has established rules (cybercriminals should not undermine Kremlin objectives) but interactions with the state vary widely [29].
+
+Russia and Iran's strategic partnership is driven by self-interest and shared Western adversaries. In cyberspace, their history of cooperation includes: a 2001 treaty establishing a framework for interstate cooperation; a 2021 agreement on cyber and information security (largely defensive, focused on regime control); Russian private sector provision of digital surveillance and censorship software to Iran (2022–23); and a 2025 Comprehensive Strategic Partnership Treaty including strengthened state control of the internet. Russian universities have hosted Iranian state institution delegations; Iranian companies linked to the MOIS have attended Russian hacking competitions [29].
+
+However, several mitigating factors limit the depth of cyber cooperation:
+
+- **Hacktivist coordination ≠ state-to-state collaboration**: Even where cyber actors have state links, degrees of knowledge, approval, and operational alignment vary widely.
+- **Distrust from past incidents**: Russian cyber actor Turla commandeered Iranian cyber espionage infrastructure to launch its own operations — a "false-flag" that likely deepened distrust.
+- **Counterintelligence concerns**: Each state worries about the other conducting cyber espionage on its infrastructure.
+- **Uneasy partnership**: Russia and Iran are strategic partners of convenience, characterized by "mutual suspicion, ideological differences, and competition." Sharing sophisticated capabilities risks repurposing by the partner [29].
+
+The evidence does not substantiate claims of closely coordinated cyber operations or joint capability development. The low-level cyber activity reported in media is highly unlikely to produce a game-changing cyberattack — drone technology and satellite imagery sharing have demonstrated far greater strategic impact [29].
 
 # Analysis
 
