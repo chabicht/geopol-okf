@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Military historian and analyst — author of "War and Power" — arguing that wars are choices of individual leaders, that cheap mass beats expensive precision, and that US decline is accelerating faster than expected
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-18T00:00:00Z
 ---
 
 # Background
@@ -34,59 +34,27 @@ O'Brien argues that the RMA debate — running since the Soviet Military-Technic
 
 O'Brien tracks US decline across military, diplomatic, and societal dimensions, arguing it is accelerating faster than expected. The [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) provided empirical confirmation: military planning failures, diplomatic alienation of allies, and the absence of domestic political consolidation (no rally-round-the-flag effect) all pointed to a superpower whose decline is not gradual but compounding.
 
-O'Brien now argues that US weakness against Iran is total — Tehran strings Washington along, controls the Strait of Hormuz, and rebuilds military capabilities — while mocking analysts who claim wars like Iran's can be won quickly and easily [12]. He warns that the Trump administration's plan to compile a master list of all foreign intelligence sources could be catastrophically destructive, serving only to sell or compromise information [12]. Using Gallup polling data, he argues America has balkanized into two partisan camps where loyalty to party determines views on war and America's global role — a loss of shared national identity that is deeply destructive [13].
-
-In Weekend Update #192, O'Brien documents that India is "gorging" on Russian oil despite sanctions, demonstrating the "true fraudulence of US sanctions." He highlights two reports: the Kiel Institute's "Endgame" concluding Russia's macro stance is unsustainable, and CSIS's "Russian Blood and Treasure" documenting ballooning losses. O'Brien argues the adaptation cycle for long-range strike and air interception is much longer than commonly assumed — there is no sign of a Russian counter to Ukraine's strike campaign. Trump's Iran war generated an extra $15 billion for Russia while destroying any credibility of US sanctions [14].
-
-# Current Tracking
-
-## Russia-Ukraine War
-
-O'Brien provides detailed tracking of the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), focusing on:
-
-- **Crimea isolation campaign** — turning the peninsula from a Russian asset into a liability through systematic strikes on logistics and naval infrastructure
-- **Long-range strikes** — Ukrainian reach extending deep into Russian industrial territory, attacking war production infrastructure beyond refineries
-- **Belarus dynamics** — the strategic significance of Belarus as a theater where Russian and Ukrainian interests intersect with [Lukashenka]({{ site.baseurl }}/actors/lukashenka.html)'s survival calculus
-
-## US-Iran War
-
-O'Brien extracted three key analytical lessons from the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html): the failure of operational planning, the absence of domestic political consolidation, and the acceleration of diplomatic erosion. Each lesson connects back to his framework — leader choices, structural power, and the limits of precision warfare.
-
-In detailed follow-ups, O'Brien catalogued the quantitative degradation:
-
-- **US capabilities rot**: Iranian drones penetrating US defenses (6 soldiers killed in Kuwait), F-15E friendly-fire shootdowns, destruction of a Fifth Fleet radar in Bahrain by a $30K drone. He compared the dynamic to Roman imperial decline [6].
-- **Aircraft losses**: 17 advanced aircraft lost or damaged (fighters, AWACS, SF helicopters), billions in equipment damage, bases hit extensively. A CSIS report confirmed munitions depletion — decades of production burned through in 6 weeks. The Trump administration's corruption has "percolated to the military" [7].
-- **US decline in real time**: Trump desperate to exit but unable to, no good military options, the emerging Iran deal worse than the JCPOA. China backing Iran while treating Taiwan as a "chip." Trump calling on Arab states to join the Abraham Accords to appease Netanyahu and GOP hardliners [8].
-
 ## Ranged War Doctrine
 
-O'Brien provides a primer on long-range vs. medium-range strike in the Russia-Ukraine war:
+O'Brien distinguishes **long-range strike** (strategic bombing — oil refineries, weapons production, industrial base) from **medium-range strike** (logistics disruption — supply lines, rail hubs, ammunition depots). The distinction is diagnostic: what each side chooses to attack reveals war aims and capabilities, and most tactical effect is achieved at medium range while long-range strikes expose the strategic substrate. The framework was developed through his tracking of the Russia-Ukraine war and generalizes to any sustained air interdiction campaign [9][10].
 
-- **Long-range strike** = strategic bombing (oil refineries, weapons production, industrial base). The FP-5 Flamingo missile striking Titan-Barrikady in Volgograd represents this category.
-- **Medium-range strike** = logistics disruption (supply lines, rail hubs, ammunition depots). This is where most tactical effect is achieved.
-- The distinction matters because it reveals what each side wants and is capable of attacking — a diagnostic tool for understanding war aims and capabilities [9][10].
+# Posture Toward the Russia-Ukraine War
 
-O'Brien argues the ranged war is still in its early stages (comparable to mid-1943 in WWII), with both sides capable of significantly increasing production. Ukrainian long-range strikes on Russian oil refineries vs. medium-range strikes on logistics reveal the maturation of Ukraine's operational doctrine [9].
+O'Brien provides detailed real-time tracking of the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), organized around three operational threads: the [Crimea isolation campaign]({{ site.baseurl }}/events/crimea-isolation-campaign.html) (turning the peninsula from a Russian asset into a liability through systematic strikes on logistics and naval infrastructure), long-range strikes extending deep into Russian industrial territory, and [Belarus]({{ site.baseurl }}/actors/lukashenka.html) dynamics as a theater where Russian and Ukrainian interests intersect with Lukashenka's survival calculus. He argues the ranged war is still in its early stages (comparable to mid-1943 in WWII), with both sides capable of significantly increasing production [9][10].
 
-## Putin's Catastrophe
+He documents the under-covered [Sea of Azov campaign]({{ site.baseurl }}/events/sea-of-azov-campaign.html) — Ukraine using air and sea drones to attack 28 Russian-controlled vessels and force the Kerch Strait closure — as a strategically significant extension of the Crimea isolation campaign. He pairs this with the dramatic escalation in Russia's ballistic missile campaign: launches tripled year-over-year (28→70+/month), Ukraine intercepting only 40% of ballistic missiles vs 89% of all threats, Patriot interceptors depleted. Trump's Patriot license pledge, in his reading, gifts Putin 1–3 winters of unrestricted bombardment. See [Ukraine Air Defense Crisis 2026]({{ site.baseurl }}/events/ukraine-air-defense-crisis-2026.html) [17].
 
-O'Brien's analysis of Ukraine's May 2026 [drone strike on Moscow]({{ site.baseurl }}/events/moscow-drone-strike.html) compares it to Japan's loss of the Marianas in WWII — the moment when the propaganda narrative collapsed because the war reached the homeland. With Russia's 1M+ cumulative casualties and compromised Moscow air defenses, Putin can no longer hide the war's cost from the Russian public [11].
+O'Brien frames Ukraine's May 2026 [drone strike on Moscow]({{ site.baseurl }}/events/moscow-drone-strike.html) as Russia's Marianas moment — the point at which the propaganda narrative collapsed because the war reached the homeland, comparing it to Japan's loss of the Marianas in WWII. With Russia's 1M+ cumulative casualties and compromised Moscow air defenses, Putin can no longer hide the war's cost from the Russian public [11]. On the Russian economic side, O'Brien documents (via Kiel Institute and CSIS data) that India is "gorging" on Russian oil despite sanctions, that Trump's Iran war generated an extra $15 billion for Russia while destroying the credibility of US sanctions, and that the adaptation cycle for long-range strike and air interception is much longer than commonly assumed — there is no sign of a Russian counter to Ukraine's strike campaign [14].
 
-## NATO Summit Critique
+# Posture Toward the US-Iran War
 
-O'Brien offers a sharply dissenting assessment of the [NATO Ankara Summit]({{ site.baseurl }}/events/nato-ankara-summit-2026.html), calling it "the worst summit in NATO history." His critique: no US conventional defense commitment, a force posture review that is a veiled threat, the nuclear umbrella is meaningless without conventional forces, the Patriot license for Ukraine is hollow (no details, no consultation with manufacturers, will take years), and the 2027 summit was dropped from the declaration because European leaders see no reason to repeat the exercise. Trump's "tremendous love" rhetoric is a reliable tell that he is lying [16].
+O'Brien extracted three key analytical lessons from the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html): the failure of operational planning, the absence of domestic political consolidation (no rally-round-the-flag effect), and the acceleration of diplomatic erosion — each connecting back to his framework of leader choices, structural power, and the limits of precision warfare [1]. He catalogued the quantitative degradation in detail: Iranian drones penetrating US defenses (6 soldiers killed in Kuwait), F-15E friendly-fire shootdowns, destruction of a Fifth Fleet radar in Bahrain by a $30K drone — a dynamic he compares to Roman imperial decline [6]. Seventeen advanced aircraft lost or damaged (fighters, AWACS, SF helicopters), billions in equipment damage, bases hit extensively, with a CSIS report confirming munitions depletion — decades of production burned through in 6 weeks [7].
 
-## Lindsey Graham Analysis
+He now argues US weakness against Iran is total — Tehran strings Washington along, controls the Strait of Hormuz, and rebuilds military capabilities — while mocking analysts who claim wars like Iran's can be won quickly and easily [12]. He warns that the Trump administration's plan to compile a master list of all foreign intelligence sources could be catastrophically destructive, serving only to sell or compromise information [12]. Using Gallup polling data, he argues America has balkanized into two partisan camps where loyalty to party determines views on war and America's global role — a loss of shared national identity that is deeply destructive [13]. See [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) for the operational account.
 
-O'Brien compiled [Lindsey Graham]({{ site.baseurl }}/actors/lindsey-graham.html)'s own quotes — without editorializing — to demonstrate Graham was never a friend of Ukraine. Key findings: Graham reversed his position on Ukraine aid to follow Trump (grants → loans), praised Trump and Vance for the Oval Office ambush of Zelensky (Feb 28, 2025), repeatedly claimed Trump would allow a vote on the Graham-Blumenthal sanctions bill (which never happened and which Graham never criticized Trump for blocking), never criticized Trump for ending all US military aid to Ukraine, and made false claims that Trump was about to support Ukraine. Graham called the Danish PM a "little lady" and said "who gives a shit who owns Greenland?" [17].
+# Posture Toward NATO
 
-## Sea of Azov Campaign
-
-O'Brien documents the under-covered [Sea of Azov campaign]({{ site.baseurl }}/events/sea-of-azov-campaign.html) — Ukraine using air and sea drones to attack 28 Russian-controlled vessels, forcing Russia to close the Kerch Strait. He argues this strategically significant campaign is extending the Crimea isolation campaign and deserves far more coverage. He also documents the Omsk refinery strike (2,500+ km, ELOU-AVT-11 unit hit) as evidence of maturing long-range capability [18].
-
-## Ballistic Missile Escalation and Air Defense Crisis
-
-O'Brien documents the dramatic escalation in Russia's ballistic missile campaign: launches tripled year-over-year (28→70+/month), Ukraine intercepting only 40% of ballistic missiles vs 89% of all threats, Patriot interceptors depleted. He argues Trump's Patriot license pledge gifts Putin 1-3 winters of unrestricted bombardment — the most optimistic Ukrainian forecast is one year to production, but most believe longer. Japan produces only 30 PAC-3 interceptors annually after years of licensing. See [Ukraine Air Defense Crisis 2026]({{ site.baseurl }}/events/ukraine-air-defense-crisis-2026.html) [18].
+O'Brien offers a sharply dissenting assessment of the [NATO Ankara Summit]({{ site.baseurl }}/events/nato-ankara-summit-2026.html), calling it "the worst summit in NATO history." His critique centers on five points: no US conventional defense commitment (the summit declaration contained nothing specific about the USA, and Secretary Hegseth's six-month force posture review is a veiled threat); the nuclear umbrella is meaningless without conventional forces ("The US might not fight for the Baltic States conventionally, but it will 'blow up the world' if Putin uses a nuclear weapon on them? This is simply not happening"); the Patriot license for [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) is hollow (no details, no consultation with manufacturers, will take years); the 2027 summit was dropped from the declaration because European leaders see no reason to repeat the exercise; and Trump made three explicit threats against [Greenland]({{ site.baseurl }}/events/trump-greenland-crisis.html) over three days before, during, and after the summit. O'Brien identifies Trump's claims about caring, human affection, and "tremendous love in that room" as a reliable tell that he is lying [16].
 
 # Sources in Bundle
 
@@ -106,8 +74,7 @@ O'Brien documents the dramatic escalation in Russia's ballistic missile campaign
 - "Weekend Update #192: Can Russia Counter?" [14]
 - "Yes, We Are In A Revolution In Military Affairs" [15]
 - "The Worst NATO Summit In History" [16]
-- "Lindsey Graham On Ukraine and Trump" [17]
-- "Weekend Update #193: What Is Happening In The Sea Of Azov?" [18]
+- "Weekend Update #193: What Is Happening In The Sea Of Azov?" [17]
 
 # Citations
 
@@ -143,6 +110,4 @@ O'Brien documents the dramatic escalation in Russia's ballistic missile campaign
 
 [16] [The Worst NATO Summit In History](https://phillipspobrien.substack.com/p/the-worst-nato-summit-in-history)
 
-[17] [Lindsey Graham On Ukraine and Trump](https://phillipspobrien.substack.com/p/lindsey-graham-on-ukraine-and-trump)
-
-[18] [Weekend Update #193: What Is Happening In The Sea Of Azov?](https://phillipspobrien.substack.com/p/weekend-update-193-what-is-happening)
+[17] [Weekend Update #193: What Is Happening In The Sea Of Azov?](https://phillipspobrien.substack.com/p/weekend-update-193-what-is-happening)

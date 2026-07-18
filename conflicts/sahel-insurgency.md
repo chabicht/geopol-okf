@@ -15,7 +15,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Background
 
-Jihadist groups including JNIM (Jama'at Nusrat al-Islam wal-Muslimin) and the Azawad Liberation Front operate across [Mali]({{ site.baseurl }}/regions/africa.html), Burkina Faso, and Niger, conducting insurgencies that have displaced millions and rendered vast territories outside state control. The military regimes that seized power in these states expelled Western security partners — most prominently France's Operation Barkhane — and turned to [Russia]({{ site.baseurl }}/actors/countries/russia.html) for security assistance, framing the shift in sovereignty rhetoric and anti-French sentiment.
+Jihadist groups including JNIM (Jama'at Nusrat al-Islam wal-Muslimin) and the Azawad Liberation Front operate across Mali, Burkina Faso, and Niger, conducting insurgencies that have displaced millions and rendered vast territories outside state control. The military regimes that seized power in these states expelled Western security partners — most prominently France's Operation Barkhane — and turned to [Russia]({{ site.baseurl }}/actors/countries/russia.html) for security assistance, framing the shift in sovereignty rhetoric and anti-French sentiment.
 
 The Alliance of Sahel States (AES) was formed as a mutual defense and cooperation pact among the military governments, presenting itself as a sovereignty-first alternative to French-led security frameworks. However, the security situation on the ground has continued to deteriorate.
 
