@@ -9,7 +9,7 @@ tags:
   - trade
   - supply-chain
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-18T00:00:00Z
 ---
 
 # Background
@@ -174,6 +174,24 @@ The analysis identifies a structural trap in refinery optimization: by 1980, a q
 
 The EROI decline is accelerating: in 1980, every barrel of oil equivalent invested in drilling yielded 30 new barrels; this is now below 10. In 2024, 80% of global oil production and 90% of natural gas production came from fields that had passed their peak. The US EIA projects US oil production will peak at 14 million barrels per day in 2027 before rapidly declining. The Honest Sorcerer concludes: if oil production falls — whether due to wars or a global peak — the economy falls with it. Diesel fuel, the most valuable portion of the barrel, cannot be substituted with electricity at scale. Without diesel, there is no copper, zinc, nickel, silicon — or anything needed to make "renewables" [20].
 
+## The Oil Price "Mystery": Refining Capacity as the Binding Constraint
+
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) explains why oil prices barely budged — set to gain only ~12% over the week — despite the [Hormuz ceasefire collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html), tanker attacks, the [US naval blockade]({{ site.baseurl }}/events/us-naval-blockade-iran.html), and transits through the Strait falling to single digits. The answer is not a mystery but a throughput problem: nobody buys crude oil except refineries and storage facilities, and refineries are shutting down [25].
+
+**Refining capacity collapse**: Nearly 3 million bpd of Middle East refining capacity shut down due to attacks and lack of viable export outlets. Refineries globally cut back production by 9 million bpd — more than 10% of global capacity. [China]({{ site.baseurl }}/actors/countries/china.html)'s refinery runs crashed to pandemic lows as crude imports collapsed by more than 40% year-over-year in June, to just 7.1 million bpd (S&P Global put imports at 4.9 million bpd as of July 5). Refineries are reluctant to restart because restarting complex installations is neither fast nor cost-free, and shippers are unwilling to risk passage through the strait. Physical demand for crude has thus remained extremely low — and with no buyers, prices fall, not rise [25].
+
+**The crack spread crisis**: The real issue is not the price of crude oil but the price of refined products. Ultra-low sulfur diesel reached $4 per gallon wholesale ($168 per barrel) against a ~$80 crude price — an absolutely epic crack spread. The economy runs on refined products: gasoline, diesel, jet fuel. It is not oil at $150 that will kill the economy but record-high fuel prices. Citing the cost of crude oil is a total misdirection [25].
+
+**Russian diesel collapse**: Ukrainian drone strikes on [Russian]({{ site.baseurl }}/actors/countries/russia.html) refineries and shipping on the Sea of Azov and Black Sea drove Russian diesel exports from 800,000 bpd before the war to complete collapse to zero, forcing [Russia]({{ site.baseurl }}/actors/countries/russia.html) to import fuel. This compounds Persian Gulf diesel exports falling by more than 520,000 bpd compared to the prior year. US Gulf refineries are already running at 96% utilization. [India]({{ site.baseurl }}/actors/countries/india.html) — now the world's refining swing producer — doubled export duties on diesel and jet fuel to keep barrels at home. The world is entering a major diesel fuel crunch even as oil prices stay below $100 [25].
+
+**SPR drawdown deceleration**: The [SPR]({{ site.baseurl }}/events/spr-depletion-crisis.html) reached 316.5 million barrels, with the average daily draw-down rate falling from ~1.3 million barrels in mid-June to 0.43 million barrels in the week ended July 10. If the trend continues, the withdrawal rate could fall to zero by early August, making the lifting of the remaining 72-73 million barrels highly unlikely. The roughly 60 million barrels of sour medium heavy crude released contributed only 0.6 million bpd to the ~17 million bpd inputs to US refineries at May-June rates [25].
+
+**Futures curve and storage economics**: The Light Crude Oil Futures Curve showed a hyperbolic downward trend — a market expecting steady erosion in prices, favoring immediate consumption and inventory drawdowns over storage. The September contract stood at $84.81, some $6.26 higher than March 2027 contracts. With market speculation and insider trading, the risk of buying high and being forced to sell low discourages storage purchases — unless mandated by law with compensation guarantees [25].
+
+**Pipeline bypass inadequacy**: Current pipeline diversions (~7.5 million bpd total) through Yanbu (Red Sea) and Fujairah (Gulf of Oman) did not start from zero — they already carried 3.5 million bpd before the war, providing only 4 million bpd of relief. Middle East loadings in April-June were ~14 million bpd below February levels. This is not a hole pluggable by a 300,000 barrel Iraq-Syria pipeline or by doubling Fujairah capacity — especially when pipes and export terminals can be destroyed by ballistic missiles whenever [Iran]({{ site.baseurl }}/actors/countries/iran.html) sees fit. Iran warned that in response to the US naval blockade, "other export routes for oil and gas which serve the interests of America and its allies" will also be closed, including the UAE Fujairah pipeline and Saudi East-West pipeline: "oil and gas exports from the region: either for everyone or for no one" [25].
+
+**Model collapse**: Basing economic and military decisions on crude prices alone has become a civilizational risk. Diesel prices rising ahead of the Southern Hemisphere's planting season and the Northern Hemisphere's harvest mean food price inflation and shortages — especially with El Niño strengthening. Crude prices have become anything but an accurate mapping of the real world. The same technology that identifies a trafficker can identify an investigative journalist — and the same pricing model that worked a year ago is dangerously wrong in a world stripped of refining capacity where multiple wars are being waged over energy [25].
+
 # Citations
 
 [1] [The Myth of American Energy Independence](https://thehonestsorcerer.substack.com/p/the-myth-of-american-energy-independence)
@@ -223,3 +241,5 @@ The EROI decline is accelerating: in 1980, every barrel of oil equivalent invest
 [23] [Suddenly, Hormuz is Less Crucial Than It Was](https://paulkrugman.substack.com/p/suddenly-hormuz-is-less-crucial-than)
 
 [24] [We Are Not Mining with Renewable Energy](https://thehonestsorcerer.substack.com/p/we-are-not-mining-with-renewable-104)
+
+[25] [The Oil Price "Mystery"](https://thehonestsorcerer.substack.com/p/the-oil-price-mystery)

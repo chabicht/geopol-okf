@@ -54,6 +54,10 @@ RUSI traces NATO's three phases of partnerships: post-1991 (enlargement and post
 
 RUSI proposes the Land Carrier Battle Group (LCBG) — a combined arms formation centred on UAS carriers rather than traditional tank battalions, drawing on the historical evolution of naval aviation. Just as aircraft carriers made air power integral to naval task forces, drone carriers could make UAS integral to land manoeuvre operations. The LCBG integrates: (1) UAS storage, launch, and C2 systems mounted on traditional land platforms providing continuous tactical drone support; (2) mobile counter-UAS platforms (SHORAD) for short-range air defence against drones and anti-tank missiles; (3) tactical missile carriers for rapid precision fires; (4) traditional tanks and APCs for direct fire and infantry support during close combat. AI-enhanced situational awareness is the integrating element — enabling rapid decision-making at vehicle and platform level, analogous to how radio-enabled mission command defined Panzer division supremacy in 1940. The concept addresses the attrition stalemate of drone-dominated battlefields (Ukraine, Israel-Lebanon) where mechanised manoeuvrability has been paralyzed [8].
 
+## The Algorithmic Deterrent
+
+Francisco Carneiro Júnior (RUSI Newsbrief) analyses Palantir Technologies' 22-point manifesto as a doctrine-level strategic disclosure: the declaration that the atomic age of deterrence is ending and an algorithmic age is beginning. The framework identifies a shift from warhead yield to autonomous targeting speed and data-fusion accuracy as the relevant strategic capability — a commercial drone costing hundreds of dollars can destroy a tank costing fifteen million, inverting the cost asymmetry that underpinned post-1945 deterrence. Palantir's Maven Smart System fused satellite reconnaissance, drone surveillance, signals intelligence, and pattern-of-life analysis to recommend strike packages during [Operation Epic Fury]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), with over 13,000 strikes reported by April 9. The analysis extends to digital sovereignty: a state outsourcing AI to foreign companies with organic ties to a foreign government is a "digital protectorate." Switzerland's formal assessment and rejection of Palantir is the one documented case of a government applying a sovereignty standard before controversy forced the question; the UK's NHS Federated Data Platform (£330M Palantir contract) supplies the opposite case. See [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html) and [Tech Stack Diplomacy]({{ site.baseurl }}/themes/tech-stack-diplomacy.html) [9].
+
 # Sources in Bundle
 
 - "Cheap Attack, Expensive Defence: NATO 5% Pledge Following Iran and Ukraine" [1]
@@ -64,6 +68,7 @@ RUSI proposes the Land Carrier Battle Group (LCBG) — a combined arms formation
 - "Thinking Beyond the Baltics for Deterring Russia" [6]
 - "What's Left of NATO's Asia Engagement?" [7]
 - "The AI-Enhanced Land Carrier Battle Group: The Way Forward" [8]
+- "The Algorithmic Deterrent" [9]
 
 # Citations
 
@@ -82,3 +87,5 @@ RUSI proposes the Land Carrier Battle Group (LCBG) — a combined arms formation
 [7] [What's Left of NATO's Asia Engagement?](https://www.rusi.org/explore-our-research/publications/commentary/whats-left-natos-asia-engagement)
 
 [8] [The AI-Enhanced Land Carrier Battle Group: The Way Forward](https://www.rusi.org/explore-our-research/publications/rusi-defence-systems/ai-enhanced-land-carrier-battle-group-way-forward)
+
+[9] [The Algorithmic Deterrent](https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/algorithmic-deterrent)

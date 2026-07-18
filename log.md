@@ -4,6 +4,29 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-07-18 — Source Incorporation: The Algorithmic Deterrent + The Oil Price "Mystery"
+
+Incorporated two new source articles into the knowledge base, dissolving their analytical content across 10 existing concepts.
+
+**Sources:**
+
+1. **"The Algorithmic Deterrent"** (RUSI, Francisco Carneiro Júnior, 2026-07-16) — Palantir's 22-point manifesto, algorithmic deterrence replacing nuclear deterrence, Maven Smart System in Operation Epic Fury, digital sovereignty / "digital protectorate" concept, Switzerland's rejection of Palantir, UK NHS Palantir contract, cartel drone warfare (CJNG, FARC dissidents), OODA-loop speed, six lessons for sovereignty.
+2. **"The Oil Price 'Mystery'"** (The Honest Sorcerer, 2026-07-18) — Why oil prices barely budged despite Hormuz escalation, refining capacity as the binding constraint (3M bpd ME shut down, 9M bpd global cutbacks), diesel crack spread crisis ($168/barrel diesel vs $80 crude), Russian diesel collapse to zero, India doubling export duties, SPR drawdown deceleration (falling to zero by August), pipeline bypass inadequacy, "model collapse" risk.
+
+**Concepts updated:**
+
+| File | Changes |
+|------|---------|
+| `themes/ai-military-race.md` | Added "Algorithmic Deterrence and the Post-Atomic Era" analysis section (Palantir manifesto, Point 12, Maven/Epic Fury, six lessons). Citation [9]. |
+| `themes/tech-stack-diplomacy.md` | Added "The Digital Protectorate" analysis section (digital sovereignty, Switzerland rejection, UK NHS contract, Palantir embedded in NATO/WFP/IAEA, Moynihan accountability framework). Citation [3]. |
+| `actors/authors/rusi.md` | Added "The Algorithmic Deterrent" framework to Key Frameworks, source [9] and citation. |
+| `themes/organised-crime-and-statecraft.md` | Added "Armed Criminal Networks and Military Drone Technology" section (CJNG drone unit, FARC dissidents, sub-state asymmetry, doctrine gap). Citation [5]. |
+| `themes/revolution-in-military-affairs.md` | Added "Algorithmic Deterrence as RMA Doctrine" section connecting Palantir manifesto to O'Brien's RMA thesis. Citation [4]. |
+| `conflicts/us-iran-war-2026.md` | Added "AI-Enabled Targeting: Maven Smart System" section (13,000 strikes, ~1,000 opening day). Added "The Diesel Crack Spread and the Real Price of Oil" section (refining collapse, crack spread data, SPR deceleration). Citations [41][42]. |
+| `themes/energy-and-resources.md` | Added "The Oil Price 'Mystery': Refining Capacity as the Binding Constraint" analysis section (refining collapse, crack spread, Russian diesel, SPR, futures curve, pipeline bypass, model collapse). Citation [25]. |
+| `events/spr-depletion-crisis.md` | Added "Drawdown Deceleration (July 2026)" section with latest SPR data (316.5M barrels, rate falling to 0.43M bpd, trending to zero by August). Citation [6]. |
+| `actors/authors/the-honest-sorcerer.md` | Added source [33] and citation for "The Oil Price 'Mystery'". |
+
 ## 2026-07-16 — Consolidation Pass
 
 First consolidation pass: designated authoritative files for 8 major topics and trimmed near-verbatim duplicates across 14 files. Unique data points were moved to authoritative files before trimming; all trimmed sections now contain 1-2 sentence summaries with cross-links.

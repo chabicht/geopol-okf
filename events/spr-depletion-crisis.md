@@ -7,7 +7,7 @@ tags: [energy, economics]
 status: ongoing
 actuality: actual
 event_date: 2026-05-09
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-18T00:00:00Z
 ---
 
 # Background
@@ -36,6 +36,10 @@ The US Strategic Petroleum Reserve (SPR) is the world's largest emergency crude 
 
 The arithmetic is stark: about 1.3 billion barrels of oil have vanished from the market this year — the equivalent of thirteen full days of everything the entire world consumes — and the gap was covered almost entirely by emptying emergency and commercial stockpiles. Nobody is refilling them. Every barrel from a stockpile can be used only once. The moment the drawdowns stop and normal buying resumes, the arithmetic reverses — with less oil in storage than at any point in decades [5].
 
+## Drawdown Deceleration (July 2026)
+
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) reports that the SPR reached 316.5 million barrels, with the average daily draw-down rate falling sharply — from ~1.3 million barrels in mid-June to 0.43 million barrels in the week ended July 10. At this trend, the withdrawal rate could fall to zero by early August, making the lifting of the remaining 72-73 million barrels highly unlikely. Of the nearly 100 million barrels released since late March, roughly 60 million were sour medium heavy crude (high diesel yields), with the rest being light sweet crude (mostly exported abroad). At May-June drawdown rates (~1 million bpd), the release contributed only 0.6 million bpd to the ~17 million bpd inputs delivered to US refineries. Should the SPR go completely kaput in August, the US would need to source an additional 0.6 million bpd of medium heavy crude — difficult but not existential, since distillate stocks still sit at comfortably high levels. What will not change is the pricing of refined products, given the strictly limited global supply of medium heavy crude and refined fuels [6].
+
 # Citations
 
 [1] [The Quiet Before the Squeeze — Why Hormuz Hasn't Sent Oil to $150](https://substack.com/@velinatchakarova/p-201366553)
@@ -47,3 +51,5 @@ The arithmetic is stark: about 1.3 billion barrels of oil have vanished from the
 [4] [The Price of Oil Is the Real Iran Deal](https://escalationtrap.substack.com/p/the-price-of-oil-is-the-real-iran)
 
 [5] [Global System Rupture](https://substack.com/@velinatchakarova/p-205351600)
+
+[6] [The Oil Price "Mystery"](https://thehonestsorcerer.substack.com/p/the-oil-price-mystery)

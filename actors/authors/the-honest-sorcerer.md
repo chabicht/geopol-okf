@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Energy-centered analyst arguing that energy throughput — not GDP — is the true measure of power, that resource depletion is exponential, and that there is no "next economy" on a finite planet
 tags: [author, framework, opinion, energy]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-18T00:00:00Z
 ---
 
 # Background
@@ -116,6 +116,7 @@ The article is a tribute to the work of Simon Michaux, geologist and mining engi
 - "How to Read the Signs of Collapse" (podcast with Nate Hagens) [30]
 - "Infinite Growth Delusions Continue — For Now" [31]
 - "We Are Not Mining with Renewable Energy" [32]
+- "The Oil Price 'Mystery'" [33]
 
 # Citations
 
@@ -182,3 +183,5 @@ The article is a tribute to the work of Simon Michaux, geologist and mining engi
 [31] [Infinite Growth Delusions Continue — For Now](https://thehonestsorcerer.substack.com/p/infinite-growth-delusions-continue)
 
 [32] [We Are Not Mining with Renewable Energy](https://thehonestsorcerer.substack.com/p/we-are-not-mining-with-renewable-104)
+
+[33] [The Oil Price "Mystery"](https://thehonestsorcerer.substack.com/p/the-oil-price-mystery)
