@@ -11,7 +11,7 @@ tags:
   - sanctions
   - middle-east
 status: ongoing
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-18T00:00:00Z
 ---
 
 # Background

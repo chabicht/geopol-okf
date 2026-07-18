@@ -5,7 +5,7 @@ parent: Countries
 description: Turkey as a geopolitical actor — emerging as the Middle East's dominant power, capitalizing on Iran's decline to expand across Syria, Iraq, Lebanon, and the Horn of Africa, competing with Israel for regional influence, and pursuing independent defense cooperation outside NATO constraints
 tags: [country, military, drone-warfare, africa, nato, middle-east, naval, ideology]
 status: ongoing
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-18T00:00:00Z
 ---
 
 # Background
@@ -68,7 +68,7 @@ The Israel-Turkey rivalry is emerging as the defining competitive dynamic in the
 
 ## Autocratisation and Its Economic Consequences
 
-Yaşar Aydın ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) documents Turkey's trajectory from competitive authoritarianism to full autocracy, with the 2016 failed coup as the inflection point. On July 15, 2016, factions within the Turkish military attempted to overthrow [Erdoğan]({{ site.baseurl }}/) and the government. The coup failed due to public resistance, political opposition, and army divisions. Erdoğan used the event as a political opportunity to consolidate power [7].
+Yaşar Aydın ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) documents Turkey's trajectory from competitive authoritarianism to full autocracy, with the 2016 failed coup as the inflection point. On July 15, 2016, factions within the Turkish military attempted to overthrow Erdoğan and the government. The coup failed due to public resistance, political opposition, and army divisions. Erdoğan used the event as a political opportunity to consolidate power [7].
 
 ### Purges and Institutional Restructuring
 

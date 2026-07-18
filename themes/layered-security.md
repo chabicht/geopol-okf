@@ -5,7 +5,7 @@ parent: Themes
 description: "The shift from rigid Cold War-era alliance structures to layered, mission-limited security arrangements — middle powers supplementing alliances with region-specific cooperation below the threshold of collective defense."
 tags: [military, cold-war]
 status: ongoing
-timestamp: 2026-01-22T00:00:00Z
+timestamp: 2026-07-18T00:00:00Z
 ---
 
 # Background

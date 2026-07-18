@@ -9,7 +9,7 @@ tags:
   - democracy
   - oligarchy
 status: ongoing
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-18T00:00:00Z
 ---
 
 # Background
@@ -148,7 +148,7 @@ The pattern connects foreign policy failure to domestic repression: when winning
 
 ## Turkey's Autocratisation Path
 
-Yaşar Aydın ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) documents Turkey's trajectory from competitive authoritarianism to full autocracy, using the 2016 failed coup as the inflection point. [Erdoğan]({{ site.baseurl }}/) used the failed coup to consolidate power through comprehensive purges (~130,000 dismissed, ~332,000 arrested, 4,000 judges removed, 131 media companies shut down) under a state of emergency lasting until July 2018. The April 2017 constitutional referendum introduced a presidential system — passed by a narrow, contested majority with ~2 million improperly stamped ballots admitted by the Supreme Electoral Committee. Freedom House downgraded Turkey to "Not Free" in 2018; the Liberal Democracy Index score nearly halved [20].
+Yaşar Aydın ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) documents Turkey's trajectory from competitive authoritarianism to full autocracy, using the 2016 failed coup as the inflection point. Erdoğan used the failed coup to consolidate power through comprehensive purges (~130,000 dismissed, ~332,000 arrested, 4,000 judges removed, 131 media companies shut down) under a state of emergency lasting until July 2018. The April 2017 constitutional referendum introduced a presidential system — passed by a narrow, contested majority with ~2 million improperly stamped ballots admitted by the Supreme Electoral Committee. Freedom House downgraded Turkey to "Not Free" in 2018; the Liberal Democracy Index score nearly halved [20].
 
 The economic consequences of autocratisation are documented: average GDP growth fell from 6.5% to 3.5%, nominal GDP per capita fell from ~$11,000 to ~$9,700, FDI declined from $15B to $11B, inflation rose from 7% to 14%, and the lira depreciated significantly. The weakening of the rule of law, property rights, and central bank independence increased policy uncertainty and eroded the institutional framework of the Turkish economy. Ongoing repression against the CHP and renewed constitutional amendment efforts continue to destabilize the investment climate. See [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) [20].
 

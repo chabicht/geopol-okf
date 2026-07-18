@@ -9,7 +9,7 @@ tags:
   - ai
   - drone-warfare
 status: ongoing
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-18T00:00:00Z
 ---
 
 # Background
@@ -84,7 +84,7 @@ The AI dimension is critical: the LCBG requires rapid decision-making localised 
 
 ## Algorithmic Deterrence as RMA Doctrine
 
-[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) (Carneiro Júnior) provides the doctrine-level articulation of the RMA through Palantir's 22-point manifesto: "One age of deterrence, the atomic age, is ending, and a new era of deterrence built on AI is set to begin." This is not a vendor's marketing claim but the considered position of a company whose Maven Smart System fused satellite reconnaissance, drone surveillance, signals intelligence, and pattern-of-life analysis to recommend strike packages during [Operation Epic Fury]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — over 13,000 strikes, roughly 1,000 on the opening day. The algorithmic deterrent is the RMA's strategic expression: the capability that mattered in the last century was warhead yield; in this century it is the speed and accuracy of autonomous targeting and data fusion. The cost asymmetry O'Brien identifies (cheap mass vs expensive precision) is the mechanism through which algorithmic deterrence operates — a few-hundred-dollar drone destroying a $15M tank, a swarm of a hundred autonomous drones saturating conventional air defence. See [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html) for the full analysis [4].
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) (Carneiro Júnior) provides the doctrine-level articulation of the RMA through Palantir's 22-point manifesto: "One age of deterrence, the atomic age, is ending, and a new era of deterrence built on AI is set to begin." The algorithmic deterrent is the RMA's strategic expression: the capability that mattered in the last century was warhead yield; in this century it is the speed and accuracy of autonomous targeting and data fusion. The cost asymmetry O'Brien identifies (cheap mass vs expensive precision) is the mechanism through which algorithmic deterrence operates — a few-hundred-dollar drone destroying a $15M tank, a swarm of a hundred autonomous drones saturating conventional air defence. Maven Smart System's role in [Operation Epic Fury]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — over 13,000 strikes — supplied the first operational evidence. See [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html) for the full analysis and [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) for the operational account [4].
 
 # Citations
 

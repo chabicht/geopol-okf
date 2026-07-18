@@ -4,9 +4,22 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-07-18 — Review Remediation Pass
+
+Applied fixes from the okf-review of the last 5 source-incorporation commits (af9a0f3, f80dddd, a0c00db, ae8f0e5, d99a098).
+
+* **Fix (blocking)**: Corrected mis-citation in [Cold War 2.0]({{ site.baseurl }}/conflicts/cold-war-2.html) — six body `[5]` references in the DragonBear sections (lines 39, 41, 43, 45, 47, 78) changed to `[8]` (the correct "DragonBear in July" source); pre-existing `[5]` at line 69 (AI military race) preserved. Citation `[8]` is now referenced.
+* **Fix (material)**: Removed wrong-target cross-link in [Tech Stack Diplomacy]({{ site.baseurl }}/themes/tech-stack-diplomacy.html) — "Switzerland" linked to `germany.html`; rendered as plain text (no `switzerland.md` concept exists).
+* **Fix (material)**: Re-paraphrased [Spirit of Anchorage 2025]({{ site.baseurl }}/events/spirit-of-anchorage-2025.html) "Current Situation" subsections and `# Analysis` to synthesize rather than reproduce the RUSI source near-verbatim. Attribution `[1]`, cross-links, and Russian terms preserved.
+* **Fix (closable)**: Refreshed stale timestamps to 2026-07-18 on [rusi.md]({{ site.baseurl }}/actors/authors/rusi.html), [revolution-in-military-affairs.md]({{ site.baseurl }}/themes/revolution-in-military-affairs.html), [us-iran-war-2026.md]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), [germany.md]({{ site.baseurl }}/actors/countries/germany.html), [layered-security.md]({{ site.baseurl }}/themes/layered-security.html), [turkey.md]({{ site.baseurl }}/actors/countries/turkey.html), [ideology-and-democracy.md]({{ site.baseurl }}/themes/ideology-and-democracy.html), [japan.md]({{ site.baseurl }}/actors/countries/japan.html).
+* **Fix (closable)**: Removed broken `[Erdoğan]({{ site.baseurl }}/)` empty links in turkey.md and ideology-and-democracy.md (plain text, no concept exists). Removed mismatched `Japan`→indo-pacific self-link in japan.md (plain text on the country's own page).
+* **Fix (closable)**: Added "Refining Capacity as the Binding Constraint" framework section to [The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) for source [33], consistent with the author concept's per-source pattern.
+* **Fix (closable)**: De-duplicated the Maven/13,000-strike narrative across [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html), [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html), and [rusi.md]({{ site.baseurl }}/actors/authors/rusi.html) — trimmed to cross-linked summaries; [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) retained as the authoritative operational account.
+* **Fix (closable)**: Corrected log.md af9a0f3 entry ("10 existing concepts" → "9"); added "Updated timestamp" to the f80dddd Germany line for consistency.
+
 ## 2026-07-18 — Source Incorporation: The Algorithmic Deterrent + The Oil Price "Mystery"
 
-Incorporated two new source articles into the knowledge base, dissolving their analytical content across 10 existing concepts.
+Incorporated two new source articles into the knowledge base, dissolving their analytical content across 9 existing concepts.
 
 **Sources:**
 
@@ -70,7 +83,7 @@ Authoritative files gained modestly from moved unique content:
 * **Update**: Major expansion of [Russia]({{ site.baseurl }}/actors/countries/russia.html) — added Russia-Iran Cyber Collaboration section (2001 treaty, 2021 cyber agreement, 2025 strategic partnership, private sector surveillance transfers, hacktivist coordination overstated, Turla false-flag, distrust). Added citation [29], `cyber` tag.
 * **Update**: Major expansion of [Iran]({{ site.baseurl }}/actors/countries/iran.html) — added Russia-Iran Cyber Collaboration section (IRGC/MOIS ecosystem, hacktivist landscape, tactical vs strategic cooperation, drone/satellite cooperation more significant). Added citation [16], `cyber` tag.
 * **Update**: Major expansion of [United States]({{ site.baseurl }}/actors/countries/united-states.html) — added Iran War Costs: The $87.6 Billion Supplemental section ($87.6B total, ~$32.7B war costs, DOD $67.1B breakdown, munitions $21B, 228 destroyed structures, CSIS vs OMB estimates), AI Data Center Backlash section (71% opposition, 50-point swing, NIMBY core, water/electricity concerns, Democratic opportunity, Sanders moratorium). Added citations [26]-[27]. Updated timestamp.
-* **Update**: Updated [Germany]({{ site.baseurl }}/actors/countries/germany.html) — added Colombia Climate Cooperation section (€200M bilateral partnership, BMZ partner, cooperation falling short of potential). Added citation [11], `energy` tag.
+* **Update**: Updated [Germany]({{ site.baseurl }}/actors/countries/germany.html) — added Colombia Climate Cooperation section (€200M bilateral partnership, BMZ partner, cooperation falling short of potential). Added citation [11], `energy` tag. Updated timestamp.
 * **Update**: Major expansion of [CSIS]({{ site.baseurl }}/actors/authors/csis.html) — added Russia-Iran Cyber Ecosystem Analysis framework (Shah/Sherman: multi-layered ecosystems, hacktivist vs state distinction, Turla false-flag, overstated cooperation), War Cost Estimation framework (Cancian/Park: supplemental breakdown methodology, three categories, CSIS vs OMB comparison). Added sources [2]-[3] and citations [2]-[3]. Added `cyber` tag. Updated timestamp.
 * **Update**: Updated [RUSI]({{ site.baseurl }}/actors/authors/rusi.html) — added Land Carrier Battle Group Concept framework (naval aviation analogy, UAS carriers, SHORAD, missile artillery, AI integration, combined arms reconfiguration). Added source [8] and citation [8].
 * **Update**: Major expansion of [European Union]({{ site.baseurl }}/actors/organizations/eu.html) — added Tunisia Visibility Dilemma section (EIB-financed "Chinese Bridge", migration MoU failure, Saied's backsliding, European retreat to diffuse initiatives), Colombia Cooperation section (Global Gateway €106M, €200M German pledge, Partnership and Cooperation Agreement negotiations, EU perceived as fragmented/hesitant). Added citations [8]-[9]. Updated timestamp.
