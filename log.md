@@ -4,6 +4,63 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-07-18 — Consolidation Pass 3: Regions
+
+Two-pass consolidation targeting all 8 region concept files. Refactored 6 files
+from flat source-organized bullet lists into thematic woven prose with `##`
+subsections. Skipped 2 already-well-structured files (arctic, red-sea).
+Redistributed conflict-operation content from middle-east.md to the conflict
+file via cross-links. Replaced duplicated Red Sea content in africa.md with a
+cross-link to red-sea.md. Resolved all orphaned citations across regions
+(warning count: 51 → 47). Fixed 3 broken cross-links in latin-america.md.
+Refreshed 6 timestamps.
+
+**Files refactored:**
+
+Regions:
+- [Middle East]({{ site.baseurl }}/regions/middle-east.html) — ~20 bullets → 4 thematic sections
+  (Hormuz and the Energy Chokepoint, Regional Security Architecture, Great
+  Power Posture, Historical and Civilisational Context). Moved conflict
+  operations (Pape escalation trap, MoU details, Project Freedom collapse) to
+  conflict file via cross-links. Trimmed Red Sea bullet to cross-link.
+  Citations 19 → 13 (removed orphaned [1-3], dropped conflict-duplicate cites).
+- [Europe]({{ site.baseurl }}/regions/europe.html) — ~30 bullets → 7 thematic sections
+  (Transatlantic Fracture, NATO Evolution and Defense Autonomy, EU Defense
+  Financing and Partnerships, Economic Vulnerability and Energy, Iran War
+  Economic Fallout, European Foreign Policy Outreach, Russian Hybrid Warfare).
+  Re-attached orphaned [1-4]. Citations renumbered 1-31.
+- [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html) — ~20 bullets → 5 thematic sections
+  (China-Taiwan Military Posture, Southeast Asia as Strategic Arena, Great
+  Power Hedging and Alliance Networks, Iran War Economic Fallout, Trade and
+  Technology Decoupling). Re-attached orphaned [1-3]. Citations 1-16.
+- [Africa]({{ site.baseurl }}/regions/africa.html) — ~15 bullets → 6 thematic sections
+  (Sahel Security Architecture, Horn of Africa and the Red Sea, Iran War
+  Economic Fallout, Strategic Competition and Resources, Demographics and
+  Migration, North Africa). Replaced Red Sea interstate-rivalries bullet with
+  cross-link to red-sea.md. Re-attached orphaned [1]. Citations 14 → 13.
+- [Latin America]({{ site.baseurl }}/regions/latin-america.html) — ~12 bullets → 4 thematic sections
+  (Rightward Wave and Institutional Fragility, US-China Competition, Iran War
+  Economic Fallout, Regional Cooperation and Trade). Fixed 3 broken cross-links
+  (Colombia, Brazil, Argentina paths were truncated). Re-attached orphaned [1].
+  Citations 1-5.
+- [Central Asia]({{ site.baseurl }}/regions/central-asia.html) — ~15 bullets → 4 thematic sections
+  (Economic Growth and Diversification, Geopolitical Balancing, Iran War
+  Economic Fallout, Caspian Water Crisis). Re-attached orphaned [1].
+  Citations 1-6.
+
+**Structural changes:**
+- Reorganized ~112 source-organized bullets into ~30 thematic clusters across 6 files
+- Resolved 12 orphaned citations (re-attached [1-4] in europe, [1-3] in
+  indo-pacific, [1] in africa/latin-america/central-asia, [1-3] in middle-east)
+- Redistributed conflict-operation content from middle-east.md to
+  conflicts/us-iran-war-2026.md via cross-links (Pape escalation, Project
+  Freedom, MoU operations)
+- Replaced duplicated Red Sea content in africa.md with cross-link to red-sea.md
+- Fixed 3 truncated cross-links in latin-america.md
+- Refreshed 6 timestamps to 2026-07-18
+- Validation: 155 files structurally valid, 47 warnings (down from 51; all
+  remaining warnings are in non-region files or are tolerated broken links)
+
 ## 2026-07-18 — Consolidation Pass 2: Bundle-Wide Narrative Refactoring
 
 Two-pass consolidation spanning 21 concept files across all concept types,
