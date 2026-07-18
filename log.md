@@ -11,18 +11,18 @@ reorganizing source-organized section lists into thematically woven multi-author
 prose. Event and theme files confirmed already in good shape — no changes needed.
 
 **Files refactored:**
-- `conflicts/us-iran-war-2026.md` — reorganized 35 source-organized sections into
+- [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — reorganized 35 source-organized sections into
   7 thematic clusters (Strategic Assessment, Iran's Theory of Victory, Energy War,
   Diplomatic Realignment, Escalation Dynamics, Technology/Cost, Second-Order
   Cascades). Removed content duplicated in event/theme files, replaced with
   cross-links. 440 → ~300 lines.
-- `actors/countries/iran.md` — merged 15 sections into 5 thematic clusters
+- [Iran]({{ site.baseurl }}/actors/countries/iran.html) — merged 15 sections into 5 thematic clusters
   (Post-War Posture/Hormuz, Survival to Revenge, Regional Relationships,
   Asymmetric Operations, Doctrine). Fixed 5 previously orphaned citations [3]-[7].
-- `actors/organizations/nato.md` — consolidated 22 sections into 4 thematic
+- [NATO]({{ site.baseurl }}/actors/organizations/nato.html) — consolidated 22 sections into 4 thematic
   clusters (European Defense Shift, Ankara Summit/NATO 3.0, Eastern Flank/Russia
   Posture, Capability/Doctrine/Global Posture).
-- `actors/countries/russia.md` — clustered 28 sections into 7 thematic groups
+- [Russia]({{ site.baseurl }}/actors/countries/russia.html) — clustered 28 sections into 7 thematic groups
   (Ukraine War Costs, Economic Strain/Logistics, Military Force/Posture,
   Internal Stability/Succession, DragonBear/Strategic Relationships,
   Asymmetric/Hybrid Operations, Southern Flank/CSTO). Fixed 5 previously
@@ -44,12 +44,12 @@ content so a proper narrative refactoring can be done with the new
 okf-consolidate skill.
 
 **Files restored to pre-consolidation state:**
-`actors/countries/china.md`, `actors/countries/iran.md`,
-`actors/countries/russia.md`, `actors/organizations/nato.md`,
-`actors/trump.md`, `conflicts/russia-ukraine-war.md`,
-`conflicts/us-iran-war-2026.md`, `events/hormuz-ceasefire-collapse-2026.md`,
-`events/nato-ankara-summit-2026.md`, `regions/europe.md`,
-`themes/defense-industrial-resilience.md`, `themes/global-system-rupture.md`
+[China]({{ site.baseurl }}/actors/countries/china.html), [Iran]({{ site.baseurl }}/actors/countries/iran.html),
+[Russia]({{ site.baseurl }}/actors/countries/russia.html), [NATO]({{ site.baseurl }}/actors/organizations/nato.html),
+[Donald Trump]({{ site.baseurl }}/actors/trump.html), [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html),
+[US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), [Hormuz Ceasefire Collapse (July 2026)]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html),
+[NATO Ankara Summit 2026]({{ site.baseurl }}/events/nato-ankara-summit-2026.html), [Europe]({{ site.baseurl }}/regions/europe.html),
+[Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html), [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html)
 
 **New skill added:** `okf-consolidate` — two-pass refactoring skill that
 surveys concept files for structural incoherence, produces a reorganization
@@ -85,15 +85,15 @@ Incorporated two new source articles into the knowledge base, dissolving their a
 
 | File | Changes |
 |------|---------|
-| `themes/ai-military-race.md` | Added "Algorithmic Deterrence and the Post-Atomic Era" analysis section (Palantir manifesto, Point 12, Maven/Epic Fury, six lessons). Citation [9]. |
-| `themes/tech-stack-diplomacy.md` | Added "The Digital Protectorate" analysis section (digital sovereignty, Switzerland rejection, UK NHS contract, Palantir embedded in NATO/WFP/IAEA, Moynihan accountability framework). Citation [3]. |
-| `actors/authors/rusi.md` | Added "The Algorithmic Deterrent" framework to Key Frameworks, source [9] and citation. |
-| `themes/organised-crime-and-statecraft.md` | Added "Armed Criminal Networks and Military Drone Technology" section (CJNG drone unit, FARC dissidents, sub-state asymmetry, doctrine gap). Citation [5]. |
-| `themes/revolution-in-military-affairs.md` | Added "Algorithmic Deterrence as RMA Doctrine" section connecting Palantir manifesto to O'Brien's RMA thesis. Citation [4]. |
-| `conflicts/us-iran-war-2026.md` | Added "AI-Enabled Targeting: Maven Smart System" section (13,000 strikes, ~1,000 opening day). Added "The Diesel Crack Spread and the Real Price of Oil" section (refining collapse, crack spread data, SPR deceleration). Citations [41][42]. |
-| `themes/energy-and-resources.md` | Added "The Oil Price 'Mystery': Refining Capacity as the Binding Constraint" analysis section (refining collapse, crack spread, Russian diesel, SPR, futures curve, pipeline bypass, model collapse). Citation [25]. |
-| `events/spr-depletion-crisis.md` | Added "Drawdown Deceleration (July 2026)" section with latest SPR data (316.5M barrels, rate falling to 0.43M bpd, trending to zero by August). Citation [6]. |
-| `actors/authors/the-honest-sorcerer.md` | Added source [33] and citation for "The Oil Price 'Mystery'". |
+| [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html) | Added "Algorithmic Deterrence and the Post-Atomic Era" analysis section (Palantir manifesto, Point 12, Maven/Epic Fury, six lessons). Citation [9]. |
+| [Tech Stack Diplomacy]({{ site.baseurl }}/themes/tech-stack-diplomacy.html) | Added "The Digital Protectorate" analysis section (digital sovereignty, Switzerland rejection, UK NHS contract, Palantir embedded in NATO/WFP/IAEA, Moynihan accountability framework). Citation [3]. |
+| [RUSI]({{ site.baseurl }}/actors/authors/rusi.html) | Added "The Algorithmic Deterrent" framework to Key Frameworks, source [9] and citation. |
+| [Organised Crime and Statecraft]({{ site.baseurl }}/themes/organised-crime-and-statecraft.html) | Added "Armed Criminal Networks and Military Drone Technology" section (CJNG drone unit, FARC dissidents, sub-state asymmetry, doctrine gap). Citation [5]. |
+| [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) | Added "Algorithmic Deterrence as RMA Doctrine" section connecting Palantir manifesto to O'Brien's RMA thesis. Citation [4]. |
+| [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) | Added "AI-Enabled Targeting: Maven Smart System" section (13,000 strikes, ~1,000 opening day). Added "The Diesel Crack Spread and the Real Price of Oil" section (refining collapse, crack spread data, SPR deceleration). Citations [41][42]. |
+| [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) | Added "The Oil Price 'Mystery': Refining Capacity as the Binding Constraint" analysis section (refining collapse, crack spread, Russian diesel, SPR, futures curve, pipeline bypass, model collapse). Citation [25]. |
+| [SPR Depletion Crisis]({{ site.baseurl }}/events/spr-depletion-crisis.html) | Added "Drawdown Deceleration (July 2026)" section with latest SPR data (316.5M barrels, rate falling to 0.43M bpd, trending to zero by August). Citation [6]. |
+| [The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) | Added source [33] and citation for "The Oil Price 'Mystery'". |
 
 # Bundle Update Log
 
