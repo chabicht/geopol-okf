@@ -40,6 +40,7 @@ Incorporated 7 new source articles into the knowledge base, dissolving their ana
 7. **"The OpenAI Bubble Has Burst"** (Ed Zitron, Where's Your Ed At, 2026-07-15) — OpenAI's $852B burn plan to 2030; hyperscaler circular investments; the "Lehman Brothers of AI" scenario; memory crisis; Bank of England warning.
 
 **Concepts updated:**
+
 | File | Changes |
 |------|---------|
 | [SWP]({{ site.baseurl }}/actors/authors/swp.html) | New "Müller on South African Xenophobic Mobilization," "Bayerlein et al. on Healthcare Cybersecurity," and "Knapp/Koch on Route-Based Migration Governance" framework sections; added [6][7][8]; refreshed timestamp |
@@ -90,6 +91,7 @@ Incorporated 7 new source articles into the knowledge base, dissolving their ana
 7. **"Lina Khan on AI and More"** (Paul Krugman in conversation with Lina Khan, 2026-07-18) — The AI stack and monopolization risk; Nvidia gatekeeper, hyperscaler conflicts of interest, interlocking directorates; DeepSeek as wake-up call; Boeing-McDonnell Douglas as cautionary tale; Schumpeter-Arrow debate; national-champions risk under Trump.
 
 **Concepts updated:**
+
 | File | Changes |
 |------|---------|
 | [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) | New "The Casualty Threshold and Uncontrolled Escalation," "The Second Front: Horizontal Escalation to Bab el-Mandeb," "Shaping Operations for Ground Assault," and "Civilian Infrastructure as Battlefield Target" subsections; added [46][47][48][49] |
@@ -127,6 +129,7 @@ Incorporated 6 new source articles into the knowledge base, dissolving their ana
 6. **"The Peace That Redistributes War: What Camp David Reveals About Lebanon and Iran"** (Ahmed Saber Abbas, War on the Rocks, 2026-07-16) — "Front separation" pattern; Camp David Accords as the structural template; Lebanon detached from Iran track; Hizballah; sovereignty conditional on disarmament rather than a defined timetable.
 
 **Concepts updated:**
+
 | File | Changes |
 |------|---------|
 | [United States]({{ site.baseurl }}/actors/countries/united-states.html) | New "OBBBA, SNAP Cuts, and the Reconciliation Drive," "Authoritarian Symbolism and Institutional Capture," and "The *Unhumans* Ideology and the SAVE Act" subsections; added [28][29][30] |
@@ -175,6 +178,7 @@ Incorporated 4 new Cipher Brief source articles into the knowledge base, dissolv
 4. **"The Pentagon Built a Faster Engine, Nobody Built the Steering"** (Pete Newell, 2026-07-16) — Pentagon acquisition reform improved develop/deploy speed but left detect/define/assess/distribute unowned; counter-drone fight as test case (cycle-time, not technology, gap); industry as sensor; workforce gap.
 
 **Concepts updated:**
+
 | File | Changes |
 |------|---------|
 | [United States]({{ site.baseurl }}/actors/countries/united-states.html) | New "Doctrine: Military Mobility and Infrastructure Security" subsection — commercial infrastructure dependence, Chinese cyber pre-positioning, exercise assumptions; added [27] |
@@ -201,6 +205,7 @@ Incorporated 2 new GPF source articles into the knowledge base, dissolving their
 2. **"Why the US and Iran Are Both on the Clock"** (Andrew Davidson, 2026-07-17) — Mutual-exhaustion dynamics of renewed US-Iran fighting; Iran's shrinking margin for victory; US sustained-campaign cost pressure; truce-not-settlement as likely outcome.
 
 **Concepts updated:**
+
 | File | Changes |
 |------|---------|
 | [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html) | New "A New Regional Security Architecture" and "China's Narrowing Window" subsections; added [17] |
