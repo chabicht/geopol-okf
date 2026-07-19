@@ -7,7 +7,7 @@ tags: [energy, middle-east, sanctions, nuclear]
 status: concluded
 actuality: actual
 event_date: 2026-06-17
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -48,6 +48,16 @@ The [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) di
 
 Pnina Shuker and Andrew Milburn (War on the Rocks) dissect the deal's sequence: before Iran has to resolve a single hard issue — the nuclear stockpile, the missile program, or its regional proxies — the United States lifts the naval blockade, withdraws its forces from Iran's vicinity, issues sanctions waivers releasing oil revenue, and makes frozen Iranian assets available for transfer. Only once all of that is already underway does the memorandum call for negotiations on everything else. "Pay first, verify later is not a strategy. It is leverage leaving the room." The U.S. has retreated from demands for unconditional surrender and the elimination of enrichment to something closer to capitulation, dropping its insistence that Iran surrender its uranium stockpile outright — reportedly secured by Iran against removal. Iran, for its part, has hardened its position, adding demands for war reparations and withdrawal of U.S. forces [6].
 
+## Front Separation: Lebanon Detached from the Iran Track
+
+Ahmed Saber Abbas ([War on the Rocks]({{ site.baseurl }}/actors/authors/war-on-the-rocks.html)) analyzes the MoU as the present-day reassertion of the "front separation" pattern that produced the [Camp David Accords]({{ site.baseurl }}/events/camp-david-accords.html): closing the front that imposes the greatest immediate cost while detaching the connected fronts from the wider political and bargaining context. The interim agreement called for ending hostilities across all fronts, including [Lebanon]({{ site.baseurl }}/actors/countries/lebanon.html). [Israel]({{ site.baseurl }}/actors/countries/israel.html) rejected that framing, declaring it would retain forces in southern Lebanon and maintain freedom of action against Hizballah, and that a ceasefire with [Iran]({{ site.baseurl }}/actors/countries/iran.html) should not bind its conduct in Lebanon. When the Trump administration opened separate negotiations on Lebanon, the result preserved the distinction Israel insisted on: the Iranian track could move forward while Lebanon was dealt with on separate terms [7].
+
+The key analytical asymmetry: Iran's leverage — unlike Egypt's in 1973 — cannot be converted into a sovereign Lebanese claim. Egypt could negotiate over Sinai because Sinai was Egyptian territory and its military position was tied directly to Egypt's national claim. Iran can threaten navigation, raise the cost of escalation, and pressure its adversaries through partners, but it cannot negotiate on Lebanon's behalf in the way Egypt negotiated for Sinai. The Lebanese government has explicitly rejected the claim that any external sponsor can speak for Lebanon. That makes Lebanon easier to separate as a distinct front and recast as a security issue. The resulting U.S.-mediated Israel-Lebanon framework tied Israel's full withdrawal to Hizballah's disarmament, separating the Lebanese track from the Iranian one — a sequence that risks preserving the grievances, political vacuum, and unequal security conditions through which future resistance can grow [7]. See [Lebanon]({{ site.baseurl }}/actors/countries/lebanon.html), [Camp David Accords (1978)]({{ site.baseurl }}/events/camp-david-accords.html), and [Hormuz Ceasefire Collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html).
+
+## The MoU Sham: Iran's Zero Concessions
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) reframes the MoU as a sham whose inevitable collapse produced the July 11–16 reignition. The MoU Trump constructed with Iran was never a basis for an agreement: Iran gave up nothing in it, and thus Trump lacked any foundation from which to declare some kind of victory — the one thing he must have. When the truth inevitably dawned that Iran had no intention of making any concessions on its nuclear program or its control of the Strait of Hormuz, Trump faced the binary choice between admitting the greatest strategic defeat in US history or reigniting military operations. O'Brien's 99% likelihood assessment that Iran has made no meaningful concession is grounded in the inverse argument: if Iran had given Trump anything meaningful, particularly about its nuclear program or Hormuz, Trump would have declared victory and gone home — so the fact that he is attacking means he has achieved nothing at all. The MoU thus emerges not as a negotiated pause but as a Trump-side fiction whose contradictions eventually forced the reignition. See [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) and [Donald Trump]({{ site.baseurl }}/actors/trump.html) [8].
+
 # Citations
 
 [1] [Velinatchakarova — ceasefire as axis course correction](https://substack.com/@velinatchakarova/p-202096137)
@@ -58,3 +68,7 @@ Pnina Shuker and Andrew Milburn (War on the Rocks) dissect the deal's sequence: 
 [5] [Priced for Peace: Why Oil's Return to Pre-War Levels Overstates the Hormuz Recovery](https://substack.com/@velinatchakarova/p-204528761)
 
 [6] [Outgunned, But Not Outplayed: Iran's Theory of Victory](https://warontherocks.com/outgunned-but-not-outplayed-irans-theory-of-victory/)
+
+[7] [The Peace That Redistributes War: What Camp David Reveals About Lebanon and Iran](https://warontherocks.com/the-peace-that-redistributes-war-what-camp-david-reveals-about-lebanon-and-iran/)
+
+[8] [Midweek Update #19: What Do We Know?](https://phillipspobrien.substack.com/p/midweek-update-19-what-do-we-know)

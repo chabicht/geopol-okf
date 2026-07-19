@@ -4,6 +4,227 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-07-19 — Consolidation Pass
+
+2-pass consolidation over the 8 newly added concept files from the prior incorporation pass.
+
+**Files refactored:**
+- `actors/authors/war-on-the-rocks.md` — reorganized 6 source-indexed framework sections into 3 thematic clusters (Middle East: Doctrine and Diplomacy; The Russia-Ukraine War: Mass, Drones, and Wartime Governance; Indo-Pacific: Alignment and Sustainment), weaving paired WOTR contributions into integrated prose with synthesizing bridges.
+- `actors/countries/kuwait.md` — added see-also footer for consistency with bundle convention.
+- `actors/countries/philippines.md` — added see-also footer for consistency with bundle convention.
+
+**Files reviewed and skipped (already coherent):**
+- `actors/countries/lebanon.md`, `actors/countries/south-africa.md`, `events/camp-david-accords.md`, `events/fedorov-dismissal-2026.md`, `themes/migration-policy.md` — already thematically organized with multi-author weaving where applicable, complete cross-links, and see-also footers. No genuine consolidation work warranted.
+
+**Structural changes:**
+- Reorganized 6 source-organized sections into 3 thematic clusters in the WOTR author concept
+- Added 2 see-also footers for bundle-convention consistency
+- Preserved all citations [1]–[7] and cross-links; no content moved between concept types
+- Validation: 0 warnings on touched files (48 pre-existing tolerated warnings unchanged)
+
+**Residual issue (pre-existing, not introduced by this pass):** `war-on-the-rocks.md` citations [1] and [7] point to the same URL (The Ukraine Compass / Fedorov Dismissal piece) — a duplicate that predates this consolidation. Flagged for future cleanup rather than fixed unilaterally to avoid renumbering outside the skill's authorized scope.
+
+---
+
+## 2026-07-19 — Source Incorporation: SWP (SA Xenophobia, Healthcare Cyber, Migration Routes), RUSI (Putin's Fuel Dilemma, EU-Taliban), O'Brien Midweek #19, Zitron on OpenAI Bubble
+
+Incorporated 7 new source articles into the knowledge base, dissolving their analytical content across 22 existing concepts and creating 2 new concepts (South Africa, Migration Policy). Ed Zitron cited by name per rules §8.2 (no author concept created for non-think-tank independent commentators below the influence threshold).
+
+**Sources:**
+1. **"Xenophobie in Südafrika: Die Instrumentalisierung von Fremdenfeindlichkeit"** (Müller, SWP, 2026-07-15) — ANC's instrumentalization of xenophobic mobilization under GNU pressure; Operation Dudula and the May 2025 violence; the GNU's anti-migrant legislative package; democratic-erosion linkage.
+2. **"Cybersicherheit im Gesundheitssektor"** (Bayerlein, Reinhold, von Schwarzenberg, SWP, 2026-07-15) — EuRepoC data on the surge in cyberattacks on EU healthcare; ransomware dominance; BSI's cross-sector role; systemic patient-safety consequences.
+3. **"Midweek #19: Trump's War"** (Phillips O'Brien, 2026-07-16) — The "consequence-free world" framework: Trump's July 11–16 ceasefire reignition demonstrating the absence of constraints on US escalation; day-by-day ops; Colby's middle-powers panic.
+4. **"Migrationsrouten als Hebel: Eine ganze Route denken"** (Knapp/Koch, SWP, 2026-07-15) — Route-based migration governance; the protection-vs-control tension; transit-state leverage; EU whole-of-route strategy.
+5. **"Putin's Fuel Dilemma"** (RUSI, 2026-07-15) — Ukraine's refinery strike campaign; Russia's fuel-export fiscal squeeze; the paradox of rising export volumes and falling revenues; technological dependency on Western maintenance.
+6. **"The EU's pragmatic turn toward the Taliban"** (Giustozzi, RUSI/The Parliament Magazine, 2026-07-15) — EU engagement with the Taliban for migration management; consulate handover; the structural leverage the Taliban hold through migration corridors; Turkey's pressure role.
+7. **"The OpenAI Bubble Has Burst"** (Ed Zitron, Where's Your Ed At, 2026-07-15) — OpenAI's $852B burn plan to 2030; hyperscaler circular investments; the "Lehman Brothers of AI" scenario; memory crisis; Bank of England warning.
+
+**Concepts updated:**
+| File | Changes |
+|------|---------|
+| [SWP]({{ site.baseurl }}/actors/authors/swp.html) | New "Müller on South African Xenophobic Mobilization," "Bayerlein et al. on Healthcare Cybersecurity," and "Knapp/Koch on Route-Based Migration Governance" framework sections; added [6][7][8]; refreshed timestamp |
+| [RUSI]({{ site.baseurl }}/actors/authors/rusi.html) | New "Putin's Fuel Dilemma" and "Giustozzi on EU-Taliban Engagement" framework sections; added [10][11]; refreshed timestamp |
+| [Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) | New "Trump's War: The Consequence-Free World" framework section; added [18]; refreshed timestamp |
+| [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) | New "Ceasefire Reignition July 11–16" subsection with day-by-day operations; added [50] |
+| [Hormuz Ceasefire Collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) | New "Five-Day Strike Wave" subsection; added [14] |
+| [Iran Ceasefire MoU]({{ site.baseurl }}/events/iran-ceasefire-mou.html) | New "MoU Sham" subsection; added [8] |
+| [US Naval Blockade of Iran]({{ site.baseurl }}/events/us-naval-blockade-iran.html) | New "July 14 Reinstatement" subsection; added [5] |
+| [NATO Ankara Summit 2026]({{ site.baseurl }}/events/nato-ankara-summit-2026.html) | New "Ceasefire-Over Declaration" subsection; added [12] |
+| [Donald Trump]({{ site.baseurl }}/actors/trump.html) | New "Trump's War" subsection; added [32] |
+| [United States]({{ site.baseurl }}/actors/countries/united-states.html) | New "Consequence-Free World/Colby" and "AI Bubble" subsections; added [34][35] |
+| [Iran]({{ site.baseurl }}/actors/countries/iran.html) | New "No Concessions" subsection; added [23] |
+| [Russia]({{ site.baseurl }}/actors/countries/russia.html) | New "Putin's Fuel Dilemma" subsection; added [30] |
+| [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) | New "Putin's Fuel Dilemma" subsection; added [29] |
+| [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) | New "Refinery Strike Campaign" subsection; added [8] |
+| [Vladimir Putin]({{ site.baseurl }}/actors/putin.html) | New "Fuel Dilemma" subsection; added [6] |
+| [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) | New "Russia's Fuel-Export Fiscal Squeeze" subsection; added [26] |
+| [EU]({{ site.baseurl }}/actors/organizations/eu.html) | New "Healthcare as Cyber Target," "Whole-of-Route Migration Governance," and "Taliban Engagement for Migration Management" subsections; added [10][11][12]; refreshed timestamp |
+| [Germany]({{ site.baseurl }}/actors/countries/germany.html) | New "Healthcare Cyber/BSI" and "Taliban Consulate Handover" subsections; added [12][13] |
+| [Africa]({{ site.baseurl }}/regions/africa.html) | New "SA Xenophobic Mobilization" and "Migration Routes" subsections; added [14][15] |
+| [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html) | New "SA Xenophobic Mobilization" and "Colby Middle-Powers Panic" subsections; added [28][29] |
+| [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) | New "Healthcare as Cyber Target: EuRepoC Pattern" subsection; added [8]; refreshed timestamp |
+| [Afghanistan]({{ site.baseurl }}/actors/countries/afghanistan.html) | New "EU Pragmatic Turn: Taliban Engagement for Migration Management" subsection; added [2]; refreshed timestamp |
+| [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) | New "The Afghan Migration Lever" subsection; added [9] |
+| [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html) | New "The OpenAI Bubble and AI Compute Sustainability" subsection — OpenAI's $852B burn, hyperscaler downgrade risk, memory crisis, Lehman scenario; added [11] |
+| [Tech Stack Diplomacy]({{ site.baseurl }}/themes/tech-stack-diplomacy.html) | New "Hyperscaler Psy-Ops and Circular AI Compute Demand" subsection — circular Nvidia-customer investments, manufactured demand signal, diplomatic implications; added [6] |
+
+**New concepts created:**
+- [South Africa]({{ site.baseurl }}/actors/countries/south-africa.html) — Actor (country). ANC-led state whose xenophobic mobilization and GNU instability illustrate the intersection of economic distress, identity politics, and democratic erosion. Added to [Countries]({{ site.baseurl }}/actors/countries/) index.
+- [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html) — Theme. Protection-vs-control tension in European migration governance; route-based externalization and the structural leverage transit states hold over destination states. Added to [Themes]({{ site.baseurl }}/themes/) index under Systemic Frameworks.
+
+**Index files updated:**
+- [Countries]({{ site.baseurl }}/actors/countries/) — added South Africa entry
+- [Themes]({{ site.baseurl }}/themes/) — added Migration Policy entry under Systemic Frameworks
+
+## 2026-07-19 — Source Incorporation: Pape Breaking Analysis #2-#5 and Krugman on Powermaxxing, Respect, and AI Policy
+
+Incorporated 7 new source articles into the knowledge base, dissolving their analytical content across 13 existing concepts and creating 1 new concept. Skipped 1 source ("Breaking Analysis #1") as a duplicate of the already-incorporated 2026-07-15 version (Pape [7], dissolved into [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) [32] and [Hormuz Ceasefire Collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) [3]).
+
+**Sources:**
+1. **"Breaking Analysis #2: Iran Just Sent the U.S. a Message—Did We Hear It?"** (Robert Pape, 2026-07-15) — Iran's use of heavy anti-ship missiles with up to 1,000-pound warheads against tankers in the Strait of Hormuz; the shift from controlled brinkmanship to high-risk, uncontrolled escalation; the 30–40 US casualty threshold that would shatter diplomatic options and lock both sides into a costly spiral.
+2. **"Breaking Analysis #3: Tehran's Second Front Heating Up Fast —Are Markets Watching?"** (Robert Pape, 2026-07-16) — Houthi barrage targeting Saudi Arabia's Abha International Airport; horizontal escalation opening a second maritime front at Bab el-Mandeb; Iran gaining leverage without directly committing forces.
+3. **"Breaking Analysis #4: The Point of No Return? How Last Night's U.S. Strikes Deepened the Escalation Trap"** (Robert Pape, 2026-07-17) — US Central Command strikes on bridges, railway junctures, and power lines in Hormozgan and around Bandar Abbas; classic shaping operations for ground assault; both sides' traps deepening.
+4. **"Breaking Analysis #5: Iran's New Target – Drinking Water"** (Robert Pape, 2026-07-18) — Iran's direct targeting of a Kuwaiti desalination plant; civilian survival infrastructure as battlefield target; Gulf-wide vulnerability pattern; "anger comes after survival."
+5. **"Democracy in an Age of Powermaxxing"** (Paul Krugman, 2026-07-16) — The billionaire backlash; Forbes 400 wealth from $92B to $6.6T; labor share at 80-year low; landmaxxing vs powermaxxing; Ellison/CBS, Musk, Thiel; deranged billionaire syndrome; Citizens United and the oligarchic spiral.
+6. **"Trump Can't Get No Respect"** (Paul Krugman, 2026-07-17) — Pew Global Attitudes Survey showing China viewed more positively than the US; the "America is respected" lie as fragile-ego validation and as election-subversion groundwork.
+7. **"Lina Khan on AI and More"** (Paul Krugman in conversation with Lina Khan, 2026-07-18) — The AI stack and monopolization risk; Nvidia gatekeeper, hyperscaler conflicts of interest, interlocking directorates; DeepSeek as wake-up call; Boeing-McDonnell Douglas as cautionary tale; Schumpeter-Arrow debate; national-champions risk under Trump.
+
+**Concepts updated:**
+| File | Changes |
+|------|---------|
+| [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) | New "The Casualty Threshold and Uncontrolled Escalation," "The Second Front: Horizontal Escalation to Bab el-Mandeb," "Shaping Operations for Ground Assault," and "Civilian Infrastructure as Battlefield Target" subsections; added [46][47][48][49] |
+| [Iran]({{ site.baseurl }}/actors/countries/iran.html) | New "Anti-Ship Missile Escalation and the Casualty Trap," "Shaping-Operations Resilience and the Iranian Escalation Trap," and "Civilian-Infrastructure Targeting Doctrine" subsections; added [20][21][22] |
+| [Hormuz Ceasefire Collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) | New "The Casualty Threshold (July 15)," "The Second Front Opens (July 16)," "Shaping Operations (July 17)," and "Water Infrastructure Targeted (July 18)" subsections; added [10][11][12][13] |
+| [Red Sea]({{ site.baseurl }}/regions/red-sea.html) | New "The Second Front: Houthis Strike Abha (July 16)" subsection; added [3] |
+| [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) | New "Abha Airport Strike and the Houthi Retaliation Cycle" subsection; added [4]; refreshed timestamp |
+| [Geoeconomics of Water]({{ site.baseurl }}/themes/geoeconomics-of-water.html) | New "Desalination as Battlefield Target" subsection — Kuwait's eight-plant concentration, ~5 days emergency storage, Gulf-wide vulnerability pattern, escalation-trap logic; added [2]; refreshed timestamp |
+| [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html) | New "Deranged Billionaire Syndrome and the Powermaxxing Spiral," "The Collapse of Global Respect," and "Billionaire Capture of AI Policy" subsections; added [25][26][27]; refreshed timestamp |
+| [Trump Election Interference Pretext]({{ site.baseurl }}/events/trump-election-fraud-pretext-2026.html) | New "The 'America Is Respected' Lie as Election-Subversion Groundwork" subsection; added [3]; refreshed timestamp |
+| [Donald Trump]({{ site.baseurl }}/actors/trump.html) | New "Government of the Billionaires" and "The Fragile Need for External Validation" subsections; added [30][31]; refreshed timestamp |
+| [United States]({{ site.baseurl }}/actors/countries/united-states.html) | New "The Powermaxxing Spiral and Billionaire Political Capture," "The Collapse of Global Respect," and "Antitrust Backsliding and AI Policy Capture" subsections; added [31][32][33] |
+| [Tech Stack Diplomacy]({{ site.baseurl }}/themes/tech-stack-diplomacy.html) | New "The AI Stack, Vertical Integration, and the National Champions Trap" subsection — Khan on stack-layer monopolization, hyperscaler conflicts of interest, Boeing cautionary tale; added [5]; refreshed timestamp |
+| [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html) | New "Monopoly vs Competition for AI Innovation" subsection — Schumpeter-Arrow, DeepSeek, national-champions risk; added [10]; refreshed timestamp |
+| [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) | New "National Champions vs Competition: The China AI Parallel" subsection; added [21] |
+| [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) | New "The Escalation Trap Mechanics: Vertical, Horizontal, and Civilian-Infrastructure Thresholds" framework section (casualty threshold, horizontal escalation, shaping operations, civilian-infrastructure targeting); added Sources [11]-[14] and Citations; refreshed timestamp |
+| [Paul Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html) | New "Deranged Billionaire Syndrome / Powermaxxing," "The Collapse of Global Respect," and "Billionaire Capture of AI Policy (with Lina Khan)" framework sections; added Sources [6]-[8] and Citations; refreshed timestamp |
+
+**New concepts created:**
+- [Kuwait]({{ site.baseurl }}/actors/countries/kuwait.html) — Actor (country). Gulf monarchy whose eight coastal desalination plants supplying ~90% of drinking water sit ~100 miles from Iran, making it acutely vulnerable to the civilian-infrastructure targeting doctrine demonstrated by the July 18 Iranian strike. Added to [Countries]({{ site.baseurl }}/actors/countries/) index.
+
+**Skipped sources:**
+- "Breaking Analysis #1: The Escalation Trap Has Entered a New Phase" (Pape, 2026-07-14) — the untracked `2026-07-19` file is content-identical to the already-incorporated `2026-07-15` version (only frontmatter `created` date and tag wording differ). Already dissolved as Pape [7], [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) [32], and [Hormuz Ceasefire Collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) [3].
+
+## 2026-07-19 — Source Incorporation: WOTR on Unmanned Sustainment, Fedorov Dismissal, and the Lebanon-Iran Front Separation; HCR July 15-17
+
+Incorporated 6 new source articles into the knowledge base, dissolving their analytical content across 22 existing concepts and creating 4 new concepts. Skipped 1 source ("How Revolutions Break Their Believers" — Gallagher) as a literary/cultural essay with no natural OKF home.
+
+**Sources:**
+1. **"Broken Drone, Far from Home: The Case for Overseas Autonomous System Sustainment"** (Dan Justice, War on the Rocks, 2026-07-17) — US Navy lacks a framework for forward-deployed maintenance of unmanned systems; distributed network of austere ports (HMAS Cairns, Lombrum, Subic Bay, Vietnam/Indonesia shipyards); uncrewed vessels' unsettled legal status; organic vs contractor-led "lead sustainment integrator" repair models; right-to-repair and OEM dependency.
+2. **"July 15, 2026"** (Heather Cox Richardson, 2026-07-16) — OBBBA vs ARP/SNAP cuts, antitrust collapse, $95B reconciliation (Iran war + farmers + SAVE America), ICE traffic-stop deaths, Iran escalation (blockade reversal, Situation Room, infrastructure-strike threats).
+3. **"July 16, 2026"** (Heather Cox Richardson, 2026-07-17) — Ossoff-Clayton 2020-election exchange, Blanche/court-stacking, Trump $1 coin, helipad, Iran infrastructure strikes, Iran asks Houthis to close Bab el-Mandeb, SPR lowest since 1983, climate extremes, polls.
+4. **"July 17, 2026"** (Heather Cox Richardson, 2026-07-18) — Trump/Rubio/Miller embrace of *Unhumans* conspiracy, dehumanization rhetoric, SAVE America voter suppression, China election-meddling claims, DHS Mullin threatens states.
+5. **"The Fedorov Dismissal: On Trust, Technology, and Turnover"** (WOTR Staff, The Ukraine Compass, War on the Rocks, 2026-07-17) — Dismissal of Ukraine DM Fedorov; drone-warfare legacy (United24, Delta, USF, interceptors); Syrskyi command dispute; mobilization trust crisis; Klymenko successor; €70B NATO aid scramble; Kyiv protests.
+6. **"The Peace That Redistributes War: What Camp David Reveals About Lebanon and Iran"** (Ahmed Saber Abbas, War on the Rocks, 2026-07-16) — "Front separation" pattern; Camp David Accords as the structural template; Lebanon detached from Iran track; Hizballah; sovereignty conditional on disarmament rather than a defined timetable.
+
+**Concepts updated:**
+| File | Changes |
+|------|---------|
+| [United States]({{ site.baseurl }}/actors/countries/united-states.html) | New "OBBBA, SNAP Cuts, and the Reconciliation Drive," "Authoritarian Symbolism and Institutional Capture," and "The *Unhumans* Ideology and the SAVE Act" subsections; added [28][29][30] |
+| [Iran]({{ site.baseurl }}/actors/countries/iran.html) | New "Expanding the Pressure: The Bab el-Mandeb Card" and "Front Separation: Iran's Leverage Without Sovereign Convertibility" subsections; added [18][19] |
+| [Israel]({{ site.baseurl }}/actors/countries/israel.html) | New "Refusing to Bind Lebanon to the Iran Track" subsection; added [8] |
+| [Egypt]({{ site.baseurl }}/actors/countries/egypt.html) | New "The Camp David Template and the Front Separation Pattern" subsection; added [4] |
+| [Australia]({{ site.baseurl }}/actors/countries/australia.html) | New "Forward Unmanned-System Sustainment" subsection — HMAS Cairns as a secure austere port beyond Chinese missile range; added [5] |
+| [Philippines]({{ site.baseurl }}/actors/countries/philippines.html) | New "Forward Unmanned-System Sustainment: Subic Bay" subsection; added [3] |
+| [Vietnam]({{ site.baseurl }}/actors/countries/vietnam.html) | New "Forward Unmanned-System Repair Partnerships" subsection — Ba Son, Ha Long; added [4] |
+| [Indonesia]({{ site.baseurl }}/actors/countries/indonesia.html) | New "Forward Unmanned-System Repair and the Archipelagic Passage Problem" subsection — Surabaya, Daya Radar Utama; archipelagic-passage legal status; added [5] |
+| [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) | New "The Fedorov Dismissal and the Trust-Technology-Turnover Crisis" subsection; added [7] |
+| [Zelensky]({{ site.baseurl }}/actors/zelensky.html) | New "The Cabinet Reshuffle Pattern and the Trust-Turnover Dynamic" Analysis subsection; added [3] |
+| [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) | New "The Infrastructure-Strike Escalation and the Bab el-Mandeb Card" subsection; added [44][45] |
+| [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) | New "Wartime Governance: The Fedorov Dismissal" subsection; added [28] |
+| [Hormuz Ceasefire Collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) | New "The Infrastructure-Strike Escalation (July 15-16)" subsection; added [8][9] |
+| [US Naval Blockade of Iran]({{ site.baseurl }}/events/us-naval-blockade-iran.html) | New "The July 15 Blockade Reversal" subsection; added [4] |
+| [Iran Ceasefire MoU]({{ site.baseurl }}/events/iran-ceasefire-mou.html) | New "Front Separation: Lebanon Detached from the Iran Track" subsection; added [7] |
+| [NATO Ankara Summit 2026]({{ site.baseurl }}/events/nato-ankara-summit-2026.html) | New "The €70B Aid Pipeline and the Fedorov Ouster" subsection; added [11] |
+| [SPR Depletion Crisis]({{ site.baseurl }}/events/spr-depletion-crisis.html) | New "The SPR Reaches 1983 Lows (Mid-July 2026)" subsection; added [7] |
+| [Trump Election Interference Pretext]({{ site.baseurl }}/events/trump-election-fraud-pretext-2026.html) | New "The *Unhumans* Ideology and the SAVE Act (July 17)" subsection; added [2] |
+| [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html) | New "Distributed Unmanned-System Sustainment" subsection; added [18] |
+| [Red Sea]({{ site.baseurl }}/regions/red-sea.html) | New "Iran Asks the Houthis to Close Bab el-Mandeb (July 2026)" subsection; added [2] |
+| [Middle East]({{ site.baseurl }}/regions/middle-east.html) | New "The Front Separation Pattern in Middle East Diplomacy" subsection; added [14] |
+| [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) | New "Forward Sustainment of Unmanned Systems" and "The Fedorov Legacy and the Politics of Drone Innovation" subsections; added [10][11] |
+| [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) | New "Right to Repair and the Forward Sustainment of Unmanned Systems" subsection; added [11] |
+| [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html) | New "Authoritarian Symbolism: The Coin, the Helipad, the Courts" and "The *Unhumans* Ideology and Dehumanization as Governance" subsections; added [22][23][24] |
+| [Heather Cox Richardson]({{ site.baseurl }}/actors/authors/heather-cox-richardson.html) | Added 3 new framework subsections (OBBBA vs ARP, Authoritarian Symbolism, *Unhumans* Ideology); added Sources [2]-[4] and Citations |
+
+**New concepts created:**
+- [Lebanon]({{ site.baseurl }}/actors/countries/lebanon.html) — Actor (country). A front whose sovereignty is being made conditional on Hizballah's disarmament, detached from the Iran-track settlement. Added to [Countries]({{ site.baseurl }}/actors/countries/) index.
+- [Camp David Accords (1978)]({{ site.baseurl }}/events/camp-david-accords.html) — Event (historical, concluded, actual). The 1978 Egyptian-Israeli peace framework — the historical template for the "front separation" pattern.
+- [Fedorov Dismissal (July 2026)]({{ site.baseurl }}/events/fedorov-dismissal-2026.html) — Event (actual, ongoing). Dismissal of Ukrainian Defense Minister Fedorov sparking Kyiv protests and exposing a trust-technology-turnover crisis in wartime governance.
+- [War on the Rocks]({{ site.baseurl }}/actors/authors/war-on-the-rocks.html) — Actor (author/publication). Index for WOTR-sourced content covering 6 frameworks: mosaic defense, Russian force expansion paradox, India's US alignment, unmanned-system forward sustainment, front-separation pattern, and wartime governance. Added to [Authors & Analysts]({{ site.baseurl }}/actors/authors/) index.
+
+**Skipped sources:**
+- "How Revolutions Break Their Believers" (Matt Gallagher, War on the Rocks, 2026-07-17) — literary/cultural essay on Waguih Ghali's *Beer in the Snooker Club* with no geopolitical-analytical home; per user decision, skipped.
+
+## 2026-07-19 — Source Incorporation: Cipher Brief on Military Mobility, F-35 Reinstatement, Private Capital, and Acquisition Reform
+
+Incorporated 4 new Cipher Brief source articles into the knowledge base, dissolving their analytical content across 10 existing concepts. Skipped 1 source ("The Continued Myth of Russia's Imminent Collapse") as a duplicate of the already-incorporated 2026-07-15 version (Cipher Brief [5], dissolved into Russia, Russia-Ukraine War, and The Cipher Brief).
+
+**Sources:**
+1. **"America's Military Plans Depend on Infrastructure It Doesn't Secure"** (Minihan & Montgomery, 2026-07-13) — US military mobility depends on commercial rail/ports/comms/digital logistics vulnerable to Chinese cyber pre-positioning; calls for public-private cyber collaboration and degraded-environment exercises.
+2. **"Ankara's Charm Offensive Should Not Buy Back the F-35"** (Cipher Brief, 2026-07-18) — Opposition to Turkey's F-35 reinstatement: S-400 collection risk, Israel/Greece/Cyprus regional opposition, Turkey's Huawei/ZTE telecom backbone as a fourth disqualifying risk, UAE precedent.
+3. **"Cold War 2.0 Will Be Won by Private Capital"** (Hamlet Yousef, 2026-07-17) — Cold War 2.0 requires mobilizing private capital; China weaponized capital via BRI; private-equity playbooks on mines/ports/shipyards; modern Letter of Marque; Americas as first test.
+4. **"The Pentagon Built a Faster Engine, Nobody Built the Steering"** (Pete Newell, 2026-07-16) — Pentagon acquisition reform improved develop/deploy speed but left detect/define/assess/distribute unowned; counter-drone fight as test case (cycle-time, not technology, gap); industry as sensor; workforce gap.
+
+**Concepts updated:**
+| File | Changes |
+|------|---------|
+| [United States]({{ site.baseurl }}/actors/countries/united-states.html) | New "Doctrine: Military Mobility and Infrastructure Security" subsection — commercial infrastructure dependence, Chinese cyber pre-positioning, exercise assumptions; added [27] |
+| [China]({{ site.baseurl }}/actors/countries/china.html) | New "Strategic Culture: Pre-Positioning in Adversary Infrastructure" subsection — cyber operators in US transportation/energy/logistics for wartime disruption; added [22] |
+| [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) | New "Critical Infrastructure as the Military Mobility Substrate" (Minihan/Montgomery) and "Acquisition Reform and the Steering Gap" (Newell: 6-phase innovation cycle, industry as sensor, workforce gap) subsections; added [9][10] |
+| [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) | New "The Counter-Drone Cycle-Time Gap" subsection — $400K Stinger vs cheap interceptors, cycle-time not technology gap, build for adaptation, counter-IED parallel; added [9] |
+| [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) | New "The F-35 Reinstatement Question" subsection — S-400 collection risk, Israel/Greece/Cyprus opposition, Huawei/ZTE telecom backbone, UAE precedent; added [8] |
+| [NATO Ankara Summit 2026]({{ site.baseurl }}/events/nato-ankara-summit-2026.html) | New "Turkey and the F-35" subsection — Trump's summit comments on F-35/CAATSA, Erdoğan pageantry, four dangers of readmission; added [10] |
+| [Tech Stack Diplomacy]({{ site.baseurl }}/themes/tech-stack-diplomacy.html) | New "Huawei in NATO Networks: The Turkey Case" subsection — ZTE/Huawei telecom dependency, US urged NATO to replace Huawei gear, UAE F-35 collapse precedent; added [4] |
+| [Cold War 2.0]({{ site.baseurl }}/conflicts/cold-war-2.html) | New "Capital as a Domain of Competition" subsection — China weaponized capital via BRI; Western answer is deep capital markets; modern Letter of Marque; added [11] |
+| [Latin America]({{ site.baseurl }}/regions/latin-america.html) | New "The Americas as the First Test for Private Capital" subsection — private capital vs Chinese BRI; economic Marshall Plan via private investment; added [6] |
+| [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) | New "Private Capital as Instrument of National Power" subsection — capital becoming the arsenal; fiscal argument; government sets objectives, capital executes; added [20] |
+| [The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) | Added 4 new framework subsections (Military Mobility, F-35 Reinstatement, Private Capital, Acquisition Reform) to Key Topics; added Sources [8]-[11] and Citations |
+
+**Skipped sources:**
+- "The Continued Myth of Russia's Imminent Collapse: Lessons from Prigozhin's Mutiny Three Years On" (Wiswesser, 2026-07-10) — duplicate of the already-incorporated 2026-07-15 version (Cipher Brief [5], dissolved into Russia [22], Russia-Ukraine War [21], and The Cipher Brief [5]). The 2026-07-19 file is byte-identical in content.
+
+## 2026-07-19 — Source Incorporation: Herczegh on Asia-Pacific Security Architecture, Davidson on US-Iran Exhaustion Dynamics
+
+Incorporated 2 new GPF source articles into the knowledge base, dissolving their analytical content across 14 existing concepts and creating 1 new concept. Skipped 1 source ("George Answers Your Questions: As Iran Declines, Turkey Advances and A Major Move by India") as duplicate — its underlying articles are already incorporated from 2026-07-15 source files (GPF sources [18] and [20]).
+
+**Sources:**
+1. **"In the Asia-Pacific, a New Security Arrangement Takes Shape"** (Victoria Herczegh, 2026-07-16) — Japan-Australia-NZ trilateral on NATO summit sidelines; Philippines-Vietnam enhanced strategic partnership; ASEAN states diversifying security relationships away from sole-US dependence; China's narrowing window in Southeast Asia and economic-security divergence.
+2. **"Why the US and Iran Are Both on the Clock"** (Andrew Davidson, 2026-07-17) — Mutual-exhaustion dynamics of renewed US-Iran fighting; Iran's shrinking margin for victory; US sustained-campaign cost pressure; truce-not-settlement as likely outcome.
+
+**Concepts updated:**
+| File | Changes |
+|------|---------|
+| [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html) | New "A New Regional Security Architecture" and "China's Narrowing Window" subsections; added [17] |
+| [United States]({{ site.baseurl }}/actors/countries/united-states.html) | New "Strategic Posture: Retrenchment and Regional Recalibration" subsection covering "flexible, practical realism," Pacific Command reversion, and sustained-campaign cost pressure; added [25][26] |
+| [China]({{ site.baseurl }}/actors/countries/china.html) | New "A Narrowing Window in Southeast Asia" subsection; economic-security divergence; ballistic missile sub test as warning; added [21] |
+| [Iran]({{ site.baseurl }}/actors/countries/iran.html) | New "A Shrinking Margin for Victory" subsection; Aq Taqeh Khan railway bridge strike; Mojtaba Khamenei absence; escalation dilemma; added [17] |
+| [Japan]({{ site.baseurl }}/actors/countries/japan.html) | New "Proactive Regional Security Provider" subsection; Mogami-class frigates to NZ; trilateral with Australia/NZ; added [3] |
+| [Australia]({{ site.baseurl }}/actors/countries/australia.html) | New "Proactive Regional Security Provider" subsection; Jakarta Treaty; trilateral with Japan/NZ; added [4] |
+| [Vietnam]({{ site.baseurl }}/actors/countries/vietnam.html) | New "Enhanced Strategic Partnership with the Philippines" subsection; maritime hotlines/coast guard coordination; added [3] |
+| [Indonesia]({{ site.baseurl }}/actors/countries/indonesia.html) | New "Deepening Regional Security Cooperation" subsection; Japan defense agreement; Jakarta Treaty; added [4] |
+| [ASEAN]({{ site.baseurl }}/actors/organizations/asean.html) | New "Diversifying Security Relationships Below the Bloc Level" subsection; economic-security divergence; added [4] |
+| [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) | New "Mutual Exhaustion: Both Sides on the Clock" subsection; Aq Taqeh Khan strike; North-South corridor partial offset; truce-not-settlement; added [43] |
+| [Hormuz Ceasefire Collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) | New "A Truce, Not a Settlement" subsection; Iran's US-citizen release as de-escalation signal; added [7] |
+| [US Naval Blockade of Iran]({{ site.baseurl }}/events/us-naval-blockade-iran.html) | Blockade constraining oil exports/revenue; overland North-South corridor only partial offset; added [3] |
+| [South China Sea Arbitration Anniversary]({{ site.baseurl }}/events/south-china-sea-arbitration-anniversary-2026.html) | New "The Manila-Hanoi Enhanced Strategic Partnership" subsection; added [2] |
+| [NATO Ankara Summit 2026]({{ site.baseurl }}/events/nato-ankara-summit-2026.html) | Japan-Australia-NZ trilateral reaffirmed on summit sidelines; added [9] |
+| [Geopolitical Futures (GPF)]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) | Added [25] Herczegh and [26] Davidson to Sources in Bundle + Citations; extended analyst-bench paragraphs for both |
+
+**New concepts created:**
+- [Philippines]({{ site.baseurl }}/actors/countries/philippines.html) — Actor (country). Archipelagic US treaty ally and South China Sea claimant; proactive security actor at the center of an emerging regional security network. Added to [Countries]({{ site.baseurl }}/actors/countries/) index.
+
+**Skipped sources:**
+- "George Answers Your Questions: As Iran Declines, Turkey Advances and A Major Move by India" (Friedman, 2026-07-18) — duplicate of already-incorporated 2026-07-15 articles "As Iran Declines, Turkey Advances" (GPF [20]) and "A Major Move by India" (GPF [18]). Only the Q&A response nuance would be new; per user decision, skipped.
+
 ## 2026-07-18 — Consolidation Pass 3: Regions
 
 Two-pass consolidation targeting all 8 region concept files. Refactored 6 files

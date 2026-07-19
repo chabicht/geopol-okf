@@ -5,7 +5,7 @@ parent: Countries
 description: State that collapsed because it lost the cognitive war before the battlefield; Taliban-controlled, facing ISIS-K appropriation of Khurasan identity and regional actor exploitation
 tags: [country, cognitive-warfare, middle-east, central-asia]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -54,6 +54,14 @@ Cognitive gaps do not remain abstract; they translate directly into how decision
 
 The lesson is not that state-building is impossible but that state-building without cognitive alignment is unsustainable. For two decades, the focus was on stabilizing territory, institutions, and security forces — while underestimating the importance of stabilizing meaning. The next battlefield is not territory but perception, cognition, and the ability to shape how societies interpret reality and make decisions. States do not collapse only when they lose control of land; they collapse when they lose control of meaning [1].
 
+## EU Pragmatic Turn: Taliban Engagement for Migration Management
+
+Giustozzi ([RUSI]({{ site.baseurl }}/actors/authors/rusi.html)) documents the EU's pragmatic turn toward the Taliban as a case of migration-driven externalization. The EU Delegation in Kabul re-opened in January 2022; informal talks between European diplomats and Taliban representatives have continued in Doha and the UAE since 2021. The June 2026 Taliban delegation visit to Brussels and [Germany]({{ site.baseurl }}/actors/countries/germany.html)'s handover of the Bonn consulate and Berlin embassy to Taliban-appointed representatives marked major steps toward normalization short of formal recognition. The Taliban offered to cooperate on returns of Afghans living illegally in Europe in exchange for the transfer of Afghan consulates in Europe to their control [2].
+
+The structural driver is migration. Hundreds of thousands of Afghans live in Europe without legal status; hundreds of thousands more are in [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) seeking to enter Europe. The closure of Afghan consulates across Europe has left hundreds of thousands of Afghans without access to consular services and has produced a surge in fake identity documents from Afghanistan and Pakistan reaching European immigration agencies. The Taliban hold the stronger negotiating position because of the migration issue; there is no viable alternative to consular transfer if returns are to be processed. The case demonstrates that the cognitive-warfare dynamic identified in the collapse of the Republic continues under Taliban governance: the regime does not need to moderate its behavior on women's rights, education, or governance to extract concessions — it needs only control the migration corridor. The more repressive the regime, the more leverage it holds, because repression produces the very outflows that Europe seeks to manage [2]. See [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html).
+
 # Citations
 
 [1] [Afghanistan Lost the Cognitive War Before It Lost the State](https://www.thecipherbrief.com/afghanistan-lost-the-cognitive-war-before-it-lost-the-state)
+
+[2] [The EU's pragmatic turn toward the Taliban](https://www.theparliamentmagazine.eu/news/article/beyond-the-taliban-normalization-debate)

@@ -5,7 +5,7 @@ parent: Countries
 description: Resource-dependent US ally navigating strategic hedging between China and the US — AUKUS dependence, critical minerals ambition, China economic coercion experience, and the 2026 National Defense Strategy
 tags: [country, indo-pacific, energy, trade, critical-minerals, military]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -49,6 +49,18 @@ Four factors drive Australia's diversification strategy [3]:
 3. **Supply chain concentration**: Australia imports manufactured inputs, refined products, digital technologies, vehicles, and consumer goods from China while exporting commodities — creating dual exposure to Chinese demand and Chinese manufacturing.
 4. **Regional instability**: Australia's economy is heavily dependent on open sea lanes, energy flows, and maritime trade routes. Any further geopolitical disruptions would directly affect shipping, insurance, fuel prices, exports, and defense planning.
 
+## Proactive Regional Security Provider
+
+As the [United States]({{ site.baseurl }}/actors/countries/united-states.html) shifts toward "flexible, practical realism" — seeking transactional burden-sharing and reverting to the "Pacific Command" designation — Australia has transformed from a traditional US ally into an influential regional security provider in its own right. [Victoria Herczegh]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) (GPF) documents how Australia has steadily expanded its defense diplomacy, defense industrial cooperation, and operational presence throughout Southeast Asia alongside [Japan]({{ site.baseurl }}/actors/countries/japan.html). On the sidelines of the 2026 [NATO Ankara summit]({{ site.baseurl }}/events/nato-ankara-summit-2026.html), Japan, Australia, and New Zealand reaffirmed their commitment to closer trilateral defense cooperation. Australia's expanding military exercises with [Philippine]({{ site.baseurl }}/actors/countries/philippines.html) forces and the Jakarta Treaty deepening its security partnership with [Indonesia]({{ site.baseurl }}/actors/countries/indonesia.html) illustrate how the network is becoming institutionalized beyond bilateral cooperation with Washington [4].
+
+The shift reflects a structural change in how middle powers respond to US retrenchment. Instead of waiting for Washington to coordinate collective responses, principal allies are intensifying coordination among themselves and with key ASEAN states. The resulting network continues to rest on US influence but does not depend on direct US leadership [4].
+
+## Forward Unmanned-System Sustainment
+
+Dan Justice ([War on the Rocks]({{ site.baseurl }}/actors/authors/war-on-the-rocks.html)) identifies HMAS Cairns in Northern Australia as one of the secure, austere ports the U.S. Navy should anchor into a distributed network for forward-deployed maintenance of unmanned surface and undersea vehicles. The logic inverts the assumptions of the Navy's manned-fleet sustainment model: large, static, centralized bases like Guam and Yokosuka are increasingly vulnerable — Iran's strikes on U.S. bases in the Middle East and Ukraine's strikes on Russian naval facilities in the Baltic have shown that large forward bases are no longer guaranteed sanctuaries. Unmanned systems afford a different geometry. Their shallower drafts and smaller footprints allow them to use ports physically inaccessible to large warships; their smaller crews (or no crews) demand less shoreside husbanding infrastructure. Cairns is beyond the primary range of Chinese cruise missiles and medium-range ballistic missiles, and its location in the southern portion of the Indo-Pacific theater makes it a natural node for sustaining unmanned vehicles operating in the southern reaches of the area of operations [5].
+
+The same logic extends to a wider network — [Lombrum]({{ site.baseurl }}/actors/countries/philippines.html) in Papua New Guinea, [Subic Bay]({{ site.baseurl }}/actors/countries/philippines.html) in the Philippines, and commercial/state shipyards in [Vietnam]({{ site.baseurl }}/actors/countries/vietnam.html) and [Indonesia]({{ site.baseurl }}/actors/countries/indonesia.html) — that together would give the Navy resilience and redundancy without concentrating repair capability in a few high-value targets. The unresolved pieces are legal and organizational: uncrewed hulls lack a worldwide settled legal status as warships, and the Navy has not yet chosen between organic expeditionary repair squadrons and a contractor-led "lead sustainment integrator" model. The full doctrinal analysis is tracked in [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) and [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) [5].
+
 # Citations
 
 [1] [There Is No Next Economy](https://thehonestsorcerer.substack.com/p/there-is-no-next-economy)
@@ -56,3 +68,7 @@ Four factors drive Australia's diversification strategy [3]:
 [2] [You Cannot Unsee the Loops](https://substack.com/@ctindale/p-199283136)
 
 [3] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
+
+[4] [In the Asia-Pacific, a New Security Arrangement Takes Shape](https://geopoliticalfutures.com/in-the-asia-pacific-a-new-security-arrangement-takes-shape/)
+
+[5] [Broken Drone, Far from Home: The Case for Overseas Autonomous System Sustainment](https://warontherocks.com/broken-drone-far-from-home-the-case-for-overseas-autonomous-system-sustainment/)

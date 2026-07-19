@@ -5,7 +5,7 @@ parent: Countries
 description: China+1 manufacturing hub pursuing multi-alignment between the US and China — semiconductor ambitions, rare earth partnerships, and strategic hedging in the South China Sea
 tags: [country, indo-pacific, trade, supply-chain, technology, critical-minerals]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -46,8 +46,24 @@ Vietnam faces several structural risks. It remains deeply dependent on Chinese i
 
 Hanoi files notes verbales, protests bilaterally, and has invoked the arbitration award's reasoning without naming it. What Hanoi will not do is appear in a collective, American-branded alignment column. Declining the American text costs Vietnam the chance to consolidate a legal position it badly needs, and buys it the only thing it can afford: deniability. This distinction predicts that Vietnam's alignment will be a lagging indicator of the local balance of power rather than an expression of preference — alignment will come only when the coercion is lifted [2].
 
+## Enhanced Strategic Partnership with the Philippines
+
+Despite the "four noes," Vietnam has expanded practical security cooperation with the [Philippines]({{ site.baseurl }}/actors/countries/philippines.html) — the most instructive example of an emerging regional security architecture that operates below the threshold of formal alliance. [Victoria Herczegh]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) (GPF) documents how Manila and Hanoi elevated their ties to an enhanced strategic partnership, agreeing to establish maritime hotlines, expand coast guard coordination, and reaffirm their commitment to international law in the South China Sea. The timing was particularly significant, coming shortly before the 10th anniversary of the Permanent Court of Arbitration ruling — pairing the two ASEAN states with the strongest South China Sea claims [3].
+
+Vietnam has followed a similar path with other regional partners: boosting defense cooperation with [Japan]({{ site.baseurl }}/actors/countries/japan.html) while maintaining close engagement with Manila, and pursuing a comprehensive strategic partnership with [Indonesia]({{ site.baseurl }}/actors/countries/indonesia.html) alongside joint maritime law enforcement training involving Indonesia, the Philippines, and the [United States]({{ site.baseurl }}/actors/countries/united-states.html). Although Vietnam continues to balance cooperation with strategic autonomy, the steady expansion of practical security cooperation reflects a shared view that maritime stability is better preserved through closer coordination than through isolated bilateral engagement with Beijing [3].
+
+## Forward Unmanned-System Repair Partnerships
+
+Vietnam's commercial and state shipyards — Ba Son and Ha Long in particular — are identified by Dan Justice ([War on the Rocks]({{ site.baseurl }}/actors/authors/war-on-the-rocks.html)) as candidate nodes in a distributed network for sustaining the U.S. Navy's coming unmanned fleet. The geographic logic is that the tyranny of distance in the [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html) makes large, static, centralized bases like Guam or Yokosuka risky bets for concentrating repair capability; smaller and more austere ports, including commercial yards with the dry docks and crane lift capacity necessary for maintaining medium and large unmanned vehicles, can provide resilience and redundancy. Vietnam is attractive precisely because the partnership would route through commercial or state yards rather than U.S.-owned infrastructure — a model that fits Hanoi's "four noes" (no foreign military bases on Vietnamese soil) while still enabling practical cooperation [4].
+
+The unresolved pieces are legal and organizational: uncrewed hulls lack a worldwide settled legal status as warships, and the Navy has not yet chosen between organic expeditionary repair squadrons and a contractor-led "lead sustainment integrator" model that would route work through a separate third-party entity. The full doctrinal analysis is tracked in [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) and [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) [4].
+
 # Citations
 
 [1] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
 
 [2] [The Award Everyone Defends and No One Will Co-Sign](https://substack.com/@velinatchakarova/p-206915723)
+
+[3] [In the Asia-Pacific, a New Security Arrangement Takes Shape](https://geopoliticalfutures.com/in-the-asia-pacific-a-new-security-arrangement-takes-shape/)
+
+[4] [Broken Drone, Far from Home: The Case for Overseas Autonomous System Sustainment](https://warontherocks.com/broken-drone-far-from-home-the-case-for-overseas-autonomous-system-sustainment/)

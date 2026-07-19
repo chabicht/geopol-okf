@@ -7,7 +7,7 @@ event_date: 2026-07-15
 actuality: actual
 tags: [ideology, elections, oligarchy]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -32,6 +32,20 @@ Krugman warns that the proposition that there are things even Trump would not do
 
 See [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html) for the broader pattern of democratic backsliding.
 
+## The *Unhumans* Ideology and the SAVE Act (July 17)
+
+[Heather Cox Richardson]({{ site.baseurl }}/actors/authors/heather-cox-richardson.html) documents the consolidation of the election-interference pretext through July 17, 2026, when Trump, Secretary of State Rubio, and deputy White House chief of staff Stephen Miller threw the weight of the U.S. government behind the far-right conspiracy theory articulated in Jack Posobiec and Joshua Lisec's *Unhumans: The Secret History of Communist Revolutions (and How to Crush Them)* — blurbed by Donald Trump Jr. and J.D. Vance and introduced by Stephen Bannon. The book's argument that anyone from communists to progressives places themselves "outside the category" of humanity provided the ideological framing for the SAVE America voter-suppression legislation Trump demanded Congress pass: "the only reason you wouldn't do it is you want to cheat." Bannon argued on his *War Room* podcast that the communist-threat narrative is "a predicate for immediate action" — a national security emergency executive order that "took all of SAVE America plus plus plus plus" [2].
+
+The same day, DHS Secretary Markwayne Mullin threatened state officials with criminal prosecution if they don't comply with Trump's demands to purge voter rolls through a federal digital tool that federal judges have blocked sixteen times for flagging recently naturalized citizens as noncitizens. One of the documents Trump himself released showed that Russia tried to influence the 2020 election to defeat Biden — directly contradicting his own denial of Russian interference. The White House declared that "far-left extremism will be treated with the same seriousness and ferocity the world has long reserved for jihadist terrorism," despite a 2025 CSIS analysis showing left-wing political violence remains much lower than historical levels of right-wing and jihadist violence. The [Hormuz ceasefire collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) had already removed the electoral-victory narrative the Iran war was supposed to deliver; the *Unhumans* rhetoric provides its replacement — a fabricated domestic threat to justify the voter suppression that polling suggests is the administration's remaining electoral path [2]. See [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html).
+
+## The "America Is Respected" Lie as Election-Subversion Groundwork
+
+[Paul Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html) documents the gap between Trump's boasts about global respect and the empirical record. Pew's Global Attitudes Survey shows that people in many countries now view [China]({{ site.baseurl }}/actors/countries/china.html) more positively than the US. Governments around the world, including former loyal allies, are scrambling to reduce their dependence on an America that can't be trusted and has proved itself far weaker than anyone imagined. The "America is respected" lie serves two functions for the election-subversion project. First, it matters to Trump personally: claims that America was a laughingstock under Biden but is now admired are near the top of many of his speeches — Trump lives for external validation, and the delusion that the world is in awe of his prowess is key to his fragile sense of self-worth. Second, the boasts about international reputation are part of the case Trump is building for disrupting and rejecting the midterm results: since he is doing an incredible job, nobody should get in his way or place any limits on his power. At this point, none of what Trump says is really about persuasion — it is all about laying the groundwork for his attempt to destroy democracy [3].
+
 # Citations
 
 [1] [The Forever War Gets Scary](https://paulkrugman.substack.com/p/the-forever-war-gets-scary)
+
+[2] [July 17, 2026](https://heathercoxrichardson.substack.com/p/july-17-2026)
+
+[3] [Trump Can't Get No Respect](https://paulkrugman.substack.com/p/trump-cant-get-no-respect)

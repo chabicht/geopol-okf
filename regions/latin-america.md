@@ -5,7 +5,7 @@ parent: Regions
 description: US traditional sphere of influence experiencing a rightward wave with militarized security turn and institutional fragility.
 tags: [latin-america, elections, military, cold-war]
 status: ongoing
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -36,6 +36,12 @@ Chile and Peru, the world's leading copper producers, have been most directly af
 
 Pemex and Petrobras signed a memorandum of understanding for strategic and technical cooperation in hydrocarbons — exploration, refining, petrochemicals, fertilizers, and biofuels. Petrobras' deep-water technology will help Pemex expand in the Gulf of Mexico, while the fertilizer study benefits Brazil, the world's fourth-largest fertilizer importer. The MoU is emblematic of a larger trend of diversification of strategic resource exploration and pursuit of Latin American cooperation outside US-led frameworks. See [Pemex-Petrobras MoU]({{ site.baseurl }}/events/pemex-petrobras-mou.html) [5]. The July 1 USMCA negotiations ended before they began, with Washington preferring bilateral deals over trilateral terms. Mexico and the US are set to negotiate on July 20. With a $2 trillion intra-regional market at stake, some agreement is likely, but its terms could significantly reshape North American trade, particularly in the automotive sector. See [USMCA Renegotiation 2026]({{ site.baseurl }}/events/usmca-renegotiation-2026.html) [5]. During the severe drought of 2023-2024, the Madeira and Tapajos rivers — key corridors for moving soybeans and corn from Mato Grosso to northern export terminals — experienced disruptions, exposing a strategic vulnerability in [Brazil]({{ site.baseurl }}/actors/countries/brazil.html)'s export model. See [Geoeconomics of Water]({{ site.baseurl }}/themes/geoeconomics-of-water.html) [5].
 
+## The Americas as the First Test for Private Capital
+
+Hamlet Yousef ([The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html)) argues that [Latin America]({{ site.baseurl }}/regions/latin-america.html) should be the first major test of a Western answer to [China]({{ site.baseurl }}/actors/countries/china.html)'s weaponized capital. Chinese capital has expanded across the region through mining, energy, ports, telecommunications, logistics, agriculture, and manufacturing. Washington cannot simply warn governments and business families about Chinese influence and expect them to walk away from available financing — Western capital must compete. A modern economic Marshall Plan for the Americas should be driven largely by private investment, working alongside aligned governments, local families, entrepreneurs, and industrial groups. The pitch should be practical: better capital, better governance, stronger local partnerships, more jobs, and a business model that leaves more value in the country. That is how Chinese influence gets displaced — by offering something better, not simply issuing warnings from Washington [6].
+
+The broader Cold War 2.0 frame is tracked in [Cold War 2]({{ site.baseurl }}/conflicts/cold-war-2.html): capital is becoming an instrument of national power, and the contest will be won as much in boardrooms, factories, ports, shipyards, and investment committees as on traditional battlefields. The fiscal argument reinforces the strategic one: private capital changes the equation — investors fund the companies and acquisitions, absorb losses when investments fail, and when they succeed create jobs, profits, tax revenue, industrial capacity, and stronger supply chains. Government gains capability without paying the entire bill [6]. See [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) for the framework-level treatment.
+
 # Key Dynamics
 
 - **Not purely Trump-driven** — Attitudes on crime and migration moved rightward independently of US pressure. The ideological shift reflects genuine domestic dynamics, not merely external imposition.
@@ -55,3 +61,5 @@ Pemex and Petrobras signed a memorandum of understanding for strategic and techn
 [4] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
 
 [5] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
+
+[6] [Cold War 2.0 Will Be Won by Private Capital](https://www.thecipherbrief.com/cold-war-2-0-will-be-won-by-private-capital)

@@ -5,7 +5,7 @@ parent: Countries
 description: Germany as a geopolitical actor — publishing first military strategy, signaling European conventional defense leadership, but hampered by timeline inconsistencies, capability gaps, and the AfD's Trump dilemma
 tags: [country, military, europe, nato, ideology, economics, trade, energy]
 status: ongoing
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -58,9 +58,17 @@ Germany is becoming a destination for African labour and education migrants. Vis
 
 In 2023, Germany and [Colombia]({{ site.baseurl }}/actors/countries/colombia.html) signed a bilateral Partnership for Climate Action and a Just Energy Transition, with Germany pledging up to €200 million in funding; Colombia is one of three bilateral partners of the Federal Ministry for Economic Cooperation and Development (BMZ) in Latin America [11]. From the German side, the partnership reflects an effort to support supply-side climate policy in a Global South fossil fuel exporter, but German and broader EU engagement falls short of its strategic potential: financing materializes only once projects are well advanced, with little presence during high-risk early phases. Whether Germany can provide reliable support for Colombia's transformation is being closely watched by other Global South fossil fuel exporters. The Colombia-side dynamics — Petro's reform agenda, the 2026 political reversal, and the energy-transition trajectory — are tracked in the [Colombia]({{ site.baseurl }}/actors/countries/colombia.html) actor concept [11].
 
+## Healthcare Cybersecurity and the National Security Council
+
+Bayerlein, Bendiek, Hemmelskamp, and von der Forst ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) recommend that the German government treat healthcare cybersecurity as a matter for the Nationaler Sicherheitsrat (National Security Council), which could establish staff offices for the 18 critical infrastructure sectors to function as a hinge between local, European, and international policy levels. The Bundesamt für Sicherheit in der Informationstechnik (BSI) plays a central role in protecting the healthcare sector, working closely with ENISA and collecting reports on serious cyber incidents under the NIS-2 Directive. The German health minister has announced a specific Gesundheitssicherstellungsgesetz (Health Security Act) to complement the sectoral KRITIS laws, with core aspects including holistic resilience strengthening and closer cooperation with security authorities and the Bundeswehr. Johannes Backus, the Bundeswehr's Surgeon General and Commander of the Healthcare Command, frames resilience as the interaction of all relevant operational, administrative, and supply actors. The implementation repeatedly fails due to departmental boundaries and lack of top-down organization through the National Security Council [12]. See [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html).
+
+## The Taliban Consulate Handover
+
+Giustozzi ([RUSI]({{ site.baseurl }}/actors/authors/rusi.html)) documents Germany's central role in driving the EU's pragmatic turn toward the Taliban. Germany, initially closer to opponents of normalization, began deporting Afghans to Kabul in August 2024 and has since handed the Bonn consulate and the Berlin embassy over to Taliban-appointed representatives — driving the broader shift in EU policy. Berlin reached ad hoc technical agreements with the regime and relied on Qatari logistical support for the transfers. So far only convicted criminals have been returned; to process the necessary paperwork, German authorities allowed Afghan consular officials to operate in the country before ultimately transferring control of the Bonn consulate. The case illustrates how national deportations can become the wedge that shifts EU-wide policy toward engagement with a regime whose values are diametrically opposed to European constitutional norms [13]. See [Afghanistan]({{ site.baseurl }}/actors/countries/afghanistan.html) and [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html).
+
 # Analysis
 
-Germany's military strategy represents a necessary but insufficient step. The recognition of the Russia threat and the acceptance of European conventional defense responsibility are positive developments. However, the timeline inconsistencies, lack of operational detail, and absence of institutional reform suggest that Germany remains in a declaratory phase rather than an execution phase. The gap between ambition and capability is the central challenge. Meanwhile, China Shock 2.0 adds an acute industrial crisis to the existing security challenges — the German automotive sector, the backbone of the economy, faces structural displacement by Chinese EVs, and the failure to reinvest record profits into innovation has compounded the vulnerability [6].
+Germany's military strategy represents a necessary but insufficient step. The recognition of the Russia threat and the acceptance of European conventional defense responsibility are positive developments. However, the timeline inconsistencies, lack of operational detail, and absence of institutional reform suggest that Germany remains in a declaratory phase rather than an execution phase. The gap between ambition and capability is the central challenge. Meanwhile, China Shock 2.0 adds an acute industrial crisis to the existing security challenges — the German automotive sector, the backbone of the economy, faces structural displacement by Chinese EVs, and the failure to reinvest record profits into innovation has compounded the vulnerability [6]. The healthcare-cybersecurity and Taliban-consulate cases illustrate the same gap in a different domain: Germany has the policy instruments (BSI, KRITIS-Dachgesetz, the National Security Council architecture) but implementation repeatedly fails at departmental boundaries; and national deportation politics can preempt coordinated European values-based foreign policy.
 
 # Citations
 
@@ -85,3 +93,7 @@ Germany's military strategy represents a necessary but insufficient step. The re
 [10] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
 
 [11] [Colombia as a Leader in Climate and Energy Policy](https://www.swp-berlin.org/publikation/colombia-as-a-leader-in-climate-and-energy-policy)
+
+[12] [Cybersicherheit im Gesundheitssektor](https://www.swp-berlin.org/publikation/cybersicherheit-im-gesundheitssektor)
+
+[13] [The EU's pragmatic turn toward the Taliban](https://www.theparliamentmagazine.eu/news/article/beyond-the-taliban-normalization-debate)

@@ -7,7 +7,7 @@ tags: [energy, economics]
 status: ongoing
 actuality: actual
 event_date: 2026-05-09
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -40,6 +40,10 @@ The arithmetic is stark: about 1.3 billion barrels of oil have vanished from the
 
 [The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) reports that the SPR reached 316.5 million barrels, with the average daily draw-down rate falling sharply — from ~1.3 million barrels in mid-June to 0.43 million barrels in the week ended July 10. At this trend, the withdrawal rate could fall to zero by early August, making the lifting of the remaining 72-73 million barrels highly unlikely. Of the nearly 100 million barrels released since late March, roughly 60 million were sour medium heavy crude (high diesel yields), with the rest being light sweet crude (mostly exported abroad). At May-June drawdown rates (~1 million bpd), the release contributed only 0.6 million bpd to the ~17 million bpd inputs delivered to US refineries. Should the SPR go completely kaput in August, the US would need to source an additional 0.6 million bpd of medium heavy crude — difficult but not existential, since distillate stocks still sit at comfortably high levels. What will not change is the pricing of refined products, given the strictly limited global supply of medium heavy crude and refined fuels [6].
 
+## The SPR Reaches 1983 Lows (Mid-July 2026)
+
+[Heather Cox Richardson]({{ site.baseurl }}/actors/authors/heather-cox-richardson.html) reports that by mid-July 2026 the U.S. oil reserve had dropped to its lowest level since 1983 — the very benchmark the Honest Sorcerer's earlier analysis had identified as the structural floor. The disclosure coincided with Iran's reported request that the Houthis close the Bab el-Mandeb strait in response to Trump's threatened strikes on Iran's power network, raising the prospect of a second Middle East export route being disrupted just as the SPR approached its operational minimum. The data point confirms Pape's "deferred reckoning" thesis: the buffers absorbing the Hormuz shock are one-time measures, and the moment the drawdowns stop and normal buying resumes, the arithmetic reverses — with less oil in storage than at any point in decades [7].
+
 # Citations
 
 [1] [The Quiet Before the Squeeze — Why Hormuz Hasn't Sent Oil to $150](https://substack.com/@velinatchakarova/p-201366553)
@@ -53,3 +57,5 @@ The arithmetic is stark: about 1.3 billion barrels of oil have vanished from the
 [5] [Global System Rupture](https://substack.com/@velinatchakarova/p-205351600)
 
 [6] [The Oil Price "Mystery"](https://thehonestsorcerer.substack.com/p/the-oil-price-mystery)
+
+[7] [July 16, 2026](https://heathercoxrichardson.substack.com/p/july-16-2026)

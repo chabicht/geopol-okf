@@ -5,7 +5,7 @@ parent: Regions
 description: Crossroads of three continents containing the Strait of Hormuz; undergoing a US strategic reorientation from Israel-centric to multilateral security, with Turkey-Israel rivalry as the defining competitive dynamic and Iran in systemic decline.
 tags: [middle-east, energy, military, trade]
 status: ongoing
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -46,6 +46,12 @@ The Hormuz crisis undermined G7 sanctions on [Russia]({{ site.baseurl }}/actors/
 
 [Aurelien]({{ site.baseurl }}/actors/authors/aurelien.html) provides historical context for Western influence in the Middle East. The Mandate era (post-1919) accelerated modernization: French was taught in schools, enabling cross-community communication and the circulation of European political ideas. Leftist parties flourished (Communist Party of Syria/Lebanon formed 1924). The Ba'ath Party — cross-sectarian, heavily influenced by western socialist ideas — was the most influential political movement by 1970. The 1967 defeat by Israel shattered the fragile self-confidence of the secular era; the contemporary Western presence — "consultants and NGOs beavering away, running training courses on irrelevant subjects, producing reports no-one reads" — contrasts unfavorably with the seriousness of the missionary and Mandate era. The West's "soulless and unappealing liberal-technocratic managerial ideology" cannot compete with civilisational ideologies projected by other actors [13].
 
+## The Front Separation Pattern in Middle East Diplomacy
+
+Ahmed Saber Abbas ([War on the Rocks]({{ site.baseurl }}/actors/authors/war-on-the-rocks.html)) identifies a recurring structural pattern in Middle East peace negotiations: closing — or attempting to close — the front that imposes the greatest immediate cost while detaching the unresolved fronts from the wider political and bargaining context that had linked them. The [Camp David Accords]({{ site.baseurl }}/events/camp-david-accords.html) addressed the Egyptian front first because [Egypt]({{ site.baseurl }}/actors/countries/egypt.html) possessed the greatest capacity to impose direct military and political costs on [Israel]({{ site.baseurl }}/actors/countries/israel.html); the Palestinian and Syrian fronts were left outside a comprehensive settlement. The separation did not lead to more peace — it left the remaining fronts searching for another force capable of carrying their historical grievances, and the resulting vacuum was the opportunity [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s revolutionary ideology was later able to exploit [14].
+
+The same pattern is reasserting itself in the negotiations around the [Iran Ceasefire MoU]({{ site.baseurl }}/events/iran-ceasefire-mou.html). Israel rejected unifying the fronts within a single agreement and including [Lebanon]({{ site.baseurl }}/actors/countries/lebanon.html) in both the ceasefire and any future settlement. When the Trump administration opened separate negotiations on Lebanon, the result preserved the distinction Israel insisted on: the Iranian track could move forward while Lebanon was dealt with on separate terms. The U.S.-mediated Israel-Lebanon framework tied Israel's full withdrawal to Hizballah's disarmament, separating the Lebanese track from the Iranian one. The danger is that, once separated, Lebanon is no longer addressed through a comprehensive political settlement but through an open-ended arrangement of disarmament, verification, and conditional withdrawal — preserving the grievances, political vacuum, and unequal security conditions through which future resistance can grow. Peace agreements endure when they close conflict without diminishing sovereignty, as Camp David did with Egypt; they redistribute war when they defer sovereignty, as the Lebanese framework now does [14]. See [Lebanon]({{ site.baseurl }}/actors/countries/lebanon.html) and [Camp David Accords (1978)]({{ site.baseurl }}/events/camp-david-accords.html).
+
 # Key Dynamics
 
 - **Energy chokepoint geography** — The Strait of Hormuz makes the region globally critical. No alternative route can absorb the volumes that transit here, so even partial disruptions cascade through world energy markets. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html).
@@ -82,3 +88,5 @@ The Hormuz crisis undermined G7 sanctions on [Russia]({{ site.baseurl }}/actors/
 [12] [The Future of Russian Sanctions After the Hormuz Crisis](https://www.rusi.org/explore-our-research/publications/commentary/future-russian-sanctions-after-hormuz-crisis)
 
 [13] [Don't Expect Respect](https://substack.com/@aurelien2022/p-204269398)
+
+[14] [The Peace That Redistributes War: What Camp David Reveals About Lebanon and Iran](https://warontherocks.com/the-peace-that-redistributes-war-what-camp-david-reveals-about-lebanon-and-iran/)

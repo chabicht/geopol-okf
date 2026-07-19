@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Royal United Services Institute — UK defense and security think tank producing analysis on NATO strategy, asymmetric warfare, defense industrial capacity, sanctions, and Indo-Pacific security
 tags: [author, news]
 status: ongoing
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -52,6 +52,14 @@ Francisco Carneiro Júnior (RUSI Newsbrief) analyses Palantir Technologies' 22-p
 
 RUSI traces NATO's partnership evolution through three phases — post-1991 (enlargement and post-Soviet stabilisation), post-9/11 (counter-piracy and Afghanistan), and post-2019 (China rise → IP4: Australia, [Japan]({{ site.baseurl }}/actors/countries/japan.html), New Zealand, South Korea). At the 2026 Ankara summit, South Korea was represented at Presidential level, others at ministerial level — interpretable either as decline from the 2022 Madrid summit or as maturation into pragmatic functionality. [China]({{ site.baseurl }}/actors/countries/china.html)'s backing of [Putin]({{ site.baseurl }}/actors/putin.html)'s 2022 escalation catalyzed NATO-IP4 mutual attraction, but the second Trump administration's NDS treats Euro-Atlantic/Indo-Pacific separation as desirable, and its "constructive strategic stability" détente with China conflicts with "ganging up" via NATO-IP4 [7]. Rachel Ellehuus (RUSI Director-General) identifies three lessons from the Ankara summit for sustaining a more European-led NATO: (1) focus on delivering results, not "fighting the scenario" — the old NATO where the US led is not returning; (2) [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html)'s centrality to credible European defence — confirmed by Project Freya (anti-ballistic missile system with Ukrainian rockets, German Hensoldt radars, Norwegian C2), drone coproduction contracts, and integration of Ukraine's FP5 Flamingo missile with European industry; (3) the private sector's role — the NATO Defence Industry Forum (NSDIF26), the Strategy for NATO-Industry Cooperation, and financing mechanisms like the Multilateral Defence Mechanism (Finland, Poland, Netherlands, UK) and the Defence Security and Resilience Bank (Canada, Luxembourg) [5]. See [NATO Ankara Summit 2026]({{ site.baseurl }}/events/nato-ankara-summit-2026.html).
 
+## Putin's Fuel Dilemma: Deep-Strike Fiscal Squeeze
+
+RUSI (Jim McLean) analyses [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html)'s deep-strike campaign against [Russian]({{ site.baseurl }}/actors/countries/russia.html) energy infrastructure as a strategy that translates battlefield operations into sustained economic and political costs. The framework identifies a structural trade-off facing the Kremlin: every step taken to shield consumers from fuel shortages comes at the expense of export revenues and budget stability. After weeks of mounting evidence, Putin publicly acknowledged on 28 June 2026 that Ukrainian attacks on energy infrastructure were creating "problems" and a "certain shortage" of fuel — the first such admission — even as he insisted the situation was "not critical." The framework documents the quantified squeeze: two-thirds of Russian federal entities have reported gasoline or diesel restrictions, retail fuel prices rose 3% in a single week, gasoline production is down roughly a quarter since late May, and jet fuel prices at Russian airports are up 17% since early June. The fiscal dimension is decisive: the fuel dampener (the federal subsidy to refiners supplying the domestic market instead of exporting) rose from approximately $220 million in Q1 2026 to over $2.5 billion in May alone. A diesel export ban — under consideration — would forgo approximately $2.9 billion in monthly gasoil export revenues (14% of Russia's total oil export earnings). The framework frames the choice facing Putin as binary: re-enter negotiations with fewer ultimatums (and implicitly accept that Russia cannot conquer Ukraine's east and south), or continue absorbing costs that increasingly reach ordinary Russians and narrow the Kremlin's room for manoeuvre. See [Russia]({{ site.baseurl }}/actors/countries/russia.html) and [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) [10].
+
+## The EU's Pragmatic Turn Toward the Taliban
+
+Antonio Giustozzi (RUSI) analyses the European Union's engagement with the Taliban as a case of migration-driven externalization overriding values-based conditionality. The framework traces a process underway since 2022 — the EU Delegation re-opened in Kabul in January 2022, informal talks in Doha and the UAE have continued since 2021 — culminating in the June 2026 Taliban delegation visit to Brussels and [Germany]({{ site.baseurl }}/actors/countries/germany.html)'s handover of the Bonn consulate and Berlin embassy to Taliban-appointed representatives. The Taliban offered to cooperate on returns in exchange for consular transfer — a step short of formal recognition but a major normalization move. The framework's structural argument: the Taliban hold the stronger negotiating position because the migration issue is unsustainable. Hundreds of thousands of Afghans live in Europe without legal status; hundreds of thousands more are in [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) seeking to enter Europe; the closure of Afghan consulates has produced a surge in fake identity documents. Critics of engagement offer no alternative other than maintaining an unsustainable status quo that member states are already undermining through bilateral arrangements. The case demonstrates that migration pressure is sufficient to override human-rights conditionality and that externalization extends to engagement with regimes whose values are diametrically opposed to European constitutional norms. See [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html) and [Afghanistan]({{ site.baseurl }}/actors/countries/afghanistan.html) [11].
+
 # Sources in Bundle
 
 - "Cheap Attack, Expensive Defence: NATO 5% Pledge Following Iran and Ukraine" [1]
@@ -63,6 +71,8 @@ RUSI traces NATO's partnership evolution through three phases — post-1991 (enl
 - "What's Left of NATO's Asia Engagement?" [7]
 - "The AI-Enhanced Land Carrier Battle Group: The Way Forward" [8]
 - "The Algorithmic Deterrent" [9]
+- "Putin's Fuel Dilemma" [10]
+- "The EU's pragmatic turn toward the Taliban" (Giustozzi) [11]
 
 # Citations
 
@@ -83,3 +93,7 @@ RUSI traces NATO's partnership evolution through three phases — post-1991 (enl
 [8] [The AI-Enhanced Land Carrier Battle Group: The Way Forward](https://www.rusi.org/explore-our-research/publications/rusi-defence-systems/ai-enhanced-land-carrier-battle-group-way-forward)
 
 [9] [The Algorithmic Deterrent](https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/algorithmic-deterrent)
+
+[10] [Putin's Fuel Dilemma](https://www.rusi.org/explore-our-research/publications/commentary/putins-fuel-dilemma)
+
+[11] [The EU's pragmatic turn toward the Taliban](https://www.theparliamentmagazine.eu/news/article/beyond-the-taliban-normalization-debate)

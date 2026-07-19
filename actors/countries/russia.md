@@ -5,7 +5,7 @@ parent: Countries
 description: Russia as a geopolitical actor — waging war in Ukraine, managing Chechnya's succession risk, projecting power in Africa, conducting cognitive warfare against the West, attempting to revitalize the CSTO, losing its grip on its southern flank, facing logistics vulnerabilities under sanctions, facing drone strikes deep into Siberia, and contending with the resilience of its security state
 tags: [country, military, cognitive-warfare, energy, sanctions, europe, caucasus, africa, central-asia, supply-chain, cyber]
 status: ongoing
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -74,6 +74,12 @@ Russia's grip on its southern frontier — from the Black Sea through the South 
 
 Russia is attempting to revitalize the Collective Security Treaty Organization (CSTO) — the post-Soviet military alliance comprising Armenia, Kazakhstan, Kyrgyzstan, Tajikistan, and Belarus. Putin's plan serves two objectives: standardizing Central Asian militaries on Russian equipment (reversing the mid-2000s diversification toward Western and Chinese systems), and creating export markets for Russian military products that the war economy cannot absorb domestically. In December 2025, the CSTO practiced crisis-localization exercises, and Kazakhstan is pushing to expand deployment authorities [7]. However, the CSTO remains hampered by Armenia's frozen membership, divergent threat perceptions, and a history of failures — it did not assist Kyrgyzstan in 2010, abstained from the Nagorno-Karabakh War, and saw member states refuse to support Russia's position on Crimea. See [Layered Security]({{ site.baseurl }}/themes/layered-security.html) [7].
 
+## Putin's Fuel Dilemma
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) (Jim McLean) analyses the structural trade-off that Ukraine's deep-strike campaign against Russian energy infrastructure has forced on the Kremlin: every step taken to shield consumers from fuel shortages comes at the expense of export revenues and budget stability. After weeks of mounting evidence, Putin publicly acknowledged on 28 June 2026 that Ukrainian attacks on energy infrastructure were creating "problems" and a "certain shortage" of fuel — the first such admission — even as he insisted the situation was "not critical." Two-thirds of Russian federal entities have reported gasoline or diesel restrictions, retail fuel prices rose 3% in a single week, gasoline production is down roughly a quarter since late May, and jet fuel prices at Russian airports are up 17% since early June. The Kremlin has extended the jet fuel export ban through end-November and is considering a diesel ban; it is also negotiating to import approximately 50,000 tonnes of gasoline from Kazakhstan [30].
+
+The fiscal dimension is decisive. Export restrictions prevent refiners from selling into higher-priced foreign markets, reducing foreign-currency earnings while limiting companies' ability to recover costs at home. The fuel dampener — the federal subsidy to refiners supplying the domestic market instead of exporting — rose from approximately $220 million in Q1 2026 to more than $2.5 billion in May alone. A diesel export ban would forgo an estimated $2.9 billion in monthly gasoil export revenues (14% of Russia's total oil export earnings that month). The longer Putin pursues maximalist aims in Ukraine, the more detached he becomes from realities at home: many Russians endorsed the imperial project in principle, but the fear of being directly affected — through Ukrainian strikes or mounting economic hardship — is steadily eroding enthusiasm for the war. The dilemma narrows the Kremlin's room for manoeuvre. See [Putin]({{ site.baseurl }}/actors/putin.html), [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), and [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) [30].
+
 # Analysis
 
 Russia's strategic position is paradoxical: deeply committed in Ukraine, facing succession risk in Chechnya, losing ground in Africa, yet successfully exploiting Western energy dependencies and conducting effective cognitive warfare. The DragonBear axis provides critical support, but Russia's ability to sustain multiple theaters is increasingly constrained by the prioritization demands of the Ukraine war.
@@ -137,3 +143,5 @@ Russia's strategic position is paradoxical: deeply committed in Ukraine, facing 
 [28] [The Future of Russian Sanctions After the Hormuz Crisis](https://www.rusi.org/explore-our-research/publications/commentary/future-russian-sanctions-after-hormuz-crisis)
 
 [29] [Understanding Russia-Iran Collaboration in Cyberspace](https://www.csis.org/analysis/understanding-russia-iran-collaboration-cyberspace)
+
+[30] [Putin's Fuel Dilemma](https://www.rusi.org/explore-our-research/publications/commentary/putins-fuel-dilemma)

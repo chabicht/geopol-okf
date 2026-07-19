@@ -30,3 +30,4 @@ permalink: /actors/authors/
 * [Kiel Institute](kiel-institute.html) - Russian war economy analysis — unsustainable macro stance, fiscal buffers exhausted, hydrocarbon coupling
 * [RUSI](rusi.html) - UK defense think tank — NATO strategy, asymmetric warfare, defense industrial capacity, sanctions, Indo-Pacific security
 * [SWP](swp.html) - German Institute for International and Security Affairs — climate diplomacy, conflict prevention, European foreign policy, regional dynamics
+* [War on the Rocks](war-on-the-rocks.html) - Defense and foreign policy publication — operational depth on drone warfare, forward sustainment, wartime governance, Iranian and Russian doctrine, and the front-separation pattern in Middle East diplomacy

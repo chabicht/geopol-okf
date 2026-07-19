@@ -11,7 +11,7 @@ tags:
   - supply-chain
   - trade
 status: ongoing
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -96,6 +96,20 @@ The evidence is not abstract: Palantir's Maven Smart System recommended strike p
 
 This connects to the broader [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html): the de-humanizing of the battlefield is not only about drones and sensors but about algorithmic targeting compressing decision cycles below human deliberation speed. The six lessons Carneiro draws for retaining sovereignty — digital sovereignty as autonomous information-processing capacity, organised crime as low-intensity conflict requiring its own doctrine, OODA-loop speed as a survival requirement, training for the war being fought not the war that was fought, drawing the line between security and surveillance before technology erases it, and the need to deliberately choose a side in the emerging technological order — frame algorithmic warfare as a civilizational choice, not a procurement decision. See also [Tech Stack Diplomacy]({{ site.baseurl }}/themes/tech-stack-diplomacy.html) for the digital sovereignty dimension and [Organised Crime and Statecraft]({{ site.baseurl }}/themes/organised-crime-and-statecraft.html) for the criminal-network adoption of drone technology [9].
 
+## Monopoly vs Competition for AI Innovation
+
+[Paul Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html)'s interview with Lina Khan reframes the AI military race around a question the export-the-stack strategy leaves unexamined: does monopoly or competition produce the breakthrough innovations that military advantage ultimately depends on? Khan frames the AI supply chain as a stack in which each layer — chips, hyperscalers, cloud infrastructure, models, apps and services — has economic properties that can easily tip toward monopoly through network effects, as happened in Web 2.0. Allowing monopolization at one layer without rules such as common carriage or equal access can result in other layers becoming monopolized or distorted. The FTC had been investigating bottlenecks at the chip layer (Nvidia as gatekeeper) and the cloud layer (hyperscalers privileging their own AI products) [10].
+
+The conflict of interest is structural and directly relevant to military capability. Microsoft, Amazon, and Google — the firms the US export strategy relies on — have their own cloud computing businesses, so they have incentives to favor AI models that are inefficient (consuming more compute) rather than efficient. The DeepSeek revelation — a Chinese model rivalling American sophistication with much greater efficiency — was a wake-up call about what it would mean to allow the American giants to control these markets and innovate on trajectories they determine rather than letting competition drive efficiency. The historical cautionary tale is Boeing: the late-1990s merger approval allowing Boeing to buy up its last US rival, McDonnell Douglas, led down a path where Boeing's planes started falling apart and people died — a lack of competition that probably played a role, compounded by a culture shift from engineering to McKinsey-type consulting [10].
+
+The empirical record on the Schumpeter-Arrow debate — whether monopoly or competition best pays for innovation — shows that monopolies can be good at incremental improvements on existing technologies, but the breakthrough, paradigm-shifting innovations have come from outsiders and competitive markets. The fundamental breakthrough that made modern AI possible came from Google — which did nothing with it until people left and brought it to other places. The Trump administration's risk of regulatory capture — rules favoring the biggest, most powerful incumbents who curry favor with the White House at the expense of startups and newer firms that may have better ideas — directly undercuts the innovation advantage the US military race depends on. "Openness and competition have been such a key driver of American innovation and market growth" [10]. See [Tech Stack Diplomacy]({{ site.baseurl }}/themes/tech-stack-diplomacy.html) and [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html).
+
+## The OpenAI Bubble and AI Compute Sustainability
+
+Ed Zitron (*Where's Your Ed At*) argues that the entire AI compute buildout — and by extension the [AI military race]({{ site.baseurl }}/themes/ai-military-race.html) — rests on the continued solvency of a single company: OpenAI. OpenAI intends to burn over $852 billion by the end of 2030; it accounts for $748 billion of the remaining performance obligations of Microsoft, Amazon, and Oracle; it intends to spend $50 billion or more on compute in 2026, estimated at more than 50% of all global AI compute spend. The latest funding round (assuming it fully closes) is $122 billion, of which $20 billion comes from SoftBank — which took out a $40 billion bridge loan to fund its share, bringing its investment in OpenAI to over $40 billion and prompting S&P Global to revise SoftBank's outlook to negative, identifying OpenAI as "one of its investments with the weakest credit quality." Oracle has been downgraded to BBB/A-2 — the lowest level before junk grade — with S&P explicitly warning that "OpenAI remains a key credit risk" [11].
+
+The strategic implication for the AI military race is direct. If OpenAI collapses — which Zitron considers an inevitability given its loss-laden economics, doomed subscriptions (80% of $20-a-month users projected to churn in 2026), pathetic advertising revenue (the entire AI chatbot ad industry projected at $1 billion in 2026 vs. OpenAI's $2.4 billion forecast), and the absence of measurable AI ROI — it would be the "Lehman Brothers of the AI bubble," seizing up AI data center debt, pulling back compute demand, and calling into question the rationality of investing in any AI startup. Hyperscalers can no longer fund their data center capex from cashflows as of Q3 2026; Goldman Sachs' Jeffrey Papai notes it will be "very difficult" to replicate the hundreds of billions raised in the last four years. The downstream consumer effect is a "memory crisis": the Samsung/SK Hynix/Micron triopoly (90%+ of global memory) has diverted manufacturing from consumer RAM to high-bandwidth memory for AI GPUs, jacking up the price of consumer electronics — an inflation effect that persists even if the AI bubble bursts. Bank of England governor Andrew Bailey warned that the bursting of the AI bubble would have effects significant enough to change British monetary policy [11]. See [United States]({{ site.baseurl }}/actors/countries/united-states.html) and [Tech Stack Diplomacy]({{ site.baseurl }}/themes/tech-stack-diplomacy.html).
+
 # Citations
 
 [1] https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military
@@ -112,3 +126,7 @@ This connects to the broader [Revolution in Military Affairs]({{ site.baseurl }}
 [8] [Before the Next Mythos Moment: The Case for an AI Threat Fusion Center](https://warontherocks.com/before-the-next-mythos-moment-the-case-for-an-ai-threat-fusion-center/)
 
 [9] [The Algorithmic Deterrent](https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/algorithmic-deterrent)
+
+[10] [Lina Khan on AI and More](https://paulkrugman.substack.com/p/lina-khan-on-ai-and-more)
+
+[11] [The OpenAI Bubble Has Burst](https://www.wheresyoured.at/the-openai-bubble-has-burst/)

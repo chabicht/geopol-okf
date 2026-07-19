@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Economist and columnist — tracking oligarchic capture of US government, the social democracy vs socialism distinction, corruption as the through-line of Trump's second term, the oligarchy spiral via corporate tax cuts, the refining capacity constraint on energy prices, and election interference as the endgame of foreign policy failure
 tags: [author, opinion, economics, oligarchy, energy]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -44,6 +44,26 @@ Krugman identifies a structural disconnect between crude oil prices and the effe
 
 Krugman argues that Trump's inability to admit the Iran war failed eliminated the "economy is great, we won" electoral strategy. With no victory narrative for the midterms, the administration pivoted to election interference — a primetime speech about 2020 election fraud as pretext for blocking fair November elections. The foreign policy failure is not causing the authoritarian turn but has removed the last constraint of electoral pragmatism. The proposition that "there are things even Trump would not do" has been "the best way to be wrong about everything, every step of the Trump administration." See [Trump Election Interference Pretext]({{ site.baseurl }}/events/trump-election-fraud-pretext-2026.html). [5]
 
+## Deranged Billionaire Syndrome / Powermaxxing
+
+Krugman argues that the political backlash against billionaires — what Tyler Cowen dismisses as "billionaire derangement syndrome" — is belated rather than excessive, and that the real puzzle is why it did not happen sooner. The wealth of the Forbes 400 grew from $92 billion in 1982 to $6.6 trillion in 2025, dwarfing gains for the average American even adjusted for inflation. A New York Fed report documents that the share of national income going to workers is at an 80-year low. The hyper-wealthy are not merely "landmaxxing" with giant estates — they are "powermaxxing," seriously undermining American democracy as well as lowering the living standards of ordinary Americans. The combination of soaring billionaire wealth and the Roberts Supreme Court's Citizens United decision opened the floodgates: billionaires accounted for almost 20% of campaign spending in 2024 [6].
+
+The specific mechanisms extend beyond campaign finance into media capture and ideological projects. Larry Ellison's family has taken control of CBS, rapidly corrupting it into a right-wing mouthpiece, and is trying to take over CNN too. Elon Musk appears personally committed to white supremacy and right-wing extremism. Peter Thiel, who bought JD Vance his Ohio Senate seat, has called for a return to monarchy and now rants about the antichrist. As [Henry Farrell](https://www.programmablemutter.com/p/the-political-economy-of-billionaire) argues, the right framing is "deranged billionaire syndrome." The predatory billionaires want low taxes, anti-competitive mergers approved, financial regulation eliminated, and healthcare stripped from ordinary people to fund tax cuts. The wealthiest 400 Americans pay an average tax rate of 24%, compared with 30% for the population at large and 45% for high-income Americans who derive income from earnings rather than asset ownership. Low taxes on the hyper-wealthy feed a downward spiral of oligarchy that has been taking place for decades. "Democracy is on the cliff-edge. Can we pull out of the oligarchic spiral soon enough to save it?" [6].
+
+## The Collapse of Global Respect
+
+Krugman documents the spectacular gap between [Trump]({{ site.baseurl }}/actors/trump.html)'s boasts and the empirical record on global respect for America. Pew's Global Attitudes Survey shows that people in many countries now view [China]({{ site.baseurl }}/actors/countries/china.html) more positively than the US — and formal survey data is unnecessary to confirm what overseas travel makes obvious. Governments around the world, including former loyal allies, are scrambling to reduce their dependence, economic and military, on an America that can't be trusted and has proved itself far weaker than anyone imagined [7].
+
+The "America is respected" lie serves two functions. First, it matters to Trump personally — he lives for external validation, and the delusion that the world is in awe of his prowess is key to his fragile sense of self-worth. Second, the boasts about international reputation are part of the case Trump is building for disrupting and rejecting the midterm results: since he is doing an incredible job, "presidenting like nobody has ever presidented before," nobody should get in his way or place limits on his power. At this point none of what Trump says is really about persuasion — it is all about laying the groundwork for his attempt to destroy democracy [7]. See [Trump Election Interference Pretext]({{ site.baseurl }}/events/trump-election-fraud-pretext-2026.html).
+
+## Billionaire Capture of AI Policy (with Lina Khan)
+
+Krugman's interview with Lina Khan — who chaired the FTC under Biden and played an important role on the Mamdani transition team — extends the powermaxxing analysis into AI policy and antitrust. Khan frames the AI supply chain as a stack in which each layer (chips, hyperscalers, cloud infrastructure, models, apps and services) has economic properties that can easily tip toward monopoly through network effects. Allowing monopolization at one layer without rules such as common carriage or equal access can result in other layers becoming monopolized or distorted, depriving the public of the full promise and innovation of the technologies. The FTC had been investigating bottlenecks at the chip layer (Nvidia as gatekeeper) and the cloud layer (hyperscalers privileging their own AI products). The "interlocking directorates" pattern — Microsoft and OpenAI, Google and Amazon — raises questions about whether existing monopolists are gaining outsized control over competitively strategic decisions through opaque financial relationships [8].
+
+Khan's February 2025 *Times* op-ed "Stop Worshiping the American Tech Giants" framed the choice starkly: paradigm-breaking innovations historically come from competitive markets, not from markets where gatekeepers decide who enters. The catalyst was DeepSeek — a Chinese AI firm whose model rivalled American sophistication with much greater efficiency. The conflict of interest is structural: Microsoft, Amazon, and Google have their own cloud computing businesses, so they have incentives to favor AI models that are inefficient (consuming more compute) rather than efficient. The historical cautionary tale is Boeing: the late-1990s merger approval allowing Boeing to buy up its last US rival, McDonnell Douglas, led down a path where Boeing's planes started falling apart and people died [8].
+
+The Trump administration's AI policy embodies the national-champions risk. The CEOs of the major technology companies have made currying favor with the White House a top business priority, and there is a very serious risk of regulatory capture — rules favoring the biggest, most powerful incumbents at the expense of startups and newer firms that may have better ideas. The empirical evidence on the Schumpeter-Arrow debate shows that monopolies can be good at incremental improvements but the breakthrough, paradigm-shifting innovations have come from outsiders and competitive markets. The fundamental breakthrough that made modern AI possible came from Google — which did nothing with it until people left and brought it to other places. "Openness and competition have been such a key driver of American innovation and market growth" [8]. See [Tech Stack Diplomacy]({{ site.baseurl }}/themes/tech-stack-diplomacy.html) and [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html).
+
 # Recurring Themes
 
 - Oligarchic capture of US regulatory and political institutions
@@ -63,6 +83,9 @@ Krugman argues that Trump's inability to admit the Iran war failed eliminated th
 - "Oligarchy in Action: The Case of Corporate Tax Cuts" [3]
 - "Suddenly, Hormuz is Less Crucial Than It Was" [4]
 - "The Forever War Gets Scary" [5]
+- "Democracy in an Age of Powermaxxing" [6]
+- "Trump Can't Get No Respect" [7]
+- "Lina Khan on AI and More" [8]
 
 # Citations
 
@@ -75,3 +98,9 @@ Krugman argues that Trump's inability to admit the Iran war failed eliminated th
 [4] [Suddenly, Hormuz is Less Crucial Than It Was](https://paulkrugman.substack.com/p/suddenly-hormuz-is-less-crucial-than)
 
 [5] [The Forever War Gets Scary](https://paulkrugman.substack.com/p/the-forever-war-gets-scary)
+
+[6] [Democracy in an Age of Powermaxxing](https://paulkrugman.substack.com/p/democracy-in-an-age-of-powermaxxing)
+
+[7] [Trump Can't Get No Respect](https://paulkrugman.substack.com/p/trump-cant-get-no-respect)
+
+[8] [Lina Khan on AI and More](https://paulkrugman.substack.com/p/lina-khan-on-ai-and-more)

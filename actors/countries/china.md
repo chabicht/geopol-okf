@@ -5,7 +5,7 @@ parent: Countries
 description: China as a geopolitical actor — coordinating national AI strategy, encircling Taiwan, investing across Central Asia, anchoring the DragonBear axis, and turning toward Maoist ideological mobilization to manage economic slowdown while facing an emerging Asian containment coalition
 tags: [country, military, ai, technology, energy, trade, indo-pacific, central-asia, ideology, economics]
 status: ongoing
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -37,6 +37,10 @@ The parallels with Mao are structural: emphasis on ideology, centrality of the p
 ## Strategic Culture: Endless Warfare Networks
 
 China's networks constitute a core instrument of its [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) strategy against the United States. China's cyber networks probe and penetrate U.S. critical infrastructure to sustain access, collect information, and provide a disruption capability during a crisis. Its networks enable sophisticated influence operations inside the U.S. and the transfer of critical technologies that directly enhance its military capabilities. The CCP's United Front Work Department reflects centralized national direction and a long-term horizon — in contrast to America's fragmented approach. These are not isolated activities but integrated elements of a persistent strategy to erode U.S. power and influence over time [18].
+
+## Strategic Culture: Pre-Positioning in Adversary Infrastructure
+
+A specific operational expression of China's Endless Warfare strategy is the systematic pre-positioning inside American commercial infrastructure. Retired Gen. Mike Minihan and Rear Adm. Mark Montgomery ([The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html)) report that for more than two years, top US intelligence officials have warned that Chinese cyber operators are compromising hundreds of American transportation, communications, energy, and logistics systems — gaining persistent access so that Beijing can disrupt and destroy systems at the time of its choosing. The operational logic is delay rather than destruction: China does not need to destroy American combat power to gain an advantage, it simply needs to slow it. Every day equipment sits in a rail yard, every hour a port is offline, every aircraft waylaid by corrupted logistics data or disrupted communications creates the friction an adversary seeks during the opening days of a conflict. Ports rely on automated cranes and digital cargo management; railroads depend on computerized dispatching and signaling; airports operate through integrated flight planning, air traffic management, and logistics software; fuel distribution, maintenance scheduling, cargo visibility, and command and control all depend on data moving securely across interconnected networks. The intrusion into these systems means the battlespace is being shaped before any shot is fired [22]. See [United States]({{ site.baseurl }}/actors/countries/united-states.html) for the policy response agenda and [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) for the broader infrastructure-security frame.
 
 ## Political Economy: Export Model & Financial Repression
 
@@ -75,6 +79,16 @@ China is extending its influence into [Bangladesh]({{ site.baseurl }}/actors/cou
 China also confronts the NATO-IP4 architecture. [RUSI]({{ site.baseurl }}/actors/authors/rusi.html) traces how China's backing of [Putin]({{ site.baseurl }}/actors/putin.html)'s 2022 escalation catalyzed NATO-IP4 mutual attraction, validating security "indivisibility" between the Euro-Atlantic and Indo-Pacific theatres. China remains unhappy with NATO's Asian partnerships — as Odgaard notes, NATO's outreach reinforces Beijing's "concerns about encirclement and the extension of transatlantic security structures into Asia." The PRC stigmatises "block formation" that runs counter to its interest in separating Asian allies from America, from Europe, and from each other [20].
 
 However, the second Trump administration's NDS treats Euro-Atlantic/Indo-Pacific separation as desirable, and its "constructive strategic stability" détente with China conflicts with "ganging up" via NATO-IP4. This suggests US interests may be diverging from those of NATO's Asian and European partners — creating an opening for China to exploit. The "Europeanisation" of NATO may further complicate Asian engagement: [France]({{ site.baseurl }}/actors/countries/france.html) is wary of constraints on China diplomacy, and Spain is pulling toward Beijing. Even if Washington loses interest, the IP4 values access to NATO as a platform for accessing lessons from Ukraine [20].
+
+## A Narrowing Window in Southeast Asia
+
+[Victoria Herczegh]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) (GPF) argues that a brief Chinese opening in Southeast Asia has narrowed decisively in 2026. At the height of the Middle East energy crisis, Beijing offered dialogue and economic assistance to vulnerable Southeast Asian states — particularly the [Philippines]({{ site.baseurl }}/actors/countries/philippines.html), whose dependence on Gulf energy imports created acute economic pressure. For a brief period, Manila appeared willing to reopen discussions on joint energy development and broader cooperation with Beijing, provided it remained consistent with international law and progress toward a South China Sea Code of Conduct [21].
+
+That opportunity narrowed as [Japan]({{ site.baseurl }}/actors/countries/japan.html) simultaneously offered assistance in expanding regional energy resilience, as [ASEAN]({{ site.baseurl }}/actors/organizations/asean.html) members accelerated their own economic cooperation, and — most importantly — as the rapid acceleration of security cooperation among regional actors fundamentally changed the strategic environment. Instead of moving closer to China in response to perceived US retrenchment, prominent ASEAN states diversified their security relationships with Japan, [Australia]({{ site.baseurl }}/actors/countries/australia.html), and one another. China's initiatives through the Comprehensive Strategic Partnership, its "3+3" dialogue mechanism with [Vietnam]({{ site.baseurl }}/actors/countries/vietnam.html), and its brief engagement with the Philippines have remained comparatively limited in practical strategic effect — overtaken by the more dynamic expansion of the emerging regional security network [21].
+
+The economic-security divergence is the crucial structural finding. Economically, Beijing remains indispensable for ASEAN: trade, investment, supply chains, and infrastructure links give China considerable regional influence that no external actor can easily replace. Security dynamics, however, increasingly follow a different trajectory. As Japan and Australia assume more proactive leadership roles and key ASEAN states deepen cooperation among themselves, Beijing has less room to maneuver. The economic and security spheres are diverging, and the divergence is being driven by ASEAN states' own choices rather than by external pressure [21].
+
+China's growing wariness is visible in its military posture. Beijing has focused on reinforcing relationships within its traditional strategic network — enhancing military coordination with [Russia]({{ site.baseurl }}/actors/countries/russia.html) and engaging more with North Korea. It is increasingly criticizing US regional allies, especially Japan. China's rare test-firing of a ballistic missile from a nuclear submarine into the Pacific Ocean in July 2026 is clearly a statement meant to warn neighboring countries. Beijing increasingly faces an interconnected coalition of regional partners intent on preserving stability through cooperation — and if it chooses to intensify maritime power projection, that network is likely to become even more cohesive [21].
 
 ## Relationships: DragonBear Posture
 
@@ -137,3 +151,7 @@ Tooze identifies the "gear-shift in Chinese economic policy" as one of four disr
 [19] [The DragonBear in July: Coordination Without Alliance](https://substack.com/@velinatchakarova/p-206606963)
 
 [20] [What's Left of NATO's Asia Engagement?](https://www.rusi.org/explore-our-research/publications/commentary/whats-left-natos-asia-engagement)
+
+[21] [In the Asia-Pacific, a New Security Arrangement Takes Shape](https://geopoliticalfutures.com/in-the-asia-pacific-a-new-security-arrangement-takes-shape/)
+
+[22] [America's Military Plans Depend on Infrastructure It Doesn't Secure](https://www.thecipherbrief.com/americas-military-plans-depend-on-infrastructure-it-doesnt-secure)
