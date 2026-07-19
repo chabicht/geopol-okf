@@ -5,7 +5,7 @@ parent: Countries
 description: Israel as a geopolitical actor — dissatisfied with Iran war outcome, recognizing Somaliland for Red Sea access, facing Turkey as its greatest regional challenge, and resisting the US shift to multilateral security
 tags: [country, military, middle-east, naval]
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -52,6 +52,12 @@ Israel's post-war position is defined by a strategic landscape that has shifted 
 
 The [global system rupture]({{ site.baseurl }}/themes/global-system-rupture.html) has paradoxically weakened Israel's position even as it neutralized the Iranian threat: the US shift to multilateralism means Israel can no longer rely on being the sole indispensable regional partner, and must compete with Turkey for influence in Washington's emerging security architecture.
 
+## Refusing to Bind Lebanon to the Iran Track
+
+Ahmed Saber Abbas ([War on the Rocks]({{ site.baseurl }}/actors/authors/war-on-the-rocks.html)) documents Israel's insistence that a ceasefire with [Iran]({{ site.baseurl }}/actors/countries/iran.html) should not bind its conduct in [Lebanon]({{ site.baseurl }}/actors/countries/lebanon.html) or treat the Lebanese front as part of a single settlement. Israel rejected the notion that the [interim MoU]({{ site.baseurl }}/events/iran-ceasefire-mou.html) should unify the fronts within a single agreement and include Lebanon in both the ceasefire and any future settlement; Israel declared it would retain forces in southern Lebanon and maintain freedom of action against Hizballah. When the Trump administration opened separate negotiations on Lebanon, the result preserved the distinction Israel had insisted on: the Iranian track could move forward while Lebanon was dealt with on separate terms. The U.S.-mediated Israel-Lebanon framework tied Israel's full withdrawal to Hizballah's disarmament, separating the Lebanese track from the Iranian one [8].
+
+The deep disagreements between the Trump and Netanyahu administrations have become public. Israel fears any sanctions relief will rebuild Hizballah and allow Tehran to rebound; the framework Israel has pressed for treats Lebanese sovereignty as conditional on a security process imposed inside Lebanon rather than as a sovereign bargaining position to be restored. See [Lebanon]({{ site.baseurl }}/actors/countries/lebanon.html) and [Camp David Accords]({{ site.baseurl }}/events/camp-david-accords.html) [8].
+
 # Citations
 
 [1] Robert Pape, "Situation Report Special Edition" — https://escalationtrap.substack.com/p/situation-report-special-edition
@@ -67,3 +73,5 @@ The [global system rupture]({{ site.baseurl }}/themes/global-system-rupture.html
 [6] [America Between an Ally and an Adversary](https://geopoliticalfutures.com/america-between-an-ally-and-an-adversary/)
 
 [7] [Live with Prof Robert Pape and Joe Kent](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-and-joe-244)
+
+[8] [The Peace That Redistributes War: What Camp David Reveals About Lebanon and Iran](https://warontherocks.com/the-peace-that-redistributes-war-what-camp-david-reveals-about-lebanon-and-iran/)

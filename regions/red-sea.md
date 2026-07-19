@@ -5,7 +5,7 @@ parent: Regions
 description: Strategic maritime basin linking the Mediterranean and Indian Ocean through the Suez Canal and Bab el-Mandeb, shaped by shipping, energy, and interstate rivalries.
 tags: [middle-east, africa, naval, trade, energy, military]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -51,6 +51,14 @@ The basin's strategic landscape has historically been dominated by the Houthi th
 - [Sudan]({{ site.baseurl }}/actors/countries/sudan.html)'s civil war between the Sudanese Armed Forces and the Rapid Support Forces is a major source of instability, particularly because Sudan possesses a strategically significant coastline along the Red Sea [1].
 - The conflict has become an arena for regional competition as outside actors back rival factions in pursuit of influence over Sudan's political future and access to maritime infrastructure [1].
 
+## Iran Asks the Houthis to Close Bab el-Mandeb (July 2026)
+
+[Heather Cox Richardson]({{ site.baseurl }}/actors/authors/heather-cox-richardson.html) reports that as [Trump]({{ site.baseurl }}/actors/trump.html) announced plans to attack [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s bridges and power plants in mid-July 2026, Iranian leaders asked the Houthis they back in Yemen to close the Bab el-Mandeb strait that commands the opening between the Red Sea and the Indian Ocean. The Strait of Hormuz and the Bab el-Mandeb are the two main routes for oil exports from the Middle East; closure of the second strait would exacerbate energy shortages even as the U.S. [SPR]({{ site.baseurl }}/events/spr-depletion-crisis.html) dropped to its lowest level since 1983. The move operationalizes Iran's capacity to widen the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) geographically by activating its Red Sea proxy — a deliberate escalation of the cost imposed on the global economy without requiring Iran itself to close Hormuz [2].
+
+## The Second Front: Houthis Strike Abha (July 16)
+
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) documents that within 48 hours of July 16, 2026, the Houthis launched a coordinated barrage of ballistic missiles and drones targeting [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html)'s Abha International Airport in direct retaliation for airstrikes on Sanaa. The assault heavily risks *horizontal escalation* that would widen the Iran war by opening a second maritime front at the Bab el-Mandeb gateway. If realized, the second front would trap critical Saudi exports and inflict far more damage on world energy markets at a time they are already highly vulnerable, with oil inventories running down. Until now the Iran war had centered on the Strait of Hormuz; opening a second front at Bab el-Mandeb transforms the crisis from a regional confrontation into a broader contest over the security of global energy flows, increasing pressure on Washington, Riyadh, and their allies to respond militarily rather than diplomatically. Iran gains additional leverage without directly committing its own forces [3].
+
 # Key Dynamics
 
 - **Chokepoint geography** — The Bab el-Mandeb Strait and the Suez Canal together make the Red Sea a global trade artery. Disruptions cascade through energy markets, shipping costs, and supply chains worldwide.
@@ -62,3 +70,7 @@ The basin's strategic landscape has historically been dominated by the Houthi th
 # Citations
 
 [1] [The Red Sea: A Strategic Basin Far Beyond the Houthi Threat](https://geopoliticalfutures.com/the-red-sea-a-strategic-basin-far-beyond-the-houthi-threat/)
+
+[2] [July 16, 2026](https://heathercoxrichardson.substack.com/p/july-16-2026)
+
+[3] [Breaking Analysis #3: Tehran's Second Front Heating Up Fast —Are Markets Watching?](https://escalationtrap.substack.com/p/breaking-analysis-3-tehrans-second)

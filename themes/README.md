@@ -15,6 +15,7 @@ permalink: /themes/
 * [Layered Security](layered-security.html) - Middle powers supplementing Cold War-era alliances with mission-limited, region-specific security arrangements
 * [Escalation Theory Critique](escalation-theory-critique.html) - Aurelien's critique of game theory and rational-actor models in contemporary conflicts
 * [Endless Warfare](endless-warfare.html) - Adversary strategy of persistent, below-threshold conflict by China, Russia, and Iran — gray zone, cognitive warfare, weaponized negotiations, proxy and illicit networks
+* [Migration Policy](migration-policy.html) - Protection-vs-control tension in European migration governance; route-based externalization and the structural leverage transit states hold over destination states
 
 ## Resource & Technology
 

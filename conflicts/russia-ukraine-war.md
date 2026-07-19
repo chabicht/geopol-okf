@@ -10,7 +10,7 @@ tags:
   - military
   - europe
 status: ongoing
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -113,6 +113,16 @@ Russia is conducting a systematic [resettlement campaign]({{ site.baseurl }}/eve
 
 Rachel Ellehuus ([RUSI]({{ site.baseurl }}/actors/authors/rusi.html) Director-General) argues the [Ankara summit]({{ site.baseurl }}/events/nato-ankara-summit-2026.html) confirmed Ukraine's centrality to credible European defence. The declaration's statement that "Ukraine contributes to transatlantic security" formally recognises Ukraine as a security contributor, not just a partner. Promising cooperation initiatives include Project Freya (anti-ballistic missile system with Ukrainian rockets, German Hensoldt radars, Norwegian C2), drone coproduction contracts with European and Gulf nations, and integration of Ukraine's FP5 Flamingo missile with European industry. Through creative coproduction and co-development arrangements, Ukrainian industry can help Europe produce and innovate at scale — and at lower cost [27].
 
+## Wartime Governance: The Fedorov Dismissal
+
+[War on the Rocks]({{ site.baseurl }}/actors/authors/war-on-the-rocks.html)' Ukraine Compass documents the July 16, 2026 dismissal of Ukrainian Defense Minister Mykhailo Fedorov — the fifth Defense Minister since the full-scale invasion — as a governance crisis that intersects the war's technology doctrine, mobilization trust deficit, and the post-Ankara aid pipeline. Fedorov was credited with making [drone warfare]({{ site.baseurl }}/themes/drone-warfare.html) Ukraine's most lethal capability through rapid innovation. In his farewell address he cited a conflict with Commander-in-Chief Syrskyi, who he said blocked reforms and issued an ultimatum: lay low and stop the massive reforms, or leave. The dismissal came right after the [NATO Ankara summit]({{ site.baseurl }}/events/nato-ankara-summit-2026.html) pledged €70 billion in 2026 Ukraine aid, prompting speculation about a "corporate war" over controlling those funds [28].
+
+The analytical divide inside Ukrainian commentary tracks three positions. The "decision skeptics" (Trehumb, Ukrainska Pravda) warn that replacing a reform-minded, publicly trusted minister with an untrusted appointee risks paralyzing competitive procurement, DOT-Chain Defence, Drone Deal partnerships, FREYJA missile defense, and 2027 funding plans — and that the mobilization crisis is fundamentally a trust problem this dismissal will deepen. The "decision defenders" (Prokopenko, Azov) endorse incoming minister Klymenko, citing his attentiveness to frontline issues, work on the corps-system transition, and mobilization experience. The "systemic blame" position (Bereza, Balyuk, Portnikov) frames the ouster as a symptom of an arbitrary system in which appointment and dismissal run on loyalty rather than parliamentary process — with Bereza predicting the familiar pattern of criminal cases against associates, and Balyuk arguing Fedorov's removal stemmed from his refusal to participate in corruption schemes he had shut down by auditing defense contracts and shifting procurement to open tenders [28]. See [Fedorov Dismissal (July 2026)]({{ site.baseurl }}/events/fedorov-dismissal-2026.html), [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html), and [Zelensky]({{ site.baseurl }}/actors/zelensky.html).
+
+## Putin's Fuel Dilemma: Deep-Strike Fiscal Squeeze
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) (Jim McLean) frames Ukraine's sustained strikes on Russian energy infrastructure as a strategy that translates battlefield operations into sustained economic and political costs — turning the war from a distant event most Russians could watch from afar into a daily economic burden. After weeks of mounting evidence, Putin publicly acknowledged on 28 June 2026 that Ukrainian attacks on energy infrastructure were creating "problems" and a "certain shortage" of fuel, while insisting the situation was "not critical" and had no impact on military operations, even as shortages spread. The framework identifies the structural trade-off: every step taken to shield consumers from shortages comes at the expense of export revenues and budget stability. Russia exported 0.72 mb/d of gasoil in May 2026 — roughly $2.9 billion in export revenues, or 14% of total oil export earnings that month; a diesel export ban would forgo those revenues to increase domestic supply. The fuel dampener subsidy to refiners rose from approximately $220 million in Q1 2026 to over $2.5 billion in May alone. The Kremlin is negotiating to import approximately 50,000 tonnes of gasoline from Kazakhstan. The choice facing Putin narrows: re-enter negotiations with fewer ultimatums (and implicitly accept that Russia cannot conquer Ukraine's east and south), or continue absorbing costs that increasingly reach ordinary Russians [29]. See [Russia]({{ site.baseurl }}/actors/countries/russia.html), [Putin]({{ site.baseurl }}/actors/putin.html), and [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html).
+
 # Citations
 
 [1] https://substack.com/@velinatchakarova/p-204418261
@@ -160,3 +170,7 @@ Rachel Ellehuus ([RUSI]({{ site.baseurl }}/actors/authors/rusi.html) Director-Ge
 [26] [Cheap Attack, Expensive Defence: NATO 5% Pledge Following Iran and Ukraine](https://www.rusi.org/explore-our-research/publications/commentary/cheap-attack-expensive-defence-nato-5-pledge-following-iran-and-ukraine)
 
 [27] [The critical enablers of a more European NATO](https://www.euractiv.com/opinion/the-critical-enablers-of-a-more-european-nato/)
+
+[28] [The Fedorov Dismissal: On Trust, Technology, and Turnover](https://warontherocks.com/the-fedorov-dismissal-on-trust-technology-and-turnover/)
+
+[29] [Putin's Fuel Dilemma](https://www.rusi.org/explore-our-research/publications/commentary/putins-fuel-dilemma)

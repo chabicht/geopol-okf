@@ -9,7 +9,7 @@ tags:
   - cyber
   - ai
 status: ongoing
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -81,6 +81,12 @@ The history of cooperation includes a 2001 treaty, a 2021 cyber security agreeme
 
 However, several factors limit the depth of cooperation: hacktivist coordination does not equate to state-to-state collaboration; the Russian actor Turla previously commandeered Iranian cyber infrastructure for false-flag operations, deepening distrust; each state has counterintelligence concerns about the other operating on its infrastructure; and both are "uneasy strategic partners" characterized by "mutual suspicion, ideological differences, and competition." The evidence does not substantiate closely coordinated operations or joint capability development. Drone technology and satellite imagery sharing have demonstrated far greater strategic impact. Overstating cyber cooperation risks misleading policymakers and diverting resources from higher-priority threats [7]. See [Russia]({{ site.baseurl }}/actors/countries/russia.html) and [Iran]({{ site.baseurl }}/actors/countries/iran.html).
 
+## Healthcare as Cyber Target: The EuRepoC Pattern
+
+Bayerlein, Bendiek, Hemmelskamp, and von der Forst ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) analyse cyberattacks on the healthcare sector as a systemic threat to public health and national security, drawing on the European Repository of Cyber Incidents (EuRepoC) database of 351 significant cyberattacks on health facilities between 2022 and 2025. The attacks fall into six clusters by intensity, pattern, attribution, and operational consequence. The most frequent categories (C2/C5, 174 cases) target data theft; the most consequential (C0/C1/C4, 137 cases) produce disruptive outages lasting days to weeks — longer in healthcare than in other sectors. The operational impacts include emergency departments taken offline, ambulances redirected, surgeries postponed, and in the worst cases, hospitals deregistered from emergency care. The Stryker case illustrates the direct linkage between kinetic conflict and cyber escalation: the March 2026 global network outage at the US medical device manufacturer, which delayed surgeries worldwide and idled 4,000+ workers in Cork alone, was claimed by the Iranian Handala Hack group as a "wiper" attack in retaliation for a February 2026 Israeli missile strike that killed 175 at an Iranian school. The case demonstrates how individual cyber incidents rapidly acquire international scope and connect to offline conflicts [8].
+
+The structural drivers are familiar from the broader cognitive-warfare pattern: digitalization expanding attack surfaces, supply-chain cascades (Stryker, Octapharma, the Hipocrate information system affecting 100+ Romanian hospitals), and the gap between national critical-infrastructure protection and the international dimension of the threat. The SWP framework proposes extending the WHO's Surveillance System for Attacks on Health Care (SSA) — currently limited to kinetic attacks in humanitarian emergencies — to cover cyberattacks, modelled on the IAEA's confidential incident-reporting system. The conceptual basis exists: under international humanitarian law, a cyberattack that disables a hospital does not differ fundamentally in effect from a physical attack. See [Germany]({{ site.baseurl }}/actors/countries/germany.html) and [EU]({{ site.baseurl }}/actors/organizations/eu.html) [8].
+
 # Citations
 
 [1] https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris
@@ -96,3 +102,5 @@ However, several factors limit the depth of cooperation: hacktivist coordination
 [6] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)
 
 [7] [Understanding Russia-Iran Collaboration in Cyberspace](https://www.csis.org/analysis/understanding-russia-iran-collaboration-cyberspace)
+
+[8] [Cybersicherheit im Gesundheitssektor](https://www.swp-berlin.org/publikation/cybersicherheit-im-gesundheitssektor)

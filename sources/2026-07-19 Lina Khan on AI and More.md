@@ -1,0 +1,167 @@
+---
+title: "Lina Khan on AI and More"
+source: "https://paulkrugman.substack.com/p/lina-khan-on-ai-and-more?utm_source=profile&utm_medium=reader2"
+author:
+  - "[[Paul Krugman]]"
+published: 2026-07-18
+created: 2026-07-19
+description: "Talking with one of our sharpest minds on market power"
+tags:
+  - "clippings"
+  - "antitrust"
+  - "artificial_intelligence"
+  - "lina_khan"
+  - "paul_krugman"
+  - "market_power"
+  - "big_tech"
+  - "consumer_protection"
+  - "regulation"
+  - "monopoly"
+  - "data_privacy"
+---
+Lina Khan, who chaired the Federal Trade Commission under Joe Biden, is one of the smartest and most influential thinkers about antitrust in our high-tech era, and one who has blazed new paths in policymaking. I spoke with her at a [Graduate Center event](https://paulkrugman.substack.com/p/talking-with-lina-khan?utm_source=publication-search) back in March, and caught up with her again earlier this week for another enlightening conversation.
+
+*For all my interviews and more, [subscribe on YouTube](https://www.youtube.com/@PKrugman).*
+
+**...**
+
+**TRANSCRIPT:  
+Paul Krugman in Conversation with Lina Khan**
+
+**(recorded 7/14/26)**
+
+**Paul Krugman**: This week, I managed to get to talk to [Lina Khan](https://www.law.columbia.edu/faculty/lina-khan), who was the incredibly influential and smart head of the FTC in the previous administration—with the current administration doing everything it can to undo her work. She played an important role in the Mamdani transition team and has had a lot of smart thoughts about technology and policy right now. And I thought we could talk for a bit about this, well, it’s always a bizarre moment these days, but this is the bizarre moment we’re in. And so, hi.
+
+**Lina Khan**: Hi, great to be here.
+
+**Krugman**: I want to get into technology and AI, but I wanted to just start with something that just happened. One of your special causes, which is “Click to Cancel,” which you tried to get as a national policy, just went through in New York City. Can you talk a little bit about what was achieved here and why?
+
+**Khan**: I’d be happy to. So, last week, the Mamdani administration announced that they are moving forward with two consumer protection initiatives. One was the finalization of a “Click to Cancel” rule, which basically says that businesses have to make it as easy to cancel a subscription as it is to sign up for one.
+
+This rule is responding to the fact that we’ve seen a pretty significant pivot to service-based revenue, and more and more companies are relying on subscriptions as a regular business revenue line. And that has created an opportunity for firms to create a lot of friction when people are trying to unsubscribe. A lot of people can relate to situations where it’s very easy to sign up, or sometimes you’re enrolled without even your full knowledge or consent. But then once you try to cancel, companies can make you jump through all sorts of hoops. Maybe you signed up with one click online, but to cancel you have to phone somebody, except the hours are really restricted or there’s nobody there to pick up the phone. In some instances, you may actually have to go in person.
+
+When we were at the FTC, we got thousands upon thousands of complaints, and people shared how, even during the pandemic when they were looking to cancel their gym membership, some gyms required that they go in person even after they had left the state. So this has been a growing problem, and people lose real money from it. I mean, there are estimates that, in New York City alone, people could be collectively losing over $160 million a year. So this rule, which is going to go into effect in October, is an incredibly important step forward.
+
+The administration also announced that they’re going to be proposing a rule to tackle junk fees. These are the fees that oftentimes show up at the very end of a transaction, even though they were not reflected in the original advertised price. Sometimes they’re called convenience fees, service fees, or amenity fees. And these are non-discretionary; people have no choice but to see them included. Companies will, again, often not advertise them on the front end, which is both deceptive for consumers but also gives them an unfair competitive advantage, because honest businesses that are marketing the all-in price then lose business to those firms that instead do pricing where they market a lower price and then add all the additional fees at the end.
+
+So, I’m really thrilled that the Mamdani administration is moving forward on these two initiatives, especially because we have seen some very serious backsliding at the federal level, where consumer protection initiatives have either been abandoned entirely or powerful companies that have connections to the White House can basically pay their way out of legal accountability. And so it’s incredibly important to see cities and states fill in that gap.
+
+**Krugman**: I couldn’t actually quite figure this out, but there’s this other initiative from Mamdani: public interest technology. Are you involved with that?
+
+**Khan**: It is something we considered during the transition and wanted to set up the administration with the option. But, yeah, this is basically... they will be creating a team that is going to be laser-focused on improving service delivery—technological service delivery, digital service delivery—to New Yorkers. And so there are all sorts of online portals that people have to interact with that are not really optimized; really important city websites that are still optimized for desktop, and when people try to use them on their phones, they break down. And so there’s going to be a lean team of technologists designed to go in and make sure that across city services, people are having a good experience and that these things are easy to use and functional for people.
+
+I would say the effort has some analogs to what was done at the federal level with the U.S. Digital Service, which was a team in the White House of technologists back in the Obama era. When I was at the Federal Trade Commission, we similarly brought in a team of technologists, and we’ve seen that, especially as more and more commerce goes online, and more and more government services go online, it’s incredibly important to have technologists on board designed to make sure that these things are easy to use and well-functioning.
+
+**Krugman**: I’ve seen a couple of areas where essentially governmental functions are initially done by trying to buy off-the-shelf technologies or bring in Microsoft or whatever. And I know of at least a couple of examples where it was a huge improvement just getting their own people because they kind of knew what people actually needed. So, I don’t know if you’re thinking along those lines or where it goes.
+
+**Khan**: I think you’re right that it does get to this deeper issue of what does it mean for the government to have capabilities and to actually build those capabilities in-house. I think we’ve seen various eras where the government will largely rely on outsourcing, relying on various consulting firms. And there’s a first-order question as to whether the government is really getting a good return on investment there. I think we’ve all seen the news stories about New York City having paid millions of dollars to McKinsey to produce a report saying, effectively, “Put your garbage in garbage cans.”
+
+But beyond that, I think over-reliance on outside consulting firms can also deprive the state of building in-house state capacity, which can be incredibly important for the long term. And so, again, I think the administration, through bringing some of these functions in-house, is also going to be investing in those long-term capabilities within government.
+
+**Krugman**: Yeah. I’ll give you, just quickly, my own example. There are bigger ones, but everybody doing sort of macroeconomics now is utterly reliant on this thing called FRED, the Federal Reserve Economic Data, from the St. Louis Fed, of all places. And the thing is, they did not outsource. They just asked some of their own people, who actually knew what working economists needed, to produce a website that is really optimized for people like me, and that’s just incredibly helpful. I assume that there are many, many examples where that could be done.
+
+**Khan**: Yeah. I mean, the other risk that you create if you are entirely dependent on some external actor is that a single business decision can render some of those products useless or severely degrade the capability overnight, or it turns out that there’s a new subscription and so there are all these additional costs. And so, either diversifying those inputs or creating more in-house capability is important insurance around some of that private power.
+
+**Krugman**: Okay. And New York City would certainly be among the world’s 20 largest economies so this is not a small issue.
+
+But these days, everyone is talking about AI all the time, in terms of the economics and a lot of political stuff. You were doing a lot of work on AI at the FTC, and you have written quite a lot since. I wanted to pick your brain a bit, but why don’t you tell me where we were going before the change in administrations on AI policy, and we can move forward from there.
+
+**Khan**: At the Federal Trade Commission, we were really focused on both the competition implications of artificial intelligence technologies, as well as some of the protection implications. On the competition front, we were really focused on, first of all, understanding: what is the stack? What is each layer of the AI supply chain of sorts? And how do we make sure we understand what each of the economic properties are across the board?
+
+And so you have the chips, you have these hyperscalers, you have cloud infrastructure, you have these models, and then you have various apps and services built on top of those models. And what we’ve seen in other markets, including Web 2.0 and in digital markets, is that it can be very easy for one of these layers to become monopolized because of certain network effects, and because of economic properties that lend those markets to tip quickly. If you allow monopolization without additional rules—such as common carriage or requiring equal access on equal terms—it can really result in other layers and other markets similarly becoming monopolized or otherwise becoming distorted, rather than principles of open and free and fair competition being really what’s allowing more of this economy to thrive and develop.
+
+And so we were really looking at the AI stuff through that lens, trying to understand: are we already seeing certain layers where there are bottlenecks or gatekeepers emerging, and could that undermine fair and free competition in other layers in ways that could deprive the public of the full promise and innovation of some of these technologies? And so we had various investigations underway based on what we were hearing from market participants. But at the end of the day, we wanted to, again, make sure that inasmuch as this is a technological inflection point, there could be a lot of opportunity. How do we make sure that the best ideas have the opportunity to win, rather than existing gatekeepers using their power to basically pick and choose winners and losers in a way that results in more self-interested outcomes for them at the expense of the public and for the market as a whole?
+
+At that point, we were hearing various concerns about Nvidia and various ways that they had become a core gatekeeper. We’ve heard concerns about the hyperscalers and ways in which firms that run cloud computing could be getting privileged access across the AI supply chain. And so those were some of the types of concerns that we were hearing at that time.
+
+Beyond that, we were looking at potential consumer protection abuses of these technologies, ranging from abuse of people’s personal data. For example, with more and more AI firms looking to train their models, they’ve become even more hungry for data, including people’s personal data. And so we were starting to see things like Google \[Workspace\] or other types of service providers sometimes changing the terms of service, saying that they could now use the content of, say, people’s inboxes or their Google Docs to now start training their models without attendant protections for people’s data. And people had not been setting up their inbox or writing emails in a way where they were anticipating that suddenly a company like Google could be using all of that for training data. And so we made it very clear that these types of after-the-fact changes in terms of service could, in some instances, be illegal.
+
+We were also focused on ferreting out how some of these AI tools could be turbocharging fraud and scams. And so we were already seeing at that time: an uptick in complaints around things like voice cloning fraud, the way that some of these AI tools can be used to mimic somebody’s voice. You call somebody’s grandparent, pretend their grandkid is in distress and needs thousands of dollars wired over immediately. We were seeing this as a growing vector of fraud that people were starting to lose a lot of money to. And so we wanted to make sure, at the very least, that these companies knew that the existing laws on the books, both from an antitrust and competition perspective as well as from a data privacy and consumer protection perspective, still applied.
+
+Sometimes in Washington, there can be a pattern where firms try to use new technological moments to argue that existing laws are invalid or out of date and don’t apply. And we wanted to make sure there was no misunderstanding about that—that the existing legal tools in place absolutely applied.
+
+The other thing we heard on the competition side was this issue of “interlocking directorates.” We were seeing a lot of AI partnerships and a lot of investments, famously Microsoft and OpenAI, and a whole bunch of other ones between Google and Amazon. And there was a lot of murkiness around what were the actual terms of these partnerships and investments, and could some of these investments, in turn, give outsized control to some of the existing monopolists over competitively strategic decisions? And so that was another area where we were looking under the hood to try to understand what’s really going on here in terms of these financial relationships.
+
+**Krugman**: Going back into history, the trusts that originated “antitrust” as a term... that was kind of overlapping, interlocking control. It was basically when you had the same people overseeing many companies. I’m perhaps doing violence to the history here, but am I right?
+
+**Khan**: Yeah, that’s right. The trust referred to basically a form of corporate control where this trust vehicle would basically roll up various entities and have financial control over various enterprises.
+
+**Krugman**: Yeah. And the Standard Oil trust was the most famous, but by no means the only one. And did you have specifics about the kinds of laws that they wanted to put by the wayside? I mean, I’m sure, but just give it a little concreteness for us.
+
+**Khan**: Yeah. I mean, I think one of the legal issues that is still percolating is this question around copyright. A lot of these models have been trained on existing information that is online, but much of that information has copyright associated with it. And so we would also hear from a lot of authors, artists, graphic designers, and people who produce content for a living who said they woke up one day to find out that this model had been trained on their life’s work and was now suddenly spitting out content in some instances that was competing with them. And yet, it was trained on them. And then because some of these firms controlled how search results are listed, they were now losing business to the AI version of their work.
+
+And so there are some really serious, meaty legal issues embedded there around unfair competition and copyright. This is an instance where, in existing litigation, some of the AI companies are arguing for “fair use”—that they were basically able to scan and train on all of this information because it was effectively in the public commons. And so some of these issues are still being litigated.
+
+But it’s really important to think about what the long-term incentives will be for newsrooms, for example, to still invest in news production and investigations if they’re not able to actually recoup their investments because it’s then just being swallowed up by some AI model. And so there are some serious long-term questions here around whether we are structuring our markets and structuring compensation structures in ways that are still going to incentivize the production of news or information content that we, as a society, decide is valuable.
+
+**Krugman**: Yeah. One thing I’m hearing from people in the news business is that the rise of AI in search is sort of suppressing links. Instead of getting a link to the deep investigative report by *The New York Times* or *Bloomberg* or whatever, you get an AI summary of what was in it, and people never go to the links. That’s the kind of thing, I guess, we’re worried about in many domains.
+
+**Khan**: That’s exactly right. And this is something that we had been seeing with Google even before 2022 or 2023, where they were giving privileged search results to some of their own vertical products in reviews, maps, or other types of search and travel verticals. But this problem is now being turbocharged, precisely for the reason that you said, and some of the statistics that are coming from publishers around just what a dramatic drop-off there has been in terms of search traffic to some of these publishers’ websites is just staggering.
+
+And so we see: before, Google used to be a turnstile to the rest of the web, where Google was the starting point so you could get to other destinations. And now, especially with more of these AI tools summarizing what’s on other websites and keeping people just within Google’s ecosystem, it’s depriving all of these other publishers of the traffic and oxygen that they would need to continue being financially viable, even as those other publishers and producers are the ones that are creating the information and the content in the first place. And so I think these are going to be some serious challenges.
+
+**Krugman**: Yeah, this is something where people that I know fairly well are actually quite seriously scared that their financial models are being undermined at lightning speed. One thing you can say about AI is that whatever is happening, it happens really fast.
+
+Okay. The particular thing that got me wanting to do this interview was an Op-Ed that you published in *The Times*, I guess soon after leaving the FTC. That was February 2025. Although when I looked and saw that that was the date on it, I was shocked because, in my memory, it was so prescient that it had to have been written like late last year. But it was actually written at the beginning of last year. It was under the headline, “ [Stop Worshiping the American Tech Giants](https://www.nytimes.com/2025/02/04/opinion/deepseek-ai-big-tech.html?eafs_enabled=false).” Can you summarize what you were saying there? Because it does seem incredibly relevant to where we are right now.
+
+**Khan**: So, this was a piece that I wrote looking at the history of innovation in Silicon Valley and noting that, historically, the most paradigm-breaking innovations have come from markets that have allowed for real competition and allowed for new ideas to come in, get funded, and then to be able to really break into the market and compete on the merits of whether businesses or consumers like their products and services, as opposed to markets where you have gatekeepers basically deciding who gets to enter and who doesn’t get to enter.
+
+And so I was noting in the piece that at this moment of growing investment in AI, we would do well to want to double down on that commitment to competition, rather than allowing the monopolies and incumbents of Web 2.0 to be the ones that get to decide who gets to come into this market and who gets to compete or not.
+
+One of the catalysts for my writing this piece was the emergence of DeepSeek. This was an AI firm that originated in China. And it really shocked Silicon Valley and Wall Street when its model was rolled out, because it mirrored or rivalled the sophistication of American models but was able to do that with much more efficiency. And it really, I think, was a wake-up call from where I sat as to what it would mean to allow the American giants to just control these markets and innovate on the trajectories that they were determining, rather than allow for real competition.
+
+And I think with the American AI giants, there’s this additional question around conflict of interest. Again, some of these very firms—the Microsofts, the Amazons, the Googles—have their own cloud computing businesses. And inasmuch as these AI models are heavily relying on cloud computing, I think there’s a question to be asked as to whether these firms are going to have the right incentives when it comes to wanting AI models to be efficient, if they are simultaneously making a lot of money from models that are not efficient. And so I think the DeepSeek revelation was something that brought that conflict of interest to bear.
+
+**Krugman**: I sometimes hate that everything gets formulated in terms of competition with China, but at least part of the issue now is the idea of “national champions”—and we get to that in a minute or two—but that they are arguably, at least, putting us behind in competition with China. And then again, a lot of that has come to a head recently. People started to say, “Oh my God, we’re spending too much on tokens,” and a fair bit of turning to Chinese models. And that’s a huge move. And that was why, when I look back and read your piece, the date just popped out at me. I can’t believe you wrote that 18 months ago.
+
+**Khan**: Yeah. I mean, I think you’re absolutely right. And there are some real historical parallels here when it comes to certain technological companies insisting that these markets are inevitably going to be monopolistic, and therefore the government should treat them as “national champions” and support their monopolization.
+
+The piece also mentions Boeing as a cautionary tale here. There was a merger in the late 1990s that the U.S. government approved, where we allowed Boeing to buy up their last U.S. rival, McDonnell Douglas. And that merger, and what followed, basically has led us down a path where you then had Boeing’s planes falling apart, and people have died. And I think it’s unfortunate to have to admit that the lack of competition there probably played a role in Boeing not having to invest as much. There were other factors in terms of the culture internally—moving away from one that focused as much on engineering to instead one focused more on a McKinsey-type culture based on consulting—but I think we’ve seen how a lack of competition in some cases has really major consequences.
+
+**Krugman**: Yeah. This is one of the things which I love about your analytical work: the interplay between the cutting edge and history. Because everything is new, but on the other hand, we’ve been here before. And I thought that the Boeing example, as how things would go wrong, was a little bit revelatory.
+
+I know that you have a bunch of other things on your plate, but to the extent you’re following AI—and you may be following it more closely than I would imagine—where are we in that process now? Has the U.S. AI sector managed to get sloppy with monopoly already? I mean, everything now seems to happen at ten times the historical pace.
+
+**Khan**: I think there are going to be some new openings for potentially having more competition. I think, even with some of the more open models, you’re seeing that they can themselves be an input into more competition. And historically, we’ve seen that with open source—there are a lot of committed people around it because they believe the philosophy, but open source as a business model can also be enormously lucrative because it can just really catalyze innovation. And so I think making sure that we still have a vector and markets that are going to be built around that openness is going to be incredibly important.
+
+I think this issue of conflicts of interest is one that we need to take seriously and think through. Does it make sense to have the vertical integration that we do? Vertical integration can have, no doubt, various types of benefits, and there are sectors where having markets vertically integrated in that way can make a lot of sense. In markets where you are going to have one layer or multiple layers—the bottleneck layers, new layers where you have a lot of consolidation—allowing market participants in those gatekeeper-monopolized layers to also have a presence in layers that actually should be competitive. There’s nothing about economic properties that require those layers to be monopolized. But that’s when I think you can see a real problem. Because then you allow the monopolies to export their control and their consolidated power up and down the supply chain, distorting competition and distorting the trajectory of innovation.
+
+And so I think that’s the kind of prism through which we really need to look at the AI stack, along with these questions of efficiency. And what are the underlying incentives here? Do we have the right incentives when it comes to wanting to promote more efficiency with these models?
+
+**Krugman**: Right. And getting back to your example, at least as I understand it, if you have big players, either directly or with substantial ownership stakes, who are also in the business of selling compute, essentially they have no incentive to help the models use less compute—even though that would mean less environmental damage—and also have an incentive to favor profits there that are inefficient. And possibly, given that we do have a global economy, losing ground to rivals. Am I garbling this, or is that kind of how it is?
+
+**Khan**: I think that’s right. I mean, the other thing is these AI technologies and advances are coming against the backdrop of markets that had already been monopolized, right? There are major litigations against Google, which has been found to be a monopolist three times over, and against Amazon and Apple. And these are companies, especially when it comes to Google and Apple, that already have very significant control over key portals and over key distribution points.
+
+So, the way that most people interact with some of these AI models is through technologies owned by some of the existing gatekeepers—be it Microsoft, Apple, or Google. And so with those firms in particular, and especially Google and Microsoft which have invested more in AI, that’s where we also see potential conflicts of interest. We’ve already seen Google’s share of some of these markets go up because they’ve made such an aggressive push to use their existing monopolies in areas like Chrome and Google Search to make sure that it’s their AI services that get a leg up.
+
+**Krugman**: Yeah. Just a quick sociological observation—this is striking. I remember in a way that hopefully you don’t, but the dot-com era: that was all the scrappy young guys in their garages, and this is all giant corporations—the already giant corporations, and guys who made their decabillions 10 or 15 years ago. In some ways, I almost sometimes feel like the AI investments are kind of a plutocrat midlife crisis playing out.
+
+Sorry, but last point on this: One concern I have about the view of national champions is that we end up with—and I think you expressed this as well—having national policy directed to protect these incumbents, these players, even when they don’t have the right stuff. And now with talk of the Trump administration taking a stake in things, how big is that in your view?
+
+**Khan**: Specifically the concern around state control?
+
+**Krugman**: Well, not so much state control as that maybe if the Chinese have a better model, we start saying, “Oh, no. National security. It can’t be used here.” Or if there’s a smaller player that has a better model, that somehow or other there will be federal contracts, federal rules written to favor the big players who help pay for ballrooms and stuff like that.
+
+**Khan**: It’s a huge concern. I mean, it’s no secret that the CEOs of some of these technology companies have made it a top business priority to curry favor with this White House. They were all sitting there on the stage at the inauguration. They all make regular pilgrimages to the White House, to various state dinners. And so I think there’s a very serious risk of capture—a very serious risk of regulatory decisions being made in ways that are not serving the public interest at large or serving competition at large, but instead are serving the narrow private interests of a very small number. And so I think those are very serious risks.
+
+We’ve seen some debates in the White House and some policies that are veering in this way or that way. It seems like initially the White House had a very hands-off approach when it came to AI, and then they’ve started to take more interest in some of these specific models and where and when they’re being released. But I think, from a competition perspective, there is a very real risk that we’re going to see the biggest, most powerful incumbents, through their access to the White House and politically powerful individuals, be able to get rules and regulations that are personally favoring them and personally advancing them at the expense of the broader market, in the sense of startups and newer firms that in some instances may have better ideas.
+
+I mean, this is an age-old debate: what are the underlying market conditions that best pay for innovation? Is it monopoly or is it competition? The famous Schumpeter-Arrow debate. And at the end of the day, it comes down to this question of what type of innovation you are trying to promote. The empirical evidence shows that monopolies can be good at innovating, but they are primarily good at innovating in ways that deliver incremental improvements on existing technologies. Historically, the breakthrough innovations and the paradigm-shifting innovations have come from outsiders and have come from a competitive market.
+
+And so I think that’s why it’s especially important, as we look down the inflection point of some of these AI technologies, that we’re not allowing extreme centralization of those systems, when it’s in fact openness and competition that have been such a key driver of American innovation and market growth.
+
+**Krugman**: Yeah, in your op-ed, you point out that, I guess, the fundamental, sort of conceptual breakthrough that made what we call AI possible all came from Google, which just did nothing with it. It wasn’t until people left that they brought it to other places, and it started to become what we now see all around us.
+
+**Khan**: That’s right. And sometimes if you talk to employees at some of these companies, they will note just the enormous amount of bureaucracy, an enormous amount of bloat and red tape that can start to hobble the ability of these bulking institutions to really deliver fast-moving innovations. And so that’s why you see that sometimes ideas that even came from within Google actually have to go outside to get the attention and space to really be able to deliver.
+
+**Krugman**: Yeah. One of the great myths of our time is that the private sector is being efficient and innovative and only government is bureaucratic and slow. But if you’ve ever worked for or know anybody who works at a large corporation, it just ain’t so.
+
+Okay, just an open-ended question: what competition issue are we not paying enough attention to right now? Just trying to think about all of that stuff going on. It’s so much AI-focused, but what else? What’s kind of nagging at you as you track what’s happening?
+
+**Khan**: Well, I think one question is the way that AI and continuing technological advances and sophistication will intersect with other markets that are already very consolidated. And so as we see more and more integration of some of these AI tools in areas like healthcare, for example, or in areas like retail, I think there is an opportunity for these technologies to move. On the one hand, they could make these markets more open; but on the other hand, they could actually result in even deeper consolidation.
+
+We’ve already seen a whole set of lawsuits noting how in areas like housing and agriculture, there is use of algorithms to facilitate price fixing and collusion. Because where you already have a lot of concentration, these tools can basically make it easier to collude, or make it easier to collude with more precision and sophistication. And so I think the intersection of AI and technology with the rest of the economy is going to be an area to keep watching.
+
+**Krugman**: All right. Brave new world and really kind of alarming. I wish you were still in the federal government. But you’re by no means out of public policy. So thanks for talking.
+
+**Khan**: Thanks for having me.

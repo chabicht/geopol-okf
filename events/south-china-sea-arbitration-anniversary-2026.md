@@ -7,7 +7,7 @@ event_date: 2026-07-12
 actuality: actual
 tags: [indo-pacific, trade, naval, gray-zone]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -28,7 +28,11 @@ On the same weekend, a forum titled "A Decade of the Arbitral Award: Credible De
 
 ## On-the-Water Escalation
 
-In March 2026, the China Coast Guard declared "clearing operations" at Scarborough Reef, broadcasting coordinates for a timed exclusion zone and deploying at least six coast guard vessels, fifteen maritime militia vessels, and a PLAN warship to drive off Philippine fishing craft. Scarborough sits roughly 120 nautical miles from Luzon, inside the Philippine EEZ. In May, after Defence Secretary Gilberto Teodoro named China as [ASEAN]({{ site.baseurl }}/actors/countries/asean.html)'s principal challenge at the Shangri-La Dialogue, Beijing sanctioned him personally with an entry ban — a sitting defence minister of an ASEAN state barred for something said at a conference [1].
+In March 2026, the China Coast Guard declared "clearing operations" at Scarborough Reef, broadcasting coordinates for a timed exclusion zone and deploying at least six coast guard vessels, fifteen maritime militia vessels, and a PLAN warship to drive off Philippine fishing craft. Scarborough sits roughly 120 nautical miles from Luzon, inside the Philippine EEZ. In May, after Defence Secretary Gilberto Teodoro named China as [ASEAN]({{ site.baseurl }}/actors/organizations/asean.html)'s principal challenge at the Shangri-La Dialogue, Beijing sanctioned him personally with an entry ban — a sitting defence minister of an ASEAN state barred for something said at a conference [1].
+
+## The Manila-Hanoi Enhanced Strategic Partnership
+
+Shortly before the anniversary, the [Philippines]({{ site.baseurl }}/actors/countries/philippines.html) and [Vietnam]({{ site.baseurl }}/actors/countries/vietnam.html) elevated their ties to an enhanced strategic partnership, agreeing to establish maritime hotlines, expand coast guard coordination, and reaffirm their commitment to international law in the South China Sea. [Victoria Herczegh]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) (GPF) frames the timing as particularly significant: pairing the two ASEAN states with the strongest South China Sea claims and institutionalizing practical mechanisms to manage Chinese maritime pressure. Although Vietnam continues to balance cooperation with strategic autonomy (its "four noes" forbid formal military alliances), the partnership reflects a shared view that maritime stability is better preserved through closer coordination than through isolated bilateral engagement with Beijing [2].
 
 # Analysis
 
@@ -66,3 +70,5 @@ Russia is not a party to the South China Sea dispute, is not named in any of the
 # Citations
 
 [1] [The Award Everyone Defends and No One Will Co-Sign](https://substack.com/@velinatchakarova/p-206915723)
+
+[2] [In the Asia-Pacific, a New Security Arrangement Takes Shape](https://geopoliticalfutures.com/in-the-asia-pacific-a-new-security-arrangement-takes-shape/)

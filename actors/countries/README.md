@@ -25,6 +25,7 @@ permalink: /actors/countries/
 * [Kazakhstan](kazakhstan.html) - Central Asia's leading FDI destination, hosting critical minerals talks
 * [Uzbekistan](uzbekistan.html) - Central Asia's fastest-growing investment destination
 * [Saudi Arabia](saudi-arabia.html) - Mediating with Iran through Pakistan, deploying Pakistani troops and Chinese jets
+* [Kuwait](kuwait.html) - Gulf monarchy whose coastal desalination concentration makes it acutely vulnerable to Iranian missile and drone strikes on civilian water infrastructure
 * [UAE](uae.html) - Gulf financial hub whose swap-line request and solar ambitions expose petrodollar stress
 * [Oman](oman.html) - Co-negotiating permanent Hormuz toll system with Iran
 * [Pakistan](pakistan.html) - Nuclear-armed mediator of Saudi-Iran negotiations, deploying troops to Saudi Arabia
@@ -42,8 +43,11 @@ permalink: /actors/countries/
 * [Brazil](brazil.html) - Latin America's largest economy pursuing strategic depth through energy cooperation, agricultural exports, and autonomous defense capacity
 * [Colombia](colombia.html) - Fossil fuel exporter that pursued supply-side climate policy under Petro, now facing political reversal after right-wing election victory
 * [Iraq](iraq.html) - Arena of Turkish-Iranian competition, Shiite demographics, KDP/Barzani relationship, oil export crisis
+* [Lebanon](lebanon.html) - A front whose sovereignty is being made conditional on Hizballah's disarmament, detached from the Iran-track settlement and recast as an open-ended security problem
 * [Indonesia](indonesia.html) - ASEAN leader controlling critical maritime straits, participant in India's emerging Asian alliance network
+* [Philippines](philippines.html) - US treaty ally and South China Sea claimant at the center of an emerging regional security network
 * [Somalia](somalia.html) - Turkey's primary Horn of Africa partner, military training base, port deals, federal government vs Somaliland
 * [Sudan](sudan.html) - Civil war (SAF vs RSF) creating a regional proxy arena with strategically significant Red Sea coastline
 * [Tunisia](tunisia.html) - North African state under Saied's authoritarian consolidation — Europe's visibility deficit vs China's soft power advance
 * [Afghanistan](afghanistan.html) - State that collapsed because it lost the cognitive war before the battlefield; Taliban-controlled, facing ISIS-K and regional exploitation
+* [South Africa](south-africa.html) - ANC-led state whose xenophobic mobilization and GNU instability illustrate the intersection of economic distress, identity politics, and democratic erosion

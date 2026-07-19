@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: National security and intelligence-focused analytical publication featuring expert commentary from former officials — covering AI military competition, intelligence community reform, China strategic rivalry, Endless Warfare framework, and cognitive warfare
 tags: [author, news]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -50,6 +50,22 @@ The Cipher Brief argues that the United States is already in a continuous, long-
 
 The Cipher Brief published former Afghan Interior Minister Masoud Andarabi's analysis that [Afghanistan]({{ site.baseurl }}/actors/countries/afghanistan.html) collapsed because it lost the cognitive war before it lost the battlefield. The state's identity misalignment — between the modern construct of "Afghanistan" and the deeper civilizational memory of Khurasan — created a cognitive gap that regional actors (Pakistan, Iran, Russia, China) exploited through gray zone pressure. The lesson: state-building without cognitive alignment is unsustainable. States collapse when they lose control of meaning, not just territory. The appropriation of "Khorasan" by ISIS-K demonstrates that when legitimate actors fail to define identity, adversaries weaponize it [7].
 
+## Military Mobility and Infrastructure Security
+
+Retired Gen. Mike Minihan and Rear Adm. Mark Montgomery argue that American military power is meaningless if it cannot move. Every war plan depends on the ability to maneuver people, equipment, fuel, information, and combat power faster than any adversary can react — yet every deployment begins on commercial railroads, moves through civilian ports and airports, depends on privately owned communications networks, and increasingly relies on digital logistics systems the Department of Defense does not own. [China]({{ site.baseurl }}/actors/countries/china.html) does not need to destroy American combat power to gain an advantage; it simply needs to delay it. For more than two years, US intelligence officials have warned that Chinese cyber operators are compromising hundreds of American transportation, communications, energy, and logistics systems — gaining persistent access so Beijing can disrupt and destroy systems at the time of its choosing. The policy prescriptions: harmonize cybersecurity standards across transportation sectors, provide cybersecurity grant programs for under-resourced operators, and exercise the way the US expects to fight — assuming degraded communications, cyberattacks, corrupted logistics data, and contested movement inside the [United States]({{ site.baseurl }}/actors/countries/united-states.html). "Amateurs study tactics, professionals study logistics. Victors study maneuver." The full analysis is dissolved into [United States]({{ site.baseurl }}/actors/countries/united-states.html), [China]({{ site.baseurl }}/actors/countries/china.html), and [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) [8].
+
+## The F-35 Reinstatement Question for Turkey
+
+The Cipher Brief argues that Washington should not reinstate [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) in the F-35 program — and the reasons go well beyond the S-400 that got Ankara expelled in the first place. The original expulsion turned on the technical judgment that an S-400 battery within range of an F-35 is an intelligence-gathering platform aimed at the jet's most guarded secrets; nothing about that system has left the country. Ankara's signaling that it may transfer the S-400s to [Qatar]({{ site.baseurl }}/actors/countries/qatar.html) or the [UAE]({{ site.baseurl }}/actors/countries/uae.html) might satisfy the letter of section 1245 of the 2020 NDAA but does not eliminate the systemic risk. [Israel]({{ site.baseurl }}/actors/countries/israel.html), [Greece]({{ site.baseurl }}/actors/countries/greece.html), and Cyprus have all lobbied against the sale. The fourth, less-discussed danger: Turkey's telecom backbone is no longer fully Turkish — Netaş is ~48% ZTE-owned, and Huawei is deeply embedded in Turkcell, Türk Telekom, and Vodafone Turkey. Under China's 2017 National Intelligence Law, Beijing can compel any Chinese firm to hand over data on demand. Washington treated this exact problem as disqualifying in 2021, when a $23 billion F-35 package for the UAE collapsed over Huawei's 5G buildout. The full analysis is dissolved into [Turkey]({{ site.baseurl }}/actors/countries/turkey.html), [NATO Ankara Summit 2026]({{ site.baseurl }}/events/nato-ankara-summit-2026.html), and [Tech Stack Diplomacy]({{ site.baseurl }}/themes/tech-stack-diplomacy.html) [9].
+
+## Private Capital as Instrument of National Power
+
+Hamlet Yousef argues that Cold War 2.0 will be won as much in boardrooms, factories, ports, shipyards, and investment committees as on traditional battlefields. Much of the modern battlefield now sits in the private sector. [China]({{ site.baseurl }}/actors/countries/china.html) understood this years ago: the CCP treats finance, industry, technology, diplomacy, intelligence, media, and military power as parts of the same system. The Belt and Road Initiative combines state-backed financing, ports, telecommunications, mining rights, construction, energy, logistics, commodity access, and political/media influence — capital creating strategic leverage without firing a shot. The Western answer should not be a watered-down version of Chinese state capitalism but the mobilization of what authoritarian systems struggle to replicate: deep, innovative, risk-tolerant capital markets. The next phase is acquiring, recapitalizing, modernizing, and scaling strategic assets that already exist — mines, processing facilities, ports, defense suppliers, energy infrastructure, semiconductor capacity, logistics networks, and autonomous shipbuilding. The historical precedent is the Letter of Marque: government sets the conditions, private capital finds the opportunity, performs the diligence, assumes the risk, improves the asset, and earns the return. Government should set the objective, not run the deal. The full analysis is dissolved into [Cold War 2]({{ site.baseurl }}/conflicts/cold-war-2.html), [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html), and [Latin America]({{ site.baseurl }}/regions/latin-america.html) [10].
+
+## Acquisition Reform and the Steering Gap
+
+Pete Newell — retired Army colonel, former director of the Army's Rapid Equipping Force, and co-creator of Hacking for Defense — argues that the Department of War's ambitious acquisition reform has improved the middle phases of innovation while leaving three of six phases with no organizational owner. Successful innovation runs in six phases: detect, define, develop, deploy, assess, distribute. The reforms invested almost entirely in develop and deploy; nobody persistently monitors how the threat evolves at the tactical edge, nobody scopes each unit's problem with enough precision to drive useful solutions, nobody measures whether fielded systems actually work against an adapting adversary, and nobody moves what one unit learns to every other unit at operational speed. The department built a faster engine; nobody built the steering. The counter-drone fight is the clearest test case: soldiers engage FPV [drones]({{ site.baseurl }}/themes/drone-warfare.html) that cost a few hundred dollars with $400,000 Stinger missiles because cheap interceptors proven in [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) still have no fast path into US formations. The problem is a cycle-time gap, not a technology gap — "Drones are IEDs that fly." The adversary does not need to out-technology the US; he only needs to out-cycle it. The full analysis is dissolved into [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) and [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) [11].
+
 # Sources in Bundle
 
 - "The AI Race Won't Be Won by the Best Model — But by the Fastest Military" [1]
@@ -59,6 +75,10 @@ The Cipher Brief published former Afghan Interior Minister Masoud Andarabi's ana
 - "The Continued Myth of Russia's Imminent Collapse: Lessons from Prigozhin's Mutiny Three Years On" [5]
 - "Endless Warfare – Part II: Countering Endless Warfare and its Networks" [6]
 - "Afghanistan Lost the Cognitive War Before It Lost the State" [7]
+- "America's Military Plans Depend on Infrastructure It Doesn't Secure" [8]
+- "Ankara's Charm Offensive Should Not Buy Back the F-35" [9]
+- "Cold War 2.0 Will Be Won by Private Capital" [10]
+- "The Pentagon Built a Faster Engine, Nobody Built the Steering" [11]
 
 # Citations
 
@@ -75,3 +95,11 @@ The Cipher Brief published former Afghan Interior Minister Masoud Andarabi's ana
 [6] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)
 
 [7] [Afghanistan Lost the Cognitive War Before It Lost the State](https://www.thecipherbrief.com/afghanistan-lost-the-cognitive-war-before-it-lost-the-state)
+
+[8] [America's Military Plans Depend on Infrastructure It Doesn't Secure](https://www.thecipherbrief.com/americas-military-plans-depend-on-infrastructure-it-doesnt-secure)
+
+[9] [Ankara's Charm Offensive Should Not Buy Back the F-35](https://www.thecipherbrief.com/ankara-s-charm-offensive-should-not-buy-back-the-f-35)
+
+[10] [Cold War 2.0 Will Be Won by Private Capital](https://www.thecipherbrief.com/cold-war-2-0-will-be-won-by-private-capital)
+
+[11] [The Pentagon Built a Faster Engine, Nobody Built the Steering](https://www.thecipherbrief.com/the-pentagon-built-a-faster-engine-nobody-built-the-steering)

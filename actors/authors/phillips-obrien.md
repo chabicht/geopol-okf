@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Military historian and analyst — author of "War and Power" — arguing that wars are choices of individual leaders, that cheap mass beats expensive precision, and that US decline is accelerating faster than expected
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -56,6 +56,16 @@ He now argues US weakness against Iran is total — Tehran strings Washington al
 
 O'Brien offers a sharply dissenting assessment of the [NATO Ankara Summit]({{ site.baseurl }}/events/nato-ankara-summit-2026.html), calling it "the worst summit in NATO history." His critique centers on five points: no US conventional defense commitment (the summit declaration contained nothing specific about the USA, and Secretary Hegseth's six-month force posture review is a veiled threat); the nuclear umbrella is meaningless without conventional forces ("The US might not fight for the Baltic States conventionally, but it will 'blow up the world' if Putin uses a nuclear weapon on them? This is simply not happening"); the Patriot license for [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) is hollow (no details, no consultation with manufacturers, will take years); the 2027 summit was dropped from the declaration because European leaders see no reason to repeat the exercise; and Trump made three explicit threats against [Greenland]({{ site.baseurl }}/events/trump-greenland-crisis.html) over three days before, during, and after the summit. O'Brien identifies Trump's claims about caring, human affection, and "tremendous love in that room" as a reliable tell that he is lying [16].
 
+## Trump's War: Consequence-Free World
+
+O'Brien's Midweek Update #19 (2026-07-16) frames the reignition of the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) as the inevitable consequence of a "consequence-free world" the US chose to inhabit. The framework rests on three propositions [18]:
+
+First, the [Versailles Memorandum]({{ site.baseurl }}/events/iran-ceasefire-mou.html) was a sham — Iran gave up nothing, Trump lacked any foundation to declare victory, and when the truth dawned he faced the binary choice between admitting the greatest strategic defeat in US history or restarting the bombing. He chose the latter. O'Brien constructs a likelihood table: 99% that Iran has made no meaningful concession; 98.5% that [Russia]({{ site.baseurl }}/actors/countries/russia.html) and [China]({{ site.baseurl }}/actors/countries/china.html) are benefitting significantly (the US blowing through depleted munitions stockpiles means no new Patriots for Ukraine and a weaker Taiwan deterrent; rising oil prices boost Russian revenue); 90% that oil markets still believe Trump will "TACO" (Trump Always Chickens Out); 80% that ground-troop threats are hot air; 66% that Trump still needs a deal by the midterms; and 99.9% that the US is haemorrhaging allies and partners.
+
+Second, the consequence-free world has consequences. O'Brien juxtaposes Trump's July 11 tweet threatening to "completely decimate and destroy all areas of Iran" should Iran attempt to assassinate him, against Trump's own celebration of the assassination of Khamenei at the start of the war. The US pursued and legitimized a policy of leader assassination; the same policy now makes Trump a legitimate target for Iran. Undersecretary of State Colby's parallel tweet thread — insisting that a "collective middle powers strategy" is a distraction and that "access to the American DIB is a privilege, not a right" — is read by O'Brien as panic: the administration is realizing that its own Europe-withdrawal policies have produced the strategic autonomy it now pleads with Europeans not to pursue. The insult-then-plea structure destroys its own case.
+
+Third, the war is Donald Trump's War — its stability equals the stability of Trump's personality (i.e., very little). The ceasefire could break down for four days and reassert itself today; no one could be surprised. O'Brien catalogs five consecutive days of US strikes (July 11–16) with Iran's parallel responses, characterizing the campaign as an extraordinary gamble: restarting the bombing in a weaker strategic position than when operations ended in April, with the midterm elections approaching and 60–66% of Americans opposing the war. See [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), [Hormuz Ceasefire Collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html), and [Donald Trump]({{ site.baseurl }}/actors/trump.html) [18].
+
 # Sources in Bundle
 
 - "Early Lessons From The US-Iran War" [1]
@@ -75,6 +85,7 @@ O'Brien offers a sharply dissenting assessment of the [NATO Ankara Summit]({{ si
 - "Yes, We Are In A Revolution In Military Affairs" [15]
 - "The Worst NATO Summit In History" [16]
 - "Weekend Update #193: What Is Happening In The Sea Of Azov?" [17]
+- "Midweek Update #19: What Do We Know?" [18]
 
 # Citations
 
@@ -111,3 +122,5 @@ O'Brien offers a sharply dissenting assessment of the [NATO Ankara Summit]({{ si
 [16] [The Worst NATO Summit In History](https://phillipspobrien.substack.com/p/the-worst-nato-summit-in-history)
 
 [17] [Weekend Update #193: What Is Happening In The Sea Of Azov?](https://phillipspobrien.substack.com/p/weekend-update-193-what-is-happening)
+
+[18] [Midweek Update #19: What Do We Know?](https://phillipspobrien.substack.com/p/midweek-update-19-what-do-we-know)

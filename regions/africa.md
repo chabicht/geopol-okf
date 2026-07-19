@@ -5,7 +5,7 @@ parent: Regions
 description: Continent of growing strategic importance; Sahel as insurgency zone, Horn of Africa as maritime chokepoint with emerging rival blocs, and US-China competition along strategic resource corridors.
 tags: [africa, sahel, insurgency, military, drone-warfare, trade, terrorism]
 status: ongoing
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-07-19T00:00:00Z
 ---
 
 # Background
@@ -46,6 +46,14 @@ Labour and education migration from sub-Saharan Africa to [Germany]({{ site.base
 
 Werenfels (SWP) documents that [Tunisia]({{ site.baseurl }}/actors/countries/tunisia.html)'s President Kais Saied has systematically dismantled democratic institutions while Europe's engagement remains invisible to the Tunisian public. The EU's visibility dilemma — European-funded infrastructure presented as Chinese projects, migration diplomacy failures, and the Gaza war's strain — illustrates the broader challenge of European soft power in North Africa [13].
 
+## Southern Africa: Xenophobic Mobilization and Regional Migration
+
+Müller ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) documents the 2026 South African anti-migration movement as a regional stress test. See [South Africa]({{ site.baseurl }}/actors/countries/south-africa.html). The 30 June 2026 deadline set by Operation Dudula and March and March produced 120 protest actions nationwide; the campaigns have announced weekly protests through the 4 November 2026 municipal elections. The government's response — 53,000 deportations or returns, many to Zimbabwe, Mozambique, and Malawi — risks destabilizing neighboring states whose socioeconomic capacity to absorb returnee flows is far lower than South Africa's. The regional spillover logic is structural: South Africa's deportation policy directly affects regional stability, creating potential for cross-border deterioration that feeds back into migration pressure [14].
+
+## Migration Routes: Horn and Sahel
+
+Knapp and Koch ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) extend the route-based migration framework into the African context. The Horn of Africa and the [Sahel]({{ site.baseurl }}/conflicts/sahel-insurgency.html) are the test cases for whether route-based approaches can serve protection rather than only control: it is in these regions that conflict-induced displacement intersects with climate-driven mobility and labor migration, and where South-South mobility patterns dominate rather than Europe-bound flows. The IFRC's Global Route-Based Migration Programme and the IOM/UNHCR joint platform have mapped service provision along corridors, but the practical work of route-based coordination is still in its early stages. UN organizations remain primarily national in organization (country offices, country-specific mandates), and the coordination overhead of route-based work can increase rather than reduce the burden on local NGOs and migrant self-organizations [15]. See [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html).
+
 # Key Dynamics
 
 - **Multi-actor competition** — Russia, Turkey, the US, France, and China all pursue competing interests. No single external power dominates; regimes exploit the competition to extract concessions. See [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html).
@@ -80,3 +88,7 @@ Werenfels (SWP) documents that [Tunisia]({{ site.baseurl }}/actors/countries/tun
 [12] [Die Region Tigray in der Grauzone des Krieges](https://www.swp-berlin.org/publikation/die-region-tigray-in-der-grauzone-des-krieges)
 
 [13] [Europe's Visibility Dilemma in Tunisia](https://www.swp-berlin.org/publikation/mta-spot-76-europes-visibility-dilemma-in-tunisia)
+
+[14] [Anti-Migrationsproteste in Südafrika: Wahlkampf auf dem Rücken der Schwächsten](https://www.swp-berlin.org/publikation/mta-spot77-anti-migrationsproteste-in-suedafrika)
+
+[15] [Migrationsrouten im Fokus](https://www.swp-berlin.org/publikation/migrationsrouten-im-fokus)
