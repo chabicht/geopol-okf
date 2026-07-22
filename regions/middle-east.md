@@ -5,7 +5,7 @@ parent: Regions
 description: Crossroads of three continents containing the Strait of Hormuz; undergoing a US strategic reorientation from Israel-centric to multilateral security, with Turkey-Israel rivalry as the defining competitive dynamic and Iran in systemic decline.
 tags: [middle-east, energy, military, trade]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -52,6 +52,18 @@ Ahmed Saber Abbas ([War on the Rocks]({{ site.baseurl }}/actors/authors/war-on-t
 
 The same pattern is reasserting itself in the negotiations around the [Iran Ceasefire MoU]({{ site.baseurl }}/events/iran-ceasefire-mou.html). Israel rejected unifying the fronts within a single agreement and including [Lebanon]({{ site.baseurl }}/actors/countries/lebanon.html) in both the ceasefire and any future settlement. When the Trump administration opened separate negotiations on Lebanon, the result preserved the distinction Israel insisted on: the Iranian track could move forward while Lebanon was dealt with on separate terms. The U.S.-mediated Israel-Lebanon framework tied Israel's full withdrawal to Hizballah's disarmament, separating the Lebanese track from the Iranian one. The danger is that, once separated, Lebanon is no longer addressed through a comprehensive political settlement but through an open-ended arrangement of disarmament, verification, and conditional withdrawal — preserving the grievances, political vacuum, and unequal security conditions through which future resistance can grow. Peace agreements endure when they close conflict without diminishing sovereignty, as Camp David did with Egypt; they redistribute war when they defer sovereignty, as the Lebanese framework now does [14]. See [Lebanon]({{ site.baseurl }}/actors/countries/lebanon.html) and [Camp David Accords (1978)]({{ site.baseurl }}/events/camp-david-accords.html).
 
+# Analysis
+
+## Aqaba and the Basra-Aqaba Pipeline Threat
+
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) identifies a new escalation vector in the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) that widens the conflict beyond Hormuz (July 19, 2026): [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s threat to Aqaba, Jordan's only coastal city on the northern tip of the Red Sea. The US Embassy in Amman issued an emergency alert advising Americans to avoid Aqaba's airport and seaport, and air raid sirens went off in Jordan warning of incoming Iranian missiles. The threat targets the long-delayed Basra-Aqaba pipeline — a 1,600-kilometer, $18 billion project designed to carry 2.25 million barrels per day from southern [Iraq]({{ site.baseurl }}/actors/countries/iraq.html) to the Red Sea, creating a permanent bypass of Hormuz for Iraqi exports [15].
+
+Under the Escalation Trap framework, Pape argues that Iran has powerful incentives to strike any infrastructure that could permanently reduce its coercive leverage over energy flows. A functioning Basra-Aqaba pipeline would undercut Iran's "security resistance belt" — a chain of control stretching from the Mediterranean through the Red Sea to the Gulf — by giving Iraq an outlet independent of Iranian chokepoint leverage. The widening of the war from Hormuz to include energy bypass infrastructure represents a new phase: the contest is no longer just over who controls existing chokepoints but over whether alternative routes can be built at all. Projects like Aqaba are increasingly attractive military targets — not for their immediate economic value but because they challenge Iran's strategy of preserving leverage through control of regional energy flows. Striking bypass infrastructure before it becomes operational is cheaper than competing with it after it exists [15].
+
+## GCC Fissures and the Dilution of US Influence
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) documents that Iran's "sideways escalation" strategy — systematically striking infrastructure across Gulf states from July 12–21 — is producing the strategic fragmentation Tehran intends. Only the [UAE]({{ site.baseurl }}/actors/countries/uae.html) is doubling down on US support; the rest of the GCC is having serious doubts. An investor quoted by O'Brien captured the cascading assessment: "exacerbation of pre-existing political fissures in the GCC, dilution of US influence, America's security guarantee weaker than once thought, divided GCC strengthens [Iran]({{ site.baseurl }}/actors/countries/iran.html), [China]({{ site.baseurl }}/actors/countries/china.html) positioned to capitalize." The [Trump]({{ site.baseurl }}/actors/trump.html) administration is simultaneously making major nuclear concessions to [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) — potentially producing a Saudi nuclear weapon — further destabilizing the regional security architecture [16]. See [United States]({{ site.baseurl }}/actors/countries/united-states.html) and [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html).
+
 # Key Dynamics
 
 - **Energy chokepoint geography** — The Strait of Hormuz makes the region globally critical. No alternative route can absorb the volumes that transit here, so even partial disruptions cascade through world energy markets. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html).
@@ -90,3 +102,7 @@ The same pattern is reasserting itself in the negotiations around the [Iran Ceas
 [13] [Don't Expect Respect](https://substack.com/@aurelien2022/p-204269398)
 
 [14] [The Peace That Redistributes War: What Camp David Reveals About Lebanon and Iran](https://warontherocks.com/the-peace-that-redistributes-war-what-camp-david-reveals-about-lebanon-and-iran/)
+
+[15] [Breaking Analysis #6: Why Aqaba?](https://escalationtrap.substack.com/p/breaking-analysis-6-why-aqaba)
+
+[16] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)

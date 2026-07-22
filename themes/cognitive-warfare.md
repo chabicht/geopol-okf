@@ -9,7 +9,7 @@ tags:
   - cyber
   - ai
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -87,6 +87,12 @@ Bayerlein, Bendiek, Hemmelskamp, and von der Forst ([SWP]({{ site.baseurl }}/act
 
 The structural drivers are familiar from the broader cognitive-warfare pattern: digitalization expanding attack surfaces, supply-chain cascades (Stryker, Octapharma, the Hipocrate information system affecting 100+ Romanian hospitals), and the gap between national critical-infrastructure protection and the international dimension of the threat. The SWP framework proposes extending the WHO's Surveillance System for Attacks on Health Care (SSA) — currently limited to kinetic attacks in humanitarian emergencies — to cover cyberattacks, modelled on the IAEA's confidential incident-reporting system. The conceptual basis exists: under international humanitarian law, a cyberattack that disables a hospital does not differ fundamentally in effect from a physical attack. See [Germany]({{ site.baseurl }}/actors/countries/germany.html) and [EU]({{ site.baseurl }}/actors/organizations/eu.html) [8].
 
+### China's Cognitive Domain Operations in National Total War
+
+Wang & Beauchamp-Mustafaga trace the evolution of [China]({{ site.baseurl }}/actors/countries/china.html)'s cognitive warfare from the "Three Warfares" framework of the early 2000s — which developed concepts for online public opinion warfare — through Base 311's publication of how-to guides for blending into Facebook groups (2018), social media manipulation operations against Taiwan's elections (2018) and later against Vietnam, to the 2025 "all-domain megacity incapacitation warfare" concept published in the CMC-overseen *Military Art* journal. The trajectory shows cognitive effects being elevated from a supporting capability to co-equal status with kinetic operations within China's "national total war" strategy. The concept introduces "information munitions" — content hidden within videos and images on platforms such as Meta and TikTok — designed to create "information bubbles and echo chambers" that separately target military and civilian populations through algorithmic content delivery and deepfakes [9].
+
+The core innovation is the reframing of systems confrontation from information-paralysis to cognitive-engineering: warfare short of total annihilation should gear toward cognitively engineering the adversary's acceptance of defeat, with traditional military operations serving primarily to achieve cognitive effects rather than physical destruction. The target is not just command-and-control systems but civilian populations, whose perceptions, social cohesion, and will to resist are to be manipulated to induce surrender. However, Beijing publicly assesses that it lags the [United States]({{ site.baseurl }}/actors/countries/united-states.html) in strategic messaging and disinformation capabilities, and recognizes it lacks the alliance networks, financial chokepoints, and megaconstellations that the US leveraged in Ukraine. AI technologies are expected to make available new techniques and avenues for targeting civilians with cognitive effects as these concepts mature. U.S. wargames and analyses consistently underexplore the blending of kinetic and cognitive effects, rarely examining wartime cognitive attacks directly — a gap that leaves planners unprepared for the integrated campaigns Chinese military researchers are actively developing [9]. See [China]({{ site.baseurl }}/actors/countries/china.html) and [Taiwan Standoff]({{ site.baseurl }}/conflicts/taiwan-standoff.html).
+
 # Citations
 
 [1] https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris
@@ -104,3 +110,5 @@ The structural drivers are familiar from the broader cognitive-warfare pattern: 
 [7] [Understanding Russia-Iran Collaboration in Cyberspace](https://www.csis.org/analysis/understanding-russia-iran-collaboration-cyberspace)
 
 [8] [Cybersicherheit im Gesundheitssektor](https://www.swp-berlin.org/publikation/cybersicherheit-im-gesundheitssektor)
+
+[9] [Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare](https://warontherocks.com/total-war-on-taipei-china-explores-elevating-cognitive-effects-into-its-vision-of-warfare/)

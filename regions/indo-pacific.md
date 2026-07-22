@@ -5,7 +5,7 @@ parent: Regions
 description: Maritime theater encompassing China, Taiwan, Japan, the Philippines, and Australia; central front of the new Cold War.
 tags: [indo-pacific, naval, gray-zone, military]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -85,7 +85,25 @@ McKinsey's 2026 trade geometry analysis shows US-China trade fell approximately 
 - **Chokepoint control** — The Bashi Channel and Miyako Strait are critical for Chinese naval access to the Pacific. Control or denial of these passages shapes the military balance.
 - **Bandwidth test** — China is simultaneously stretching Taiwan, Japan, and the Philippines across multiple theaters, testing whether each can sustain attention and resources across concurrent pressure points.
 
+# Analysis
+
+### Cognitive Warfare and the Taiwan Standoff
+
+Wang & Beauchamp-Mustafaga add a cognitive warfare dimension to the [Taiwan standoff]({{ site.baseurl }}/conflicts/taiwan-standoff.html) that has significant implications for [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html) regional security. China's "all-domain megacity incapacitation warfare" concept, published in the CMC-overseen *Military Art* journal in March 2025, elevates cognitive effects to co-equal status with kinetic operations — integrating military firepower with information operations across blockade, precision strike, and cognitive attack lines of effort. The concept targets civilian communications as legitimate military objectives from the outset of conflict and embeds "information munitions" within social media platforms to engineer adversary acceptance of defeat [19].
+
+The implications extend beyond Taiwan. The authors argue that "no concept is single-use" — the framework for operationalizing China's "national total war" strategy through integrated kinetic and cognitive effects also shapes how Beijing plans to fight a potential future war against the [United States]({{ site.baseurl }}/actors/countries/united-states.html), with researchers in *China Military Science* describing how cognitive effects can "fracture the hegemonic system." For the Indo-Pacific, this means U.S. and coalition partners must prepare to defend aid deliveries to Taiwan under kinetic attack, bolster societal resilience against cognitive attacks targeting civilian populations, and incorporate cognitive effects into regional wargames rather than treating will-to-fight as a static input. The concept's maturation, accelerated by AI technologies enabling new cognitive attack techniques, will compound the challenges of deterrence and defense in the region [19]. See [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) and [China]({{ site.baseurl }}/actors/countries/china.html).
+
+### Japan's Russia Policy Ambivalence
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) (James Brown) identifies [Japan]({{ site.baseurl }}/actors/countries/japan.html)'s ambivalent Russia policy as a regional dynamic with Indo-Pacific implications. The LDP's internal divide — between advocates of Abe's wedge strategy (seeking rapprochement with Moscow to split Russia from [China]({{ site.baseurl }}/actors/countries/china.html)) and Kishida's alignment-with-Ukraine approach — has produced a dual-track posture under PM Takaichi's inaction. Japan continues institutional support for [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) (joining PURL, dispatching SDF personnel to Germany) while advocates of reengagement pursue diplomatic and business contacts with Moscow. The structural factors limiting rapprochement — Russia's joint patrols with China near Japan, military technology sharing with North Korea, and Moscow's overplayed diplomatic demands — reinforce the Indo-Pacific alignment against the China-Russia-NK axis. Japan-Ukraine defense cooperation is intensifying, with Ukrainian drone expertise relevant to Japan's SHIELD coastal defense system and potential Mitsubishi Heavy Industries Patriot coproduction in Ukraine [20]. See [Japan]({{ site.baseurl }}/actors/countries/japan.html) and [Russia]({{ site.baseurl }}/actors/countries/russia.html).
+## China-Russia Military Coordination and Multiple Conflict Risks
+
+Short-of-war pressure in the [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html) is intensifying across three dimensions identified by Aizawa: horizontally (from [China]({{ site.baseurl }}/actors/countries/china.html) alone to China-[Russia]({{ site.baseurl }}/actors/countries/russia.html) joint operations), vertically (from conventional to nuclear-capable platforms), and qualitatively (from standard patrol routes to coercive patterns directed at [Japan]({{ site.baseurl }}/actors/countries/japan.html)'s capital). The December 2025 joint strategic bomber flight, with its route extending over 600 miles past the Southwest Islands toward Tokyo, exemplifies the qualitative shift. The [US-Japan alliance]({{ site.baseurl }}/actors/countries/united-states.html) has responded with bilateral B-52 exercises — two B-52s with six JASDF fighters in December 2025, and four B-52s with eleven JASDF fighters in February 2026 — but Aizawa argues that the boundary between deterrence and compellence has blurred under sustained short-of-war pressure. The alliance must develop shared threat perceptions and examine the full range of response approaches, including compellence options, beyond the current deterrence framework [21].
+
+Ueki identifies multiple conflict scenarios that compound the Indo-Pacific risk environment. An extraregional conflict — such as the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — could open a window for a [Taiwan contingency]({{ site.baseurl }}/conflicts/taiwan-standoff.html) if US forces appear tied down. A Korean Peninsula conflict could trigger a Taiwan crisis, or vice versa. The 2026 US National Defense Strategy explicitly warns of the "possibility that one or more potential opponents might act together in a coordinated or opportunistic fashion across multiple theaters." The Iran war has already demonstrated this risk concretely: the 31st Marine Expeditionary Unit and amphibious warship USS Tripoli were deployed from US Forces Japan to the Middle East, and Marine Commandant General Smith testified that the gap in the Marine Corps' ability to deter adversaries in the Indo-Pacific remains unfilled. US munitions depletion from the Iran war — approximately half of key munitions used in 39 days — directly affects allied readiness for a Pacific contingency. Tomahawk deliveries to Japan have been delayed by up to four years, and interceptor production capacity (600 Patriot PAC-3 per year) is dwarfed by wartime consumption rates (1,900–3,000 used in less than two weeks of the Iran war). China dominates drone production through companies like DJI (over 70 percent of the civilian market), creating an offense-defense cost imbalance that favors attackers. The Hegseth-Koizumi Operation Supercharge agreement in May 2026 represents a Japan-US missile coproduction response to these structural gaps [22]. See [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) and [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
+
 # Citations
+
 [1] [Velinatchakarova — Indo-Pacific grey-zone analysis](https://substack.com/@velinatchakarova/p-203793388)
 
 [2] [War on the Rocks — why India will stick with America](https://warontherocks.com/why-india-will-stick-with-america/)
@@ -121,3 +139,11 @@ McKinsey's 2026 trade geometry analysis shows US-China trade fell approximately 
 [17] [In the Asia-Pacific, a New Security Arrangement Takes Shape](https://geopoliticalfutures.com/in-the-asia-pacific-a-new-security-arrangement-takes-shape/)
 
 [18] [Broken Drone, Far from Home: The Case for Overseas Autonomous System Sustainment](https://warontherocks.com/broken-drone-far-from-home-the-case-for-overseas-autonomous-system-sustainment/)
+
+[19] [Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare](https://warontherocks.com/total-war-on-taipei-china-explores-elevating-cognitive-effects-into-its-vision-of-warfare/)
+
+[20] [Japan's Ambivalent Policy Towards Russia and Ukraine](https://www.rusi.org/explore-our-research/publications/commentary/japans-ambivalent-policy-towards-russia-and-ukraine)
+
+[21] [Beyond Deterrence: Evolving China-Russia Military Coordination and the U.S.-Japan Alliance](https://www.csis.org/analysis/beyond-deterrence-evolving-china-russia-military-coordination-and-us-japan-alliance)
+
+[22] [China and CRINK: Implications for Japan and the United States](https://www.csis.org/analysis/china-and-crink-implications-japan-and-united-states)

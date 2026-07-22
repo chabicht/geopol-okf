@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Stiftung Wissenschaft und Politik (German Institute for International and Security Affairs) — Berlin-based think tank producing policy research on global security, climate diplomacy, regional dynamics, and European foreign policy
 tags: [author, framework]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -46,6 +46,18 @@ Bayerlein, Bendiek, Hemmelskamp, and von der Forst analyse the cybersecurity of 
 
 Nadine Knapp and Anne Koch (Global Issues Research Division) map the rise of route-based approaches to migration policy — treating migration corridors as connected political and humanitarian spaces rather than isolated country contexts. The framework identifies the concept's inherent ambiguity: the same "route-based" framing serves humanitarian organizations (IFRC, UNHCR, IOM) seeking better protection along corridors and European governments seeking to externalize migration control through cooperation with origin and transit states. The EU's "Whole-of-Route Approach," its Team-Europe Initiatives along the central Mediterranean and Atlantic routes, and its migration deals with Tunisia and Mauritania illustrate the control orientation. The framework prescribes binding the route-based approach with verifiable protection indicators, independent monitoring, local-actor participation, and inclusion of South-South mobility patterns rather than treating all routes as European-bound. See [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html) and [EU]({{ site.baseurl }}/actors/organizations/eu.html) [8].
 
+## Critical Minerals and EU-Africa Industrial Partnerships
+
+Jonathan Kaupenjohann (Sub-Saharan Africa expert, Federation of German Industries, writing in the SWP-coordinated "Future of African-European Relations" project) analyses the intersection of European critical minerals diversification and African industrial policy ambitions. The framework identifies a structural convergence: European industry needs alternative processing sources beyond China (which controls large shares of rare earth, graphite, copper, cobalt, and lithium processing), while African resource-rich states seek to move beyond raw commodity exports through export restrictions, local-content requirements, and downstream processing. The BDI/Roland Berger calculation that a Chinese lithium export ban would cost Germany €115 billion quantifies the diversification imperative. However, the framework's "reality check" tempers optimism: building competitive African processing takes longer than a legislative cycle, requires billions in upfront capital, faces infrastructure deficits, and must compete with entrenched Chinese smelting overcapacity (copper TC/RCs turned negative in 2025). The "partnership among equals" is framed not as a political commitment but as an economic imperative. See [Critical Minerals]({{ site.baseurl }}/themes/critical-minerals.html), [Africa]({{ site.baseurl }}/regions/africa.html), [EU]({{ site.baseurl }}/actors/organizations/eu.html), and [Germany]({{ site.baseurl }}/actors/countries/germany.html) [9].
+
+## Fair Recruitment and Labour Migration Protection Gaps
+
+Nadine Knapp and Emma Landmesser (Global Issues Research Division) analyse the exploitation risks embedded in Germany's skilled labour migration system. The framework traces the exploitation chain from recruitment in countries of origin through to precarious employment in Germany: private recruitment agencies acting as unregulated gatekeepers, fees up to €15,000 creating debt bondage, digital fraud via social media, and migration corridors (Indian students in platform economy, Vietnamese vocational trainees, Bangladesh-Libya-Italy) where regular and irregular pathways intersect. Germany's regulatory blind spots are structural: no ratification of ILO Convention 181, no comprehensive licensing system for recruitment agencies, only a €2,000 fee cap, and a NAP A/Z (2025) that acknowledges risks but lacks enforcement. The ELA's mandate does not formally cover third-country nationals. The framework prescribes a three-pillar approach: (1) a hybrid regulatory framework (licensing, binding obligations, voluntary certification, sanctions); (2) corporate accountability via tripartite cooperation with trade unions, diaspora organizations, and the WE-Fair alliance; (3) transnational cooperation through extended ELA mandates, the EU Talent Pool, and bilateral agreements modelled on the Philippines' 60+ labour agreements. See [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html), [Germany]({{ site.baseurl }}/actors/countries/germany.html), and [EU]({{ site.baseurl }}/actors/organizations/eu.html) [10].
+
+## The White Water Zone: Cold Seas as a Maritime Operational Category
+
+Commander Helge Adrians (Visiting Fellow, International Security Research Division) proposes a "white water zone" as a fourth category in the colour-coded maritime taxonomy (blue/green/brown), arguing that cold waters constitute a distinct operational space that existing frameworks fail to capture. The framework traces Russian Arctic militarization from its Soviet-era legacy through post-2000 reactivation under Putin, identifies three competing Arctic visions (Russian sovereignty consolidation, US/European rules-based open access, Chinese near-Arctic state positioning), and analyses the fleet design challenge: cold-water operations demand environmental resilience over force scale, with reinforced hulls, protected propulsion, and redundant engineering. The sustainable capabilities gap is structural — institutionalized cold-water expertise resides primarily in Canada, Denmark, and Norway, insufficient for NATO's Arctic needs. The framework calls for doctrinal standardization through revision of the US Navy's 1988 Cold Weather Handbook for Surface Ships, with allied input including Germany and Japan, and extending beyond naval forces to constabulary and law enforcement capabilities. See [Arctic]({{ site.baseurl }}/regions/arctic.html), [NATO]({{ site.baseurl }}/actors/organizations/nato.html), [Canada]({{ site.baseurl }}/actors/countries/canada.html), and [Russia]({{ site.baseurl }}/actors/countries/russia.html) [11].
+
 # Sources in Bundle
 
 - "Colombia as a Leader in Climate and Energy Policy" (Könneke) [1]
@@ -56,6 +68,9 @@ Nadine Knapp and Anne Koch (Global Issues Research Division) map the rise of rou
 - "Anti-Migrationsproteste in Südafrika" (Müller) [6]
 - "Cybersicherheit im Gesundheitssektor" (Bayerlein et al.) [7]
 - "Migrationsrouten im Fokus" (Knapp/Koch) [8]
+- "Critical Minerals Will Reshape European-African Relations" (Kaupenjohann) [9]
+- "Protection Gaps in Germany's Skilled Labour Migration System" (Knapp/Landmesser) [10]
+- "Defining the White Water Zone" (Adrians) [11]
 
 # Citations
 
@@ -74,3 +89,9 @@ Nadine Knapp and Anne Koch (Global Issues Research Division) map the rise of rou
 [7] [Cybersicherheit im Gesundheitssektor](https://www.swp-berlin.org/publikation/cybersicherheit-im-gesundheitssektor)
 
 [8] [Migrationsrouten im Fokus](https://www.swp-berlin.org/publikation/migrationsrouten-im-fokus)
+
+[9] [Critical Minerals Will Reshape European-African Relations](https://www.swp-berlin.org/publikation/mta-spot77-critical-minerals-will-reshape-european-african-relations)
+
+[10] [Protection Gaps in Germany's Skilled Labour Migration System](https://www.swp-berlin.org/publikation/protection-gaps-in-germanys-skilled-labour-migration-system)
+
+[11] [Defining the White Water Zone: Cold Seas as a Distinct Category for the Operational Ordering of Maritime Domain](https://www.swp-berlin.org/en/swp/working-groups/reordering-european-security)

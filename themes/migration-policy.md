@@ -5,7 +5,7 @@ parent: Themes
 description: "Migration as a cross-cutting geopolitical instrument and stress test — route-based approaches, the protection-vs-control tension, externalization of border management, and the instrumentalization of anti-migration sentiment by political actors from South Africa to Europe to Afghanistan."
 tags: [demography, ideology, trade]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -55,6 +55,20 @@ Giustozzi's analysis of the EU-Taliban engagement reveals the structure of the a
 
 The case illustrates a general proposition: migration externalization empowers authoritarian regimes at the expense of both European values and the populations seeking protection. The only available counter — conditioning engagement on human-rights improvements — has failed because the migration pressure is sufficient to override the conditionality [2].
 
+## Fair Recruitment and the Protection Gap
+
+Knapp and Landmesser ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) expose a structural vulnerability in [Germany's]({{ site.baseurl }}/actors/countries/germany.html) skilled-labour migration architecture that the route-based and externalization debates have largely overlooked: the exploitation of migrant workers begins not at the border or in the workplace, but at the recruitment stage in the country of origin. Germany's reform of the Skilled Immigration Act (FEG, 2020 and 2023) was designed to attract third-country workers to fill demographic and sectoral shortages. By March 2026, 3.31 million third-country nationals were employed in Germany — surpassing the 2.51 million EU citizens working there. But the very expansion of legal pathways that policymakers celebrate has enlarged the surface area for exploitation, because the recruitment intermediaries who connect workers to employers operate in a near-regulatory vacuum [4].
+
+Private recruitment agencies function as gatekeepers between origin-country labour markets and German employers, particularly small and medium-sized enterprises that find international recruitment too complex to manage independently. These intermediaries charge fees that can reach €15,000 in sectors like meat processing, creating debt bondage before the worker even departs. Misleading information, document confiscation, and increasingly digital fraud via social media and AI-generated content compound the risk. The ILO estimates that abusive recruitment generates $32 billion annually — $27 billion in withheld wages and $5 billion in fees — and the Employer Pays Principle, which holds that workers should not pay for their own recruitment, remains rarely implemented in practice [4].
+
+Specific migration corridors illustrate how regular and irregular pathways intersect. Indian students are lured by private universities and agencies with false promises of skilled employment, only to end up in precarity within the platform economy — delivering for Wolt, UberEats, and Lieferando. Vietnamese migrants arrive via vocational training visas or through multi-stage corridors transiting Poland, finding themselves in nail salons, hospitality, or sex work. The Bangladesh-Libya-Italy corridor demonstrates how ostensibly regular recruitment channels bleed into irregular movement, with the same actors exploiting both [4].
+
+Germany's regulatory framework has striking blind spots. Unlike many origin and destination countries, Germany has no comprehensive licensing or registration system for private recruitment agencies — a business registration has been sufficient since 2002. The only fee cap is €2,000 under Social Code Book III (Sections 296–299), a fraction of what agencies actually charge. Germany has not ratified ILO Convention 181 on private employment agencies, and no specialized supervisory authority exists. The government's 2025 National Action Plan for Business and Human Rights (NAP A/Z) acknowledges recruitment risks, but its measures remain limited and voluntary. Crucially, social partners such as trade unions are not involved in bilateral labour agreements — the Kenya deal being a case in point — so the agreements lack the enforcement infrastructure that workplace-level monitoring would provide [4].
+
+At the European level, the [EU]({{ site.baseurl }}/actors/organizations/eu.html) framework is equally thin. The European Labour Authority (ELA) does not formally cover third-country nationals in its mandate, and no EU-wide instrument targets unfair recruitment practices. Cross-border cooperation with origin countries on fair recruitment is at an early stage; GIZ development-cooperation projects (THAMM plus, PAM, MEG) offer promising models but remain underutilized. The planned EU Talent Pool — a platform matching third-country workers with European employers — could become an opportunity for fair recruitment if Germany appoints a national contact point and embeds certification standards [4].
+
+The policy prescription that Knapp and Landmesser advance has three pillars. First, a regulatory framework for private recruitment agencies combining licensing and accreditation with binding obligations, voluntary certification, and meaningful sanctions — a hybrid model that leverages market regulation without abandoning state enforcement. Second, corporate accountability through a tripartite approach engaging trade unions, diaspora organizations, and employer alliances such as the WE-Fair initiative. Third, transnational cooperation: extending ELA's mandate to third-country nationals, operationalizing the EU Talent Pool, and embedding fair-recruitment standards in bilateral agreements with key origin countries — India, Morocco, and Vietnam. The Philippines, with its 60-plus bilateral labour agreements, demonstrates that origin-country leverage can be used to protect workers abroad rather than merely to export them [4].
+
 See [South Africa]({{ site.baseurl }}/actors/countries/south-africa.html) for the xenophobic-mobilization case, [Germany]({{ site.baseurl }}/actors/countries/germany.html) for the Taliban-consulate handover, [EU]({{ site.baseurl }}/actors/organizations/eu.html) for the Whole-of-Route architecture, [Afghanistan]({{ site.baseurl }}/actors/countries/afghanistan.html) for the Taliban governance context, [Africa]({{ site.baseurl }}/regions/africa.html) for regional migration dynamics, and [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html) for the broader pattern of xenophobic politics as a substitute for governance.
 
 # Citations
@@ -64,3 +78,5 @@ See [South Africa]({{ site.baseurl }}/actors/countries/south-africa.html) for th
 [2] [The EU's pragmatic turn toward the Taliban](https://www.theparliamentmagazine.eu/news/article/beyond-the-taliban-normalization-debate)
 
 [3] [Anti-Migrationsproteste in Südafrika: Wahlkampf auf dem Rücken der Schwächsten](https://www.swp-berlin.org/publikation/mta-spot77-anti-migrationsproteste-in-suedafrika)
+
+[4] [Protection Gaps in Germany's Skilled Labour Migration System](https://www.swp-berlin.org/publikation/protection-gaps-in-germanys-skilled-labour-migration-system)

@@ -5,7 +5,7 @@ parent: Countries
 description: Ukraine as a geopolitical actor — innovating in drone warfare and deep-strike doctrine, transforming its force structure under Western dependency, and pressuring Belarus to curtail Russian supply lines
 tags: [country, military, drone-warfare, air-defense, europe]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -50,6 +50,30 @@ The dismissal raises the question of wartime governance as much as technology. O
 
 [RUSI]({{ site.baseurl }}/actors/authors/rusi.html) (Jim McLean) identifies Ukraine's sustained strikes on Russian energy infrastructure as the clearest expression of a strategy that translates deep-strike capability into sustained pressure on Russia's energy system — turning battlefield operations into economic costs that reach ordinary Russians. The campaign's effect is now spreading beyond occupied Crimea and increasingly affecting Russia itself: more than two-thirds of the country's federal entities have reported restrictions on gasoline and diesel sales, retail fuel prices have risen, and jet fuel prices at Russian airports are up 17% since early June. Since late May, intensified Ukrainian strikes have cut gasoline production by roughly a quarter. The Kremlin has extended its jet fuel export ban through end-November and is considering a diesel ban. The timing is critical: the impact is spreading well beyond occupied Crimea and increasingly affecting Russia itself, narrowing the Kremlin's room for manoeuvre as the economy slows and Moscow struggles to replace battlefield losses [8]. See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) and [Russia]({{ site.baseurl }}/actors/countries/russia.html).
 
+# Analysis
+
+## The Military-Industrial Transformation
+
+Ryvkin (GPF) reports that Ukraine's defense production capacity underwent an extraordinary expansion — rising from roughly 1 billion euros in 2022 to approximately 55 billion euros by 2026. By 2025, 82% of suppliers to the Ukrainian army were homegrown, and Ukraine emerged as the world's largest producer of military [drones]({{ site.baseurl }}/themes/drone-warfare.html), scaling production from 300,000 units in 2023 to 10 million annually. The sector encompasses approximately 1,200 defense companies. Yet the transformation faces structural constraints: banks remain unwilling to invest in production lines that are priority targets for Russian missiles, and at one point the industry produced more weapons than the military could procure — a surplus-capacity paradox that underscores both the speed of industrial mobilization and the lag in demand-side absorption [9]. See [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
+
+## Gulf Defense Partnerships and Strategic Repositioning
+
+Ryvkin reports that by March 2026, 11 Middle East countries had requested Ukrainian assistance against Iranian drones, prompting Kyiv to dispatch hundreds of military experts to the [UAE]({{ site.baseurl }}/actors/countries/uae.html), [Qatar]({{ site.baseurl }}/actors/countries/qatar.html), [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html), and [Kuwait]({{ site.baseurl }}/actors/countries/kuwait.html). Ukraine signed 10-year agreements with Saudi Arabia, Qatar, and the UAE covering counter-drone technology, air defense, cybersecurity, joint production, and training. Crucially, Ukraine offered multilayered air defense solutions that do not rely on million-dollar interceptor missiles — a cost-effective alternative directly relevant to the Gulf states' exposure to Iranian drone threats. Zelenskyy indicated the agreements include Gulf investment in Ukraine's defense industry. The partnerships form part of a broader strategic repositioning: combined with deep strikes against Russian oil infrastructure, they shift Ukraine's international image from perpetual victim to reciprocal strategic partner — a shift made urgent by growing war fatigue in Europe, where aid packages are increasingly difficult to sell politically [10].
+
+## Drapatyi Appointed Commander in Chief
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) reports that Mykhailo Drapatyi has been promoted from Joint Forces Commander to Commander in Chief of Ukrainian forces, replacing Oleksandr Syrskyi. The appointment was widely hailed, with analyst Bielieskov calling it the "best choice of [Zelensky]({{ site.baseurl }}/actors/zelensky.html)." The command change follows the [Fedorov dismissal]({{ site.baseurl }}/events/fedorov-dismissal-2026.html) governance crisis and comes at a critical juncture in the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) [11].
+
+## Deep-Sea Grain Corridor Lost
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html)'s Day 144 diagnostic identifies the effective loss of the deep-sea grain corridor as a CRITICAL-level systemic stress. Ukraine faces up to $900 million in monthly foreign exchange losses from the corridor's closure, compounding the fiscal pressures already generated by the [Fedorov dismissal]({{ site.baseurl }}/events/fedorov-dismissal-2026.html) governance transition and the ongoing [US aid cutoff]({{ site.baseurl }}/actors/countries/united-states.html). The governance transition following the command and ministerial changes remains incomplete, adding institutional uncertainty at a moment when the economic stakes are escalating [12].
+
+The S2→S4 cross-domain pairing in Tchakarova's framework has fused into a single food-system encirclement operating on input and output simultaneously: Ukraine's Black Sea grain export collapse (output) and the Hormuz fertilizer transit closure (input) compress the global food system from both ends. For Ukraine specifically, this means that the grain corridor loss is not an isolated bilateral issue but a structural component of a unified global food-system disruption — the Black Sea and the Strait of Hormuz now function as paired chokepoints in a single encirclement architecture [12].
+
+## The Reform–General Staff Rift
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) (Jim McLean) provides the most detailed account of the institutional conflict behind the [Fedorov dismissal]({{ site.baseurl }}/events/fedorov-dismissal-2026.html). Fedorov's reform agenda targeted three areas: consolidating poorly performing brigades (roughly a sixth of Ukraine's 120), strengthening the Army Corps by collocating constituent brigades distributed in non-contiguous geography, and empowering commanders who leveraged technology to reduce casualties. General Syrskyi systematically obstructed each line of effort — establishing new brigades instead of consolidating, splitting best units across opposite ends of the front, and prioritising personnel for 425 Assault Regiment's human-centric, high-casualty attacks while stripping equipment from innovative formations. The crisis point came when Fedorov's team found that personnel identified for technically innovative units were being redirected to 425 Assault Regiment. The substantive issue is civilian control of the military: whether a reform mandate from Parliament can override military command autonomy. Zelensky removed Fedorov but directed that the reforms continue under his successor — leaving the rift unresolved. The conscription reform question also remains open: Fedorov identified that the problem was not recruitment volume but training, personnel management, and corruption — only a minority of those mobilised reached combat units each month. Fixing this requires changes to how the force handles recruits, changes Syrskyi's General Staff refused to implement [13]. See [Fedorov Dismissal (July 2026)]({{ site.baseurl }}/events/fedorov-dismissal-2026.html).
+
 # Citations
 
 [1] Phillips P. O'Brien, "Early Lessons from the US-Iran War" — https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war
@@ -67,3 +91,13 @@ The dismissal raises the question of wartime governance as much as technology. O
 [7] [The Fedorov Dismissal: On Trust, Technology, and Turnover](https://warontherocks.com/the-fedorov-dismissal-on-trust-technology-and-turnover/)
 
 [8] [Putin's Fuel Dilemma](https://www.rusi.org/explore-our-research/publications/commentary/putins-fuel-dilemma)
+
+[9] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/
+
+[10] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/
+
+[11] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)
+
+[12] [Global System Rupture](https://substack.com/@velinatchakarova/p-207969383)
+
+[13] [The Dismissal of Ukraine's Defence Minister](https://www.rusi.org/explore-our-research/publications/commentary/dismissal-ukraines-defence-minister)

@@ -5,7 +5,7 @@ parent: Countries
 description: India as a geopolitical actor — balancing China as its overriding strategic concern, building an Asian alliance network, and enduring Trump-era diplomatic slights
 tags: [country, military, indo-pacific, trade]
 status: ongoing
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -54,6 +54,10 @@ India's strategic position is defined by the asymmetry with China and the absenc
 
 Modi's Asia tour suggests India is not merely passively accepting the American alliance but actively building a regional coalition that serves its own China containment interests. The emerging network — stretching from Japan through Indonesia to Australia, with India and Vietnam as land-based anchors — could become the most significant geopolitical development of 2026 if it solidifies.
 
+## Fertilizer Supply Chain Vulnerability
+
+Colibasanu documents India's acute exposure to the Hormuz fertilizer disruption. The Gulf supplied 20-30% of India's urea imports and 30% of diammonium phosphate imports — both critical inputs for Indian agriculture. An April tender paid approximately double what India had paid two months earlier, reflecting the immediate price impact of the blockade on Gulf-origin supply. India is now compelled to seek alternative suppliers in Russia, North Africa, and Southeast Asia, requiring contract renegotiation and route reorganization that add both cost and logistical complexity to an already strained procurement system [9].
+
 # Citations
 
 [1] War on the Rocks, "Why India Will Stick with America" — https://warontherocks.com/why-india-will-stick-with-america/
@@ -71,3 +75,5 @@ Modi's Asia tour suggests India is not merely passively accepting the American a
 [7] [A Major Move by India](https://geopoliticalfutures.com/a-major-move-by-india/)
 
 [8] [The Middle Power Mirage: Colby, the Skeptics, and the Verdict Nobody Wants](https://substack.com/@velinatchakarova/p-207135676)
+
+[9] [Rising Costs from the New Hormuz Blockade](https://geopoliticalfutures.com/rising-costs-from-the-new-hormuz-blockade/)

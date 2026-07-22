@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Military historian and analyst — author of "War and Power" — arguing that wars are choices of individual leaders, that cheap mass beats expensive precision, and that US decline is accelerating faster than expected
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -66,6 +66,28 @@ Second, the consequence-free world has consequences. O'Brien juxtaposes Trump's 
 
 Third, the war is Donald Trump's War — its stability equals the stability of Trump's personality (i.e., very little). The ceasefire could break down for four days and reassert itself today; no one could be surprised. O'Brien catalogs five consecutive days of US strikes (July 11–16) with Iran's parallel responses, characterizing the campaign as an extraordinary gamble: restarting the bombing in a weaker strategic position than when operations ended in April, with the midterm elections approaching and 60–66% of Americans opposing the war. See [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), [Hormuz Ceasefire Collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html), and [Donald Trump]({{ site.baseurl }}/actors/trump.html) [18].
 
+## Each Day The US Weakens Itself: The Self-Defeating War
+
+O'Brien's Midweek Update #20 (2026-07-22) crystallizes a framework that synthesizes his prior analyses into a single diagnostic: the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) is a war of choice that is defeating the United States through its own continuation. The framework rests on five propositions [20]:
+
+First, there is no achievable objective. [Trump]({{ site.baseurl }}/actors/trump.html) is hoping [Iran]({{ site.baseurl }}/actors/countries/iran.html) will offer peace terms — a nuclear concession plus the reopening of Hormuz without tolls — that no military operation can produce. Taking Kharg Island achieves nothing political. The only military path to the political objective is a full-scale invasion and regime change, which General McCaffrey estimates would require 600,000 troops and one year — a commitment that is not happening. Every day of strikes thus operates without a coherent theory of how military action produces the desired political outcome [20].
+
+Second, Iran's "sideways escalation" strategy is compounding the political cost. Rather than attacking only US forces, Iran is systematically striking the infrastructure of US-allied Gulf states — [Qatar]({{ site.baseurl }}/actors/countries/qatar.html), the [UAE]({{ site.baseurl }}/actors/countries/uae.html), Bahrain, [Kuwait]({{ site.baseurl }}/actors/countries/kuwait.html), [Jordan]({{ site.baseurl }}/actors/countries/jordan.html), [Oman]({{ site.baseurl }}/actors/countries/oman.html), and [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) — from July 12 through July 21, making the war politically unsustainable for the host governments and demonstrating that the US cannot protect its allies [20].
+
+Third, every day of operations depletes US munitions stockpiles of vital weapons — THAAD and Patriot interceptors in particular. An anonymous US official stated: "We do not have enough to safely sustain operations, and I don't think the White House is aware of that." THAAD stocks were already critically low before the latest round of strikes; 53–80% had been expended by the April ceasefire. The Pentagon is panicking, seeking billions from a Congress that remains inert — the War Powers Act has not been invoked, no press briefings are being held, and CNN reported on Pentagon suppression of press coverage [20].
+
+Fourth, the munitions depletion has degraded US military readiness to the point that O'Brien now doubts the [United States]({{ site.baseurl }}/actors/countries/united-states.html) could win even the opening battles of a [China]({{ site.baseurl }}/actors/countries/china.html) war. Combined Patriot and THAAD inventories stand at approximately 1,500 interceptors; with a two-per-target doctrine, that yields perhaps 1,000 intercepts against a Chinese arsenal of roughly 3,500 missiles. US bases in Guam and the Marianas could be devastated at the start of a Pacific conflict. A "short war scenario" — in which the US runs out of systems and suffers such high losses it cannot continue — has become plausible [20].
+
+Fifth, the war is demonstrating to the world that America's security guarantee is weaker than once thought. GCC fissures are widening: only the [UAE]({{ site.baseurl }}/actors/countries/uae.html) is doubling down on US support, while the rest of the Gulf states are having serious doubts. An investor quoted by O'Brien identified the cascading consequences: "exacerbation of pre-existing political fissures in the GCC, dilution of US influence, America's security guarantee weaker than once thought, divided GCC strengthens [Iran]({{ site.baseurl }}/actors/countries/iran.html), [China]({{ site.baseurl }}/actors/countries/china.html) positioned to capitalize" [20].
+
+The synthesis: a war of choice, with no achievable objective, that depletes the US military on a daily basis, demonstrates the hollowness of US security guarantees to allies, and degrades readiness for the primary great-power competitor — is the defining strategic self-defeat of the Trump era. See [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), [United States]({{ site.baseurl }}/actors/countries/united-states.html), [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html), and [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) [20].
+
+## The Bravery Myth and Military Culture
+
+O'Brien advances a framework that cuts against one of the most deeply romanticized assumptions in military culture: that bravery is a decisive warfighting virtue. The historical record, he argues, demonstrates the opposite. The bravest soldiers of World War II — the Japanese — lost. Italian soldiers were demonstrably brave yet underequipped, and their courage did not compensate for material deficiency. US and British soldiers, who enjoyed the highest survival rates of the war, prevailed not through superior valor but through superior logistics, technology, and adaptability. Wars are won by the smartest, most adaptable, best-equipped soldiers who believe they are not being sacrificed for nothing [19].
+
+The framework has immediate diagnostic application to the [United States]({{ site.baseurl }}/actors/countries/united-states.html) under Secretary Hegseth. The Department of War's announcement of testosterone screening for soldiers — what O'Brien calls the "High-T Department of War" — equates warfighting capacity with testosterone levels, despite the medical reality that testosterone boosting is linked to infertility. Hegseth has long emphasized hyper-masculine bravery as a military virtue, citing E.B. Sledge's Pacific campaign accounts and praising the "brave" on the Kelly podcast in 2024. O'Brien reads this as a symptom of an institution stressing all the wrong things — romantic sacrifice narratives instead of the education, technological sophistication, and thoughtfulness that actually correlate with battlefield success. The US military, on this analysis, is culturally preparing for failure by celebrating the qualities that do not win wars while neglecting those that do [19]. See [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) and [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
+
 # Sources in Bundle
 
 - "Early Lessons From The US-Iran War" [1]
@@ -86,6 +108,8 @@ Third, the war is Donald Trump's War — its stability equals the stability of T
 - "The Worst NATO Summit In History" [16]
 - "Weekend Update #193: What Is Happening In The Sea Of Azov?" [17]
 - "Midweek Update #19: What Do We Know?" [18]
+- "Bravery Does Not Win Wars" [19]
+- "Midweek Update #20: Each Day The US Weakens Itself" [20]
 
 # Citations
 
@@ -124,3 +148,7 @@ Third, the war is Donald Trump's War — its stability equals the stability of T
 [17] [Weekend Update #193: What Is Happening In The Sea Of Azov?](https://phillipspobrien.substack.com/p/weekend-update-193-what-is-happening)
 
 [18] [Midweek Update #19: What Do We Know?](https://phillipspobrien.substack.com/p/midweek-update-19-what-do-we-know)
+
+[19] [Bravery Does Not Win Wars](https://phillipspobrien.substack.com/p/bravery-does-not-win-wars)
+
+[20] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)

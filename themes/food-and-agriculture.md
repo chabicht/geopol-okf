@@ -8,7 +8,7 @@ tags:
   - economics
   - supply-chain
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -59,6 +59,18 @@ The Iran war disrupted shipping logistics dramatically. Before the war, Houthi a
 
 The honest assessment is that mitigation, not prevention, is the available strategy. [The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) proposes rationing, localized production, and resilient community design as the practical responses — but notes that these require political will that is absent in systems optimized for efficiency rather than resilience [1].
 
+## Fertilizer Supply Chain Disruption from the Hormuz Blockade
+
+Colibasanu quantifies the scale of fertilizer exposure to the Hormuz chokepoint: approximately one-third of globally traded urea and roughly half of seaborne sulfur pass through the strait. The Middle East exports around 22 million metric tons of urea annually — about 40% of the global total. At the New Orleans pricing hub, fertilizer prices rose from $516 to $683 per metric ton in the first week of the conflict, a move that tracks the disruption of Gulf-origin supply [9].
+
+The country-level exposure is acute. For [India]({{ site.baseurl }}/actors/countries/india.html), the Gulf supplied 20-30% of urea imports and 30% of diammonium phosphate imports; an April tender paid approximately double what it had paid two months earlier. For [Brazil]({{ site.baseurl }}/actors/countries/brazil.html), approximately 41% of urea imported in 2025 transited Hormuz. The timing compounds the vulnerability: the Southern Hemisphere is entering its procurement and stock-building period ahead of September sowing, meaning reduced fertilizer availability translates directly into lower application rates, lower agricultural output, and ultimately a food security cascade. Colibasanu emphasizes that the effects will be most severe in import-dependent economies with limited fiscal capacity to absorb price shocks or subsidize alternatives [9].
+
+## S4 Domain: Food-System Encirclement
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html)'s Day 144 diagnostic places the Energy-Food-Fertilizer Cascade domain (S4) at RUPTURE, upgraded from critical. The upgrade was driven not by worsening of existing disruptions but by the addition of new interdiction vectors: the Hormuz fertilizer transit is now closed, and the Black Sea grain export route has collapsed. Energy prices are up 24% and fertilizer prices above 30%, with 2027 planting decisions already locking in — meaning the cascade's downstream effects are being structurally embedded into the next agricultural cycle regardless of any near-term de-escalation [10].
+
+The S2→S4 cross-domain pairing identified in the diagnostic has fused into a single food-system encirclement operating on input and output simultaneously. The Black Sea grain export collapse (S2, the output side — [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html)'s ability to sell grain to global markets) and the Hormuz fertilizer transit closure (S4, the input side — the fertilizer that farmers need to grow crops) compress the global food system from both ends. This fusion transforms two geographically distinct disruptions into a unified encirclement architecture: the food system is being squeezed not at one chokepoint but at two, operating on different parts of the agricultural supply chain but generating a single compounding effect on global food security [10].
+
 # Citations
 
 [1] [The Persian Polycrisis](https://thehonestsorcerer.substack.com/p/the-persian-polycrisis)
@@ -78,3 +90,7 @@ The honest assessment is that mitigation, not prevention, is the available strat
 [7] [The Oil Import Curse](https://thehonestsorcerer.substack.com/p/the-oil-import-curse)
 
 [8] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
+
+[9] [Rising Costs from the New Hormuz Blockade](https://geopoliticalfutures.com/rising-costs-from-the-new-hormuz-blockade/)
+
+[10] [Global System Rupture](https://substack.com/@velinatchakarova/p-207969383)

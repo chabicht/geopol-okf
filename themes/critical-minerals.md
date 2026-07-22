@@ -10,7 +10,7 @@ tags:
   - technology
   - energy
 status: ongoing
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -78,6 +78,18 @@ China is structurally better positioned to capitalize on this shift. Chinese min
 
 Western firms face ESG obligations and industry safety standards that Chinese companies often ignore, drastically increasing long-term investment risk and compressing profit margins. If mishandled by host governments, localization drives risk devolving into political rent-seeking — contracts awarded to connected elites and foreign actors willing to bypass ethical norms. However, opportunities exist for firms that can deliver processing, refining, logistics, machinery servicing, and energy supply in partnership with local partners. Increased demand for processing and refining opens opportunities in the historically power-poor continent [10]. The regional dynamics of African resource nationalism are tracked in the [Africa]({{ site.baseurl }}/regions/africa.html) region file.
 
+## EU-Africa Critical Minerals Partnerships and the Diversification Imperative
+
+Kaupenjohann (SWP) frames the critical minerals landscape as one where demand drivers are simultaneously multiplying: the energy transition, AI compute buildout, and defense industrial expansion are all pushing mineral requirements to unprecedented levels. The supply side is tightening not just geologically but politically — the OECD has documented that export restrictions on raw materials have quadrupled since 2009, and [China]({{ site.baseurl }}/actors/countries/china.html)'s 2025 heavy rare earth export restrictions sent shockwaves through global industrial supply chains, underscoring how concentrated processing capacity translates into immediate coercive leverage [12].
+
+The economic cost of inaction for Europe is quantifiable and staggering. BDI and Roland Berger calculated that a Chinese export ban on lithium alone would cost [Germany]({{ site.baseurl }}/actors/countries/germany.html) €115 billion — a figure that dwarfs any plausible diversification investment. This calculation has galvanized policy responses: the EU's Critical Raw Materials Act and Germany's Raw Materials Fund represent institutional recognition that the status quo of concentrated supply chains is no longer affordable. Yet building alternative value chains is inherently capital-intensive and time-consuming, requiring sustained political commitment across legislative cycles [12].
+
+[Africa]({{ site.baseurl }}/regions/africa.html) holds approximately 30% of global critical mineral reserves — spanning copper, cobalt, platinum group metals, manganese, bauxite, and lithium — positioning the continent as the natural partner for European diversification. African governments are simultaneously pursuing industrial policy ambitions of their own: implementing export restrictions on unprocessed minerals, local-content requirements, and downstream processing mandates to capture more domestic value added. This creates short-term supply friction for European industry but reflects a deeper strategic alignment — both sides seek to reduce dependence on concentrated midstream capacity controlled by a single actor [12].
+
+The EU Global Gateway framework represents the institutional architecture for translating this alignment into partnership, linking European critical minerals demand with African industrial development through long-term offtake agreements, joint ventures, and project financing. European companies can contribute engineering expertise, equipment, and technical know-how to build African downstream industries — a "partnership among equals" that functions as an economic imperative rather than merely a political slogan, because the status quo of supply concentration poses unacceptable risks for both parties [12].
+
+Yet a sober reality check tempers this strategic logic. Building competitive processing capacity takes longer than a single legislative cycle, demands enormous capital, and faces formidable entrenched competition. The copper sector illustrates the challenge starkly: Chinese smelting capacity has expanded faster than global concentrate supply, driving treatment and refining charges (TC/RCs) into negative territory in 2025 — smelters literally paying miners for concentrate to maintain throughput. New African smelters entering this market must compete with Chinese operations that have already achieved economies of scale and are willing to operate at negative margins to defend market share. Infrastructure deficits in energy and transport further compound the difficulty, making the timeline for meaningful African downstream capacity realistic only on a decade-plus horizon [12].
+
 # Citations
 
 [1] https://geopoliticalfutures.com/what-investments-say-about-central-asia/
@@ -101,3 +113,5 @@ Western firms face ESG obligations and industry safety standards that Chinese co
 [10] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
 
 [11] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
+
+[12] [Critical Minerals Will Reshape European-African Relations](https://www.swp-berlin.org/publikation/mta-spot77-critical-minerals-will-reshape-european-african-relations)

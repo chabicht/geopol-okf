@@ -5,7 +5,7 @@ parent: Countries
 description: Gulf monarchy whose concentration of desalination capacity on the Persian Gulf coast makes it acutely vulnerable to Iranian missile and drone strikes targeting civilian drinking-water infrastructure
 tags: [country, energy, middle-east, military]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -38,6 +38,18 @@ Kuwait is the most extreme case of a regional vulnerability pattern. [Qatar]({{ 
 
 See [Middle East]({{ site.baseurl }}/regions/middle-east.html) for the regional security architecture, [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) for the conflict's operational trajectory, and [Geoeconomics of Water]({{ site.baseurl }}/themes/geoeconomics-of-water.html) for the cross-cutting desalination-vulnerability framework.
 
+## Ukraine Defense Partnership
+
+Ryvkin (GPF) reports that Kuwait was among 11 Middle East countries that requested Ukrainian assistance against Iranian drone threats by March 2026. Ukrainian military experts were deployed to Kuwait to provide drone defense assistance. While Kuwait was not among the three Gulf states that signed formal 10-year agreements, the deployment reflects Kuwait's recognition of Ukraine's unique expertise in countering the same Iranian drone systems that threaten Kuwaiti desalination infrastructure [2]. See [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html).
+
+## Desalination Infrastructure Struck Again
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) documents that Iranian forces struck Kuwaiti power-generation and desalination infrastructure on July 16–17 and again on July 19, 2026 — a repeat of the direct targeting pattern first identified on July 18. The repeated strikes on Kuwait's water infrastructure confirm that the July 18 desalination strike was not a one-time escalation but a sustained operational pattern. Each strike deepens the humanitarian risk for a country that relies on desalination for over 90% of its drinking water, and reinforces the proof-of-concept for a vulnerability pattern that extends across the Gulf [3]. See [Iran]({{ site.baseurl }}/actors/countries/iran.html) and [Geoeconomics of Water]({{ site.baseurl }}/themes/geoeconomics-of-water.html).
+
 # Citations
 
 [1] [Breaking Analysis #5: Iran's New Target – Drinking Water](https://escalationtrap.substack.com/p/breaking-analysis-5-irans-new-target)
+
+[2] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/
+
+[3] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)

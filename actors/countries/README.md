@@ -40,9 +40,11 @@ permalink: /actors/countries/
 * [Vietnam](vietnam.html) - China+1 manufacturing hub pursuing multi-alignment between the US and China, with semiconductor ambitions and rare earth partnerships
 * [Venezuela](venezuela.html) - Post-Maduro state reopening to international business under heavy US pressure, constrained by institutional weakness
 * [Mexico](mexico.html) - Pursuing strategic autonomy from the US through energy cooperation with Brazil and bilateral trade renegotiation under USMCA pressure
+* [Canada](canada.html) - Major US trading partner targeted by Trump's Section 338 tariffs; economic coercion campaign, USMCA renegotiation pressures, and consumer boycott impacts
 * [Brazil](brazil.html) - Latin America's largest economy pursuing strategic depth through energy cooperation, agricultural exports, and autonomous defense capacity
 * [Colombia](colombia.html) - Fossil fuel exporter that pursued supply-side climate policy under Petro, now facing political reversal after right-wing election victory
 * [Iraq](iraq.html) - Arena of Turkish-Iranian competition, Shiite demographics, KDP/Barzani relationship, oil export crisis
+* [Jordan](jordan.html) - Kingdom whose only port (Aqaba) is threatened by Iran as the Basra-Aqaba energy bypass pipeline becomes a strategic target
 * [Lebanon](lebanon.html) - A front whose sovereignty is being made conditional on Hizballah's disarmament, detached from the Iran-track settlement and recast as an open-ended security problem
 * [Indonesia](indonesia.html) - ASEAN leader controlling critical maritime straits, participant in India's emerging Asian alliance network
 * [Philippines](philippines.html) - US treaty ally and South China Sea claimant at the center of an emerging regional security network

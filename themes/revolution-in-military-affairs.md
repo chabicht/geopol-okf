@@ -9,7 +9,7 @@ tags:
   - ai
   - drone-warfare
 status: ongoing
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -86,6 +86,28 @@ The AI dimension is critical: the LCBG requires rapid decision-making localised 
 
 [RUSI]({{ site.baseurl }}/actors/authors/rusi.html) (Carneiro Júnior) provides the doctrine-level articulation of the RMA through Palantir's 22-point manifesto: "One age of deterrence, the atomic age, is ending, and a new era of deterrence built on AI is set to begin." The algorithmic deterrent is the RMA's strategic expression: the capability that mattered in the last century was warhead yield; in this century it is the speed and accuracy of autonomous targeting and data fusion. The cost asymmetry O'Brien identifies (cheap mass vs expensive precision) is the mechanism through which algorithmic deterrence operates — a few-hundred-dollar drone destroying a $15M tank, a swarm of a hundred autonomous drones saturating conventional air defence. Maven Smart System's role in [Operation Epic Fury]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — over 13,000 strikes — supplied the first operational evidence. See [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html) for the full analysis and [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) for the operational account [4].
 
+## Agentic AI as a Revolution in Military Software Production
+
+Jacob Green (War on the Rocks) identifies a discontinuous capability shift not in weapons hardware but in how military software itself is produced. Agentic AI — AI systems that can plan and execute work using external tools and data beyond a chat window — is turning elite software development into a ubiquitous commodity. Green's own demonstration: a 9,500-line, 60,000-page agentic retrieval system built in under 20 hours for approximately $1,700 in inference costs, versus a COCOMO-estimated $840,000–$1.2 million and 6,000–7,000 engineering hours through traditional procurement. This is not incremental improvement; it is a category change in the economics of building military software [5].
+
+The shift reframes the DoD's commercial-first acquisition policy. Green argues the "make-or-buy line" has moved: the department should buy infrastructure, agentic tools, and model access commercially, but build applications in-house using its existing software organizations. The combination of commercial AI infrastructure with internal development capacity — armed with agentic harnesses and pre-accredited development environments — would compress delivery timelines by eliminating the 6-to-18-month accreditation wait that gates current software deployment. Internal competition through reimbursable models and cross-service work bidding would incentivize efficient value creation without mandated personnel reductions [5].
+
+The architectural dimension of this revolution centers on the Model Context Protocol (MCP), an open standard for agent-to-data interaction now adopted industry-wide. MCP servers wrapped around authoritative data sources enable any compliant agent to retrieve data in real time, eliminating the need for costly system-to-system integrations and centralized data platforms. This realizes the DoD's long-sought Data Mesh vision: data remains in its functional domain system and is accessed as a product through agent-to-agent interactions. The result is a plug-and-play open architecture ecosystem that breaks vendor lock-in and reclaims buying power — a structural change in how military information systems are composed and sustained [5]. See [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html) for the resource asymmetry and procurement strategy dimensions.
+
+## Missile Dominance and the End of the Manned Fighter
+
+[Aurelien]({{ site.baseurl }}/actors/authors/aurelien.html) identifies a revolution underway that complements O'Brien's de-humanizing framework: highly accurate offensive missiles have reversed the cost equation. Until recently, air attack was difficult and expensive while air defense was cheap — a WWII bomber was a complex, expensive machine brought down by cheap anti-aircraft rounds. Highly accurate offensive missiles invert this: defending against them is a costly, laborious process involving complex systems, and relatively small numbers of missiles can overwhelm defenses. If radars are destroyed or interceptor stocks exhausted, the system stops functioning entirely. Salvoes of missiles cannot be countered — only one needs to reach its target [6].
+
+The [Russian]({{ site.baseurl }}/actors/countries/russia.html) and Soviet tradition of artillery and missile primacy — dating from the capture of German V-2 scientists after WWII through decades of SCUD development and export — produced immense stocks of offensive missiles that came as a shock after 2022. The West neglected conventional offensive missiles almost entirely in favor of manned aircraft. Western reaction to Russian missile capability has been to ignore it and propose anti-missile systems rather than develop comparable offensive capability — a complete rethinking of strategic posture that "is not going to happen" [6].
+
+The F-47 air superiority program represents failure to adapt. If opponents are increasingly moving to missiles to dominate airspace, the era of the manned fighter may be ending. As missiles become faster and capable of manoeuvring, there may come a point where interception is physically impossible in the time available. A number of nations not friendly to the West now possess this technology [6]. See [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) for the industrial-gap dimension.
+
+## Bravery vs. Logistics: What Actually Wins Wars
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) argues that the RMA's deepest implication is cultural, not merely technological: the qualities most romantically celebrated in military culture — bravery, sacrifice, hyper-masculine valor — are militarily irrelevant to battlefield outcomes. The historical evidence is unambiguous. The bravest soldiers of World War II were the Japanese, and they lost. Italian soldiers were demonstrably brave yet underequipped, and courage did not compensate for material deficiency. US and British soldiers, who enjoyed the highest survival rates of the war, prevailed through superior logistics, technology, and adaptability — the exact qualities the RMA amplifies. Wars are won by the smartest, most adaptable, best-equipped soldiers who believe they are not being sacrificed for nothing [7].
+
+The US military's institutional priorities invert this lesson. Secretary Hegseth's announcement of testosterone screening for soldiers — the "High-T Department of War" — equates warfighting with testosterone levels despite the medical link between testosterone boosting and infertility. Hegseth's long-standing emphasis on hyper-masculine bravery (citing E.B. Sledge on the 2024 Kelly podcast, in speeches to generals) reflects a culture that celebrates sacrifice narratives while the RMA demands the opposite: education, technological fluency, and systems thinking. The de-humanizing of the battlefield makes the individual soldier's courage less consequential than ever — autonomous systems, miniaturized sensors, and AI-driven targeting are the decisive variables. An institution that responds to this revolution by screening for testosterone is culturally preparing for the wrong war [7]. See [United States]({{ site.baseurl }}/actors/countries/united-states.html) and [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
+
 # Citations
 
 [1] [Yes, We Are In A Revolution In Military Affairs](https://phillipspobrien.substack.com/p/yes-we-are-in-a-revolution-in-military)
@@ -95,3 +117,9 @@ The AI dimension is critical: the LCBG requires rapid decision-making localised 
 [3] [The AI-Enhanced Land Carrier Battle Group: The Way Forward](https://www.rusi.org/explore-our-research/publications/rusi-defence-systems/ai-enhanced-land-carrier-battle-group-way-forward)
 
 [4] [The Algorithmic Deterrent](https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/algorithmic-deterrent)
+
+[5] [The Make-or-Buy Line has Moved](https://warontherocks.com/the-make-or-buy-line-has-moved/)
+
+[6] [And It Goes On.](https://aurelien2022.substack.com/p/and-it-goes-on)
+
+[7] [Bravery Does Not Win Wars](https://phillipspobrien.substack.com/p/bravery-does-not-win-wars)

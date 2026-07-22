@@ -7,7 +7,7 @@ event_date: 2026-07-16
 actuality: actual
 tags: [drone-warfare, military, europe]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -46,6 +46,20 @@ Trehub warned that replacing Fedorov risks paralyzing key institutional reforms 
 
 See [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) for the actor's broader doctrine, [Zelensky]({{ site.baseurl }}/actors/zelensky.html) for the cabinet-reshuffle pattern, and [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) for Fedorov's drone-innovation legacy.
 
+## Reform and Force Development
+
+[RUSI]({{ site.baseurl }}/actors/authors/rusi.html) (Jim McLean) provides the most detailed reconstruction of Fedorov's reform agenda and the institutional resistance that defeated it. Fedorov arrived at the Defence Ministry in January 2026 with a mandate from Parliament and a plan grounded in his experience overseeing UAV production, targeting incentives, and digital networking from his previous post as Minister for Digital Transformation. After auditing Ukraine's 120 brigades, he concluded that roughly a sixth suffered disproportionately from poor leadership, leading to sustained underperformance. He proposed consolidating these brigades — reallocating their personnel to better-led, chronically short-handed units — rather than continuing to push fresh recruits into units whose performance was unlikely to improve [2].
+
+A second line of effort was troop rotation. Ukraine's Inspector General concluded that troops should be rotated in under 40 days, but brigade commanders lacked the assets to rotate or the firepower to create safe conditions, leaving soldiers in combat for up to 200 days. Fedorov sought to strengthen the Army Corps by giving each a consistent set of collocated units — when he came into office, corps had their subordinate brigades distributed in non-contiguous geography along the front, massively complicating command. A third line was reducing casualties through technology: identifying commanders who best leveraged technology to accomplish combat tasks at lower cost and empowering them with personnel and equipment [2].
+
+The pattern that emerged was systematic obstruction by General Syrskyi. The Ministry directed brigade consolidation; Syrskyi established three additional brigades. The Ministry directed corps consolidation; Syrskyi took Ukraine's best units and deployed them as split formations across opposite ends of the front. The crisis point came when Fedorov's team tried to resource technically innovative units, only to find personnel prioritised to 425 Assault Regiment — which persisted in human-centric, high-casualty attacks while stripping equipment from the innovative formations Fedorov had wanted to enable. From Syrskyi's perspective, the Ministry was overstepping its procurement role to directly command units in the field. For Fedorov, procurement could not be separated from battlefield conduct in a war where innovation was fastest at the edge [2].
+
+## Civilian Control
+
+The RUSI analysis frames the Fedorov dismissal as a substantive debate about the future of [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html)'s way of war and the character of the Ukrainian state — not merely a personal clash. If the aim of the Revolution of Dignity in 2014 was to empower democracy and chart a course toward European integration, civilian control of the military is an important measure of Ukraine's progress. Zelensky removed Fedorov because the situation was unsustainable, but he did not side with Syrskyi on substance — directing that the reforms should be continued by Fedorov's successor. The most significant and contentious reform remains the conscription system: Ukrainian men are currently conscripted directly by the military, with Ground Forces units tasked with finding recruits against a quota and detaining them — a deeply unpopular system that produces poor results. Fedorov identified that the problem was not recruitment volume but training, personnel management, and corruption: the system was bringing in enough people, but only a minority reached combat units each month. Fixing mobilisation therefore required changes to how the force handled and trained recruits — changes Syrskyi's General Staff refused to implement. The rift remains unresolved, and the civilian-control question — whether a reform mandate from Parliament can override military command autonomy — will persist beyond Fedorov's tenure [2].
+
 # Citations
 
 [1] [The Fedorov Dismissal: On Trust, Technology, and Turnover](https://warontherocks.com/the-fedorov-dismissal-on-trust-technology-and-turnover/)
+
+[2] [The Dismissal of Ukraine's Defence Minister](https://www.rusi.org/explore-our-research/publications/commentary/dismissal-ukraines-defence-minister)
