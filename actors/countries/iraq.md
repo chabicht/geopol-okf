@@ -5,7 +5,7 @@ parent: Countries
 description: Iraq as a geopolitical actor — the emerging arena of Turkish-Iranian competition as Tehran's regional influence declines
 tags: [country, middle-east, military, energy, trade]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -36,6 +36,14 @@ Iraq is the emerging pivot point of the post-Iran-war Middle East, the principal
 
 Iraq's trajectory is therefore central to the evolving balance of power in the [Middle East]({{ site.baseurl }}/regions/middle-east.html).
 
+## The Basra-Aqaba Pipeline and the Hormuz Bypass
+
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) identifies the Basra-Aqaba pipeline as a critical new element in the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html)'s escalation dynamics (July 19, 2026). The pipeline — a 1,600-kilometer, $18 billion project designed to carry 2.25 million barrels per day from southern Iraq to the Red Sea — had been long delayed but was being accelerated after a Washington meeting between Iraq's prime minister and Jordan's foreign minister. The Iran war has cut southern Iraqi exports by approximately 70%, exposing Baghdad's dependence on the Strait of Hormuz and making the bypass pipeline a strategic necessity rather than a commercial option [2].
+
+For Iraq, the pipeline is about security, not profit. Aqaba costs roughly $6 per barrel to route through, versus 60 cents through the Gulf — a tenfold premium that buys insulation from Iranian coercion. Jordan gains transit fees and 150,000 barrels per day for its Zarqa refinery. But [Iran]({{ site.baseurl }}/actors/countries/iran.html) has powerful incentives to target the infrastructure: a functioning Basra-Aqaba pipeline would undercut Iran's "security resistance belt" by creating a permanent alternative outlet for Iraqi oil that bypasses Hormuz entirely. Pape's framework identifies bypass projects like Aqaba as increasingly attractive military targets — not for their immediate economic value but because they challenge Iran's strategy of preserving leverage through control of regional energy chokepoints. The US Embassy in Amman issued an emergency alert for Aqaba's airport and seaport, and air raid sirens went off in Jordan warning of incoming Iranian missiles, demonstrating that Iran is willing to threaten the bypass before it becomes operational [2].
+
 # Citations
 
 [1] [As Iran Declines, Turkey Advances](https://geopoliticalfutures.com/as-iran-declines-turkey-advances/)
+
+[2] [Breaking Analysis #6: Why Aqaba?](https://escalationtrap.substack.com/p/breaking-analysis-6-why-aqaba)

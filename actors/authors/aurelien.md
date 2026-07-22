@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Pseudonymous essayist on geopolitics, conflict theory, and Western institutional decline — critiquing game theory and escalation models, analyzing strategic surprise, and tracing the erosion of Western influence
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -52,6 +52,16 @@ Aurelien traces the erosion of Western influence from its historical roots. The 
 
 The structural problems are compounded by the contemporary West's loss of credibility: "We continue to preach governance although our political systems are collapsing. We continue to try to influence foreign militaries when our own have practically ceased to exist. We offer assistance on combating drug smuggling when parts of Europe have themselves become narco-states." The West is no longer listened to out of respect, but out of nostalgia and habit — and because it still has the money to fund the projects. The deeper problem is the West's "soulless and unappealing liberal-technocratic managerial ideology" competing against states whose elites project "not just competence, but a genuine civilisational ideology" [6].
 
+## The Attrition Paradigm and Western Strategic Failure
+
+Aurelien's essay "And It Goes On" extends his critique of Western strategic thought into the structural domain. He argues that the field of conflict studies has failed to advance in fifty years — experts cannot agree on what "conflict" means, how wars end, or why they start. Cognitive bias drives each discipline to see its preferred causes everywhere: economists find economic causes, diplomats see diplomatic failures, lawyers blame legal disregard. This incoherence circulates simultaneously, producing a confused policy environment where contradictory prescriptions mill about in the same conceptual space [7].
+
+The deeper problem is a ruling class with no military experience or family recollection of conflict. Western political and military elites draw on stereotypes, Hollywood war films, and inherited political folklore rather than substantive knowledge. The "military culture" of both the ruling class and the punditocracy is composed of vaguely recalled history, YouTube documentaries, and bits of the Internet — all given equal epistemological weight [7].
+
+Aurelien identifies attrition warfare as the dominant paradigm [Russia]({{ site.baseurl }}/actors/countries/russia.html) employs in [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) — destroying the adversary's ability to deploy forces by attacking fuel depots, transport links, and infrastructure. He argues the West cannot fight an attrition war because the necessary industrial and engineering infrastructure does not exist and cannot be recreated, irrespective of the technical capability of Western equipment. The military market is so internationalized that Western countries import at least 50% of components and sub-assemblies [7]. See [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
+
+His most provocative claim is that the West has lost agency in both the [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) and [Iran]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) crises. It massively overestimates its capacity to influence how crises evolve, assumes its norms are superior, and claims credit for outcomes it had little influence over. The most likely outcome is prolonged low-level tension suiting adversaries and straining Western cohesion — and it will not be the West that decides when it stops [7]. See [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html).
+
 # Sources in Bundle
 
 - "Upstairs, Downstairs" [1]
@@ -60,6 +70,7 @@ The structural problems are compounded by the contemporary West's loss of credib
 - "While We Were Sleeping" [4]
 - "Don't Expect Respect" [5]
 - (forthcoming: the second part of the Western influence essay) [6]
+- "And It Goes On." [7]
 
 # Citations
 
@@ -74,3 +85,5 @@ The structural problems are compounded by the contemporary West's loss of credib
 [5] [Don't Expect Respect](https://substack.com/@aurelien2022/p-204269398)
 
 [6] Aurelien, "Don't Expect Respect" (second part, forthcoming)
+
+[7] [And It Goes On.](https://aurelien2022.substack.com/p/and-it-goes-on)

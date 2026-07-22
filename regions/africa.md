@@ -5,7 +5,7 @@ parent: Regions
 description: Continent of growing strategic importance; Sahel as insurgency zone, Horn of Africa as maritime chokepoint with emerging rival blocs, and US-China competition along strategic resource corridors.
 tags: [africa, sahel, insurgency, military, drone-warfare, trade, terrorism]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -38,7 +38,15 @@ The US-China competition in Africa is taking shape along strategic resource corr
 
 [Aurelien]({{ site.baseurl }}/actors/authors/aurelien.html) traces the decline of Western influence in Africa from its historical roots. The missionary and colonial era was characterized by seriousness, long-term commitment, and moral purpose — educators and administrators spent lifetimes in-country and built institutions (e.g., Fort Hare University, founded by missionaries in 1916, educated Mandela, Kaunda, Mugabe, Nyerere, Khama). The post-independence aid industry, by contrast, is characterized by short rotations, performative projects, mind-numbing bureaucracy, and a self-sustaining consultancy class. The West continues to preach governance while its own political systems collapse, and to offer assistance it can no longer credibly deliver. The result is an influence that persists only through money, not respect [5].
 
-## Demographics and Migration
+## EU-Africa Critical Minerals Partnerships
+
+Kaupenjohann (SWP) positions [Africa]({{ site.baseurl }}/regions/africa.html) as the indispensable partner in Europe's critical minerals diversification strategy. The continent holds roughly 30% of global reserves across copper, cobalt, platinum group metals, manganese, bauxite, and lithium — a geological endowment that makes it the natural counterweight to [China]({{ site.baseurl }}/actors/countries/china.html)'s concentrated midstream dominance. African governments are simultaneously pursuing an industrial policy agenda: imposing export restrictions on unprocessed minerals, enacting local-content requirements, and pushing for downstream processing to capture more value added domestically. This mirrors the resource nationalism trend documented above but carries a distinct strategic dimension — it aligns African industrialization ambitions with European supply security needs [16].
+
+The [EU]({{ site.baseurl }}/actors/organizations/eu.html) Global Gateway framework provides the institutional architecture for this partnership, linking European critical minerals demand with African industrial development through long-term offtake agreements, joint ventures, and project financing. European companies can contribute engineering expertise, equipment, and technical know-how to build African downstream industries. The strategic logic is one of mutual dependency reduction: both sides want to decrease concentration risk in critical mineral value chains, and the "partnership among equals" framing reflects an economic imperative, not merely political rhetoric — the status quo of supply concentration is too risky for both parties to sustain [16].
+
+The competitive landscape, however, is daunting. Building competitive processing capacity takes longer than a legislative cycle, demands enormous capital, and faces entrenched Chinese competition. The copper sector illustrates the challenge: Chinese smelting capacity has expanded faster than global concentrate supply, driving treatment and refining charges into negative territory in 2025 — smelters paying miners for concentrate to maintain throughput. New African smelters entering this market must compete with operations that have already achieved economies of scale and operate at negative margins to defend market share. Africa's infrastructure deficit in energy and transport further compounds the difficulty, making the timeline for meaningful downstream capacity realistic only on a decade-plus horizon [16].
+
+# Key Dynamics
 
 Labour and education migration from sub-Saharan Africa to [Germany]({{ site.baseurl }}/actors/countries/germany.html) is growing: visa applications for employment from African countries nearly quadrupled between 2019 and 2025 (from ~7,860 to 29,415). Kenya, Ghana, and Cameroon are emerging corridors. By 2050, Africa will account for ~25% of the global working-age population, while European populations shrink — creating a structural demographic complementarity that policy has barely begun to address [8]. [The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) identifies Africa's duality as both risk and opportunity: the continent leads the world in terrorist-related casualties (more than half of global fatalities in the [Sahel]({{ site.baseurl }}/conflicts/sahel-insurgency.html)), with weak health systems that can turn outbreaks into global threats. But Africa has outperformed global growth by 0.5-1.5 percentage points since 2000, is on track to outpace the world in merchandise import growth during 2026, and its working-age population will rise from ~850 million to over 1.5 billion by 2050 — accounting for 85% of the global workforce increase. The US, below replacement fertility for nearly two decades (1.6 in 2024), and [Mexico]({{ site.baseurl }}/regions/latin-america.html) below replacement for a decade (1.9 in 2024), will increasingly need Africa as a source of workers. 60 countries are set to shrink in population this year alone, including [China]({{ site.baseurl }}/actors/countries/china.html), [Germany]({{ site.baseurl }}/actors/countries/germany.html), [Japan]({{ site.baseurl }}/actors/countries/japan.html), [Italy]({{ site.baseurl }}/regions/europe.html), [Russia]({{ site.baseurl }}/actors/countries/russia.html), [Spain]({{ site.baseurl }}/regions/europe.html), and [South Korea]({{ site.baseurl }}/regions/indo-pacific.html) [9].
 
@@ -92,3 +100,5 @@ Knapp and Koch ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) extend the ro
 [14] [Anti-Migrationsproteste in Südafrika: Wahlkampf auf dem Rücken der Schwächsten](https://www.swp-berlin.org/publikation/mta-spot77-anti-migrationsproteste-in-suedafrika)
 
 [15] [Migrationsrouten im Fokus](https://www.swp-berlin.org/publikation/migrationsrouten-im-fokus)
+
+[16] [Critical Minerals Will Reshape European-African Relations](https://www.swp-berlin.org/publikation/mta-spot77-critical-minerals-will-reshape-european-african-relations)

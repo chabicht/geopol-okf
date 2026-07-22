@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: National security and intelligence-focused analytical publication featuring expert commentary from former officials — covering AI military competition, intelligence community reform, China strategic rivalry, Endless Warfare framework, and cognitive warfare
 tags: [author, news]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -66,6 +66,18 @@ Hamlet Yousef argues that Cold War 2.0 will be won as much in boardrooms, factor
 
 Pete Newell — retired Army colonel, former director of the Army's Rapid Equipping Force, and co-creator of Hacking for Defense — argues that the Department of War's ambitious acquisition reform has improved the middle phases of innovation while leaving three of six phases with no organizational owner. Successful innovation runs in six phases: detect, define, develop, deploy, assess, distribute. The reforms invested almost entirely in develop and deploy; nobody persistently monitors how the threat evolves at the tactical edge, nobody scopes each unit's problem with enough precision to drive useful solutions, nobody measures whether fielded systems actually work against an adapting adversary, and nobody moves what one unit learns to every other unit at operational speed. The department built a faster engine; nobody built the steering. The counter-drone fight is the clearest test case: soldiers engage FPV [drones]({{ site.baseurl }}/themes/drone-warfare.html) that cost a few hundred dollars with $400,000 Stinger missiles because cheap interceptors proven in [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) still have no fast path into US formations. The problem is a cycle-time gap, not a technology gap — "Drones are IEDs that fly." The adversary does not need to out-technology the US; he only needs to out-cycle it. The full analysis is dissolved into [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) and [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) [11].
 
+## The $1.5 Trillion Defense Budget Without a Strategy
+
+A Brookings Institution panel featuring Todd Harrison (AEI), David Wessel (Brookings), and Mara Karlin (SAIS) dissected the [Trump]({{ site.baseurl }}/actors/trump.html) administration's FY 2027 defense request — $1.15 trillion plus $350 billion in reconciliation and a $67 billion supplemental — and found it budget-driven rather than strategy-driven. Harrison's central critique: the $1.5 trillion total was set by an arbitrary 5% of GDP target declared on Truth Social, and the Pentagon was told at the last minute to fill the number. With a virtually unlimited budget, no hard tradeoffs were required — fourth-generation F-15s, fifth-generation F-35s, and sixth-generation fighters were all funded simultaneously. Harrison suggested the reconciliation money may function as a five-year pre-funding mechanism rather than a single-year spend [12].
+
+Harrison identified two line items as emblematic of the absence of strategic discipline. The $54 billion Defense Autonomous Warfare Group (DAWG) — a single program element with virtually no programmatic detail, no quantities, no specific drone types, and no defined use cases — represents a 243x increase over the prior year and exceeds the entire [US Marine Corps]({{ site.baseurl }}/actors/countries/united-states.html) budget. The battleship program — proposing to go from clean-sheet design in FY 2027 to full-rate production at one per year by FY 2031 — "doesn't pass the laugh test." Both appear to be filler to reach the $1.5 trillion target, with the administration likely expecting Congress to cut them back [12].
+
+Wessel framed the budget against America's unsustainable fiscal trajectory, arguing that budgeting is about tradeoffs the administration and Congress are avoiding — neither cutting elsewhere nor raising taxes. He raised two further concerns: public trust that the money is well spent depends on congressional oversight, and the politicization of the military under Secretary Hegseth's personnel decisions is eroding the nonpartisan norm that underpins that trust [12].
+
+Karlin identified the central paradox: the Trump national strategy prioritizes the Western Hemisphere and alleged narco-terrorists, mentions [China]({{ site.baseurl }}/actors/countries/china.html) only in a circumscribed way (first island chain), downgrades European involvement, and signals no appetite for Middle East conflict — yet the budget is at World War levels. If the strategy were taken at face value, a quite small defense budget would suffice. The $1.5 trillion number is not merited by the strategy as written, leaving what Karlin called "a bit of perplexity" [12].
+
+Harrison concluded by calling for fundamental congressional budget-process reform — changing the fiscal year start date, re-jiggering committee structure — comparing the moment to the early 1970s when Congress recognized the system was no longer working. The full analysis is dissolved into [Trump]({{ site.baseurl }}/actors/trump.html) and [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) [12].
+
 # Sources in Bundle
 
 - "The AI Race Won't Be Won by the Best Model — But by the Fastest Military" [1]
@@ -79,6 +91,7 @@ Pete Newell — retired Army colonel, former director of the Army's Rapid Equipp
 - "Ankara's Charm Offensive Should Not Buy Back the F-35" [9]
 - "Cold War 2.0 Will Be Won by Private Capital" [10]
 - "The Pentagon Built a Faster Engine, Nobody Built the Steering" [11]
+- "The $1.5 Trillion Defense Budget Without a Strategy" [12]
 
 # Citations
 
@@ -103,3 +116,5 @@ Pete Newell — retired Army colonel, former director of the Army's Rapid Equipp
 [10] [Cold War 2.0 Will Be Won by Private Capital](https://www.thecipherbrief.com/cold-war-2-0-will-be-won-by-private-capital)
 
 [11] [The Pentagon Built a Faster Engine, Nobody Built the Steering](https://www.thecipherbrief.com/the-pentagon-built-a-faster-engine-nobody-built-the-steering)
+
+[12] [The $1.5 Trillion Defense Budget Without a Strategy](https://www.thecipherbrief.com/the-1-5-trillion-defense-budget-without-a-strategy)

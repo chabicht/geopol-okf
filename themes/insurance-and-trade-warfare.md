@@ -10,7 +10,7 @@ tags:
   - supply-chain
   - naval
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -61,6 +61,32 @@ The emergence of two parallel insurance systems — a Western, regulated, transp
 
 This bifurcation connects directly to the [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html): as the insurance infrastructure fragments along geopolitical lines, the cost of maintaining parallel systems rises, and the efficiency of global trade declines. Resilience is replacing efficiency as the organizing principle — but resilience is expensive, and the cost is distributed unevenly across the global economy [1].
 
+## Rising Costs: The New Hormuz Blockade
+
+Colibasanu reports that by mid-July 2026, the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) had entered a new phase of maritime disruption. Since July 7, suspected Iranian attacks damaged three tankers in or near the Strait, and Trump's July 14 declaration that passage was open to all except Iran-linked vessels failed to reverse the contraction. AIS data showed only 9 commercial transits on July 15 (down from 13 the previous day) and just 4 by July 19. The operational environment is characterized by a "fog of war": vessels transiting with AIS transponders disabled, the US coordinating nighttime operations with lights dimmed, making the true volume of traffic opaque to market participants [2].
+
+The war-risk insurance market reflects this opacity. GPF data show premiums rising from roughly 2% of vessel value to nearly 3% by July 8, then escalating to 3-10% by July 17 according to Marsh brokerage — as much as 40 times the prewar rate. Existing coverage may be canceled, repriced, or replaced through short-term buyback arrangements, tightening the voyage-by-voyage underwriting regime documented earlier in this concept. VLCC daily earnings inside the Gulf hit a record of approximately $470,000; outside Hormuz, hiring costs rose from ~$106,500 to $190,500 per day within a single week. Ships are stranded or withheld, cargoes delayed, and working-capital requirements surging — with the tonnage shortage now affecting routes far from the Gulf. The war-risk market's opacity compounds the pricing problem: with vessels transiting dark and insurers unable to verify transit safety in real time, underwriting decisions are made on incomplete information, further inflating premiums [2].
+
+## S5 Domain: Simultaneous Maritime Interdictions
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html)'s Day 144 diagnostic places the Global Supply Chain Fracture domain (S5) at RUPTURE, upgraded from critical. The upgrade was driven by the simultaneity of three distinct maritime interdictions: the Hormuz dual blockade (US naval blockade on [Iran]({{ site.baseurl }}/actors/countries/iran.html) ports and Iranian chokepoint control over the strait), the Houthi blockade of [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) in the [Red Sea]({{ site.baseurl }}/regions/red-sea.html), and the loss of [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html)'s Black Sea grain route. The Yanbu diversion — [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) redirecting oil through its Red Sea pipeline — confirms a contested bypass architecture in which alternative routes are themselves within range of disruption [3].
+
+The simultaneity is the defining structural feature. Previous crises involved disruption at one chokepoint at a time; the Day 144 diagnostic records three concurrent interdictions across three geographically distinct maritime corridors, each operating through different mechanisms (state naval blockade, non-state proxy blockade, and war-driven route loss). For the insurance and trade warfare framework, this means that the voyage-by-voyage underwriting regime documented above now operates across three simultaneous high-risk zones rather than one, multiplying the coverage gap and accelerating the shift toward state-backed insurance architectures as private markets withdraw from all three corridors simultaneously [3].
+
+## Section 338 Tariffs and the Costs of Economic Coercion
+
+Luck demonstrates that the costs of economic coercion extend far beyond tariff pass-through. Trump's Section 338 tariffs on approximately $20 billion in Canadian imports generated roughly $9.9 billion in tariff revenue, but for every dollar collected, US border workers absorbed 5–10 cents in lost wages. The Canadian visitor decline cost 10,000–30,000 leisure and hospitality jobs in border communities and $0.5–1 billion per year in lost wages. The US Travel Association estimated the Canadian decline cost the US economy $5.7 billion in travel spending in 2025. Kurmann et al. independently found 14,000–42,000 jobs lost at small retail and leisure establishments, concentrated in fewer than 3% of US ZIP codes, with lower-income and Democratic-leaning areas hardest hit. The consumer boycott persisted after tariff adjustments — land crossings remained roughly 20% below 2024 levels in March–April 2026. Luck's central insight is that consumer boycotts are not state action: state-to-state economic statecraft cannot reliably dictate citizen behavior, and "the coercer pays too" through both game-theoretic dynamics and independent citizen choices. Credibility and consumer trust do not recover on the schedule of trade negotiations — a structural feature of coercion that insurance and risk frameworks must account for but cannot price [4].
+
+Gundermann, Grant-Chapman, and Marroquín Bitar analyze Section 338 as a trade weapon targeting USMCA-compliant goods. The $20.2 billion in targeted goods represents 4.9% of total US imports from Canada (2024), across three proclamations on alcoholic beverages, motor vehicles, and dairy. The tariffs apply regardless of USMCA compliance status, undermining the credibility of trade agreements as risk-mitigating instruments. If agreements can be overridden by dormant statutes at presidential discretion, the insurance value of trade commitments erodes — a dynamic parallel to the erosion of US security guarantees documented in the Hormuz context. Legal questions about Section 338 — unclear ITC monitoring role, possible implicit repeal, likely WTO violations — compound the uncertainty. Sustained threats had the opposite effect on Canada compared to Mexico's conciliatory posture, suggesting that coercion can be counterproductive as a negotiating tool. The action raises fundamental uncertainty about US willingness to abide by trade-agreement terms, a risk that private insurance markets cannot absorb and that reverberates across the broader trade-warfare landscape. See [USMCA Renegotiation 2026]({{ site.baseurl }}/events/usmca-renegotiation-2026.html), [Trump]({{ site.baseurl }}/actors/trump.html), [United States]({{ site.baseurl }}/actors/countries/united-states.html), and [Canada]({{ site.baseurl }}/actors/countries/canada.html) [5].
+
 # Citations
 
 [1] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
+
+[2] [Rising Costs from the New Hormuz Blockade](https://geopoliticalfutures.com/rising-costs-from-the-new-hormuz-blockade/)
+
+[3] [Global System Rupture](https://substack.com/@velinatchakarova/p-207969383)
+
+[4] [Elbows Up: The Price of Economic Coercion Against Canada](https://www.csis.org/analysis/elbows-price-economic-coercion-against-canada)
+
+[5] [Understanding President Trump's New Tariffs on Canadian Imports](https://www.csis.org/analysis/understanding-president-trumps-new-tariffs-canadian-imports)

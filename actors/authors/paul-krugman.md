@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Economist and columnist — tracking oligarchic capture of US government, the social democracy vs socialism distinction, corruption as the through-line of Trump's second term, the oligarchy spiral via corporate tax cuts, the refining capacity constraint on energy prices, and election interference as the endgame of foreign policy failure
 tags: [author, opinion, economics, oligarchy, energy]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -64,6 +64,14 @@ Khan's February 2025 *Times* op-ed "Stop Worshiping the American Tech Giants" fr
 
 The Trump administration's AI policy embodies the national-champions risk. The CEOs of the major technology companies have made currying favor with the White House a top business priority, and there is a very serious risk of regulatory capture — rules favoring the biggest, most powerful incumbents at the expense of startups and newer firms that may have better ideas. The empirical evidence on the Schumpeter-Arrow debate shows that monopolies can be good at incremental improvements but the breakthrough, paradigm-shifting innovations have come from outsiders and competitive markets. The fundamental breakthrough that made modern AI possible came from Google — which did nothing with it until people left and brought it to other places. "Openness and competition have been such a key driver of American innovation and market growth" [8]. See [Tech Stack Diplomacy]({{ site.baseurl }}/themes/tech-stack-diplomacy.html) and [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html).
 
+## Trump's Section 338 Tariffs: Smoot-Hawley Revisited
+
+Krugman analyzes [Trump]({{ site.baseurl }}/actors/trump.html)'s 50% tariffs on Canadian goods — imposed via Section 338 of the Smoot-Hawley Trade Act, an obscure provision never before used — as a USMCA-violating temper tantrum with no strategic logic. The White House framed the tariffs as retaliation for Canadian provincial alcohol bans, but those bans were themselves responses to Trump's earlier tariffs and his demands that Canada become the 51st state. Trump also floated wildfire smoke as a pretext, which Krugman calls "unutterably idiotic" given that Canada's boreal forest covers roughly 2 million square miles of mostly inaccessible, unmanaged terrain. The tariffs explicitly override USMCA origin rules — "regardless of whether a good originates under the USMCA" — confirming that a deal with Trump lasts only until he feels like breaking it, a conclusion already reached by the European Commission and Iran's IRGC. Krugman situates the action within the historical arc from Smoot-Hawley (recognized as a mistake soon after passage, leading to the 1934 Reciprocal Trade Agreements Act) to Trump's "Liberation Day" tariffs, arguing that Section 338's invocation adds a new dimension to what was already the worst trade policy in US history. Canada was America's closest ally; Canadians now view the US less favorably than [China]({{ site.baseurl }}/actors/countries/china.html). The immediate economic impact is limited — the auto industry is exempt — but the action puts all cross-border commerce on notice that flows may be cut off whenever Trump has a tantrum. See [USMCA Renegotiation 2026]({{ site.baseurl }}/events/usmca-renegotiation-2026.html). [10]
+
+## Oligarchy and the Media as the Fundamental Story
+
+Krugman argues that the oligarchic takeover of US media is the fundamental story of our time — not a hidden conspiracy but an open seizure. He identifies three escalating levels of capture. First, campaign finance: a *New York Times* analysis found that roughly 20% of all 2024 campaign contributions came from just 300 billionaires and their families, who are more targeted and strategic than average donors. Second, direct corruption: buying politicians openly with cash and crypto — billions thrown at the president and his family — in a shift from the discreet, indirect methods of the past to blatant transaction. Third, shaping the information space: billionaire acquisition of major media institutions (the Ellison family acquiring CBS and hiring Bari Weiss to reshape it, attempting a Warner/CNN takeover; Musk transforming Twitter/X and tilting its algorithm toward right-wing content; Zuckerberg tilting Facebook; Bezos shifting the *Washington Post* editorial policy hard right and eviscerating its news division), the funding of zombie ideas (tax cuts pay for themselves), and the sponsorship of climate disinformation — Krugman notes that 100% of skeptical studies have fossil fuel backing. The objective across all three levels is not profit but influence. His conclusion: the only durable solution is reducing wealth concentration at the top, because as Woodrow Wilson observed, "If there are men big enough to own the government, they're going to own the government." Oligarchy is not the root of all evil, but it is the root of a lot of it. [9]
+
 # Recurring Themes
 
 - Oligarchic capture of US regulatory and political institutions
@@ -86,6 +94,8 @@ The Trump administration's AI policy embodies the national-champions risk. The C
 - "Democracy in an Age of Powermaxxing" [6]
 - "Trump Can't Get No Respect" [7]
 - "Lina Khan on AI and More" [8]
+- "Oligarchy and the Media" [9]
+- "Oy, Canada Tariffs" [10]
 
 # Citations
 
@@ -104,3 +114,7 @@ The Trump administration's AI policy embodies the national-champions risk. The C
 [7] [Trump Can't Get No Respect](https://paulkrugman.substack.com/p/trump-cant-get-no-respect)
 
 [8] [Lina Khan on AI and More](https://paulkrugman.substack.com/p/lina-khan-on-ai-and-more)
+
+[9] [Oligarchy and the Media](https://paulkrugman.substack.com/p/oligarchy-and-the-media)
+
+[10] [Oy, Canada Tariffs](https://paulkrugman.substack.com/p/oy-canada-tariffs)

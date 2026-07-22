@@ -2,10 +2,10 @@
 type: Actor
 title: CSIS
 parent: Authors & Analysts
-description: Center for Strategic and International Studies — defense and security analysis producing data-driven assessments of the Russia-Ukraine War, military capabilities, great power competition, war cost estimation, and cyber threat ecosystems
+description: Center for Strategic and International Studies — defense and security analysis producing data-driven assessments of the Russia-Ukraine War, military capabilities, great power competition, war cost estimation, cyber threat ecosystems, Indo-Pacific security dynamics, and economic statecraft
 tags: [author, news, cyber]
 status: ongoing
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -34,11 +34,31 @@ Nikita Shah and Justin Sherman (CSIS) provide a nuanced assessment of Russia-Ira
 
 Mark Cancian and Chris Park (CSIS) produce detailed breakdowns of US war costs, comparing administration supplemental requests against independent CSIS estimates. Their methodology categorizes spending into war costs, nonwar national security activities, and unrelated activities — revealing how supplemental requests bundle unrelated priorities with genuine war costs. Their Iran war cost estimate ($35.2–$42.5B) provides a benchmark against both administration figures ($32.7B) and speculative trillion-dollar estimates [3].
 
+## China-Russia Military Coordination and Short-of-War Pressure
+
+Riho Aizawa (NIDS research fellow), writing for CSIS's Strategic Japan initiative, examines how China-Russia joint strategic bomber flights have become an operational challenge for Japan. The December 2025 flight demonstrated qualitative changes: timing aligned with China's political interests rather than occurring on a routine schedule, and a more coercive route vectoring toward Tokyo. Aizawa argues that under sustained short-of-war pressure, the boundary between deterrence and compellence blurs, complicating allied response frameworks. She recommends the US-Japan alliance develop a shared threat perception and examine compellence options [4].
+
+## CRINK: Coalition in the Making?
+
+Chikako Kawakatsu Ueki (Waseda professor), also via Strategic Japan, argues CRINK is not yet a strategic coalition — China does not treat it as a group, and cooperation remains bilateral. China faces competing strategic objectives: positioning as a Global South champion while participating in an upheaval coalition. Ueki draws Iran war lessons for the Indo-Pacific: shipping disruption, US force relocation, munitions depletion (including Tomahawk delivery delays to Japan), and a drone production imbalance favoring adversaries. She recommends against treating CRINK as a monolith, developing per-country strategies, and revisiting liberal deterrence [5].
+
+## The Costs of Economic Coercion Against Canada
+
+Philip Luck (CSIS Economics Program director) quantifies the costs of Trump's tariff coercion against Canada: 10,000–30,000 border community jobs lost, $0.5–1B/year in lost wages, and a $5.7B travel spending decline. A key finding is that consumer boycott behavior persisted beyond tariff adjustments, demonstrating that "the coercer pays too" — citizen behavior cannot be dictated by state-to-state economic statecraft [6].
+
+## Section 338 Tariff Legal Analysis
+
+CSIS Economics Program and Americas Program fellows (Gundermann, Grant-Chapman, Marroquín Bitar) provide legal and trade analysis of the first presidential use of Section 338 of the Tariff Act of 1930. Three proclamations targeted alcohol, autos, and dairy — $20.2B in goods, representing 4.9% of US imports from Canada. The analysis flags unresolved legal questions around the ITC's role, implicit repeal of existing trade obligations, and WTO compatibility. The tariffs function as leverage to force Canada into USMCA review negotiations [7].
+
 # Sources in Bundle
 
 - "Russian Blood and Treasure: The Ballooning Costs of Putin's War" [1]
 - "Understanding Russia-Iran Collaboration in Cyberspace" [2]
 - "War Costs Make Up a Third of the $87.6 Billion Supplemental Request" [3]
+- "Beyond Deterrence: Evolving China-Russia Military Coordination and the U.S.-Japan Alliance" [4]
+- "China and CRINK: Implications for Japan and the United States" [5]
+- "Elbows Up: The Price of Economic Coercion Against Canada" [6]
+- "Understanding President Trump's New Tariffs on Canadian Imports" [7]
 
 # Citations
 
@@ -47,3 +67,11 @@ Mark Cancian and Chris Park (CSIS) produce detailed breakdowns of US war costs, 
 [2] [Understanding Russia-Iran Collaboration in Cyberspace](https://www.csis.org/analysis/understanding-russia-iran-collaboration-cyberspace)
 
 [3] [War Costs Make Up a Third of the $87.6 Billion Supplemental Request](https://www.csis.org/analysis/war-costs-make-third-876-billion-supplemental-request)
+
+[4] [Beyond Deterrence: Evolving China-Russia Military Coordination and the U.S.-Japan Alliance](https://www.csis.org/analysis/beyond-deterrence-evolving-china-russia-military-coordination-and-us-japan-alliance)
+
+[5] [China and CRINK: Implications for Japan and the United States](https://www.csis.org/analysis/china-and-crink-implications-japan-and-united-states)
+
+[6] [Elbows Up: The Price of Economic Coercion Against Canada](https://www.csis.org/analysis/elbows-price-economic-coercion-against-canada)
+
+[7] [Understanding President Trump's New Tariffs on Canadian Imports](https://www.csis.org/analysis/understanding-president-trumps-new-tariffs-canadian-imports)

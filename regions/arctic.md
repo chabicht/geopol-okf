@@ -5,7 +5,7 @@ parent: Regions
 description: Strategic theater where digital sovereignty, submarine cable infrastructure, and great power competition converge — EU updating its Arctic strategy as Russia suspends cooperation and Trump claims Greenland
 tags: [europe, naval, military, technology, supply-chain, trade]
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -54,6 +54,22 @@ The Nordic countries (Norway, Sweden, Finland) stand to benefit significantly fr
 - **Hybrid threats**: The Baltic Sea region's hybrid threat environment elevates the strategic significance of Arctic infrastructure protection.
 - **Climate research**: The Arctic Ocean is significant for climate change but under-researched. Cable sensor systems could deliver data for geology, seismology, oceanography, and marine biology.
 
+# Analysis
+
+## The White Water Zone Concept
+
+Helge Adrians (SWP) argues that cold seas constitute a distinct operational space that existing maritime taxonomies fail to capture. The conventional US framework divides maritime space into blue water (high seas), green water (EEZs), and brown water (territorial waters), but none of these categories account for the environmental extremities of cold-water operations — ice, prolonged darkness, violent weather, and equipment fragility at low temperatures. Adrians proposes "white water zone" as a fourth category, arguing that recent debates over control of Greenland illustrate why cold waters require separate conceptual treatment. The concept would fill a doctrinal gap, support capability planning, enable systematic operationalization, justify political investment, and prove applicable beyond the Arctic to the Antarctic [2].
+
+Three competing visions of Arctic strategic order underpin the current competition. Russia frames the Arctic as an integrated strategic space subject to consolidated sovereignty, drawing on a near-seas/far-seas hierarchy within its broader "world ocean" concept. The United States and most European states seek to preserve a rules-based maritime order emphasizing open access and constraints on militarization — but this camp is not uniform, as Canada's sovereignty-oriented claim over the Northwest Passage diverges from the open-access position. China, self-identifying as a "near-Arctic state," pursues access to Arctic resources, shipping routes, and scientific opportunities without claiming territorial prerogatives [2].
+
+Russian Arctic militarization carries a deep Soviet legacy. During the Cold War, the Arctic served as a forward strategic space for naval operations, nuclear deterrence, and early warning systems. After collapsing in the post-1991 disorder, this infrastructure has been systematically reactivated and modernized under Putin since the early 2000s, creating a strategic reality that existing maritime frameworks cannot adequately describe. Much of the competition unfolds below the threshold of conventional confrontation — fishing rights disputes, non-military maritime forces enforcing claims, and constabulary pressures rather than outright naval standoff [2].
+
+Fleet design for cold waters exposes a fundamental Western weakness. Blue-water platforms are structurally insufficient for white-water operations: cold-sea missions proceed slowly and depend on environmental resilience rather than force scale. Warships require reinforced hulls, protected propulsion systems, redundant engineering, increased storage capacity, and extreme-weather life-saving equipment. Adrians identifies a Western preference for efficiency over effectiveness — cold-water operations remain exceptional missions rather than sustained capabilities, leaving a structural gap that peacetime optimization has widened rather than closed [2].
+
+The sustainable capabilities gap is acute. Although NATO has increased Arctic military activity to counter Russia and the Arctic has evolved from a peripheral concern to a permanent operational environment, institutionalized cold-water expertise resides almost exclusively in Canada, Denmark, and Norway — insufficient for comprehensive defense. The fisheries dimension remains underappreciated, particularly in the Barents Sea, where Chinese distant-water fishing fleets may expand their presence. Most Western coast guards lack the capability for sustained cold-weather constabulary operations, and the challenge demands constabulary as well as naval capabilities. Adrians proposes doctrinal standardization best achieved through the US Navy, beginning with revision of the 1988 Cold Weather Handbook for Surface Ships, incorporating allied experience with Germany playing an active role, and extending cooperation to Japan for Arctic–North Pacific defense integration [2].
+
 # Citations
 
 [1] [Die neue Arktisstrategie der EU](https://www.swp-berlin.org/publikation/die-neue-arktisstrategie-der-eu-chancen-fuer-europas-digitale-souveraenitaet)
+
+[2] [Defining the White Water Zone: Cold Seas as a Distinct Category for the Operational Ordering of Maritime Domain](https://www.swp-berlin.org/en/swp/working-groups/reordering-european-security)

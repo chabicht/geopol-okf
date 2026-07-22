@@ -5,7 +5,7 @@ parent: Countries
 description: Gulf monarchy whose $270B in FX reserves, swap-line request, and solar ambitions expose the cracking petrodollar system; pursuing AI partnerships with the US while competing for influence in the Horn of Africa
 tags: [country, energy, trade, middle-east, ai, technology, africa]
 status: ongoing
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -40,6 +40,14 @@ The UAE is pursuing AI partnerships with the [United States]({{ site.baseurl }}/
 
 The UAE occupies a structurally ambiguous position in the [global system rupture]({{ site.baseurl }}/themes/global-system-rupture.html). Its financial reserves and geographic location make it indispensable to both sides of the US-Iran conflict, but its inability to choose a side definitively means it is exposed to pressure from all directions. The swap-line request is the clearest signal that the monetary system underpinning Gulf security is under stress — the petrodollar architecture is not collapsing but cracking, and the UAE is at the fault line [1].
 
+## Ukraine Defense Partnership
+
+Ryvkin (GPF) reports that the UAE signed a 10-year agreement with [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) covering counter-drone technology, air defense, cybersecurity, joint production, and training. Ukrainian military experts were deployed to the UAE to assist with drone defense against Iranian threats. The UAE serves as a primary recipient of Ukraine's counter-drone solutions — positioned as a cost-effective alternative to million-dollar interceptor missiles for Gulf states facing Iranian drone threats. The agreement includes UAE investment in Ukraine's defense industry [5]. See [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html).
+
+## UAE Alone in Doubling Down on US Support
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) reports that the UAE is alone among Gulf states in doubling down on US support while the rest of the GCC wavers. As Iran's "sideways escalation" strategy strikes infrastructure across Qatar, Bahrain, Kuwait, Jordan, Oman, and Saudi Arabia, the remaining Gulf states are having serious doubts about the value of the US security guarantee. The UAE's outlier posture — maintaining and deepening its alignment with Washington even as allies hedge — reflects either confidence in US staying power or a calculation that the UAE's specific vulnerabilities (financial hub status, AI partnerships) make alignment the safer bet. The divergence within the GCC is itself a strategic outcome Iran's sideways escalation is designed to produce [6]. See [Middle East]({{ site.baseurl }}/regions/middle-east.html) and [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html).
+
 # Citations
 
 [1] [Operation Epic Folly(Fury) — Part 9: Gold, The UAE, Currency Swap Lines and the Petrodollar](https://endtropy.substack.com/p/operation-epic-follyfury-part-9-gold)
@@ -49,3 +57,7 @@ The UAE occupies a structurally ambiguous position in the [global system rupture
 [3] [Competition in the Horn of Africa Heats Up](https://geopoliticalfutures.com/competition-in-the-horn-of-africa-heats-up/)
 
 [4] [Tech Stack Diplomacy: Policy Implications of the U.S. AI Export Strategy](https://newlinesinstitute.org/tech-econ-sov-sec/tech-stack-diplomacy-policy/)
+
+[5] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/
+
+[6] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)

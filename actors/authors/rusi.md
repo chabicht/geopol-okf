@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Royal United Services Institute — UK defense and security think tank producing analysis on NATO strategy, asymmetric warfare, defense industrial capacity, sanctions, and Indo-Pacific security
 tags: [author, news]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -60,6 +60,14 @@ RUSI (Jim McLean) analyses [Ukraine]({{ site.baseurl }}/actors/countries/ukraine
 
 Antonio Giustozzi (RUSI) analyses the European Union's engagement with the Taliban as a case of migration-driven externalization overriding values-based conditionality. The framework traces a process underway since 2022 — the EU Delegation re-opened in Kabul in January 2022, informal talks in Doha and the UAE have continued since 2021 — culminating in the June 2026 Taliban delegation visit to Brussels and [Germany]({{ site.baseurl }}/actors/countries/germany.html)'s handover of the Bonn consulate and Berlin embassy to Taliban-appointed representatives. The Taliban offered to cooperate on returns in exchange for consular transfer — a step short of formal recognition but a major normalization move. The framework's structural argument: the Taliban hold the stronger negotiating position because the migration issue is unsustainable. Hundreds of thousands of Afghans live in Europe without legal status; hundreds of thousands more are in [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) seeking to enter Europe; the closure of Afghan consulates has produced a surge in fake identity documents. Critics of engagement offer no alternative other than maintaining an unsustainable status quo that member states are already undermining through bilateral arrangements. The case demonstrates that migration pressure is sufficient to override human-rights conditionality and that externalization extends to engagement with regimes whose values are diametrically opposed to European constitutional norms. See [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html) and [Afghanistan]({{ site.baseurl }}/actors/countries/afghanistan.html) [11].
 
+## Japan's Ambivalent Russia Policy
+
+James Brown (RUSI) identifies a structural split within Japan's Liberal Democratic Party that explains [Japan]({{ site.baseurl }}/actors/countries/japan.html)'s ambivalent [Russia]({{ site.baseurl }}/actors/countries/russia.html) policy. Two competing approaches coexist within the ruling party: the Abe approach (seeking to drive a wedge between Russia and [China]({{ site.baseurl }}/actors/countries/china.html) through closer relations with Moscow, exemplified by 27 Abe-Putin meetings and Japanese investment in Arctic LNG-2) and the Kishida approach (treating Russian aggression in [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) as directly threatening Japanese security — "Ukraine today may be East Asia tomorrow"). PM Takaichi's inaction has given advocates of Abe's reengagement agenda a green light while the inherited sanctions and support mechanisms continue. The framework identifies the key figures sustaining the Abe vision (Suzuki Muneo, Imai Takaya, Abe Akie) and the specific reengagement events (LDP politicians at the Russian embassy, METI business delegation to Moscow, resumption of foreign-minister contacts). The framework also identifies the structural factors limiting rapprochement: Russia's joint patrols with China near Japan, military technology sharing with North Korea, and Moscow's overplayed diplomatic demands (Zakharova's preconditions effectively foreclosing the opening). Japan-Ukraine defense cooperation is intensifying despite Takaichi's ambivalence — Ukrainian drone expertise is relevant to Japan's SHIELD coastal defense system, and Zelenskyy raised the prospect of Mitsubishi Heavy Industries Patriot coproduction in Ukraine. See [Japan]({{ site.baseurl }}/actors/countries/japan.html) and [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html) [12].
+
+## Fedorov: Reform vs General Staff
+
+RUSI (Jim McLean) provides the most detailed reconstruction of the institutional conflict behind the [Fedorov dismissal]({{ site.baseurl }}/events/fedorov-dismissal-2026.html) in [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html). The framework identifies three lines of reform: brigade consolidation (auditing 120 brigades, reallocating personnel from the sixth that suffered from poor leadership), Army Corps strengthening (collocating brigades distributed in non-contiguous geography to enable rotation), and technology-enabled casualty reduction (empowering commanders who leveraged technology to accomplish combat tasks at lower cost). The framework documents General Syrskyi's systematic obstruction of each line: establishing new brigades instead of consolidating, splitting best units across opposite ends of the front, and prioritising personnel for 425 Assault Regiment's human-centric attacks while stripping equipment from innovative formations. The framework frames the conflict as a substantive debate about civilian control of the military — whether a reform mandate from Parliament can override military command autonomy — and about the character of the Ukrainian state. Zelensky removed Fedorov but did not side with Syrskyi on substance, directing that the reforms continue. The conscription reform question remains: Fedorov identified that the problem was not recruitment volume but training, personnel management, and corruption. See [Fedorov Dismissal (July 2026)]({{ site.baseurl }}/events/fedorov-dismissal-2026.html), [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html), and [Zelensky]({{ site.baseurl }}/actors/zelensky.html) [13].
+
 # Sources in Bundle
 
 - "Cheap Attack, Expensive Defence: NATO 5% Pledge Following Iran and Ukraine" [1]
@@ -73,6 +81,8 @@ Antonio Giustozzi (RUSI) analyses the European Union's engagement with the Talib
 - "The Algorithmic Deterrent" [9]
 - "Putin's Fuel Dilemma" [10]
 - "The EU's pragmatic turn toward the Taliban" (Giustozzi) [11]
+- "Japan's Ambivalent Policy Towards Russia and Ukraine" (James Brown) [12]
+- "The Dismissal of Ukraine's Defence Minister" (Jim McLean) [13]
 
 # Citations
 
@@ -97,3 +107,7 @@ Antonio Giustozzi (RUSI) analyses the European Union's engagement with the Talib
 [10] [Putin's Fuel Dilemma](https://www.rusi.org/explore-our-research/publications/commentary/putins-fuel-dilemma)
 
 [11] [The EU's pragmatic turn toward the Taliban](https://www.theparliamentmagazine.eu/news/article/beyond-the-taliban-normalization-debate)
+
+[12] [Japan's Ambivalent Policy Towards Russia and Ukraine](https://www.rusi.org/explore-our-research/publications/commentary/japans-ambivalent-policy-towards-russia-and-ukraine)
+
+[13] [The Dismissal of Ukraine's Defence Minister](https://www.rusi.org/explore-our-research/publications/commentary/dismissal-ukraines-defence-minister)

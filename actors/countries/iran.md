@@ -5,7 +5,7 @@ parent: Countries
 description: Iran as a geopolitical actor — surviving US-Israeli military campaign with retained leverage over Strait of Hormuz and negotiating from strength
 tags: [country, military, nuclear, energy, middle-east, drone-warfare, sanctions, cyber]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -97,6 +97,44 @@ On July 18, Iran crossed another escalation threshold: missile and drone strikes
 
 [Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) places the July 11–16 US strike wave in the context of Iran's post-ceasefire consolidation. The Iranian regime has consolidated its hold on power and is reported to have rebuilt some of its military assets, including the reopening of underground tunnel complexes that US strategy had assumed were degraded. O'Brien's 99% likelihood assessment that Iran has made no meaningful concession to Trump rests on an inverse argument: if Iran had given Trump anything meaningful — particularly about its nuclear program or the Strait of Hormuz — Trump would have declared victory and gone home. The fact that he is attacking means he has achieved nothing at all in terms of a meaningful Iranian concession. The dynamic reveals the structural asymmetry: Iran's narrower objective (survival) gave it the capacity to keep imposing costs and a negotiating position strong enough to turn resilience into political leverage, while Trump's need for a victory statement gave Iran the upper hand in any negotiation [23]. See [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html).
 
+## Aqaba and the Energy Bypass Threat
+
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) identifies a new escalation vector in his Breaking Analysis #6 (July 19, 2026): Iran's threat to Aqaba, Jordan's only coastal city on the Red Sea. The US Embassy in Amman issued an emergency alert advising Americans to avoid Aqaba's airport and seaport, and air raid sirens went off in Jordan warning of incoming Iranian missiles. The threat targets the long-delayed Basra-Aqaba pipeline — a 1,600-kilometer, $18 billion project designed to carry 2.25 million barrels per day from southern [Iraq]({{ site.baseurl }}/actors/countries/iraq.html) to the Red Sea, bypassing Hormuz entirely. The pipeline was being accelerated after a Washington meeting between Iraq's prime minister and Jordan's foreign minister [24].
+
+For Iran, the Basra-Aqaba project is strategically threatening because it would permanently reduce Tehran's chokepoint leverage. That gives the regime an incentive to contest bypass infrastructure before it becomes operational, extending coercion from Hormuz to the alternatives designed to escape it [24]. The pipeline details and conflict mechanism are kept in [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), while [Jordan]({{ site.baseurl }}/actors/countries/jordan.html) owns the receiving-state implications.
+
+## The Political Clock Advantage
+
+Pape identifies Iran's actor-level advantage as patience: regime survival imposes no electoral deadline, so Tehran need not defeat the [United States]({{ site.baseurl }}/actors/countries/united-states.html); it can preserve enough risk in Hormuz for American electoral and congressional constraints to overtake the campaign [25]. The operational and historical evidence is kept in [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html).
+
+## The Initiative and Western Blindness
+
+[Aurelien]({{ site.baseurl }}/actors/authors/aurelien.html) argues [Iran]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) holds the initiative in the US-Iran conflict — by no means the winners yet, but in control of how the crisis evolves. The US cannot win. Western failure resulted from a mixture of arrogance, inherited military and political folklore, and a simple disinclination to study Iranian military capability. The Iranian political system and the nature of its society did not need to be studied — they could be assumed. The thought of effective Iranian retaliation, if even entertained, was dismissed because it would cast doubt on the viability of the entire enterprise [26].
+
+The future evolution of the crisis depends primarily on Iran — an uncomfortable and unfamiliar position for the West. The prospect of a renewed conflict with Iran, as some US pundits already try to map out, is not possible. The most likely outcome is a long period of low-level tension suiting Iran and straining Western cohesion. The West has lost the ability to determine how crises unfold, both at the day-to-day tactical level and strategically [26]. See [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html).
+
+## Missile Improvement and Possible Russian Assistance
+
+[Heather Cox Richardson]({{ site.baseurl }}/actors/authors/heather-cox-richardson.html) reports that Iran's missiles are getting faster and more maneuverable, citing the *Wall Street Journal*'s Damian Paletta. Whether [Iran]({{ site.baseurl }}/actors/countries/iran.html) is receiving technical assistance from [Russia]({{ site.baseurl }}/actors/countries/russia.html) — or any other country — remains an "enormous question" that puts pressure on the White House to potentially confront Russia. This development contradicts Trump's June claim that Iran had "very few missiles left." Iranian forces still possess plenty of missiles and are becoming more skilled at evading US air defense systems, striking US bases in [Jordan]({{ site.baseurl }}/actors/countries/jordan.html) four times in five days. The potential Russia-Iran missile cooperation axis adds a new dimension to the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html): if Iranian missile capabilities are being augmented by Russian technology, the cost-exchange ratio that already favors Iran would deteriorate further for the US, and the prospect of confronting both Iran and Russia simultaneously would complicate any American escalation path [27].
+
+## Sideways Escalation: The Gulf Ally Strategy
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) identifies Iran's "sideways escalation" strategy as a core element of its operational approach in the renewed phase of the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html). Rather than concentrating attacks on US forces alone, Iran is systematically striking the infrastructure of US-allied Gulf states — making the war politically costly for host governments and demonstrating that the [United States]({{ site.baseurl }}/actors/countries/united-states.html) cannot protect its allies. The timeline from July 12–21, 2026, documents this widening pattern: strikes on [Qatar]({{ site.baseurl }}/actors/countries/qatar.html), the [UAE]({{ site.baseurl }}/actors/countries/uae.html), Bahrain, [Kuwait]({{ site.baseurl }}/actors/countries/kuwait.html), [Jordan]({{ site.baseurl }}/actors/countries/jordan.html), [Oman]({{ site.baseurl }}/actors/countries/oman.html), and [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) — targeting Patriot batteries, ammo depots, desalination infrastructure, air bases, oil tankers, and even a claimed Amazon data center in Bahrain. The strategy operates on a simple logic: every strike on a Gulf ally's infrastructure raises the political cost of hosting US forces, erodes confidence in US security guarantees, and widens the fissures within the GCC — all without requiring Iran to close Hormuz unilaterally [28]. See [Kuwait]({{ site.baseurl }}/actors/countries/kuwait.html), [Jordan]({{ site.baseurl }}/actors/countries/jordan.html), and [Middle East]({{ site.baseurl }}/regions/middle-east.html).
+
+## Underground Nuclear Hardening: Pickaxe Mountain
+
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) reports (July 21, 2026) that [Israeli]({{ site.baseurl }}/actors/countries/israel.html) intelligence has identified [Iran]({{ site.baseurl }}/conflicts/us-iran-war-2026.html)'s movement of thousands of uranium-enrichment centrifuges into deeply fortified tunnels beneath Pickaxe Mountain near Natanz, buried 300–450 feet under solid rock — beyond the reach of existing conventional bunker-busting munitions. Satellite imagery shows continued construction, reinforced tunnel entrances, and heavy vehicle activity. Iran has denied IAEA access for verification of the facility [29].
+
+This underground hardening represents Iran's strategic response to US and Israeli bombing — not surrender but deeper adaptation. Airpower achieved tactical successes throughout the war, destroying surface-level facilities and degrading overt nuclear infrastructure. Iran's response was to move enrichment capability further underground, transforming the problem rather than resolving it. The facility at Pickaxe Mountain demonstrates that a determined regime can defeat airpower not by contesting the skies but by burrowing beneath them. [Trump]({{ site.baseurl }}/actors/trump.html) has identified the site as a potential military target, but it remains untouched — a tacit acknowledgment that existing conventional munitions cannot reliably reach 300–450 feet beneath solid rock [29].
+
+Iran's denial of IAEA access is itself a strategic calculation: uncertainty about what lies beneath the mountain generates its own coercive leverage. If Washington believes the facility has made Iran's nuclear program effectively invulnerable, that belief creates pressure for broader military action regardless of what inspectors might discover — a dynamic Pape identifies as uncertainty favoring escalation, drawing on the 2003 Iraq WMD precedent [29]. See [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) and [Escalation Theory Critique]({{ site.baseurl }}/themes/escalation-theory-critique.html).
+
+## China's Indirect Support and the CRINK Periphery
+
+Ueki positions [Iran]({{ site.baseurl }}/actors/countries/iran.html) within the CRINK framework as a peripheral actor in [Japan]({{ site.baseurl }}/actors/countries/japan.html)'s threat perception — ranked behind China, North Korea, and Russia. Iran is not Japan's traditional adversary; historically, Tokyo sought to maintain good relations with Tehran as an important oil supplier, importing roughly 5 percent of its crude oil from Iran before US sanctions in 2019 ended the trade. Japan still depends on the Middle East for approximately 95 percent of its oil, making the safe passage of the Strait of Hormuz a vital national interest, but this concern is driven by geography and energy dependence rather than a perception of Iran as a direct threat [30].
+
+[China]({{ site.baseurl }}/actors/countries/china.html) is indirectly supporting Iran in the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) through satellite information and diplomatic advocacy for a negotiated solution. However, Ueki assesses that China's position is not yet certain or overt. Drawing on a historical pattern — China behaves covertly when it is ambivalent about the legitimacy of its actions or when it expects to maintain good relations with the [United States]({{ site.baseurl }}/actors/countries/united-states.html) and Japan, and becomes more declaratory when it is confident of its objectives — Ueki concludes that China's indirect support for Iran reflects ambivalence rather than commitment. China participated in the "Will for Peace 2026" joint maritime exercise with Russia, Iran, South Africa, and the UAE in January 2026, but this was a marginal expansion from the 2019 exercise rather than evidence of a CRINK military coalition. China has not conducted bilateral military exercises with Iran, and no CRINK military exercise has occurred. China's competing strategic objectives — maintaining CRINK partnerships while seeking recognition as a global power and Global South champion — constrain the depth of its commitment to Iran and the broader CRINK architecture [30]. See [China]({{ site.baseurl }}/actors/countries/china.html) and [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html).
+
 # Citations
 
 [1] [Iran's Regime Is Headed for a Hard Landing](https://geopoliticalfutures.com/irans-regime-is-headed-for-a-hard-landing/)
@@ -144,3 +182,17 @@ On July 18, Iran crossed another escalation threshold: missile and drone strikes
 [22] [Breaking Analysis #5: Iran's New Target – Drinking Water](https://escalationtrap.substack.com/p/breaking-analysis-5-irans-new-target)
 
 [23] [Midweek Update #19: What Do We Know?](https://phillipspobrien.substack.com/p/midweek-update-19-what-do-we-know)
+
+[24] [Breaking Analysis #6: Why Aqaba?](https://escalationtrap.substack.com/p/breaking-analysis-6-why-aqaba)
+
+[25] [Can America Open Hormuz by the Midterms?](https://escalationtrap.substack.com/p/can-america-open-hormuz-by-the-midterms)
+
+[26] [And It Goes On.](https://aurelien2022.substack.com/p/and-it-goes-on)
+
+[27] [July 20, 2026](https://heathercoxrichardson.substack.com/p/july-20-2026)
+
+[28] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)
+
+[29] [Breaking Analysis #7: New Intel on Pick Axe Mountain](https://escalationtrap.substack.com/p/breaking-analysis-7-new-intel-on)
+
+[30] [China and CRINK: Implications for Japan and the United States](https://www.csis.org/analysis/china-and-crink-implications-japan-and-united-states)

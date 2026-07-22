@@ -11,7 +11,7 @@ tags:
   - supply-chain
   - trade
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -110,6 +110,20 @@ Ed Zitron (*Where's Your Ed At*) argues that the entire AI compute buildout — 
 
 The strategic implication for the AI military race is direct. If OpenAI collapses — which Zitron considers an inevitability given its loss-laden economics, doomed subscriptions (80% of $20-a-month users projected to churn in 2026), pathetic advertising revenue (the entire AI chatbot ad industry projected at $1 billion in 2026 vs. OpenAI's $2.4 billion forecast), and the absence of measurable AI ROI — it would be the "Lehman Brothers of the AI bubble," seizing up AI data center debt, pulling back compute demand, and calling into question the rationality of investing in any AI startup. Hyperscalers can no longer fund their data center capex from cashflows as of Q3 2026; Goldman Sachs' Jeffrey Papai notes it will be "very difficult" to replicate the hundreds of billions raised in the last four years. The downstream consumer effect is a "memory crisis": the Samsung/SK Hynix/Micron triopoly (90%+ of global memory) has diverted manufacturing from consumer RAM to high-bandwidth memory for AI GPUs, jacking up the price of consumer electronics — an inflation effect that persists even if the AI bubble bursts. Bank of England governor Andrew Bailey warned that the bursting of the AI bubble would have effects significant enough to change British monetary policy [11]. See [United States]({{ site.baseurl }}/actors/countries/united-states.html) and [Tech Stack Diplomacy]({{ site.baseurl }}/themes/tech-stack-diplomacy.html).
 
+## Ukrainian AI Drone Software: Swarmer and Battlefield Data
+
+Ryvkin (GPF) reports that Swarmer — a Ukrainian AI-based drone software company — debuted on NASDAQ, marking the first time a Ukrainian defense-tech firm has entered US public markets. This is part of a broader pattern: Ukraine is supplying combat data from tens of thousands of combat flights to train allied AI models, making battlefield-tested AI systems a new category of defense export. The integration of Ukrainian AI drone expertise into Western defense ecosystems represents a structural shift — Ukraine's continuous innovation under combat conditions produces operational data and iteration speed that peacetime defense industries cannot replicate. General Cherry (FPV drone production) and Sine Engineering (electronic warfare protection) are also entering the US market, with Sine Engineering selected as the first project for the U.S.-Ukraine Reconstruction Investment Fund [12]. See [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) and [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html).
+
+## Agentic AI and the Defense Software Paradigm Shift
+
+Jacob Green (War on the Rocks) argues that the resource asymmetry between commercial AI and the defense establishment has reached a tipping point. In Q1 2026 alone, top-tier AI model companies attracted $178 billion in net new venture funding — over three times the $58.5 billion the [United States]({{ site.baseurl }}/actors/countries/united-states.html) Department of Defense requested for its entire FY2027 Artificial Intelligence and CJADC2 portfolio. With frontier models improving at monthly cadences, the Pentagon cannot competitively build its own models and should instead procure access to commercial ones [13].
+
+The procurement strategy Green advocates is model-agnostic by design. Rather than betting on a single provider whose capabilities may stagnate, the department should route access through AI gateway services — single-endpoint intermediaries that offer consolidated monitoring, compliance enforcement, and flat-rate pricing across multiple models. This hedges against the volatile capability curve: as new models emerge, workflows can switch to the best performer without re-architecting integrations. The rapid benchmark turnover makes lock-in to any one model a strategic liability [13].
+
+Open source alternatives further expand the toolset at zero licensing cost. Google's Gemma model family, the Hermes Agent and Open Code agentic harnesses, and supporting tools like Open Notebook and Honcho offer capabilities that approach commercial equivalents. Green contends that the security concerns raised against open source apply equally to proprietary software; the department should apply the same code-scanning, red-teaming, and curated-repository scrutiny it already uses, while gaining the transparency advantage of full source-level review — something proprietary vendors cannot offer [13].
+
+The cost implications are dramatic. Green recounts building a 9,500-line, 60,000-page agentic retrieval system for acquisition regulations in under 20 hours of focused effort, at roughly $1,700 in model inference costs. Using the DoD's own COCOMO estimation tool, the same prototype would have required 6,000–7,000 engineering hours and cost $840,000–$1.2 million through a comparable Army small business award — a roughly 500x cost reduction. The Model Context Protocol (MCP), an open standard for agentic data retrieval now adopted industry-wide including by the Linux Foundation's Agentic AI Foundation, enables any compliant agent to query authoritative data sources in real time, potentially replacing costly centralized data platforms with a distributed Data Mesh architecture [13]. See [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) for the broader RMA framing.
+
 # Citations
 
 [1] https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military
@@ -130,3 +144,7 @@ The strategic implication for the AI military race is direct. If OpenAI collapse
 [10] [Lina Khan on AI and More](https://paulkrugman.substack.com/p/lina-khan-on-ai-and-more)
 
 [11] [The OpenAI Bubble Has Burst](https://www.wheresyoured.at/the-openai-bubble-has-burst/)
+
+[12] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/
+
+[13] [The Make-or-Buy Line has Moved](https://warontherocks.com/the-make-or-buy-line-has-moved/)

@@ -5,7 +5,7 @@ parent: Countries
 description: Taiwan as a geopolitical actor — facing Chinese grey-zone encirclement, domestic budget paralysis, and an espionage campaign while European powers signal support
 tags: [country, military, naval, indo-pacific, gray-zone]
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -48,6 +48,12 @@ The May 2026 [Trump-Xi summit]({{ site.baseurl }}/events/trump-xi-summit-2026.ht
 
 Taiwan's strategic challenge is multidimensional: external grey-zone pressure from China, internal political paralysis blocking defense investment, and an espionage threat that compromises military effectiveness. The European joint statement suggests that the [Taiwan standoff]({{ site.baseurl }}/conflicts/taiwan-standoff.html) is being absorbed into the broader framework of [great power competition]({{ site.baseurl }}/themes/great-power-competition.html), with implications for alliance structures far beyond the Indo-Pacific.
 
+### Target of All-Domain Megacity Incapacitation Warfare
+
+Wang & Beauchamp-Mustafaga identify [Taiwan]({{ site.baseurl }}/actors/countries/taiwan.html) — and Taipei specifically — as the target of China's "all-domain megacity incapacitation warfare" concept, published in the CMC-overseen *Military Art* journal in March 2025. The concept's objective is submission, not annihilation: breaking Taipei's will to fight through three integrated lines of effort. First, a military blockade would sever supplies and information, combining kinetic strikes on command centers and communication hubs with jamming, cyberattacks, DDoS attacks, and AI deepfakes to degrade military information systems, civilian news networks, and social media. Second, precision strikes would target enemy commanders and critical infrastructure operators for decapitation, while special forces seize facilities — power grids, maintenance depots — that can support Chinese forces after landing. The concept explicitly avoids striking targets difficult to rebuild post-conflict, such as air traffic control towers, power plants, and reservoirs, to enable future Chinese occupation. Third, cognitive attacks would create "information bubbles and echo chambers" to separately target Taipei's military and civilian populations using algorithmic content delivery, deepfakes, and "information munitions" hidden within videos and images on platforms such as Meta and TikTok, with the aim of eroding the will to resist and facilitating a rapid cessation of hostilities [5].
+
+The authors recommend that Taiwan defend major media and communications facilities in addition to traditional military and government sites, and that US efforts to support Taiwan should actively prioritize measures that bolster societal resilience against cognitive attacks. U.S. wargames should incorporate cognitive effects and adjudicate will-to-fight as a dynamic variable rather than a static input, and should include Taiwanese institutions such as the All-Out Defense Mobilization Agency and the societal resilience indicators produced at National Taiwan University as standard elements rather than special foci [5]. See [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) and [China]({{ site.baseurl }}/actors/countries/china.html).
+
 # Citations
 
 [1] Velina Tchakarova, "Taiwan Encirclement" — https://substack.com/@velinatchakarova/p-203793388
@@ -57,3 +63,5 @@ Taiwan's strategic challenge is multidimensional: external grey-zone pressure fr
 [3] [Special Report: Surprise PRC Military Exercise Around Taiwan](https://understandingwar.org/research/china-taiwan/china-taiwan-special-report-december-31-2025/)
 
 [4] [Washington's Volatility and Taipei's Security](https://www.swp-berlin.org/publikation/washingtons-volatility-and-taipeis-security)
+
+[5] [Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare](https://warontherocks.com/total-war-on-taipei-china-explores-elevating-cognitive-effects-into-its-vision-of-warfare/)

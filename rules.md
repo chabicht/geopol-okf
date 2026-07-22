@@ -354,6 +354,12 @@ permalink: /actors/countries/
 date-grouped, newest first, using ISO 8601 dates. The leading bold word
 (`**Creation**`, `**Update**`, etc.) is a convention.
 
+**Concept-file references must be Jekyll links** (§9, §16.4): use the
+concept's display `title` as link text and `{{ site.baseurl }}/<path>.html` as
+the target. Do not write bare backtick paths (`` `actors/foo.md` ``) for
+concept files — only for non-concept repo files (e.g. `rules.md`,
+`validate.py`) that have no Jekyll page.
+
 ---
 
 ## 14. Source Handling

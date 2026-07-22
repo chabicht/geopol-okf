@@ -5,7 +5,7 @@ parent: Countries
 description: Latin America's largest economy pursuing strategic depth through energy cooperation with Mexico, agricultural export dominance, and autonomous defense capacity — while exposed to water stress in Amazon trade corridors
 tags: [country, energy, agriculture, trade, latin-america, economics]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Background
@@ -43,6 +43,10 @@ The war forced on Brazil a complex policy trade-off: though its oil industry is 
 - **Fertilizer dependence as structural vulnerability**: 70% fertilizer import dependence makes Brazil acutely exposed to global energy and supply chain disruptions [2].
 - **Oil as strategic asset**: Brazil's offshore oil industry gains strategic value during Middle East disruptions, positioning it as a key non-OPEC producer.
 
+## Fertilizer Supply Chain Vulnerability
+
+Colibasanu quantifies Brazil's Hormuz exposure: approximately 41% of urea imported in 2025 transited the strait. The timing is especially damaging because the Southern Hemisphere is entering its procurement and stock-building period ahead of September sowing. A sustained disruption to Hormuz-transited urea supply thus directly threatens Brazil's upcoming planting season, compounding the existing 70% fertilizer import dependence documented above. Brazil's fiscal capacity to subsidize alternative sourcing is stronger than India's, but the sheer volume of Hormuz-dependent urea — combined with the seasonal procurement window — makes the vulnerability structural rather than transient [5].
+
 # Citations
 
 [1] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
@@ -52,3 +56,5 @@ The war forced on Brazil a complex policy trade-off: though its oil industry is 
 [3] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
 
 [4] [South American Sovereignty Amid US-China Competition](https://geopoliticalfutures.com/south-american-sovereignty-amid-us-china-competition/)
+
+[5] [Rising Costs from the New Hormuz Blockade](https://geopoliticalfutures.com/rising-costs-from-the-new-hormuz-blockade/)
