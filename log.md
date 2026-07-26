@@ -4,6 +4,22 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-07-26 — Refinement: Pilot Batch
+
+Whole-bundle refinement run (pilot batch of 5 files). Source-organized `##` sections folded into thematic subsections; stub farms consolidated into coherent narrative; multiple authors' perspectives woven together within each theme. All citations and cross-links preserved. Each file verified by an independent verifier subagent; findings sent back for one revision pass; all findings resolved.
+
+**Model:** fireworks/accounts/fireworks/models/glm-5p2
+
+**Files refined:**
+
+| File | Sections before | Sections after | Summary |
+|------|----------------|----------------|---------|
+| [The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) | 19 `##` | 7 `##` | 19 source-by-source article summaries → 7 thematic subsections (Energy Throughput, Mordor Economy/Depletion, Resource-Specific Depletion, Renewable Transition Impossibility, Oil/Refining/Net Energy, Civilizational Pathology, Geopolitical Consequences) |
+| [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) | 29 `##` | 10 `##` | 29 source-organized sections → 10 thematic subsections; folded Pape/O'Brien/Richardson/GPF single-source sections into Escalation Dynamics, Ceasefire Collapse, Regional Escalation, Domestic Politics, Technology/Systemic Effects |
+| [United States]({{ site.baseurl }}/actors/countries/united-states.html) | 29 `##` | 15 `##` | 9 Domestic Dynamics stubs → 4 thematic subsections; 13 Analysis source-sections → 4 thematic subsections |
+| [Donald Trump]({{ site.baseurl }}/actors/trump.html) | 18 `##` | 12 `##` | 10 Analysis source-sections → 4 thematic subsections (Iran War, Defense Budget, Trade Coercion, Domestic Decline); Government of Billionaires folded into Kleptocracy |
+| [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html) | 16 `##` | 7 `##` | 16 source-organized sections → 7 thematic subsections; Current Situation/Key Dynamics bullet stubs tightened to coherent paragraphs |
+
 ## 2026-07-26 — Source Incorporation: Tchakarova GSR Day 150 Update (with image analysis)
 
 Incorporated 1 new source article (with 3 embedded images analyzed) into the knowledge base, dissolving its analytical content across 13 existing concepts. No new concepts created. 13 claims (C1–C13) mapped to 13 destination files (including this log). Images analyzed: Day 144 indicator table, Day 150 indicator updates (3 new indicators), and Day 150 Simultaneity Matrix (S1–S7).
