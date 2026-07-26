@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Political historian and daily newsletter author tracking Trump administration corruption, democratic backsliding, and the historical context of America's 250th year
 tags: [author, opinion]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-07-26T00:00:00Z
 ---
 
 # Background
@@ -52,6 +52,18 @@ On the domestic side, Richardson documents [Trump]({{ site.baseurl }}/actors/tru
 
 Richardson's July 21, 2026 dispatch sharpens her signature method of letting juxtapositions speak for themselves. She arrays the degradation of domestic public services — 440,000 [Arizonans]({{ site.baseurl }}/actors/countries/united-states.html) losing SNAP benefits under the One Big Beautiful Bill Act, with Arizona laying off a third of caseworkers; [RFK Jr.]({{ site.baseurl }}/actors/trump.html) withholding over $1 billion in Medicaid funding from California and Minnesota on unproven fraud claims; the [National Park Service]({{ site.baseurl }}/actors/countries/united-states.html) systematically dismantled under Interior Secretary Burgum with staff slashed, funds starved, and political narrative imposed on historical interpretation; TSA reverting to pre-9/11 private screening at Des Moines and Tampa — against the Pentagon's urgent request for a $67 billion supplemental to sustain the [Iran war]({{ site.baseurl }}/conflicts/us-iran-war-2026.html). The Navy and Air Force will exhaust operational funds by end of July; the Pentagon is diverting equipment and maintenance money and canceling exercises. Agriculture Secretary Rollins defended the SNAP cuts by claiming fraud, but error rates reflect classification mistakes, not fraud. Sen. Ossoff's confrontation of Defense Secretary Hegseth — pressing him on whether his earlier claims that Iran's missile threat was "destroyed" and "combat ineffective" were truthful, and receiving only deflection — underscores the gap between declared military success and operational reality. The method forces readers to confront the trade-offs directly: every dollar allocated to a war without a strategy is a dollar extracted from the social safety net, and the ideological preference revealed by the pattern is unmistakable. A brief counterpoint is Sen. Andy Kim's MediKids proposal — Medicaid-for-all-children from birth to age 26, addressing 4.4 million uninsured and 23 million underinsured children — endorsed by medical associations, representing the inverse ideological proposition [6].
 
+## Eisenhower's Cross of Iron: War Costs, Congressional Revolt, and Escalation
+
+Richardson's July 23, 2026 dispatch opens with Eisenhower's April 1953 "Chance for Peace" speech — "every gun that is made, every warship launched, every rocket fired signifies, in the final sense, a theft from those who hunger and are not fed" — as the historical frame for the [Trump]({{ site.baseurl }}/actors/trump.html) administration's simultaneous evisceration of Medicaid, SNAP, foreign aid, scientific and medical research, and the CDC while demanding ever more money for a [Defense Department]({{ site.baseurl }}/actors/countries/united-states.html) already stretched across wars in Iraq, Nigeria, Somalia, Syria, Yemen, the Caribbean, Venezuela, and [Iran]({{ site.baseurl }}/actors/countries/iran.html). Eisenhower's image of humanity "hanging from a cross of iron" is not invoked as ornament but as analytical structure: the dispatch arrays fiscal data, congressional maneuver, and escalation signals so that the trade-offs confront the reader without editorial bridging.
+
+Defense Secretary Hegseth returned to Capitol Hill seeking an additional $67 billion supplemental for the [Iran war]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), but Senator Murkowski pressed whether the administration intended to use the supplemental appropriation itself as a backdoor substitute for explicit congressional authorization under the War Powers Resolution — invoking the 1999 OLC opinion that supplemental funding alone could satisfy the resolution's requirements. Hegseth deferred to his legal department. Representative Morelle, the ranking Democrat on the House Appropriations Committee, described the administration's war-funding obfuscation as "unfathomable": three separate streams — standard appropriations, reconciliation measures, and supplemental requests — with no accounting provided to Congress of where the money is going. While Hegseth claimed the war has cost $37.5 billion, NBC News reported the internal Pentagon estimate at approximately $100 billion; economists at Moody's, factoring in higher gas prices, estimated the war's cost to U.S. households at roughly $1,100 each [7].
+
+The fiscal pressure compounds in parallel. Oil surged 7% to above $100 a barrel for Brent crude after [Houthis]({{ site.baseurl }}/regions/red-sea.html) claimed attacks on two Saudi Arabian oil tankers in the Red Sea, threatening the Bab el-Mandeb strait through which 12–15% of global maritime trade passes. The average U.S. gasoline price hit $4.09 a gallon. Steve Rattner reported that federal debt has surpassed 100% of GDP and will exceed its all-time WWII record by 2030. A *Politico* poll found that just over a third of MAGA voters consider the [Iran war]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) worth the economic cost — down from roughly half in May — with a White House source describing "a maximum level of frustration" and a "politically impossible situation," acknowledging that the American people "will not support the kind of escalation it would take" [7].
+
+Congress moved on two tracks. The House passed a concurrent resolution to end the war in Iran 214–208, with four Republicans — Massie, Fitzpatrick, Davidson, and Barrett — joining Democrats; concurrent resolutions express the sense of Congress without force of law but bypass standard scheduling as privileged measures. Representative Jason Crow, a former Army Ranger, warned that the impulse toward war produced "twenty-plus years" of conflict in Iraq and Afghanistan and that his constituents "losing homes, losing their farms, losing their health care" cannot answer how the war makes them safer. The Senate declined to advance Senator Van Hollen's S.J. Res. 180 — a joint resolution with the force of law — by 47–49, with four Republican senators not voting [7].
+
+The dispatch closes with escalation signals that sharpen the Eisenhower frame. Trump threatened to bomb Iranian civilian infrastructure — "ONE BRIDGE OR POWER PLANT" for every ship attacked in the Strait of Hormuz — a war crime when directed at civilian infrastructure for political purposes; [Rubio]({{ site.baseurl }}/actors/trump.html) declared the policy "a head for an eye." The U.S. surged additional troops, weaponry, and medics to a region already hosting tens of thousands of personnel and 17 naval vessels including two carrier strike groups. Barak Ravid of *Axios* reported Trump is "close to making a decision" about a "massive attack," saying the Iranians "haven't received enough pain yet." Richardson lets the juxtaposition stand: a Congress voting to end a war the president is preparing to escalate, domestic programs gutted while war costs multiply, and an administration concealing its spending while threatening war crimes — humanity, once again, hanging from a cross of iron [7].
+
 # Sources in Bundle
 
 - "July 5, 2026" [1]
@@ -60,6 +72,7 @@ Richardson's July 21, 2026 dispatch sharpens her signature method of letting jux
 - "July 17, 2026" [4]
 - "July 20, 2026" [5]
 - "July 21, 2026" [6]
+- "July 23, 2026" [7]
 
 # Citations
 
@@ -74,3 +87,5 @@ Richardson's July 21, 2026 dispatch sharpens her signature method of letting jux
 [5] [July 20, 2026](https://heathercoxrichardson.substack.com/p/july-20-2026)
 
 [6] [July 21, 2026](https://heathercoxrichardson.substack.com/p/july-21-2026)
+
+[7] [July 23, 2026](https://heathercoxrichardson.substack.com/p/july-23-2026)

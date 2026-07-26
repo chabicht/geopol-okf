@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Military historian and analyst — author of "War and Power" — arguing that wars are choices of individual leaders, that cheap mass beats expensive precision, and that US decline is accelerating faster than expected
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-07-26T00:00:00Z
 ---
 
 # Background
@@ -37,6 +37,18 @@ O'Brien tracks US decline across military, diplomatic, and societal dimensions, 
 ## Ranged War Doctrine
 
 O'Brien distinguishes **long-range strike** (strategic bombing — oil refineries, weapons production, industrial base) from **medium-range strike** (logistics disruption — supply lines, rail hubs, ammunition depots). The distinction is diagnostic: what each side chooses to attack reveals war aims and capabilities, and most tactical effect is achieved at medium range while long-range strikes expose the strategic substrate. The framework was developed through his tracking of the Russia-Ukraine war and generalizes to any sustained air interdiction campaign [9][10].
+
+## How Wars End: Leadership Decides
+
+O'Brien's war-termination framework begins by inverting the analytical sequence most commentators follow. Rather than starting with military operations and projecting forward to a war's conclusion, he starts with the endpoint — the political decision to stop fighting — and works backward to the factors that produce it. The relationship between battles and the ends of wars, he argues, is "extremely unstable," with military matters often mattering "far less and operating more indirectly than people believe." This extends his "battles reveal, they do not determine" thesis into the domain of war termination: the same flawed instinct that leads analysts to draw straight lines from military operations to victory also leads them to misunderstand how wars end.
+
+The framework's central variable is leadership. Wars end when the political leaderships of both sides determine that ending the fighting is preferable to continuing it in the hope of improving their position — always a two-way street. In the most extreme case, that street is traversed by military conquest and the installation of a compliant leadership, as with Germany in 1945. But O'Brien notes even this mode of termination often fails eventually, citing the US experiences in Iraq and Afghanistan. Short of total conquest, the question becomes what drives a leadership to conclude that peace is better than continued war.
+
+O'Brien identifies two principal mechanisms. The first is **change the leader**: a leader wedded to a war dies, is overthrown, or exits through political means, and the trajectory shifts under a successor with a different calculus — as when the death of the Empress Elizabeth of Russia in 1762 saved Frederick the Great's Prussia, or when Attila the Hun's sudden death in 453 CE collapsed the Hunnic expansion. The change can be entirely unconnected to battlefield events. The second is **make the leader believe it is worse to keep fighting than make peace**, a calculation shaped by military, social-political, economic, and personal-survival factors operating independently or in combination. Germany's leadership in late 1918 lost faith in its army; the US in Vietnam and Afghanistan lost the domestic political will to continue; Britain in the American Revolution judged the economic cost prohibitive despite holding major cities; and Emperor Hirohito in August 1945 concluded that surrender better served his personal survival and throne than continued war.
+
+A critical component of this framework is O'Brien's direct critique of escalation-ladder theory. The idea that states move up and down an "escalation ladder" in some understood, predictable fashion is, in his words, "simple nonsense." Different leaderships can blow through the ladder in one step or never go up it at all; there is no way to predict a state's behavior by achieving "escalation dominance." Some leaders will not care and will keep fighting; others will fold long before dominance is achieved; still others will continue escalating regardless. This critique reinforces his broader rejection of unitary-rational-actor models: the escalatory behavior of a state is a function of its specific leadership, not of a generic strategic logic that can be modeled in advance.
+
+Applied to the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), the framework yields a clear diagnostic: at no point have both leaderships determined that ending the war is preferable to continuing it. O'Brien excludes the scenario of either side conquering the other and installing a new government, but identifies internal dissension in either [Russia]({{ site.baseurl }}/actors/countries/russia.html) or [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) as a plausible path to leadership change and war termination. Absent that, the end requires both [Putin]({{ site.baseurl }}/actors/countries/russia.html) and [Zelensky]({{ site.baseurl }}/actors/countries/ukraine.html) to independently conclude that a settlement is better than continued fighting — a condition that has not yet been met [21].
 
 # Posture Toward the Russia-Ukraine War
 
@@ -110,6 +122,7 @@ The framework has immediate diagnostic application to the [United States]({{ sit
 - "Midweek Update #19: What Do We Know?" [18]
 - "Bravery Does Not Win Wars" [19]
 - "Midweek Update #20: Each Day The US Weakens Itself" [20]
+- "Scenarios For Ending The Russo-Ukraine War" [21]
 
 # Citations
 
@@ -152,3 +165,5 @@ The framework has immediate diagnostic application to the [United States]({{ sit
 [19] [Bravery Does Not Win Wars](https://phillipspobrien.substack.com/p/bravery-does-not-win-wars)
 
 [20] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)
+
+[21] [Scenarios For Ending The Russo-Ukraine War](https://phillipspobrien.substack.com/p/scenarios-for-ending-the-russo-ukraine)

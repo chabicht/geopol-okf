@@ -7,7 +7,7 @@ tags: [military, drone-warfare, naval, europe]
 event_date: 2026-07-10
 actuality: actual
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-26T00:00:00Z
 ---
 
 # Background
@@ -47,6 +47,22 @@ O'Brien frames the strategic inversion: "Using air and sea drones, the Ukrainian
 
 O'Brien identifies the Sea of Azov campaign as an example of the broader [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) — the de-humanizing of the battlefield through autonomous and remotely-controlled systems. The campaign demonstrates how cheap drones can deny a major power control of a strategic waterway without requiring a conventional naval force [1].
 
+## Disruption of the Black Sea Grain Trade
+
+The naval escalation in the Azov-Black Sea basin has reverberated through global grain markets, turning a localized shipping interdiction into a broader food-security concern. Ukrainian strikes on seagoing vessels forced Russia to suspend shipping not only through the Don-Azov Canal but also through the Kerch Strait, while Moscow retaliated by destroying port infrastructure near [Odesa]({{ site.baseurl }}/actors/countries/ukraine.html) and other Black Sea ports. For Russia, the stakes are considerable: the Azov-Black Sea basin accounts for 30 percent of all port cargo turnover, and major grain terminals at Novorossiysk, Taman, Rostov, and Tuapse all depend on these waters [2].
+
+Yet Russian grain exports paradoxically surged in the first half of 2026, with shipments rising sharply to Turkey (+86 percent), Egypt (+45 percent), China (+63 percent), and Iran (+75 percent), alongside even larger jumps to Kazakhstan, Sudan, Kenya, Uganda, Mozambique, South Africa, and Brazil. This helps explain why Ukraine has intensified attacks against energy infrastructure and tankers: each strike degrades not only Russia's petroleum revenues but its broader capacity to export by sea [2].
+
+The suspension of Azov shipping lanes compounds an already difficult situation for Russian farmers, who are losing roughly 1,000 rubles ($13) per ton of grain due to rising diesel prices — a penalty that restrictions in the Sea of Azov effectively double. Drone attacks have also directly damaged agricultural assets; in the Krasnosulinsky district a fallen drone ignited winter wheat fields. With the July wheat-export forecast already cut by 20 percent owing to the attacks, the delayed harvest, and the fuel crisis, Russia may be unable to deliver as much as 10 million tons of wheat to the global market if the disruption persists [2].
+
+Russia's options for rerouting are limited. Grain terminals in the Far East and the Caspian Sea are too small to absorb redirected Black Sea shipments, and the overland logistics of moving grain eastward are formidable. Kazakhstan has imposed a six-month ban on Russian wheat imports to protect its domestic market, foreclosing the Central Asian alternative [2].
+
+Ukraine faces its own mirror-image crisis. More than 90 percent of Ukrainian grain, vegetable oil, and other agricultural shipments pass through just three ports in the Odesa region, and Russian missile and drone strikes have taken roughly a third of that export capacity offline. Drone attacks on Odesa have also destroyed storage facilities, constraining export volumes even if a safe coastal corridor is restored. A partial workaround — rerouting grain by river through Danube ports to Constanta in Romania — faces likely opposition from European farmers [2].
+
+The combined disruption arrives at a moment when other major suppliers are also under stress. The U.S. Department of Agriculture has revised its 2026-27 wheat production forecast to 42.45 million metric tons, the lowest in 54 years, driven by severe drought in the U.S. wheat belt. Hot weather in Western Europe and prolonged rains threatening crop quality in Canada further narrow the global supply cushion. With the peak export period running from August to December, a prolonged suspension of navigation in the Azov-Black Sea basin will significantly complicate global food security — all contingent on the uncertain revival of a now-defunct grain deal [2].
+
 # Citations
 
 [1] [Weekend Update #193: What Is Happening In The Sea Of Azov?](https://phillipspobrien.substack.com/p/weekend-update-193-what-is-happening)
+
+[2] [Choking the Grain Trade](https://geopoliticalfutures.com/choking-the-grain-trade/)

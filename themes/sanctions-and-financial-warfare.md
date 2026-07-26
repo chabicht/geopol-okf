@@ -9,7 +9,7 @@ tags:
   - trade
   - supply-chain
 status: ongoing
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-26T00:00:00Z
 ---
 
 # Background
@@ -70,6 +70,10 @@ The cap's credibility problem is structural: nearly 30% of all Russian crude exp
 
 The contrast with US sanctions on Iran is stark: the sustained targeting of the Shamkhani network against Iran showcased the ability to move against an entire illicit ecosystem rather than chasing individual vessels. Against Russia, the US has not adopted a single designation against the shadow fleet since January 2025. The US was escalating against Iran's oil smuggling networks while allowing Russian cargoes to keep flowing [5].
 
+## Russia Policy as China Policy: The Sanctions Bill Expansion
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html)'s Day 150 diagnostic identifies a structural shift in the sanctions architecture: a revised US sanctions bill targets [Russia]({{ site.baseurl }}/actors/countries/russia.html)n energy buyers explicitly including [China]({{ site.baseurl }}/actors/countries/china.html) and [India]({{ site.baseurl }}/actors/countries/india.html), converting Russia policy into an instrument of China policy. This is not merely an escalation of Russia sanctions but a doctrinal reframing — the sanctions instrument is being repurposed from constraining Russian revenue to constraining the DragonBear axis as a whole, with Russian energy flows as the vector through which Chinese and Indian alignment is targeted. The shift formalises a pattern already visible in the price cap's collapse: the separation between Russia policy and China policy is eroding, and the sanctions architecture is becoming an explicit instrument of dual containment [6]. See [Cold War 2.0]({{ site.baseurl }}/conflicts/cold-war-2.html) and [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html).
+
 # Citations
 
 [1] [Decoding Sanctions: How Governments can get the Best out of Banks](https://www.rusi.org/explore-our-research/publications/commentary/decoding-sanctions-how-governments-can-get-best-out-banks)
@@ -81,3 +85,5 @@ The contrast with US sanctions on Iran is stark: the sustained targeting of the 
 [4] [Weekend Update #192: Can Russia Counter?](https://phillipspobrien.substack.com/p/weekend-update-192-can-russia-counter)
 
 [5] [The Future of Russian Sanctions After the Hormuz Crisis](https://www.rusi.org/explore-our-research/publications/commentary/future-russian-sanctions-after-hormuz-crisis)
+
+[6] [Global System Rupture - Update](https://substack.com/@velinatchakarova/p-208325909)

@@ -4,6 +4,76 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-07-26 — Source Incorporation: Tchakarova GSR Day 150 Update (with image analysis)
+
+Incorporated 1 new source article (with 3 embedded images analyzed) into the knowledge base, dissolving its analytical content across 13 existing concepts. No new concepts created. 13 claims (C1–C13) mapped to 13 destination files (including this log). Images analyzed: Day 144 indicator table, Day 150 indicator updates (3 new indicators), and Day 150 Simultaneity Matrix (S1–S7).
+
+**Run ID:** incorporate-2026-07-26-gsr-day150
+**Baseline commit:** 1de39ba08886808a3b31cb629617c44412c65097
+**Model:** fireworks/accounts/fireworks/models/glm-5p2
+
+**Sources:**
+1. **"Global System Rupture - Update"** (Velina Tchakarova, 2026-07-24) — Day 150 diagnostic: generalised rupture beyond named chokepoints. 13th consecutive strike night, confirmed Houthi tanker strikes, Kazakhstan CPC suspension, Brent crosses $100, NATO-territory escalation, S2 correction, ECB holds, S3 CRITICAL HARDENING, middle-power adaptive balancing. Three embedded images analyzed: Day 144 indicator table, Day 150 indicator updates (3 new indicators #12-14), Day 150 Simultaneity Matrix. `sources/2026-07-26 Velina Tchakarova Global System Rupture - Update.md` — SHA-256: `a4a2ecf17592e750d267021196213659b19aeb1f87c20921eb6a1689a05a2c72`
+
+**Concepts updated:**
+
+| File | Claims |
+|------|--------|
+| [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) | C1, C3, C5, C6, C7, C8, C9, C11, C12 |
+| [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) | C1, C2, C5 |
+| [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) | C7 |
+| [Cold War 2.0]({{ site.baseurl }}/conflicts/cold-war-2.html) | C6, C9 |
+| [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) | C3, C4 |
+| [Sanctions and Financial Warfare]({{ site.baseurl }}/themes/sanctions-and-financial-warfare.html) | C9 |
+| [Inflation and Monetary Policy]({{ site.baseurl }}/themes/inflation-and-monetary-policy.html) | C4, C8 |
+| [NATO]({{ site.baseurl }}/actors/organizations/nato.html) | C5 |
+| [Kazakhstan]({{ site.baseurl }}/actors/countries/kazakhstan.html) | C3 |
+| [Canada]({{ site.baseurl }}/actors/countries/canada.html) | C10 |
+| [Red Sea]({{ site.baseurl }}/regions/red-sea.html) | C2 |
+| [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) | C13 |
+
+---
+
+## 2026-07-26 — Source Incorporation: HCR July 23, O'Brien War Termination, Pape on Drones & Coercion, Honest Sorcerer on Oil, GPF on Grain & Houthis, WOTR Cyber Governance, Tooze Polycrisis
+
+Incorporated 9 new source articles into the knowledge base, dissolving their analytical content across 14 existing concepts. No new concepts created. 9 claims (C1–C9) mapped to 15 destination files (including this log).
+
+**Run ID:** incorporate-2026-07-26
+**Baseline commit:** a29bfcb80e03962012a97a5f434b5882e8e9c624
+**Model:** fireworks/accounts/fireworks/models/glm-5p2
+
+**Sources:**
+1. **"July 23, 2026"** (Heather Cox Richardson, 2026-07-23) — domestic-fiscal juxtaposition, congressional war powers, Trump infrastructure threats, oil/gas price dynamics, MAGA polling, congressional votes. `sources/2026-07-24 Heather Cox Richardson July 23, 2026.md` — SHA-256: `ba182cea689c3420a0cc52b357b78ad60f192c7d4f09def7bc75692d94978095`
+2. **"Scenarios For Ending The Russo-Ukraine War"** (Phillips P. O'Brien, 2026-07-24) — war-termination theory, leadership-decides framework, escalation-ladder critique, Russo-Ukraine application. `sources/2026-07-24 Phillips P. OBrien Scenarios For Ending The Russo-Ukraine War.md` — SHA-256: `0c386b4998ef8dc0b4eeeed1f32443bb6413086baae2473c820460c284837b95`
+3. **"The Impossible Drone Hunt: Why Reopening the Strait of Hormuz Could Be Far Harder Than Most People Realize"** (Robert Pape, 2026-07-24) — drone-hunt operational analysis, commercial-confidence metric for Hormuz reopening. `sources/2026-07-24 Prof Robert Pape The Impossible Drone Hunt Why Reopening the Strait of Hormuz Could Be Far Harder Than Most People Realize.md` — SHA-256: `416127a354c25f6f58648ea06994c3365218277509baeeb08d5a7f5f7e7ed257`
+4. **"They Have Not Suffered Enough Yet"** (Robert Pape, 2026-07-24) — civilian-punishment analysis, Tehran electricity collapse, coercive-bombing history, self-reinforcing escalation trap. `sources/2026-07-24 Prof Robert Pape Trump "They Have Not Suffered Enough Yet".md` — SHA-256: `378ee71956f0a457d61123f4222279a3098bb1f6593ff0e3abef1d9f03ad0785`
+5. **"No Oil, No Transition, No Economy"** (The Honest Sorcerer, 2026-07-24) — oil as drain on the economy, electrification impossibility at scale, copper peak, energy dominance and WWIII. `sources/2026-07-24 The Honest Sorcerer No Oil, No Transition, No Economy.md` — SHA-256: `7738f1d8259470fad7a9ab3357bad399b103cff532f4db20e995341e1d825322`
+6. **"Choking the Grain Trade"** (Geopolitical Futures, 2026-07-24) — Black Sea grain trade disruption, Russian grain export constraints, global food-security outlook. `sources/2026-07-24 geopoliticalfutures.com Choking the Grain Trade.md` — SHA-256: `3d4573e2a3e5652eaf65688537093f59133d5c6666fdc53e320069f6e2b8c078`
+7. **"The Houthis Are Not Fighting Iran's War"** (Geopolitical Futures, 2026-07-24) — Houthi autonomy from Iran, Houthi strategic calculus, Iran proxy-network cohesion. `sources/2026-07-24 geopoliticalfutures.com The Houthis Are Not Fighting Iran's War.md` — SHA-256: `c0eab0419ab362ccac32fa115a7af4e5c5acc767da3881a4c272c1b49e3d5261`
+8. **"Before a Cyber Force, Fix Cyber Governance"** (War on the Rocks, 2026-07-24) — cyber governance vs force generation, Rickover accountability model, legislative governance reform. `sources/2026-07-24 warontherocks.com Before a Cyber Force, Fix Cyber Governance.md` — SHA-256: `7ff5070f21a59c66921fe8a439f061e02258a33a5b02d8c906b5de6db334f7d8`
+9. **"Chartbook 461: Polycrisis & Nostalgia for Lost Futures"** (Adam Tooze, 2026-07-26) — polycrisis and "lostalgia," change-in-change framework, globalization as a lost future. `sources/2026-07-26 Adam Tooze Chartbook 461 Polycrisis & nostalgia for lost futures.md` — SHA-256: `27f75b95e30a4be1a6addae5c1a8f5018c8cb0385733f138a89affb85fad9032`
+
+**Concepts updated:**
+
+| File | Claims |
+|------|--------|
+| [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) | C1, C3, C4, C7 |
+| [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) | C2, C6 |
+| [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) | C5 |
+| [Food and Agriculture]({{ site.baseurl }}/themes/food-and-agriculture.html) | C6 |
+| [Escalation Theory Critique]({{ site.baseurl }}/themes/escalation-theory-critique.html) | C2, C4 |
+| [Red Sea]({{ site.baseurl }}/regions/red-sea.html) | C1, C7 |
+| [Sea of Azov Campaign]({{ site.baseurl }}/events/sea-of-azov-campaign.html) | C6 |
+| [Heather Cox Richardson]({{ site.baseurl }}/actors/authors/heather-cox-richardson.html) | C1 |
+| [Phillips P. O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) | C2 |
+| [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) | C3, C4 |
+| [The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) | C5 |
+| [Geopolitical Futures]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) | C6, C7 |
+| [War on the Rocks]({{ site.baseurl }}/actors/authors/war-on-the-rocks.html) | C8 |
+| [Adam Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) | C9 |
+
+---
+
 ## 2026-07-22 — Source Incorporation: SWP on Critical Minerals EU-Africa Partnerships, Labour Migration Protection Gaps, and the White Water Zone
 
 Incorporated 3 new SWP source articles into the knowledge base, dissolving their analytical content across 10 existing concepts. No new concepts created. 1 PDF source (SWP Working Paper) extracted via `pdftotext`.

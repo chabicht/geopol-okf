@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Energy-centered analyst arguing that energy throughput — not GDP — is the true measure of power, that resource depletion is exponential, and that there is no "next economy" on a finite planet
 tags: [author, framework, opinion, energy]
 status: ongoing
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-07-26T00:00:00Z
 ---
 
 # Background
@@ -86,6 +86,22 @@ The article is a tribute to the work of Simon Michaux, geologist and mining engi
 
 The "Oil Price 'Mystery'" framework inverts the usual focus on crude prices: the real economy runs on refined products, not crude, so refining capacity — not the barrel price — is the binding constraint on economic activity. During the Hormuz crisis nearly 3 million bpd of Middle East refining capacity shut down and global refiners cut a further 9 million bpd (>10% of world capacity), destroying physical demand for crude even as headline prices stayed subdued. The signal to watch is the crack spread: ultra-low-sulfur diesel hit $168/barrel against ~$80 crude, a record gap confirming a refined-product scarcity that crude-price metrics systematically conceal. The framework tracks the cascade — Russian diesel exports collapsing from 800,000 bpd to zero under Ukrainian strikes, India doubling export duties, US Gulf refineries at 96% utilization — and the SPR's diminishing capacity to bridge the gap, with drawdown rates decelerating toward zero by August. The closing thesis is "model collapse": basing economic and military decisions on crude prices alone, in a world stripped of refining capacity, has become a civilizational risk [33].
 
+## Oil as a Drain on the Energy System
+
+The Honest Sorcerer inverts the common assumption that drilling for oil always pays for itself: oil extraction has become a net drain on the broader energy system rather than a self-sustaining process. A barrel of crude yields 5.9 GJ when burned, but only about 27% can be refined into diesel — the vital fuel powering drilling, mining, agriculture, military logistics, and long-haul transport — and diesel engines operate at roughly 35% efficiency, meaning only about 10% of the energy in a barrel of crude performs the useful work that keeps civilization running. Half a century ago, when the energy cost of oil extraction was a mere 3%, that 10% of useful diesel-derived work was more than enough to power the oil industry itself and still deliver roughly 7% "free" energy to the rest of the economy. Today the energy cost of oil has risen to over 15%, and according to Delannoy et al. (2021) it is projected to reach 50% by 2050 as conventional reserves deplete and unconventional, energy-intensive methods take their place. The system now subsidizes liquid-fuel production with electricity, natural gas, and even renewables — the rest of the global energy system is tapped to keep diesel flowing, reversing the historical relationship in which oil was a net provider rather than a net consumer of energy [34].
+
+## The Electrification Impossibility
+
+The article constructs a back-of-the-envelope calculation demonstrating that replacing oil with electricity at global scale is thermodynamically and infrastructurally impossible. Accounting only for the net-energy portion of diesel, jet fuel, and gasoline — and before considering electric motor losses, AC/DC conversion inefficiencies, battery recharge cycle losses, or grid transmission losses that can reach 60% in the United States — replacing the 103 million barrels of oil burned daily in 2025 would require generating roughly 36,600 TWh of additional electricity on top of the existing 32,600 TWh produced annually, effectively tripling the global grid. The US alone would need to install 5,000 miles of new high-voltage transmission lines per year to meet even far more modest expansion targets, yet actual additions collapsed from nearly 4,000 miles in 2013 to a historic low average of just 392 miles between 2022 and 2025. Meanwhile, China has doubled its electricity generation and now consumes nearly 33% of global electric power, while America's share has fallen below 15%. The framework concludes that no combination of battery manufacturing capacity, grid expansion, or political will can close this gap before oil depletion accelerates — a global energy, material, and economic contraction is thus inevitable [34].
+
+## Copper Peak and the Material Wall
+
+Independent of the oil trajectory, copper supply is approaching its own inflection point. Global mined copper output reached a record 22.8 million tons in 2024, but the IEA expects supply to peak later this decade at around 24 million tons before declining to less than 19 million tons by 2035, driven by falling ore grades, reserve depletion, and mine retirements. New greenfield supply cannot close the gap: it takes 17 years on average from discovery to production, and the industry has run out of time, capital, reserves, and energy to prevent a massive shortfall by 2030. On the demand side, achieving net-zero emissions by 2050 would require a 460% increase in copper production — 194 new large-scale mines over 32 years — tapping reserves that are nowhere to be found. The Honest Sorcerer highlights a further irony: copper and nickel extraction depends on cheap, abundant sulfuric acid, a byproduct of sulfur removed from oil during refining, much of which used to come from the Persian Gulf. As refining capacity contracts and chokepoints close, the chemical inputs needed for the energy transition are themselves undermined by the depletion of the very industry the transition is meant to replace [34].
+
+## Energy Dominance and the Road to Depression and War
+
+The article's geopolitical framing synthesizes these thermodynamic and material constraints into a civilizational diagnosis. The pursuit of "energy dominance" — escalating conflict with Iran, attacks on Russian oil infrastructure, Yemeni Houthi shipping blockades, Kazakhstan ceasing crude flows through the Black Sea — converts the double whammy of declining EROI and absolute depletion into a triple whammy by physically destroying the fragile infrastructure that remains. The conflicts have merged into a single war waged for control over the world economy's energy base, and none of the parties involved can back down: the fight has become existential. The Honest Sorcerer sees no reason to expect avoidance of an economic depression with world GDP contracting by several percentage points year after year — comparable to the 1930s before World War II — followed by a climactic, decisive conflict between superpowers waged through proxies and client states, ending in a fractured and de-globalized world economy. The framing echoes the [Zero State]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) and [polycrisis]({{ site.baseurl }}/themes/global-system-rupture.html) frameworks: the system cannot create growth, so it chooses war as its last resort, accelerating the very depletion and infrastructure destruction that made growth impossible [34].
+
 # Sources in Bundle
 
 - "The Big Picture" [1]
@@ -121,6 +137,7 @@ The "Oil Price 'Mystery'" framework inverts the usual focus on crude prices: the
 - "Infinite Growth Delusions Continue — For Now" [31]
 - "We Are Not Mining with Renewable Energy" [32]
 - "The Oil Price 'Mystery'" [33]
+- "No Oil, No Transition, No Economy" [34]
 
 # Citations
 
@@ -189,3 +206,5 @@ The "Oil Price 'Mystery'" framework inverts the usual focus on crude prices: the
 [32] [We Are Not Mining with Renewable Energy](https://thehonestsorcerer.substack.com/p/we-are-not-mining-with-renewable-104)
 
 [33] [The Oil Price "Mystery"](https://thehonestsorcerer.substack.com/p/the-oil-price-mystery)
+
+[34] [No Oil, No Transition, No Economy](https://thehonestsorcerer.substack.com/p/no-oil-no-transition-no-economy)

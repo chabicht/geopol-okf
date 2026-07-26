@@ -8,7 +8,7 @@ tags:
   - economics
   - supply-chain
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-07-26T00:00:00Z
 ---
 
 # Background
@@ -71,6 +71,16 @@ The country-level exposure is acute. For [India]({{ site.baseurl }}/actors/count
 
 The S2→S4 cross-domain pairing identified in the diagnostic has fused into a single food-system encirclement operating on input and output simultaneously. The Black Sea grain export collapse (S2, the output side — [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html)'s ability to sell grain to global markets) and the Hormuz fertilizer transit closure (S4, the input side — the fertilizer that farmers need to grow crops) compress the global food system from both ends. This fusion transforms two geographically distinct disruptions into a unified encirclement architecture: the food system is being squeezed not at one chokepoint but at two, operating on different parts of the agricultural supply chain but generating a single compounding effect on global food security [10].
 
+## Choking the Grain Trade: The Black Sea Naval Turn
+
+Ekaterina Zolotova ([GPF]({{ site.baseurl }}/actors/authors/geopolitical-futures.html)) documents how the Russia-Ukraine War's naval escalation has transformed the Azov-Black Sea basin into a contested grain corridor. Ukrainian strikes on seagoing vessels forced Russia to suspend shipping through the Don-Azov Canal and the Kerch Strait; Moscow retaliated by destroying port infrastructure near Odesa. The basin accounts for 30% of [Russia]({{ site.baseurl }}/actors/countries/russia.html)'s port cargo turnover and hosts its major grain terminals. Despite sanctions on oil and gas, Russian grain exports rose in H1 2026 — to Turkey (+86%), Egypt (+45%), China (+63%), and Iran (+75%) — making the naval disruption a direct threat to a rare growth export [11].
+
+Russian farmers face compounding losses: about 1,000 rubles ($13) per ton from rising diesel prices, effectively doubled by Sea of Azov shipping restrictions. Drone attacks have also damaged crops — a fallen drone set winter wheat ablaze in the Krasnosulinsky district. Russia may be unable to deliver as much as 10 million tons of wheat to the global market. Offset routes are structurally inadequate: Far East and Caspian terminals are too small, and [Kazakhstan]({{ site.baseurl }}/actors/countries/kazakhstan.html) has banned Russian wheat imports for six months to protect its domestic market. The Russian wheat export forecast for July has already been reduced by 20% [11].
+
+For [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html), Russian missile and drone strikes on Odesa have taken about a third of grain export capacity offline at Black Sea ports and reduced storage facilities, limiting export capacity even if a safe corridor is restored. More than 90% of Ukraine's grain, vegetable oil, and agricultural shipments pass through just three Odesa-region ports [11].
+
+The global supply picture offers no relief. The USDA revised its 2026–27 U.S. wheat production forecast to 42.45 million metric tons — the lowest in 54 years — driven by severe drought. Hot weather in Western Europe threatens wheat crops, and prolonged rains in Canada's Alberta and Saskatchewan provinces risk crop damage. The [Iran war]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) has raised prices for fuel, fertilizer, and maritime transport, compounding grain production costs globally. A prolonged suspension of navigation through the peak export period from August to December would significantly worsen the outlook. Much rests on the revival of the now-dead grain deal [11].
+
 # Citations
 
 [1] [The Persian Polycrisis](https://thehonestsorcerer.substack.com/p/the-persian-polycrisis)
@@ -94,3 +104,5 @@ The S2→S4 cross-domain pairing identified in the diagnostic has fused into a s
 [9] [Rising Costs from the New Hormuz Blockade](https://geopoliticalfutures.com/rising-costs-from-the-new-hormuz-blockade/)
 
 [10] [Global System Rupture](https://substack.com/@velinatchakarova/p-207969383)
+
+[11] [Choking the Grain Trade](https://geopoliticalfutures.com/choking-the-grain-trade/)

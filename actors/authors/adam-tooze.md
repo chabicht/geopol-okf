@@ -2,10 +2,10 @@
 type: Actor
 title: Adam Tooze
 parent: Authors & Analysts
-description: Economic historian and Chartbook author tracking the global economy — China Shock 2.0, financial repression, the AI boom, the four disrupters of the 2026 world economy, the five metamorphoses of the dollar, and hyper-agency as the driver of Western rupture
+description: Economic historian and Chartbook author tracking the global economy — China Shock 2.0, financial repression, the AI boom, the four disrupters of the 2026 world economy, the five metamorphoses of the dollar, hyper-agency as the driver of Western rupture, and the polycrisis as a crisis of lost futures
 tags: [author, economics, trade]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-26T00:00:00Z
 ---
 
 # Background
@@ -69,6 +69,16 @@ The conversation situates this within the broader theme of Western hegemony rupt
 
 Tooze identifies three thinkers as speaking to the current conjuncture: Lenin (conjunctural analysis written in medias res, searching for underlying structure), Keynes (provisional, ameliorist crisis management), and Carl Schmitt. The Green New Deal is discussed as a genuinely comprehensive vision that was broken and lost in the struggles of 2021-22 — "a politics of freedom" that answered the degrowth critique directly but was cut down to little more than green industrial policy [5].
 
+## Polycrisis, Lostalgia, and the Change in Change
+
+In Chartbook 461, Tooze returns to his signature concept of "polycrisis" — the overlapping, compounding crises that define the contemporary moment — and develops it through a temporal lens. Drawing on a 2024 workshop at Singapore's Centre for Strategic Futures, he introduces the notion of "lostalgia": nostalgia not for a lost past but for lost futures, the futures that were promised and never arrived, or that arrived and proved far from the panaceas they claimed to be. The term, coined by the CSF team, captures a distinct affective register of the present — one in which the images that once organized the imagination of the future (flying cars, moon colonies, miracle medicines) now feel strangely inert [6].
+
+Tooze grounds this in Reinhart Koselleck's concept of *futures past* — the horizon of expectation that has been a recurring feature of modernity, constantly ruptured and reconstituted. On this reading, "polycrisis" might simply be the latest phase of modern history, another iteration of the perennial modern experience of a collapsing horizon of expectation. Yet Tooze is careful to flag the pitfall in this relativizing move: in postulating change as the constant, we risk not taking change seriously. The crucial analytical step is to reckon with the *second derivative* — "change in change." Modernity has been "crying wolf" for a long time, but the challenge today is to grasp that the wolf of truly radical change is actually arriving in a new and comprehensive sense. He invokes Mark Blyth's characterization of climate breakdown as "a giant non-linear outcome generator with wicked convexities" — no mean, no average, no return to normal, "one way traffic into the unknown" [6].
+
+Globalization serves as Tooze's exemplary lost future. He quotes Tony Blair's 2005 Labour Party conference declaration — "You might as well debate whether autumn should follow summer" — as a marker of the extraordinary confidence with which globalization was once summoned. That confidence is now irrecoverable; globalization, as Blair could frame it, clearly belongs amongst the lost futures of our time. Yet Tooze insists that there never was one globalization: the discourse papered over a hyper-complex reality, and the variegated patterns of globalization across sectors — textiles, automobiles, IT — reveal a far more uneven process than the singular narrative implied. The loss, then, is not of a single shared future but of a particular imagined one that was always already fragmented [6].
+
+Tooze's orientation under these conditions is practical and political. He advises taking "change in change" seriously, getting used to the unprecedented, and — crucially — thinking politically about who "we" are when we speak of a shared future. The Singapore workshop's resulting *Glossary for Other Worlds* extends this impulse, gathering vocabularies and frameworks that resist lostalgia and help re-enter time differently — releasing inherited futures that no longer serve and seeking paths forward for which the grounds are already laid [6].
+
 # Sources in Bundle
 
 - "Chartbook 454: China Shock 2.0 and Mercantilist-on-Mercantilist Violence" [1]
@@ -76,6 +86,7 @@ Tooze identifies three thinkers as speaking to the current conjuncture: Lenin (c
 - "Chartbook 456: Alien v. Predator or MAGA meets AI" [3]
 - "Chartbook 457: The Metamorphoses of the Dollar" [4]
 - "Chartbook 458 Postscript: A Conversation with Barnaby Raine" [5]
+- "Chartbook 461: Polycrisis & nostalgia for lost futures" [6]
 
 # Citations
 
@@ -88,3 +99,5 @@ Tooze identifies three thinkers as speaking to the current conjuncture: Lenin (c
 [4] [Chartbook 457: The Metamorphoses of the Dollar](https://adamtooze.substack.com/p/chartbook-457-the-metamorphoses-of)
 
 [5] [Chartbook 458 Postscript - A Conversation with Barnaby Raine](https://adamtooze.substack.com/p/chartbook-458-poscript-a-conversation)
+
+[6] [Chartbook 461: Polycrisis & nostalgia for lost futures](https://adamtooze.substack.com/p/chartbook-461-polycrisis-and-nostalgia)

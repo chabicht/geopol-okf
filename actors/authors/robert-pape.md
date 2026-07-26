@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Professor running the "Escalation Trap" newsletter — frameworks on leverage dynamics, the three-stage Escalation Trap, suicide terrorism strategic logic, and two engines driving the US-Iran war toward Stage 3 ground operations
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-07-26T00:00:00Z
 ---
 
 # Background
@@ -100,6 +100,28 @@ The political clock linkage intensifies the pressure. If the [United States]({{ 
 
 Pape's July 20 analysis applies his coercion framework to distinguish tactical attrition from strategic success: destroying launchers is irrelevant unless insurers and shippers treat Hormuz as routine. Iran's dispersed weapons, forbidding coast, and existential time horizon make continuous suppression or a bounded landing implausible, while the November election gives Washington a deadline Tehran need only outlast [16]. The operational evidence and force estimates are kept in [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html); the actor-specific implications are kept in [United States]({{ site.baseurl }}/actors/countries/united-states.html) and [Iran]({{ site.baseurl }}/actors/countries/iran.html).
 
+## The Impossible Drone Hunt: Operational Suppression and Commercial Confidence
+
+Pape's operational briefing on reopening the [Strait of Hormuz]({{ site.baseurl }}/regions/middle-east.html) reframes the military problem around a metric that no battlefield tally can satisfy: **commercial confidence**. The United States is not fighting simply to defeat an army — it is fighting to restore the conditions under which shipping companies, insurers, and commodity traders treat Hormuz as routine. Those actors do not ask whether America destroyed most Iranian launchers; they ask whether enough remain to threaten the next ship. If the answer is yes, insurance premiums stay elevated, shipping companies reroute vessels, and commercial traffic fails to recover. One successful attack can undo months of military progress [18].
+
+The difficulty is structural rather than ideological. [Iran]({{ site.baseurl }}/actors/countries/iran.html) covers roughly 1.65 million square kilometers — more than three times the size of Iraq and about four times California — with mountain ranges, deserts, islands, thousands of kilometers of coastline, hardened underground facilities, and dispersed missile and drone depots. Iran's anti-ship missiles range from roughly 80–200 miles for widely deployed coastal systems, with newer systems reportedly exceeding 600 miles; Shahed-136 attack drones have demonstrated ranges of 600–1,500 miles. The United States must therefore suppress launch platforms not just along Iran's coastline but deep into its interior across roughly 500 miles of waterway stretching from Kuwait to the Gulf of Oman. The drone launch area alone is roughly 1.5 times the size of California [18].
+
+The "drone-hunt" problem compounds the geographic scale with a targeting problem. An Iranian Shahed-136 drone is approximately the size of an F-150 pickup — the most common truck in America — and there are an estimated 2.5 to 3 million comparable full-size and mid-size trucks operating in Iran. US forces must find and destroy objects tiny in size and almost identical to millions of civilian vehicles. Destroying 80–90% of drones, missiles, and launchers is not enough: they must all be suppressed continuously, because mobile launchers relocate and every surviving launcher within the strike envelope can keep commercial shipping — and commercial confidence — at risk. Critics who point to overwhelming American military superiority are answering the wrong question: military superiority wins battles, but it does not eliminate every drone and mobile launcher scattered across the launch zone. Scale converts Iran's drone advantage into time, moving the United States closer to a political deadline measured not by battlefield conditions but by the American electoral calendar [18]. See [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) for the force-requirement estimates.
+
+## Civilian Punishment and the Revenge Dynamic
+
+When [Trump]({{ site.baseurl }}/actors/trump.html) declared that Iranians "have not suffered enough yet" and signaled a massive attack "bigger than ever before," Pape reads the statement as a pivot from military denial to **massive civilian punishment** — striking bridges and electrical power infrastructure whose principal purpose is not military denial but the imposition of visible national pain. The obvious target is Tehran: with roughly ten million residents, it is Iran's political capital, economic center, communications hub, and transportation nexus, and nowhere else in Iran carries comparable political weight [19].
+
+Drawing on years teaching the strategy of coercive air campaigns to US Air Force officers, Pape walks through what the loss of electricity would actually mean for a city of ten million. Electricity is the invisible system that allows a modern city to exist; military facilities shift to protected generators during wartime, but civilians cannot. In July and August afternoon temperatures near 100°F, air conditioning is essential infrastructure. Pumps move close to 800 million gallons of treated water each day, and most buildings have only limited rooftop storage, meaning many residents would lose running water within hours. Refrigerated warehouses, food processors, and household refrigerators all depend on uninterrupted power; roughly one-quarter of perishable food is rapidly lost when cold chains fail. Destroying all major bridges magnifies food shortages, paralyzing distribution by severing core trucking supply chains and dropping inbound delivery capacity by 50–90%. Tehran has roughly 170 hospitals with more than 25,000 beds, including approximately 5,000 dialysis patients who require treatment several times each week; as generator fuel, clean water, oxygen, and medicines become scarce, hospitals begin rationing lifesaving care. The closest American comparison is the 1995 Chicago heat wave, when 739 people died in just five days in a city of 2.7 million — less than one-third Tehran's population. A citywide blackout lasting one to three months would almost certainly produce casualties on a far greater scale [19].
+
+The strategic consequences, however, are what concern Pape most. History strongly suggests that inflicting massive civilian suffering through electric-power targeting **rarely produces rapid political capitulation** when governments believe their survival is at stake. The United States Strategic Bombing Survey — which interviewed thousands of German civilians after World War II and examined captured Gestapo reports, civilian letters, and official morale documents — found that bombing civilian infrastructure lowered morale but did not produce political capitulation. The strongest emotional response among civilians who experienced direct personal loss was not surrender but anger: people whose homes were destroyed or families injured became increasingly consumed by thoughts of revenge and retaliation, and even "lighter" bombing often intensified demands that Germany strike back against its enemies rather than compromise [19].
+
+Thomas Griffith — a US Air Force officer, Gulf War POW, and Pape's former student — studied electrical-system targeting across WWII, Korea, Vietnam, and Desert Storm and found that such attacks provide limited military utility and rarely achieve intended strategic goals, leading to a recommendation against targeting grids due to low value and high collateral damage. For decades those lessons helped push electric-power targeting to the margins of American air strategy; Trump's recent comments suggest that long-standing restraint may now be under reconsideration [19].
+
+A prolonged collapse of electricity in Tehran would not simply create humanitarian suffering — it would ensure that millions of ordinary Iranians personally experience the war inside their own homes for the first time. Every family forced to watch an elderly parent die from heat, every child without clean water, every patient denied dialysis becomes another powerful source of motivation for retaliation. If history is any guide, the result would be not political surrender but a generation of Iranians determined to seek payback against Americans, Israelis, and the countries hosting US forces — whether that revenge comes next month or years from now. Iran's Foreign Minister Abbas Araghchi has already stated the doctrine plainly: "eye for an eye. Any aggression against Iran, including our infrastructure, will compel a powerful and decisive response" [19].
+
+This is, for Pape, the essence of the Escalation Trap. Once punishment replaces denial as the primary military strategy, both sides become convinced that more escalation — not less — is necessary. Each new round of punishment creates stronger incentives for retaliation, while every act of retaliation convinces the attacker that still greater punishment is required. The result is not a path toward ending the war but a **self-reinforcing spiral** in which the political logic increasingly overwhelms the military logic [19]. See [Escalation Theory Critique]({{ site.baseurl }}/themes/escalation-theory-critique.html) and [Geoeconomics of Water]({{ site.baseurl }}/themes/geoeconomics-of-water.html).
+
 # Sources in Bundle
 
 - "Uncertain Deal — And Iran Certainly Enters Its Period of Maximum Leverage" [1]
@@ -119,6 +141,8 @@ Pape's July 20 analysis applies his coercion framework to distinguish tactical a
 - "Breaking Analysis #6: Why Aqaba?" [15]
 - "Can America Open Hormuz by the Midterms?" [16]
 - "Breaking Analysis #7: New Intel on Pick Axe Mountain" [17]
+- "The Impossible Drone Hunt: Why Reopening the Strait of Hormuz Could Be Far Harder Than Most People Realize" [18]
+- "Trump: "They Have Not Suffered Enough Yet"" [19]
 
 # Citations
 
@@ -155,3 +179,7 @@ Pape's July 20 analysis applies his coercion framework to distinguish tactical a
 [16] [Can America Open Hormuz by the Midterms?](https://escalationtrap.substack.com/p/can-america-open-hormuz-by-the-midterms)
 
 [17] [Breaking Analysis #7: New Intel on Pick Axe Mountain](https://escalationtrap.substack.com/p/breaking-analysis-7-new-intel-on)
+
+[18] [The Impossible Drone Hunt: Why Reopening the Strait of Hormuz Could Be Far Harder Than Most People Realize](https://escalationtrap.substack.com/p/the-impossible-drone-hunt-why-reopening)
+
+[19] [Trump: "They Have Not Suffered Enough Yet"](https://escalationtrap.substack.com/p/trump-they-have-not-suffered-enough)

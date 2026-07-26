@@ -7,7 +7,7 @@ tags:
   - military
   - ideology
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-07-26T00:00:00Z
 ---
 
 # Background
@@ -64,6 +64,16 @@ The fear-driven escalation dynamic that Pape identifies aligns with Aurelien's c
 
 The political clock linkage compounds the trap. If the [United States]({{ site.baseurl }}/actors/countries/united-states.html) cannot reopen [Hormuz]({{ site.baseurl }}/regions/middle-east.html) before the November midterms, pressure for broader escalation — including attacks on deeply buried nuclear facilities — will grow. The Escalation Trap is thus not merely a military dynamic but a political one: domestic deadlines interact with intelligence uncertainty to narrow the space for restraint. The non-unitary actor problem is also present: the intelligence assessment originates from [Israel]({{ site.baseurl }}/actors/countries/israel.html), whose objectives (eliminating Iran as a regional challenger) do not align perfectly with US objectives — meaning the information driving escalation is filtered through an ally with its own incentive structure [6]. See [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) and [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html).
 
+## The Escalation Ladder Is Nonsense
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) reinforces the critique of escalation-ladder models from a different angle. The idea that states move up and down an escalation ladder in some understood fashion is, in his framing, "simple nonsense." Different leaderships can blow through the ladder in one step, or never go up it at all. There is no way to understand what a state will do by achieving "escalation dominance": some will not care and will keep fighting; others will fold long before that; still others will continue escalating regardless of any dominance the opponent might think they have. The framework applies to both the Russia-Ukraine and US-Iran wars — in each case, the assumption that military pressure would produce a predictable escalation response has been consistently wrong [7]. See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html).
+
+## Coercive Bombing and the Revenge Dynamic
+
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) provides historical evidence that directly undermines the rational-actor assumption underlying deterrence theory. The United States Strategic Bombing Survey, after interviewing thousands of German civilians and examining captured Gestapo reports, found that bombing civilian infrastructure lowered morale but did not produce political capitulation. The strongest emotional response among civilians who experienced direct personal loss was not surrender but anger — demands that Germany strike back against its enemies rather than compromise. Thomas Griffith's study of electrical-system targeting across WWII, Korea, Vietnam, and Desert Storm confirmed that such attacks provide limited military utility and rarely achieve intended strategic goals [8].
+
+The implication for escalation theory is direct: if punishment produces revenge rather than capitulation, then the rational-actor model's assumption that costs will produce concessions is systematically violated. Leaders confronted with collapsing civilian conditions often seek to shift public anger outward, creating a self-reinforcing spiral that the escalation-ladder model cannot capture — each side becomes convinced that more escalation, not less, is necessary. This is the mechanism Pape identifies in the US-Iran War's Escalation Trap: once punishment replaces denial as the primary military strategy, both sides are locked into a spiral that political logic, not military logic, drives [8]. See [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html).
+
 # Citations
 
 [1] [Upstairs, Downstairs](https://aurelien2022.substack.com/p/upstairs-downstairs)
@@ -77,3 +87,7 @@ The political clock linkage compounds the trap. If the [United States]({{ site.b
 [5] [While We Were Sleeping](https://aurelien2022.substack.com/p/while-we-were-sleeping)
 
 [6] [Breaking Analysis #7: New Intel on Pick Axe Mountain](https://escalationtrap.substack.com/p/breaking-analysis-7-new-intel-on)
+
+[7] [Scenarios For Ending The Russo-Ukraine War](https://phillipspobrien.substack.com/p/scenarios-for-ending-the-russo-ukraine)
+
+[8] [Trump: "They Have Not Suffered Enough Yet"](https://escalationtrap.substack.com/p/trump-they-have-not-suffered-enough)

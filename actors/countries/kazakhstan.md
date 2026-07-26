@@ -5,7 +5,7 @@ parent: Countries
 description: Kazakhstan as a geopolitical actor — Central Asia's leading FDI destination, hosting critical minerals talks, and deepening economic ties with China
 tags: [country, central-asia, trade, critical-minerals, energy]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-26T00:00:00Z
 ---
 
 # Background
@@ -30,6 +30,12 @@ Kazakhstan has experienced average annual growth in capital investments of 10.7%
 
 Kazakhstan's strategic challenge is balancing deepening economic integration with China against the need to maintain strategic autonomy and manage domestic sensitivities about Chinese influence. The critical minerals dimension adds a new layer: Kazakhstan is not merely a transit corridor but a resource base whose exploitation patterns will shape global supply chains in the [great power competition]({{ site.baseurl }}/themes/great-power-competition.html) era.
 
+## CPC Pipeline Suspension: The Third Energy Node (Day 150)
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html)'s Day 150 diagnostic identifies [Kazakhstan]({{ site.baseurl }}/actors/countries/kazakhstan.html)'s suspension of crude exports through the Caspian Pipeline Consortium (CPC) terminal as a qualitatively new development in the global energy crisis. The suspension followed drone attacks on the terminal and removed a supply source with no geographic or political connection to the Gulf conflict from the market at the same moment Gulf supply is constrained. This is the first instance in the assessment framework of a supply disruption node opening entirely outside the Hormuz-Red Sea system, and it is assessed as evidence that the crisis has moved from chokepoint disruption to a broader pattern in which energy infrastructure anywhere in reach of drone technology has become contestable. The CPC terminal normally handles approximately 1.4 million barrels per day of Kazakh crude routed through Russian Black Sea ports — making its suspension a material event for global supply even though Kazakhstan is not a belligerent in any named conflict [2]. See [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) and [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html).
+
 # Citations
 
 [1] Geopolitical Futures, "What Investments Say About Central Asia" — https://geopoliticalfutures.com/what-investments-say-about-central-asia/
+
+[2] [Global System Rupture - Update](https://substack.com/@velinatchakarova/p-208325909)
