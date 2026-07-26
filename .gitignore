@@ -11,3 +11,6 @@ vendor/
 .opencode/node_modules/
 .opencode/package-lock.json
 .opencode/package.json
+
+# Raw sources (kept out of history)
+sources/
