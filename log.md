@@ -4,6 +4,33 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-07-26 — Source Incorporation: O'Brien Weekend Update #195 + Drapatyi Video Sources (with image analysis)
+
+Incorporated 3 new sources (1 Substack article with 3 embedded images analyzed by vision model, 2 YouTube video transcripts) into the knowledge base, dissolving their analytical content across 7 existing concepts. No new concepts created. 13 claims (C1–C13) mapped to 7 destination files (including this log). Images analyzed via qwen3p7-plus vision model: Drapatyi portrait, Fedorov press-conference screenshot (drone tech iteration quotes), and Rating Group trust poll chart (Zaluzhny 70%, Fedorov 65%, Budanov 62%, Zelensky 59%, Syrskyi 23%).
+
+**Run ID:** incorporate-2026-07-26-wu195
+**Baseline commit:** 35a036d34ad9cb3e7ba5b4b2224c76796751bd88
+**Model:** fireworks/accounts/fireworks/models/glm-5p2 (text), fireworks/accounts/fireworks/models/qwen3p7-plus (vision)
+
+**Sources:**
+1. **"Weekend Update #195: The Worst Week Becomes Much Better (But Not The Best)"** (Phillips P. O'Brien, 2026-07-26) — Syrskyi→Drapatyi command change; Fedorov press conference accusations (drone supply favoritism, "splitting the country"); Fedorov-Zelensky standoff (refused advisory roles, Khmara appointed acting minister); Rating Group trust poll; Drapatyi biography; Wildberries warehouse strike campaign (10 strikes since July 18); Sea of Azov update (13 more vessels claimed); democracy's wartime advantage framing. `sources/2026-07-26 Phillips P. OBrien Weekend Update 195 The Worst Week Becomes Much Better (But Not The Best).md` — SHA-256: `5515db5394693c4b6e0882fe148accdb0ae7eb0b019eacace1c0834d1ffcf92f`
+2. **"2014 HERO OF MARIUPOL BECOMES UKRAINE'S NEW ARMY CHIEF"** (WarLeak, 2026-07-21) — Drapatyi's 2014 Mariupol BMP breakthrough, career trajectory to Commander-in-Chief. `sources/2026-07-21 WarLeak 2014 HERO OF MARIUPOL BECOMES UKRAINES NEW ARMY CHIEF.md` — SHA-256: `a2d7b8b4f1294876774e38024890c5858fad2ed0caf905bfdfb08ee3c4b78369`
+3. **"Interview with Mykhailo Drapatyi"** (Ukraїner, 2026-07-22) — Full 59-minute interview (recorded May 2023, released upon appointment): 72nd Brigade service since 2004; May 9 2014 Mariupol operation (FSB-orchestrated seizure, 7 BMPs, "flying BMP" episode); Luhansk border defense, encirclement, organized nighttime breakout; military philosophy (cold calculation, human life as highest value, anti-Soviet mentality); Russia as imperial nation "with no right to exist"; fighting for national identity not territory. `sources/2026-07-22 Ukrajner Interview with Mykhailo Drapatyi.md` — SHA-256: `ead53211246658c8d0b99a25ab2ec5d50037d97acfd73a3c86bda6bb691fc51c`
+
+**Concepts updated:**
+
+| File | Claims |
+|------|--------|
+| [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) | C1, C8, C10 |
+| [Fedorov Dismissal (July 2026)]({{ site.baseurl }}/events/fedorov-dismissal-2026.html) | C2, C3, C4, C5 |
+| [Sea of Azov Campaign]({{ site.baseurl }}/events/sea-of-azov-campaign.html) | C9 |
+| [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) | C6, C7 |
+| [Volodymyr Zelensky]({{ site.baseurl }}/actors/zelensky.html) | C11 |
+| [Phillips P. O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) | C12 |
+| this log | C13 |
+
+---
+
 ## 2026-07-26 — Refinement: Pilot Batch
 
 Whole-bundle refinement run (pilot batch of 5 files). Source-organized `##` sections folded into thematic subsections; stub farms consolidated into coherent narrative; multiple authors' perspectives woven together within each theme. All citations and cross-links preserved. Each file verified by an independent verifier subagent; findings sent back for one revision pass; all findings resolved.

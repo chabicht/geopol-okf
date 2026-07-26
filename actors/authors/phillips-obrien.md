@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Military historian and analyst — author of "War and Power" — arguing that wars are choices of individual leaders, that cheap mass beats expensive precision, and that US decline is accelerating faster than expected
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-07-26T00:00:00Z
+timestamp: 2026-07-26T23:00:00Z
 ---
 
 # Background
@@ -57,6 +57,8 @@ O'Brien provides detailed real-time tracking of the [Russia-Ukraine War]({{ site
 He documents the under-covered [Sea of Azov campaign]({{ site.baseurl }}/events/sea-of-azov-campaign.html) — Ukraine using air and sea drones to attack 28 Russian-controlled vessels and force the Kerch Strait closure — as a strategically significant extension of the Crimea isolation campaign. He pairs this with the dramatic escalation in Russia's ballistic missile campaign: launches tripled year-over-year (28→70+/month), Ukraine intercepting only 40% of ballistic missiles vs 89% of all threats, Patriot interceptors depleted. Trump's Patriot license pledge, in his reading, gifts Putin 1–3 winters of unrestricted bombardment. See [Ukraine Air Defense Crisis 2026]({{ site.baseurl }}/events/ukraine-air-defense-crisis-2026.html) [17].
 
 O'Brien frames Ukraine's May 2026 [drone strike on Moscow]({{ site.baseurl }}/events/moscow-drone-strike.html) as Russia's Marianas moment — the point at which the propaganda narrative collapsed because the war reached the homeland, comparing it to Japan's loss of the Marianas in WWII. With Russia's 1M+ cumulative casualties and compromised Moscow air defenses, Putin can no longer hide the war's cost from the Russian public [11]. On the Russian economic side, O'Brien documents (via Kiel Institute and CSIS data) that India is "gorging" on Russian oil despite sanctions, that Trump's Iran war generated an extra $15 billion for Russia while destroying the credibility of US sanctions, and that the adaptation cycle for long-range strike and air interception is much longer than commonly assumed — there is no sign of a Russian counter to Ukraine's strike campaign [14].
+
+O'Brien's Weekend Update #195 frames the Drapatyi command change as an illustration of democracy's wartime advantage — democracies start slowly and prepare inefficiently, but pressure from civil society can force adaptation that authoritarian systems cannot replicate. He provides a detailed profile of Drapatyi (career soldier since 2014, "flying BMP" at Mariupol, youngest Ground Forces commander, resigned over accountability, "no loud promises"), a mixed assessment of the new Wildberries warehouse strike campaign (possibly distracting from the refinery campaign, likely aimed at Putin's political bargain), and an update on the [Sea of Azov campaign]({{ site.baseurl }}/events/sea-of-azov-campaign.html) (13 more vessels claimed, no Russian counter). He judges that if Zelensky keeps Fedorov permanently out, the crisis has not produced the best outcome [22].
 
 # Posture Toward the US-Iran War
 
@@ -123,6 +125,7 @@ The framework has immediate diagnostic application to the [United States]({{ sit
 - "Bravery Does Not Win Wars" [19]
 - "Midweek Update #20: Each Day The US Weakens Itself" [20]
 - "Scenarios For Ending The Russo-Ukraine War" [21]
+- "Weekend Update #195: The Worst Week Becomes Much Better (But Not The Best)" [22]
 
 # Citations
 
@@ -167,3 +170,5 @@ The framework has immediate diagnostic application to the [United States]({{ sit
 [20] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)
 
 [21] [Scenarios For Ending The Russo-Ukraine War](https://phillipspobrien.substack.com/p/scenarios-for-ending-the-russo-ukraine)
+
+[22] [Weekend Update #195: The Worst Week Becomes Much Better (But Not The Best)](https://phillipspobrien.substack.com/p/weekend-update-195-the-worst-week)

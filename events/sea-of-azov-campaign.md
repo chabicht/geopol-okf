@@ -7,7 +7,7 @@ tags: [military, drone-warfare, naval, europe]
 event_date: 2026-07-10
 actuality: actual
 status: ongoing
-timestamp: 2026-07-26T00:00:00Z
+timestamp: 2026-07-26T23:00:00Z
 ---
 
 # Background
@@ -25,6 +25,8 @@ Over several weeks in early-mid July 2026, [Ukraine]({{ site.baseurl }}/actors/c
 - The campaign is part of the Crimea "switch off" operation to isolate the peninsula [1].
 - On July 10, Russia forbade all new traffic through the Kerch Strait between the Sea of Azov and the Black Sea. There is no indication when the restriction will be relaxed [1].
 - If attacks remain at current levels and Russia cannot develop countermeasures, the Sea of Azov will remain functionally closed to shipping [1].
+- **July 20-21:** Ukrainian Unmanned Systems Forces commander Robert Brovdi ("Madyar") claimed 13 additional Russian vessels struck — 10 dry cargo ships, two tugboats, and one tanker — across the Azov and Black Seas over a 48-hour period. The Kyiv Independent could not independently verify the claims [3].
+- As of late July, Russia has not formally changed the shipping suspension status imposed around July 10, and is encouraging alternative grain shipping methods such as rail [3].
 
 # Analysis
 
@@ -37,7 +39,7 @@ Over several weeks in early-mid July 2026, [Ukraine]({{ site.baseurl }}/actors/c
 - Demonstrates that Ukraine can deny Russia use of a body of water Moscow has controlled since 2022
 - Extends the [Crimea isolation campaign]({{ site.baseurl }}/events/crimea-isolation-campaign.html) from the Black Sea into Azov
 
-O'Brien notes that the Russians do not appear to have a working counter to this campaign. The open question is whether Russia can change the dynamic — if not, the campaign will further strangle supplies to Crimea and damage Russian grain and fuel shipments [1].
+O'Brien notes that the Russians do not appear to have a working counter to this campaign. The open question is whether Russia can change the dynamic — if not, the campaign will further strangle supplies to Crimea and damage Russian grain and fuel shipments [1]. By late July, O'Brien reports the campaign remains ongoing with no Russian counter developed. Brovdi's claims of 13 additional vessels struck on July 20-21, if accurate, would bring the total well beyond the initial 28. Russia has not formally changed its shipping suspension, and is encouraging rail-based grain shipping as an alternative — an implicit acknowledgment that the sea route remains untenable [3].
 
 ## A Ukrainian Lake
 
@@ -66,3 +68,5 @@ The combined disruption arrives at a moment when other major suppliers are also 
 [1] [Weekend Update #193: What Is Happening In The Sea Of Azov?](https://phillipspobrien.substack.com/p/weekend-update-193-what-is-happening)
 
 [2] [Choking the Grain Trade](https://geopoliticalfutures.com/choking-the-grain-trade/)
+
+[3] [Weekend Update #195: The Worst Week Becomes Much Better (But Not The Best)](https://phillipspobrien.substack.com/p/weekend-update-195-the-worst-week)

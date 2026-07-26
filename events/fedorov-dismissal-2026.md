@@ -7,7 +7,7 @@ event_date: 2026-07-16
 actuality: actual
 tags: [drone-warfare, military, europe]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-07-26T23:00:00Z
 ---
 
 # Background
@@ -23,6 +23,9 @@ Mykhailo Fedorov was [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html)
 - MP Mykyta Poturaev announced his resignation in protest over the ouster, warning that rolling back Fedorov's reforms could lead to Ukraine's defeat.
 - Protests broke out in Kyiv; European Commissioner Andrius Kubilius voiced concern about the implications for EU defense cooperation.
 - The dismissal came shortly after the [NATO Ankara Summit 2026]({{ site.baseurl }}/events/nato-ankara-summit-2026.html) pledged €70 billion in 2026 Ukraine aid — prompting speculation about a "corporate war" over controlling those funds [1].
+- Zelensky offered Fedorov advisory roles, most prominently "Deputy Prime Minister" with a remit to advise on military/technical matters, but Fedorov refused, insisting that "only three positions in the state — in addition to soldiers on the battlefield — which determine the course of the war: president, defence minister and commander-in-chief." [3]
+- Evgeniy Khmara was appointed acting Defense Minister. Khmara has substantial military experience and had been serving as Budanov's replacement at the head of Ukrainian strategic services before the appointment. He is described as more similar to Fedorov than to Syrskyi. As Khmara has not yet been approved by parliament, he remains "acting" minister [3].
+- Oleksandr Syrskyi was subsequently removed as Commander-in-Chief and replaced by General Mykhailo Drapatyi. Syrskyi had overplayed his hand — when Zelensky chose Syrskyi over Fedorov, the General's position actually weakened, as popular anger shifted to him with Fedorov gone. Syrskyi's claim that he was "surprised to learn that we have a conflict" deepened the backlash [3].
 
 # Analysis
 
@@ -58,8 +61,22 @@ The pattern that emerged was systematic obstruction by General Syrskyi. The Mini
 
 The RUSI analysis frames the Fedorov dismissal as a substantive debate about the future of [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html)'s way of war and the character of the Ukrainian state — not merely a personal clash. If the aim of the Revolution of Dignity in 2014 was to empower democracy and chart a course toward European integration, civilian control of the military is an important measure of Ukraine's progress. Zelensky removed Fedorov because the situation was unsustainable, but he did not side with Syrskyi on substance — directing that the reforms should be continued by Fedorov's successor. The most significant and contentious reform remains the conscription system: Ukrainian men are currently conscripted directly by the military, with Ground Forces units tasked with finding recruits against a quota and detaining them — a deeply unpopular system that produces poor results. Fedorov identified that the problem was not recruitment volume but training, personnel management, and corruption: the system was bringing in enough people, but only a minority reached combat units each month. Fixing mobilisation therefore required changes to how the force handled and trained recruits — changes Syrskyi's General Staff refused to implement. The rift remains unresolved, and the civilian-control question — whether a reform mandate from Parliament can override military command autonomy — will persist beyond Fedorov's tenure [2].
 
+## Fedorov's Press Conference: The Rift in His Words
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) documents the press conference Fedorov gave after his dismissal, which provided the most direct public account of the conflict. Fedorov accused Syrskyi of "splitting the country" — dividing not just the nation but the military itself. Units the General favored received supplies; others were discriminated against and deprived of life-saving equipment. The drone supply chain was particularly afflicted: Fedorov stated that "supplies do not flow through the corps" and that distribution was handled manually — "if you are loyal, you receive supplies; if you are not, you receive nothing" — leaving units unable to plan their future [3].
+
+Fedorov framed the conflict as fundamentally structural rather than personal. A press-conference screenshot captures his argument that drone architecture changes at least four times a year, with certain technological aspects changing 20 to 30 times a year — a pace of innovation that Syrskyi's General Staff refused to accommodate. Fedorov's framing: "Instead of figuring out how to defeat [Russia]({{ site.baseurl }}/actors/countries/russia.html) asymmetrically, which is the Commander-in-Chief's job, he figured out how to divide the country in which we all live." He described an environment in which many documents were never signed and he was told not to touch certain issues, and issued what he called an ultimatum: either Syrskyi or himself. Fedorov acknowledged Syrskyi's 2022 contributions (Kyiv, Kharkiv, Kherson operations) but framed the relationship as broken beyond repair [3].
+
+## The Public Verdict: Trust Poll
+
+A Rating Group poll released the week of the dismissal captured the immediate public reaction. Fedorov's trust surged from 35% to 65% in one week — a 30-point jump — while Syrskyi's trust collapsed from 39% to 23%, a 16-point decline. The full trust rankings: [Zaluzhny]({{ site.baseurl }}/actors/countries/ukraine.html) 70% (most trusted), Fedorov 65% (with the highest "strongly trust" rating of any figure at 38%), Budanov 62%, [Zelensky]({{ site.baseurl }}/actors/zelensky.html) 59%, Usyk 54%, Syrskyi 23%, Poroshenko 21%. Removing Syrskyi was popular: 55% approved the choice, only 15% opposed it. In electoral preference, Zelensky led at 22.3%, followed by Zaluzhny 14.9% and Fedorov 13.4% — positioning Fedorov as a potential runoff candidate against Zelensky were a presidential vote held now [3].
+
+See [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) for the actor's broader doctrine, [Zelensky]({{ site.baseurl }}/actors/zelensky.html) for the cabinet-reshuffle pattern, and [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) for Fedorov's drone-innovation legacy.
+
 # Citations
 
 [1] [The Fedorov Dismissal: On Trust, Technology, and Turnover](https://warontherocks.com/the-fedorov-dismissal-on-trust-technology-and-turnover/)
 
 [2] [The Dismissal of Ukraine's Defence Minister](https://www.rusi.org/explore-our-research/publications/commentary/dismissal-ukraines-defence-minister)
+
+[3] [Weekend Update #195: The Worst Week Becomes Much Better (But Not The Best)](https://phillipspobrien.substack.com/p/weekend-update-195-the-worst-week)
