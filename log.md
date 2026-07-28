@@ -4,6 +4,25 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-07-28 — Refinement: 10-File Prose Refactoring
+
+Refinement pass on the 10 highest-priority files identified by lines-per-section ratio and source-organized section count. Each file was rewritten by a dedicated subagent, verified by a fresh verifier subagent, and blocking findings (dropped attributions, epistemic upgrades, dropped claims) were surgically restored.
+
+| File | Change |
+|------|--------|
+| [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) | Folded 27 source-organized sections into 12 thematic subsections following the us-iran-war-2026.md format; merged ISW ### stubs, sequential Tchakarova S2 updates, and single-source sections (Belarus, Wildberries, Reform Rift, Japan, Command Change) into woven multi-author prose |
+| [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) | Folded 28 source-organized sections into 7 thematic subsections; wove together munitions-depletion data (O'Brien + Ueki), acquisition reform (Newell + Green + Colibasanu), infrastructure security (Minihan/Montgomery + Colibasanu), and Ukraine industrial integration (Ryvkin + Cipher Brief + Justice) |
+| [Red Sea]({{ site.baseurl }}/regions/red-sea.html) | Merged 9 sequential single-source Houthi-blockade sections into 3 thematic subsections; consolidated Current Situation bullet stubs into flowing prose |
+| [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) | Consolidated 19 sections into 9; folded 6 Cipher Brief ### sub-stubs into woven prose; merged 8 O'Brien sections into 5 thematic subsections alongside RUSI, Aurelien, and Green |
+| [Iran]({{ site.baseurl }}/actors/countries/iran.html) | Consolidated 9 sequential Pape escalation-threshold sections into 4 thematic subsections; wove Aurelien, Richardson, O'Brien single-source sections into relevant thematic blocks |
+| [Inflation and Monetary Policy]({{ site.baseurl }}/themes/inflation-and-monetary-policy.html) | Consolidated 7 regional ### sub-sections (all from [1]) into 2 flowing paragraphs; merged 2 sequential Tchakarova diagnostic sections into one; consolidated scenarios/business/investor sections |
+| [Russia]({{ site.baseurl }}/actors/countries/russia.html) | Folded 3 ISW ### sub-stubs under Putin's Fuel Dilemma into woven prose; wove ISW air-defense paragraph with Zolotova; added missing # Key Dynamics section (7 bullets) |
+| [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) | Merged Tchakarova ### sub-stubs into woven prose; consolidated 3 economic sections (Tooze + Krugman/Khan + budget paradox) into one; merged accommodation thesis with decoupling negotiation |
+| [United States]({{ site.baseurl }}/actors/countries/united-states.html) | Interleaved single-author runs within sections; reorganized institutional-degradation, oligarchic-spiral, and military-overstretch sections for thematic weaving |
+| [China]({{ site.baseurl }}/actors/countries/china.html) | Merged 2 Strategic Culture sections into one; merged 2 Political Economy sections into one; folded CMC Purge into Taiwan Posture; added missing # Key Dynamics section (7 bullets) |
+
+**Validator:** 171 files structurally valid, 49 warnings (broken links, tolerated) — unchanged from baseline. **Analyze:** zero findings.
+
 ## 2026-07-28 — Refinement: Contested Assessments Convention
 
 Introduced a bundle-wide convention for surfacing named cross-author disagreements instead of silently juxtaposing them: `## Contested: <question>` subsections in `# Analysis` (both sides cited, one sentence on why they differ, a falsifiable `**Tiebreaker:**`, and a `**Status:**` of open fork / resolved / scope mismatch), a required `# Key Dynamics` scannable spine for Theme/Region/country-Actor concepts, and `# Track Record` sections in author files tracking resolved and open calls. Codified in `rules.md` §7.1, §8.4, §8.5, §10; `okf-refine`'s triage, subagent brief, verifier, and close-out gates updated to enforce it going forward.
