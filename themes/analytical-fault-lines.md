@@ -48,7 +48,8 @@ where in the bundle it currently produces a live disagreement.
 - **Contested — are the Houthis Iran's proxy or an independent actor?** Pape reads Houthi
   strikes as Iran's deliberate leverage; Bokhari/GPF reads Houthi restraint as evidence of
   a fraying, non-compelled proxy network. See `## Contested:` in
-  [Iran]({{ site.baseurl }}/actors/countries/iran.html). [11][12]
+  [Iran]({{ site.baseurl }}/actors/countries/iran.html) and the parallel treatment in
+  [Red Sea]({{ site.baseurl }}/regions/red-sea.html). [11][12]
 
 # Analysis
 

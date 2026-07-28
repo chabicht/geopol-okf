@@ -86,13 +86,13 @@ The fiscal dimension is decisive. Export restrictions prevent refiners from sell
 
 # Key Dynamics
 
-- The Ukraine war is consuming Russia at unsustainable rates: casualties exceed 1.4 million, monthly losses outpace recruitment, and territorial gains have reversed for the first time since 2024 [6][12].
-- Ukraine's deep-strike campaign has created a compounding fuel crisis — refining capacity degraded, shortages spreading to most federal subjects, and the Kremlin forced to choose between domestic supply and export revenue [14][15][19][30].
-- Air defense gaps across Russia's vast territory enable Ukrainian strikes from Moscow to Siberia, exposing a structural vulnerability that production delays and bureaucratic inertia cannot quickly close [15][21].
-- The DragonBear axis provides critical economic and military support, but Russia is the dependent partner — China polices the nuclear threshold and absorbs combat lessons while constraining Moscow's strategic autonomy [25][35].
-- Russia's southern flank is eroding: the CSTO is hampered by frozen memberships and past failures, Central Asian states are diversifying westward, and the Middle Corridor bypasses Russian transit [7][8].
-- The security state has proven durable despite structural vulnerabilities; succession risk in Chechnya and elite infighting should not be mistaken for imminent regime collapse [1][22].
-- Cognitive warfare and hybrid networks remain effective instruments of Russian power, coordinating sabotage, influence operations, and sanctions evasion across the West [3][24].
+- **The Ukraine war is consuming Russia at unsustainable rates.** Casualties exceed 1.4 million, monthly losses outpace recruitment, and territorial gains have reversed for the first time since 2024. [6][12]
+- **A compounding fuel crisis is spreading.** Ukraine's deep-strike campaign has degraded refining capacity, spread shortages to most federal subjects, and forced the Kremlin to choose between domestic supply and export revenue. [14][15][19][30]
+- **Air defense gaps span the country.** Russia's vast territory enables Ukrainian strikes from Moscow to Siberia, a structural vulnerability production delays and bureaucratic inertia cannot quickly close. [15][21]
+- **Russia is the dependent partner in the DragonBear axis.** China polices the nuclear threshold and absorbs combat lessons while constraining Moscow's strategic autonomy. [25][35]
+- **The southern flank is eroding.** The CSTO is hampered by frozen memberships and past failures, Central Asian states are diversifying westward, and the Middle Corridor bypasses Russian transit. [7][8]
+- **The security state has proven durable.** Structural vulnerabilities, succession risk in Chechnya, and elite infighting should not be mistaken for imminent regime collapse. [1][22]
+- **Cognitive warfare remains an effective instrument of power.** Hybrid networks coordinate sabotage, influence operations, and sanctions evasion across the West. [3][24]
 
 # Analysis
 

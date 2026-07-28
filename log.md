@@ -4,6 +4,48 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-07-28 — Hardening: Deterministic checks for the Contested Assessments convention
+
+Reviewed commit `5cc3b866` (a follow-on `okf-refine` run) against the Contested
+Assessments convention introduced earlier the same day. Found the convention itself
+holding up (all 5 `## Contested:` blocks survived, a new one was correctly added to
+`regions/red-sea.md`), but four defects traced to a single root cause: everything in
+that convention was enforced only by prose instructions to LLM subagents, with no
+deterministic backstop — unlike citations/frontmatter, which are code-enforced and
+never drifted across either commit.
+
+Fixed the specific regressions: restored two cross-links (`Phillips O'Brien`,
+`Aurelien`) silently dropped from [Iran]({{ site.baseurl }}/actors/countries/iran.html)
+during a section merge; reformatted [Russia]({{ site.baseurl }}/actors/countries/russia.html)'s
+`# Key Dynamics` bullets to the required bolded-lead format; added the missing
+`# Key Dynamics` section to [United States]({{ site.baseurl }}/actors/countries/united-states.html).
+
+Then hardened the mechanism so the same drift can't recur silently:
+
+- `validate.py`: new checks `key_dynamics_missing`, `key_dynamics_format`,
+  `contested_block_shape`, `track_record_missing`, `fault_lines_drift` (registry sync
+  between `## Contested:` blocks bundle-wide and `themes/analytical-fault-lines.md`).
+  Immediately surfaced two real, previously-unnoticed defects from my own earlier
+  commit: [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s scope-mismatch
+  Contested block was missing its Tiebreaker line, and
+  [Red Sea]({{ site.baseurl }}/regions/red-sea.html)'s Contested block (added by the
+  reviewed commit) wasn't registered in the fault-lines page — both fixed.
+- `okf_core.py analyze`: new diff-aware check `delinked_attribution`, which compares
+  author/country link targets between `--base` and `--head` and flags any link dropped
+  while the bare name it attributed a claim to survives in the prose. Verified
+  retroactively against `8ebc388..5cc3b866`: catches exactly the two dropped links
+  above, zero false positives across the other 9 files that commit touched.
+- `okf-refine/SKILL.md`: verifier subagents now run the extended validator on the
+  single rewritten file first and treat its output as findings, not something to
+  re-derive by reading; close-out now captures before/after validator+analyze output
+  to files and `diff`s them, replacing the prose-only "no new warnings" claim with a
+  literal diff the coordinator has to show.
+
+**Validator:** 171 files structurally valid, 100 warnings (mix of pre-existing
+tolerated broken links/orphan citations and newly-surfaced pre-existing debt — ~35
+country Actor files missing `# Key Dynamics`, ~14 author files missing `# Track
+Record` — left as tolerated debt for future refine passes, same tier as broken links).
+
 ## 2026-07-28 — Refinement: 10-File Prose Refactoring
 
 Refinement pass on the 10 highest-priority files identified by lines-per-section ratio and source-organized section count. Each file was rewritten by a dedicated subagent, verified by a fresh verifier subagent, and blocking findings (dropped attributions, epistemic upgrades, dropped claims) were surgically restored.

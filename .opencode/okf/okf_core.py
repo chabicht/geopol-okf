@@ -157,6 +157,52 @@ def analyze(paths: Iterable[str], include_sources: bool = False) -> list[Finding
     return findings
 
 
+def delinked_attribution_findings(base: str, head: str, paths: Iterable[str]) -> list[Finding]:
+    """Flag cross-links to author/country pages that a refine-style merge silently
+    dropped while the bare name it attributed the claim to survives in prose —
+    the failure mode is a claim that reads as still-attributed but no longer links
+    to its source's page, per rules.md §9's "link generously" and okf-refine's
+    "preserve every ... cross-link" rule."""
+    findings: list[Finding] = []
+    for rel in concept_paths(paths):
+        old = subprocess.run(
+            ["git", "show", f"{base}:{rel}"], cwd=ROOT, capture_output=True, text=True,
+        )
+        if old.returncode != 0:
+            continue  # file didn't exist at base — not a merge regression
+        if head == "HEAD" and not (ROOT / rel).exists():
+            continue
+        if head == "HEAD":
+            new_text = (ROOT / rel).read_text(encoding="utf-8")
+        else:
+            new = subprocess.run(
+                ["git", "show", f"{head}:{rel}"], cwd=ROOT, capture_output=True, text=True,
+            )
+            if new.returncode != 0:
+                continue  # file deleted at head
+            new_text = new.stdout
+        old_text = old.stdout
+
+        def author_country_links(text: str) -> dict[str, set[str]]:
+            targets: dict[str, set[str]] = {}
+            for label, target in markdown_links(text):
+                if target.startswith("actors/authors/") or target.startswith("actors/countries/"):
+                    targets.setdefault(target, set()).add(label)
+            return targets
+
+        old_targets, new_targets = author_country_links(old_text), author_country_links(new_text)
+        for target in sorted(set(old_targets) - set(new_targets)):
+            for label in sorted(old_targets[target]):
+                bare = re.sub(r"[^\w'-]", "", label.split()[-1])
+                if bare and re.search(rf"\b{re.escape(bare)}\b", new_text):
+                    evidence = f"link to {target}.html (label {label!r}) dropped, but bare name {bare!r} still appears in body"
+                    findings.append(Finding(
+                        stable_id("delinked_attribution", rel, evidence), "warning",
+                        "delinked_attribution", rel, evidence,
+                    ))
+    return findings
+
+
 def warning_keys(findings: Iterable[Finding]) -> set[tuple[str, str, str]]:
     return {(f.rule, f.path, f.evidence) for f in findings if f.severity in {"warning", "error"}}
 
@@ -300,6 +346,8 @@ def source_capability(path: Path, vision: bool) -> tuple[bool, str]:
 def command_analyze(args: argparse.Namespace) -> int:
     paths = git_paths(args.base, args.head) if args.base else [str(p.relative_to(ROOT)) for p in ROOT.rglob("*.md")]
     findings = analyze(paths, include_sources=args.include_sources)
+    if args.base:
+        findings += delinked_attribution_findings(args.base, args.head, paths)
     payload = {"scope": {"base": args.base, "head": args.head, "files": len(paths)}, "findings": [asdict(f) for f in findings]}
     print(dump_json(payload), end="")
     return 1 if any(f.severity == "error" for f in findings) else 0
