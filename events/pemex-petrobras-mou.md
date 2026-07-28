@@ -6,7 +6,7 @@ description: Mexico and Brazil sign a memorandum of understanding for strategic 
 tags: [energy, trade, latin-america]
 event_date: 2026-06-15
 actuality: actual
-status: ongoing
+status: concluded
 timestamp: 2026-07-15T00:00:00Z
 ---
 

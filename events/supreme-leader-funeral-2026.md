@@ -6,7 +6,7 @@ description: Mass funeral ceremonies for Iran's Supreme Leader — perhaps the l
 tags: [middle-east, ideology, nuclear]
 event_date: 2026-07-05
 actuality: actual
-status: ongoing
+status: concluded
 timestamp: 2026-07-06T00:00:00Z
 ---
 

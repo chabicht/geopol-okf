@@ -6,7 +6,7 @@ description: July 7-8 summit in Ankara introducing NATO 3.0 — a stronger Europ
 tags: [europe, military, nato]
 event_date: 2026-07-07
 actuality: actual
-status: ongoing
+status: concluded
 timestamp: 2026-07-19T00:00:00Z
 ---
 

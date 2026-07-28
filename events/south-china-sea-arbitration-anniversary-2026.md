@@ -6,7 +6,7 @@ description: "10th anniversary of the 2016 PCA ruling on the South China Sea —
 event_date: 2026-07-12
 actuality: actual
 tags: [indo-pacific, trade, naval, gray-zone]
-status: ongoing
+status: concluded
 timestamp: 2026-07-19T00:00:00Z
 ---
 

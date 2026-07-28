@@ -6,7 +6,7 @@ description: "The July 16, 2026 dismissal of Ukrainian Defense Minister Mykhailo
 event_date: 2026-07-16
 actuality: actual
 tags: [drone-warfare, military, europe]
-status: ongoing
+status: concluded
 timestamp: 2026-07-26T23:00:00Z
 ---
 
