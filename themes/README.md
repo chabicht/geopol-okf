@@ -16,6 +16,7 @@ permalink: /themes/
 * [Escalation Theory Critique](escalation-theory-critique.html) - Aurelien's critique of game theory and rational-actor models in contemporary conflicts
 * [Endless Warfare](endless-warfare.html) - Adversary strategy of persistent, below-threshold conflict by China, Russia, and Iran — gray zone, cognitive warfare, weaponized negotiations, proxy and illicit networks
 * [Migration Policy](migration-policy.html) - Protection-vs-control tension in European migration governance; route-based externalization and the structural leverage transit states hold over destination states
+* [Analytical Fault Lines](analytical-fault-lines.html) - Recurring methodological splits among named analysts — agency vs structure, unitary vs factional actor modeling, alliance-as-real vs alliance-as-branding — and the standing register of contested calls they produce
 
 ## Resource & Technology
 

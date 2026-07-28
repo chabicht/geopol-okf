@@ -4,6 +4,25 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-07-28 — Refinement: Contested Assessments Convention
+
+Introduced a bundle-wide convention for surfacing named cross-author disagreements instead of silently juxtaposing them: `## Contested: <question>` subsections in `# Analysis` (both sides cited, one sentence on why they differ, a falsifiable `**Tiebreaker:**`, and a `**Status:**` of open fork / resolved / scope mismatch), a required `# Key Dynamics` scannable spine for Theme/Region/country-Actor concepts, and `# Track Record` sections in author files tracking resolved and open calls. Codified in `rules.md` §7.1, §8.4, §8.5, §10; `okf-refine`'s triage, subagent brief, verifier, and close-out gates updated to enforce it going forward.
+
+Converted the untracked `themes/contested-assessments-handoff.md` scan into a proper Theme, [Analytical Fault Lines]({{ site.baseurl }}/themes/analytical-fault-lines.html), naming the four recurring methodological splits (agency vs structure, unitary vs factional actor modeling, alliance-as-real vs alliance-as-branding, single-publication-as-single-voice) that the individual conflicts trace back to.
+
+Applied the new convention to two pilot files and the author files those pilots implicate:
+
+| File | Change |
+|------|--------|
+| [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) | Added `## Contested: Is CRINK a coalition or four bilateral relationships?` (Aizawa vs Ueki, resolved — Ueki, narrowly) and `## Contested: Is the US in decline?` (O'Brien vs Beckley, open fork), merging in the redundant single-source CRINK/readiness sections; softened frontmatter/Background from asserting CRINK as settled; rewrote Key Dynamics as a scannable spine |
+| [Iran]({{ site.baseurl }}/actors/countries/iran.html) | Added `# Key Dynamics` (previously absent); added `## Contested: Are the Houthis Iran's proxy or an independent actor?` (Pape vs GPF/Bokhari, open fork), `## Contested: Is Iran's regional position declining or ascendant?` (Bokhari vs Pape, scope mismatch), and `## Contested: Is Iran a coherent strategist or factionally incoherent?` (Pape/Friedman vs Fowler, open fork); restated Hormuz control as ISW's assessment rather than flat fact |
+| [Hormuz Toll System Negotiations]({{ site.baseurl }}/events/hormuz-toll-system.html) | Mirrored the Hormuz-control attribution fix |
+| [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html), [Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html), [Michael Beckley]({{ site.baseurl }}/actors/authors/michael-beckley.html), [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html), [Geopolitical Futures]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) | Added `# Track Record` (Resolved/Open) sections; corrected GPF's "complementary tension" framing of the O'Brien split to a stated fork, tested against the Iran-war case |
+
+Remaining 24 theme files and handoff conflicts #5 (Cipher Brief self-contradiction) and #6 (NATO Ankara Summit) are recorded in Analytical Fault Lines for a future refine pass.
+
+**Validator:** 171 files structurally valid, 49 warnings (broken links, tolerated) — unchanged from the pre-run baseline.
+
 ## 2026-07-28 — Source Incorporation: 9 Sources (Iran Strategy, North Korea, Ukraine Strikes, Autonomous Warfare, China Economy, Nordic Security)
 
 Incorporated 9 new sources into the knowledge base, dissolving their analytical content across 26 existing concepts and 5 new concepts. 241 claims mapped across 36 destination files. Seven parallel worker groups with exclusive write sets, coordinated by the orchestrator.

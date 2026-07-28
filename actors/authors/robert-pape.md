@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Professor running the "Escalation Trap" newsletter — frameworks on leverage dynamics, the three-stage Escalation Trap, suicide terrorism strategic logic, and two engines driving the US-Iran war toward Stage 3 ground operations
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-07-26T00:00:00Z
+timestamp: 2026-07-28T00:00:00Z
 ---
 
 # Background
@@ -121,6 +121,22 @@ Thomas Griffith — a US Air Force officer, Gulf War POW, and Pape's former stud
 A prolonged collapse of electricity in Tehran would not simply create humanitarian suffering — it would ensure that millions of ordinary Iranians personally experience the war inside their own homes for the first time. Every family forced to watch an elderly parent die from heat, every child without clean water, every patient denied dialysis becomes another powerful source of motivation for retaliation. If history is any guide, the result would be not political surrender but a generation of Iranians determined to seek payback against Americans, Israelis, and the countries hosting US forces — whether that revenge comes next month or years from now. Iran's Foreign Minister Abbas Araghchi has already stated the doctrine plainly: "eye for an eye. Any aggression against Iran, including our infrastructure, will compel a powerful and decisive response" [19].
 
 This is, for Pape, the essence of the Escalation Trap. Once punishment replaces denial as the primary military strategy, both sides become convinced that more escalation — not less — is necessary. Each new round of punishment creates stronger incentives for retaliation, while every act of retaliation convinces the attacker that still greater punishment is required. The result is not a path toward ending the war but a **self-reinforcing spiral** in which the political logic increasingly overwhelms the military logic [19]. See [Escalation Theory Critique]({{ site.baseurl }}/themes/escalation-theory-critique.html) and [Geoeconomics of Water]({{ site.baseurl }}/themes/geoeconomics-of-water.html).
+
+# Track Record
+
+**Resolved**
+
+- 2026-02-25 — the original three-stage Escalation Trap framework forecast Iran would counter-escalate and contest Hormuz rather than capitulate after Stage 1 bombing. Confirmed: Iran took Hormuz in Stage 2, "as Pape predicted before the first bombs fell." **Hit.**
+- 2026 (undated, pre-dates the Hormuz reframe) — Pape's chokepoint-control reframe generated the forecast that commercial shipping would become the next escalation pathway. Confirmed by subsequent tanker and anti-ship-missile attacks. **Hit.**
+- Pre-2003 (background calibration, not Iran-war-specific) — from suicide-terrorism research, Pape uniquely predicted that invading Iraq would touch off the largest suicide terrorist campaign in modern times. Confirmed. **Hit.** No corresponding miss is on record in this file yet; that asymmetry should be corrected as evidence of a wrong call surfaces, not assumed not to exist.
+
+**Open**
+
+- 2026-07-19 ("The Gathering Storm") — forecasts August 2026 as the war's decisive month, driven by SPR depletion and post-funeral Iranian resolve [5]. Resolves once August 2026 reporting is available.
+- 2026-07-20/21 (Breaking Analysis #7 / Hormuz-midterms analysis) — the war continues "at least through January" 2027 [8][16]. Resolves as that window closes.
+- Standing (three-stage framework) — if Trump does not escalate to Stage 3, Pape's model predicts Iran becomes "the fourth center of world power within a year or two" [7][8]. Conditional on Trump's choice; watch for the branch taken.
+- Iran as a coherent, phase-driven strategic actor is disputed by Fowler's factional-incoherence reading — see the `## Contested: Is Iran a coherent strategist or factionally incoherent?` block in [Iran]({{ site.baseurl }}/actors/countries/iran.html).
+- Pape's reading of Houthi strikes as Iran-directed leverage is disputed by GPF's independent-actor reading — see the `## Contested: Are the Houthis Iran's proxy or an independent actor?` block in [Iran]({{ site.baseurl }}/actors/countries/iran.html).
 
 # Sources in Bundle
 

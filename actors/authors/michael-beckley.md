@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Political scientist arguing that the US possesses the only true sphere of influence — asymmetric hegemony in the Western Hemisphere that China and Russia cannot replicate
 tags: [author, framework]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-28T00:00:00Z
 ---
 
 # Background
@@ -21,6 +21,12 @@ Beckley argues that the US enjoys a monopoly on true sphere-of-influence control
 ## Military and Economic Centrality
 
 The US remains the military and economic center of gravity for the Western coalition. The dollar zone, military preponderance, and geographic depth combine to create a structural advantage that persists even as individual capabilities erode. The implication is that declinist narratives that extrapolate from specific failures (e.g., the [Iran war]({{ site.baseurl }}/conflicts/us-iran-war-2026.html)) to systemic decline miss the structural resilience of the US position [1].
+
+# Track Record
+
+**Open**
+
+- Standing — declinist narratives that extrapolate from specific failures (the Iran war) miss the structural resilience of US hegemony [1]. This is the Beckley side of the `## Contested: Is the US in decline?` block in [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html), opposite O'Brien's compounding-decline reading. No resolution yet; the file's tiebreaker (allied readiness recovery vs. hemispheric structural indicators) has not been checked against events.
 
 # Sources in Bundle
 

@@ -12,7 +12,7 @@ timestamp: 2026-07-28T00:00:00Z
 
 # Background
 
-Throughout the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), [Iran]({{ site.baseurl }}/actors/countries/iran.html) demonstrated that the Strait of Hormuz remains open not because the [United States]({{ site.baseurl }}/actors/countries/united-states.html) enforces freedom of navigation but because Iran permits it. The war crystallized Iran's chokepoint control into a concrete proposal: a permanent toll system for Hormuz transit, negotiated through [Oman]({{ site.baseurl }}/actors/countries/oman.html), that would formalize Iran's role as gatekeeper of 20% of global oil flows.
+Throughout the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), ISW's assessment is that the Strait of Hormuz remains open not because the [United States]({{ site.baseurl }}/actors/countries/united-states.html) enforces freedom of navigation but because [Iran]({{ site.baseurl }}/actors/countries/iran.html) permits it — see [Iran]({{ site.baseurl }}/actors/countries/iran.html) for the full basis of that assessment and its limits. The war crystallized Iran's chokepoint control into a concrete proposal: a permanent toll system for Hormuz transit, negotiated through [Oman]({{ site.baseurl }}/actors/countries/oman.html), that would formalize Iran's role as gatekeeper of 20% of global oil flows.
 
 Multiple Iranian officials have framed the toll negotiations not as a revenue exercise but as a bid for sovereignty over the strait itself. Tehran's primary objective is securing formal recognition of its authority over Hormuz passage — a goal that outranks any transit-fee income in the hierarchy of Iranian strategic aims [5].
 

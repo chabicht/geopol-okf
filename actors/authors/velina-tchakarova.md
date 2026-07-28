@@ -71,6 +71,17 @@ Tchakarova's Day 150 diagnostic marks a further qualitative shift beyond Day 144
 - [NATO]({{ site.baseurl }}/actors/organizations/nato.html) deterrence posture and European conventional defense
 - Latin American hemispheric realignment
 
+# Track Record
+
+**Resolved**
+
+- Day 144 diagnostic — S2 (Russia-Ukraine) was initially read as "effectively lost" on the grain corridor; the Day 150 diagnostic revised this down to CRITICAL-BOUNDED once the corridor evidence was reassessed. A self-correction on the record rather than a silent revision — this is the calibration behavior this section exists to track. **Hit on process, not just outcome.**
+
+**Open**
+
+- DragonBear axis / CRINK framing — Tchakarova's reading of deepening China-Russia-Iran-North Korea coordination is challenged by Ueki's bilateral-only reading. The `## Contested: Is CRINK a coalition or four bilateral relationships?` block in [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) resolves this narrowly toward Ueki on the four-way coalition question, while leaving Tchakarova's bilateral DragonBear reading (China-Russia specifically) unchallenged.
+- Standing — the Simultaneity Matrix's RUPTURE-level readings (S1, S4, S5 as of Day 150) are live diagnostic calls; each carries its own resolution condition tracked in [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) rather than here.
+
 # Sources in Bundle
 
 - "Ceasefire in Iran" [1]

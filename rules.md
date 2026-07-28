@@ -190,11 +190,28 @@ The body uses standard markdown with conventional section headings:
 |---------|-------------|
 | `# Background` | Evergreen/structural context — geography, history, fundamentals. Always relevant. |
 | `# Current Situation` | Time-bound description of the present state. Updated as things evolve. |
-| `# Key Dynamics` | For regions/themes: the structural forces that shape the concept. |
+| `# Key Dynamics` | For regions/themes/country actors: the structural forces that shape the concept (see §7.1). |
 | `# Analysis` | Dissolved analytical content (see §8). |
 | `# Citations` | Numbered external sources. Always at the bottom of the document. |
 
 Not all sections are required for every concept. Use what applies.
+
+### 7.1 Key Dynamics as the scannable spine
+
+`# Key Dynamics` is REQUIRED for every `Theme`, `Region`, and country `Actor`
+concept — it is the layer a reader scans before deciding to read further, so it
+must stand on its own.
+
+- 4–8 bullets, no more. If a file needs more than 8 to feel complete, the
+  underlying claims need consolidating, not the bullet count raised.
+- Each bullet: **bolded claim-lead** + one sentence of support + citation.
+  Target ≤40 words. Example:
+  `**Simultaneity is the weapon.** Each crisis is individually manageable; the convergence is not. [4]`
+- Key Dynamics summarizes claims that already exist elsewhere in the body — it
+  never introduces a claim found nowhere else in the file.
+- Every `## Contested:` block in the file (§8.4) gets exactly one bullet here,
+  prefixed `**Contested — <question>.**`, pointing a reader to the full
+  Analysis subsection rather than restating both sides in miniature.
 
 ---
 
@@ -237,6 +254,68 @@ Analytical frameworks that apply broadly (e.g., "Global System Rupture",
 "energy is power") become **theme concepts** in `themes/`, where the framework
 itself is the concept.
 
+### 8.4 Contested assessments
+
+When two named sources make **directly opposed, falsifiable claims on the same
+live question**, do not silently juxtapose them in separate subsections and do
+not resolve the tension by deleting one side. Give the split its own `##`
+subsection inside `# Analysis`, titled `## Contested: <question>`, in a fixed
+four-part shape:
+
+```markdown
+## Contested: Is the US in decline?
+
+O'Brien reads decline as compounding rather than gradual — he doubts the US
+could win even the opening battles of a China war. [5] Beckley's framework
+inverts this: asymmetric spheres of influence mask the structural durability
+of US hegemony, and declinist readings extrapolate from specific failures. [6]
+
+The split is methodological, not evidential — O'Brien reads leader choices,
+Beckley reads structural stocks. Neither disputes the other's facts.
+
+**Tiebreaker:** allied follow-through on the Ankara Summit pledges through Q1 2027.
+**Status:** open fork.
+```
+
+Requirements:
+
+- Name and cite both sides.
+- One sentence stating *why* they differ — methodology, timing, source access,
+  scope — not just that they differ.
+- `**Tiebreaker:**` — a concrete, near-term, falsifiable observable that would
+  settle or narrow the question. If none exists, say why not instead of
+  omitting the line.
+- `**Status:**` — one of a closed set: `open fork`; `resolved — <side>, <reason>`;
+  or `scope mismatch — both hold, <scope distinction>`. A "resolved" or "scope
+  mismatch" status still keeps both sides' claims in the prose — it narrows or
+  adjudicates, it never deletes.
+- A `## Contested:` block earns one `# Key Dynamics` bullet (§7.1); it does not
+  duplicate its full content there.
+
+### 8.5 Author calibration
+
+Every `actors/authors/*.md` file gets a `# Track Record` section, placed
+immediately before `# Sources in Bundle`, with two lists:
+
+- **Resolved** — a dated call, the outcome, and a hit/miss verdict with the
+  reason (methodology, timing, evidence quality). Record misses as
+  deliberately as hits; a file that only records confirmations is not a track
+  record.
+- **Open** — a dated standing forecast still outstanding, and what observable
+  would resolve it.
+
+A call adjudicated by a `## Contested:` block elsewhere in the bundle gets an
+entry here for every author on both sides of that block.
+
+**Single-publication-as-single-voice.** A multi-author outlet (GPF, ISW, RUSI,
+CSIS, The Cipher Brief, etc.) is not one analytical voice. Attribute claims to
+the individual byline wherever it's known, both in body prose and in that
+outlet's `actors/authors/*.md` file. If two pieces from the same outlet
+conflict, that is an author-level `## Contested:` conflict (§8.4) between
+their bylines, not evidence the outlet is incoherent — unless no byline is
+available, in which case say explicitly that the outlet does not speak with
+one voice on the question.
+
 ---
 
 ## 9. Cross-linking
@@ -261,14 +340,21 @@ itself is the concept.
   document.
 - The primary citation is the **original article URL** (from the source's
   `source:` frontmatter field).
-- Citation format:
+- Citation format carries author, title, date, and URL — not a bare or
+  title-only link. The date comes from the source file's date-prefixed
+  filename or `timestamp` frontmatter:
 
 ```markdown
 # Citations
 
-[1] [Early Lessons From The US-Iran War](https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war)
-[2] [Ceasefire in Iran](https://substack.com/@velinatchakarova/p-202096137)
+[1] Phillips O'Brien, "Early Lessons From The US-Iran War", 2026-06-30 — https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war
+[2] Velina Tchakarova, "Ceasefire in Iran", 2026-07-01 — https://substack.com/@velinatchakarova/p-202096137
 ```
+
+Author calibration (§8.5) depends on dated citations — without a date, a
+standing forecast can't be checked against when it was made. Fix existing
+undated or bare-link entries opportunistically in any file a refine pass
+already touches; this is not a mandate for a corpus-wide reformatting sweep.
 
 ---
 
@@ -303,6 +389,12 @@ not `energy-policy`).
 ### 11.4 Conflict character tags
 
 `kinetic`, `gray-zone`, `cold-war`, `proxy`, `insurgency`, `hybrid`
+
+### 11.4a Meta tags
+
+`contested` — the concept contains one or more `## Contested:` blocks (§8.4).
+`fault-line` — the concept documents a recurring cross-concept methodological
+split (see `themes/analytical-fault-lines.md`).
 
 ### 11.5 Source-type tags (context only, not on concepts)
 

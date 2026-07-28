@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Military historian and analyst — author of "War and Power" — arguing that wars are choices of individual leaders, that cheap mass beats expensive precision, and that US decline is accelerating faster than expected
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-07-26T23:00:00Z
+timestamp: 2026-07-28T00:00:00Z
 ---
 
 # Background
@@ -101,6 +101,18 @@ The synthesis: a war of choice, with no achievable objective, that depletes the 
 O'Brien advances a framework that cuts against one of the most deeply romanticized assumptions in military culture: that bravery is a decisive warfighting virtue. The historical record, he argues, demonstrates the opposite. The bravest soldiers of World War II — the Japanese — lost. Italian soldiers were demonstrably brave yet underequipped, and their courage did not compensate for material deficiency. US and British soldiers, who enjoyed the highest survival rates of the war, prevailed not through superior valor but through superior logistics, technology, and adaptability. Wars are won by the smartest, most adaptable, best-equipped soldiers who believe they are not being sacrificed for nothing [19].
 
 The framework has immediate diagnostic application to the [United States]({{ site.baseurl }}/actors/countries/united-states.html) under Secretary Hegseth. The Department of War's announcement of testosterone screening for soldiers — what O'Brien calls the "High-T Department of War" — equates warfighting capacity with testosterone levels, despite the medical reality that testosterone boosting is linked to infertility. Hegseth has long emphasized hyper-masculine bravery as a military virtue, citing E.B. Sledge's Pacific campaign accounts and praising the "brave" on the Kelly podcast in 2024. O'Brien reads this as a symptom of an institution stressing all the wrong things — romantic sacrifice narratives instead of the education, technological sophistication, and thoughtfulness that actually correlate with battlefield success. The US military, on this analysis, is culturally preparing for failure by celebrating the qualities that do not win wars while neglecting those that do [19]. See [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) and [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
+
+# Track Record
+
+**Resolved**
+
+- 2026-07 (Weekend Update #195) — predicted that if Zelensky kept Fedorov permanently sidelined, the Drapatyi command-change crisis would not resolve to the best outcome. Consistent with the qualified, "not the best" reading O'Brien gave at the time [22].
+
+**Open**
+
+- 2026-07-22 (Midweek Update #20) — doubts the US could win even the opening battles of a China war, given post-Iran-war interceptor depletion [20]. This is the O'Brien side of the `## Contested: Is the US in decline?` block in [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html), where Beckley's structural-durability reading takes the opposite side. Resolves as allied readiness metrics and Ankara Summit follow-through become observable.
+- Standing (war-termination framework) — the Russia-Ukraine war ends only once both Putin and Zelensky independently conclude a settlement beats continued fighting; O'Brien identifies no such condition met yet [21]. No date attached, so treat as a standing structural forecast rather than a near-term call.
+- Standing (leader-choice framework) — O'Brien's foundational claim that wars are choices of individual leaders, not state structures, is the O'Brien side of the recurring agency-vs-structure fault line; see [Analytical Fault Lines]({{ site.baseurl }}/themes/analytical-fault-lines.html) for where GPF/Friedman's structural counter-reading currently stands.
 
 # Sources in Bundle
 

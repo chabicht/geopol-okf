@@ -16,7 +16,7 @@ Geopolitical Futures is a strategic analysis publication founded by George Fried
 
 ## Structural Drivers Over Personality
 
-GPF's analytical approach prioritizes structural factors — geographic constraints, demographic trajectories, institutional capacity — over the individual leader decisions that [O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) emphasizes. This creates a complementary tension: GPF explains why structural pressures exist, while O'Brien explains why the timing and direction of action depend on the specific leader in power.
+GPF's analytical approach prioritizes structural factors — geographic constraints, demographic trajectories, institutional capacity — over the individual leader decisions that [O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) emphasizes. This was previously characterized here as "a complementary tension," but the characterization was asserted rather than tested. Friedman's "Thinking About Iran's Strategy" reads US Iran-war strategy as following a structural war-termination pattern comparable to Vietnam, Iraq, and Afghanistan — patient, structurally bounded drawdown — while O'Brien's framework predicts erratic, personality-driven escalation tracking Trump's political calculus. These generate different near-term predictions about US behavior, which makes this a genuine fork in the agency-vs-structure fault line, not a complementary pairing. See the `## Contested: Is the US in decline?` block in [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) and [Analytical Fault Lines]({{ site.baseurl }}/themes/analytical-fault-lines.html).
 
 ## GeoEconomicLens as Systemic Product
 
@@ -53,6 +53,18 @@ GPF contends that Iran supplies resources — military technology, intelligence,
 The analysis traces specific Houthi actions as instruments of political coercion rather than ideological solidarity with Iran: the July 13-14 missile and drone strikes on Saudi Arabia's Abha airport, launched after accusing the Saudis of attacking Sanaa International Airport while a Houthi delegation returning from Tehran attempted to land, followed by a July 21 announcement imposing a maritime blockade on Saudi Arabia. GPF reads these moves as carefully calibrated escalation designed to exploit Saudi Arabia's desire to safeguard its economic transformation plans — limited coercion that reminds Riyadh of Houthi capacity to impose economic and political pain without triggering a full return to war.
 
 GPF's broader argument concerns the cohesion of Iran's proxy network as Tehran's position deteriorates. As Iran loses influence through successive military setbacks, economic pressure, and the weakening of allied groups, the Houthis' standing relative to the internationally recognized government in Aden declines, giving them every incentive to demonstrate coercive power independent of Iran. The Houthis have also capitalized on the Saudi-Emirati rift over Yemen's political future — Riyadh backing the Aden government while Abu Dhabi supports the Southern Transitional Council — which prevents a united anti-Houthi front and grants the movement room to consolidate control in northern Yemen. GPF concludes that as Iran's position deteriorates, the cohesion of its regional network will depend increasingly on the independent calculations of its members rather than direction from Tehran, a dynamic that limits Iran's ability to offset conventional military losses through its partners and explains why the regional balance of power is shifting against Iran despite sporadic "successes" in the Red Sea and the Gulf [30].
+
+# Track Record
+
+**Open**
+
+- 2026-07-15 (Bokhari, "As Iran Declines, Turkey Advances") — Iran's regional proxy and alliance network is weakening as Turkey fills the vacuum [20]. This is one side of the `## Contested: Is Iran's regional position declining or ascendant?` block in [Iran]({{ site.baseurl }}/actors/countries/iran.html), currently resolved as a scope mismatch against Pape's wartime-leverage reading rather than a head-on contradiction — both stand.
+- 2026-07-24 (Bokhari, "The Houthis Are Not Fighting Iran's War") — Houthi restraint through most of the war reflects an autonomous actor pursuing Yemen consolidation, not Iranian direction [30]. This is the GPF side of the `## Contested: Are the Houthis Iran's proxy or an independent actor?` block in [Iran]({{ site.baseurl }}/actors/countries/iran.html), open against Pape's proxy-leverage reading. Resolves on whether the next Houthi escalation tracks Iranian strategic timing or Yemen-local triggers.
+- Standing (Friedman, "Thinking About Iran's Strategy") — US Iran-war strategy follows a structural war-termination pattern (Vietnam/Iraq/Afghanistan analogy) [31]. This is the structural side of the agency-vs-structure fork against O'Brien in the `## Contested: Is the US in decline?` block in [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) — see the correction above to the "complementary tension" framing.
+
+**Single-publication-as-single-voice**
+
+Per rules.md §8.5, "GPF" is not one analytical voice — see the Analyst Bench above for the per-contributor breakdown already in use here. Track Record entries above are attributed to the individual contributor (Bokhari, Friedman) rather than to "GPF" generically, and future entries should follow the same practice.
 
 # Sources in Bundle
 
