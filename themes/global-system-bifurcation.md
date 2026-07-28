@@ -9,7 +9,7 @@ tags:
   - supply-chain
   - sanctions
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-28T00:00:00Z
 ---
 
 # Background
@@ -55,6 +55,10 @@ The relationship between the two frameworks is sequential: rupture is the acute 
 
 The bifurcation is the economic dimension of the [Cold War 2.0]({{ site.baseurl }}/conflicts/cold-war-2.html) and the broader [great power competition]({{ site.baseurl }}/themes/great-power-competition.html) framework. The trade data confirms what policy analysis predicted: the system is splitting into two gravitational centers, with middle powers positioned between them. The [Middle Power Mirage]({{ site.baseurl }}/themes/great-power-competition.html) analysis — the finding that most middle powers lack the strategic autonomy to function as independent actors — suggests the bifurcation will deepen, as states that cannot anchor their own bloc will be pulled into an existing one [1].
 
+The new bipolar order is more accurately understood as a competition between two rival geopolitical ecosystems — the US-led coalition and the DragonBear — rather than between two economies. The outcome will be determined by which ecosystem proves more resilient, adaptive, and capable of orchestrating full-spectrum power, not by comparative GDP growth rates [2].
+
 # Citations
 
 [1] [Global System Bifurcation](https://substack.com/@velinatchakarova/p-205754684)
+
+[2] [China's Steady Economic Decline](https://substack.com/@velinatchakarova/p-208670863)

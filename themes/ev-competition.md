@@ -10,7 +10,7 @@ tags:
   - critical-minerals
   - economics
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-28T00:00:00Z
 ---
 
 # Background
@@ -72,6 +72,8 @@ The main opportunity for Western competitors lies in the missing layers of the E
 
 CSIS estimates that Chinese EV industry subsidies totaled $231 billion from 2009 to 2023. German automakers paid out €31 billion in dividends in 2023 alone rather than reinvesting — complacency that has compounded European vulnerability. The Chinese export surge reflects structural industrial policy, not weak home demand [2].
 
+Yet the export headline obscures a weakening domestic base. China's domestic car market is stagnant, with sales down roughly 20% in 2025, and the marginal benefit of export growth is diminishing as destination markets mount trade defenses. The export surge is as much a symptom of domestic contraction as of industrial strength — excess production pushed abroad because domestic demand cannot absorb it [3].
+
 ## Germany at the Epicenter
 
 [Germany]({{ site.baseurl }}/actors/countries/germany.html) is at the epicenter of China Shock 2.0. Germany's trade balance with China swung by €27 billion between 2021 and 2025, with 60% of that swing accounted for by vehicles. Volkswagen announced plans to cut up to 100,000 jobs. Chancellor Merz has taken up the accusation of an undervalued Chinese currency and called for a new Plaza Accord. Tooze frames this as "mercantilist-on-mercantilist violence": Germany is itself a chronic trade surplus country, so China Shock 2.0 is competitive surplus against surplus [2].
@@ -92,3 +94,5 @@ CSIS estimates that Chinese EV industry subsidies totaled $231 billion from 2009
 [1] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
 
 [2] [Chartbook 454: China Shock 2.0 and Mercantilist-on-Mercantilist Violence](https://adamtooze.substack.com/p/chartbook-454-china-shock-20-and)
+
+[3] [China's Moment of Weakness](https://www.foreignaffairs.com/china/chinas-moment-weakness)

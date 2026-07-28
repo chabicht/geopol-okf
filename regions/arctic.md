@@ -68,8 +68,14 @@ Fleet design for cold waters exposes a fundamental Western weakness. Blue-water 
 
 The sustainable capabilities gap is acute. Although NATO has increased Arctic military activity to counter Russia and the Arctic has evolved from a peripheral concern to a permanent operational environment, institutionalized cold-water expertise resides almost exclusively in Canada, Denmark, and Norway — insufficient for comprehensive defense. The fisheries dimension remains underappreciated, particularly in the Barents Sea, where Chinese distant-water fishing fleets may expand their presence. Most Western coast guards lack the capability for sustained cold-weather constabulary operations, and the challenge demands constabulary as well as naval capabilities. Adrians proposes doctrinal standardization best achieved through the US Navy, beginning with revision of the 1988 Cold Weather Handbook for Surface Ships, incorporating allied experience with Germany playing an active role, and extending cooperation to Japan for Arctic–North Pacific defense integration [2].
 
+## Svalbard's Strategic Exposure
+
+Svalbard's position near the GIUK-N gap and its proximity to [Russia]({{ site.baseurl }}/actors/countries/russia.html)'s Northern Fleet on the Kola Peninsula give the archipelago military relevance beyond its legal status: it overlooks the routes Russian submarines must transit to reach the Atlantic. James Wither (2018) warned that Svalbard's distance from Norway, Russia's civilian presence at Barentsburg, and the absence of dispute arbitration mechanisms leave it "exposed both politically and militarily." The [Svalbard Treaty]({{ site.baseurl }}/events/svalbard-treaty.html) bars naval bases and fortifications but does not prohibit naval patrols or non-warlike military presence — a partial constraint that some argue is increasingly out of step with the militarized Arctic reality [3].
+
 # Citations
 
 [1] [Die neue Arktisstrategie der EU](https://www.swp-berlin.org/publikation/die-neue-arktisstrategie-der-eu-chancen-fuer-europas-digitale-souveraenitaet)
 
 [2] [Defining the White Water Zone: Cold Seas as a Distinct Category for the Operational Ordering of Maritime Domain](https://www.swp-berlin.org/en/swp/working-groups/reordering-european-security)
+
+[3] [Why Norway and Finland Should Preserve Two of Europe's Most Important Demilitarized Zones](https://warontherocks.com/why-norway-and-finland-should-preserve-two-of-europes-most-important-demilitarized-zones/)

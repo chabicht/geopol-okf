@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Strategic analysis publication providing structured geopolitical assessments with maps and structural drivers — covering great power competition, Middle East security architecture, alliance evolution, rare earth supply chains, and Eurasian realignment. Publishes the monthly GeoEconomicLens report examining the global economy through a geopolitical lens.
 tags: [author, framework]
 status: ongoing
-timestamp: 2026-07-26T00:00:00Z
+timestamp: 2026-07-28T00:00:00Z
 ---
 
 # Background
@@ -86,6 +86,7 @@ GPF's broader argument concerns the cohesion of Iran's proxy network as Tehran's
 - "The Promise of Ukraine's Military-Industrial Complex" [28]
 - "Choking the Grain Trade" [29]
 - "The Houthis Are Not Fighting Iran's War" [30]
+- "Thinking About Iran's Strategy" [31]
 
 # Citations
 
@@ -148,3 +149,5 @@ GPF's broader argument concerns the cohesion of Iran's proxy network as Tehran's
 [29] [Choking the Grain Trade](https://geopoliticalfutures.com/choking-the-grain-trade/)
 
 [30] [The Houthis Are Not Fighting Iran's War](https://geopoliticalfutures.com/the-houthis-are-not-fighting-irans-war/)
+
+[31] [Thinking About Iran's Strategy](https://geopoliticalfutures.com/thinking-about-irans-strategy/)

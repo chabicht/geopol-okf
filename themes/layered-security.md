@@ -50,6 +50,14 @@ The emergence of layered security reflects the broader [great power competition]
 
 The binding constraint is mindset, not resources or geography. Tchakarova identifies three compounding deficits: mindset, capabilities, and political cohesion — the last two downstream of the first. The "narrated world" pathology — in which narration replaces analysis and virtue replaces vision — produces crisis-management summits and emergency packages that feel like action while changing nothing structural. Layered security arrangements that emerge from this mindset will be declaratory rather than operational, convening rather than executing. The gap between the coalition of the anxious and something a great power must reckon with is years of unglamorous work: shipyards that launch submarines, air defense batteries that exist outside a procurement announcement, and magazines refilled after half their contents went to [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) [3].
 
+### Treaty Restraint as Layered Security
+
+Two arguments drive the case for revising century-old demilitarization treaties in Northern Europe. First, Norway and [Finland]({{ site.baseurl }}/actors/countries/finland.html) now sit at the frontline of an alliance facing revisionist [Russia]({{ site.baseurl }}/actors/countries/russia.html). Second, the rules-based international order underpinning these treaties is under siege — a siege that extends well beyond the Arctic or the Baltic. China dismissed the 2016 Permanent Court of Arbitration ruling against its South China Sea claims without consequence; if a major economy can disregard an adverse international legal ruling, the credibility of rules-based constraints is damaged for everyone. The question for Oslo and Helsinki is direct: why continue observing treaty restrictions when large and powerful neighbors regard the rules-based order as rhetoric? [4]
+
+The military gains from treaty revision would be modest. The diplomatic and normative costs of abandonment would be substantial: handing Russia a propaganda victory, antagonizing dozens of treaty signatories, and signaling that Norway and Finland regard legal obligations as optional. For smaller states, a reputation for keeping agreements is a strategic asset — the kind of asset that layered security arrangements depend on but cannot replace [4].
+
+The rules-based international order is fraying, and the temptation to shelve century-old restrictions is understandable, but it would be a mistake. For the [Åland Islands]({{ site.baseurl }}/events/aland-islands-convention.html), Finnish forces are adequate without permanent military presence, and Article 7(ii) of the convention already provides for emergency defensive measures. For [Svalbard]({{ site.baseurl }}/events/svalbard-treaty.html), Norway coped with treaty restrictions throughout the Cold War against a far more capable Soviet threat. The Svalbard Treaty has lasted over a century; the demilitarized status of Åland traces back to 1856. The restrictions pose more of an inconvenience than a strategic liability — a framing consistent with the broader logic of layered security, where restraint and legal commitment function as strategic tools rather than constraints to be discarded when convenient [4].
+
 # Citations
 
 [1] [Outgrowing Old Alliance Behavior](https://geopoliticalfutures.com/outgrowing-old-alliance-behavior/)
@@ -57,3 +65,5 @@ The binding constraint is mindset, not resources or geography. Tchakarova identi
 [2] [The Evolution of the Collective Security Treaty Organization](https://geopoliticalfutures.com/the-evolution-of-the-collective-security-treaty-organization/)
 
 [3] [The Middle Power Mirage: Colby, the Skeptics, and the Verdict Nobody Wants](https://substack.com/@velinatchakarova/p-207135676)
+
+[4] [Why Norway and Finland Should Preserve Two of Europe's Most Important Demilitarized Zones](https://warontherocks.com/why-norway-and-finland-should-preserve-two-of-europes-most-important-demilitarized-zones/)

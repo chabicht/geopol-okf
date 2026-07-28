@@ -22,6 +22,8 @@ The Greenland crisis has alienated Europe's populist Right. France's [Bardella](
 
 Trump's approach to U.S. troops in Europe is not genuine retrenchment but "illiberal hegemony" — using troop threats to extort defense spending pledges without a coherent plan for European security autonomy [7]. GPF forecasts the EU will devolve into a multiregional system rather than a unified bloc, with the Franco-German engine constrained by domestic stagnation and the Poland-Romania-Greece axis anchoring Eastern Europe's containment line [8].
 
+At the 62nd Munich Security Conference (February 2026), Secretary of State Marco Rubio dismissed the post-Cold War rules-based global order as "a foolish idea that ignored both human nature and the lessons of over 5,000 years of recorded human history." Secretary of Defense Pete Hegseth was equally dismissive: "We let ourselves get distracted by empty globalist rhetoric about the rules-based international order, while European capitals threw open their borders and hollowed out their militaries." The rhetoric from two of Washington's most senior national security officials signals that the transatlantic fracture is not merely a Trump-era aberration but a structural reorientation — one with direct implications for European treaty regimes such as the [Svalbard Treaty]({{ site.baseurl }}/events/svalbard-treaty.html) and the [Åland Islands Convention]({{ site.baseurl }}/events/aland-islands-convention.html), which depend on shared faith in rules-based constraints [32].
+
 ## NATO Evolution and Defense Autonomy
 
 [Germany]({{ site.baseurl }}/actors/countries/germany.html) published its first military strategy; it reads more as analysis than operational instructions, reflecting the early stage of strategic recalibration. The Bundeswehr is focused on the Russia threat, with recognition that Europe must provide its own conventional defense. Germany's stated timeline: defend by 2029, full capabilities by 2035, strongest army by 2039 [9]. A 5% GDP NATO spending target by 2035 has been set; Poland, the Baltics, Denmark, and Finland are already moving toward it, while larger economies lag. See [NATO]({{ site.baseurl }}/actors/organizations/nato.html) and [EU]({{ site.baseurl }}/actors/organizations/eu.html).
@@ -136,3 +138,5 @@ The EU is expanding free trade with Southeast Asia: negotiations with Indonesia 
 [30] [OCCRP — leaked documents reveal Russian cognitive strikes](https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris)
 
 [31] [Velinatchakarova — broader geopolitical context](https://substack.com/@velinatchakarova/p-204418261)
+
+[32] [Why Norway and Finland Should Preserve Two of Europe's Most Important Demilitarized Zones](https://warontherocks.com/why-norway-and-finland-should-preserve-two-of-europes-most-important-demilitarized-zones/)

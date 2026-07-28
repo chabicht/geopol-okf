@@ -5,7 +5,7 @@ parent: Countries
 description: Ukraine as a geopolitical actor — innovating in drone warfare and deep-strike doctrine, transforming its force structure under Western dependency, and pressuring Belarus to curtail Russian supply lines
 tags: [country, military, drone-warfare, air-defense, europe]
 status: ongoing
-timestamp: 2026-07-26T23:00:00Z
+timestamp: 2026-07-28T00:00:00Z
 ---
 
 # Background
@@ -54,7 +54,7 @@ The dismissal raises the question of wartime governance as much as technology. O
 
 ## The Military-Industrial Transformation
 
-Ryvkin (GPF) reports that Ukraine's defense production capacity underwent an extraordinary expansion — rising from roughly 1 billion euros in 2022 to approximately 55 billion euros by 2026. By 2025, 82% of suppliers to the Ukrainian army were homegrown, and Ukraine emerged as the world's largest producer of military [drones]({{ site.baseurl }}/themes/drone-warfare.html), scaling production from 300,000 units in 2023 to 10 million annually. The sector encompasses approximately 1,200 defense companies. Yet the transformation faces structural constraints: banks remain unwilling to invest in production lines that are priority targets for Russian missiles, and at one point the industry produced more weapons than the military could procure — a surplus-capacity paradox that underscores both the speed of industrial mobilization and the lag in demand-side absorption [9]. See [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
+Ryvkin (GPF) reports that Ukraine's defense production capacity underwent an extraordinary expansion — rising from roughly 1 billion euros in 2022 to approximately 55 billion euros by 2026. By 2025, 82% of suppliers to the Ukrainian army were homegrown, and Ukraine emerged as the world's largest producer of military [drones]({{ site.baseurl }}/themes/drone-warfare.html), scaling production from 300,000 units in 2023 to 10 million annually. The sector encompasses approximately 1,200 defense companies. Yet the transformation faces structural constraints: banks remain unwilling to invest in production lines that are priority targets for Russian missiles, and at one point the industry produced more weapons than the military could procure — a surplus-capacity paradox that underscores both the speed of industrial mobilization and the lag in demand-side absorption [9]. ISW assesses that Ukraine has boosted domestic drone production sufficiently to increase both the size and frequency of its strike packages, and that Ukraine's DIB will likely sustain current output levels — enabling Kyiv to maintain the tempo of long-range strikes unless [Russia]({{ site.baseurl }}/actors/countries/russia.html) develops effective defensive countermeasures [17]. See [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
 
 ## Gulf Defense Partnerships and Strategic Repositioning
 
@@ -113,3 +113,5 @@ The S2→S4 cross-domain pairing in Tchakarova's framework has fused into a sing
 [15] [2014 HERO OF MARIUPOL BECOMES UKRAINE'S NEW ARMY CHIEF](https://www.youtube.com/watch?v=QNgFIWPnU5Y)
 
 [16] [Interview with Mykhailo Drapatyi — Ukraїner](https://www.youtube.com/watch?v=W8DZMpx--UA)
+
+[17] [Ukraine's Strike Campaigns Will Likely Continue to Hurt Russia's Economy and Military Operations in Ukraine](https://understandingwar.org/research/russia-ukraine/ukraines-strike-campaigns-will-likely-continue-to-hurt-russias-economy-and-military-operations-in-ukraine/)

@@ -53,3 +53,5 @@ permalink: /actors/countries/
 * [Tunisia](tunisia.html) - North African state under Saied's authoritarian consolidation — Europe's visibility deficit vs China's soft power advance
 * [Afghanistan](afghanistan.html) - State that collapsed because it lost the cognitive war before the battlefield; Taliban-controlled, facing ISIS-K and regional exploitation
 * [South Africa](south-africa.html) - ANC-led state whose xenophobic mobilization and GNU instability illustrate the intersection of economic distress, identity politics, and democratic erosion
+* [North Korea](north-korea.html) - Constitutionalizing nuclear centrality, abandoning unification, institutionalizing a "hostile two states" posture
+* [Finland](finland.html) - NATO's newest Baltic member navigating the Åland demilitarization debate

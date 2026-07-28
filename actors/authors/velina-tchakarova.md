@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Geopolitical analyst developing the Global System Rupture framework, DragonBear axis terminology, and FACE Intelligence Simultaneity methodology — tracking systemic stress across energy, trade, and conflict theaters
 tags: [author, framework]
 status: ongoing
-timestamp: 2026-07-26T00:00:00Z
+timestamp: 2026-07-28T00:00:00Z
 ---
 
 # Background
@@ -97,6 +97,7 @@ Tchakarova's Day 150 diagnostic marks a further qualitative shift beyond Day 144
 - "The Supervised Pause did not hold!" [22]
 - "Global System Rupture" [23]
 - "Global System Rupture - Update" [24]
+- "China's Steady Economic Decline" [25]
 
 # Citations
 
@@ -147,3 +148,5 @@ Tchakarova's Day 150 diagnostic marks a further qualitative shift beyond Day 144
 [23] [Global System Rupture](https://substack.com/@velinatchakarova/p-207969383)
 
 [24] [Global System Rupture - Update](https://substack.com/@velinatchakarova/p-208325909)
+
+[25] [China's Steady Economic Decline](https://substack.com/@velinatchakarova/p-208670863)

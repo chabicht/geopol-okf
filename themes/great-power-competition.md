@@ -9,7 +9,7 @@ tags:
   - economics
   - trade
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-07-28T00:00:00Z
 ---
 
 # Background
@@ -175,6 +175,28 @@ China-Russia military coordination has emerged as an operational challenge below
 
 Ueki challenges the CRINK framework as a basis for alliance strategy. CRINK does not exist as a strategic coalition; China does not treat it as a group, and cooperation with each member remains bilateral. No CRINK military exercise has occurred. China opposed a trilateral exercise with Russia and North Korea proposed by Shoigu. Treating CRINK as a unified coalition risks driving the four countries toward closer coordination — the opposite of the intended effect. Instead, the US and Japan should develop joint strategies for each country individually, based on each country's specific interests and circumstances. Ueki also argues for revisiting the "liberal deterrence" strategy — combining military deterrence with economic engagement — since China still benefits greatly from economic relations with advanced economies. China's competing strategic objectives (CRINK partnerships vs. Global South leadership vs. global power recognition) create opportunities for engagement that a purely militarized deterrence framework would miss. China's exports to the US far outweigh exports to Russia, and China has been actively strengthening relations with non-CRINK countries including ASEAN, Japan, France, the UK, Germany, and Canada — demonstrating that its most consequential relationships remain with the advanced economies it would alienate by fully embracing an "axis of upheaval" [30]. See [China]({{ site.baseurl }}/actors/countries/china.html), [Russia]({{ site.baseurl }}/actors/countries/russia.html), and [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html).
 
+## The Systemic Power Framework: Beyond GDP
+
+The US-China rivalry is not a race to become the world's largest economy but a competition between two fundamentally different models of systemic power [31]. The [United States]({{ site.baseurl }}/actors/countries/united-states.html) is the dominant financial and innovation superpower — possessing the reserve currency, the deepest capital markets, the AI frontier, semiconductor leadership, venture capital ecosystems, and global alliance networks. [China]({{ site.baseurl }}/actors/countries/china.html) is the dominant industrial and production superpower — commanding manufacturing scale, supply chain integration, strategic resource processing, and rapid military adaptation [31]. These are complementary asymmetries, not symmetric competitors: each side possesses what the other lacks, and the competition is over which model can better convert its asymmetric strengths into sustained systemic power.
+
+Nominal GDP is an increasingly incomplete measure of geopolitical power in the Fourth Industrial Revolution. The 4IR rewards the ability to combine technological innovation with manufacturing scale, supply chain depth, energy resilience, and data ecosystems — capabilities that nominal GDP captures only imperfectly [31]. Purchasing power parity better approximates China's industrial capacity than nominal GDP, though neither metric alone captures the full picture [31]. The central question of the New Cold War is which geopolitical ecosystem can command the critical sources of systemic power in the 4IR and AI era — not which economy grows faster [31]. The outcome will be determined by which ecosystem proves more resilient, adaptive, and capable of orchestrating full-spectrum power [31].
+
+The macroeconomic trajectory reinforces the US position. Since the end of 2021, US GDP has expanded 28% in dollar terms, while China grew 21% in RMB but only 11% in dollar terms — the exchange-rate gap compounds the real-economy gap [32]. There is no realistic chance of China overtaking the United States as the world's largest economy; the premise that drove much of the "China peak" anxiety of the 2010s has dissolved, and the US advantage is likely to expand further over the next decade [32].
+
+## Decoupling as Negotiation: Demand vs Supply Leverage
+
+US-China competition is better understood as a negotiation over the pace and scope of decoupling than as a race to develop capabilities — a race that, by definition, can never be won, because both sides already possess the capabilities in question [32]. The strategic question is who bears the cost of separation, and on what timeline.
+
+The leverage asymmetry favors demand over supply. An economy dependent on global demand cannot remain in perpetual trade conflict with its customers; Western demand restrictions become more powerful over time as they reshape supply chains, while China's supply restrictions weaken as diversification advances [32]. China has previously used demand-side leverage — restricting imports from Lithuania and halting US soybean purchases — demonstrating that the demand instrument is not unique to the West [32]. The US should similarly deploy demand-side tools: import quotas, tariffs, and technical standards that create price pressures on Chinese exporters [32].
+
+The Trump administration's approach has been supply-focused and counterproductive. By meeting China's supply threats with supply-side responses — trading rare earth access for scaled-back semiconductor export controls — Washington lost leverage [32]. China holds the surplus advantage on the supply side; the US holds the demand advantage through its consumer markets. Meeting supply with supply concedes the asymmetric edge [32].
+
+The corrective is a coordinated allied strategy: the US should lead allies in formal and informal negotiation, meeting Chinese rare earth controls with sector-specific trade defenses targeting machine tools, robots, chemicals, and ships, while deploying nontariff barriers and technical standards as force multipliers [32]. G-7 coordination is essential but Trump's tariffs on allies narrow the scope for collective action — and critics argue Beijing currently has more leverage, as export controls are more powerful than Western tariffs [32].
+
+The European dimension is intensifying. [Germany]({{ site.baseurl }}/actors/countries/germany.html) is losing approximately 10,000 manufacturing jobs per month, and European Council debates over trade safeguards reflect a changed continental calculus [32]. The longer Western economies delay coordinated demand-side responses, the more deeply Chinese export penetration erodes the industrial bases that would be needed to mount them [32].
+
+US-China strategic competition was not inevitable — it is the product of policy choices made in the 2010s, primarily Beijing's [32]. The US has a real but urgent opportunity to focus on the near-term deindustrialization threat; the sooner Washington's consensus shifts from supply-side reflexes to demand-side strategy, the better positioned the US and its allies will be [32].
+
 # Citations
 
 [1] https://thehonestsorcerer.substack.com/p/the-big-picture
@@ -231,3 +253,7 @@ Ueki challenges the CRINK framework as a basis for alliance strategy. CRINK does
 [29] [Beyond Deterrence: Evolving China-Russia Military Coordination and the U.S.-Japan Alliance](https://www.csis.org/analysis/beyond-deterrence-evolving-china-russia-military-coordination-and-us-japan-alliance)
 
 [30] [China and CRINK: Implications for Japan and the United States](https://www.csis.org/analysis/china-and-crink-implications-japan-and-united-states)
+
+[31] [China's Steady Economic Decline](https://substack.com/@velinatchakarova/p-208670863)
+
+[32] [China's Moment of Weakness](https://www.foreignaffairs.com/china/chinas-moment-weakness)

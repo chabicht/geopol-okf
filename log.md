@@ -4,6 +4,68 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-07-28 — Source Incorporation: 9 Sources (Iran Strategy, North Korea, Ukraine Strikes, Autonomous Warfare, China Economy, Nordic Security)
+
+Incorporated 9 new sources into the knowledge base, dissolving their analytical content across 26 existing concepts and 5 new concepts. 241 claims mapped across 36 destination files. Seven parallel worker groups with exclusive write sets, coordinated by the orchestrator.
+
+**Run ID:** inc-20260728-004041
+**Baseline commit:** 967e5f005d1bd988f823bef6f615d7312478ffec
+**Model:** fireworks/accounts/fireworks/models/glm-5p2 (text)
+
+**Sources:**
+1. **"How Iran Hopes to Control the Strait of Hormuz: It's Not Just About Fees"** (ISW / Nadia Sleiman, 2026-07-26) — Iran's sovereignty objective, two-path control strategy, fee vs. coercion, shipping transit options, blockade scope limitations. `sources/2026-07-26 understandingwar.org How Iran Hopes to Control the Strait of Hormuz It's Not Just About Fees.md` — SHA-256: `a009c19486739829a756060090d1591aa0f1bf4ab19a30d6f0f3efef60edf44f`
+2. **"North Korea's Constitutional Amendments Cement the Regime's Strategic Posture"** (ISW / Jennifer Cafarella, 2026-07-26) — Nuclear command authority constitutionalized, decentralized NC2 as counter-decapitation, "hostile two states" doctrine codified, Kim Jong Un elevated as "head of state," welfare retrenchment. `sources/2026-07-26 understandingwar.org North Korea's Constitutional Amendments Cement the Regime's Strategic Posture.md` — SHA-256: `fd48718bdda5643758ea06b2aebfe680e631946504884d8887d3883a1e31a9bd`
+3. **"Ukraine's Strike Campaigns Will Likely Continue to Hurt Russia's Economy and Military Operations in Ukraine"** (ISW / Stefaniia Bern, 2026-07-26) — 63 claims on fuel crisis, diesel decline, air defense gaps, Baltic export targeting, Kursk intelligence failure, DIB sustainability. `sources/2026-07-26 understandingwar.org Ukraine's Strike Campaigns Will Likely Continue to Hurt Russia's Economy and Military Operations in Ukraine.md` — SHA-256: `d7cc5a3aa841f23be8a9eff505ff217b4c248b0cdbaa21d753330aec9c35595b`
+4. **"Thinking About Iran's Strategy"** (GPF / George Friedman, 2026-07-27) — Vietnam analogy for war termination, Iran's theory of victory via existential asymmetry, political-clock exploitation, dual-track negotiation. `sources/2026-07-27 geopoliticalfutures.com Thinking About Iran's Strategy.md` — SHA-256: `aa25bea11caca26e82f7d4534265643aec9b462723f00b3373271062bb76a191`
+5. **"Is Iran Controlling the Gulf Conflict?"** (The Cipher Brief / Mark Fowler, 2026-07-27) — US reactive posture, Iran's tempo control, factional dynamics, Mojtaba "phantom leader," Trump's hyperbole as strategic liability. `sources/2026-07-27 thecipherbrief.com Is Iran Controlling the Gulf Conflict.md` — SHA-256: `599f5d4d34ff4cb85b4ce5e3228d2db008291cb10bc22914f3dfa4f89deed651`
+6. **"We've Seen Autonomous Warfare and We're in Trouble"** (The Cipher Brief / Xen & Creedican, 2026-07-27) — 50 claims on drone force structure, doctrine transformation, AI infrastructure vulnerability, sovereign industrial base, CONUS defense. `sources/2026-07-27 thecipherbrief.com We've Seen Autonomous Warfare and We're in Trouble.md` — SHA-256: `8d9242daa0c92deb95256d51209ae5fa9bae0140afe6e718be545bf1509b9591`
+7. **"China's Steady Economic Decline"** (Velina Tchakarova, 2026-07-28) — Systemic-power framework, US vs. China as financial vs. industrial superpower, PPP vs. nominal GDP, ecosystem resilience as decisive variable. `sources/2026-07-28 Velina Tchakarova „China's steady economic decline“.md` — SHA-256: `4bbec294a9b33270633669884e8e919b9972a965fcd9841cfdf9fee05503be5f`
+8. **"China's Moment of Weakness"** (Foreign Affairs / Logan Wright, 2026-07-28) — 40 claims on structural decay, credit bubble, banking paralysis, fiscal exhaustion, export dependence, demand-leverage theory, deterrability. `sources/2026-07-28 foreignaffairs.com China's Moment of Weakness.md` — SHA-256: `246b446ba036e0d22cc002a2e33fc8c9fd378e1465d628c446ea1cdbc7c6545f`
+9. **"Why Norway and Finland Should Preserve Two of Europe's Most Important Security Arrangements"** (War on the Rocks / Douglas Peifer, 2026-07-28) — Svalbard Treaty and Åland Convention legal regimes, strategic geography, treaty revision debate, Russian hybrid operations, rules-based order erosion. `sources/2026-07-28 warontherocks.com Why Norway and Finland Should Preserve Two of Europe's Most Important Security Arrangements.md` — SHA-256: `4c33d4970be7e36fc90f362711ce0c6fabf9d92ace5dc2f8ce99d4d3f9d0d8be`
+
+**New concepts created:**
+
+| File | Type | Description |
+|------|------|-------------|
+| [North Korea]({{ site.baseurl }}/actors/countries/north-korea.html) | Actor | Constitutionalizing nuclear centrality, abandoning unification, "hostile two states" posture, decentralized NC2 |
+| [Finland]({{ site.baseurl }}/actors/countries/finland.html) | Actor | NATO's newest Baltic member navigating Åland demilitarization debate |
+| [Logan Wright]({{ site.baseurl }}/actors/authors/logan-wright.html) | Actor | Rhodium Group partner, China financial-system lens, demand-leverage theory |
+| [Svalbard Treaty]({{ site.baseurl }}/events/svalbard-treaty.html) | Event | 1920 treaty regime under debate as NATO enlargement and Russian hybrid activity test viability |
+| [Åland Islands Convention]({{ site.baseurl }}/events/aland-islands-convention.html) | Event | 1921 demilitarization regime contested in the new Baltic security environment |
+
+**Concepts updated:**
+
+| File | Sources |
+|------|---------|
+| [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) | ISW Hormuz, GPF Iran, TCB Gulf, TCB Auto |
+| [Iran]({{ site.baseurl }}/actors/countries/iran.html) | ISW Hormuz, GPF Iran, TCB Gulf |
+| [Trump]({{ site.baseurl }}/actors/trump.html) | TCB Gulf |
+| [Hormuz Toll System]({{ site.baseurl }}/events/hormuz-toll-system.html) | ISW Hormuz |
+| [US Naval Blockade Iran]({{ site.baseurl }}/events/us-naval-blockade-iran.html) | ISW Hormuz |
+| [Hormuz Ceasefire Collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) | TCB Gulf |
+| [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) | ISW Ukraine |
+| [Russia]({{ site.baseurl }}/actors/countries/russia.html) | ISW Ukraine, WOTR Nordic |
+| [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) | ISW Ukraine |
+| [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) | ISW Ukraine |
+| [Cold War 2]({{ site.baseurl }}/conflicts/cold-war-2.html) | ISW DPRK |
+| [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) | TCB Auto |
+| [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html) | TCB Auto, VT China |
+| [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) | TCB Auto, FA China |
+| [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) | TCB Auto |
+| [China]({{ site.baseurl }}/actors/countries/china.html) | VT China, FA China |
+| [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) | VT China, FA China |
+| [Global System Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html) | VT China |
+| [Critical Minerals]({{ site.baseurl }}/themes/critical-minerals.html) | FA China |
+| [EV Competition]({{ site.baseurl }}/themes/ev-competition.html) | FA China |
+| [Arctic]({{ site.baseurl }}/regions/arctic.html) | WOTR Nordic |
+| [Europe]({{ site.baseurl }}/regions/europe.html) | WOTR Nordic |
+| [Layered Security]({{ site.baseurl }}/themes/layered-security.html) | WOTR Nordic |
+| [Geopolitical Futures]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) | GPF Iran (source registration) |
+| [The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) | TCB Gulf, TCB Auto (source registration) |
+| [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) | VT China (source registration) |
+| [War on the Rocks]({{ site.baseurl }}/actors/authors/war-on-the-rocks.html) | WOTR Nordic (source registration) |
+| this log | coordinator |
+
 ## 2026-07-26 — Source Incorporation: O'Brien Weekend Update #195 + Drapatyi Video Sources (with image analysis)
 
 Incorporated 3 new sources (1 Substack article with 3 embedded images analyzed by vision model, 2 YouTube video transcripts) into the knowledge base, dissolving their analytical content across 7 existing concepts. No new concepts created. 13 claims (C1–C13) mapped to 7 destination files (including this log). Images analyzed via qwen3p7-plus vision model: Drapatyi portrait, Fedorov press-conference screenshot (drone tech iteration quotes), and Rating Group trust poll chart (Zaluzhny 70%, Fedorov 65%, Budanov 62%, Zelensky 59%, Syrskyi 23%).

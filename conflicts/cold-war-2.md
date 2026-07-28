@@ -58,6 +58,8 @@ Latin America's rightward turn is, in Tchakarova's framing, a theater in the con
 
 Kiesewetter argues that China, Russia, Iran, and North Korea cooperate militarily and technologically against NATO in every theater — the CRINK alliance is not a theoretical construct but an operational reality visible in arms transfers, technology sharing, and coordinated diplomatic positioning [4].
 
+[North Korea]({{ site.baseurl }}/actors/countries/north-korea.html) pursues a wedge strategy within this coalition framework. Pyongyang's rejection of dialogue with South Korea coincides with conditional openness to talks with the [United States]({{ site.baseurl }}/actors/countries/united-states.html), and its efforts to exclude South Korea from security dialogues are designed to drive a wedge between Washington and Seoul — weakening the US-ROK alliance by treating the two allies asymmetrically. North Korea ultimately seeks international recognition as a nuclear state, using diplomatic selective engagement as leverage toward that goal [13].
+
 ## Avenues of Competition
 
 The competition manifests simultaneously across multiple domains — each a persistent vector of leverage that the axis weaponizes below the threshold of overt confrontation: the [AI military race]({{ site.baseurl }}/themes/ai-military-race.html), where integration speed rather than model quality is decisive [5]; [critical minerals]({{ site.baseurl }}/themes/energy-and-resources.html) and supply-chain control [1]; [energy chokepoints]({{ site.baseurl }}/themes/energy-and-resources.html) such as Hormuz, which serve as force multipliers for revisionist powers with geographic leverage [1]; [cognitive warfare]({{ site.baseurl }}/themes/cognitive-warfare.html), including Russia's documented campaigns to inflame Western social tensions through manufactured incidents [6]; and [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) — the adversary's persistent, long-term strategy of weaponized negotiations, proxy networks, cyber operations, and illicit financial networks [7]. Hemispheric consolidation in Latin America closes a flank the West historically assumed secure [2]. The theme files develop each domain's framework; the point here is their simultaneity.
@@ -103,3 +105,5 @@ A previously unconfirmed DragonBear vector requires flagging, not adoption. US i
 [11] [Cold War 2.0 Will Be Won by Private Capital](https://www.thecipherbrief.com/cold-war-2-0-will-be-won-by-private-capital)
 
 [12] [Global System Rupture - Update](https://substack.com/@velinatchakarova/p-208325909)
+
+[13] [North Korea's Constitutional Amendments Cement the Regime's Strategic Posture](https://understandingwar.org/research/china-taiwan/north-koreas-constitutional-amendments-cement-the-regimes-strategic-posture/)

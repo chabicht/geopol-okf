@@ -7,12 +7,14 @@ tags: [energy, middle-east, trade]
 status: ongoing
 actuality: actual
 event_date: 2026-05-01
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-28T00:00:00Z
 ---
 
 # Background
 
 Throughout the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), [Iran]({{ site.baseurl }}/actors/countries/iran.html) demonstrated that the Strait of Hormuz remains open not because the [United States]({{ site.baseurl }}/actors/countries/united-states.html) enforces freedom of navigation but because Iran permits it. The war crystallized Iran's chokepoint control into a concrete proposal: a permanent toll system for Hormuz transit, negotiated through [Oman]({{ site.baseurl }}/actors/countries/oman.html), that would formalize Iran's role as gatekeeper of 20% of global oil flows.
+
+Multiple Iranian officials have framed the toll negotiations not as a revenue exercise but as a bid for sovereignty over the strait itself. Tehran's primary objective is securing formal recognition of its authority over Hormuz passage — a goal that outranks any transit-fee income in the hierarchy of Iranian strategic aims [5].
 
 # What Happened
 
@@ -20,6 +22,7 @@ Throughout the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-20
 - By May 2026, Iran and Oman were in formal talks over a permanent toll system. The Iranian ambassador to France described the system as transparent [2].
 - [Trump]({{ site.baseurl }}/actors/trump.html) rejected the plan, insisting the strait should be "open, free, with no tolls" [2].
 - The toll system proposal survived the June 17 [ceasefire MoU]({{ site.baseurl }}/events/iran-ceasefire-mou.html), remaining on the table as a structural feature of post-war Hormuz governance.
+- In a revealing precedent, [Iraq]({{ site.baseurl }}/actors/countries/iraq.html) negotiated a tanker's transit through Hormuz directly with Iran. The vessel paid no fee; the [US Navy]({{ site.baseurl }}/actors/countries/united-states.html) briefly intercepted it but released it upon confirming it had not violated the blockade — illustrating that third-country diplomatic channels can secure passage even outside the formal toll framework [5].
 
 # Analysis
 
@@ -28,6 +31,10 @@ Throughout the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-20
 [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) argues that Iran's leverage over Hormuz is structural, not tactical — it persists regardless of the balance of conventional forces. The toll system proposal is the diplomatic manifestation of this structural leverage: Iran is not asking permission but describing the terms under which it will continue to permit passage [3].
 
 [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) notes that Iran's de facto control over transit has outlasted the post-war price collapse even without a formal toll regime. Tehran now exercises a degree of practical control over Hormuz passage that did not exist before the war, and this shift in de facto authority is unlikely to revert once headline prices stabilize. Some shipping operators have reportedly begun obscuring vessel locations rather than risk sanctions exposure by coordinating openly with Iranian authorities — an opaque adaptation that itself signals how unresolved the governance question remains beneath a calmer price chart [4].
+
+Iran appears to pursue control of the strait through two parallel pathways. The first is diplomatic: securing explicit US recognition of Iranian sovereignty over Hormuz through a negotiated agreement. The second is coercive: maintaining the status quo by firing missiles and drones at — or credibly threatening — vessels that disregard Iranian directives. Both paths serve the same sovereignty objective; the toll system is merely the revenue mechanism layered on top [5].
+
+The fee-extraction scheme faces a structural obstacle: shipping companies bound by sanctions compliance cannot legally pay Iranian transit fees, making widespread fee collection unlikely. Yet the failure of the fee mechanism does not equate to the failure of control. A vessel that refuses to pay Iran still cannot safely transit the strait without accepting serious risk. Shipping operators thus confront a four-option dilemma: pay Iran and violate sanctions; refuse to pay and forgo transit entirely, absorbing the economic loss; seek a bilateral government agreement with Tehran to arrange passage — a route available only to states with diplomatic leverage, not to most commercial operators; or attempt to transit without Iranian permission, running the gauntlet of missiles and drones at extreme peril [5].
 
 # Citations
 
@@ -38,3 +45,5 @@ Throughout the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-20
 [3] [The Price of Oil Is the Real Iran Deal](https://escalationtrap.substack.com/p/the-price-of-oil-is-the-real-iran)
 
 [4] [Priced for Peace: Why Oil's Return to Pre-War Levels Overstates the Hormuz Recovery](https://substack.com/@velinatchakarova/p-204528761)
+
+[5] [How Iran Hopes to Control the Strait of Hormuz — It's Not Just About Fees](https://understandingwar.org/research/middle-east/how-iran-hopes-to-control-the-strait-of-hormuz-its-not-just-about-fees/)

@@ -31,3 +31,4 @@ permalink: /actors/authors/
 * [RUSI](rusi.html) - UK defense think tank — NATO strategy, asymmetric warfare, defense industrial capacity, sanctions, Indo-Pacific security
 * [SWP](swp.html) - German Institute for International and Security Affairs — climate diplomacy, conflict prevention, European foreign policy, regional dynamics
 * [War on the Rocks](war-on-the-rocks.html) - Defense and foreign policy publication — operational depth on drone warfare, forward sustainment, wartime governance, Iranian and Russian doctrine, and the front-separation pattern in Middle East diplomacy
+* [Logan Wright](logan-wright.html) - Rhodium Group partner — financial-system lens on China's economic trajectory, demand-leverage theory of US-China competition

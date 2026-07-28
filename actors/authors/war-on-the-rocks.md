@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: "Defense and foreign policy publication featuring practitioner-scholar analysis — operational depth on drone warfare, forward sustainment, wartime governance, Iranian and Russian doctrine, the front-separation pattern in Middle East diplomacy, China's national total war and cognitive warfare concepts, agentic AI's reshaping of defense acquisition, and the case for cyber governance reform before creating a separate Cyber Force."
 tags: [author, news]
 status: ongoing
-timestamp: 2026-07-26T00:00:00Z
+timestamp: 2026-07-28T00:00:00Z
 ---
 
 # Background
@@ -71,6 +71,7 @@ The historical record, Hardy argues, points in the same direction. Before creati
 - "The Make-or-Buy Line has Moved" (Green) [8]
 - "Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare" (Wang & Beauchamp-Mustafaga) [9]
 - "Before a Cyber Force, Fix Cyber Governance" (Hardy) [10]
+- "Why Norway and Finland Should Preserve Two of Europe's Most Important Security Arrangements" (Peifer) [11]
 
 # Citations
 
@@ -93,3 +94,5 @@ The historical record, Hardy argues, points in the same direction. Before creati
 [9] [Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare](https://warontherocks.com/total-war-on-taipei-china-explores-elevating-cognitive-effects-into-its-vision-of-warfare/)
 
 [10] [Before a Cyber Force, Fix Cyber Governance](https://warontherocks.com/before-a-cyber-force-fix-cyber-governance/)
+
+[11] [Why Norway and Finland Should Preserve Two of Europe's Most Important Security Arrangements](https://warontherocks.com/why-norway-and-finland-should-preserve-two-of-europes-most-important-demilitarized-zones/)

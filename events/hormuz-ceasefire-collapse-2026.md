@@ -7,7 +7,7 @@ event_date: 2026-07-07
 actuality: actual
 tags: [energy, middle-east, military, kinetic]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-07-28T00:00:00Z
 ---
 
 # Background
@@ -46,6 +46,8 @@ The re-escalation confirms that the fourth systemic crisis has entered its alloc
 
 Krugman notes that US policy has been wildly erratic — first 20% tolls, then demands for foreign investment, neither of which will happen. The overarching moral is the immense folly of a war that has left America and the world in a much worse place than if Trump had preserved the 2015 Iran deal [1].
 
+Trump's briefly floated demand that the US military receive a 20 percent gratuity for keeping the strait open — a proposal he abandoned almost as quickly as he announced it — further muddied the waters. By conflating freedom of navigation with a private revenue stream for the armed forces, the gesture degraded the coherence of the American position and reinforced the perception that US Hormuz policy is driven by impulse rather than strategy [15].
+
 ## No Victory Path
 
 Krugman argues the ceasefire collapse signals that Trump has given up on extracting anything resembling victory. A few days earlier, it appeared Trump would de facto pull out, take advantage of falling oil prices, and spin the story as an American victory. That was stupid and doomed, but at least a serious attempt to end the conflict would have required facing reality. Trump emotionally could not bring himself to admit failure — so the strategy shifted from "pretend we won" to "bomb Iran with no clear strategy." See [Trump Election Fraud Pretext]({{ site.baseurl }}/events/trump-election-fraud-pretext-2026.html) [2].
@@ -63,6 +65,8 @@ Pape identifies three indicators to watch: (1) amplification of Iran's revenge c
 [Andrew Davidson]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) (GPF) frames the renewed fighting as a contest that neither side can convert into a clean political victory. The military balance strongly favors the [United States]({{ site.baseurl }}/actors/countries/united-states.html), but destroying Iranian capabilities is not the same as compelling Tehran to accept US terms. Washington can weaken [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s ability to threaten shipping and prevent it from exercising control over the Strait of Hormuz; it cannot cheaply guarantee normal commercial passage or force Iran to surrender its remaining leverage without accepting a prolonged campaign. Iran needs only intermittent success — a single attack can restore uncertainty after numerous safe transits — while Washington must provide security continuously [7].
 
 The likely outcome is a truce rather than a settlement. If neither side escalates, Iran is more likely to seek a ceasefire before the US abandons its core objectives, even if Tehran briefly intensifies attacks to improve its bargaining position. Iran's release of a US citizen amid the renewed exchanges suggests Tehran already has de-escalation in mind. Washington has greater room to adjust the practical terms — easing blockade enforcement, allowing limited Iranian exports, or modifying transit and escort procedures — without abandoning its core demand that Iran stop threatening commercial passage. A pause would likely involve Iran scaling back attacks enough for commercial traffic to recover while preserving its formal claims over Hormuz and presenting the outcome as proof that resistance forced negotiations. Washington would likewise portray any reduction in attacks as evidence that military pressure worked. Neither side would have resolved the underlying dispute, and both would retain incentives to test the balance sometime in the future [7].
+
+Iran has cast itself as the provocateur in this exchange, using selective strikes on shipping to test and reinforce its illegal claim to administer the Strait. The strategy carries a mounting cost: each attack invites increasingly focused US destruction of Iran's offensive coastal capabilities — missile batteries, drone launch sites, surveillance infrastructure — the very assets Tehran needs to sustain its chokepoint leverage. The provocateur role thus trades durable military capacity for ephemeral political demonstrations of control [15].
 
 ## The Infrastructure-Strike Escalation (July 15-16)
 
@@ -119,3 +123,5 @@ On July 18, Iran crossed another escalation threshold: instead of concentrating 
 [13] [Breaking Analysis #5: Iran's New Target – Drinking Water](https://escalationtrap.substack.com/p/breaking-analysis-5-irans-new-target)
 
 [14] [Midweek Update #19: What Do We Know?](https://phillipspobrien.substack.com/p/midweek-update-19-what-do-we-know)
+
+[15] [Is Iran Controlling the Gulf Conflict?](https://www.thecipherbrief.com/is-iran-controlling-the-gulf-conflict)

@@ -10,7 +10,7 @@ tags:
   - proxy
   - hybrid
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-07-28T00:00:00Z
 ---
 
 # Background
@@ -78,6 +78,12 @@ Endless Warfare will not end because adversaries choose peace. It will end when 
 3. Countering Endless Warfare requires a proactive, persistent, and network-centric approach backed by national-level leadership and coordinated interagency action.
 4. Strategic deterrence in the gray zone, cognitive advantage, disciplined negotiations, and network-focused disruption are core tools of that sustained national response.
 
+## Ukraine as Proxy and the Deniability of Drones
+
+[The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) argues that [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) is effectively waging a global hybrid war on the West's behalf — a conflict the [United States]({{ site.baseurl }}/actors/countries/united-states.html) hardly engages in directly, except through the most deniable means. Drones are the ideal instrument for this mode of warfare: cheap, attributable only with difficulty, and operable through layered intermediaries that preserve plausible deniability. The drone's inherent semi-deniability makes it the signature weapon of the gray zone — projecting kinetic effect without the political signature of a manned platform or missile launch. This dynamic extends the Endless Warfare framework: the adversary's gray-zone toolkit and the West's deniable-response toolkit are converging on the same technology, eroding the threshold between below-threshold conflict and open war [2].
+
 # Citations
 
 [1] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)
+
+[2] [We've Seen Autonomous Warfare and We're in Trouble](https://www.thecipherbrief.com/weve-seen-autonomous-warfare-and-were-in-trouble)

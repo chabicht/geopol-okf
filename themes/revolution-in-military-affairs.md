@@ -9,7 +9,7 @@ tags:
   - ai
   - drone-warfare
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-07-28T00:00:00Z
 ---
 
 # Background
@@ -108,9 +108,31 @@ The F-47 air superiority program represents failure to adapt. If opponents are i
 
 The US military's institutional priorities invert this lesson. Secretary Hegseth's announcement of testosterone screening for soldiers — the "High-T Department of War" — equates warfighting with testosterone levels despite the medical link between testosterone boosting and infertility. Hegseth's long-standing emphasis on hyper-masculine bravery (citing E.B. Sledge on the 2024 Kelly podcast, in speeches to generals) reflects a culture that celebrates sacrifice narratives while the RMA demands the opposite: education, technological fluency, and systems thinking. The de-humanizing of the battlefield makes the individual soldier's courage less consequential than ever — autonomous systems, miniaturized sensors, and AI-driven targeting are the decisive variables. An institution that responds to this revolution by screening for testosterone is culturally preparing for the wrong war [7]. See [United States]({{ site.baseurl }}/actors/countries/united-states.html) and [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
 
+### The Wartime Footing and Sovereign Production
+
+[The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) advocates a sweeping pivot of the Pentagon and its industrial base to a "wartime footing," pointing to a DoD directive for a $50B+ modernization program whose stated goal is that every warfighter must have access to low-cost, attritable small UAS. The guiding principle is a reversal of the prevailing procurement logic: stop buying end products and start buying the ability to produce them — at scale, sovereignly, and indefinitely. The advocated end-state is a meaningfully decentralized ecosystem: distributed compute, sensors, swarms, command, cognition, industry, and authority, so that no single strike or disruption can collapse the system [8].
+
+The operational gap that motivates this prescription is visible in the current force structure. A legacy US Army Corps possesses approximately the same operational striking depth as a single Ukrainian drone battalion of a few hundred personnel — a ratio that exposes how profoundly unmanned systems have compressed the relationship between mass and reach. If the current trajectory holds, the smallest independent tactical elements may be able to cheaply strike anywhere on Earth within a decade, as drone controllers need not position themselves relative to any front line and can operate remotely [8].
+
+### Doctrine for a Moving Target
+
+The same source argues that current doctrinal revisions are structurally inadequate: revisions to FM 3-0, FM 3-90, and FM 3-96 relegate drones to a supporting role at best, rather than reconceiving operations around unmanned systems. The deeper critique is that doctrine must be predictive of the near future rather than merely prescriptive of the present — the force is chasing a moving target three to ten years out, and manuals dated to the current moment will be obsolete before they reach units. The advocated meta-doctrine is to accept no particular doctrine as certain or permanent: official doctrine should function as living documents rather than year-dated static PDFs, continuously updated from a permanent, structured feedback loop connecting requirements to live conflict. The proposal includes deploying thousands of troops to active conflict zones for ride-alongs, ensuring that institutional knowledge is grounded in observed reality rather than headquarters speculation [8].
+
+### The Tactician and the Autonomous Tempo
+
+The envisioned future of combat places the human operator progressively further from the point of contact. Future drone controllers become "tacticians" remotely running squadrons of autonomous platforms via 3D AI-mediated sensor-fusion digital twins of the battlefield — with neural-interface technology potentially compressing decision cycles to the speed of AI-enhanced thought within coming years. The adaptation cycle itself will move at a tempo unenhanced humans cannot match, making intelligence — not mass, not courage — the runaway comparative advantage at every level of warfare. Humans are pushed progressively backward along the logistical chain; the logical endpoint is robots building, repairing, improving, and employing each other. The source's formulation: "Whoever best automates tasks end-to-end will win the tempo fight" [8].
+
+### Deterrence After MAD
+
+The source argues that mutually assured destruction is insufficient for drone-age deterrence. The advocated alternative is deterrence via force projection — threatening reciprocal drone-strike capacity and regularly exercising it, so that adversaries calculate not only the cost of nuclear escalation but the cost of sustained autonomous-system retaliation. This reframes deterrence from a binary nuclear threshold to a continuous spectrum of credible autonomous-strike threats, requiring visible, exercised capability rather than just declared stockpiles [8].
+
+### Institutional Disruption: New Authorities
+
+New institutional mechanisms are emerging to carry these changes. The creation of the DRPM-UxS (Defense Representative for Program Management – Unmanned Systems, or similar office) with sweeping and disruptive authorities is cited as an example of the organizational restructuring needed to continually remake the military rather than reform it incrementally. The premise is that incremental reform within existing program offices cannot match the pace of commercial drone iteration; only an entity with mandate to bypass legacy processes can keep the force aligned with a technology that reinvents itself on a weekly cadence [8].
+
 # Citations
 
-[1] [Yes, We Are In A Revolution In Military Affairs](https://phillipspobrien.substack.com/p/yes-we-are-in-a-revolution-in-military)
+[1] [Yes, We Are In A Revolution In Military Affairs](https://phillipspobrien.substack.com/p/yes-we-are-in-a-revolution-in-military-affairs)
 
 [2] [Weekend Update #193: What Is Happening In The Sea Of Azov?](https://phillipspobrien.substack.com/p/weekend-update-193-what-is-happening)
 
@@ -123,3 +145,5 @@ The US military's institutional priorities invert this lesson. Secretary Hegseth
 [6] [And It Goes On.](https://aurelien2022.substack.com/p/and-it-goes-on)
 
 [7] [Bravery Does Not Win Wars](https://phillipspobrien.substack.com/p/bravery-does-not-win-wars)
+
+[8] [We've Seen Autonomous Warfare and We're in Trouble](https://www.thecipherbrief.com/weve-seen-autonomous-warfare-and-were-in-trouble)

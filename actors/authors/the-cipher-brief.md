@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: National security and intelligence-focused analytical publication featuring expert commentary from former officials — covering AI military competition, intelligence community reform, China strategic rivalry, Endless Warfare framework, and cognitive warfare
 tags: [author, news]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-07-28T00:00:00Z
 ---
 
 # Background
@@ -92,6 +92,8 @@ Harrison concluded by calling for fundamental congressional budget-process refor
 - "Cold War 2.0 Will Be Won by Private Capital" [10]
 - "The Pentagon Built a Faster Engine, Nobody Built the Steering" [11]
 - "The $1.5 Trillion Defense Budget Without a Strategy" [12]
+- "Is Iran Controlling the Gulf Conflict?" [13]
+- "We've Seen Autonomous Warfare and We're in Trouble" [14]
 
 # Citations
 
@@ -118,3 +120,7 @@ Harrison concluded by calling for fundamental congressional budget-process refor
 [11] [The Pentagon Built a Faster Engine, Nobody Built the Steering](https://www.thecipherbrief.com/the-pentagon-built-a-faster-engine-nobody-built-the-steering)
 
 [12] [The $1.5 Trillion Defense Budget Without a Strategy](https://www.thecipherbrief.com/the-1-5-trillion-defense-budget-without-a-strategy)
+
+[13] [Is Iran Controlling the Gulf Conflict?](https://www.thecipherbrief.com/is-iran-controlling-the-gulf-conflict)
+
+[14] [We've Seen Autonomous Warfare and We're in Trouble](https://www.thecipherbrief.com/weve-seen-autonomous-warfare-and-were-in-trouble)
