@@ -2,10 +2,10 @@
 type: Actor
 title: Adam Tooze
 parent: Authors & Analysts
-description: Economic historian and Chartbook author tracking the global economy — China Shock 2.0, financial repression, the AI boom, the four disrupters of the 2026 world economy, the five metamorphoses of the dollar, hyper-agency as the driver of Western rupture, and the polycrisis as a crisis of lost futures
+description: Economic historian and Chartbook author tracking the global economy — China Shock 2.0 and the "Big One" framing, financial repression, the AI boom, the four disrupters of the 2026 world economy, the five metamorphoses of the dollar, hyper-agency as the driver of Western rupture, and the polycrisis as a crisis of lost futures
 tags: [author, economics, trade]
 status: ongoing
-timestamp: 2026-07-26T00:00:00Z
+timestamp: 2026-07-30T00:00:00Z
 ---
 
 # Background
@@ -79,6 +79,14 @@ Globalization serves as Tooze's exemplary lost future. He quotes Tony Blair's 20
 
 Tooze's orientation under these conditions is practical and political. He advises taking "change in change" seriously, getting used to the unprecedented, and — crucially — thinking politically about who "we" are when we speak of a shared future. The Singapore workshop's resulting *Glossary for Other Worlds* extends this impulse, gathering vocabularies and frameworks that resist lostalgia and help re-enter time differently — releasing inherited futures that no longer serve and seeking paths forward for which the grounds are already laid [6].
 
+## China Shocks, Sequencing, and the "Big One"
+
+In Chartbook 462 (July 29, 2026), Tooze frames China's trade surplus surge as a sequenced phenomenon, not a single continuous event. China Shock 1.0 (1999-2011) was a US-targeted wave concentrated in low-end manufacturing and named academically a decade late — Autor, Dorn, and Hanson's 2013 AER paper coined the term after the shock had already peaked. China Shock 2.0 (2020s) targets [Europe]({{ site.baseurl }}/regions/europe.html) with high-value manufactured goods (cars, engineering), has no discursive lag, and is driven by deliberate industrial policy rather than just macroeconomic imbalances. Tooze asks whether the 1.0/2.0 numbering itself is honest — the dollar figures via Brad Setser show China's raw trade surplus at ~7% of GDP by mid-2026, near its 2006-08 peak, with the export volume index +60% vs imports +10% since end-2018. Employment losses from Shock 1.0 totaled 2.0-2.4 million US jobs over 1999-2011 [7].
+
+Tooze's "Big One" thesis proposes a seismological metaphor: Shock 1.0 was a "foreshock," and the 2020s event may be the main event. The 1.0/2.0 sequencing implies essential similarity plus difference plus a temporal order, but on Tooze's reading the differences are so great that the numbering conceals a deeper qualitative break — "a complete transformation of industrial division of labour at world scale." The Polanyian "double movement" framing applies cleanly to Shock 1.0: Trump 1.0 and Brexit were belated backlashes to the original shock, and the resulting US protectionism now shields the US against Shock 2.0, redirecting the surplus toward Europe [7]. See the dedicated treatment in [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html).
+
+ctindale's "The Importance of Being Obsolescent" directly challenges this framing — market-economics paradigms cannot register what Beijing's state-power paradigm is doing, and the analytical vocabulary of "overcapacity" and "growth-model distortion" itself neutralizes the form of aggression being pursued. The split is registered at [Analytical Fault Lines]({{ site.baseurl }}/themes/analytical-fault-lines.html) [7].
+
 # Sources in Bundle
 
 - "Chartbook 454: China Shock 2.0 and Mercantilist-on-Mercantilist Violence" [1]
@@ -87,6 +95,7 @@ Tooze's orientation under these conditions is practical and political. He advise
 - "Chartbook 457: The Metamorphoses of the Dollar" [4]
 - "Chartbook 458 Postscript: A Conversation with Barnaby Raine" [5]
 - "Chartbook 461: Polycrisis & nostalgia for lost futures" [6]
+- "Chartbook 462: China shocked - beyond 1.0 and 2.0 to the Big One" [7]
 
 # Citations
 
@@ -101,3 +110,5 @@ Tooze's orientation under these conditions is practical and political. He advise
 [5] [Chartbook 458 Postscript - A Conversation with Barnaby Raine](https://adamtooze.substack.com/p/chartbook-458-poscript-a-conversation)
 
 [6] [Chartbook 461: Polycrisis & nostalgia for lost futures](https://adamtooze.substack.com/p/chartbook-461-polycrisis-and-nostalgia)
+
+[7] Adam Tooze, "Chartbook 462: China shocked - beyond 1.0 and 2.0 to the Big One", 2026-07-29 — https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond

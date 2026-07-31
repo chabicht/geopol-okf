@@ -5,7 +5,7 @@ parent: Countries
 description: China as a geopolitical actor — coordinating national AI strategy, encircling Taiwan, investing across Central Asia, anchoring the DragonBear axis, and turning toward Maoist ideological mobilization to manage economic slowdown while facing an emerging Asian containment coalition
 tags: [country, military, ai, technology, energy, trade, indo-pacific, central-asia, ideology, economics]
 status: ongoing
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-07-30T00:00:00Z
 ---
 
 # Background
@@ -53,6 +53,16 @@ The export model is sustained by financial repression. The real exchange rate �
 The exchange-rate dimension is now politicized. ECB President Christine Lagarde's call for global leaders to discuss the undervaluation of the Chinese yuan reflects a wider geoeconomic shift. China's rising trade surplus, weak domestic demand, and strong industrial output are increasing pressure on advanced economies. A weaker yuan makes Chinese exports more competitive, but the larger issue is the interaction between exchange rates, industrial subsidies, excess manufacturing capacity, and global trade imbalances. The structural change is the gradual politicization of trade and currency relations — exchange rates are becoming part of the wider contest over industrial power [16]. See [Monetary System Transition]({{ site.baseurl }}/themes/monetary-system-transition.html).
 
 The diplomatic posture has shifted accordingly. During its rise, China offered growing market access as an incentive; now it can only threaten to withhold goods [30]. Beijing is alarmed by global de-risking and has taken retaliatory actions: April decrees against "discriminatory" foreign laws and June controls on outbound direct investment, establishing legal basis for punishing countries that restrict Chinese investments [30]. Beijing has threatened countermeasures against Europe's Industrial Accelerator Act and is tightening dual-use controls against Europe's defense buildup — betting it can stop the Western trade response long enough to assemble new chokepoints [30]. Yet Beijing is pursuing targeted controls on outbound investments rather than broad-based export controls that would limit its own growth, recognizing the constraint [30]. China is already the world's largest exporter; diversifying to genuinely new markets is extremely difficult when the West accounts for most of the world's final consumer demand growth, and the scope for further market penetration is narrowing [30]. Beijing appears willing to accept weaker consumption to preserve manufacturing leadership and reduce foreign technology dependence — a trade-off at the heart of the US-China rivalry [29].
+
+## The "Big One" and the 2026 Surplus Surge
+
+By mid-2026 the surplus had returned to magnitudes not seen since the 2006-08 peak. Brad Setser's data — relayed by [Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) — show China's raw trade surplus at roughly 7% of GDP, only a bit below its 2006-08 levels, while the export volume index rose about 60% from end-2018 to April 2026 against an import volume index that rose only about 10%. The asymmetry generated an unprecedented divergence in the trade balance — a divergence that macroeconomic aggregates alone cannot fully explain [31].
+
+The 2020s surge is qualitatively different from the 2000s export wave. The first shock was driven by China's integration into Western supply chains on Western terms — private foreign investment linking China's labor force into globalization as the West had designed it. The current surge reflects deliberate post-WTO learning: Beijing resolved already in the early 2000s that China should not remain at the bottom of the supply chain and has spent the subsequent twenty years climbing the value chains under national industrial policy, from regional to city-level implementation, to engage the world economy from a position of technological leadership. The shock is industrial policy running at world scale, not the inexorable outgrowth of an entrenched savings glut [31].
+
+Trump 1.0 protectionism (post-2017) now shields the United States against this new shock, redirecting the surplus toward Europe. The US's 100% tariffs on Chinese EVs and the broader US-China bilateral deficit narrowing mean the leading edge of China's export drive hits Europe rather than America. The protective response is the Polanyian backlash to Shock 1.0, belatedly institutionalized as policy [31]. See [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html) for the full sequenced treatment.
+
+[Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) proposes the seismology metaphor to capture the difference: Shock 1.0 was a "foreshock" and the 2020s event may be the main event — a "Big One" rather than a sequel. The 1.0/2.0 numbering understates a complete transformation of industrial division of labour at world scale, not a repetition with marginal differences [31].
 
 ## Structural Limits
 
@@ -107,6 +117,7 @@ China also profits from American distraction. Joe Kent, in conversation with [Ro
 - **The DragonBear axis provides military lesson-transfer without formal alliance.** Russia's combat experience flows upward to China's industrial scale, coordinated across all domains except nuclear. [19]
 - **An Asian containment coalition is forming.** India, Japan, Australia, Indonesia, Vietnam, and the NATO-IP4 architecture are tightening security ties, diverging from China economically and militarily. [17][20][21]
 - **The CMC purge degrades Taiwan invasion readiness.** Xi's removal of combat-experienced CMC members over a 2027-vs-2035 timeline dispute reduces near-term invasion likelihood but raises miscalculation risk. [7]
+- **The 2026 surplus surge may be the "Big One."** China's raw trade surplus is back to ~7% of GDP with exports +60% vs imports +10% since end-2018, redirected to Europe because Trump 1.0-era protectionism now shields the US — Tooze proposes the 2020s event is qualitatively different from Shock 1.0, not a sequel. [31]
 
 # Analysis
 
@@ -219,3 +230,5 @@ Paradoxically, China's exercise of these leverage points — rare earth export r
 [29] [China's Steady Economic Decline](https://substack.com/@velinatchakarova/p-208670863)
 
 [30] [China's Moment of Weakness](https://www.foreignaffairs.com/china/chinas-moment-weakness)
+
+[31] Adam Tooze, "Chartbook 462: China Shocked — Beyond 1.0 and 2.0 to the Big One", 2026-07-30 — https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond

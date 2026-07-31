@@ -4,6 +4,81 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-07-31 — Seven-Batch Source Incorporation Round (Final Pass, 12 of 13 Sources)
+
+Final-pass consolidation of the twelve substantive sources incorporated across seven batches between July 26 and July 31, 2026. The Pape "End of American Empire" piece (2026-07-28) was deliberately excluded as a promotional post rather than analytical work. Net total for the round: ten new concepts created, thirty-two existing concepts updated.
+
+**New concepts (10)**
+
+* **Creation**: Created [Laura Loomer]({{ site.baseurl }}/actors/laura-loomer.html) — Trump-aligned far-right activist actor concept
+* **Creation**: Created [Sarah Mock]({{ site.baseurl }}/actors/authors/sarah-mock.html) — agrarian economics author concept
+* **Creation**: Created [Javier Blas]({{ site.baseurl }}/actors/authors/javier-blas.html) — Bloomberg commodity columnist author concept
+* **Creation**: Created [Laura Loomer Ukraine Visit]({{ site.baseurl }}/events/laura-loomer-ukraine-visit-2026.html) — event concept for Loomer's July 2026 Ukraine trip
+* **Creation**: Created [Iran Strike on Jordan]({{ site.baseurl }}/events/iran-jordan-strike-2026-07-29.html) — event concept for July 29 IRGC strike on CENTCOM center
+* **Creation**: Created [Damietta Port Drone Strike]({{ site.baseurl }}/events/damietta-port-drone-strike-2026-07-29.html) — event concept for Mediterranean shipping attack
+* **Creation**: Created [Saxony-Anhalt State Election 2026]({{ site.baseurl }}/events/sachsen-anhalt-state-election-2026.html) — event concept for upcoming German state election
+* **Creation**: Created [CDU Internal Leadership Crisis 2026]({{ site.baseurl }}/conflicts/cdu-internal-leadership-crisis-2026.html) — conflict concept for Merz authority collapse
+* **Creation**: Created [Political Normalization]({{ site.baseurl }}/themes/political-normalization.html) — theme concept for authoritarian normalization mechanism
+* **Creation**: Created [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html) — theme concept for sequenced China trade surplus impact
+
+**Updates (32, grouped by source)**
+
+**O'Brien "It Is All One Fight"** (introduces Political Normalization theme; cross-cuts into Russia-Ukraine War and Ideology and Democracy)
+
+* **Update**: Updated [Phillips P. O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) with "It Is All One Fight" framework and tactical-pivot analysis
+* **Update**: Updated [Donald Trump]({{ site.baseurl }}/actors/trump.html) with tactical-pivot pattern documentation
+* **Update**: Updated [Zelensky]({{ site.baseurl }}/actors/zelensky.html) with Loomer interview incident
+* **Update**: Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with tactical-pivot pattern, sanctions vote, Patriot licensing, and shared-bottleneck framing
+* **Update**: Updated [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html) with authoritarian coalition thesis and CDU/AfD crisis (also covers SPIEGEL + WELT contributions)
+* **Update**: Updated [Trump Election Fraud Pretext 2026]({{ site.baseurl }}/events/trump-election-fraud-pretext-2026.html) with Loomer's post-speech arrest calls
+
+**Pape "Red Sea Front = Energy Shock" + Pape "Jordan strike"** (two-front maritime trap, three-buffer framework; spiral phase and dispersal-pillar added)
+* **Update**: Updated [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) with two-front maritime trap, three-buffer framework, spiral phase, and cost-distance strategy; confirmed June 15 forecast
+* **Update**: Updated [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) with two-front maritime trap, pipeline logistics, spiral phase, Mediterranean extension, and Triumvirate analysis
+* **Update**: Updated [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) with pipeline bypass architecture
+* **Update**: Updated [Red Sea]({{ site.baseurl }}/regions/red-sea.html) with pipeline bypass architecture and Mediterranean extension
+* **Update**: Updated [Jordan]({{ site.baseurl }}/actors/countries/jordan.html) with July 29 IRGC strike and dispersal-pillar role
+* **Update**: Updated [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) with three-buffer framework and pipeline capacity arithmetic
+* **Update**: Updated [SPR Depletion Crisis]({{ site.baseurl }}/events/spr-depletion-crisis.html) with Pape's August forecast data
+* **Update**: Updated [Insurance and Trade Warfare]({{ site.baseurl }}/themes/insurance-and-trade-warfare.html) with Red Sea bypass premium
+
+**Blas "Saudi Oil Can Still Get Out"** (pipeline capacity arithmetic — overlaps principally with the Pape Red Sea and Saudi Arabia updates above; attribution noted there)
+* (covered under Pape source grouping — no additional concept updates)
+
+**NYT "Damietta"** (Mediterranean theater expansion)
+* **Update**: Updated [Egypt]({{ site.baseurl }}/actors/countries/egypt.html) with Damietta drone strike and Mediterranean theater
+* **Update**: Updated [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) with Mediterranean expansion and second precision revolution
+
+**Tooze "Chartbook 462: China Shocked"** ("Big One" seismology framing)
+* **Update**: Updated [Adam Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) with Chartbook 462 "Big One" seismology framing
+* **Update**: Updated [China]({{ site.baseurl }}/actors/countries/china.html) with 2026 surplus data and "Big One" framing
+* **Update**: Updated [Global System Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html) with paradigm divergence analysis (also covers ctindale contribution)
+
+**ctindale "The Importance of Being Obsolescent"** (Constructive Blindness / Unrestricted Warfare)
+* **Update**: Updated [ctindale]({{ site.baseurl }}/actors/authors/ctindale.html) with "Constructive Blindness" and paradigm obsolescence framework
+* **Update**: Updated [Analytical Fault Lines]({{ site.baseurl }}/themes/analytical-fault-lines.html) with Contested block on China Shock paradigm
+
+**Tchakarova "Triumvirate of Happiness"** (two wars as one continuum)
+* **Update**: Updated [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) with "Triumvirate of Happiness" and two-wars-one-continuum framework
+* **Update**: Updated [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) with Triumvirate crisis-ceiling
+* **Update**: Updated [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) with US-DragonBear Cold War thesis
+* **Update**: Updated [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) with Patriot shared-bottleneck analysis
+* **Update**: Updated [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) with 4IR alliance architecture
+
+**Aurelien "So It Goes"** (Stein's Law / hard limits)
+* **Update**: Updated [Aurelien]({{ site.baseurl }}/actors/authors/aurelien.html) with Stein's Law predictive schema and hard-limits framework
+* **Update**: Updated [Organised Crime and Statecraft]({{ site.baseurl }}/themes/organised-crime-and-statecraft.html) with state-retreat vacuum thesis
+
+**SPIEGEL "Merz/CDU" + WELT "AfD/NATO" + Aurelien Europe thread** (reshuffle cascade and AfD logistics threat)
+* **Update**: Updated [Germany]({{ site.baseurl }}/actors/countries/germany.html) with Merz cabinet crisis and AfD NATO logistics threat (also covers WELT contribution)
+* **Update**: Updated [Europe]({{ site.baseurl }}/regions/europe.html) with end-of-neoliberalism analysis and NATO logistics federalism (also covers Aurelien + WELT contributions)
+* **Update**: Updated [NATO]({{ site.baseurl }}/actors/organizations/nato.html) with reinforcement federalism vulnerability
+
+**Mock "Regenerative Ag"** (scaling paradox)
+* **Update**: Updated [Food and Agriculture]({{ site.baseurl }}/themes/food-and-agriculture.html) with regenerative ag scaling paradox
+
+---
+
 ## 2026-07-28 — Hardening: Deterministic checks for the Contested Assessments convention
 
 Reviewed commit `5cc3b866` (a follow-on `okf-refine` run) against the Contested
@@ -83,6 +158,31 @@ Applied the new convention to two pilot files and the author files those pilots 
 Remaining 24 theme files and handoff conflicts #5 (Cipher Brief self-contradiction) and #6 (NATO Ankara Summit) are recorded in Analytical Fault Lines for a future refine pass.
 
 **Validator:** 171 files structurally valid, 49 warnings (broken links, tolerated) — unchanged from the pre-run baseline.
+
+## 2026-07-28 — Source Incorporation: Pape Maritime Trap + Blas Pipeline Bypass
+
+Incorporated 2 new sources into the knowledge base, dissolving analytical content across 7 existing concepts and creating 1 new author concept (`Javier Blas`).
+
+**Run ID:** inc-20260728-blas-pape
+**Sources:**
+1. **"Why July Red Sea Front = August Energy Shock"** (Robert Pape, 2026-07-27) — Two-front maritime trap framework, three-buffer decomposition (SPR ~3-4 mbpd + Chinese demand ~4-5 mbpd + bypass pipelines ~7 mbpd), Operation Rough Rider planning benchmark, carrier arithmetic (4 of 11 deployed), August buffer-collapse forecast. `sources/2026-07-28 Prof Robert Pape Why July Red Sea Front = August Energy Shock.md`
+2. **"Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy"** (Javier Blas, 2026-07-26) — Pipeline bypass arithmetic (Sumed 2.5 mbpd + Eilat-Ashkelon 1.2 mbpd), VLCC lightering constraint, +25 day Asia rerouting via east-Mediterranean, Houthi blockade enforcement and oil-price response. `sources/2026-07-28 archive.ph Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy.md`
+
+**New concepts created:**
+- [Javier Blas]({{ site.baseurl }}/actors/authors/javier-blas.html) — Bloomberg Opinion columnist specializing in oil logistics, pipeline bypass arithmetic, maritime chokepoints, and the "bypass of the bypass" analytical pattern.
+
+**Concepts updated:**
+| File | Sources |
+|------|---------|
+| [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) | Pape Maritime Trap — new "Two-Front Maritime Trap and Three-Buffer Framework" section; added [20]; Track Record Open entry |
+| [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) | Pape Maritime Trap, Blas Pipeline Bypass — new "Two-Front Maritime Trap and the August Buffer Collapse" subsection; added [70][71] |
+| [Red Sea]({{ site.baseurl }}/regions/red-sea.html) | Pape Maritime Trap, Blas Pipeline Bypass — new "Pipeline Bypass Architecture and 'Bypass the Bypass'" subsection; added [11][12] |
+| [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) | Pape Maritime Trap, Blas Pipeline Bypass — new "Three-Buffer Framework and Decomposition" subsection; added [32][33] |
+| [SPR Depletion Crisis]({{ site.baseurl }}/events/spr-depletion-crisis.html) | Pape Maritime Trap — new "Pape's August Forecast and the Three-Buffer Trajectory" subsection; added [8] |
+| [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) | Blas Pipeline Bypass — new "Pipeline Bypass Architecture and the Red Sea Houthi Threat" subsection; added [9] |
+| [Insurance and Trade Warfare]({{ site.baseurl }}/themes/insurance-and-trade-warfare.html) | Blas Pipeline Bypass — new "Red Sea Bypass Premium" subsection; added [6] |
+| [Authors & Analysts]({{ site.baseurl }}/actors/authors/) | Added Javier Blas entry |
+| this log | coordinator |
 
 ## 2026-07-28 — Source Incorporation: 9 Sources (Iran Strategy, North Korea, Ukraine Strikes, Autonomous Warfare, China Economy, Nordic Security)
 

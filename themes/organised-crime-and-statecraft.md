@@ -9,7 +9,7 @@ tags:
   - cognitive-warfare
   - hybrid
 status: ongoing
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-07-30T00:00:00Z
 ---
 
 # Background
@@ -66,6 +66,10 @@ The crime-statecraft nexus complicates [sanctions enforcement]({{ site.baseurl }
 
 These are not isolated curiosities but evidence that the asymmetry between great powers — cheap mass defeating expensive platforms — is reproducing itself between states and armed non-state actors operating inside their own territory. The Ukrainian doctrine for modified commercial drones is being studied by security services worldwide and, on the evidence, by criminal organisations monitoring the same developments at least as closely. The category of conflict these networks create — combining territorial control, transnational financing, lawfare against the state, and growing use of military-grade technology — fits awkwardly into existing doctrine, which is built for either conventional war or conventional policing. Capability of this kind migrates faster than the policing doctrine built to anticipate it [5].
 
+## State Retreat as a Structural Opening
+
+[Aurelien]({{ site.baseurl }}/actors/authors/aurelien.html) frames the same phenomenon as the predictable outcome of state withdrawal from "difficult" areas. Police, local government, and medical services are simply pulled out of neighbourhoods and the inhabitants left to rot. Organised crime, already advancing as the state retreats, takes over and provides "protection" and the provision of services. In most cases, the gangs are organised around and prey upon immigrant communities. The key structural feature is that "this process cannot be halted": the gangs already exist, the state has withdrawn, and the withdrawal creates an opening rather than a problem that resolves on its own. The dynamic is already visible in European cities where state capacity is contracting — and what is filling the vacuum is not new public provision but service-provision rackets structured around the very communities the state has stopped serving. The lesson is that state retreat does not leave a void; it leaves a market, and organised crime is the incumbent supplier [6].
+
 # Citations
 
 [1] [The Changing Face of Organised Crime](https://www.rusi.org/explore-our-research/publications/commentary/changing-face-organised-crime)
@@ -77,3 +81,5 @@ These are not isolated curiosities but evidence that the asymmetry between great
 [4] [Decoding Sanctions: How Governments can get the Best out of Banks](https://www.rusi.org/explore-our-research/publications/commentary/decoding-sanctions-how-governments-can-get-best-out-banks)
 
 [5] [The Algorithmic Deterrent](https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/algorithmic-deterrent)
+
+[6] Aurelien, "So It Goes", 2026-07-29 — https://aurelien2022.substack.com/p/so-it-goes

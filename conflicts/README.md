@@ -15,3 +15,4 @@ permalink: /conflicts/
 * [Sahel Insurgency](sahel-insurgency.html) - Jihadist insurgency across Mali, Burkina Faso, Niger with great power competition
 * [Tigray Conflict](tigray-conflict.html) - Post-Pretoria gray zone in Ethiopia's Tigray region: disputed territories, TPLF fracture, regional spillover
 * [Cold War 2](cold-war-2.html) - Systemic US-led order vs DragonBear axis competition across multiple theaters
+* [CDU Internal Leadership Crisis 2026](cdu-internal-leadership-crisis-2026.html) - Chancellor Merz's collapse of authority within CDU following July 2026 cabinet reshuffle cascade

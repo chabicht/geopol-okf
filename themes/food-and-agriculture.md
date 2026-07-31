@@ -8,7 +8,7 @@ tags:
   - economics
   - supply-chain
 status: ongoing
-timestamp: 2026-07-26T00:00:00Z
+timestamp: 2026-07-31T00:00:00Z
 ---
 
 # Background
@@ -33,6 +33,20 @@ U.S. agriculture is locked into 180 million acres of corn and soybeans by a comb
 40% of agricultural economists surveyed believe many U.S. farms need major restructuring to survive. Falling profitability, rising debt costs, ethanol/E15 policy uncertainty, rising input costs, and declining export demand are creating cumulative financial stress across the agricultural sector [6].
 
 Half of agricultural economists do not expect broadly profitable crop margins for 3-5 years, with only 19% seeing recovery within 12 months. U.S. farm income is increasingly dependent on government payments ($44.3 billion forecast), and weather, Chinese demand, and trade are cited as the biggest wild cards ahead [7].
+
+## The Scaling Paradox: Why Regenerative Agriculture Cannot Coexist with Economies of Scale
+
+[Sarah Mock]({{ site.baseurl }}/actors/authors/sarah-mock.html)'s core claim is that regenerative outcomes are inseparable from context-specific, de-standardized, observation-driven management — and that this is antithetical to the standardization that economies of scale require. "Standardization is the prerequisite for economies of scale; regen ag rejects standardization." Any regen-ag program that is scalable across a vast landscape is, by Mock's definition, no longer regenerative [12].
+
+The structural dimension the [U.S. Agricultural Lock-In](#us-agricultural-lock-in) and [Farm Restructuring Pressure](#farm-restructuring-pressure) sections lack is precisely the economics of scale that bind farmers to grain monoculture and high-throughput dairies. U.S. commercial-scale agriculture remains organized around Earl Butz's 1970s "get big or get out" doctrine — farmers compete by spreading capital costs over more units, buying larger equipment, and driving yields up to depress per-unit cost. This imperative is the exact mechanism regen ag breaks [12].
+
+The capital lock-in is concrete and quantifiable. A 5,000-cow mega-dairy cannot transition to pasture-based regen because the centralized milking parlor is a binding capital constraint: its cost can only be amortized by running at full capacity with 5,000 confined cows on a precision ration. A pasture shift collapses milk output and cost recovery simultaneously. Diversification also loses scale economics: planting oats on 250 acres alongside corn on 250 acres raises per-acre cost from $50 to $70, because a specialized oat harvester must now be spread across half the acreage rather than the whole [12].
+
+Mock documents the practices-vs-outcomes gap directly: a "regenerative" dairy performing cover crops, reduced tillage, and manure application while standing on "compacted, parched, beige dust actively blowing away." The soil health principles infographic (NMhealthysoil.org) lists six principles including "know your context" — the one most often and most consequentially skipped, because it is the principle that explicitly demands de-standardization. Individual practices (cover crop seed, no-till equipment) can offer some returns to scale, but the regenerative *outcome* requires that every acre and animal be observed and treated according to its specific conditions [12].
+
+This makes the corporate regen-ag movement structurally incoherent. Nestlé, Pepsico, ADM, Danone, Oatly, and SAI Platform are scaling standardized regen practices — precisely what Mock identifies as non-regenerative. No enforceable definition of "regenerative agriculture" exists, and corporate stakeholders are exploiting the ambiguity to claim credit for practices that do not produce outcomes [12].
+
+Mock's prescriptive inversion runs against the agrifood industry's intuition: meaningful regen transition requires farm splitting (decentralized milking parlors, more farmers, more land-attention density), not on-boarding of mega-operations. The path is fewer acres per farmer and more farmers per acre. "The most valuable input on a farm is the farmer's shadow." This is the structural counterpoint to the [U.S. Agricultural Lock-In](#us-agricultural-lock-in) — when 180 million acres are managed under the cost-spreading imperative, regen outcomes are mathematically excluded, regardless of which practices are nominally adopted [12].
 
 ## The Oil Import Curse
 
@@ -106,3 +120,5 @@ The global supply picture offers no relief. The USDA revised its 2026–27 U.S. 
 [10] [Global System Rupture](https://substack.com/@velinatchakarova/p-207969383)
 
 [11] [Choking the Grain Trade](https://geopoliticalfutures.com/choking-the-grain-trade/)
+
+[12] [Regenerative Ag Doesn't Scale (And That's Okay!)](https://sarahmock.substack.com/p/regenerative-ag-doesnt-scale-and)

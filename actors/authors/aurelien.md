@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Pseudonymous essayist on geopolitics, conflict theory, and Western institutional decline — critiquing game theory and escalation models, analyzing strategic surprise, and tracing the erosion of Western influence
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-07-30T00:00:00Z
 ---
 
 # Background
@@ -62,6 +62,14 @@ Aurelien identifies attrition warfare as the dominant paradigm [Russia]({{ site.
 
 His most provocative claim is that the West has lost agency in both the [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) and [Iran]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) crises. It massively overestimates its capacity to influence how crises evolve, assumes its norms are superior, and claims credit for outcomes it had little influence over. The most likely outcome is prolonged low-level tension suiting adversaries and straining Western cohesion — and it will not be the West that decides when it stops [7]. See [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html).
 
+## Stein's Law and the Three-Part Predictive Schema
+
+Aurelien's diagnostic framework rests on Stein's Law: "if a thing cannot go on forever, it will stop." What looks banal is analysable as a question of timescales. Anyone can be flattered into admitting some current system will not last a million years, or even a thousand; the productive question is whether it will last 100, and the answer is that we don't know — it could stop tomorrow, in ten years, or in fifty. The vocabulary of "this cannot go on" hides three quite different cases that need to be kept separate. **Moral/theological complaints** that assume the world should be "right" — examples like Gaza or the ICC indicting Trump — are mostly fantasy: the moral order the complainant invokes does not exist as a constraint on events. **Hard limits** are physical or systemic ceilings, like fossil-fuel depletion or the limits of defensive capacity, that will be reached at an unknown point but once reached will be unmistakable. **Inherent instability** names structures liable to fall apart on unknowable timescales (versus hard limits, which fail on a fixed schedule). The historical record shows that all three are confounded by the same pattern: epochal change is usually messy, accidental, and retconned as inevitable after the fact [8].
+
+The three-part predictive schema decomposes any historical crisis into an **underlying situation** (hard limit approaching or unstable structure), a **trigger event** (which converts potential into actual), and **personal/agency factors** (individual decisions and pure chance). Napoleon's rise was necessary but not sufficient on the Revolution; without the Revolution he would have remained an Italian junior officer. Thatcher's 1979 victory was a combination of Callaghan's stupidity in postponing an election he might have won, an unusually severe winter, and the luck that brought Thatcher to the leadership in the first place — retconned into epoch-defining inevitability by the hagiographers who wrote about it later. The Weimar Republic's fall is conventionally explained by structural conditions and social-cultural excess; recent work suggests without the Great Depression the Republic would have become generally accepted, and if there was a single dominant reason for Hitler's arrival in power, it was probably Heinrich Brüning's criminally inept handling of the Depression through austerity — he destroyed the Republic of which he was a lukewarm supporter and brought Hitler, whom he despised, to power. France in 1940 ran into hard limits: two-thirds Germany's population, devastated industrial base, no parliamentary majority for war, an aggressive war out of the question, so successive governments planned only for a defensive war — and when the attack came through the Ardennes rather than Belgium, as the General Staff had read, no answer existed [8].
+
+The schema informs Aurelien's reading of Western crises now compounding. Energy shortages approaching in a globalised system whose only rationing mechanism is price. Demographic and social structure breakdown: single-parent families already producing their statistical effects, immigrant electorate composition in 2040 fixed by today's birth rates. The Muslim Brotherhood and affiliated parties already organised at local level in European cities, projecting electoral weight on city councils in the 2040s. State withdrawal from "difficult" areas — police, local government, medical services — with organised crime already advancing, organising service-provision rackets around immigrant communities and exploiting the structural opening the state is creating. The French 2027 election possibly producing a Mélenchon vs Le Pen second round that breaks the political system. The end of neoliberalism beginning in Britain — re-nationalisation inevitable because asset-stripping and financialisation run out of things to strip, with the rest of Europe following later, constrained by EU rules. The 2026 Iran war as the trigger event that disposes of US "Hollywood Hegemony" — rebuilding US military power has reached technical and economic limits, and the dollar's limits become visible ("you can't eat dollars"; money is "ones and zeroes" — no substitute for physical goods). What matters is whether the goods and services are physically available. Governments are wholly unprepared for priority choices under shortage (hospital vs data-centre electricity, sterile plastic vs fast-food plastic); price-only rationing collapses into political crisis [8]. See [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) and [Organised Crime and Statecraft]({{ site.baseurl }}/themes/organised-crime-and-statecraft.html).
+
 # Sources in Bundle
 
 - "Upstairs, Downstairs" [1]
@@ -71,6 +79,7 @@ His most provocative claim is that the West has lost agency in both the [Ukraine
 - "Don't Expect Respect" [5]
 - (forthcoming: the second part of the Western influence essay) [6]
 - "And It Goes On." [7]
+- "So It Goes" [8]
 
 # Citations
 
@@ -87,3 +96,5 @@ His most provocative claim is that the West has lost agency in both the [Ukraine
 [6] Aurelien, "Don't Expect Respect" (second part, forthcoming)
 
 [7] [And It Goes On.](https://aurelien2022.substack.com/p/and-it-goes-on)
+
+[8] Aurelien, "So It Goes", 2026-07-29 — https://aurelien2022.substack.com/p/so-it-goes

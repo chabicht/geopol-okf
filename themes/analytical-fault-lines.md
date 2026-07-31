@@ -2,12 +2,12 @@
 type: Theme
 title: "Analytical Fault Lines"
 parent: Themes
-description: "Recurring methodological splits among named analysts that resurface across multiple concepts — agency vs structure, unitary vs factional actor modeling, alliance-as-real vs alliance-as-branding — plus the standing register of contested calls those splits produce"
+description: "Recurring methodological splits among named analysts that resurface across multiple concepts — agency vs structure, unitary vs factional actor modeling, alliance-as-real vs alliance-as-branding, market-economics vs state-power paradigms — plus the standing register of contested calls those splits produce"
 tags:
   - contested
   - fault-line
 status: ongoing
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-07-30T00:00:00Z
 ---
 
 # Background
@@ -24,7 +24,7 @@ signal: it tells a reader which parts of the corpus are settled and which are li
 
 # Current Situation
 
-Four fault lines account for most of the standing `## Contested:` blocks (see rules.md
+Five fault lines account for most of the standing `## Contested:` blocks (see rules.md
 §8.4) across the bundle. Each entry below names the split, the analysts on each side, and
 where in the bundle it currently produces a live disagreement.
 
@@ -50,6 +50,11 @@ where in the bundle it currently produces a live disagreement.
   a fraying, non-compelled proxy network. See `## Contested:` in
   [Iran]({{ site.baseurl }}/actors/countries/iran.html) and the parallel treatment in
   [Red Sea]({{ site.baseurl }}/regions/red-sea.html). [11][12]
+- **Contested — is the China trade shock a market phenomenon or unrestricted warfare?**
+  Tooze reads China's surplus via macroeconomic aggregates and a sequenced China Shock
+  2.0 framing; ctindale reads it via Beijing's stated operational paradigm and argues
+  the market-economics framing is "constructive blindness." See `## Contested:` in
+  [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html). [13][14]
 
 # Analysis
 
@@ -116,6 +121,31 @@ analytical position — the pattern likely recurs at other multi-author outlets 
 RUSI, CSIS) and is worth auditing wherever an outlet file currently flattens contributors
 into one voice.
 
+## Market-economics paradigm vs state-power paradigm
+
+This is the most recently surfaced fault line and the most strategically consequential,
+because it is not internal to any one analytical school but cuts across the entire
+profession of interpreting the China shock. [Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html)
+reads China's surplus via macroeconomic aggregates and historical sequencing — "China
+Shock 2.0" with a "Big One" framing, industrial policy as the driver, overcapacity and
+imbalances treated as ultimately self-correcting through market discipline. [13] [ctindale]({{ site.baseurl }}/actors/authors/ctindale.html)
+reads Beijing's stated operating paradigm — "production is power, scale is leverage,
+technological capability is sovereignty, market access is conditional, dependency can be
+weaponised" — and argues that the market-economics framing is a form of "constructive
+blindness" that conceptually neutralizes a form of aggression. The correct label, on this
+reading, is "unrestricted warfare" rather than "overcapacity" or "growth-model
+distortion." [14]
+
+The split is methodological, not evidential — Tooze reads aggregates and history; ctindale
+reads doctrine and intent. Neither disputes the other's facts. The question is which
+paradigm registers what is happening. Both readings agree that Beijing is operating an
+industrial-policy-driven export surge targeting advanced sectors; they disagree on what
+the appropriate interpretive vocabulary is. See `## Contested:` in [China Shock and
+Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html)
+and the broader treatment in [Global System
+Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html) (Under
+"Bifurcation of Analytical Frames"). 
+
 # Citations
 
 [1] Phillips O'Brien, "Midweek Update #20: Each Day The US Weakens Itself", 2026-07-22 — https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us
@@ -129,4 +159,9 @@ into one voice.
 [9] The Cipher Brief, "The West Needs to Prepare for a Russian Defeat in Ukraine", 2026-07-06 — https://www.thecipherbrief.com/the-west-needs-to-prepare-for-a-russian-defeat-in-ukraine
 [10] The Cipher Brief, "The Continued Myth of Russia's Imminent Collapse: Lessons from Prigozhin's Mutiny Three Years On", 2026-07-15 — https://www.thecipherbrief.com/the-continued-myth-of-russias-imminent-collapse-lessons-from-prigozhins-mutiny-three-years-on
 [11] Robert Pape, "Breaking Analysis #3: Tehran's Second Front Heating Up Fast — Are Markets Watching?" — https://escalationtrap.substack.com/p/breaking-analysis-3-tehrans-second
+
 [12] Geopolitical Futures, "The Houthis Are Not Fighting Iran's War", 2026-07-24 — https://geopoliticalfutures.com/the-houthis-are-not-fighting-irans-war/
+
+[13] Adam Tooze, "Chartbook 462: China shocked - beyond 1.0 and 2.0 to the Big One", 2026-07-29 — https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond
+
+[14] ctindale, "The Importance of Being Obsolescent", 2026-07-30 — https://substack.com/@ctindale/p-209065047

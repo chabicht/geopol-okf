@@ -5,7 +5,7 @@ parent: Countries
 description: Gulf monarchy mediating between Iran and the US through Pakistan, deploying Pakistani troops and Chinese jets while negotiating a non-aggression pact
 tags: [country, energy, military, middle-east]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-07-31T00:00:00Z
 ---
 
 # Background
@@ -56,6 +56,14 @@ Ryvkin (GPF) reports that Saudi Arabia signed a 10-year agreement with [Ukraine]
 
 The diagnostic also notes that [Qatar]({{ site.baseurl }}/actors/countries/qatar.html) backs Riyadh and invokes UNCLOS and UN Security Council Resolution 2722 in response to the Houthi blockade — a diplomatic mobilization that frames the maritime crisis in legal terms and draws international institutional frameworks into the conflict. The Yemen recognized government and the Houthis contradicted each other over a strike on Sanaa, underscoring the political fragmentation that the S7 domain tracks. For Saudi Arabia, the convergence of blockade targeting and diplomatic-mobilization dynamics places the Kingdom at the center of both the physical and normative dimensions of the system rupture [8].
 
+## Pipeline Bypass Architecture and the Red Sea Houthi Threat
+
+[Javier Blas]({{ site.baseurl }}/actors/authors/javier-blas.html)'s July 26 reading reframes the Saudi bypass problem in pipeline-capacity arithmetic. Saudi Arabia has been routing most of its crude through the East-West pipeline to [Yanbu]({{ site.baseurl }}/actors/countries/saudi-arabia.html) on the [Red Sea]({{ site.baseurl }}/regions/red-sea.html) for more than 100 days — successfully bypassing the Strait of [Hormuz]({{ site.baseurl }}/regions/middle-east.html) during the war. With Yanbu itself under Houthi threat, Riyadh needs a "bypass for the bypass": pushing barrels north through the Suez Canal to the Mediterranean rather than south toward the Bab el-Mandeb. The Sumed pipeline — a 50-year-old, 320-kilometer pair of pipes connecting Ain Sukhna to Sidi Kerir near Alexandria — has capacity of ~2.5 mbpd, roughly half of current Yanbu flow. The Eilat-to-Ashkelon pipeline adds another ~1.2 mbpd of transport capacity. Together Sumed + Eilat-Ashkelon = ~3.7 mbpd, leaving a ~1.3 mbpd gap against ~5 mbpd Yanbu throughput. VLCCs — the workhorse tankers, each carrying up to two million barrels — cannot transit Suez fully laden because the waterway is too shallow. The required workaround is lightering: supertankers offload part of their cargo into Sumed, transit with reduced draft, and reload on the Mediterranean side. Saudi Arabia has opened talks with Chinese, South Korean, Indian, and Japanese refiners about shifting liftings from Yanbu to Sidi Kerir on the Mediterranean [9].
+
+The Eilat-to-Ashkelon pipeline has a layered history that makes it analytically interesting even as a hypothetical. Built in the 1960s as a joint venture between Israel and Iran — at the time not yet the Jewish state's "bitterest enemy" — it became a cash machine for Marc Rich during the first oil crisis in 1973–1974, and the Iranians were expelled from the joint venture after the 1979 revolution. The pipeline's operations remain classified to this day. Normalization between Riyadh and Jerusalem has not occurred, and neither the Saudis nor the Israelis would publicly admit to any rerouting through it. But when the alternative is a complete shutdown of Saudi crude exports through the Red Sea, "desperate times may call for desperate measures" — and Blas explicitly does not rule out the routing even as the strategic signalling around it would be ambiguous [9].
+
+The Houthi threat reached operational completion the week of July 21. The Houthis announced a naval blockade of Saudi Arabia, including foreign ships calling at the kingdom's Red Sea oil ports — days after Saudi Arabia bombed the airport in Sanaa. When the Houthis executed that threat, striking two Saudi-flagged tankers in the southern Red Sea, oil prices climbed back to $100 a barrel and the Yanbu bypass — the largest of the three buffers absorbing the Hormuz shock — became the one now failing fastest. For Saudi Arabia, the structural picture is doubly dangerous: the Kingdom has been mediating between [Iran]({{ site.baseurl }}/actors/countries/iran.html) and the US through [Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html), and a Houthi blockade on its ports would pressure Riyadh to abandon its mediator role and align more firmly with Washington — precisely the outcome Iran seeks to prevent [9]. See [Red Sea]({{ site.baseurl }}/regions/red-sea.html), [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), and [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html).
+
 # Citations
 
 [1] [The World Beyond Hormuz](https://thehonestsorcerer.substack.com/p/the-world-beyond-hormuz)
@@ -73,3 +81,5 @@ The diagnostic also notes that [Qatar]({{ site.baseurl }}/actors/countries/qatar
 [7] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)
 
 [8] [Global System Rupture](https://substack.com/@velinatchakarova/p-207969383)
+
+[9] Javier Blas, "Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy", 2026-07-28 — https://archive.ph/eLoT5

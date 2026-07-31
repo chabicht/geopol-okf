@@ -50,6 +50,14 @@ A critical component of this framework is O'Brien's direct critique of escalatio
 
 Applied to the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), the framework yields a clear diagnostic: at no point have both leaderships determined that ending the war is preferable to continuing it. O'Brien excludes the scenario of either side conquering the other and installing a new government, but identifies internal dissension in either [Russia]({{ site.baseurl }}/actors/countries/russia.html) or [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) as a plausible path to leadership change and war termination. Absent that, the end requires both [Putin]({{ site.baseurl }}/actors/countries/russia.html) and [Zelensky]({{ site.baseurl }}/actors/countries/ukraine.html) to independently conclude that a settlement is better than continued fighting — a condition that has not yet been met [21].
 
+## It Is All One Fight: The Authoritarian Coalition
+
+O'Brien argues that figures who take one acceptable position (e.g., supporting Ukraine) while maintaining authoritarian, racist, and conspiracist commitments should not be praised or normalized. The framework identifies a transatlantic coalition — [Laura Loomer]({{ site.baseurl }}/actors/laura-loomer.html), Tommy Robinson, Trump, Viktor Orban, Robert Fico, Nigel Farage, and Tucker Carlson — as sharing a single ideological project: "destroying civil society in the USA and Europe and replacing it with some authoritarian, anti-liberal, discriminatory state." Tactical disagreements among them (e.g., on Ukraine) mask fundamental ideological alignment. See [Political Normalization]({{ site.baseurl }}/themes/political-normalization.html) [23].
+
+O'Brien documents Trump's tactical pivot pattern: ten pro-Ukraine/anti-Russia statements between January and October 2025 (22 Jan sanctions threat; 7 Mar sanctions threat; 8 Jul "bullshit from Putin"; 13 Jul Patriot/Tomahawk talk; 14 Jul "50-day tariff deadline"; 28 Jul–6 Aug deadline cut to 10 days; 13 Sep NATO sanctions condition; 23 Sep "paper tiger"; 12–15 Oct Tomahawk threat) — all produced zero policy change. After 18 months of Trump 2.0: all US aid to Ukraine stopped, Ukraine's Patriots depleted, Russia selling oil freely, Ukraine has no effective defense from Russian ballistic missiles [23]. Trump adjusts because he believes it is in his interest to adjust, not because of humanitarian impulse — his recent rhetorical changes on Ukraine reflect recognition that Ukraine has cards, not a change in outlook. The Graham-Blumenthal sanctions bill, even if passed, has no guarantee of implementation; Trump's public suggestion that Iran be added to the bill functioned to "muddy the waters" and slow the process down — a dynamic [Laura Loomer]({{ site.baseurl }}/actors/laura-loomer.html) misread as a sign of greater pro-Ukraine commitment.
+
+The framework's working premise is that Europe gains more by disregarding the United States and helping Ukraine fight its war than by flattering, praising, or appealing to Trump's supposed better nature — flattery has demonstrably failed [23]. See [Laura Loomer Ukraine Visit]({{ site.baseurl }}/events/laura-loomer-ukraine-visit-2026.html) and [Political Normalization]({{ site.baseurl }}/themes/political-normalization.html).
+
 # Posture Toward the Russia-Ukraine War
 
 O'Brien provides detailed real-time tracking of the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), organized around three operational threads: the [Crimea isolation campaign]({{ site.baseurl }}/events/crimea-isolation-campaign.html) (turning the peninsula from a Russian asset into a liability through systematic strikes on logistics and naval infrastructure), long-range strikes extending deep into Russian industrial territory, and [Belarus]({{ site.baseurl }}/actors/lukashenka.html) dynamics as a theater where Russian and Ukrainian interests intersect with Lukashenka's survival calculus. He argues the ranged war is still in its early stages (comparable to mid-1943 in WWII), with both sides capable of significantly increasing production [9][10].
@@ -138,6 +146,7 @@ The framework has immediate diagnostic application to the [United States]({{ sit
 - "Midweek Update #20: Each Day The US Weakens Itself" [20]
 - "Scenarios For Ending The Russo-Ukraine War" [21]
 - "Weekend Update #195: The Worst Week Becomes Much Better (But Not The Best)" [22]
+- "It Is All One" [23]
 
 # Citations
 
@@ -184,3 +193,5 @@ The framework has immediate diagnostic application to the [United States]({{ sit
 [21] [Scenarios For Ending The Russo-Ukraine War](https://phillipspobrien.substack.com/p/scenarios-for-ending-the-russo-ukraine)
 
 [22] [Weekend Update #195: The Worst Week Becomes Much Better (But Not The Best)](https://phillipspobrien.substack.com/p/weekend-update-195-the-worst-week)
+
+[23] Phillips P. O'Brien, "It Is All One", 2026-07-27 — https://phillipspobrien.substack.com/p/it-is-all-one

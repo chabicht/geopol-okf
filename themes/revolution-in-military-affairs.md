@@ -9,7 +9,7 @@ tags:
   - ai
   - drone-warfare
 status: ongoing
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-07-30T00:00:00Z
 ---
 
 # Background
@@ -56,6 +56,12 @@ Legacy arms manufacturers have a commercial interest in dismissing the RMA. If t
 
 The revolution extends to how military software itself is produced. Jacob Green (War on the Rocks) identifies a discontinuous capability shift not in weapons hardware but in the economics of building military software. Agentic AI — systems that can plan and execute work using external tools and data beyond a chat window — is turning elite software development into a ubiquitous commodity. Green's own demonstration: a 9,500-line, 60,000-page agentic retrieval system built in under 20 hours for approximately $1,700 in inference costs, versus a COCOMO-estimated $840,000–$1.2 million and 6,000–7,000 engineering hours through traditional procurement. This is not incremental improvement; it is a category change [5]. Green argues the "make-or-buy line" has moved: the DoD should buy infrastructure, agentic tools, and model access commercially, but build applications in-house using its existing software organizations, compressing delivery timelines by eliminating the 6-to-18-month accreditation wait that gates current software deployment. Internal competition through reimbursable models and cross-service work bidding would incentivize efficient value creation [5]. The architectural dimension centers on the Model Context Protocol (MCP), an open standard for agent-to-data interaction now adopted industry-wide. MCP servers wrapped around authoritative data sources enable any compliant agent to retrieve data in real time, eliminating costly system-to-system integrations and realizing the DoD's long-sought Data Mesh vision: data remains in its functional domain system and is accessed as a product through agent-to-agent interactions. The result is a plug-and-play open architecture ecosystem that breaks vendor lock-in and reclaims buying power [5]. See [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html) for the resource asymmetry and procurement strategy dimensions.
 
+## The 4IR Alliance Architecture: Space, Targeting, Manufacturing Capacity
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) locates the RMA inside a broader 4IR framework in which "space assets, targeting systems, and precision weapons" — not platforms — are the basis of alliance. Russia's provision of space-based reconnaissance equipment to [North Korea]({{ site.baseurl }}/actors/countries/north-korea.html) extends the pan-Eurasian alliance "as far as the Korean Peninsula" and confirms that the cutting-edge capabilities of the modern age, which include space assets, targeting systems, and precision weapons, have become the basis of alliance. Whichever side controls and disseminates these innovations most quickly will determine the military equation in the key region. The Roscosmos-NASA thaw in mid-2026 — revived communications after years of suspended cooperation — is "polite protocol like during the First Cold War": cooperation in selected areas with hard competition everywhere else within national security, driven by a "winner takes all" mentality rather than detente [9].
+
+The 4IR's manufacturing-capacity dimension is decisive, not just deployment. The country that can manufacture high-tech weapons at volume rather than simply deploy them will determine the parameters of the new conflict. AI is "the game changer in the battle between the United States and [China]({{ site.baseurl }}/actors/countries/china.html) during the 4th Industrial Revolution," and "may ultimately determine the victor." The crisis-ceiling coordination ("Triumvirate of Happiness") between Washington, Beijing, and Moscow operates in selected areas (Iran de-escalation, Roscosmos-NASA dialogues) but stops at the edge of technology leadership contention: there is neither trilateral accord nor upper limit on the issue of technological superiority in the 21st century — semiconductors, AI, outer space, dual-use manufacturing [9].
+
 ## Deterrence After MAD: The Political Logic of De-Humanized War
 
 O'Brien argues that the RMA changes the political calculus of war initiation. In the past, leaders had to calculate how the human cost of launching a war could change domestic politics — a consideration that has restrained war in some cases, notably the [United States]({{ site.baseurl }}/actors/countries/united-states.html). In the de-humanized war, this restraint weakens: the calculation becomes strictly military and economic — "Can my de-humanized systems secure the political goals I want?" If a leader calculates they can, they will be far less restrained in the use of military force [1].
@@ -89,3 +95,5 @@ The institutional restructuring needed to match the RMA's pace is beginning to e
 [7] [Bravery Does Not Win Wars](https://phillipspobrien.substack.com/p/bravery-does-not-win-wars)
 
 [8] [We've Seen Autonomous Warfare and We're in Trouble](https://www.thecipherbrief.com/weve-seen-autonomous-warfare-and-were-in-trouble)
+
+[9] Velina Tchakarova, "The Triumvirate of Happiness amid Two Wars, One Continuum", 2026-07-30 — https://substack.com/@velinatchakarova/p-209080577

@@ -2,10 +2,10 @@
 type: Actor
 title: ctindale
 parent: Authors & Analysts
-description: Analyst of governance feedback loops and co-developer of the Tindale-Tchakarova Cascade model — tracking how institutional self-optimization produces systemic dysfunction
+description: Analyst of governance feedback loops, co-developer of the Tindale-Tchakarova Cascade model, and critic of paradigm obsolescence in mainstream economics and Wall Street when analyzing strategic competition with China
 tags: [author, framework]
 status: ongoing
-timestamp: 2026-07-06T00:00:00Z
+timestamp: 2026-07-30T00:00:00Z
 ---
 
 # Background
@@ -41,11 +41,26 @@ ctindale identifies six self-reinforcing loops that sustain institutional dysfun
 
 The loops converge on a single motion: the tool replaces the function, then kills it. The function being killed in every case is human judgment. The newest tools (AI) are the perfected knowledge monopoly — generating fluent authority on every subject simultaneously, with no one possessing the bandwidth to verify it. The resolution is not private retreat but collective: a higher order of mind must press into common life and reorganize dying structures from a new principle [4].
 
+## Constructive Blindness and Paradigm Obsolescence
+
+Mainstream economics and Wall Street suffer from paradigm obsolescence when analyzing China — applying an engagement-era, market-centric model (designed for a world China is actively replacing) to a system of continuous strategic competition. Tooze "and co as bright as they are, are still applying an engagement-era economic paradigm" to a phenomenon that requires a different frame [5].
+
+Five failed assumptions of the engagement paradigm: (a) markets are largely separate from state power; (b) trade integration moderates geopolitical rivalry; (c) capital flows are politically neutral; (d) efficiency is more important than industrial control; (e) persistent losses or overcapacity must eventually be corrected by market discipline. Beijing operates under a different paradigm — one Maxine Read framed in plain terms: production is power; scale is leverage; technological capability is sovereignty; market access is conditional; dependency can be weaponised. Commercial activity, industrial policy, and national strategy are not separate domains in Beijing's view; they are fused [5].
+
+Four category errors that result: Western economists see excess capacity where Beijing sees strategic scale; cheap imports where Beijing sees the displacement of foreign production; low returns where Beijing sees long-term capability acquisition; economic interdependence where Beijing may see asymmetric dependence. The vocabulary of rationality is obsolete, though the framework continues to retry its pieces [5].
+
+Wall Street's structural incentive problem compounds the analytical error. Rewarding access, transactions, asset flows, and short-term returns produces a framework that treats China primarily as a market — preserving fees, deals, and investment opportunities. A framework that treated China as a strategic competitor would force recognition that some profitable transactions may weaken the productive and technological base on which Western power depends. The result is a systematic mispricing of strategic risk [5].
+
+ctindale labels the resulting posture "constructive blindness." The interpretive lag is not caution or politeness — it is "conceptually neutralising a form of aggression perpetrated by a rival." When industrial capacity is deliberately concentrated, rivals' production bases are systematically displaced, and technological and commercial tools are deployed without traditional limits, the correct description is unrestricted warfare. The vocabulary of "overcapacity," "imbalance," and "growth-model distortion" belongs to a paradigm that separates state power from markets and therefore cannot register what is actually happening [5].
+
+This directly challenges Tooze's market-economics reading of [China Shock 2.0]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html). The two readings engage the same data but interpret it through incompatible paradigms. The methodological split is registered at [Analytical Fault Lines]({{ site.baseurl }}/themes/analytical-fault-lines.html) [5].
+
 # Sources in Bundle
 
 - "You Cannot Unsee the Loops" [1]
 - "The Next Evolution in Human Logic" [3]
 - "Where We Are Today: The Mechanics of Our Own Undoing" [4]
+- "The Importance of Being Obsolescent" [5]
 
 # Citations
 
@@ -56,3 +71,5 @@ The loops converge on a single motion: the tool replaces the function, then kill
 [3] [The Next Evolution in Human Logic](https://ctindale.substack.com/p/the-next-evolution-in-human-logic)
 
 [4] [Where We Are Today: The Mechanics of Our Own Undoing](https://ctindale.substack.com/p/where-we-are-today-the-mechanics)
+
+[5] ctindale, "The Importance of Being Obsolescent", 2026-07-30 — https://substack.com/@ctindale/p-209065047

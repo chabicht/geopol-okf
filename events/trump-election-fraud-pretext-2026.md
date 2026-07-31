@@ -7,7 +7,7 @@ event_date: 2026-07-15
 actuality: actual
 tags: [ideology, elections, oligarchy]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-07-31T00:00:00Z
 ---
 
 # Background
@@ -42,6 +42,10 @@ The same day, DHS Secretary Markwayne Mullin threatened state officials with cri
 
 [Paul Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html) documents the gap between Trump's boasts about global respect and the empirical record. Pew's Global Attitudes Survey shows that people in many countries now view [China]({{ site.baseurl }}/actors/countries/china.html) more positively than the US. Governments around the world, including former loyal allies, are scrambling to reduce their dependence on an America that can't be trusted and has proved itself far weaker than anyone imagined. The "America is respected" lie serves two functions for the election-subversion project. First, it matters to Trump personally: claims that America was a laughingstock under Biden but is now admired are near the top of many of his speeches — Trump lives for external validation, and the delusion that the world is in awe of his prowess is key to his fragile sense of self-worth. Second, the boasts about international reputation are part of the case Trump is building for disrupting and rejecting the midterm results: since he is doing an incredible job, nobody should get in his way or place any limits on his power. At this point, none of what Trump says is really about persuasion — it is all about laying the groundwork for his attempt to destroy democracy [3].
 
+## Laura Loomer's Post-Speech Reaction and the Broader Election-Denial Network
+
+[Laura Loomer]({{ site.baseurl }}/actors/laura-loomer.html)'s public reaction to Trump's primetime speech extended and amplified the election-fraud pretext. Loomer's post-speech thread called for arrests directly — "It's time for people to go to jail!" — and advanced a wider conspiracy theory: China had "illegally acquired over 220 MILLION American voter files"; the "COVID-19 scamdemic was a Chinese bioweapon"; and "China helped the Democrats steal the 2020 Presidential election" [4]. Loomer had separately called on Trump to further gut US intelligence agencies. The thread fits an established pattern: a month earlier she had publicly demanded the arrest of Facebook CEO [Mark Zuckerberg]({{ site.baseurl }}/actors/trump.html), who supposedly played a role in stealing the 2020 election, and in a separate claim she had alleged that [Microsoft]({{ site.baseurl }}/actors/trump.html) "worked with the Chinese" in pursuit of a non-existent conspiracy. The public-praise-for-loomer dynamic documented by [Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) is precisely the campaign-laundering effect: the same voices that normalize one acceptable position from a racist conspiracist give that figure broadcast reach and platform authority that extends to the entire conspiracy ecosystem [4]. See [Laura Loomer Ukraine Visit]({{ site.baseurl }}/events/laura-loomer-ukraine-visit-2026.html) and [Political Normalization]({{ site.baseurl }}/themes/political-normalization.html).
+
 # Citations
 
 [1] [The Forever War Gets Scary](https://paulkrugman.substack.com/p/the-forever-war-gets-scary)
@@ -49,3 +53,5 @@ The same day, DHS Secretary Markwayne Mullin threatened state officials with cri
 [2] [July 17, 2026](https://heathercoxrichardson.substack.com/p/july-17-2026)
 
 [3] [Trump Can't Get No Respect](https://paulkrugman.substack.com/p/trump-cant-get-no-respect)
+
+[4] Phillips O'Brien, "It Is All One", 2026-07-28 — https://phillipspobrien.substack.com/p/it-is-all-one

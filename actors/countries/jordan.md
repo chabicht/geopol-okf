@@ -5,7 +5,7 @@ parent: Countries
 description: Kingdom whose only port (Aqaba) is threatened by Iran as the Basra-Aqaba energy bypass pipeline becomes a strategic target in the widening US-Iran War
 tags: [country, middle-east, energy, military]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-07-30T00:00:00Z
 ---
 
 # Background
@@ -38,6 +38,14 @@ See [Middle East]({{ site.baseurl }}/regions/middle-east.html) for regional cont
 
 [Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) documents that Iranian forces struck Jordan's Muwaffaq Salti Air Base in Azraq on July 17–18, 2026, killing two US service members — a continuation of the pattern of strikes on US-hosting bases. On July 19, Iran fired ballistic missiles at Aqaba, Jordan's only port city, near the Israeli city of Eilat. The Aqaba strike extends the threat beyond US military infrastructure to civilian and commercial maritime infrastructure, compounding the risk to the long-delayed Basra-Aqaba pipeline project [3]. See [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) and [Red Sea]({{ site.baseurl }}/regions/red-sea.html).
 
+## Jordan as the Dispersal Pillar: The July 29 CENTCOM Strike
+
+The earlier July attacks on Muwaffaq Salti were followed on July 29, 2026 by a more explicit Iranian strike — the central event of the [US-Iran War's]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) spiral phase. The IRGC Aerospace Force launched a ballistic missile attack on a US CENTCOM center inside Jordan, and all projectiles were successfully intercepted by air defenses, with no US casualties reported. Global oil prices rose 5% on the news. The IRGC publicly claimed responsibility and named the target — a CENTEROM center — explicitly rather than relying on the kind of plausible-deniability framing characteristic of earlier IRGC statements [4].
+
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) frames the strike as the moment Jordan's strategic role is exposed for what it is. Behind the dispersal architecture: US forward bases at Al Udeid Air Base in Qatar and at facilities in Bahrain have become structurally vulnerable to Iran's growing arsenal of precision ballistic missiles, maneuvering warheads, and mass-produced drones. The Pentagon's response has been to disperse assets away from the Gulf — including to Jordan's Muwaffaq Salti Air Base, which now hosts roughly 4,000 US personnel supporting advanced fighters, drones, ISR, and air-defense systems. Jordan is therefore not "another American base" but a pillar of the geographic architecture that lets the United States sustain military operations at all [4].
+
+The same dispersal that gave Jordan its new strategic value made it a target. Iran has explicitly stated in the strike's attribution that the Aerospace Force targeted a US CENTCOM center inside Jordan — confirming that the dispersal architecture has itself become a target class. Iran is not merely retaliating against the US; it is contesting the regional system through which US power is projected, and dispersal architecture is the part of that system least defended. The cost-distance logic runs in both directions: every additional mile of dispersal forced on US aircraft increases sortie times, refueling requirements, logistics costs, and operational tempo for American air power, while the political burden on Jordan of hosting a CENTCOM center that has been publicly identified as an Iranian target rises in parallel [4]. See [Iran Strike on Jordan]({{ site.baseurl }}/events/iran-jordan-strike-2026-07-29.html).
+
 # Citations
 
 [1] [Breaking Analysis #6: Why Aqaba?](https://escalationtrap.substack.com/p/breaking-analysis-6-why-aqaba)
@@ -45,3 +53,5 @@ See [Middle East]({{ site.baseurl }}/regions/middle-east.html) for regional cont
 [2] [July 20, 2026](https://heathercoxrichardson.substack.com/p/july-20-2026)
 
 [3] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)
+
+[4] Robert Pape, "Breaking Analysis #8: Iran Attacks Jordan – Sends the US a Message", 2026-07-30 — https://escalationtrap.substack.com/p/breaking-analysis-8-iran-attacks

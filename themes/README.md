@@ -34,10 +34,12 @@ permalink: /themes/
 * [Inflation and Monetary Policy](inflation-and-monetary-policy.html) - Global inflation driven by the Iran war energy shock; regional breakdowns, three scenarios, central bank responses, and asymmetric business impact
 * [EV Industrial Competition](ev-competition.html) - The global electric vehicle transition as a contest over industrial power — China's battery and mineral dominance versus US and EU industrial policy responses
 * [Geoeconomics of Water](geoeconomics-of-water.html) - Water stress disrupting trade corridors, energy production, agriculture, and manufacturing — water resilience as core risk management
+* [China Shock and Deindustrialization](china-shock-and-deindustrialization.html) - Sequenced impact of Chinese trade surpluses on Western manufacturing — Shock 1.0 (US-low-end), Shock 2.0 (Europe-high-value), and the prospective "Big One"
 
 ## Ideology & Information
 
 * [Cognitive Warfare](cognitive-warfare.html) - Russian influence operations, vandalism attacks, election interference
 * [Ideology and Democracy](ideology-and-democracy.html) - Democratic legitimacy crisis, communism as failed ideology, Latin American realignment
+* [Political Normalization](political-normalization.html) - The mechanism by which authoritarian figures gain mainstream legitimacy through tactical single-issue pivots
 * [Global Depopulation](global-depopulation.html) - Fertility decline as the most undercovered structural trend of the 21st century
 * [Organised Crime and Statecraft](organised-crime-and-statecraft.html) - The growing nexus between states and organised criminal networks for sanctions evasion, sabotage, and influence operations

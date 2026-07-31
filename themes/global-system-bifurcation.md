@@ -9,7 +9,7 @@ tags:
   - supply-chain
   - sanctions
 status: ongoing
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-07-30T00:00:00Z
 ---
 
 # Background
@@ -42,6 +42,7 @@ The destination data is the physical signature of the bifurcation thesis: Wester
 - **Trade data as leading indicator**: Policy declarations (sanctions, export controls, tariff lists) are lagging indicators — they codify changes already visible in the trade data. The WTO 2025 numbers show destination divergence preceding and outpacing policy formalization.
 - **Currency effects mask volume shifts**: EU export growth in dollar terms overstates Western resilience; in volume terms, China is closing the export gap. Analytical frameworks that track headline dollar values without adjusting for currency will misread the bifurcation trajectory.
 - **Services vs goods**: Services trade (up 8%) is growing faster than goods (up 6%), and services are less susceptible to chokepoint disruption and sanctions. The bifurcation may proceed more slowly in services than in goods — creating a structural asymmetry between the two trade dimensions.
+- **Bifurcation is now conceptual as well as structural**: The divergence extends beyond trade flows to the analytical frameworks used to interpret them. Western market-economics paradigms analyze the surplus as an "industrial policy shock of global scale"; an alternative reading frames it as "unrestricted warfare" — the bifurcation has a methodology dimension alongside its physical one. See [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html). [3][4]
 
 # Analysis
 
@@ -57,8 +58,20 @@ The bifurcation is the economic dimension of the [Cold War 2.0]({{ site.baseurl 
 
 The new bipolar order is more accurately understood as a competition between two rival geopolitical ecosystems — the US-led coalition and the DragonBear — rather than between two economies. The outcome will be determined by which ecosystem proves more resilient, adaptive, and capable of orchestrating full-spectrum power, not by comparative GDP growth rates [2].
 
+## Bifurcation of Analytical Frames
+
+The 2026 trade data visible in physical flows has a parallel split at the conceptual level: the analytical frameworks used to interpret the same data diverge. [Adam Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) reads the 2025 onwards Chinese export surge as an "industrial policy shock of global scale" — a post-Polanyian phenomenon, not just globalization-meets-backlash. The 1.0/2.0 numbering understates the drama: the 2020s event is qualitatively different from the 2000s wave, with Shock 1.0 a "foreshock" and the current surge a potential "Big One." Tooze acknowledges industrial policy but works within a market-economics paradigm that treats overcapacity and imbalances as ultimately self-correcting through market discipline [3].
+
+[ctindale]({{ site.baseurl }}/actors/authors/ctindale.html) reads the same data through Beijing's stated operating paradigm — production is power, scale is leverage, technological capability is sovereignty — and argues the market-economics frame is a form of "constructive blindness" that conceptually neutralizes a form of aggression. Five failed assumptions of the engagement paradigm (markets separate from state power; trade integration moderates rivalry; capital flows are politically neutral; efficiency outweighs industrial control; persistent losses self-correct) leave Western analysts unable to register what Beijing's state-power paradigm is doing. The correct label is "unrestricted warfare," not "overcapacity" or "imbalance" [4].
+
+The bifurcation is therefore not only structural (two competing trade geometries) but methodological (two incompatible frameworks operating on the same data). See [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html) for the full sequenced treatment and [Analytical Fault Lines]({{ site.baseurl }}/themes/analytical-fault-lines.html) for the formal contested block.
+
 # Citations
 
 [1] [Global System Bifurcation](https://substack.com/@velinatchakarova/p-205754684)
 
 [2] [China's Steady Economic Decline](https://substack.com/@velinatchakarova/p-208670863)
+
+[3] Adam Tooze, "Chartbook 462: China Shocked — Beyond 1.0 and 2.0 to the Big One", 2026-07-30 — https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond
+
+[4] ctindale, "The Importance of Being Obsolescent", 2026-07-30 — https://substack.com/@ctindale/p-209065047

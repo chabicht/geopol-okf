@@ -19,6 +19,7 @@ permalink: /actors/
 * [Aleksandr Lukashenka](lukashenka.html) - Survival-driven opportunist whose alignment with Russia is contingent
 * [Ramzan Kadyrov](kadyrov.html) - Chechnya's dictator facing succession crisis driven by failing health
 * [Lindsey Graham](lindsey-graham.html) - Quintessential Trump-era politician who abandoned lifelong patriotic ideals for collaboration
+* [Laura Loomer](laura-loomer.html) - Trump-aligned far-right activist and influencer whose July 2026 Ukraine trip was tactical, not genuine
 
 ## Organizations
 

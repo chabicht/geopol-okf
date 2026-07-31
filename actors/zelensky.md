@@ -5,7 +5,7 @@ parent: Actors
 description: President of Ukraine; leading a multi-front campaign combining battlefield defense, long-range strikes on Russian industry, and coercive diplomacy against Belarus.
 tags: [leader, military, europe]
 status: ongoing
-timestamp: 2026-07-26T23:00:00Z
+timestamp: 2026-07-31T00:00:00Z
 ---
 
 # Background
@@ -62,6 +62,12 @@ The political stakes are high. A Rating Group poll released that week shows Fedo
 
 [RUSI]({{ site.baseurl }}/actors/authors/rusi.html) (Jim McLean) adds substantive depth to the Fedorov dismissal, framing it as an unresolved debate about the future of Ukraine's way of war and civilian control of the military. Fedorov's reform agenda — consolidating poorly performing brigades, collocating corps constituent brigades, and empowering tech-leveraging commanders — was systematically obstructed by General Syrskyi, who established new brigades instead of consolidating, split best units across opposite ends of the front, and prioritised personnel for 425 Assault Regiment's human-centric attacks while stripping equipment from innovative formations. Zelensky removed Fedorov because the Ministry–General Staff rift was unsustainable, but he did not side with Syrskyi on substance — directing that the reforms continue under the new minister. The conscription reform question also remains: Fedorov identified that the problem was not recruitment volume but training and corruption, requiring changes the General Staff refused to implement. The decision calculus reveals Zelensky prioritising institutional stability over reform momentum — removing the reformer while preserving the reform mandate, a compromise that leaves the civilian-control question unresolved [6]. See [Fedorov Dismissal (July 2026)]({{ site.baseurl }}/events/fedorov-dismissal-2026.html).
 
+### The Laura Loomer Interview (Late July 2026)
+
+In late July 2026, Zelensky sat for a televised interview with [Laura Loomer]({{ site.baseurl }}/actors/laura-loomer.html), a Trump-aligned far-right activist whose Ukraine trip was being publicly framed as a "Damascene conversion" to the Ukrainian cause. Loomer spent much of the interview trying to extract from Zelensky the statement that Trump was "the best president in US history." Zelensky deflected — "Had great results, 70-70. The best president is, first of all, the president for your country" — before yielding partial ground ("Donald Trump for today") and offering Lincoln as a counter-example. The exchange continued with Zelensky joking that Trump "gave you a MAGA hat." Loomer also used the broadcast to ask Zelensky about a Russian propaganda claim that he and French President Macron had "snorted cocaine together" [8].
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) judges that Zelensky "will live to regret" the interview. The gestures of apparent support that Loomer offered came bundled with her broader broadcasting repertoire — racism, election-denial, anti-Muslim hatred, conspiracism, and Trump sycophancy throughout the trip. Zelensky's apparent gains from validating her visit were minor compared with the normalization the appearance provided to her platform and the broader coalition of figures who share her project. The interview illustrates the costs of accepting tactical endorsements from figures whose broader posture is destructive of the very democratic civil society Ukraine's cause depends on. See [Laura Loomer Ukraine Visit]({{ site.baseurl }}/events/laura-loomer-ukraine-visit-2026.html), [Political Normalization]({{ site.baseurl }}/themes/political-normalization.html), and [Laura Loomer]({{ site.baseurl }}/actors/laura-loomer.html) [8].
+
 # Citations
 
 [1] [Watch Belarus Indeed](https://phillipspobrien.substack.com/p/watch-belarus-indeed)
@@ -76,3 +82,5 @@ The political stakes are high. A Rating Group poll released that week shows Fedo
 [6] [The Dismissal of Ukraine's Defence Minister](https://www.rusi.org/explore-our-research/publications/commentary/dismissal-ukraines-defence-minister)
 
 [7] [Weekend Update #195: The Worst Week Becomes Much Better (But Not The Best)](https://phillipspobrien.substack.com/p/weekend-update-195-the-worst-week)
+
+[8] Phillips O'Brien, "It Is All One", 2026-07-28 — https://phillipspobrien.substack.com/p/it-is-all-one

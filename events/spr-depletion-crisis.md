@@ -7,7 +7,7 @@ tags: [energy, economics]
 status: ongoing
 actuality: actual
 event_date: 2026-05-09
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-07-31T00:00:00Z
 ---
 
 # Background
@@ -44,6 +44,14 @@ The arithmetic is stark: about 1.3 billion barrels of oil have vanished from the
 
 [Heather Cox Richardson]({{ site.baseurl }}/actors/authors/heather-cox-richardson.html) reports that by mid-July 2026 the U.S. oil reserve had dropped to its lowest level since 1983 — the very benchmark the Honest Sorcerer's earlier analysis had identified as the structural floor. The disclosure coincided with Iran's reported request that the Houthis close the Bab el-Mandeb strait in response to Trump's threatened strikes on Iran's power network, raising the prospect of a second Middle East export route being disrupted just as the SPR approached its operational minimum. The data point confirms Pape's "deferred reckoning" thesis: the buffers absorbing the Hormuz shock are one-time measures, and the moment the drawdowns stop and normal buying resumes, the arithmetic reverses — with less oil in storage than at any point in decades [7].
 
+## Pape's August Forecast and the Three-Buffer Trajectory
+
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html)'s July 28 analysis refines the SPR picture within a broader three-buffer framework. The SPR buffer accounts for roughly 3–4 mbpd of the ~16 mbpd offset against the ~20 mbpd Hormuz baseline — alongside the Chinese demand-destruction buffer (~4–5 mbpd) and the bypass-pipeline buffer (~7 mbpd, the largest of the three). Together these three buffers have absorbed the Hormuz shock; together they are now narrowing simultaneously. The SPR trajectory since [the war began]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) is unambiguous: from approximately 415 million barrels on February 28 to roughly 315 million barrels by July 17, a decline of approximately 100 million barrels over five months. As of late July, the SPR sits just above the congressional mandated minimum of approximately 250 million barrels, and the average daily drawdown rate has fell from ~1.3 mbpd in mid-June to ~0.43 mbpd in the week ended July 10 [8].
+
+Pape's forecast: world reserve drawdowns — including the SPR — will likely drop to half their current rate or less by end of August as the reserve approaches the statutory floor and the operational constraint becomes binding. The buffer that has absorbed the shock by drawing down stocks cannot continue drawing at the current rate when it is approaching the salt-cavern structural limit. Combined with the simultaneous reversal of the Chinese demand buffer and the kinetic compression of the bypass buffer at the [Red Sea]({{ site.baseurl }}/regions/red-sea.html), the composite offset of ~16 mbpd is set to fall by more than half [8]. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) and [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html).
+
+The empirical question is what "falling by more than half" looks like in mid-to-late August. If the SPR drawdown rate decelerates from ~0.43 mbpd toward ~0.2 mbpd as the reserve approaches ~300 million barrels, if Chinese crude imports rise further from ~7.1 mbpd toward ~7.4 mbpd as the demand-destruction phase unwinds, and if Red Sea bypass capacity remains at the current 40% offline level, then the composite offset falls from ~16 mbpd in spring 2026 toward ~7–8 mbpd by end of August — covering approximately one-third rather than four-fifths of the Hormuz baseline. The arithmetic signals shortage rather than just disruption, because the residual ~12 mbpd gap cannot be closed without either substantial price increases, demand destruction outside China, or a kinetic reopening of one of the two corridors. Each of those remedies is itself costly and none is on track by mid-summer 2026 [8].
+
 # Citations
 
 [1] [The Quiet Before the Squeeze — Why Hormuz Hasn't Sent Oil to $150](https://substack.com/@velinatchakarova/p-201366553)
@@ -59,3 +67,5 @@ The arithmetic is stark: about 1.3 billion barrels of oil have vanished from the
 [6] [The Oil Price "Mystery"](https://thehonestsorcerer.substack.com/p/the-oil-price-mystery)
 
 [7] [July 16, 2026](https://heathercoxrichardson.substack.com/p/july-16-2026)
+
+[8] Robert Pape, "Why July Red Sea Front = August Energy Shock", 2026-07-28 — https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy

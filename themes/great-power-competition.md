@@ -9,7 +9,7 @@ tags:
   - economics
   - trade
 status: ongoing
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-07-30T00:00:00Z
 ---
 
 # Background
@@ -169,6 +169,16 @@ Whether such an accommodation is reachable depends on the leverage each side bri
 
 The corrective is a coordinated allied strategy: meeting Chinese rare earth controls with sector-specific trade defenses targeting machine tools, robots, chemicals, and ships, while deploying nontariff barriers and technical standards as force multipliers [32]. G-7 coordination is essential but Trump's tariffs on allies narrow the scope for collective action — and critics argue Beijing currently has more leverage, as export controls are more powerful than Western tariffs [32]. The European dimension is intensifying: [Germany]({{ site.baseurl }}/actors/countries/germany.html) is losing approximately 10,000 manufacturing jobs per month, and European Council debates over trade safeguards reflect a changed continental calculus. The longer Western economies delay coordinated demand-side responses, the more deeply Chinese export penetration erodes the industrial bases that would be needed to mount them [32]. US-China strategic competition was not inevitable — it is the product of policy choices made in the 2010s, primarily Beijing's [32]. The US has a real but urgent opportunity to focus on the near-term deindustrialization threat; the sooner Washington's consensus shifts from supply-side reflexes to demand-side strategy, the better positioned the US and its allies will be [32].
 
+## The US-DragonBear Cold War and the Triumvirate of Happiness
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) frames the current contest as a single US-DragonBear Cold War whose true center of gravity is the Indo-Pacific, with Ukraine and Iran as two proxy theaters consuming US stockpiles and testing resolve ahead of the main show this decade. The Ukraine and Iran wars are "auxiliary fronts contributing to the consolidation of a pan-Eurasian alliance as far as the Korean Peninsula." North Korea's increasing linkage with both Moscow and Beijing gives the DragonBear an Asian as much as European foothold; Russia's provision of space-based reconnaissance equipment to North Korea for Korean troops proves the cutting-edge capabilities of the modern age — space assets, targeting systems, and precision weapons — have become the basis of alliance. Whichever side controls and disseminates these innovations most quickly will determine the military equation in the key region [33].
+
+The "Triumvirate of Happiness" — Trump's July 24 statement that both Xi and Putin privately promised not to arm Iran, layered onto Rubio's separate talks with Wang Yi and Lavrov on the ASEAN ministerial sidelines in Manila — demonstrates that great-power coordination on the [Iran]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) file can coexist with ruthless competition everywhere else. In the same week the three powers quietly oversaw the Gulf, a Chinese coast guard ship hit a Philippine sailor with a truncheon at the Second Thomas Shoal, each capital summoned the other's ambassador, Rubio warned through a Philippine newspaper of severe new challenges, and the US boosted its military aid budget to the Philippines to $100M for the fiscal year. The arrangement is "cooperation without binding commitment" — sustainable precisely because no party publicly acknowledges it, fragile because it rests on private understandings rather than law. Trump publicizing the deal is an insurance policy against defection (raising reputational costs), and simultaneously reveals its weakness (Russia has plenty of reason to keep vague its intentions in Tehran). The Triumvirate is not detente; it is "managed competition with a bottom line for stabilization" because we are now in the hot phase of the new Cold War with arms build-up, nuclear build-up, and AI race. Cooperation stops at the edge of technology leadership contention (semiconductors, [AI]({{ site.baseurl }}/themes/revolution-in-military-affairs.html), outer space, dual-use manufacturing) — a "winner takes all" contest with no trilateral accord and no upper limit. The Roscosmos-NASA thaw is "polite protocol like during the First Cold War," not detente. AI "will be the game changer in the battle between the United States and China during the 4th Industrial Revolution, and may ultimately determine the victor [33].
+
+## Hollywood Hegemony and the End of US Primacy
+
+[Aurelien]({{ site.baseurl }}/actors/authors/aurelien.html) extends the terminal-dynamics reading from Iran to the broader system. The 2026 [Iran war]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — more than Ukraine — will be seen as the trigger event that disposed of US "Hollywood Hegemony," the long-running PR campaign claiming the US was some kind of globe-bestriding hegemonic empire. The US has now come up against the hard limits of what its military capacity can accomplish. For a long time these limits were disguised under "Hollywood Hegemony," apparently genuinely believed by many in Washington and tolerated with some weariness by the rest of the world. The problem is there is no way back: hard economic and technical limits constrain the rebuilding of US military power, and the PR campaign will have to be abandoned, no matter how many think-tanks push out ambitious fairy-tale schemes for recovering a hegemony the US never genuinely had anyway. The dollar is a powerful instrument, but "you can't eat dollars and you can only buy what is for sale." The hard limit is whether the goods and services are physically available — and soon there will be less of them. Much of political Washington lives in a fantasy world and will bitterly resist the incursion of reality; it is unclear whether the political system is capable of sensibly managing a situation where the decline in US power is so stark and unmistakable, and where other and newer players start to arrange the world in their own interests [34].
+
 # Citations
 
 [1] https://thehonestsorcerer.substack.com/p/the-big-picture
@@ -229,3 +239,7 @@ The corrective is a coordinated allied strategy: meeting Chinese rare earth cont
 [31] [China's Steady Economic Decline](https://substack.com/@velinatchakarova/p-208670863)
 
 [32] [China's Moment of Weakness](https://www.foreignaffairs.com/china/chinas-moment-weakness)
+
+[33] Velina Tchakarova, "The Triumvirate of Happiness amid Two Wars, One Continuum", 2026-07-30 — https://substack.com/@velinatchakarova/p-209080577
+
+[34] Aurelien, "So It Goes", 2026-07-29 — https://aurelien2022.substack.com/p/so-it-goes
