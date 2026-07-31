@@ -99,4 +99,4 @@ The price signal empirically confirms the framework. Brent crude closed above $1
 
 [5] [Understanding President Trump's New Tariffs on Canadian Imports](https://www.csis.org/analysis/understanding-president-trumps-new-tariffs-canadian-imports)
 
-[6] Javier Blas, "Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy", 2026-07-28 — https://archive.ph/eLoT5
+[6] Javier Blas, "Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy", 2026-07-28 — [https://archive.ph/eLoT5](https://archive.ph/eLoT5)

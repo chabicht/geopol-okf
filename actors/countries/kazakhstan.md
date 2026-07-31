@@ -36,6 +36,6 @@ Kazakhstan's strategic challenge is balancing deepening economic integration wit
 
 # Citations
 
-[1] Geopolitical Futures, "What Investments Say About Central Asia" — https://geopoliticalfutures.com/what-investments-say-about-central-asia/
+[1] Geopolitical Futures, "What Investments Say About Central Asia" — [https://geopoliticalfutures.com/what-investments-say-about-central-asia/](https://geopoliticalfutures.com/what-investments-say-about-central-asia/)
 
 [2] [Global System Rupture - Update](https://substack.com/@velinatchakarova/p-208325909)

@@ -188,8 +188,8 @@ The GSR framework extends to several adjacent themes that own their respective c
 
 [15] [Global System Rupture](https://substack.com/@velinatchakarova/p-207969383)
 
-[16] Velina Tchakarova, "Global System Rupture - Update", 2026-07-26 — https://substack.com/@velinatchakarova/p-208325909
+[16] Velina Tchakarova, "Global System Rupture - Update", 2026-07-26 — [https://substack.com/@velinatchakarova/p-208325909](https://substack.com/@velinatchakarova/p-208325909)
 
-[17] Velina Tchakarova, "The Triumvirate of Happiness amid Two Wars, One Continuum", 2026-07-30 — https://substack.com/@velinatchakarova/p-209080577
+[17] Velina Tchakarova, "The Triumvirate of Happiness amid Two Wars, One Continuum", 2026-07-30 — [https://substack.com/@velinatchakarova/p-209080577](https://substack.com/@velinatchakarova/p-209080577)
 
-[18] Aurelien, "So It Goes", 2026-07-29 — https://aurelien2022.substack.com/p/so-it-goes
+[18] Aurelien, "So It Goes", 2026-07-29 — [https://aurelien2022.substack.com/p/so-it-goes](https://aurelien2022.substack.com/p/so-it-goes)

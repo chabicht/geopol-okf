@@ -220,4 +220,4 @@ The tactical pivot also operates through procedural maneuvers. On the Graham-Blu
 
 [42] [Is Iran Controlling the Gulf Conflict](https://www.thecipherbrief.com/is-iran-controlling-the-gulf-conflict)
 
-[43] Phillips O'Brien, "It Is All One", 2026-07-28 — https://phillipspobrien.substack.com/p/it-is-all-one
+[43] Phillips O'Brien, "It Is All One", 2026-07-28 — [https://phillipspobrien.substack.com/p/it-is-all-one](https://phillipspobrien.substack.com/p/it-is-all-one)

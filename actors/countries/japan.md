@@ -64,7 +64,7 @@ Ueki also documents how the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-w
 
 # Citations
 
-[1] Velina Tchakarova, "Taiwan Encirclement" — https://substack.com/@velinatchakarova/p-203793388
+[1] Velina Tchakarova, "Taiwan Encirclement" — [https://substack.com/@velinatchakarova/p-203793388](https://substack.com/@velinatchakarova/p-203793388)
 
 [2] [What's Left of NATO's Asia Engagement?](https://www.rusi.org/explore-our-research/publications/commentary/whats-left-natos-asia-engagement)
 

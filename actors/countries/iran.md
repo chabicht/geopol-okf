@@ -165,15 +165,15 @@ Ueki positions [Iran]({{ site.baseurl }}/actors/countries/iran.html) within the 
 
 [2] [Iran War: A Light At The End of Tunnel](https://thehonestsorcerer.substack.com/p/iran-war-light-at-the-end-of-the)
 
-[3] Robert Pape, "Uncertain Deal — and Iran Certainly" — https://escalationtrap.substack.com/p/uncertain-dealand-iran-certainly
+[3] Robert Pape, "Uncertain Deal — and Iran Certainly" — [https://escalationtrap.substack.com/p/uncertain-dealand-iran-certainly](https://escalationtrap.substack.com/p/uncertain-dealand-iran-certainly)
 
-[4] Velina Tchakarova, "Global System June 2026" — https://substack.com/@velinatchakarova/p-202096137
+[4] Velina Tchakarova, "Global System June 2026" — [https://substack.com/@velinatchakarova/p-202096137](https://substack.com/@velinatchakarova/p-202096137)
 
-[5] Robert Pape, "Prediction Confirmed: The Next Phase" — https://escalationtrap.substack.com/p/prediction-confirmed-the-next-phase
+[5] Robert Pape, "Prediction Confirmed: The Next Phase" — [https://escalationtrap.substack.com/p/prediction-confirmed-the-next-phase](https://escalationtrap.substack.com/p/prediction-confirmed-the-next-phase)
 
-[6] Robert Pape, "Situation Report Special Edition" — https://escalationtrap.substack.com/p/situation-report-special-edition
+[6] Robert Pape, "Situation Report Special Edition" — [https://escalationtrap.substack.com/p/situation-report-special-edition](https://escalationtrap.substack.com/p/situation-report-special-edition)
 
-[7] Velina Tchakarova, "Ceasefire in Iran" — https://substack.com/@velinatchakarova/p-204418261
+[7] Velina Tchakarova, "Ceasefire in Iran" — [https://substack.com/@velinatchakarova/p-204418261](https://substack.com/@velinatchakarova/p-204418261)
 
 [8] [Priced for Peace: Why Oil's Return to Pre-War Levels Overstates the Hormuz Recovery](https://substack.com/@velinatchakarova/p-204528761)
 
@@ -227,6 +227,6 @@ Ueki positions [Iran]({{ site.baseurl }}/actors/countries/iran.html) within the 
 
 [33] [Is Iran Controlling the Gulf Conflict](https://www.thecipherbrief.com/is-iran-controlling-the-gulf-conflict)
 
-[34] Geopolitical Futures, "The Houthis Are Not Fighting Iran's War", 2026-07-24 — https://geopoliticalfutures.com/the-houthis-are-not-fighting-irans-war/
+[34] Geopolitical Futures, "The Houthis Are Not Fighting Iran's War", 2026-07-24 — [https://geopoliticalfutures.com/the-houthis-are-not-fighting-irans-war/](https://geopoliticalfutures.com/the-houthis-are-not-fighting-irans-war/)
 
-[35] Robert Pape, "Breaking Analysis #3: Tehran's Second Front Heating Up Fast — Are Markets Watching?" — https://escalationtrap.substack.com/p/breaking-analysis-3-tehrans-second
+[35] Robert Pape, "Breaking Analysis #3: Tehran's Second Front Heating Up Fast — Are Markets Watching?" — [https://escalationtrap.substack.com/p/breaking-analysis-3-tehrans-second](https://escalationtrap.substack.com/p/breaking-analysis-3-tehrans-second)

@@ -341,14 +341,17 @@ one voice on the question.
 - The primary citation is the **original article URL** (from the source's
   `source:` frontmatter field).
 - Citation format carries author, title, date, and URL — not a bare or
-  title-only link. The date comes from the source file's date-prefixed
-  filename or `timestamp` frontmatter:
+  title-only link. The URL itself must be wrapped in markdown link syntax
+  (`[URL](URL)`), not left as bare text — kramdown (GitHub Pages' markdown
+  renderer) does not autolink bare URLs, so an unwrapped URL silently fails
+  to render as a link on the published site. The date comes from the source
+  file's date-prefixed filename or `timestamp` frontmatter:
 
 ```markdown
 # Citations
 
-[1] Phillips O'Brien, "Early Lessons From The US-Iran War", 2026-06-30 — https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war
-[2] Velina Tchakarova, "Ceasefire in Iran", 2026-07-01 — https://substack.com/@velinatchakarova/p-202096137
+[1] Phillips O'Brien, "Early Lessons From The US-Iran War", 2026-06-30 — [https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war](https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war)
+[2] Velina Tchakarova, "Ceasefire in Iran", 2026-07-01 — [https://substack.com/@velinatchakarova/p-202096137](https://substack.com/@velinatchakarova/p-202096137)
 ```
 
 Author calibration (§8.5) depends on dated citations — without a date, a

@@ -27,4 +27,4 @@ Iran's strategic objective has shifted from destroying American military power t
 
 # Citations
 
-[1] Prof Robert Pape, "Breaking Analysis #8: Iran Attacks Jordan – Sends the US a Message", 2026-07-29 — https://escalationtrap.substack.com/p/breaking-analysis-8-iran-attacks
+[1] Prof Robert Pape, "Breaking Analysis #8: Iran Attacks Jordan – Sends the US a Message", 2026-07-29 — [https://escalationtrap.substack.com/p/breaking-analysis-8-iran-attacks](https://escalationtrap.substack.com/p/breaking-analysis-8-iran-attacks)

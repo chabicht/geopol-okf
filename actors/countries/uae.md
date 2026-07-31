@@ -58,6 +58,6 @@ Ryvkin (GPF) reports that the UAE signed a 10-year agreement with [Ukraine]({{ s
 
 [4] [Tech Stack Diplomacy: Policy Implications of the U.S. AI Export Strategy](https://newlinesinstitute.org/tech-econ-sov-sec/tech-stack-diplomacy-policy/)
 
-[5] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/
+[5] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — [https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/](https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/)
 
 [6] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)

@@ -111,4 +111,4 @@ ctindale's "The Importance of Being Obsolescent" directly challenges this framin
 
 [6] [Chartbook 461: Polycrisis & nostalgia for lost futures](https://adamtooze.substack.com/p/chartbook-461-polycrisis-and-nostalgia)
 
-[7] Adam Tooze, "Chartbook 462: China shocked - beyond 1.0 and 2.0 to the Big One", 2026-07-29 — https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond
+[7] Adam Tooze, "Chartbook 462: China shocked - beyond 1.0 and 2.0 to the Big One", 2026-07-29 — [https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond](https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond)

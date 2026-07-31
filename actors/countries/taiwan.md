@@ -56,9 +56,9 @@ The authors recommend that Taiwan defend major media and communications faciliti
 
 # Citations
 
-[1] Velina Tchakarova, "Taiwan Encirclement" — https://substack.com/@velinatchakarova/p-203793388
+[1] Velina Tchakarova, "Taiwan Encirclement" — [https://substack.com/@velinatchakarova/p-203793388](https://substack.com/@velinatchakarova/p-203793388)
 
-[2] Velina Tchakarova, "Ceasefire in Iran / Taiwan Update" — https://substack.com/@velinatchakarova/p-204418261
+[2] Velina Tchakarova, "Ceasefire in Iran / Taiwan Update" — [https://substack.com/@velinatchakarova/p-204418261](https://substack.com/@velinatchakarova/p-204418261)
 
 [3] [Special Report: Surprise PRC Military Exercise Around Taiwan](https://understandingwar.org/research/china-taiwan/china-taiwan-special-report-december-31-2025/)
 

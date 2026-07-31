@@ -34,4 +34,4 @@ The structure of the affected assets also frames the political signal. The Energ
 
 # Citations
 
-[1] Zane Irwin, Peter Eavis, Farnaz Fassihi, Pranav Baskar, "Two Ships Hit in Apparent Drone Strike at Egyptian Port", 2026-07-29 — https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html
+[1] Zane Irwin, Peter Eavis, Farnaz Fassihi, Pranav Baskar, "Two Ships Hit in Apparent Drone Strike at Egyptian Port", 2026-07-29 — [https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html](https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html)

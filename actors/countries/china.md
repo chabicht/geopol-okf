@@ -171,15 +171,15 @@ Paradoxically, China's exercise of these leverage points — rare earth export r
 
 # Citations
 
-[1] The Honest Sorcerer, "The Big Picture" — https://thehonestsorcerer.substack.com/p/the-big-picture
+[1] The Honest Sorcerer, "The Big Picture" — [https://thehonestsorcerer.substack.com/p/the-big-picture](https://thehonestsorcerer.substack.com/p/the-big-picture)
 
-[2] The Cipher Brief, "The AI Race Won't Be Won by the Best Model, But by the Fastest Military" — https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military
+[2] The Cipher Brief, "The AI Race Won't Be Won by the Best Model, But by the Fastest Military" — [https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military](https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military)
 
-[3] Velina Tchakarova, "Taiwan Encirclement" — https://substack.com/@velinatchakarova/p-203793388
+[3] Velina Tchakarova, "Taiwan Encirclement" — [https://substack.com/@velinatchakarova/p-203793388](https://substack.com/@velinatchakarova/p-203793388)
 
-[4] Geopolitical Futures, "What Investments Say About Central Asia" — https://geopoliticalfutures.com/what-investments-say-about-central-asia/
+[4] Geopolitical Futures, "What Investments Say About Central Asia" — [https://geopoliticalfutures.com/what-investments-say-about-central-asia/](https://geopoliticalfutures.com/what-investments-say-about-central-asia/)
 
-[5] Velina Tchakarova, "Ceasefire in Iran" — https://substack.com/@velinatchakarova/p-204418261
+[5] Velina Tchakarova, "Ceasefire in Iran" — [https://substack.com/@velinatchakarova/p-204418261](https://substack.com/@velinatchakarova/p-204418261)
 
 [6] [China: The End of an Economic Miracle](https://thehonestsorcerer.substack.com/p/china-the-end-of-an-economic-miracle)
 
@@ -231,4 +231,4 @@ Paradoxically, China's exercise of these leverage points — rare earth export r
 
 [30] [China's Moment of Weakness](https://www.foreignaffairs.com/china/chinas-moment-weakness)
 
-[31] Adam Tooze, "Chartbook 462: China Shocked — Beyond 1.0 and 2.0 to the Big One", 2026-07-30 — https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond
+[31] Adam Tooze, "Chartbook 462: China Shocked — Beyond 1.0 and 2.0 to the Big One", 2026-07-30 — [https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond](https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond)

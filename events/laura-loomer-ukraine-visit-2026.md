@@ -37,4 +37,4 @@ This is the Trumpist playbook in miniature. [Donald Trump]({{ site.baseurl }}/ac
 
 # Citations
 
-[1] Phillips P. O'Brien, "It Is All One", 2026-07-27 — https://phillipspobrien.substack.com/p/it-is-all-one
+[1] Phillips P. O'Brien, "It Is All One", 2026-07-27 — [https://phillipspobrien.substack.com/p/it-is-all-one](https://phillipspobrien.substack.com/p/it-is-all-one)

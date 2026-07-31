@@ -43,4 +43,4 @@ The authority collapse is described by aides as "unumkehrbar" (irreversible). Ma
 
 # Citations
 
-[1] Konstantin von Hammerstein and Christian Teevs (SPIEGEL), "Friedrich Merz: Wie die CDU an ihrem Kanzler verzweifelt", 2026-07-30 — https://archive.is/oBx7X
+[1] Konstantin von Hammerstein and Christian Teevs (SPIEGEL), "Friedrich Merz: Wie die CDU an ihrem Kanzler verzweifelt", 2026-07-30 — [https://archive.is/oBx7X](https://archive.is/oBx7X)

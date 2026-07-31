@@ -86,9 +86,9 @@ The empirical ceiling on obstruction is substantial but not complete. Tobias Kru
 
 # Citations
 
-[1] Velina Tchakarova, "The Encirclement of Taiwan and the New Eastern Front" — https://substack.com/@velinatchakarova/p-203793388
+[1] Velina Tchakarova, "The Encirclement of Taiwan and the New Eastern Front" — [https://substack.com/@velinatchakarova/p-203793388](https://substack.com/@velinatchakarova/p-203793388)
 
-[2] Roderich Kiesewetter, War on the Rocks, "A Claim to Lead, a Hesitation to Act: Germany's New Military Strategy" — https://warontherocks.com/a-claim-to-lead-a-hesitation-to-act-germanys-new-military-strategy/
+[2] Roderich Kiesewetter, War on the Rocks, "A Claim to Lead, a Hesitation to Act: Germany's New Military Strategy" — [https://warontherocks.com/a-claim-to-lead-a-hesitation-to-act-germanys-new-military-strategy/](https://warontherocks.com/a-claim-to-lead-a-hesitation-to-act-germanys-new-military-strategy/)
 
 [3] [The Holy Trinity of Austrian Taboos: Nuclear, NATO, Neutrality](https://substack.com/@velinatchakarova/p-204698127)
 
@@ -124,6 +124,6 @@ The empirical ceiling on obstruction is substantial but not complete. Tobias Kru
 
 [19] [Defining the White Water Zone: Cold Seas as a Distinct Category for the Operational Ordering of Maritime Domain](https://www.swp-berlin.org/en/swp/working-groups/reordering-european-security)
 
-[20] Velina Tchakarova, "Global System Rupture - Update", 2026-07-26 — https://substack.com/@velinatchakarova/p-208325909
+[20] Velina Tchakarova, "Global System Rupture - Update", 2026-07-26 — [https://substack.com/@velinatchakarova/p-208325909](https://substack.com/@velinatchakarova/p-208325909)
 
-[21] Carolina Drüten, James Crisp, Joe Barnes, James Rothwell (WELT/Telegraph), "Szenario für AfD-Wahlsieg: An der Landesregierung vorbei – Bund entwickelt Notfallpläne für Nato-Drehscheibe", 2026-07-30 — https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html
+[21] Carolina Drüten, James Crisp, Joe Barnes, James Rothwell (WELT/Telegraph), "Szenario für AfD-Wahlsieg: An der Landesregierung vorbei – Bund entwickelt Notfallpläne für Nato-Drehscheibe", 2026-07-30 — [https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html](https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html)

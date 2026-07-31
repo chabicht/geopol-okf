@@ -137,7 +137,7 @@ The same date produced the clearest single illustration of how mass-produced dro
 
 [11] [The Fedorov Dismissal: On Trust, Technology, and Turnover](https://warontherocks.com/the-fedorov-dismissal-on-trust-technology-and-turnover/)
 
-[12] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/
+[12] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — [https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/](https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/)
 
 [13] [The $1.5 Trillion Defense Budget Without a Strategy](https://www.thecipherbrief.com/the-1-5-trillion-defense-budget-without-a-strategy)
 
@@ -147,6 +147,6 @@ The same date produced the clearest single illustration of how mass-produced dro
 
 [16] [Ukraine's Strike Campaigns Will Likely Continue to Hurt Russia's Economy and Military Operations in Ukraine](https://understandingwar.org/research/russia-ukraine/ukraines-strike-campaigns-will-likely-continue-to-hurt-russias-economy-and-military-operations-in-ukraine/)
 
-[17] Robert Pape, "Breaking Analysis #8: Iran Attacks Jordan – Sends the US a Message", 2026-07-30 — https://escalationtrap.substack.com/p/breaking-analysis-8-iran-attacks
+[17] Robert Pape, "Breaking Analysis #8: Iran Attacks Jordan – Sends the US a Message", 2026-07-30 — [https://escalationtrap.substack.com/p/breaking-analysis-8-iran-attacks](https://escalationtrap.substack.com/p/breaking-analysis-8-iran-attacks)
 
-[18] Zane Irwin, Peter Eavis, Farnaz Fassihi, and Pranav Baskar, "Two Ships Hit in Apparent Drone Strike at Egyptian Port", 2026-07-29 — https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html
+[18] Zane Irwin, Peter Eavis, Farnaz Fassihi, and Pranav Baskar, "Two Ships Hit in Apparent Drone Strike at Egyptian Port", 2026-07-29 — [https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html](https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html)

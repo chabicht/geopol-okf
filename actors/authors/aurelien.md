@@ -97,4 +97,4 @@ The schema informs Aurelien's reading of Western crises now compounding. Energy 
 
 [7] [And It Goes On.](https://aurelien2022.substack.com/p/and-it-goes-on)
 
-[8] Aurelien, "So It Goes", 2026-07-29 — https://aurelien2022.substack.com/p/so-it-goes
+[8] Aurelien, "So It Goes", 2026-07-29 — [https://aurelien2022.substack.com/p/so-it-goes](https://aurelien2022.substack.com/p/so-it-goes)

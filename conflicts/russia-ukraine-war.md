@@ -193,7 +193,7 @@ Wang & Beauchamp-Mustafaga identify the Russia-Ukraine War as [China]({{ site.ba
 
 [29] [Putin's Fuel Dilemma](https://www.rusi.org/explore-our-research/publications/commentary/putins-fuel-dilemma)
 
-[30] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/
+[30] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — [https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/](https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/)
 
 [31] [Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare](https://warontherocks.com/total-war-on-taipei-china-explores-elevating-cognitive-effects-into-its-vision-of-warfare/)
 
@@ -215,6 +215,6 @@ Wang & Beauchamp-Mustafaga identify the Russia-Ukraine War as [China]({{ site.ba
 
 [40] [Weekend Update #195: The Worst Week Becomes Much Better (But Not The Best)](https://phillipspobrien.substack.com/p/weekend-update-195-the-worst-week)
 
-[41] Phillips O'Brien, "It Is All One", 2026-07-28 — https://phillipspobrien.substack.com/p/it-is-all-one
+[41] Phillips O'Brien, "It Is All One", 2026-07-28 — [https://phillipspobrien.substack.com/p/it-is-all-one](https://phillipspobrien.substack.com/p/it-is-all-one)
 
-[42] Velina Tchakarova, "The Triumvirate of Happiness amid Two Wars, One Continuum", 2026-07-30 — https://substack.com/@velinatchakarova/p-209080577
+[42] Velina Tchakarova, "The Triumvirate of Happiness amid Two Wars, One Continuum", 2026-07-30 — [https://substack.com/@velinatchakarova/p-209080577](https://substack.com/@velinatchakarova/p-209080577)

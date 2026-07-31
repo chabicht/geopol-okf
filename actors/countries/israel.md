@@ -60,15 +60,15 @@ The deep disagreements between the Trump and Netanyahu administrations have beco
 
 # Citations
 
-[1] Robert Pape, "Situation Report Special Edition" — https://escalationtrap.substack.com/p/situation-report-special-edition
+[1] Robert Pape, "Situation Report Special Edition" — [https://escalationtrap.substack.com/p/situation-report-special-edition](https://escalationtrap.substack.com/p/situation-report-special-edition)
 
 [2] [Turkey, Israel and the New US Geostrategy](https://geopoliticalfutures.com/turkey-israel-and-the-new-us-geostrategy/)
 
 [3] [Competition in the Horn of Africa Heats Up](https://geopoliticalfutures.com/competition-in-the-horn-of-africa-heats-up/)
 
-[4] Robert Pape, "Uncertain Deal — and Iran Certainly" — https://escalationtrap.substack.com/p/uncertain-dealand-iran-certainly
+[4] Robert Pape, "Uncertain Deal — and Iran Certainly" — [https://escalationtrap.substack.com/p/uncertain-dealand-iran-certainly](https://escalationtrap.substack.com/p/uncertain-dealand-iran-certainly)
 
-[5] Phillips P. O'Brien, "Early Lessons from the US-Iran War" — https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war
+[5] Phillips P. O'Brien, "Early Lessons from the US-Iran War" — [https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war](https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war)
 
 [6] [America Between an Ally and an Adversary](https://geopoliticalfutures.com/america-between-an-ally-and-an-adversary/)
 

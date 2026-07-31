@@ -162,7 +162,7 @@ A legal analogy underpins the open-models argument: encryption code was previous
 
 [11] [The OpenAI Bubble Has Burst](https://www.wheresyoured.at/the-openai-bubble-has-burst/)
 
-[12] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/
+[12] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — [https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/](https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/)
 
 [13] [The Make-or-Buy Line has Moved](https://warontherocks.com/the-make-or-buy-line-has-moved/)
 

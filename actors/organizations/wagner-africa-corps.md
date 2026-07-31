@@ -28,4 +28,4 @@ The Wagner-to-Africa Corps transition illustrates a structural problem in Russia
 
 # Citations
 
-[1] Geopolitical Futures, "In Mali, Turkey Sees an Opening" — https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/
+[1] Geopolitical Futures, "In Mali, Turkey Sees an Opening" — [https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/](https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/)

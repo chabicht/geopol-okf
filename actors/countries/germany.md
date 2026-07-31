@@ -110,9 +110,9 @@ The S5→S6 winter trigger identified in the diagnostic is especially consequent
 
 # Citations
 
-[1] Roderich Kiesewetter, War on the Rocks, "A Claim to Lead, a Hesitation to Act: Germany's New Military Strategy" — https://warontherocks.com/a-claim-to-lead-a-hesitation-to-act-germanys-new-military-strategy/
+[1] Roderich Kiesewetter, War on the Rocks, "A Claim to Lead, a Hesitation to Act: Germany's New Military Strategy" — [https://warontherocks.com/a-claim-to-lead-a-hesitation-to-act-germanys-new-military-strategy/](https://warontherocks.com/a-claim-to-lead-a-hesitation-to-act-germanys-new-military-strategy/)
 
-[2] Velina Tchakarova, "Taiwan Encirclement" — https://substack.com/@velinatchakarova/p-203793388
+[2] Velina Tchakarova, "Taiwan Encirclement" — [https://substack.com/@velinatchakarova/p-203793388](https://substack.com/@velinatchakarova/p-203793388)
 
 [3] [Sicherheitsrat ohne Deutschland — „Die Schlappe war vorhersehbar"](https://archive.ph/1QrAN)
 
@@ -142,6 +142,6 @@ The S5→S6 winter trigger identified in the diagnostic is especially consequent
 
 [16] [Protection Gaps in Germany's Skilled Labour Migration System](https://www.swp-berlin.org/publikation/protection-gaps-in-germanys-skilled-labour-migration-system)
 
-[17] Konstantin von Hammerstein and Christian Teevs (SPIEGEL), "Friedrich Merz: Wie die CDU an ihrem Kanzler verzweifelt", 2026-07-30 — https://archive.is/oBx7X
+[17] Konstantin von Hammerstein and Christian Teevs (SPIEGEL), "Friedrich Merz: Wie die CDU an ihrem Kanzler verzweifelt", 2026-07-30 — [https://archive.is/oBx7X](https://archive.is/oBx7X)
 
-[18] Carolina Drüten, James Crisp, Joe Barnes, James Rothwell (WELT/Telegraph), "Szenario für AfD-Wahlsieg: An der Landesregierung vorbei – Bund entwickelt Notfallpläne für Nato-Drehscheibe", 2026-07-30 — https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html
+[18] Carolina Drüten, James Crisp, Joe Barnes, James Rothwell (WELT/Telegraph), "Szenario für AfD-Wahlsieg: An der Landesregierung vorbei – Bund entwickelt Notfallpläne für Nato-Drehscheibe", 2026-07-30 — [https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html](https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html)

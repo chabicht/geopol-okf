@@ -194,4 +194,4 @@ The framework has immediate diagnostic application to the [United States]({{ sit
 
 [22] [Weekend Update #195: The Worst Week Becomes Much Better (But Not The Best)](https://phillipspobrien.substack.com/p/weekend-update-195-the-worst-week)
 
-[23] Phillips P. O'Brien, "It Is All One", 2026-07-27 — https://phillipspobrien.substack.com/p/it-is-all-one
+[23] Phillips P. O'Brien, "It Is All One", 2026-07-27 — [https://phillipspobrien.substack.com/p/it-is-all-one](https://phillipspobrien.substack.com/p/it-is-all-one)

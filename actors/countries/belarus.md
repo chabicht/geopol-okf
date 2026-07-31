@@ -34,6 +34,6 @@ Belarus occupies a paradoxical position: indispensable to Russia as an ally that
 
 # Citations
 
-[1] Phillips P. O'Brien, "Watch Belarus Indeed" — https://phillipspobrien.substack.com/p/watch-belarus-indeed
+[1] Phillips P. O'Brien, "Watch Belarus Indeed" — [https://phillipspobrien.substack.com/p/watch-belarus-indeed](https://phillipspobrien.substack.com/p/watch-belarus-indeed)
 
-[2] Phillips P. O'Brien, "Weekend Update 190" — https://phillipspobrien.substack.com/p/weekend-update-190-long-range-reveal
+[2] Phillips P. O'Brien, "Weekend Update 190" — [https://phillipspobrien.substack.com/p/weekend-update-190-long-range-reveal](https://phillipspobrien.substack.com/p/weekend-update-190-long-range-reveal)

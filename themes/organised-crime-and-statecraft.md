@@ -82,4 +82,4 @@ These are not isolated curiosities but evidence that the asymmetry between great
 
 [5] [The Algorithmic Deterrent](https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/algorithmic-deterrent)
 
-[6] Aurelien, "So It Goes", 2026-07-29 — https://aurelien2022.substack.com/p/so-it-goes
+[6] Aurelien, "So It Goes", 2026-07-29 — [https://aurelien2022.substack.com/p/so-it-goes](https://aurelien2022.substack.com/p/so-it-goes)

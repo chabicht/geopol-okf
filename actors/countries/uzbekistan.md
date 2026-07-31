@@ -30,4 +30,4 @@ Uzbekistan's investment trajectory is the most dynamic in Central Asia, driven b
 
 # Citations
 
-[1] Geopolitical Futures, "What Investments Say About Central Asia" — https://geopoliticalfutures.com/what-investments-say-about-central-asia/
+[1] Geopolitical Futures, "What Investments Say About Central Asia" — [https://geopoliticalfutures.com/what-investments-say-about-central-asia/](https://geopoliticalfutures.com/what-investments-say-about-central-asia/)

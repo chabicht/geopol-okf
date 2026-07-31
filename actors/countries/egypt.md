@@ -65,4 +65,4 @@ The thing Egypt could threaten and the thing it sought to recover were closely c
 
 [4] [The Peace That Redistributes War: What Camp David Reveals About Lebanon and Iran](https://warontherocks.com/the-peace-that-redistributes-war-what-camp-david-reveals-about-lebanon-and-iran/)
 
-[5] Zane Irwin, Peter Eavis, Farnaz Fassihi, and Pranav Baskar, "Two Ships Hit in Apparent Drone Strike at Egyptian Port", 2026-07-29 — https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html
+[5] Zane Irwin, Peter Eavis, Farnaz Fassihi, and Pranav Baskar, "Two Ships Hit in Apparent Drone Strike at Egyptian Port", 2026-07-29 — [https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html](https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html)

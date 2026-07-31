@@ -240,6 +240,6 @@ The "Triumvirate of Happiness" — Trump's July 24 statement that both Xi and Pu
 
 [32] [China's Moment of Weakness](https://www.foreignaffairs.com/china/chinas-moment-weakness)
 
-[33] Velina Tchakarova, "The Triumvirate of Happiness amid Two Wars, One Continuum", 2026-07-30 — https://substack.com/@velinatchakarova/p-209080577
+[33] Velina Tchakarova, "The Triumvirate of Happiness amid Two Wars, One Continuum", 2026-07-30 — [https://substack.com/@velinatchakarova/p-209080577](https://substack.com/@velinatchakarova/p-209080577)
 
-[34] Aurelien, "So It Goes", 2026-07-29 — https://aurelien2022.substack.com/p/so-it-goes
+[34] Aurelien, "So It Goes", 2026-07-29 — [https://aurelien2022.substack.com/p/so-it-goes](https://aurelien2022.substack.com/p/so-it-goes)

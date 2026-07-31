@@ -148,20 +148,20 @@ Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html) (Under
 
 # Citations
 
-[1] Phillips O'Brien, "Midweek Update #20: Each Day The US Weakens Itself", 2026-07-22 — https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us
-[2] Geopolitical Futures, "Thinking About Iran's Strategy", 2026-07-27 — https://geopoliticalfutures.com/thinking-about-irans-strategy/
-[3] Michael Beckley, "There Is Only One Sphere of Influence" — https://www.foreignaffairs.com/united-states/there-only-one-sphere-influence
-[4] Robert Pape, "Breaking Analysis #1: The Escalation Trap Has Entered a New Phase" — https://escalationtrap.substack.com/p/breaking-analysis-1-the-escalation
-[5] Robert Pape, "Live with Prof Robert Pape: Is Stage 3 Coming" — https://escalationtrap.substack.com/p/live-with-prof-robert-pape-is-stage
-[6] Mark Fowler, The Cipher Brief, "Is Iran Controlling the Gulf Conflict?", 2026-07-23 — https://www.thecipherbrief.com/is-iran-controlling-the-gulf-conflict
-[7] Velina Tchakarova, "Ceasefire in Iran" — https://substack.com/@velinatchakarova/p-204418261
-[8] Ueki, CSIS, "China and CRINK: Implications for Japan and the United States" — https://www.csis.org/analysis/china-and-crink-implications-japan-and-united-states
-[9] The Cipher Brief, "The West Needs to Prepare for a Russian Defeat in Ukraine", 2026-07-06 — https://www.thecipherbrief.com/the-west-needs-to-prepare-for-a-russian-defeat-in-ukraine
-[10] The Cipher Brief, "The Continued Myth of Russia's Imminent Collapse: Lessons from Prigozhin's Mutiny Three Years On", 2026-07-15 — https://www.thecipherbrief.com/the-continued-myth-of-russias-imminent-collapse-lessons-from-prigozhins-mutiny-three-years-on
-[11] Robert Pape, "Breaking Analysis #3: Tehran's Second Front Heating Up Fast — Are Markets Watching?" — https://escalationtrap.substack.com/p/breaking-analysis-3-tehrans-second
+[1] Phillips O'Brien, "Midweek Update #20: Each Day The US Weakens Itself", 2026-07-22 — [https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)
+[2] Geopolitical Futures, "Thinking About Iran's Strategy", 2026-07-27 — [https://geopoliticalfutures.com/thinking-about-irans-strategy/](https://geopoliticalfutures.com/thinking-about-irans-strategy/)
+[3] Michael Beckley, "There Is Only One Sphere of Influence" — [https://www.foreignaffairs.com/united-states/there-only-one-sphere-influence](https://www.foreignaffairs.com/united-states/there-only-one-sphere-influence)
+[4] Robert Pape, "Breaking Analysis #1: The Escalation Trap Has Entered a New Phase" — [https://escalationtrap.substack.com/p/breaking-analysis-1-the-escalation](https://escalationtrap.substack.com/p/breaking-analysis-1-the-escalation)
+[5] Robert Pape, "Live with Prof Robert Pape: Is Stage 3 Coming" — [https://escalationtrap.substack.com/p/live-with-prof-robert-pape-is-stage](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-is-stage)
+[6] Mark Fowler, The Cipher Brief, "Is Iran Controlling the Gulf Conflict?", 2026-07-23 — [https://www.thecipherbrief.com/is-iran-controlling-the-gulf-conflict](https://www.thecipherbrief.com/is-iran-controlling-the-gulf-conflict)
+[7] Velina Tchakarova, "Ceasefire in Iran" — [https://substack.com/@velinatchakarova/p-204418261](https://substack.com/@velinatchakarova/p-204418261)
+[8] Ueki, CSIS, "China and CRINK: Implications for Japan and the United States" — [https://www.csis.org/analysis/china-and-crink-implications-japan-and-united-states](https://www.csis.org/analysis/china-and-crink-implications-japan-and-united-states)
+[9] The Cipher Brief, "The West Needs to Prepare for a Russian Defeat in Ukraine", 2026-07-06 — [https://www.thecipherbrief.com/the-west-needs-to-prepare-for-a-russian-defeat-in-ukraine](https://www.thecipherbrief.com/the-west-needs-to-prepare-for-a-russian-defeat-in-ukraine)
+[10] The Cipher Brief, "The Continued Myth of Russia's Imminent Collapse: Lessons from Prigozhin's Mutiny Three Years On", 2026-07-15 — [https://www.thecipherbrief.com/the-continued-myth-of-russias-imminent-collapse-lessons-from-prigozhins-mutiny-three-years-on](https://www.thecipherbrief.com/the-continued-myth-of-russias-imminent-collapse-lessons-from-prigozhins-mutiny-three-years-on)
+[11] Robert Pape, "Breaking Analysis #3: Tehran's Second Front Heating Up Fast — Are Markets Watching?" — [https://escalationtrap.substack.com/p/breaking-analysis-3-tehrans-second](https://escalationtrap.substack.com/p/breaking-analysis-3-tehrans-second)
 
-[12] Geopolitical Futures, "The Houthis Are Not Fighting Iran's War", 2026-07-24 — https://geopoliticalfutures.com/the-houthis-are-not-fighting-irans-war/
+[12] Geopolitical Futures, "The Houthis Are Not Fighting Iran's War", 2026-07-24 — [https://geopoliticalfutures.com/the-houthis-are-not-fighting-irans-war/](https://geopoliticalfutures.com/the-houthis-are-not-fighting-irans-war/)
 
-[13] Adam Tooze, "Chartbook 462: China shocked - beyond 1.0 and 2.0 to the Big One", 2026-07-29 — https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond
+[13] Adam Tooze, "Chartbook 462: China shocked - beyond 1.0 and 2.0 to the Big One", 2026-07-29 — [https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond](https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond)
 
-[14] ctindale, "The Importance of Being Obsolescent", 2026-07-30 — https://substack.com/@ctindale/p-209065047
+[14] ctindale, "The Importance of Being Obsolescent", 2026-07-30 — [https://substack.com/@ctindale/p-209065047](https://substack.com/@ctindale/p-209065047)

@@ -232,6 +232,6 @@ The strike confirms Pape's June 15 "Period of Maximum Leverage" forecast. Reader
 
 [19] [Trump: "They Have Not Suffered Enough Yet"](https://escalationtrap.substack.com/p/trump-they-have-not-suffered-enough)
 
-[20] Robert Pape, "Why July Red Sea Front = August Energy Shock", 2026-07-28 — https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy
+[20] Robert Pape, "Why July Red Sea Front = August Energy Shock", 2026-07-28 — [https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy](https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy)
 
-[21] Robert Pape, "Breaking Analysis #8: Iran Attacks Jordan – Sends the US a Message", 2026-07-29 — https://escalationtrap.substack.com/p/breaking-analysis-8-iran-attacks
+[21] Robert Pape, "Breaking Analysis #8: Iran Attacks Jordan – Sends the US a Message", 2026-07-29 — [https://escalationtrap.substack.com/p/breaking-analysis-8-iran-attacks](https://escalationtrap.substack.com/p/breaking-analysis-8-iran-attacks)

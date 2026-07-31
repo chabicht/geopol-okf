@@ -378,7 +378,7 @@ The Patriot limits manifest in Washington's deal-making posture. [Netanyahu]({{ 
 
 [64] [The Houthis Are Not Fighting Iran's War](https://geopoliticalfutures.com/the-houthis-are-not-fighting-irans-war/)
 
-[65] Velina Tchakarova, "Global System Rupture - Update", 2026-07-26 — https://substack.com/@velinatchakarova/p-208325909
+[65] Velina Tchakarova, "Global System Rupture - Update", 2026-07-26 — [https://substack.com/@velinatchakarova/p-208325909](https://substack.com/@velinatchakarova/p-208325909)
 
 [66] [How Iran Hopes to Control the Strait of Hormuz — It's Not Just About Fees](https://understandingwar.org/research/middle-east/how-iran-hopes-to-control-the-strait-of-hormuz-its-not-just-about-fees/)
 
@@ -388,12 +388,12 @@ The Patriot limits manifest in Washington's deal-making posture. [Netanyahu]({{ 
 
 [69] [We've Seen Autonomous Warfare and We're in Trouble](https://www.thecipherbrief.com/weve-seen-autonomous-warfare-and-were-in-trouble)
 
-[70] Robert Pape, "Why July Red Sea Front = August Energy Shock", 2026-07-28 — https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy
+[70] Robert Pape, "Why July Red Sea Front = August Energy Shock", 2026-07-28 — [https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy](https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy)
 
-[71] Javier Blas, "Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy", 2026-07-28 — https://archive.ph/eLoT5
+[71] Javier Blas, "Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy", 2026-07-28 — [https://archive.ph/eLoT5](https://archive.ph/eLoT5)
 
-[72] Robert Pape, "Breaking Analysis #8: Iran Attacks Jordan – Sends the US a Message", 2026-07-30 — https://escalationtrap.substack.com/p/breaking-analysis-8-iran-attacks
+[72] Robert Pape, "Breaking Analysis #8: Iran Attacks Jordan – Sends the US a Message", 2026-07-30 — [https://escalationtrap.substack.com/p/breaking-analysis-8-iran-attacks](https://escalationtrap.substack.com/p/breaking-analysis-8-iran-attacks)
 
-[73] Zane Irwin, Peter Eavis, Farnaz Fassihi, and Pranav Baskar, "Two Ships Hit in Apparent Drone Strike at Egyptian Port", 2026-07-29 — https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html
+[73] Zane Irwin, Peter Eavis, Farnaz Fassihi, and Pranav Baskar, "Two Ships Hit in Apparent Drone Strike at Egyptian Port", 2026-07-29 — [https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html](https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html)
 
-[74] Velina Tchakarova, "The Triumvirate of Happiness amid Two Wars, One Continuum", 2026-07-30 — https://substack.com/@velinatchakarova/p-209080577
+[74] Velina Tchakarova, "The Triumvirate of Happiness amid Two Wars, One Continuum", 2026-07-30 — [https://substack.com/@velinatchakarova/p-209080577](https://substack.com/@velinatchakarova/p-209080577)

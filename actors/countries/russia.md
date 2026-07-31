@@ -128,15 +128,15 @@ Russian Arctic strategy is framed within a "world ocean" concept that organizes 
 
 # Citations
 
-[1] Geopolitical Futures, "Russia's Chechnya Problem" — https://geopoliticalfutures.com/russias-chechnya-problem/
+[1] Geopolitical Futures, "Russia's Chechnya Problem" — [https://geopoliticalfutures.com/russias-chechnya-problem/](https://geopoliticalfutures.com/russias-chechnya-problem/)
 
-[2] Geopolitical Futures, "In Mali, Turkey Sees an Opening" — https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/
+[2] Geopolitical Futures, "In Mali, Turkey Sees an Opening" — [https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/](https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/)
 
-[3] OCCRP, "Leaked Documents Reveal Russian Cognitive Strikes Against the West" — https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris
+[3] OCCRP, "Leaked Documents Reveal Russian Cognitive Strikes Against the West" — [https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris](https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris)
 
-[4] Velina Tchakarova, "Unexpected Turn" — https://substack.com/@velinatchakarova/p-203711905
+[4] Velina Tchakarova, "Unexpected Turn" — [https://substack.com/@velinatchakarova/p-203711905](https://substack.com/@velinatchakarova/p-203711905)
 
-[5] Velina Tchakarova, "Ceasefire in Iran" — https://substack.com/@velinatchakarova/p-204418261
+[5] Velina Tchakarova, "Ceasefire in Iran" — [https://substack.com/@velinatchakarova/p-204418261](https://substack.com/@velinatchakarova/p-204418261)
 
 [6] [Putin Can No Longer Hide His Catastrophe](https://www.theatlantic.com/ideas/2026/05/putin-lost-control-russia/687269/)
 

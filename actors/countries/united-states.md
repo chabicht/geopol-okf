@@ -154,19 +154,19 @@ The [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) has direct
 
 # Citations
 
-[1] The Honest Sorcerer, "The Big Picture" — https://thehonestsorcerer.substack.com/p/the-big-picture
+[1] The Honest Sorcerer, "The Big Picture" — [https://thehonestsorcerer.substack.com/p/the-big-picture](https://thehonestsorcerer.substack.com/p/the-big-picture)
 
-[2] Phillips P. O'Brien, "Early Lessons from the US-Iran War" — https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war
+[2] Phillips P. O'Brien, "Early Lessons from the US-Iran War" — [https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war](https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war)
 
-[3] The Cipher Brief, "The AI Race Won't Be Won by the Best Model, But by the Fastest Military" — https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military
+[3] The Cipher Brief, "The AI Race Won't Be Won by the Best Model, But by the Fastest Military" — [https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military](https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military)
 
-[4] The Cipher Brief, "DNI Day One" — https://www.thecipherbrief.com/dni-day-one
+[4] The Cipher Brief, "DNI Day One" — [https://www.thecipherbrief.com/dni-day-one](https://www.thecipherbrief.com/dni-day-one)
 
-[5] Phillips P. O'Brien, "Weekend Update 191" — https://phillipspobrien.substack.com/p/weekend-update-191-it-is-not-just
+[5] Phillips P. O'Brien, "Weekend Update 191" — [https://phillipspobrien.substack.com/p/weekend-update-191-it-is-not-just](https://phillipspobrien.substack.com/p/weekend-update-191-it-is-not-just)
 
-[6] Velina Tchakarova, "Shield of the Americas" — https://substack.com/@velinatcharova/p-203689435
+[6] Velina Tchakarova, "Shield of the Americas" — [https://substack.com/@velinatcharova/p-203689435](https://substack.com/@velinatcharova/p-203689435)
 
-[7] Paul Krugman, "A Verdict on (the) Slaughter" — https://paulkrugman.substack.com/p/a-verdict-on-the-slaughter
+[7] Paul Krugman, "A Verdict on (the) Slaughter" — [https://paulkrugman.substack.com/p/a-verdict-on-the-slaughter](https://paulkrugman.substack.com/p/a-verdict-on-the-slaughter)
 
 [8] [U.S. Capabilities Are Showing Signs of Rot](https://archive.ph/JZmE6)
 

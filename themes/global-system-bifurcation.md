@@ -72,6 +72,6 @@ The bifurcation is therefore not only structural (two competing trade geometries
 
 [2] [China's Steady Economic Decline](https://substack.com/@velinatchakarova/p-208670863)
 
-[3] Adam Tooze, "Chartbook 462: China Shocked — Beyond 1.0 and 2.0 to the Big One", 2026-07-30 — https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond
+[3] Adam Tooze, "Chartbook 462: China Shocked — Beyond 1.0 and 2.0 to the Big One", 2026-07-30 — [https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond](https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond)
 
-[4] ctindale, "The Importance of Being Obsolescent", 2026-07-30 — https://substack.com/@ctindale/p-209065047
+[4] ctindale, "The Importance of Being Obsolescent", 2026-07-30 — [https://substack.com/@ctindale/p-209065047](https://substack.com/@ctindale/p-209065047)

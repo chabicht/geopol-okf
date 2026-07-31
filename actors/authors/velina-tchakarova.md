@@ -175,4 +175,4 @@ Tchakarova's Day 150 diagnostic marks a further qualitative shift beyond Day 144
 
 [25] [China's Steady Economic Decline](https://substack.com/@velinatchakarova/p-208670863)
 
-[26] Velina Tchakarova, "The Triumvirate of Happiness amid Two Wars, One Continuum", 2026-07-30 — https://substack.com/@velinatchakarova/p-209080577
+[26] Velina Tchakarova, "The Triumvirate of Happiness amid Two Wars, One Continuum", 2026-07-30 — [https://substack.com/@velinatchakarova/p-209080577](https://substack.com/@velinatchakarova/p-209080577)

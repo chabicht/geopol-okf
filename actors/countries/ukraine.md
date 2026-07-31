@@ -82,9 +82,9 @@ The S2→S4 cross-domain pairing in Tchakarova's framework has fused into a sing
 
 # Citations
 
-[1] Phillips P. O'Brien, "Early Lessons from the US-Iran War" — https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war
+[1] Phillips P. O'Brien, "Early Lessons from the US-Iran War" — [https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war](https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war)
 
-[2] Phillips P. O'Brien, "Watch Belarus Indeed" — https://phillipspobrien.substack.com/p/watch-belarus-indeed
+[2] Phillips P. O'Brien, "Watch Belarus Indeed" — [https://phillipspobrien.substack.com/p/watch-belarus-indeed](https://phillipspobrien.substack.com/p/watch-belarus-indeed)
 
 [3] [Ukraine's Intermediate-Range Strike Campaign and New Mechanized Attacks Herald the Start of a New Phase of the War](https://understandingwar.org/research/russia-ukraine/ukraines-intermediate-range-strike-campaign-and-new-mechanized-attacks-herald-the-start-of-a-new-phase-of-the-war/)
 
@@ -98,9 +98,9 @@ The S2→S4 cross-domain pairing in Tchakarova's framework has fused into a sing
 
 [8] [Putin's Fuel Dilemma](https://www.rusi.org/explore-our-research/publications/commentary/putins-fuel-dilemma)
 
-[9] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/
+[9] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — [https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/](https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/)
 
-[10] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/
+[10] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — [https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/](https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/)
 
 [11] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)
 

@@ -38,4 +38,4 @@ When the bypass itself becomes threatened (Houthis targeting Red Sea/Yanbu), the
 
 # Citations
 
-[1] Javier Blas, "Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy", 2026-07-26 — https://archive.ph/eLoT5
+[1] Javier Blas, "Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy", 2026-07-26 — [https://archive.ph/eLoT5](https://archive.ph/eLoT5)

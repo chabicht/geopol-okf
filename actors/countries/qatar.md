@@ -44,9 +44,9 @@ The diagnostic also notes that Yemen's recognized government and the Houthis con
 
 # Citations
 
-[1] Discovery Alert, "Qatar Ras Laffan LNG Explosion" — https://discoveryalert.com.au/qatar-ras-laffan-lng-explosion-hormuz-supply-2026/
+[1] Discovery Alert, "Qatar Ras Laffan LNG Explosion" — [https://discoveryalert.com.au/qatar-ras-laffan-lng-explosion-hormuz-supply-2026/](https://discoveryalert.com.au/qatar-ras-laffan-lng-explosion-hormuz-supply-2026/)
 
-[2] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/
+[2] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — [https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/](https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/)
 
 [3] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)
 

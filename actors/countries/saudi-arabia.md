@@ -74,7 +74,7 @@ The Houthi threat reached operational completion the week of July 21. The Houthi
 
 [4] [Breaking Analysis #3: Tehran's Second Front Heating Up Fast —Are Markets Watching?](https://escalationtrap.substack.com/p/breaking-analysis-3-tehrans-second)
 
-[5] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/
+[5] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — [https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/](https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/)
 
 [6] [July 20, 2026](https://heathercoxrichardson.substack.com/p/july-20-2026)
 
@@ -82,4 +82,4 @@ The Houthi threat reached operational completion the week of July 21. The Houthi
 
 [8] [Global System Rupture](https://substack.com/@velinatchakarova/p-207969383)
 
-[9] Javier Blas, "Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy", 2026-07-28 — https://archive.ph/eLoT5
+[9] Javier Blas, "Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy", 2026-07-28 — [https://archive.ph/eLoT5](https://archive.ph/eLoT5)

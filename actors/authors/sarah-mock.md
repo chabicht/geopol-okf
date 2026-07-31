@@ -54,4 +54,4 @@ Major agrifood companies (Nestlé, Pepsico, ADM, Danone, Oatly, SAI Platform) ar
 
 # Citations
 
-[1] Sarah Mock, "Regenerative Ag Doesn't Scale (And That's Okay!)", 2026-07-27 — https://sarahmock.substack.com/p/regenerative-ag-doesnt-scale-and
+[1] Sarah Mock, "Regenerative Ag Doesn't Scale (And That's Okay!)", 2026-07-27 — [https://sarahmock.substack.com/p/regenerative-ag-doesnt-scale-and](https://sarahmock.substack.com/p/regenerative-ag-doesnt-scale-and)

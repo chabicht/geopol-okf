@@ -96,4 +96,4 @@ The institutional restructuring needed to match the RMA's pace is beginning to e
 
 [8] [We've Seen Autonomous Warfare and We're in Trouble](https://www.thecipherbrief.com/weve-seen-autonomous-warfare-and-were-in-trouble)
 
-[9] Velina Tchakarova, "The Triumvirate of Happiness amid Two Wars, One Continuum", 2026-07-30 — https://substack.com/@velinatchakarova/p-209080577
+[9] Velina Tchakarova, "The Triumvirate of Happiness amid Two Wars, One Continuum", 2026-07-30 — [https://substack.com/@velinatchakarova/p-209080577](https://substack.com/@velinatchakarova/p-209080577)

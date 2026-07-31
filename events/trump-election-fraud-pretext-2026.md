@@ -54,4 +54,4 @@ The same day, DHS Secretary Markwayne Mullin threatened state officials with cri
 
 [3] [Trump Can't Get No Respect](https://paulkrugman.substack.com/p/trump-cant-get-no-respect)
 
-[4] Phillips O'Brien, "It Is All One", 2026-07-28 — https://phillipspobrien.substack.com/p/it-is-all-one
+[4] Phillips O'Brien, "It Is All One", 2026-07-28 — [https://phillipspobrien.substack.com/p/it-is-all-one](https://phillipspobrien.substack.com/p/it-is-all-one)

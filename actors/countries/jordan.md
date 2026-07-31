@@ -54,4 +54,4 @@ The same dispersal that gave Jordan its new strategic value made it a target. Ir
 
 [3] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)
 
-[4] Robert Pape, "Breaking Analysis #8: Iran Attacks Jordan – Sends the US a Message", 2026-07-30 — https://escalationtrap.substack.com/p/breaking-analysis-8-iran-attacks
+[4] Robert Pape, "Breaking Analysis #8: Iran Attacks Jordan – Sends the US a Message", 2026-07-30 — [https://escalationtrap.substack.com/p/breaking-analysis-8-iran-attacks](https://escalationtrap.substack.com/p/breaking-analysis-8-iran-attacks)

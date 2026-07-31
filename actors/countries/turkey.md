@@ -82,7 +82,7 @@ The Israel-Turkey rivalry is emerging as the defining competitive dynamic in the
 
 # Citations
 
-[1] Geopolitical Futures, "In Mali, Turkey Sees an Opening" — https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/
+[1] Geopolitical Futures, "In Mali, Turkey Sees an Opening" — [https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/](https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/)
 
 [2] [Competition in the Horn of Africa Heats Up](https://geopoliticalfutures.com/competition-in-the-horn-of-africa-heats-up/)
 

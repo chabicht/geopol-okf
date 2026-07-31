@@ -96,10 +96,10 @@ The split is interpretive, not evidential — both sides observe the same Houthi
 
 [9] [The Houthis Are Not Fighting Iran's War](https://geopoliticalfutures.com/the-houthis-are-not-fighting-irans-war/)
 
-[10] Velina Tchakarova, "Global System Rupture - Update", 2026-07-26 — https://substack.com/@velinatchakarova/p-208325909
+[10] Velina Tchakarova, "Global System Rupture - Update", 2026-07-26 — [https://substack.com/@velinatchakarova/p-208325909](https://substack.com/@velinatchakarova/p-208325909)
 
-[11] Robert Pape, "Why July Red Sea Front = August Energy Shock", 2026-07-28 — https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy
+[11] Robert Pape, "Why July Red Sea Front = August Energy Shock", 2026-07-28 — [https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy](https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy)
 
-[12] Javier Blas, "Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy", 2026-07-28 — https://archive.ph/eLoT5
+[12] Javier Blas, "Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy", 2026-07-28 — [https://archive.ph/eLoT5](https://archive.ph/eLoT5)
 
-[13] Zane Irwin, Peter Eavis, Farnaz Fassihi, and Pranav Baskar, "Two Ships Hit in Apparent Drone Strike at Egyptian Port", 2026-07-29 — https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html
+[13] Zane Irwin, Peter Eavis, Farnaz Fassihi, and Pranav Baskar, "Two Ships Hit in Apparent Drone Strike at Egyptian Port", 2026-07-29 — [https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html](https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html)

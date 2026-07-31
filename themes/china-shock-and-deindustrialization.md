@@ -52,6 +52,6 @@ The four category errors ctindale identifies: excess capacity (Western reading) 
 
 # Citations
 
-[1] Adam Tooze, "Chartbook 462: China shocked - beyond 1.0 and 2.0 to the Big One", 2026-07-29 — https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond
+[1] Adam Tooze, "Chartbook 462: China shocked - beyond 1.0 and 2.0 to the Big One", 2026-07-29 — [https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond](https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond)
 
-[2] ctindale, "The Importance of Being Obsolescent", 2026-07-30 — https://substack.com/@ctindale/p-209065047
+[2] ctindale, "The Importance of Being Obsolescent", 2026-07-30 — [https://substack.com/@ctindale/p-209065047](https://substack.com/@ctindale/p-209065047)

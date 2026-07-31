@@ -204,8 +204,8 @@ Brent crude has crossed the psychological and structural threshold of USD 100 fo
 
 [30] [No Oil, No Transition, No Economy](https://thehonestsorcerer.substack.com/p/no-oil-no-transition-no-economy)
 
-[31] Velina Tchakarova, "Global System Rupture - Update", 2026-07-26 — https://substack.com/@velinatchakarova/p-208325909
+[31] Velina Tchakarova, "Global System Rupture - Update", 2026-07-26 — [https://substack.com/@velinatchakarova/p-208325909](https://substack.com/@velinatchakarova/p-208325909)
 
-[32] Robert Pape, "Why July Red Sea Front = August Energy Shock", 2026-07-28 — https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy
+[32] Robert Pape, "Why July Red Sea Front = August Energy Shock", 2026-07-28 — [https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy](https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy)
 
-[33] Javier Blas, "Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy", 2026-07-28 — https://archive.ph/eLoT5
+[33] Javier Blas, "Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy", 2026-07-28 — [https://archive.ph/eLoT5](https://archive.ph/eLoT5)

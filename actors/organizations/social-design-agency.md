@@ -28,4 +28,4 @@ The Social Design Agency represents the professionalization of Russian cognitive
 
 # Citations
 
-[1] OCCRP, "Leaked Documents Reveal Russian Cognitive Strikes Against the West — Including Islamophobic Pig Head Attacks in Paris" — https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris
+[1] OCCRP, "Leaked Documents Reveal Russian Cognitive Strikes Against the West — Including Islamophobic Pig Head Attacks in Paris" — [https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris](https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris)

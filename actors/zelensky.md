@@ -75,7 +75,7 @@ In late July 2026, Zelensky sat for a televised interview with [Laura Loomer]({{
 
 [3] [The Fedorov Dismissal: On Trust, Technology, and Turnover](https://warontherocks.com/the-fedorov-dismissal-on-trust-technology-and-turnover/)
 
-[4] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/
+[4] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — [https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/](https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/)
 
 [5] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)
 
@@ -83,4 +83,4 @@ In late July 2026, Zelensky sat for a televised interview with [Laura Loomer]({{
 
 [7] [Weekend Update #195: The Worst Week Becomes Much Better (But Not The Best)](https://phillipspobrien.substack.com/p/weekend-update-195-the-worst-week)
 
-[8] Phillips O'Brien, "It Is All One", 2026-07-28 — https://phillipspobrien.substack.com/p/it-is-all-one
+[8] Phillips O'Brien, "It Is All One", 2026-07-28 — [https://phillipspobrien.substack.com/p/it-is-all-one](https://phillipspobrien.substack.com/p/it-is-all-one)

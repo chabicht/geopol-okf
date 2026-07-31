@@ -42,11 +42,11 @@ The distinction between the autonomous hedge and the coerced hedge (Vietnam) pre
 
 # Citations
 
-[1] Velina Tchakarova, "Taiwan Encirclement" — https://substack.com/@velinatchakarova/p-203793388
+[1] Velina Tchakarova, "Taiwan Encirclement" — [https://substack.com/@velinatchakarova/p-203793388](https://substack.com/@velinatchakarova/p-203793388)
 
-[2] OCCRP, "Leaked Documents Reveal Russian Cognitive Strikes Against the West" — https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris
+[2] OCCRP, "Leaked Documents Reveal Russian Cognitive Strikes Against the West" — [https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris](https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris)
 
-[3] Phillips P. O'Brien, "Weekend Update 190" — https://phillipspobrien.substack.com/p/weekend-update-190-long-range-reveal
+[3] Phillips P. O'Brien, "Weekend Update 190" — [https://phillipspobrien.substack.com/p/weekend-update-190-long-range-reveal](https://phillipspobrien.substack.com/p/weekend-update-190-long-range-reveal)
 
 [4] [French far-right leader Bardella slams Trump's 'imperial ambitions' in Greenland, Venezuela](https://www.politico.eu/article/france-jordan-bardella-donald-trumps-imperial-ambitions-in-venezuela-greenland/)
 

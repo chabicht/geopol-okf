@@ -72,4 +72,4 @@ This directly challenges Tooze's market-economics reading of [China Shock 2.0]({
 
 [4] [Where We Are Today: The Mechanics of Our Own Undoing](https://ctindale.substack.com/p/where-we-are-today-the-mechanics)
 
-[5] ctindale, "The Importance of Being Obsolescent", 2026-07-30 — https://substack.com/@ctindale/p-209065047
+[5] ctindale, "The Importance of Being Obsolescent", 2026-07-30 — [https://substack.com/@ctindale/p-209065047](https://substack.com/@ctindale/p-209065047)

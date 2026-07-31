@@ -60,7 +60,7 @@ Colibasanu documents India's acute exposure to the Hormuz fertilizer disruption.
 
 # Citations
 
-[1] War on the Rocks, "Why India Will Stick with America" — https://warontherocks.com/why-india-will-stick-with-america/
+[1] War on the Rocks, "Why India Will Stick with America" — [https://warontherocks.com/why-india-will-stick-with-america/](https://warontherocks.com/why-india-will-stick-with-america/)
 
 [2] [The RIC (China-India-Russia) Revival and India's Starlink Freeze](https://substack.com/@velinatchakarova/p-201566415)
 

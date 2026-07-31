@@ -33,4 +33,4 @@ Kiesewetter (CDU, Auswärtiger Ausschuss) argues the Kremlin is "exploiting dive
 
 # Citations
 
-[1] Carolina Drüten, James Crisp, Joe Barnes, James Rothwell (WELT/Telegraph), "Szenario für AfD-Wahlsieg: An der Landesregierung vorbei – Bund entwickelt Notfallpläne für Nato-Drehscheibe", 2026-07-30 — https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html
+[1] Carolina Drüten, James Crisp, Joe Barnes, James Rothwell (WELT/Telegraph), "Szenario für AfD-Wahlsieg: An der Landesregierung vorbei – Bund entwickelt Notfallpläne für Nato-Drehscheibe", 2026-07-30 — [https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html](https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html)

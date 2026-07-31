@@ -68,4 +68,4 @@ The empirical question is what "falling by more than half" looks like in mid-to-
 
 [7] [July 16, 2026](https://heathercoxrichardson.substack.com/p/july-16-2026)
 
-[8] Robert Pape, "Why July Red Sea Front = August Energy Shock", 2026-07-28 — https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy
+[8] Robert Pape, "Why July Red Sea Front = August Energy Shock", 2026-07-28 — [https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy](https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy)

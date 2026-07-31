@@ -90,11 +90,11 @@ The S5→S6 cross-domain pairing identified in the diagnostic runs through Europ
 
 # Citations
 
-[1] Velina Tchakarova, "Global System June 2026" — https://substack.com/@velinatchakarova/p-204418261
+[1] Velina Tchakarova, "Global System June 2026" — [https://substack.com/@velinatchakarova/p-204418261](https://substack.com/@velinatchakarova/p-204418261)
 
-[2] Geopolitical Futures, "What Investments Say About Central Asia" — https://geopoliticalfutures.com/what-investments-say-about-central-asia/
+[2] Geopolitical Futures, "What Investments Say About Central Asia" — [https://geopoliticalfutures.com/what-investments-say-about-central-asia/](https://geopoliticalfutures.com/what-investments-say-about-central-asia/)
 
-[3] Velina Tchakarova, "Latin America's Rightward Wave and the Battle for the Hemisphere" — https://substack.com/@velinatchakarova/p-203689435
+[3] Velina Tchakarova, "Latin America's Rightward Wave and the Battle for the Hemisphere" — [https://substack.com/@velinatchakarova/p-203689435](https://substack.com/@velinatchakarova/p-203689435)
 
 [4] [Chartbook 454: China Shock 2.0 and Mercantilist-on-Mercantilist Violence](https://adamtooze.substack.com/p/chartbook-454-china-shock-20-and)
 
@@ -114,7 +114,7 @@ The S5→S6 cross-domain pairing identified in the diagnostic runs through Europ
 
 [12] [The EU's pragmatic turn toward the Taliban](https://www.theparliamentmagazine.eu/news/article/beyond-the-taliban-normalization-debate)
 
-[13] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/
+[13] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — [https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/](https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/)
 
 [14] [Global System Rupture](https://substack.com/@velinatchakarova/p-207969383)
 

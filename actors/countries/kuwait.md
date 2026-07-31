@@ -50,6 +50,6 @@ Ryvkin (GPF) reports that Kuwait was among 11 Middle East countries that request
 
 [1] [Breaking Analysis #5: Iran's New Target – Drinking Water](https://escalationtrap.substack.com/p/breaking-analysis-5-irans-new-target)
 
-[2] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/
+[2] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — [https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/](https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/)
 
 [3] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)

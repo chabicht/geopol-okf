@@ -160,8 +160,8 @@ Energy shortages are approaching. The system is global and interconnected, but i
 
 [32] [Why Norway and Finland Should Preserve Two of Europe's Most Important Demilitarized Zones](https://warontherocks.com/why-norway-and-finland-should-preserve-two-of-europes-most-important-demilitarized-zones/)
 
-[33] Aurelien, "So It Goes", 2026-07-29 — https://aurelien2022.substack.com/p/so-it-goes
+[33] Aurelien, "So It Goes", 2026-07-29 — [https://aurelien2022.substack.com/p/so-it-goes](https://aurelien2022.substack.com/p/so-it-goes)
 
-[34] Carolina Drüten, James Crisp, Joe Barnes, James Rothwell (WELT/Telegraph), "Szenario für AfD-Wahlsieg: An der Landesregierung vorbei – Bund entwickelt Notfallpläne für Nato-Drehscheibe", 2026-07-30 — https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html
+[34] Carolina Drüten, James Crisp, Joe Barnes, James Rothwell (WELT/Telegraph), "Szenario für AfD-Wahlsieg: An der Landesregierung vorbei – Bund entwickelt Notfallpläne für Nato-Drehscheibe", 2026-07-30 — [https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html](https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html)
 
-[35] Konstantin von Hammerstein and Christian Teevs (SPIEGEL), "Friedrich Merz: Wie die CDU an ihrem Kanzler verzweifelt", 2026-07-30 — https://archive.is/oBx7X
+[35] Konstantin von Hammerstein and Christian Teevs (SPIEGEL), "Friedrich Merz: Wie die CDU an ihrem Kanzler verzweifelt", 2026-07-30 — [https://archive.is/oBx7X](https://archive.is/oBx7X)

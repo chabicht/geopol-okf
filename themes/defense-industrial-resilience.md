@@ -182,7 +182,7 @@ Davidson and Colibasanu's scenario of fragmented defense industrial blocs extend
 
 [11] [Broken Drone, Far from Home: The Case for Overseas Autonomous System Sustainment](https://warontherocks.com/broken-drone-far-from-home-the-case-for-overseas-autonomous-system-sustainment/)
 
-[12] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/
+[12] Andrew Ryvkin (GPF), "The Promise of Ukraine's Military-Industrial Complex" — [https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/](https://geopoliticalfutures.com/the-promise-of-ukraines-military-industrial-complex/)
 
 [13] [$1.5 Trillion Defense Budget Without a Strategy](https://www.thecipherbrief.com/the-1-5-trillion-defense-budget-without-a-strategy)
 
@@ -200,4 +200,4 @@ Davidson and Colibasanu's scenario of fragmented defense industrial blocs extend
 
 [20] [China's Moment of Weakness](https://www.foreignaffairs.com/china/chinas-moment-weakness)
 
-[21] Velina Tchakarova, "The Triumvirate of Happiness amid Two Wars, One Continuum", 2026-07-30 — https://substack.com/@velinatchakarova/p-209080577
+[21] Velina Tchakarova, "The Triumvirate of Happiness amid Two Wars, One Continuum", 2026-07-30 — [https://substack.com/@velinatchakarova/p-209080577](https://substack.com/@velinatchakarova/p-209080577)

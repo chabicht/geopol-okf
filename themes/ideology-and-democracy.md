@@ -185,8 +185,8 @@ The AfD's eastern regional strength, classified "gesichert rechtsextrem" (confir
 
 [33] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)
 
-[34] Phillips O'Brien, "It Is All One", 2026-07-28 — https://phillipspobrien.substack.com/p/it-is-all-one
+[34] Phillips O'Brien, "It Is All One", 2026-07-28 — [https://phillipspobrien.substack.com/p/it-is-all-one](https://phillipspobrien.substack.com/p/it-is-all-one)
 
-[35] Konstantin von Hammerstein and Christian Teevs (SPIEGEL), "Friedrich Merz: Wie die CDU an ihrem Kanzler verzweifelt", 2026-07-30 — https://archive.is/oBx7X
+[35] Konstantin von Hammerstein and Christian Teevs (SPIEGEL), "Friedrich Merz: Wie die CDU an ihrem Kanzler verzweifelt", 2026-07-30 — [https://archive.is/oBx7X](https://archive.is/oBx7X)
 
-[36] Carolina Drüten, James Crisp, Joe Barnes, James Rothwell (WELT/Telegraph), "Szenario für AfD-Wahlsieg: An der Landesregierung vorbei – Bund entwickelt Notfallpläne für Nato-Drehscheibe", 2026-07-30 — https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html
+[36] Carolina Drüten, James Crisp, Joe Barnes, James Rothwell (WELT/Telegraph), "Szenario für AfD-Wahlsieg: An der Landesregierung vorbei – Bund entwickelt Notfallpläne für Nato-Drehscheibe", 2026-07-30 — [https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html](https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html)
