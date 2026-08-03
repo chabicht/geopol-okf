@@ -9,7 +9,7 @@ tags:
   - economics
   - trade
 status: ongoing
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -47,11 +47,11 @@ The competitive landscape is defined by asymmetries in energy, alliance architec
 
 ## Power Asymmetry and Energy Resilience
 
-[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) observes that the US maintaining global dominance with half the economy of China generates structural friction — the material and energy basis of US power is increasingly mismatched to the scale of its global commitments. The US consumes 16% of world energy with 4% of the population; China uses nearly twice as much. The implication is that the competitive balance is shifting not because of policy failure but because of biophysical fundamentals [1].
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) observes that the US maintaining global dominance with half the economy of China generates structural friction — the material and energy basis of US power is increasingly mismatched to the scale of its global commitments. The US consumes 16% of world energy with 4% of the population; China uses nearly twice as much [1].
 
 Rajagopalan and Rajagopalan argue that India has no option but to balance China — partnership with the US is the absence of choice, not the affirmation of alliance. India's alignment is structurally determined by the China threat, meaning that it will persist regardless of US political leadership. Trump's unpredictability does not change India's strategic calculus because the calculus has no alternative endpoint [2].
 
-Energy is not merely a structural substrate but an active competitive vector. [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) frames the post-Iran-war energy market as a competitive arena between the Western-led IEA architecture and the DragonBear axis. The oil price collapse — Brent from above $180 to around $72 — was not a supply recovery but a demand management success: coordinated reserve releases of 300M+ barrels, Chinese demand destruction (40% import decline), and global demand contraction of 5.5M bpd in Q2 2026. This demonstrated that global demand management and reserve coordination can now absorb shocks that would have been unmanageable a decade ago — a quiet win for the Western-led IEA architecture in its competition with the DragonBear axis over who controls energy resilience tools [9]. China's demand pullback also demonstrates Beijing's growing willingness to manage its own exposure unilaterally rather than rely on price signals alone — a form of strategic autonomy that middle powers will study closely. The implication is that energy resilience is no longer merely an economic function but a competitive capability: the side that can better absorb and manage supply disruptions gains systemic advantage. [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s retained leverage over [Hormuz]({{ site.baseurl }}/events/hormuz-toll-system.html) means the underlying rupture has not closed, only been priced as if it has — a single incident could reprice the entire system within days [9].
+Energy is not merely a structural substrate but an active competitive vector. [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) frames the post-Iran-war energy market as a competitive arena between the Western-led IEA architecture and the DragonBear axis. The oil price collapse — Brent from above $180 to around $72 — was not a supply recovery but a demand management success: coordinated reserve releases of 300M+ barrels, Chinese demand destruction (40% import decline), and global demand contraction of 5.5M bpd in Q2 2026. This demonstrated that global demand management and reserve coordination can now absorb shocks that would have been unmanageable a decade ago — a quiet win for the Western-led IEA architecture in its competition with the DragonBear axis over who controls energy resilience tools [9]. China's demand pullback also demonstrates Beijing's growing willingness to manage its own exposure unilaterally rather than rely on price signals alone — a form of strategic autonomy that middle powers will study closely. [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s retained leverage over [Hormuz]({{ site.baseurl }}/events/hormuz-toll-system.html) means the underlying rupture has not closed, only been priced as if it has — a single incident could reprice the entire system within days [9].
 
 ## Alliance Dynamics
 

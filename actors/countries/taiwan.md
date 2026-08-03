@@ -5,7 +5,7 @@ parent: Countries
 description: Taiwan as a geopolitical actor — facing Chinese grey-zone encirclement, domestic budget paralysis, and an espionage campaign while European powers signal support
 tags: [country, military, naval, indo-pacific, gray-zone]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -43,6 +43,15 @@ Beijing pairs coercion with co-optation: the Straits Forum, economic inducements
 ## Trump-Xi Summit and Washington's Volatility
 
 The May 2026 [Trump-Xi summit]({{ site.baseurl }}/events/trump-xi-summit-2026.html) introduced deep uncertainty into US-Taiwan relations. Xi framed Taiwan as "the most important issue in China-US relations" and warned that mishandling it would place the relationship "in great jeopardy." While Washington's stance remains ambiguous, Taipei faces a predicament: relying heavily on now questionable American promises. The EU's expanding network of Security and Defence Partnerships creates potential openings for Taiwan to strengthen its strategic alignment with [Europe]({{ site.baseurl }}/regions/europe.html) — presenting both risks and opportunities, particularly in drone technology, defence industry cooperation, and supply chain diversification [4].
+
+# Key Dynamics
+
+- **Encirclement has expanded eastward.** China normalized coast guard and survey vessel presence in waters east of the island, extending pressure beyond the Taiwan Strait itself. [1]
+- **Grey-zone warfare blurs the invasion threshold.** Multi-domain pressure — patrols, drones, coast guard harassment — degrades Taiwan's ability to distinguish routine activity from pre-invasion preparation. [1]
+- **Justice Mission 2025 rehearsed full blockade.** The PLA deployed 18 warships, 14 coast guard ships, and 201 air sorties across eight zones, simulating energy interdiction and decapitation strikes. [3]
+- **Trump-Xi summit introduced existential uncertainty.** Xi framed Taiwan as "the most important issue," leaving Taipei reliant on questionable American promises while exploring EU defence partnerships. [4]
+- **All-domain megacity warfare targets Taipei's will.** China's concept combines blockade, decapitation strikes, and cognitive attacks — including deepfakes and algorithmic content — to break the will to fight without annihilating the city. [5]
+- **European support is widening the dispute's scope.** Britain, France, and Germany issued a rare joint statement signaling Taiwan is treated as integral to the global order, not merely a regional dispute. [2]
 
 # Analysis
 

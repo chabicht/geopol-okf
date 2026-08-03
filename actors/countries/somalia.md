@@ -5,7 +5,7 @@ parent: Countries
 description: Horn of Africa state whose coastline and strategic partnerships make it central to Red Sea and Indian Ocean competition.
 tags: [country, africa, military, naval, trade]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -33,6 +33,14 @@ Port infrastructure — Turkey's deals in Mogadishu, DP World at Berbera, and Sa
 Somalia's coastline and its position near the Bab el-Mandeb Strait make it a key actor in the emerging [Red Sea]({{ site.baseurl }}/regions/red-sea.html) strategic basin.
 
 The country's alignment with Turkey connects it to Ankara's broader expansion across northeastern Africa, through Libya, Sudan, where Turkey supports the SAF, and Somalia itself [3]. Turkey sees engagement across the Red Sea and toward the Indian Ocean as essential to securing its regional position [3].
+
+# Key Dynamics
+
+- **Turkey is the primary partner.** Military training, infrastructure, diplomatic support, and maritime security make Turkey Somalia's comprehensive patron, largely displacing the UAE. [1]
+- **Rival blocs in the Horn.** Israel's recognition of Somaliland solidified an Israel-UAE-Ethiopia alignment countering the Turkey-Somalia-Egypt-Eritrea axis. [1]
+- **Port infrastructure as competition vector.** Turkish deals in Mogadishu, DP World at Berbera, and Saudi Arabia's Tadjourah terminal make ports the primary vector of competition. [1]
+- **Red Sea strategic position.** Somalia's coastline near the Bab el-Mandeb chokepoint makes it a key actor in the emerging Red Sea strategic basin. [3]
+- **Turkey's regional expansion.** Engagement in Somalia connects to Turkey's broader push across Libya, Sudan, and the Red Sea toward the Indian Ocean. [3]
 
 # Analysis
 

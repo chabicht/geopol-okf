@@ -5,7 +5,7 @@ parent: Countries
 description: India as a geopolitical actor — balancing China as its overriding strategic concern, building an Asian alliance network, and enduring Trump-era diplomatic slights
 tags: [country, military, indo-pacific, trade]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -47,6 +47,16 @@ India's response extends beyond the bilateral. [George Friedman]({{ site.baseurl
 ## Trade Realignment
 
 McKinsey's 2026 trade geometry analysis shows that US-China trade fell approximately 30%, with ASEAN, Brazil, and India absorbing redirected flows. India thrived as a "factory to the factories" intermediary, but the trade realignment along geopolitical lines creates both opportunity and vulnerability for Indian economic strategy [3].
+
+# Key Dynamics
+
+- **China asymmetry is structural.** The Chinese economy is approximately five times larger than India's; a two-front war contingency with Pakistan defines defense planning. [1]
+- **Strategic necessity, not enthusiasm.** India sticks with America despite Trump's slights because no alternative exists for balancing China. [1]
+- **The decisive swing variable.** India's trajectory between blocs determines whether the global system hardens into bipolarity or fragments into multipolarity. [4]
+- **Genuine strategic autonomy.** India is the single middle power that actually possesses strategic autonomy — everything else is aspiration mislabeled as capability. [8]
+- **Multi-alignment under stress.** RIC revival and Starlink freeze test whether India can sit in both the DragonBear and the Quad simultaneously. [2][4]
+- **Gorging on Russian oil.** Record June 2026 purchases despite reactivated US sanctions; India calculates Trump is too afraid of India and too enamored of Putin to enforce. [6]
+- **Beyond the Quad.** Modi's Asia tour builds a coalition (India, Japan, Australia, Indonesia, New Zealand, Vietnam) with an economic dimension the Quad lacks. [7]
 
 # Analysis
 

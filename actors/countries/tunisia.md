@@ -5,7 +5,7 @@ parent: Countries
 description: North African state under Kais Saied's authoritarian consolidation — Europe's most important economic partner in the Maghreb, yet facing a striking visibility deficit as Chinese engagement outshines European despite EU providing 85% of FDI and budget support
 tags: [country, africa, energy, trade]
 status: ongoing
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -36,7 +36,16 @@ The visibility deficit stems from several factors:
 
 ## China's Soft Power Advance
 
-[China]({{ site.baseurl }}/actors/countries/china.html) has gained in visibility and popularity in Tunisia while Europe has struggled with both. China has no reason to downplay its engagement, whereas EU member states have become increasingly cautious. The result is that European-funded infrastructure bankrolls major contracts awarded to Chinese companies in Europe's neighbourhood — the Bizerte bridge being the emblematic case [1].
+[China]({{ site.baseurl }}/actors/countries/china.html) has gained in visibility and popularity in Tunisia while Europe has struggled with both. China has no reason to downplay its engagement, whereas EU member states have become increasingly cautious. European-funded infrastructure bankrolls major contracts awarded to Chinese companies in Europe's neighbourhood — the Bizerte bridge being the emblematic case [1].
+
+# Key Dynamics
+
+- **Authoritarian consolidation constrains European access.** Saied has dismantled democratic institutions since 2021, and ministries require complicated procedures even for diplomats to visit projects they finance. [1]
+- **Europe dominates investment but loses the visibility battle.** The EU accounts for 85% of FDI and provides budget support, yet European-funded projects like the Bizerte bridge are publicly perceived as Chinese. [1]
+- **European financing bankrolls Chinese contracts.** Major infrastructure funded by the European Investment Bank is built by Chinese companies, with no European attribution visible to the public. [1]
+- **Migration diplomacy backfired.** Saied returned €60 million of the EU's migration MoU, calling it insufficient, while significant portions of promised aid remain delayed or undisbursed. [1]
+- **Gaza war eroded European standing.** Perceived double standards on Ukraine versus Gaza boosted Saied's populist rhetoric and drove European popularity to a 2024 low point. [1]
+- **China exploits the visibility gap.** Chinese projects receive extensive media coverage and official fanfare while European engagement remains deliberately low-profile to avoid political backlash. [1]
 
 # Analysis
 

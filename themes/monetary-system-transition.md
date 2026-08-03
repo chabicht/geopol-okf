@@ -8,7 +8,7 @@ tags:
   - trade
   - sanctions
 status: ongoing
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -70,7 +70,7 @@ The structural change taking place is the gradual politicization of trade and cu
 4. **Dollar #4 (~2000-~2015)**: Bretton Woods 2.0 — emerging markets (above all China) pegged to the dollar and accumulated official reserves as self-insurance. "Exorbitant privilege" made not by the US but by the policy choices of the rest of the world.
 5. **Dollar #5 (mid-2010s-present)**: The "profit dollar" — official reserve accumulation stopped; the system is now sustained by private capital inflows attracted by the dominance of US financial markets. America's unequal, K-shaped economy is the "honeypot of global capitalism." Since 2015, Beijing has imposed tight capital controls trapping $50-60 trillion. America's deficits are financed by inflows from Europe, South Korea, Taiwan, and Japan — not China. The dollar is no longer a "reserve currency" in the traditional sense but a promise of liquidity and a vehicle for unfettered capital accumulation.
 
-Tooze's framework has direct implications for dedollarization analysis. The regime that observers project into the future and past — Bretton Woods 2.0 / Dollar #4 — was in fact very particular to the period 2000-2015. The current regime (#5) is structurally different: it depends on the attractiveness of US private assets, not official reserve accumulation. This means that the dedollarization trend tracked by GPF's reserve data captures the shift from #4 to #5 (official reserves declining as a share) rather than a flight from the dollar per se. The "profit dollar" is sustained by the unequal structure of the US economy itself — the K-shaped expansion that makes American financial markets the honeypot. If that attractiveness fades (through institutional degradation, political instability, or the rise of competitive financial markets), Dollar #5 could metamorphose again — but the successor would not be a "post-dollar" regime so much as another mutation of the dollar system [6].
+Tooze's framework has direct implications for dedollarization analysis. The regime that observers project into the future and past — Bretton Woods 2.0 / Dollar #4 — was in fact very particular to the period 2000-2015. The current regime (#5) is structurally different: it depends on the attractiveness of US private assets, not official reserve accumulation. The "profit dollar" is sustained by the unequal structure of the US economy itself — the K-shaped expansion that makes American financial markets the honeypot. If that attractiveness fades (through institutional degradation, political instability, or the rise of competitive financial markets), Dollar #5 could metamorphose again — but the successor would not be a "post-dollar" regime so much as another mutation of the dollar system [6].
 
 # Citations
 

@@ -5,7 +5,7 @@ parent: Countries
 description: Turkey as a geopolitical actor — emerging as the Middle East's dominant power, capitalizing on Iran's decline to expand across Syria, Iraq, Lebanon, and the Horn of Africa, competing with Israel for regional influence, and pursuing independent defense cooperation outside NATO constraints
 tags: [country, military, drone-warfare, africa, nato, middle-east, naval, ideology]
 status: ongoing
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -13,6 +13,17 @@ timestamp: 2026-08-03T00:00:00Z
 Turkey is a Muslim-majority, non-Western member of [NATO]({{ site.baseurl }}/actors/organizations/nato.html) — a unique combination that grants it strategic flexibility unavailable to other alliance members. Its defense industry, particularly in [drone warfare]({{ site.baseurl }}/themes/drone-warfare.html), has made it an attractive security partner for governments across [Africa]({{ site.baseurl }}/regions/africa.html) and the [Middle East]({{ site.baseurl }}/regions/middle-east.html) seeking alternatives to traditional patrons. Unique among Washington's NATO allies, Turkey is pursuing dominance over its immediate surroundings — a posture that a US administration eager to reduce global risk exposure finds invaluable.
 
 # Current Situation
+
+# Key Dynamics
+
+- **Turkey is the primary beneficiary of US Middle East realignment.** The shift from Israel-centric to multilateral security elevates Turkey as the region's most capable military actor. [3][5]
+- **Iran's collapse created a strategic vacuum Turkey is filling faster than anyone.** Ankara backed al-Sharaa's takeover in Syria, regaining a Levant foothold for the first time since the Ottoman Empire fell. [5][10]
+- **The Israel-Turkey rivalry is the defining dynamic of the post-Iran Middle East.** Both powers are expanding into the same Syrian vacuum on a structural collision course. [3][10]
+- **The Somalia model is Turkey's template for African expansion.** Military training, infrastructure, and diplomatic support displace Russia and France across the Sahel and Horn. [1][2]
+- **Horn of Africa port infrastructure is the primary vector of strategic competition.** Rival blocs — Israel-UAE-Ethiopia vs Turkey-Somalia-Egypt-Eritrea — face off through port deals. [2][6]
+- **F-35 reinstatement risks are technical, not just political.** The S-400's collection threat, Chinese telecom embedded in Turkey's networks, and regional opposition from Israel and Greece each independently argue against readmission. [8]
+- **Autocratisation has halved Turkey's economic performance.** Post-2016 purges and institutional erosion cut GDP growth from 6.5% to 3.5% and FDI from $15B to $11B. [7]
+- **Migration is a leverage tool Turkey repeatedly weaponizes.** Afghan transit pressure gives Ankara influence over EU Afghanistan policy comparable to the 2016 refugee deal. [9]
 
 ## African Expansion: Drones, Diplomacy, and the Somalia Model
 

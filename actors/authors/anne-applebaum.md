@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Historian and journalist tracking kleptocracy, democratic backsliding, and the defacement of American institutions under Trump — author of the Kleptocracy Tracker
 tags: [author, ideology, oligarchy, opinion]
 status: ongoing
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -47,6 +47,18 @@ The geopolitical context reveals the mechanism's instrumentalization. Spanish PM
 ## The Kleptocracy Tracker as Parallel Documentation
 
 Applebaum's Kleptocracy Tracker continues to document accelerating monetization of presidential power. The July-August 2026 additions include: Trump's Truth Social expedited-access costs of up to $100,000 per month for those seeking favor; over $117 million in foreign business interests flowing to Trump; the Winklevoss twins' $10 million bitcoin donation following the CFTC dropping enforcement against their exchange; a civil nuclear deal signed with Saudi Arabia; and the DOJ spending approximately $1 million renovating its headquarters to display Trump banners. The tracker functions as a parallel accountability project — not as policy advocacy but as systematic documentation of the transactional logic governing the state [3].
+
+# Track Record
+
+## Resolved
+
+- **2026-07-31 — Far-right playbook replay (Ceuta)**: Applebaum identified the recurring viral-image → militarized-rhetoric → scapegoating → policy-panic pattern from prior cycles (2015 Syrian wave → Brexit, German far-right rise). The July 31 Ceuta incident followed the sequence exactly: Vance's "Invasion of the West" post (4.79M views), international far-right amplification (Farage, Jenrick, Braverman, Weidel), performative crackdown, and 99 dead invisible in the outrage cycle. **HIT** — the pattern replicated as forecast.
+- **2026-08 — Kleptocracy escalation**: The June 2026 Kleptocracy Tracker documented specific monetization channels (Qatari jet, Kazakhstan tungsten deal, Live Nation settlement, pardon lobbying). Applebaum's framing predicted accelerating systematic monetization of presidential power. By July–August 2026, new channels appeared ($100K/month Truth Social expedited access, $117M in foreign business interests, Winklevoss $10M bitcoin donation following CFTC enforcement drop, DOJ HQ renovation for Trump banners). **HIT** — escalation confirmed within two months.
+
+## Open
+
+- **2026-07-04 — Blood-and-soil nationalism as governing ideology**: Applebaum argues Trump/Vance have permanently discarded founding civic abstractions ("all men are created equal") in favor of ethnic/cultural nationalism, and will not pivot to unity rhetoric. Still outstanding. **Resolves by:** Trump or Vance delivering a major address that invokes founding abstractions as sincere governing principle, or enacting policy justified by civic rather than blood-and-soil framing — would falsify. Continued ethnic-essentialist rhetoric and clan-served governance would confirm.
+- **2026-08-03 — Far-right playbook will recur on next viral migration event**: The Ceuta validation implies the amplification chain (social media virality → political "invasion" framing → international far-right network amplification → performative crackdown) will trigger again on the next viral migration image or video. Still outstanding. **Resolves by:** a viral migration event that does NOT produce the full chain would falsify; one that does would further confirm.
 
 # Sources in Bundle
 

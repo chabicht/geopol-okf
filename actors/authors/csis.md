@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Center for Strategic and International Studies — defense and security analysis producing data-driven assessments of the Russia-Ukraine War, military capabilities, great power competition, war cost estimation, cyber threat ecosystems, Indo-Pacific security dynamics, and economic statecraft
 tags: [author, news, cyber]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -49,6 +49,22 @@ Philip Luck (CSIS Economics Program director) quantifies the costs of Trump's ta
 ## Section 338 Tariff Legal Analysis
 
 CSIS Economics Program and Americas Program fellows (Gundermann, Grant-Chapman, Marroquín Bitar) provide legal and trade analysis of the first presidential use of Section 338 of the Tariff Act of 1930. Three proclamations targeted alcohol, autos, and dairy — $20.2B in goods, representing 4.9% of US imports from Canada. The analysis flags unresolved legal questions around the ITC's role, implicit repeal of existing trade obligations, and WTO compatibility. The tariffs function as leverage to force Canada into USMCA review negotiations [7].
+
+# Track Record
+
+**Resolved**
+
+- 2026-07-22 (Aizawa, "Beyond Deterrence") — Aizawa read the December 2025 China-Russia joint strategic bomber flight as evidence of an operational axis with coercive intent, and argued the US-Japan alliance needs compellence options for short-of-war pressure [4]. The `## Contested: Is CRINK a coalition or four bilateral relationships?` block in [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) resolved toward Ueki on the four-way coalition question narrowly: no CRINK multilateral exercise has occurred and China declined the 2023 Shoigu trilateral. **Miss on the coalition framing** — the bilateral coercive coordination Aizawa documented is real but does not generalize to a four-way institutional structure.
+- 2026-07-22 (Ueki, "China and CRINK") — Ueki argued CRINK is not a coalition but four bilateral relationships, citing the absence of joint CRINK military exercises, China's rejection of a proposed trilateral, and China's continued strengthening of ties with non-CRINK advanced economies [5]. The contested block's tiebreaker (whether China joins the next proposed CRINK-adjacent multilateral exercise) resolved in her favor. **Hit** — China has not joined any such exercise, and the four-way coalition framing lacks institutional support.
+
+**Open**
+
+- 2026-07-22 (Luck, "Elbows Up") — Luck's finding that consumer boycott behavior persists beyond tariff adjustments — citizen behavior cannot be dictated by state-to-state economic statecraft [6]. Resolves on whether US-Canada consumer patterns (travel spending, provincial liquor delistings) recover after tariff removal or persist independently of trade policy.
+- 2026-07-22 (Gundermann, Grant-Chapman, Marroquín Bitar, "Understanding President Trump's New Tariffs") — the analysis forecasts that Section 338 tariffs function as leverage to force Canada into USMCA review negotiations [7]. Resolves on whether Canada formally enters USMCA review talks before or in response to the August 19 tariff enforcement date, or whether the tariffs are implemented as scheduled without Canadian concession.
+
+**Single-publication-as-single-voice**
+
+Per rules.md §8.5, "CSIS" is not one analytical voice — Track Record entries above are attributed to individual bylines (Aizawa, Ueki, Luck, Gundermann et al.) rather than to "CSIS" generically, consistent with the per-analyst attribution already used in the Key Frameworks section.
 
 # Sources in Bundle
 

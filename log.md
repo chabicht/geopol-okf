@@ -4,6 +4,26 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-08-04 — Refinement Pass
+
+**Refinement**: Full-bundle prose refinement across 60 files.
+
+**Category 1-3: Core prose refinement (11 files)**
+
+* **Refine**: Wove 6 source-organized sections into 8 thematic ones in [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) — merged "Gas at $4," "Hormuz Blockade LNG," "S4/S5/S6," "Day 150," "No Oil No Transition," and "Diesel Crunch Deepens" into existing thematic sections; cut 3 restatement bloat sentences; fixed orphaned citation [18]
+* **Refine**: Fixed 7 [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) Key Dynamics bullets to required `**bolded-lead**` format (§7.1)
+* **Refine**: Cut restatement bloat ("The implication is..." / "The result is that..." / "This means that...") from [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html), [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html), [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html), [Global Depopulation]({{ site.baseurl }}/themes/global-depopulation.html), [Organised Crime and Statecraft]({{ site.baseurl }}/themes/organised-crime-and-statecraft.html), [Critical Minerals]({{ site.baseurl }}/themes/critical-minerals.html), [Monetary System Transition]({{ site.baseurl }}/themes/monetary-system-transition.html), [United States]({{ site.baseurl }}/actors/countries/united-states.html), [Tunisia]({{ site.baseurl }}/actors/countries/tunisia.html)
+
+**Category 4: Added # Key Dynamics to 37 country actors (§7.1)**
+
+* [Afghanistan]({{ site.baseurl }}/actors/countries/afghanistan.html), [Australia]({{ site.baseurl }}/actors/countries/australia.html), [Austria]({{ site.baseurl }}/actors/countries/austria.html), [Bangladesh]({{ site.baseurl }}/actors/countries/bangladesh.html), [Belarus]({{ site.baseurl }}/actors/countries/belarus.html), [Canada]({{ site.baseurl }}/actors/countries/canada.html), [Colombia]({{ site.baseurl }}/actors/countries/colombia.html), [Egypt]({{ site.baseurl }}/actors/countries/egypt.html), [Eritrea]({{ site.baseurl }}/actors/countries/eritrea.html), [Ethiopia]({{ site.baseurl }}/actors/countries/ethiopia.html), [France]({{ site.baseurl }}/actors/countries/france.html), [Germany]({{ site.baseurl }}/actors/countries/germany.html), [India]({{ site.baseurl }}/actors/countries/india.html), [Indonesia]({{ site.baseurl }}/actors/countries/indonesia.html), [Iraq]({{ site.baseurl }}/actors/countries/iraq.html), [Israel]({{ site.baseurl }}/actors/countries/israel.html), [Japan]({{ site.baseurl }}/actors/countries/japan.html), [Jordan]({{ site.baseurl }}/actors/countries/jordan.html), [Kazakhstan]({{ site.baseurl }}/actors/countries/kazakhstan.html), [Kuwait]({{ site.baseurl }}/actors/countries/kuwait.html), [Lebanon]({{ site.baseurl }}/actors/countries/lebanon.html), [Nigeria]({{ site.baseurl }}/actors/countries/nigeria.html), [North Korea]({{ site.baseurl }}/actors/countries/north-korea.html), [Oman]({{ site.baseurl }}/actors/countries/oman.html), [Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html), [Philippines]({{ site.baseurl }}/actors/countries/philippines.html), [Qatar]({{ site.baseurl }}/actors/countries/qatar.html), [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html), [Somalia]({{ site.baseurl }}/actors/countries/somalia.html), [Sudan]({{ site.baseurl }}/actors/countries/sudan.html), [Taiwan]({{ site.baseurl }}/actors/countries/taiwan.html), [Tunisia]({{ site.baseurl }}/actors/countries/tunisia.html), [Turkey]({{ site.baseurl }}/actors/countries/turkey.html), [UAE]({{ site.baseurl }}/actors/countries/uae.html), [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html), [United Kingdom]({{ site.baseurl }}/actors/countries/united-kingdom.html), [Uzbekistan]({{ site.baseurl }}/actors/countries/uzbekistan.html)
+
+**Category 5: Added # Track Record to 13 author files (§8.5)**
+
+* [Adam Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html), [Anne Applebaum]({{ site.baseurl }}/actors/authors/anne-applebaum.html), [Aurelien]({{ site.baseurl }}/actors/authors/aurelien.html), [CSIS]({{ site.baseurl }}/actors/authors/csis.html), [CT Indale]({{ site.baseurl }}/actors/authors/ctindale.html), [Endtropy]({{ site.baseurl }}/actors/authors/endtropy.html), [Heather Cox Richardson]({{ site.baseurl }}/actors/authors/heather-cox-richardson.html), [Paul Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html), [RUSI]({{ site.baseurl }}/actors/authors/rusi.html), [SWP]({{ site.baseurl }}/actors/authors/swp.html), [The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html), [The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html), [War on the Rocks]({{ site.baseurl }}/actors/authors/war-on-the-rocks.html)
+
+**Validator impact**: 107 warnings → 51 warnings (56 eliminated). Zero new errors. Zero new analyzer findings.
+
 ## 2026-08-03 — Batch 5: Applebaum, Krugman, Honest Sorcerer, Cipher Brief
 
 **Sources incorporated (4)**

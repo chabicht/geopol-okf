@@ -5,7 +5,7 @@ parent: Countries
 description: Gulf monarchy mediating between Iran and the US through Pakistan, deploying Pakistani troops and Chinese jets while negotiating a non-aggression pact
 tags: [country, energy, military, middle-east]
 status: ongoing
-timestamp: 2026-07-31T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -29,6 +29,16 @@ Saudi Arabia's limited pipeline bypass capacity (via Yanbu on the Red Sea) prove
 ## Saudi Realism and Houthi Pressure
 
 Saudi Arabia closed its airspace (along with Kuwait) when [Trump]({{ site.baseurl }}/actors/trump.html) wanted to conduct more aggressive operations in April 2026 — a notable refusal from a state that had been pro-war before the bombing started. [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) and Joe Kent identify a Saudi shift toward realism: having seen the limitations of American power, the Saudis may return to a traditional hedging posture. The Houthis are demanding money from Saudi Arabia for Red Sea transit — essentially payment for not attacking Saudi oil. Saudi intelligence may be distributing cash to tribal factions within the Houthi alliance to keep attacks targeted at Israel rather than Saudi infrastructure. The growing Saudi-[Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html) relationship — including Pakistani troops in Saudi Arabia — signals eroding US influence, as Saudi Arabia uses Pakistani tribal fighters as mercenaries [3].
+
+# Key Dynamics
+
+- **Secret Iran negotiations via Pakistan.** Saudi Arabia seeks a non-aggression pact with Iran through Pakistan, with Russian and Chinese backing — a departure from US-mediated regional security. [1]
+- **Security diversification.** Deploying Pakistani troops and Chinese jets signals a hedging strategy beyond the US framework as confidence in American guarantees declines. [1]
+- **Dual chokepoint trap.** Both major Saudi oil export corridors — Hormuz and Bab el-Mandeb — are simultaneously threatened, a structural first with no adequate bypass. [2][8]
+- **Blockade pressures mediation.** A Houthi naval blockade on Saudi ports would pressure Riyadh to abandon its mediator role — precisely the outcome Iran seeks to prevent. [6][9]
+- **Bypass for the bypass.** With Yanbu under Houthi threat, Riyadh pushes barrels toward Suez-Mediterranean routes, but pipeline capacity leaves a ~1.3 mbpd gap. [9]
+- **Nuclear concessions as reward.** Trump-era nuclear power concessions could yield a Saudi nuclear weapon, rewarding Riyadh for mediation while raising proliferation risks. [7]
+- **Ukraine defense partnership.** A 10-year agreement with Ukraine covers counter-drone technology, air defense, and cybersecurity, creating a reciprocal defense-industrial relationship. [5]
 
 # Analysis
 

@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Analyst of governance feedback loops, co-developer of the Tindale-Tchakarova Cascade model, and critic of paradigm obsolescence in mainstream economics and Wall Street when analyzing strategic competition with China
 tags: [author, framework]
 status: ongoing
-timestamp: 2026-07-30T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -54,6 +54,20 @@ Wall Street's structural incentive problem compounds the analytical error. Rewar
 ctindale labels the resulting posture "constructive blindness." The interpretive lag is not caution or politeness — it is "conceptually neutralising a form of aggression perpetrated by a rival." When industrial capacity is deliberately concentrated, rivals' production bases are systematically displaced, and technological and commercial tools are deployed without traditional limits, the correct description is unrestricted warfare. The vocabulary of "overcapacity," "imbalance," and "growth-model distortion" belongs to a paradigm that separates state power from markets and therefore cannot register what is actually happening [5].
 
 This directly challenges Tooze's market-economics reading of [China Shock 2.0]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html). The two readings engage the same data but interpret it through incompatible paradigms. The methodological split is registered at [Analytical Fault Lines]({{ site.baseurl }}/themes/analytical-fault-lines.html) [5].
+
+# Track Record
+
+**Resolved**
+
+- 2026-05-26 ("You Cannot Unsee the Loops") — predicted that Australia's institutional estate would not self-correct but would continue to deteriorate through self-reinforcing feedback loops, citing Snowy 2.0 ($2.4B → ~$40B) and NDIS ($14B → $50B+, projected to exceed defence spending) as compliance-loop artefacts. Through 2026 both trajectories continued to worsen with no corrective mechanism emerging. **Hit** — the loops operated as described; reform did not materialise [1].
+- 2026-06 (Tindale-Tchakarova Cascade, co-developed with [Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html)) — the model predicted that a primary energy disruption would propagate through fertilizer, food, emerging-market debt, and gas storage on 6-12 month lags. The Iran war energy shock cascaded through exactly these channels, with Tchakarova's S4 (Energy-Food-Fertilizer Cascade) reaching RUPTURE status by Day 144. **Hit** — the branching cascade mechanism activated as described, though downstream nodes are still unfolding [2].
+
+**Open**
+
+- 2026-07-30 ("The Importance of Being Obsolescent") — China Shock 2.0 is unrestricted warfare, not a market phenomenon; the market-economics framing is "constructive blindness." This is the ctindale side of the `## Contested: Is China Shock 2.0 a market phenomenon or unrestricted warfare?` block in [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html), where [Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html)'s market-economics reading takes the opposite side. **Status: open fork.** Resolves on whether Beijing adjusts export policy in response to market signals (demand contraction, overcapacity losses) or only in response to strategic calculations (trade-war leverage, dependency creation) over the next 12 months [5].
+- 2026-05-26 ("You Cannot Unsee the Loops") — the institutional estate does not reform but ruptures: "systems of this kind do not reform, they exhaust themselves." Long-term structural forecast; resolves when a rupture event (loss of legitimacy, phase change) occurs or the system demonstrates sustained self-correction [1].
+- 2026-07-02 ("The Next Evolution in Human Logic") — the AMOC precautionary warning: ship-scrubber effluent co-locates with measured warming and Greenland meltwater at deep-water formation sites, creating a combined forcing that has never been quantified because the components sit in different specialties. Resolves when a combined study is commissioned at formation-site resolution, or when AMOC monitoring detects acceleration beyond what thermal and freshwater forcing alone predict [3].
+- Standing (Tindale-Tchakarova Cascade) — secondary effects of a primary disruption continue propagating on 6-12 month lags after the trigger event is addressed. The Iran war energy shock is the live test case; resolves as the 6-12 month window unfolds and downstream nodes (emerging-market debt, gas storage) either activate as predicted or remain dormant [2].
 
 # Sources in Bundle
 

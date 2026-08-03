@@ -5,7 +5,7 @@ parent: Countries
 description: Gulf sultanate co-negotiating with Iran on a permanent Hormuz toll system — mediating between Iranian and Western positions on Strait of Hormuz passage
 tags: [country, energy, middle-east]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -21,6 +21,14 @@ Oman is in talks with Iran over a permanent toll system for the Strait of Hormuz
 ## Mediation Role
 
 Oman's mediation role gives it outsized diplomatic influence relative to its size. By facilitating the toll system negotiations, Oman positions itself as indispensable to any Hormuz governance arrangement — a role that persists regardless of the war's outcome.
+
+# Key Dynamics
+
+- **Toll system institutionalizes Iranian leverage.** Oman is co-negotiating a permanent Hormuz toll system that would charge tankers for transit, formalizing Iran's control over maritime traffic. [1]
+- **Trump rejected the toll framework.** The US insists the strait should be "open, free, with no tolls," creating a West-Iran gap that Oman must bridge. [1]
+- **Mediation is the source of influence.** Oman's credibility in Tehran gives it outsized diplomatic weight, making it indispensable to any Hormuz governance arrangement. [1]
+- **Neutrality does not guarantee immunity.** The IRGC struck Duqm port on July 12, 2026, demonstrating that Iran's "sideways escalation" reaches neutral mediators hosting US-supporting infrastructure. [2]
+- **Duqm complicates the mediator's position.** The strike on Oman's deep-water port shows that hosting US logistics infrastructure erodes the very neutrality that makes Oman valuable. [2]
 
 # Analysis
 

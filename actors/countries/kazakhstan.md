@@ -5,7 +5,7 @@ parent: Countries
 description: Kazakhstan as a geopolitical actor — Central Asia's leading FDI destination, hosting critical minerals talks, and deepening economic ties with China
 tags: [country, central-asia, trade, critical-minerals, energy]
 status: ongoing
-timestamp: 2026-07-26T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -25,6 +25,15 @@ Kazakhstan has experienced average annual growth in capital investments of 10.7%
 ## Chinese FDI Concentration
 
 90% of Chinese FDI in Central Asia is concentrated in Kazakhstan, [Uzbekistan]({{ site.baseurl }}/actors/countries/uzbekistan.html), and Turkmenistan. Kazakhstan absorbs the lion's share, reflecting its larger economy and resource base. Under Nazarbayev, Kazakhstan once saw protests against Chinese expansion — a reminder that the depth of Chinese engagement generates domestic political friction that the current government must manage.
+
+# Key Dynamics
+
+- **Kazakhstan is Central Asia's largest economy and primary Chinese FDI destination.** Its mineral resources and position between China and Russia make it a critical Eurasian node. [1]
+- **Critical minerals position Kazakhstan at the intersection of great-power competition.** C5+1 talks place Kazakhstan at the nexus of US, Chinese, and Russian supply chain rivalry. [1]
+- **Capital investments are growing at 10.7% annually.** Kazakhstan is building a metallurgical plant with Beijing and negotiating manufacturing localization — a shift from infrastructure to extraction. [1]
+- **90% of Chinese FDI in Central Asia concentrates in three countries.** Kazakhstan absorbs the lion's share, but depth of Chinese engagement generates domestic political friction. [1]
+- **The CPC pipeline suspension opened a disruption node outside the Hormuz-Red Sea system.** Drone attacks removed ~1.4 million barrels per day of Kazakh crude from a constrained global market. [2]
+- **Energy infrastructure anywhere in drone range has become contestable.** The CPC suspension is the first disruption node entirely outside the Gulf conflict's geography. [2]
 
 # Analysis
 

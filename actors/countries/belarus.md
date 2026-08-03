@@ -5,7 +5,7 @@ parent: Countries
 description: Belarus as a geopolitical actor — bending to Ukrainian pressure, serving as critical Russian supply conduit, and exposing regime survival calculus
 tags: [country, military, europe]
 status: ongoing
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -27,6 +27,15 @@ Gasoline supplies from Belarus to Russia increased 13x and diesel 3x in January-
 ## Zelensky's Pressure Campaign
 
 [Zelensky]({{ site.baseurl }}/actors/zelensky.html) is leading a pressure campaign on Belarus and Russia's allies. The combination of targeted intelligence disclosure and credible military threat has produced results — the halt of radio guidance equipment being the most visible.
+
+# Key Dynamics
+
+- **Belarus holds leverage other client states lack.** As one of two allies Russia cannot alienate, Belarus has a degree of freedom within the Russian orbit that others do not. [1]
+- **Lukashenka bends to Ukrainian pressure.** He turned off radio guidance equipment actively helping Russia direct long-range strikes, degrading Russian strike capability. [1]
+- **Belarus is a critical supply conduit for Russia.** Gasoline shipments increased 13x and diesel 3x in January-May, making Belarus a vital supply node. [1]
+- **Ukraine holds detailed targeting data on Belarusian industry.** Intelligence has mapped every Belarusian plant producing components for armored vehicles, missiles, and fuel for Russia. [1]
+- **Zelensky's pressure campaign is producing results.** Targeted intelligence disclosure combined with credible military threat forced the halt of radio guidance equipment. [2]
+- **Belarus is a theater of coercive diplomacy.** Indispensable to Russia yet vulnerable to Ukrainian pressure, Lukashenka's survival instincts drive policy shifts with the war's momentum. [1]
 
 # Analysis
 

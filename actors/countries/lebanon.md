@@ -5,7 +5,7 @@ parent: Countries
 description: A front whose sovereignty is being made conditional on Hizballah's disarmament — detached from the Iran-track settlement and recast as an open-ended security problem rather than a sovereign bargaining position.
 tags: [country, middle-east, military]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -25,6 +25,14 @@ The [Trump]({{ site.baseurl }}/actors/trump.html) administration then opened sep
 ## Sovereignty Conditional on a Security Process
 
 The publicly known framework leaves full Israeli withdrawal conditional on Hizballah's disarmament. Israeli withdrawal is therefore not the starting point of the agreement but leverage to impose a new security order inside Lebanon. The [Hormuz ceasefire collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) and the Trump administration's broader escalation against Iran have only sharpened the arrangement's character: Lebanon is being treated not as a state whose sovereignty must be restored but as a security problem to be managed [1].
+
+# Key Dynamics
+
+- **Front separation at Israel's insistence.** The Iran ceasefire was reached first, then Lebanon was neutralized from the Iranian track at Israel's demand rather than folded into a comprehensive settlement. [1]
+- **Sovereignty made conditional on a security process.** Israeli withdrawal is not the starting point but leverage to impose disarmament — Lebanon is treated as a security problem, not a sovereign bargaining position. [1]
+- **Iran's leverage cannot become a Lebanese sovereignty claim.** Unlike Egypt negotiating over Sinai, Iran cannot negotiate on Lebanon's behalf, making the front easier to detach and recast. [1]
+- **Camp David logic reversed.** The framework makes sovereignty conditional on an open-ended process rather than protecting sovereignty through reciprocal limits after settlement. [1]
+- **Hizballah inherits a political claim.** Separating Lebanon without resolving sovereignty gives Hizballah the narrative of a government that accepted foreign presence and conditional sovereignty. [1]
 
 # Analysis
 

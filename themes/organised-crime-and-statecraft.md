@@ -9,7 +9,7 @@ tags:
   - cognitive-warfare
   - hybrid
 status: ongoing
-timestamp: 2026-07-30T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -20,7 +20,7 @@ The boundary between organised crime and statecraft is blurring. States — part
 
 ## The Crime-Statecraft Nexus
 
-RUSI analysis identifies a fundamental transformation in organised crime from hierarchical, territorially-grounded groups into adaptive, networked ecosystems embedded within licit trade and digital infrastructure. Five dimensions drive this transformation: globalisation of supply chains, strain on international governance, state-crime blurring, digital convergence, and criminal governance of territories. The result is that criminal networks now operate as extensions of state power, particularly for states seeking deniable coercive options below the threshold of armed conflict [1].
+RUSI analysis identifies a fundamental transformation in organised crime from hierarchical, territorially-grounded groups into adaptive, networked ecosystems embedded within licit trade and digital infrastructure. Five dimensions drive this transformation: globalisation of supply chains, strain on international governance, state-crime blurring, digital convergence, and criminal governance of territories.
 
 ## State Outsourcing to Criminal Networks
 

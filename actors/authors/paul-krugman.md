@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Economist and columnist — tracking oligarchic capture of US government, the social democracy vs socialism distinction, corruption as the through-line of Trump's second term, the oligarchy spiral via corporate tax cuts, the refining capacity constraint on energy prices, and election interference as the endgame of foreign policy failure
 tags: [author, opinion, economics, oligarchy, energy]
 status: ongoing
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -91,6 +91,22 @@ On manufacturing, Krugman notes that China overtook the US in manufacturing outp
 - The oligarchy spiral: corporate tax cuts, campaign finance, and the Overton Window
 - Refining capacity as the binding constraint on energy prices, not crude supply
 - Foreign policy failure as catalyst for domestic election interference
+
+# Track Record
+
+**Resolved**
+
+- 2026-07 ([4], "Suddenly, Hormuz is Less Crucial Than It Was") — forecast that the ceasefire collapse would do less economic damage than expected because refining capacity, not crude supply, is the binding constraint. Confirmed: the conflict file documents that the effective consumer price of oil stayed far above pre-war levels even as crude prices nearly normalized, with the crack spread persisting due to ~10% of global refining capacity offline. **Hit.** The energy-price mechanism was correctly identified; the refining bottleneck proved durable across the ceasefire collapse.
+- 2026-07 ([5], "The Forever War Gets Scary") — forecast that Trump would pivot to election interference once the "economy is great, we won" strategy failed. Confirmed by the July 15, 2026 primetime speech on 2020 election fraud as pretext for blocking fair November elections. **Hit.** The causal chain — foreign policy failure → loss of victory narrative → election-interference pivot — was confirmed within weeks. Krugman's meta-observation that "there are things even Trump would not do" has been "the best way to be wrong about everything, every step of the Trump administration" is further corroborated.
+- 2026-07 ([4], "Suddenly, Hormuz is Less Crucial Than It Was") — the broader strategic claim that "Hormuz is less crucial than it was" and that the ceasefire collapse "matters less than expected." **Partial miss.** While the energy-price reframe was correct (refining capacity is the binding economic constraint), Hormuz's geopolitical centrality rebounded sharply after the July 2026 ceasefire collapse — Iran demanded sovereignty over the Strait, Trump declared himself "Guardian of the Strait," and a permanent toll system was established. The economic diminution was right; the geopolitical diminution was wrong.
+- Pre-bundle (background calibration, [3]) — standing claim that corporate tax cuts do not produce surges in investment. Confirmed by the 2017 Trump corporate tax cuts, which "produced no surge in US investment." **Hit.** The trickle-down prediction was falsified by the post-2017 investment record, reinforcing the oligarchy-spiral thesis. No corresponding miss is on record in this file yet; that asymmetry should be corrected as evidence of a wrong call surfaces, not assumed not to exist.
+
+**Open**
+
+- 2026-07 ([5]) — standing forecast that Trump will attempt to disrupt or block the November 2026 midterm elections, using the 2020 fraud pretext to lay the groundwork. Resolves as the November 2026 elections approach — observable: whether elections are held fairly, delayed, or disrupted.
+- 2026-08-03 ([11]) — forecast that "future historians may well write about this tale of self-immolation in Mandarin," i.e., that US self-destruction has permanently shifted global power to China. Resolves over years as the US-China power trajectory becomes clear — observable: whether US institutional and economic recovery occurs or the decline proves structural.
+- 2026-07 ([6], "Democracy in an Age of Powermaxxing") — standing forecast that the oligarchic spiral will destroy American democracy unless wealth concentration is reduced: "Can we pull out of the oligarchic spiral soon enough to save it?" Resolves as the 2026 midterms and subsequent political dynamics unfold — observable: whether democratic institutions survive oligarchic capture or are dismantled.
+- 2026-07 ([8], "Lina Khan on AI and More") — forecast that the Trump administration's AI policy will produce regulatory capture favoring the biggest incumbents at the expense of startups and innovation, following the national-champions model. Resolves as Trump administration AI policy rules become observable — observable: whether AI regulations entrench incumbent monopolies or preserve competitive openness.
 
 # Sources in Bundle
 

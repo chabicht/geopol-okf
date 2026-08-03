@@ -10,7 +10,7 @@ tags:
   - technology
   - energy
 status: ongoing
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -60,7 +60,7 @@ The paradox of green technology is that it requires materials whose extraction i
 
 [The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) describes the depletion dynamic: beyond a certain point, extraction economics stops working because high-grade ore is exhausted. Silver has passed this threshold; copper is approaching it. The implication for critical minerals is that the energy cost of extraction is rising — more energy is needed to produce the same amount of mineral output, which means the energy transition itself is becoming more energy-intensive at exactly the moment when energy surpluses are contracting [2]. The thermodynamic framework underlying this depletion dynamic — the Mordor Economy, EROI decline, and the second-law framing of diminishing returns — is owned by [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html); this theme owns the mineral-specific dimension.
 
-This creates a feedback loop: the transition to renewable energy and electric vehicles requires critical minerals whose extraction requires increasing amounts of fossil-fuel energy. The result is that the "green transition" is not a departure from fossil fuel dependence but an extension of it — the material requirements of renewables scale with deployment, and the energy cost of those materials is rising [2].
+ This creates a feedback loop: the transition to renewable energy and electric vehicles requires critical minerals whose extraction requires increasing amounts of fossil-fuel energy.
 
 **Copper**: Record prices, declining ore grades, and the collision between tightening supply and demand from electrification and AI data centers. BHP projects 15% less copper by 2035; only 14 of 239 new deposits discovered in the past 10 years. China consumes 60% of global copper. The "Red Queen" dynamic applies: each increment of innovation buys extraction at a higher energy cost [4].
 

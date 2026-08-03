@@ -5,7 +5,7 @@ parent: Countries
 description: Red Sea littoral state destabilized by civil war and contested by regional powers seeking influence over its political future and maritime access.
 tags: [country, africa, military, trade]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -25,6 +25,13 @@ Sudan's civil war intersects with broader Red Sea competition involving [Turkey]
 ## Strategic Coastline
 
 Sudan possesses a strategically significant coastline along the Red Sea. Control of coastal access makes Sudan a prize for external powers seeking maritime infrastructure footholds. The instability creates both risk and opportunity for the broader [Red Sea]({{ site.baseurl }}/regions/red-sea.html) strategic landscape. [1]
+
+# Key Dynamics
+
+- **Civil war is the entry vector.** The SAF–RSF conflict has made Sudan a contested arena for regional powers seeking influence over its political future and coastline. [1]
+- **Proxy competition structures the war.** Turkey backs the SAF while the UAE backs the RSF, with Ethiopia and Egypt each aligning with rival factions in the broader Red Sea rivalry. [1]
+- **Coastline is the prize.** Sudan's Red Sea access makes it a target for external powers seeking maritime infrastructure footholds along a strategically significant littoral. [1]
+- **Outcome reshapes the Red Sea balance.** The war's trajectory will determine the strategic balance along a coastline connecting the security dynamics of Africa and the Middle East. [1]
 
 # Analysis
 

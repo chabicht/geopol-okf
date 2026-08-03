@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Energy-centered analyst arguing that energy throughput — not GDP — is the true measure of power, that resource depletion is exponential, and that there is no "next economy" on a finite planet
 tags: [author, framework, opinion, energy]
 status: ongoing
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -71,6 +71,23 @@ The diesel crunch data is stark. Goldman Sachs identifies diesel supply as the b
 AI data center demand competes directly with agriculture for energy and water. Gigawatt-scale data centers consume the output of a nuclear plant or 24/7 gas turbines; their construction requires hundreds of truckloads; massive water consumption diverts resources from agriculture. The US generated 28% more electricity from oil in 2025 than in 2024 — a reversal of the decarbonization trajectory, driven by AI demand [35].
 
 America's wheat harvest is set to fall to its lowest level in 150 years, and US farm income is projected to drop 0.7%. The vicious cycle framing: less and less-available fuel means less and less material and food. The Honest Sorcerer warns that "a permanent loss of carrying capacity" cannot be excluded, and that the trajectory points toward "a gradual decline in real material output... threatening to end in a financial crisis and an economic depression not seen since the 1930s" [35]. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) and [Food and Agriculture]({{ site.baseurl }}/themes/food-and-agriculture.html).
+
+# Track Record
+
+**Resolved**
+
+- 2026-01 (approx, "Are We Sleepwalking Into a Diesel Shortage" [21]) — forecast a structural diesel shortage as the binding constraint on the real economy. Confirmed by July 2026: global diesel exports dropped ~35% (2.6 million bpd), July 2026 refining throughput was 6.5 million bpd lower than July 2025, ultra-low-sulfur diesel hit $168/barrel against ~$80 crude, and Goldman Sachs identified diesel as the single biggest threat in oil markets. **Hit** — the crunch materialized via the exact mechanism THS identified (refining capacity, not crude supply).
+- 2026-07 ("The Oil Price 'Mystery'" [33]) — forecast that the SPR drawdown rate would fall to zero by early August as the reserve approached the operational floor (~316.5 million barrels). Confirmed: drawdown rate decelerated from ~1.3 mbpd in mid-June to 0.43 mbpd by July 10, and the SPR reached its lowest level since 1983 by mid-July. **Hit** — the deceleration trajectory and operational-floor approach were confirmed.
+- 2026-07 ("The Oil Price 'Mystery'" [33]) — forecast that refining capacity, not crude barrel price, is the binding constraint, and that crude-price metrics systematically conceal refined-product scarcity ("model collapse"). Confirmed: ~3 million bpd of Middle East refining capacity shut down, global refiners cut 9 million bpd (>10% of world capacity), yet headline crude prices stayed subdued while the crack spread hit record levels. **Hit** — the price divergence validated the model-collapse warning.
+- 2025-01 (approx, "2025: The Year Of Peak Everything" [3]) — declared 2025 as peak for industrial metals (steel, coal, copper), peak oil, peak nuclear. **Miss (premature)** — the IEA data THS himself cites [34] places the copper supply peak later this decade at ~24 million tons (versus 22.8 million in 2024), meaning 2025 was not the copper peak. War-driven supply disruptions in 2026 reduce output but do not confirm geological peaking. The specific 2025 timing was too early relative to THS's own cited projections.
+
+**Open**
+
+- 2026-07-31 ("No Oil, No Food" [35]) — forecasts 2026-2027 will see "a remarkable drop in food and agricultural input availability, massive food shortages and even famine and riots" driven by the diesel crunch, fertilizer disruption, AI data center demand, and structural oil-food dependency. Partial early confirmation: America's wheat harvest set to fall to its lowest level in 150 years. Resolves as 2026-2027 agricultural output, food price, and famine/riot data become observable.
+- 2026-07 ("No Oil, No Transition, No Economy" [34]) — forecasts an economic depression with world GDP contracting by several percentage points year after year — comparable to the 1930s — followed by a climactic superpower conflict ending in a fractured, de-globalized world economy. Resolves as GDP data and great-power conflict trajectory become observable through 2026-2027.
+- 2025 (Delannoy et al. projection cited in [34]) — oil extraction energy cost projected to reach 50% by 2050, from over 15% today. Long-dated forecast; the current 15%+ figure is consistent with the trajectory but the 50% endpoint is decades away. Resolves as EROI data for global oil extraction are tracked over coming decades.
+- 2026 (citing IEA in [34]) — copper supply to peak later this decade at ~24 million tons, then decline to <19 million tons by 2035, driven by falling ore grades and mine retirements. Resolves as annual copper mine production data become available through the late 2020s and 2030s.
+- Standing (framework, multiple sources [8][32][34]) — the renewable energy transition is thermodynamically and infrastructurally impossible: replacing 103 million bpd of oil would require ~36,600 TWh of additional electricity (tripling the global grid), US HV transmission additions collapsed to 392 miles/year (2022-2025 average) against a 5,000 miles/year target, and mining cannot be electrified at scale. Resolves as global grid expansion, renewable deployment, and mining electrification data either close or widen the gap over the next decade.
 
 # Sources in Bundle
 

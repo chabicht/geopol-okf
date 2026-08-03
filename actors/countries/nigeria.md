@@ -5,7 +5,7 @@ parent: Countries
 description: Africa's most populous state exercising bounded agency under US coercive pressure — structurally dependent on American security hardware and intelligence while navigating a religiously divided polity ahead of 2027 elections
 tags: [country, military, africa, terrorism, trade]
 status: ongoing
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -44,6 +44,15 @@ Tinubu's manoeuvring is doubly bounded: constrained from the outside by US lever
 ## Migration Corridor
 
 Nigeria is a growing source of labour and education migration to [Germany]({{ site.baseurl }}/actors/countries/germany.html). While not yet a bilateral migration agreement partner, Nigerian nationals are part of the broader trend of sub-Saharan African migration corridors emerging to address Germany's demographic shortfall. Development cooperation through Centres for Migration and Development in Nigeria provides information on regular labour migration channels [2].
+
+# Key Dynamics
+
+- **CPC redesignation converted into a security partnership.** What began as Trump threatening aid cutoff and military intervention over "Christian existential threat" became, within four months, a bilateral deployment of ~200 US personnel and intelligence fusion operations. [1]
+- **Bounded agency defines Nigeria's response.** Abuja can shape the domestic narration of compliance but cannot control the conditions themselves — thanking Trump rhetorically while rejecting the persecution frame domestically. [1]
+- **Structural dependence on US hardware and intelligence.** Twelve A-29 Super Tucanos and drone partnerships form the backbone of counter-terrorism architecture; diversification via Turkish Bayraktars has not altered this. [1]
+- **Doubly bounded by external leverage and internal division.** Tinubu is constrained from outside by US pressure and from inside by a religiously divided polity ahead of the 2027 election, leaving APC elites near-silent. [1]
+- **Rhetorical compliance without structural change.** Nigeria consistently produces the performative outputs that conditionality frameworks reward without implementing the structural reforms those outputs represent. [1]
+- **Emerging migration corridor to Germany.** Nigerian nationals are part of a growing sub-Saharan African labour and education migration corridor addressing Germany's demographic shortfall. [2]
 
 # Analysis
 

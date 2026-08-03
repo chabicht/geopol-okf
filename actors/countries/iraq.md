@@ -5,7 +5,7 @@ parent: Countries
 description: Iraq as a geopolitical actor — the emerging arena of Turkish-Iranian competition as Tehran's regional influence declines
 tags: [country, middle-east, military, energy, trade]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -29,6 +29,15 @@ Baghdad's new Shiite-led government has shown willingness to work closely with W
 From Ankara's perspective, it is not necessary to displace Iranian influence entirely; the emergence of even a handful of Shiite factions seeking to balance between Iran and Turkey would constitute a meaningful strategic gain [1]. A Sunni-dominated government in Syria could aid the political revival of the Sunni minority concentrated in western Iraq, extending through the north and center of the country [1].
 
 Turkey faces a different kind of competition in Iraq than in Lebanon: unlike Lebanon, Iraq has the benefit of a direct Turkish border, enabling more direct leverage [1].
+
+# Key Dynamics
+
+- **Turkey leverages geography, Kurds, and energy to press Baghdad.** The direct border, KDP relationship, and Iraq's oil export crisis give Ankara tools Tehran cannot match. [1]
+- **Shiite demographics create a structural pull toward Iran.** The political principals of Iraq's Shiite majority are tightly linked to Tehran, making change slow and factionally complicated. [1]
+- **Khamenei's funeral through Najaf and Karbala signals enduring religious influence.** Iran's cultural authority persists even as its political and military power declines. [1]
+- **Turkey needs only partial balancing, not full displacement.** A handful of Shiite factions seeking to hedge between Iran and Turkey would constitute a meaningful strategic gain for Ankara. [1]
+- **The Basra-Aqaba pipeline is now a strategic necessity, not a commercial option.** The Iran war cut southern Iraqi exports by 70%, making the Hormuz bypass worth a tenfold premium per barrel. [2]
+- **Iran has powerful incentives to target the bypass before it becomes operational.** Air raid sirens in Jordan and an Amman embassy alert demonstrate Tehran's willingness to threaten Aqaba. [2]
 
 # Analysis
 

@@ -11,7 +11,7 @@ tags:
   - supply-chain
   - trade
 status: ongoing
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -39,7 +39,7 @@ The AI military race is defined by an asymmetry in deployment speed, governance,
 
 ## Model Gap vs Operational Gap
 
-[The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) (Aaron Estes) argues that "once models are 'good enough,' advantage shifts from model quality to speed of deployment." The implication is that the US obsession with maintaining frontier model supremacy misses the point — a three-month gap in frontier model performance can disappear if the other side is better at turning AI into operational tempo. The competition is not a research race; it is an integration race [1].
+[The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) (Aaron Estes) argues that "once models are 'good enough,' advantage shifts from model quality to speed of deployment." The competition is not a research race; it is an integration race [1].
 
 This reframes the significance of the model gap. A 3–6 month or ~7 month gap is meaningful in commercial markets but may be irrelevant in military contexts where the limiting factor is not model capability but the speed of command integration, data pipeline construction, and operational testing. China's civil-military fusion architecture is designed precisely for this — reducing the friction between capability development and field deployment [1].
 
@@ -52,8 +52,6 @@ This reframes the significance of the model gap. A 3–6 month or ~7 month gap i
 ## Intelligence Community Modernization
 
 [The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) (Pierson/Novakoff) identifies three strategic decisions for the next DNI: refocusing the ODNI, resourcing the IC for AI and space, and adapting institutions for the new threat environment. Post-9/11 reforms created an intelligence architecture optimized for counterterrorism — they did not anticipate AI, commercial providers, or space as a contested domain. The institutional legacy of 9/11 is an IC structured for a threat environment that no longer exists [2].
-
-The implication is that the AI military race is not only about technology but about institutional architecture. The organization that can restructure itself to integrate AI, commercial capabilities, and space-domain awareness faster will gain an enduring advantage — and institutional restructuring is harder and slower than technology adoption [2].
 
 ## Tech Stack Diplomacy
 
@@ -133,7 +131,7 @@ Palantir's Maven already suggests courses of action at the command level, and th
 
 ## AI Infrastructure as a Target
 
-The [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) demonstrated that AI infrastructure is itself a vulnerability. [Iranian]({{ site.baseurl }}/actors/countries/iran.html) strikes on data centers in the [UAE]({{ site.baseurl }}/actors/countries/uae.html) providing AWS services took those centers offline for several months, exposing the physical fragility of cloud-dependent AI pipelines. AI infrastructure — hyperscale data centers, fiber uplinks, power substations — is particularly at risk to drone strikes, which are cheap, numerous, and difficult to attribute. The source warns that a few hundred drones striking data centers or their upstream links could set the [United States]({{ site.baseurl }}/actors/countries/united-states.html) back in the AI race by months or years, providing an adversary the window to surge permanently ahead. The implication is that AI military advantage is not only a function of model quality and deployment speed but of the physical resilience of the compute substrate — and that substrate is soft [14].
+The [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) demonstrated that AI infrastructure is itself a vulnerability. [Iranian]({{ site.baseurl }}/actors/countries/iran.html) strikes on data centers in the [UAE]({{ site.baseurl }}/actors/countries/uae.html) providing AWS services took those centers offline for several months, exposing the physical fragility of cloud-dependent AI pipelines. AI infrastructure — hyperscale data centers, fiber uplinks, power substations — is particularly at risk to drone strikes, which are cheap, numerous, and difficult to attribute. The source warns that a few hundred drones striking data centers or their upstream links could set the [United States]({{ site.baseurl }}/actors/countries/united-states.html) back in the AI race by months or years, providing an adversary the window to surge permanently ahead [14].
 
 ## Open Models, IP, and the First Amendment
 

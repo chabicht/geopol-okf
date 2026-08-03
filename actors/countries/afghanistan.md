@@ -5,7 +5,7 @@ parent: Countries
 description: State that collapsed because it lost the cognitive war before the battlefield; Taliban-controlled, facing ISIS-K appropriation of Khurasan identity and regional actor exploitation
 tags: [country, cognitive-warfare, middle-east, central-asia]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -39,6 +39,15 @@ These were coordinated forms of [cognitive warfare]({{ site.baseurl }}/themes/co
 ## Cognitive Infrastructure Deficit
 
 The 2001–2021 international intervention achieved significant tactical and developmental gains but failed to address the cognitive dimension of state-building. Institutions were built, capacity was developed, elections were held — but the deeper question of how the state was understood and internalized by its people was never fully resolved. The result was a state that functioned administratively but not psychologically, a security force that fought effectively but lacked a unified narrative, and a political system that operated formally but remained contested internally [1].
+
+# Key Dynamics
+
+- **Cognitive war preceded battlefield defeat.** The state collapsed because it never aligned its political identity with how its people understood themselves. [1]
+- **Identity gaps are strategic liabilities.** The state operated under "Afghanistan" while society identified with Khurasan, creating a cognitive gap exploited under gray zone pressure. [1]
+- **Adversaries weaponize undefined identity.** ISIS-K appropriated "Khorasan" to project an apocalyptic narrative, redefining a civilizational legacy it rejects. [1]
+- **Regional actors exploited cognitive vulnerabilities.** Pakistan, Iran, Russia, and China used identity divisions and managed instability rather than conventional confrontation. [1]
+- **State-building without cognitive alignment is unsustainable.** Two decades of institutional building failed because the state was never internalized as fully its own. [1]
+- **Migration leverage rewards Taliban repression.** The EU's pragmatic engagement shows the regime extracts concessions by controlling the migration corridor without moderating governance. [2]
 
 # Analysis
 

@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Pseudonymous essayist on geopolitics, conflict theory, and Western institutional decline — critiquing game theory and escalation models, analyzing strategic surprise, and tracing the erosion of Western influence
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-07-30T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -69,6 +69,28 @@ Aurelien's diagnostic framework rests on Stein's Law: "if a thing cannot go on f
 The three-part predictive schema decomposes any historical crisis into an **underlying situation** (hard limit approaching or unstable structure), a **trigger event** (which converts potential into actual), and **personal/agency factors** (individual decisions and pure chance). Napoleon's rise was necessary but not sufficient on the Revolution; without the Revolution he would have remained an Italian junior officer. Thatcher's 1979 victory was a combination of Callaghan's stupidity in postponing an election he might have won, an unusually severe winter, and the luck that brought Thatcher to the leadership in the first place — retconned into epoch-defining inevitability by the hagiographers who wrote about it later. The Weimar Republic's fall is conventionally explained by structural conditions and social-cultural excess; recent work suggests without the Great Depression the Republic would have become generally accepted, and if there was a single dominant reason for Hitler's arrival in power, it was probably Heinrich Brüning's criminally inept handling of the Depression through austerity — he destroyed the Republic of which he was a lukewarm supporter and brought Hitler, whom he despised, to power. France in 1940 ran into hard limits: two-thirds Germany's population, devastated industrial base, no parliamentary majority for war, an aggressive war out of the question, so successive governments planned only for a defensive war — and when the attack came through the Ardennes rather than Belgium, as the General Staff had read, no answer existed [8].
 
 The schema informs Aurelien's reading of Western crises now compounding. Energy shortages approaching in a globalised system whose only rationing mechanism is price. Demographic and social structure breakdown: single-parent families already producing their statistical effects, immigrant electorate composition in 2040 fixed by today's birth rates. The Muslim Brotherhood and affiliated parties already organised at local level in European cities, projecting electoral weight on city councils in the 2040s. State withdrawal from "difficult" areas — police, local government, medical services — with organised crime already advancing, organising service-provision rackets around immigrant communities and exploiting the structural opening the state is creating. The French 2027 election possibly producing a Mélenchon vs Le Pen second round that breaks the political system. The end of neoliberalism beginning in Britain — re-nationalisation inevitable because asset-stripping and financialisation run out of things to strip, with the rest of Europe following later, constrained by EU rules. The 2026 Iran war as the trigger event that disposes of US "Hollywood Hegemony" — rebuilding US military power has reached technical and economic limits, and the dollar's limits become visible ("you can't eat dollars"; money is "ones and zeroes" — no substitute for physical goods). What matters is whether the goods and services are physically available. Governments are wholly unprepared for priority choices under shortage (hospital vs data-centre electricity, sterile plastic vs fast-food plastic); price-only rationing collapses into political crisis [8]. See [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) and [Organised Crime and Statecraft]({{ site.baseurl }}/themes/organised-crime-and-statecraft.html).
+
+# Track Record
+
+## Resolved
+
+- **Pre-2026 — US/Israel-Iran positions are unreconcilable; diplomacy is theater** ("The Persian Polycrisis" [2]). Aurelien argued the positions had zero overlap and the nuclear enrichment issue was an excuse — nothing to negotiate. The 2026 US-Iran War confirmed no negotiated settlement was achievable. **Hit** — war resulted precisely because positions were unreconcilable as predicted.
+
+- **Pre-2026 — A US-Iran war would follow the surprise-at-failure pattern** ("While We Were Sleeping" [4]). Aurelien predicted the US would assume Iran's state was fragile, bombing would degrade it, and the Iranian people would rise up — necessary assumptions assumed true because they had to be. The 2026 war followed this pattern; US objectives were not achieved. **Hit** — the predicted false assumptions drove failure as anticipated.
+
+## Open
+
+- **2026 — Prolonged low-level tension in Ukraine and Iran; "it will not be the West that decides when it stops"** ("And It Goes On" [7]). Forecasts that adversaries prefer sustained tension and the West lacks agency to terminate conflicts on its own terms. **Observable**: a negotiated end to either conflict brokered primarily by non-Western parties; or a Western-initiated settlement that concedes adversary core demands.
+
+- **2026-07-29 — The 2026 Iran war disposes of US "Hollywood Hegemony"** ("So It Goes" [8]). Rebuilding US military power has reached technical and economic limits; the dollar's limits become visible ("you can't eat dollars"). **Observable**: sustained failure to replenish military stocks post-war; accelerating dollar decline against physical commodities; inability to project conventional force at prior scale.
+
+- **2026-07-29 — French 2027 election may produce a Mélenchon vs Le Pen second round that breaks the political system** ("So It Goes" [8]). **Observable**: 2027 French presidential election first-round and second-round pairings and outcome; institutional crisis following the result.
+
+- **2026-07-29 — End of neoliberalism: re-nationalisation beginning in Britain, rest of Europe following** ("So It Goes" [8]). Asset-stripping and financialisation run out of things to strip. **Observable**: major re-nationalisation of privatised infrastructure in the UK; EU rule changes accommodating state ownership.
+
+- **2026-07-29 — Muslim Brotherhood and affiliated parties projecting electoral weight on European city councils by the 2040s** ("So It Goes" [8]). Already organised at local level. **Observable**: local election results in European cities showing organised religious-party slates winning council seats through the 2030s–2040s.
+
+- **2026-07-29 — Organised crime advancing into state-withdrawn areas, organising service-provision rackets around immigrant communities** ("So It Goes" [8]). **Observable**: documented crime-group provision of security, mediation, or social services in European districts where state services have withdrawn.
 
 # Sources in Bundle
 

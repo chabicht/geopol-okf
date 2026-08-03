@@ -5,7 +5,7 @@ parent: Countries
 description: Ukraine as a geopolitical actor — innovating in drone warfare and deep-strike doctrine, transforming its force structure under Western dependency, and pressuring Belarus to curtail Russian supply lines
 tags: [country, military, drone-warfare, air-defense, europe]
 status: ongoing
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -13,6 +13,17 @@ timestamp: 2026-07-28T00:00:00Z
 Ukraine has been at war with [Russia]({{ site.baseurl }}/actors/countries/russia.html) since 2022, developing into one of the most technologically consequential conflicts of the modern era. Under [Zelensky]({{ site.baseurl }}/actors/zelensky.html), Ukraine has evolved from a post-Soviet state with limited military capability into a formidable drone warfare innovator and long-range strike practitioner. The [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) remains the central strategic commitment defining Ukrainian identity, doctrine, and external relationships.
 
 # Current Situation
+
+# Key Dynamics
+
+- **Drones have permeated Ukrainian operational doctrine completely.** Over 90% of Russian casualties are now from drone attacks; AI-enabled Hornets costing ~$6,000 strike at 150 km without satellite links. [5]
+- **Russian advance rates have collapsed to ~3 sq km/day.** Ukraine's corps structure, Delta battlefield management, and AI-enabled deep strike compress Russian operational depth. [3]
+- **Ukraine's military-industrial base surged from €1B to €55B in four years.** By 2025, 82% of army suppliers were homegrown and drone production scaled to 10 million annually. [9]
+- **The US aid cutoff is a structural constraint defining the war.** Trump ended all military aid in 2025, gifting Putin 1-3 winters of unrestricted bombardment. [6]
+- **Belarus leverage works because of geographic exposure.** Minsk's proximity to Kyiv means Belarus-based assets are vulnerable to Ukrainian retaliation in ways Russian rear areas are not. [2]
+- **The Fedorov dismissal exposed a civilian-military rift over reform.** Syrskyi's General Staff obstructed consolidation, technology-driven casualty reduction, and procurement transparency. [7][13]
+- **Deep strikes on Russian refineries translate battlefield operations into economic costs.** Ukrainian strikes cut gasoline production by roughly a quarter and raised Russian jet fuel prices 17%. [8]
+- **Gulf defense partnerships reposition Ukraine from victim to reciprocal partner.** Ten-year agreements with Saudi Arabia, Qatar, and the UAE export counter-drone expertise and attract Gulf investment. [10]
 
 ## Doctrine: Deep-Strike & Drone Innovation as Strategic Culture
 

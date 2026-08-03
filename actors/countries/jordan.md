@@ -5,7 +5,7 @@ parent: Countries
 description: Kingdom whose only port (Aqaba) is threatened by Iran as the Basra-Aqaba energy bypass pipeline becomes a strategic target in the widening US-Iran War
 tags: [country, middle-east, energy, military]
 status: ongoing
-timestamp: 2026-07-30T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -21,6 +21,16 @@ In mid-July 2026, the US Embassy in Amman issued an emergency security alert adv
 ## The Basra-Aqaba Pipeline
 
 The threat to Aqaba emerged shortly after a meeting between Iraq's Prime Minister and Jordan's foreign minister in Washington to accelerate the long-delayed Basra-Aqaba pipeline — a 1,600 km conduit from southern [Iraq]({{ site.baseurl }}/actors/countries/iraq.html) to Jordan's Red Sea coast, designed to carry 2.25 million barrels per day at a cost of $18 billion. The [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) cut southern Iraqi exports by roughly 70%, exposing Baghdad's dependence on the Strait of Hormuz. Jordan would gain transit fees and 150,000 barrels per day for its Zarqa refinery. For Iraq, the pipeline is about security rather than profit: Aqaba costs approximately $6 per barrel versus 60 cents through the Gulf [1].
+
+# Key Dynamics
+
+- **Aqaba is Jordan's only port and now a direct Iranian missile target.** US Embassy warned Americans to avoid Aqaba; air raid sirens followed Iranian missile launches against the city. [1]
+- **The Basra-Aqaba pipeline would undercut Iran's chokepoint leverage.** The 1,600 km conduit would carry 2.25 million barrels per day from Iraq to the Red Sea, bypassing the Gulf. [1]
+- **Iran is attacking US bases to make coalition basing politically unsustainable.** Four strikes in five days killed US service members, targeting the political cost of hosting American forces. [2]
+- **Iran extended strikes from military bases to Aqaba's civilian port.** July 19 ballistic missiles hit Jordan's only port city, compounding risk to the pipeline project. [3]
+- **Jordan is a pillar of US dispersal architecture, not just another base.** Muwaffaq Salti Air Base hosts roughly 4,000 US personnel supporting fighters, drones, ISR, and air defense. [4]
+- **The July 29 CENTCOM strike made dispersal itself a target class.** The IRGC explicitly claimed responsibility for targeting a US CENTCOM center inside Jordan, dropping plausible deniability. [4]
+- **Cost-distance logic runs in both directions.** Every mile of dispersal increases US sortie costs while the political burden on Jordan of hosting a named Iranian target rises in parallel. [4]
 
 # Analysis
 

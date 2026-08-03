@@ -5,7 +5,7 @@ parent: Countries
 description: Indonesia as Southeast Asia's largest economy and a pivotal maritime, energy, and strategic actor in the Indo-Pacific
 tags: [country, indo-pacific, trade, military, energy]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -43,6 +43,15 @@ Individually, these agreements may appear incremental, but collectively they rev
 Indonesia's commercial and state shipyards — Surabaya and Daya Radar Utama — are identified by Dan Justice ([War on the Rocks]({{ site.baseurl }}/actors/authors/war-on-the-rocks.html)) as candidate nodes in a distributed network for sustaining the U.S. Navy's unmanned fleet. They offer the dry docks and crane lift capacity necessary for maintaining medium and large unmanned vehicles. As with [Vietnam]({{ site.baseurl }}/actors/countries/vietnam.html)'s Ba Son and Ha Long, the model would route through commercial yards rather than U.S.-owned infrastructure, fitting regional political constraints while providing resilience against the vulnerability of large, static bases [5].
 
 The deeper Indonesian dimension is legal. The rights of archipelagic passage are critical given the number of archipelagic states in the Pacific, and the nuanced classification distinctions of unmanned systems may prevent their transit through Indonesian waters. The United States asserts its unmanned systems have the same sovereign immunity as manned warships, but other nations disagree. If states do not recognize unmanned systems as warships, they may attempt to enforce regulations such as compulsory pilotage. Lacking an agreed legal regime, the Navy risks unmanned systems traversing long, wasteful routes — and alienating existing and potential partner nations. Indonesia's control of the Strait of Malacca, Sunda Strait, Lombok Strait, and Makassar Strait makes its interpretation of these rules a strategic variable for any distributed unmanned-sustainment architecture [5].
+
+# Key Dynamics
+
+- **Geography is the trump card.** Control of Malacca, Sunda, Lombok, and Makassar Straits makes Indonesia indispensable to any maritime containment strategy against China. [1]
+- **Beyond the Quad.** Modi's emerging coalition has an economic dimension the Quad lacks and could make China dependent on trans-Pacific routes for critical trade. [1]
+- **ASEAN energy leadership.** Indonesia proposed an ASEAN-wide oil storage hub to reduce the region's structural vulnerability to Middle East energy shocks. [2]
+- **Southern anchor of regional security.** Defense agreements with Japan, Australia, and Vietnam plus joint coast guard cooperation reveal unprecedented operational coordination since spring 2026. [4]
+- **Archipelagic passage problem.** Unresolved legal classification of unmanned systems may block their transit through Indonesian waters, making Jakarta's interpretation a strategic variable. [5]
+- **Rising economic weight.** Projected to be part of the fourth-largest economy by 2030 as ASEAN reaches 684 million people. [3]
 
 # Analysis
 

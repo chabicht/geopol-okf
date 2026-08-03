@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Political historian and daily newsletter author tracking Trump administration corruption, democratic backsliding, and the historical context of America's 250th year
 tags: [author, opinion]
 status: ongoing
-timestamp: 2026-07-26T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -63,6 +63,20 @@ The fiscal pressure compounds in parallel. Oil surged 7% to above $100 a barrel 
 Congress moved on two tracks. The House passed a concurrent resolution to end the war in Iran 214–208, with four Republicans — Massie, Fitzpatrick, Davidson, and Barrett — joining Democrats; concurrent resolutions express the sense of Congress without force of law but bypass standard scheduling as privileged measures. Representative Jason Crow, a former Army Ranger, warned that the impulse toward war produced "twenty-plus years" of conflict in Iraq and Afghanistan and that his constituents "losing homes, losing their farms, losing their health care" cannot answer how the war makes them safer. The Senate declined to advance Senator Van Hollen's S.J. Res. 180 — a joint resolution with the force of law — by 47–49, with four Republican senators not voting [7].
 
 The dispatch closes with escalation signals that sharpen the Eisenhower frame. Trump threatened to bomb Iranian civilian infrastructure — "ONE BRIDGE OR POWER PLANT" for every ship attacked in the Strait of Hormuz — a war crime when directed at civilian infrastructure for political purposes; [Rubio]({{ site.baseurl }}/actors/trump.html) declared the policy "a head for an eye." The U.S. surged additional troops, weaponry, and medics to a region already hosting tens of thousands of personnel and 17 naval vessels including two carrier strike groups. Barak Ravid of *Axios* reported Trump is "close to making a decision" about a "massive attack," saying the Iranians "haven't received enough pain yet." Richardson lets the juxtaposition stand: a Congress voting to end a war the president is preparing to escalate, domestic programs gutted while war costs multiply, and an administration concealing its spending while threatening war crimes — humanity, once again, hanging from a cross of iron [7].
+
+# Track Record
+
+**Resolved**
+
+- 2026-07-05 (newsletter) — characterized Trump's July 2026 anticommunist pivot as "a sign of panic rather than confidence," a fabricated narrative constructed after Democratic Socialist electoral success rather than a response to a genuine ideological threat. **Hit.** By July 17 [4], the narrative was operationalized as a governance tool — Miller's State Department speech, Bannon's *War Room* "predicate for immediate action," and DHS Secretary Mullin's criminal threats against state officials for refusing voter-roll purges — confirming the instrumental/strategic reading over a genuine-threat reading [1][4].
+- 2026-07-16 (newsletter) — documented the consolidation of authoritarian symbolism (Treasury commemorative coin with Trump's likeness, unauthorized South Lawn helipad, politically appointed U.S. attorneys) as part of an accelerating institutional-capture trajectory, with Trump's strong-approval at a record-low 15%. **Hit.** By July 20–23 [5][7], the degradation compounded across every domain simultaneously — war casualties concealed, ICE agents killing bystanders, gas at $4/gallon, tariffs on Canada for wildfire smoke, Congress voting to end a war the president was preparing to escalate — confirming the trajectory [3][5][7].
+
+**Open**
+
+- 2026-07-23 (newsletter) — implicit forecast that Trump will escalate the Iran war despite congressional revolt: the House passed a concurrent resolution to end the war 214–208 while Trump was "close to making a decision" about a "massive attack," saying the Iranians "haven't received enough pain yet." Resolves on whether a "massive attack" on Iranian infrastructure is launched or whether congressional pressure and domestic opposition (only a third of MAGA voters considering the war worth the cost) constrain escalation [7].
+- 2026-07-17 (newsletter) — standing forecast that the *Unhumans* dehumanization framework will continue to be operationalized as a governance tool, with Bannon's "predicate for immediate action" being acted upon through voter purges, criminal prosecutions of state officials, and dehumanizing policy rhetoric. Resolves on whether further executive actions are explicitly justified through the communist/unhuman framing, or whether the framework remains rhetorical [4].
+- 2026-07-21 (newsletter) — near-term forecast that the Pentagon's Navy and Air Force operational funds will exhaust by end of July, forcing either the $67 billion supplemental appropriation or operational contraction (canceled exercises, diverted maintenance money). Resolves on whether the supplemental passes and whether sustained operations continue into August without funding disruption [6].
+- 2026-07-20 (newsletter) — standing forecast that the compound institutional degradation across all domains (foreign-policy failures, domestic governance breakdowns, authoritarian symbolism) will continue to accelerate simultaneously rather than stabilizing. Resolves on whether the pace of institutional breakdowns maintains or increases through the remainder of 2026, observable in approval ratings, congressional compliance, and institutional norm violations [5].
 
 # Sources in Bundle
 

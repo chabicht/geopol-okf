@@ -5,7 +5,7 @@ parent: Countries
 description: Latin America's fourth-largest oil exporter and sixth-largest coal exporter — under Petro pursued supply-side climate policy unique among Global South fossil fuel exporters, now facing political reversal after right-wing election victory
 tags: [country, energy, latin-america, economics, trade]
 status: ongoing
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -67,6 +67,15 @@ A complete departure from climate and energy policy is unlikely — geoeconomic 
 ## Financing Gap
 
 Colombia requires investment equivalent to 7–10% of GDP annually until 2030 for the energy transition. The government's [country platform](https://www.colombiaemb.org/post/colombia-launches-the-country-platform-in-washington-d-c) seeks to mobilise US$40 billion from development banks, private investors, and international partners. However, the platform has not yet secured the level of external financing and risk mitigation needed. Petro's decision to stop new exploration contracts was viewed negatively by rating agencies and investors, raising the cost of capital precisely when substantial funds are needed [1].
+
+# Key Dynamics
+
+- **Unique supply-side climate stance.** Petro banned new oil, gas, and coal exploration contracts — the only Global South fossil fuel exporter to take this approach. [1]
+- **International leadership outpaced implementation.** Staff churn, vested interests, and personalistic messaging weakened delivery of a far-reaching reform agenda at home. [1]
+- **Progress is structurally fragile.** Deforestation fell 54% (2021–2023) but rose again in 2024; renewable expansion is slowed by grid bottlenecks and Wayúu community conflicts. [1]
+- **Electoral reversal slows the transition.** Right-wing de la Espriella's narrow victory shifts focus from socio-ecological transformation to energy security and economic modernisation. [1]
+- **Supply-side climate policy is vulnerable without institutional depth.** Without deep embedding and broad coalitional support, ambitious reforms remain susceptible to electoral backlash and vested-interest resistance. [1]
+- **Financing gap constrains ambition.** Colombia needs 7–10% of GDP annually for the transition; the exploration freeze raised the cost of capital precisely when funds are most needed. [1]
 
 # Analysis
 

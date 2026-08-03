@@ -8,7 +8,7 @@ tags:
   - military
   - technology
 status: ongoing
-timestamp: 2026-07-30T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -34,7 +34,7 @@ Multiple theaters demonstrate the transformative impact of drone warfare:
 
 ## The Cost-Exchange Ratio Inversion
 
-[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) argues that the US relied on pricey Patriot and THAAD systems against cheap Iranian drones during the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — a costly mismatch that exposed a structural weakness in US air defense architecture. The US did not have a cheap mass attack weapon; stocks of interceptors were run down during the conflict, creating a sustainability problem even when interceptions succeeded [1]. The deeper point is that the US war machine was built on expensive systems in small numbers — a doctrine optimized for peer conflict where precision and survivability justify cost. Against mass-produced cheap drones, this doctrine produces a cost-exchange ratio that favors the attacker. The implication is that the US needs a cheap mass capability — low-cost interceptors or directed-energy weapons — to restore the cost-exchange balance [1].
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) argues that the US relied on pricey Patriot and THAAD systems against cheap Iranian drones during the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — a costly mismatch that exposed a structural weakness in US air defense architecture. The US did not have a cheap mass attack weapon; stocks of interceptors were run down during the conflict, creating a sustainability problem even when interceptions succeeded [1]. The deeper point is that the US war machine was built on expensive systems in small numbers — a doctrine optimized for peer conflict where precision and survivability justify cost. Against mass-produced cheap drones, this doctrine produces a cost-exchange ratio that favors the attacker.
 
 Urbanski ([RUSI]({{ site.baseurl }}/actors/authors/rusi.html)) provides the most granular cost-exchange data from the Iran war and generalizes the lesson across both contemporary theaters. Over 39 days, Gulf and US air defences expended hundreds of Patriot interceptors at ~$4 million each against Iranian Shahed drones costing, at the top end, tens of thousands. Iran launched an estimated 4,000 one-way attack drones; by day four it had fired more than 500 ballistic missiles and 2,000 drones. Interception rates exceeded 90% — a genuine proof point for US-made systems. Yet the US expended roughly half its Patriot inventory, more than 850 Tomahawks, and over 1,000 air-launched stand-off weapons. When every incoming weapon costs the attacker a fraction of what its interception costs the defender, the defender can win every engagement and still lose the war of stockpiles, available funding and public patience [7]. Both the Ukraine and Iran wars carry the same lesson for NATO procurement: cheap mass defeats expensive platforms [7].
 

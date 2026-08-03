@@ -9,7 +9,7 @@ tags:
   - ai
   - drone-warfare
 status: ongoing
-timestamp: 2026-07-30T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -22,13 +22,13 @@ The War on Terror (2001 onward) interrupted the RMA debate. Two decades of count
 
 # Key Dynamics
 
-- The RMA's central direction is the "de-humanizing" of the battlefield — reducing humans in direct combat through growing weapons autonomy and a component revolution in miniaturized sensors and solid-state batteries [1].
-- The revolution spans hardware and software, not any single weapon: it changes how wars are started, waged, settled, and their ethics [1].
-- Cost asymmetry — cheap mass-produced drones and missiles destroying expensive exquisite platforms — is the mechanism reshaping both operations and deterrence [1][4][6].
-- Operational concepts are reconfiguring combined arms around unmanned systems: RUSI's Land Carrier Battle Group replaces tank battalions with UAS carriers [3], while accurate offensive missiles may end the era of the manned fighter [6].
-- The Pentagon's industrial model must pivot from buying end products to buying the ability to produce them at scale and sovereignly [8], while agentic AI compresses military software production timelines by orders of magnitude [5].
-- Deterrence is shifting from a binary nuclear threshold to a continuous spectrum of credible autonomous-strike threats [4][8].
-- Wars are won by logistics, technology, and adaptability — not bravery — yet military institutions still celebrate sacrifice over technological fluency [7].
+- **The RMA's central direction is the "de-humanizing" of the battlefield.** Humans in direct combat are being reduced through growing weapons autonomy and a component revolution in miniaturized sensors and solid-state batteries [1].
+- **The revolution spans hardware and software, not any single weapon.** It changes how wars are started, waged, settled, and their ethics [1].
+- **Cost asymmetry is the mechanism reshaping both operations and deterrence.** Cheap mass-produced drones and missiles destroying expensive exquisite platforms upend the traditional cost equation of warfare [1][4][6].
+- **Operational concepts are reconfiguring combined arms around unmanned systems.** RUSI's Land Carrier Battle Group replaces tank battalions with UAS carriers [3], while accurate offensive missiles may end the era of the manned fighter [6].
+- **The Pentagon's industrial model must pivot from buying end products to buying the ability to produce them at scale and sovereignly.** Simultaneously, agentic AI compresses military software production timelines by orders of magnitude [5][8].
+- **Deterrence is shifting from a binary nuclear threshold to a continuous spectrum of credible autonomous-strike threats.** This requires visible, exercised capability rather than just declared stockpiles [4][8].
+- **Wars are won by logistics, technology, and adaptability — not bravery.** Yet military institutions still celebrate sacrifice over technological fluency [7].
 
 # Analysis
 

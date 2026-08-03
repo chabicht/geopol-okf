@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Economic historian and Chartbook author tracking the global economy — China Shock 2.0 and the "Big One" framing, financial repression, the AI boom, the four disrupters of the 2026 world economy, the five metamorphoses of the dollar, hyper-agency as the driver of Western rupture, and the polycrisis as a crisis of lost futures
 tags: [author, economics, trade]
 status: ongoing
-timestamp: 2026-07-30T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -86,6 +86,22 @@ In Chartbook 462 (July 29, 2026), Tooze frames China's trade surplus surge as a 
 Tooze's "Big One" thesis proposes a seismological metaphor: Shock 1.0 was a "foreshock," and the 2020s event may be the main event. The 1.0/2.0 sequencing implies essential similarity plus difference plus a temporal order, but on Tooze's reading the differences are so great that the numbering conceals a deeper qualitative break — "a complete transformation of industrial division of labour at world scale." The Polanyian "double movement" framing applies cleanly to Shock 1.0: Trump 1.0 and Brexit were belated backlashes to the original shock, and the resulting US protectionism now shields the US against Shock 2.0, redirecting the surplus toward Europe [7]. See the dedicated treatment in [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html).
 
 ctindale's "The Importance of Being Obsolescent" directly challenges this framing — market-economics paradigms cannot register what Beijing's state-power paradigm is doing, and the analytical vocabulary of "overcapacity" and "growth-model distortion" itself neutralizes the form of aggression being pursued. The split is registered at [Analytical Fault Lines]({{ site.baseurl }}/themes/analytical-fault-lines.html) [7].
+
+# Track Record
+
+**Resolved**
+
+- 2026-07-03 (Chartbook 454) — predicted China Shock 2.0 would be "above all about Europe" and concentrated in vehicles, not a US-targeted low-tech story. **Hit.** By mid-2026 the EU-China trade deficit had roughly doubled, 60% of Germany's €27 billion trade-balance swing with China was cars, and VW announced up to 100,000 job cuts. The sectoral concentration (vehicles, green energy goods, chemicals) matched the call precisely [1].
+- 2026-07-06 (Chartbook 455) — predicted the US-China bilateral trade truce would hold and the US would effectively exclude China's leading edge (100% tariffs on Chinese EVs), making Shock 2.0 a China-Europe problem rather than a China-US one. **Hit.** The US-China bilateral deficit narrowed dramatically; the US AI boom sucked in imports from Taiwan and Mexico, not China [2].
+- 2026-07-03 (Chartbook 454) — predicted China's real exchange rate was depreciating (Western inflation vs. Chinese deflation, nominal rate pegged), making Chinese goods more competitive. **Hit.** China hovered on the edge of deflation through 2025-2026 while Western prices rose; the real depreciation persisted as forecast [1][2].
+
+**Open**
+
+- 2026-07-29 (Chartbook 462) — the "Big One" thesis: the 2020s export surge is the main seismic event, not a sequel, representing "a complete transformation of industrial division of labour at world scale." Resolves as the scale of permanent industrial restructuring becomes distinguishable from a cyclical surplus surge — observable in whether the export volume divergence (+60% exports vs. +10% imports since end-2018) persists or reverts [7].
+- 2026-07-29 (Chartbook 462) — the market-economics reading of China Shock 2.0 (overcapacity and imbalances ultimately subject to market discipline). This is the Tooze side of the `## Contested: Is China Shock 2.0 a market phenomenon or unrestricted warfare?` block in [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html), where ctindale's state-power reading takes the opposite side. **Status: open fork.** Resolves on whether Beijing adjusts export policy in response to market signals (demand contraction, overcapacity losses) or only in response to strategic calculations (trade-war leverage, dependency creation) over the next 12 months [7].
+- 2026-07-06 (Chartbook 456) — the BIS-relayed forecast that the AI boom endogenously generates a China-scale investment and credit boom, with the labor share of income potentially collapsing to 20% over the next forty years. Very long-range open forecast; resolves as labor-share data and AI capex trajectories accumulate [3].
+- 2026-07-06 (Chartbook 455) — the "gilded cage" forecast: if China's capital controls were relaxed, the yuan would go down, not up, as trapped wealth sought US asset exposure. Standing forecast; resolves if Beijing loosens capital controls — observable in any liberalization episode and subsequent yuan direction [2].
+- 2026-07-15 (Chartbook 457) — the "profit dollar" (Dollar #5) thesis: the current dollar system is sustained by private capital inflows attracted by US financial-market dominance, not official reserve accumulation. Standing forecast; resolves as official reserve accumulation trends and private flow composition evolve — observable in IMF COFER data and BIS cross-border banking statistics [4].
 
 # Sources in Bundle
 

@@ -5,7 +5,7 @@ parent: Countries
 description: Major US trading partner targeted by Trump's Section 338 tariffs; economic coercion campaign, USMCA renegotiation pressures, and consumer boycott impacts
 tags: [country, trade, economics]
 status: ongoing
-timestamp: 2026-07-26T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -15,6 +15,16 @@ Canada is the United States' northern neighbor and one of its largest trading pa
 # Current Situation
 
 On July 20, 2026, Trump invoked Section 338 of the Tariff Act of 1930 — a provision dormant since the 1940s — to impose 50% tariffs on approximately $20 billion in Canadian imports. Three separate proclamations targeted alcoholic beverages, motor vehicles, and dairy. The tariffs are scheduled to take effect August 19, 2026, and apply regardless of USMCA compliance status. The USMCA review is underway, with US-Mexico negotiations having advanced speedily while Canada remained reluctant to negotiate. Prime Minister Mark Carney called for resolution, but coercion has shrunk the political room for engagement.
+
+# Key Dynamics
+
+- **Section 338 revives a dormant statute as USMCA leverage.** No court has interpreted the 1930 provision; it likely violates WTO commitments and replaces expiring Section 122 tariffs after the Supreme Court struck down IEEPA tariffs. [2]
+- **The coercer pays too.** Credibility and consumer trust do not recover on the schedule of trade negotiations; border communities absorbed 5–10 cents per tariff dollar in lost wages. [1]
+- **Consumer boycott is not state-controlled.** Land crossings stayed ~20% below 2024 levels and Brown-Forman saw a 62% Canadian sales drop — state-to-state economic statecraft cannot reliably dictate citizen action. [1]
+- **Sustained threats backfired on Canada.** Unlike Mexico's conciliatory posture, coercion shrunk Canada's political room for engagement rather than bringing it to the negotiating table. [2]
+- **A Trump deal lasts only until he breaks it.** The tariffs explicitly override USMCA origin rules; Canadians now view the US less favorably than China. [3]
+- **Middle powers manage exposure, not alignment.** Carney's adaptive balancing generates compliance distinct from genuine alignment — a vulnerability the DragonBear axis can exploit. [5]
+- **Arctic sovereignty diverges from NATO consensus.** Canada treats the Northwest Passage as internal waters, paralleling elements of Russia's territorial framing while remaining firmly in NATO. [4]
 
 # Analysis
 

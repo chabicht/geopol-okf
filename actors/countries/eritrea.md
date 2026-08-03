@@ -5,7 +5,7 @@ parent: Countries
 description: Coastal authoritarian state controlling Ethiopia's path to the sea — deeply distrustful of international actors, tactically aligned with TPLF against Addis Abeba, and central to Horn of Africa tensions
 tags: [country, military, africa, naval, middle-east]
 status: ongoing
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -33,6 +33,16 @@ In a remarkable shift, both Asmara and the TPLF set aside their mutual enmity an
 ## Regional Alignments
 
 Eritrea is aligned with [Egypt]({{ site.baseurl }}/actors/countries/egypt.html) and Somalia against the [UAE]({{ site.baseurl }}/actors/countries/uae.html)-[Ethiopia]({{ site.baseurl }}/actors/countries/ethiopia.html)-RSF bloc in the broader Red Sea competition. Expanding Egyptian cooperation with Eritrea and Somalia causes unease in Addis Abeba [1][2].
+
+# Key Dynamics
+
+- **Coastline denial is structural leverage.** Eritrea's ports of Assab and Massawa are the object of Abiy's sea-access rhetoric; denying them makes the standoff structurally durable. [2][3]
+- **Eritrea was excluded from the Pretoria Agreement.** Isaias wanted the TPLF destroyed, not returned to political life; the relationship with Addis subsequently cooled. [2]
+- **The TPLF alliance is tactical, not strategic.** Asmara and the TPLF set aside mutual enmity to weaken Addis Abeba, each calculating it can exploit the other. [2][3]
+- **Eritrea backs Fano rebels against Addis Abeba.** After the Tigray war cooled relations, Asmara supported Amhara-nationalist insurgents who turned on the Ethiopian state in 2023. [2]
+- **Regional alignment sets Eritrea with Egypt and Somalia against the UAE-Ethiopia-RSF bloc.** The June 2026 Eritrea-Egypt agreement to develop Assab and Massawa deepens this axis. [1][2][3]
+- **Tsimdo Selam is read as a war coalition by Addis.** The initiative is perceived as bringing together the TPLF, Eritrea, Amhara Fano, and other opposition movements preparing a joint offensive. [3]
+- **Militarization sustains the regime.** Constant emphasis on external threats justifies continued militarization of society and Eritrea's totalitarian governance model. [2][3]
 
 # Analysis
 

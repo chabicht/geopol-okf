@@ -5,7 +5,7 @@ parent: Countries
 description: Israel as a geopolitical actor — dissatisfied with Iran war outcome, recognizing Somaliland for Red Sea access, facing Turkey as its greatest regional challenge, and resisting the US shift to multilateral security
 tags: [country, military, middle-east, naval]
 status: ongoing
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -45,6 +45,15 @@ Israel can defy the United States and get away with it. This was demonstrated du
 ## Long-Term Goal for Iran
 
 Joe Kent, in conversation with [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html), reveals that Israel's long-term goal for [Iran]({{ site.baseurl }}/actors/countries/iran.html) is complete regime change toward a secular, business-friendly government. In the short term, Israel views a chaotic Iran — potentially fracturing into ethnic states — as beneficial, despite the disaster it would cause for the US. Israel always saw the Iran war as a long war, aiming to entangle the US. The nuclear issue was a pretext used by Israel to draw the US into a war to neutralize Iran, a country Israel couldn't defeat alone. US actions are now validating Iranian hardliners who advocate for developing nuclear weapons, making proliferation a self-fulfilling prophecy [7].
+
+# Key Dynamics
+
+- **Turkey is Israel's greatest regional challenge since Camp David.** Its rise with Washington's assent confronts Jerusalem with a political rival it cannot militarily neutralize. [2]
+- **Somaliland recognition opens a Red Sea counterweight.** Israel became the first nation to recognize Somaliland, anchoring an Israel-UAE-Ethiopia axis against the Turkey-Somalia-Egypt-Eritrea alignment. [3]
+- **Friction with Washington is structural and public.** VP Vance rebuked Israeli cabinet members, and ceasefire negotiations ran through Pakistani mediation without Israeli participation. [6]
+- **Israel's long-term goal for Iran is complete regime change.** The nuclear issue was a pretext to entangle the US; Israel views a fracturing Iran as beneficial despite the disaster for Washington. [7]
+- **Lebanon must stay on a separate track from Iran.** Israel rejected unifying the fronts, insisting its conduct in Lebanon not be bound by any Iran ceasefire framework. [8]
+- **Syria is the collision course.** Israel's strikes target the very airfields Turkey surveyed for forward bases, and the Baku deconfliction channel is too thin to prevent the trajectory collision. [9]
 
 # Analysis
 

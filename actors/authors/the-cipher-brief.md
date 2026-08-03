@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: National security and intelligence-focused analytical publication featuring expert commentary from former officials — covering AI military competition, intelligence community reform, China strategic rivalry, Endless Warfare framework, and cognitive warfare
 tags: [author, news]
 status: ongoing
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-04T00:00:00Z
 ---
 
 # Background
@@ -87,6 +87,26 @@ Trump's July 7, 2026, Ankara visit — the first sitting US president to visit T
 Netanyahu's response was unprecedented: he warned on Fox News and CNN that arming Turkey with F-35s would upset the regional balance — the first time Israel has publicly opposed a US arms sale to a fellow NATO member. The collision course is intensifying: Israel conducted approximately 988 air and artillery strikes in Syria in the seven months after Assad fell — nearly triple its previous rate. Since Assad's fall in December 2024, Turkey established itself as the dominant external patron of al-Sharaa's government; on July 19, al-Sharaa consolidated the security apparatus under Interior Minister Anas Khattab. Turkey operates its largest overseas military base in Somalia, has trained 15,000+ soldiers, deployed F-16s and armor, and begun offshore oil drilling. Turkey's defense minister reports other African governments requesting the same security-and-investment package [15].
 
 Iran's regional network, degraded by the 2026 war, has left a vacuum Turkey is filling faster than anyone else. The State Department initiated rescission of Syria's state-sponsor-of-terrorism designation on July 8 (in place since 1979); Washington and Riyadh announced a nuclear cooperation agreement on July 22. The Baku-routed deconfliction hotline is too thin to prevent the collision that both parties' strategic trajectories are producing. See [Turkey]({{ site.baseurl }}/actors/countries/turkey.html), [Israel]({{ site.baseurl }}/actors/countries/israel.html), and [NATO Ankara Summit 2026]({{ site.baseurl }}/events/nato-ankara-summit-2026.html) [15].
+
+# Track Record
+
+## Resolved
+
+- **2026-06 — "The Continued Myth of Russia's Imminent Collapse" [5]:** Sean Wiswesser argued that three years after the Prigozhin mutiny, predictions of Putin's imminent collapse had failed and the security state would not crumble under its own weight. **Hit** — as of August 2026 the Russian security state remains intact; the distinction between long-term structural vulnerabilities and near-term collapse proved correct.
+
+- **2026-07-07 — F-35 reinstatement for Turkey [9]:** The Cipher Brief argued that the S-400 and Chinese telecom embedding made Turkey's F-35 reinstatement strategically disqualifying. **Miss** — the Trump administration's July 2026 Ankara visit produced a conditional F-35 offer and CAATSA sanctions relief [15]; strategic arithmetic (85 million people, NATO's second-largest air force, Bosporus control) overrode the technical risk assessment.
+
+## Open
+
+- **2026 — "The West Needs to Prepare for a Russian Defeat in Ukraine" [3]:** Standing forecast that the probability of Russian defeat has risen from fringe to serious, warranting a Nunn-Lugar-style preparation agenda. *Observable that would resolve it:* a negotiated settlement, regime collapse, or sustained battlefield breakthrough confirming or refuting the elevated probability assessment.
+
+- **2026-08-03 — Israel-Turkey collision course in Syria [15]:** Standing forecast that the Baku-routed deconfliction channel is too thin to prevent a structural collision between Israeli and Turkish strategic trajectories. *Observable that would resolve it:* breakdown of the deconfliction channel, direct military confrontation, or a durable stabilization agreement.
+
+- **2026 — AI military race: adoption over sophistication [1]:** Standing forecast that the AI military race will be decided by operational adoption speed, not model quality. *Observable that would resolve it:* demonstrable evidence that one side's adoption cycle-time determines battlefield advantage over the other.
+
+- **2026 — Endless Warfare persistence [6]:** Standing forecast that adversary gray-zone warfare will continue until it is no longer effective, not until adversaries choose peace. *Observable that would resolve it:* sustained reduction in adversary gray-zone activity linked to ineffectiveness rather than voluntary restraint.
+
+- **2026 — FY 2027 defense budget: battleship and DAWG as filler [12]:** Standing forecast that the battleship program and the $54B DAWG line item are budget filler that Congress will cut back. *Observable that would resolve it:* FY 2027 appropriations outcome showing whether these line items survive intact or are reduced.
 
 # Sources in Bundle
 
