@@ -5,7 +5,7 @@ parent: Regions
 description: Landlocked region between Russia, China, and Iran experiencing rapid economic growth, diversifying away from Russian influence, and benefiting from new connectivity corridors as Russia's southern grip erodes.
 tags: [central-asia, trade, critical-minerals, energy, caucasus]
 status: ongoing
-timestamp: 2026-07-18T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -32,6 +32,10 @@ The war complicates the use of the International North-South Transport Corridor 
 
 The Caspian has been receding for decades, creating a strategic problem for a region built around energy, ports, fisheries, and trans-Caspian connectivity. Falling water levels can complicate port access, reduce draft, require dredging, and raise the cost of maintaining maritime infrastructure for ports in Azerbaijan, [Kazakhstan]({{ site.baseurl }}/actors/countries/kazakhstan.html), and Turkmenistan. The Caspian is shared by five states, and its levels are affected not only by climatological factors but also by management, dams, irrigation, and upstream water use, especially in the Volga basin — creating an international governance problem. Turkmenistan also faces water shortages linked to broader Central Asian water stress. See [Geoeconomics of Water]({{ site.baseurl }}/themes/geoeconomics-of-water.html) [6].
 
+## Caspian Theater and South Caucasus Connectivity
+
+The [Caspian Sea]({{ site.baseurl }}/regions/caspian.html) is becoming a contested maritime theater as the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) and the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) converge in the basin. Israel's March 2026 strike on Iran's Bandar Anzali port and Ukraine's July 2026 strike on an Iranian cargo vessel in the Caspian have demonstrated that the sea is no longer a sanctuary from neighboring conflicts. For Central Asian states, the Caspian is both an energy corridor and the maritime leg of the Middle Corridor — the trans-Caspian trade route connecting China to Europe through [Central Asia]({{ site.baseurl }}/regions/central-asia.html) and the [South Caucasus]({{ site.baseurl }}/regions/south-caucasus.html). The Trump Route for International Peace and Prosperity (TRIPP), connecting [Azerbaijan]({{ site.baseurl }}/actors/countries/azerbaijan.html) to its Nakhchivan exclave along the Iranian border and onward to [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) and Europe, enhances the South Caucasus corridor's strategic value as a bypass for both Russian and Iranian transit routes. All six trans-Caspian states have a shared incentive to keep the Caspian a commercial waterway, but the growing military spillover is testing that incentive [7].
+
 # Key Dynamics
 
 - **Geographic constraint** — No direct sea access complicates direct interaction without Russian or Chinese intermediaries. Every trade route passes through a neighbor's territory, structuring the region's economic options.
@@ -53,3 +57,5 @@ The Caspian has been receding for decades, creating a strategic problem for a re
 [5] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
 
 [6] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
+
+[7] Kamran Bokhari, "The Risks of Conflict Expansion from the Gulf to the Caspian", 2026-07-30 — [https://geopoliticalfutures.com/the-risks-of-conflict-expansion-from-the-gulf-to-the-caspian/](https://geopoliticalfutures.com/the-risks-of-conflict-expansion-from-the-gulf-to-the-caspian/)

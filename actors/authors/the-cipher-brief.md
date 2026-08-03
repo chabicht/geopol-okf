@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: National security and intelligence-focused analytical publication featuring expert commentary from former officials — covering AI military competition, intelligence community reform, China strategic rivalry, Endless Warfare framework, and cognitive warfare
 tags: [author, news]
 status: ongoing
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -78,6 +78,16 @@ Karlin identified the central paradox: the Trump national strategy prioritizes t
 
 Harrison concluded by calling for fundamental congressional budget-process reform — changing the fiscal year start date, re-jiggering committee structure — comparing the moment to the early 1970s when Congress recognized the system was no longer working. The full analysis is dissolved into [Trump]({{ site.baseurl }}/actors/trump.html) and [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) [12].
 
+## The New Fault Line: Israel and Turkey on a Collision Course
+
+The Cipher Brief documents the emerging Israel-Turkey collision course in Syria as a structural rivalry operating beneath the surface of NATO alliance membership. On March 25, 2025, Israeli aircraft struck Syrian airfields — sites Turkey had surveyed for planned forward military bases. Ankara quietly shelved the deployment. The two governments run a deconfliction channel through Azerbaijani mediation, described by Turkish officials as "strictly technical" — signaling neither normalization nor convergence. The channel is too thin a mechanism to carry what American guarantees used to hold [15].
+
+Trump's July 7, 2026, Ankara visit — the first sitting US president to visit Turkey in over a decade — delivered a "gift bag" for Erdogan: lifting CAATSA sanctions (imposed in 2020 over the S-400 purchase), proceeding with F110 engines for Turkey's KAAN fighter, and a conditional F-35 offer (Erdogan said Trump pledged six aircraft). Trump declared Turkey had proven "a more loyal partner than some allies Washington once counted on." US Middle East policy now operates on commercial and strategic arithmetic: 85 million people, NATO's second-largest air force, a fast-growing arms industry, and control of the Bosporus [15].
+
+Netanyahu's response was unprecedented: he warned on Fox News and CNN that arming Turkey with F-35s would upset the regional balance — the first time Israel has publicly opposed a US arms sale to a fellow NATO member. The collision course is intensifying: Israel conducted approximately 988 air and artillery strikes in Syria in the seven months after Assad fell — nearly triple its previous rate. Since Assad's fall in December 2024, Turkey established itself as the dominant external patron of al-Sharaa's government; on July 19, al-Sharaa consolidated the security apparatus under Interior Minister Anas Khattab. Turkey operates its largest overseas military base in Somalia, has trained 15,000+ soldiers, deployed F-16s and armor, and begun offshore oil drilling. Turkey's defense minister reports other African governments requesting the same security-and-investment package [15].
+
+Iran's regional network, degraded by the 2026 war, has left a vacuum Turkey is filling faster than anyone else. The State Department initiated rescission of Syria's state-sponsor-of-terrorism designation on July 8 (in place since 1979); Washington and Riyadh announced a nuclear cooperation agreement on July 22. The Baku-routed deconfliction hotline is too thin to prevent the collision that both parties' strategic trajectories are producing. See [Turkey]({{ site.baseurl }}/actors/countries/turkey.html), [Israel]({{ site.baseurl }}/actors/countries/israel.html), and [NATO Ankara Summit 2026]({{ site.baseurl }}/events/nato-ankara-summit-2026.html) [15].
+
 # Sources in Bundle
 
 - "The AI Race Won't Be Won by the Best Model — But by the Fastest Military" [1]
@@ -94,6 +104,7 @@ Harrison concluded by calling for fundamental congressional budget-process refor
 - "The $1.5 Trillion Defense Budget Without a Strategy" [12]
 - "Is Iran Controlling the Gulf Conflict?" [13]
 - "We've Seen Autonomous Warfare and We're in Trouble" [14]
+- "The New Fault Line: Israel and Turkey on a Collision Course" [15]
 
 # Citations
 
@@ -124,3 +135,5 @@ Harrison concluded by calling for fundamental congressional budget-process refor
 [13] [Is Iran Controlling the Gulf Conflict?](https://www.thecipherbrief.com/is-iran-controlling-the-gulf-conflict)
 
 [14] [We've Seen Autonomous Warfare and We're in Trouble](https://www.thecipherbrief.com/weve-seen-autonomous-warfare-and-were-in-trouble)
+
+[15] The Cipher Brief, "The New Fault Line: Israel and Turkey on a Collision Course", 2026-08-03 — [https://www.thecipherbrief.com/the-new-fault-line-israel-and-turkey-on-a-collision-course](https://www.thecipherbrief.com/the-new-fault-line-israel-and-turkey-on-a-collision-course)

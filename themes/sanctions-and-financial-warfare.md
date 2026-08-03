@@ -9,7 +9,7 @@ tags:
   - trade
   - supply-chain
 status: ongoing
-timestamp: 2026-07-26T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -74,6 +74,12 @@ The contrast with US sanctions on Iran is stark: the sustained targeting of the 
 
 [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html)'s Day 150 diagnostic identifies a structural shift in the sanctions architecture: a revised US sanctions bill targets [Russia]({{ site.baseurl }}/actors/countries/russia.html)n energy buyers explicitly including [China]({{ site.baseurl }}/actors/countries/china.html) and [India]({{ site.baseurl }}/actors/countries/india.html), converting Russia policy into an instrument of China policy. This is not merely an escalation of Russia sanctions but a doctrinal reframing — the sanctions instrument is being repurposed from constraining Russian revenue to constraining the DragonBear axis as a whole, with Russian energy flows as the vector through which Chinese and Indian alignment is targeted. The shift formalises a pattern already visible in the price cap's collapse: the separation between Russia policy and China policy is eroding, and the sanctions architecture is becoming an explicit instrument of dual containment [6]. See [Cold War 2.0]({{ site.baseurl }}/conflicts/cold-war-2.html) and [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html).
 
+## Yuan-Based Sanctions Evasion and the Collapse of Dollar Weaponization
+
+[Paul Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html) documents the erosion of dollar weaponization as a cornerstone of US financial power. Iran's ability to sell oil throughout the sanctions regime rested on payment in yuan — not dollars, not SWIFT, not the Western banking system. Ships paying Hormuz passage also paid in yuan or cryptocurrency. The dollar's coercive power has been "greatly reduced" not because China built an alternative architecture but because the US destroyed the conditions that made dollar weaponization effective. The four pillars of US financial power — science leadership, military dominance, dollar weaponization, and the alliance system — were all squandered simultaneously under [Trump]({{ site.baseurl }}/actors/trump.html), with the dollar's erosion a direct consequence of the alliance collapse and the Iran war's demonstration of US unreliability [7].
+
+The yuan-based evasion is not a sophisticated parallel financial system but a simple substitution: if the seller accepts yuan and the buyer has yuan, the dollar is bypassed entirely. The mechanism's simplicity is its strength — it requires no new infrastructure, only willingness on both sides. As [China]({{ site.baseurl }}/actors/countries/china.html)'s trade surplus and global footprint grow, the pool of yuan available for trade settlement expands, making the evasion architecture self-reinforcing. The dollar remains the reserve currency, but its weaponization — the ability to cut adversaries off from the dollar system as coercive leverage — has been functionally neutralized for any adversary with access to Chinese trade flows [7]. See [United States]({{ site.baseurl }}/actors/countries/united-states.html) and [China]({{ site.baseurl }}/actors/countries/china.html).
+
 # Citations
 
 [1] [Decoding Sanctions: How Governments can get the Best out of Banks](https://www.rusi.org/explore-our-research/publications/commentary/decoding-sanctions-how-governments-can-get-best-out-banks)
@@ -87,3 +93,5 @@ The contrast with US sanctions on Iran is stark: the sustained targeting of the 
 [5] [The Future of Russian Sanctions After the Hormuz Crisis](https://www.rusi.org/explore-our-research/publications/commentary/future-russian-sanctions-after-hormuz-crisis)
 
 [6] [Global System Rupture - Update](https://substack.com/@velinatchakarova/p-208325909)
+
+[7] Paul Krugman, "How China Won the Iran War", 2026-08-03 — [https://paulkrugman.substack.com/p/how-china-won-the-iran-war](https://paulkrugman.substack.com/p/how-china-won-the-iran-war)

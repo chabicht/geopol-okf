@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Historian and journalist tracking kleptocracy, democratic backsliding, and the defacement of American institutions under Trump — author of the Kleptocracy Tracker
 tags: [author, ideology, oligarchy, opinion]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -36,13 +36,28 @@ Applebaum maintains a Kleptocracy Tracker documenting the systematic monetizatio
 - **Pardon lobbying**: A firm founded by former Trump officials accepts engagements worth hundreds of thousands to help clients secure presidential pardons.
 - **Trump Jr. at Kalshi**: $300K in equity received in early 2025 is now worth millions as the firm's valuation grew from $2 billion to $22 billion.
 
+## The Far-Right Playbook: Viral Images, Militarized Rhetoric, and Manufactured Panic
+
+Applebaum identifies a recurring pattern in the operation of far-right politics: viral images of migration → militarized rhetoric from political figures → scapegoating of minorities → policy panic. The sequence runs on emotional amplification rather than factual accuracy, and each stage reinforces the last. A viral image or video — often stripped of context or actively mischaracterized — generates outrage; far-right politicians translate that outrage into "invasion" framing; allied figures across countries amplify the framing; and governments respond with performative crackdowns that validate the original panic. The Ceuta case study of July 31, 2026, is the textbook replay [3].
+
+On July 31, 2026, JD Vance posted a Fox News clip titled "Migrants Storm Border of Northern Spain" with "Invasion of the West" rhetoric, garnering 4.79 million views. The video was from Ceuta — a Spanish enclave in Morocco — not "northern Spain"; migrants reaching Ceuta could never access mainland Spain. A TikTok video simultaneously went viral, falsely claiming Spain's border was open — a misreading of a Supreme Court ruling on sea arrivals. The misinformation chain amplified rapidly: Nigel Farage, Robert Jenrick, and Suella Braverman in the UK, and Alice Weidel of the AfD in Germany all propagated the false narrative. By Sunday, most migrants had returned to Morocco. Meanwhile, 88 bodies filled the Ceuta morgue, with 11 additional Moroccan recoveries — 99 total dead. The human cost was invisible in the outrage cycle [3].
+
+The geopolitical context reveals the mechanism's instrumentalization. Spanish PM Pedro Sánchez had been in Algeria holding a friendly meeting shortly before — Morocco may have been retaliating by loosening border enforcement. The Trump administration's posture reinforced Morocco's leverage: Congress described Ceuta and Melilla as "under Spanish administration" rather than sovereign Spanish territory, and Morocco joined Trump's "Board of Peace." Vox, Spain's far-right party, sent a politician to Ceuta calling on people to "defend their family." The pattern recognition is clear: the 2015 Syrian migrant wave was instrumental to Brexit and the rise of the German far-right. The playbook operates because the amplification chain — social media virality, political framing, international far-right networks — outpaces the fact-checking and context-correction cycle [3]. See [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) and [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html).
+
+## The Kleptocracy Tracker as Parallel Documentation
+
+Applebaum's Kleptocracy Tracker continues to document accelerating monetization of presidential power. The July-August 2026 additions include: Trump's Truth Social expedited-access costs of up to $100,000 per month for those seeking favor; over $117 million in foreign business interests flowing to Trump; the Winklevoss twins' $10 million bitcoin donation following the CFTC dropping enforcement against their exchange; a civil nuclear deal signed with Saudi Arabia; and the DOJ spending approximately $1 million renovating its headquarters to display Trump banners. The tracker functions as a parallel accountability project — not as policy advocacy but as systematic documentation of the transactional logic governing the state [3].
+
 # Sources in Bundle
 
 - "Trump and Vance Ruined the Fourth of July" [1]
 - "The Quintessential Trump-era Politician" [2]
+- "The Far-Right Playbook in Action" [3]
 
 # Citations
 
 [1] [Trump and Vance Ruined the Fourth of July](https://anneapplebaum.substack.com/p/trump-and-vance-ruined-the-fourth)
 
 [2] [The Quintessential Trump-era Politician](https://anneapplebaum.substack.com/p/the-quintessential-trump-era-politician)
+
+[3] Anne Applebaum, "The Far-Right Playbook in Action", 2026-08-03 — [https://anneapplebaum.substack.com/p/the-far-right-playbook-in-action](https://anneapplebaum.substack.com/p/the-far-right-playbook-in-action)

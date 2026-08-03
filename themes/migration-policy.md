@@ -5,7 +5,7 @@ parent: Themes
 description: "Migration as a cross-cutting geopolitical instrument and stress test — route-based approaches, the protection-vs-control tension, externalization of border management, and the instrumentalization of anti-migration sentiment by political actors from South Africa to Europe to Afghanistan."
 tags: [demography, ideology, trade]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -71,6 +71,14 @@ The policy prescription that Knapp and Landmesser advance has three pillars. Fir
 
 See [South Africa]({{ site.baseurl }}/actors/countries/south-africa.html) for the xenophobic-mobilization case, [Germany]({{ site.baseurl }}/actors/countries/germany.html) for the Taliban-consulate handover, [EU]({{ site.baseurl }}/actors/organizations/eu.html) for the Whole-of-Route architecture, [Afghanistan]({{ site.baseurl }}/actors/countries/afghanistan.html) for the Taliban governance context, [Africa]({{ site.baseurl }}/regions/africa.html) for regional migration dynamics, and [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html) for the broader pattern of xenophobic politics as a substitute for governance.
 
+## The Ceuta 2026 Case: Expectation-Based Pull Factors and Migration as Geopolitical Leverage
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) contributes a case that connects the migration-policy framework to great-power competition through the [Ceuta Migration Crisis]({{ site.baseurl }}/events/ceuta-migration-crisis-2026-07-31.html) of July 2026. The case introduces the concept of an **expectation-based pull factor**: Spain's extraordinary regularisation of roughly 500,000 undocumented migrants did not apply to new arrivals, but it generated the perception that reaching Spanish territory and remaining long enough could eventually yield legal status. This is a distinct mechanism from the direct pull factors (jobs, welfare, legal rights) that dominate the migration-policy literature — it operates through expectation formation rather than through an actual legal entitlement, making it resistant to policy correction because the perception persists even when the legal reality is clarified [5].
+
+The case also demonstrates **demonstrated migration-leverage capability** by a transit-state. [Morocco]({{ site.baseurl }}/actors/countries/morocco.html)'s 2021 Ceuta crisis established the precedent that migration pressure on the enclaves can be modulated by Rabat as an instrument of political coercion — a capability confirmed by the July 2026 repeat. This extends the externalization logic documented by Giustozzi: not only do authoritarian regimes controlling migration corridors extract concessions, but states that can modulate the intensity of migration flows at will possess a continuous coercive instrument that does not require the full opening or closing of borders [5].
+
+Most significantly, Tchakarova shows that the Ceuta crisis sits at the **intersection of migration with geopolitical fault lines** — the Spain-Algeria rapprochement that threatens Morocco, the Washington-Madrid deterioration under Trump, and the Washington-Rabat alignment over Western Sahara. Migration is not merely a domestic policy issue or a bilateral negotiation lever but a vector that amplifies and is amplified by great-power positioning. The expectation-based pull factor, the demonstrated leverage capability, and the geopolitical fault lines are mutually reinforcing: Spain's domestic legal architecture creates the vulnerability, Morocco's border-control capacity provides the instrument, and the broader geopolitical alignment (or misalignment) determines the costs and risks of applying it. This framework generalizes: any migration corridor controlled by a state with geopolitical grievances against a destination state is potentially subject to the same triple intersection [5].
+
 # Citations
 
 [1] [Migrationsrouten im Fokus: Routenbasierte Ansätze zwischen Schutzversprechen und Migrationskontrolle](https://www.swp-berlin.org/publikation/migrationsrouten-im-fokus)
@@ -80,3 +88,5 @@ See [South Africa]({{ site.baseurl }}/actors/countries/south-africa.html) for th
 [3] [Anti-Migrationsproteste in Südafrika: Wahlkampf auf dem Rücken der Schwächsten](https://www.swp-berlin.org/publikation/mta-spot77-anti-migrationsproteste-in-suedafrika)
 
 [4] [Protection Gaps in Germany's Skilled Labour Migration System](https://www.swp-berlin.org/publikation/protection-gaps-in-germanys-skilled-labour-migration-system)
+
+[5] Velina Tchakarova, "Ceuta 2026: Migration Crisis or Spain's Emerging Geopolitical Vulnerability?", 2026-07-31 — [https://substack.com/@velinatchakarova/p-209189178](https://substack.com/@velinatchakarova/p-209189178)

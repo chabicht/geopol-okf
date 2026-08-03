@@ -5,7 +5,7 @@ parent: Countries
 description: Resource-dependent US ally navigating strategic hedging between China and the US — AUKUS dependence, critical minerals ambition, China economic coercion experience, and the 2026 National Defense Strategy
 tags: [country, indo-pacific, energy, trade, critical-minerals, military]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -61,6 +61,18 @@ Dan Justice ([War on the Rocks]({{ site.baseurl }}/actors/authors/war-on-the-roc
 
 The same logic extends to a wider network — [Lombrum]({{ site.baseurl }}/actors/countries/philippines.html) in Papua New Guinea, [Subic Bay]({{ site.baseurl }}/actors/countries/philippines.html) in the Philippines, and commercial/state shipyards in [Vietnam]({{ site.baseurl }}/actors/countries/vietnam.html) and [Indonesia]({{ site.baseurl }}/actors/countries/indonesia.html) — that together would give the Navy resilience and redundancy without concentrating repair capability in a few high-value targets. The unresolved pieces are legal and organizational: uncrewed hulls lack a worldwide settled legal status as warships, and the Navy has not yet chosen between organic expeditionary repair squadrons and a contractor-led "lead sustainment integrator" model. The full doctrinal analysis is tracked in [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) and [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) [5].
 
+## Pacific Security Architecture: Minilateral Pacts and Aid Dominance
+
+Ronan Wordsworth ([GPF]({{ site.baseurl }}/actors/authors/geopolitical-futures.html)) documents a structural shift in Australia's role across the [Pacific Islands]({{ site.baseurl }}/regions/pacific-islands.html): Australia is no longer merely a US deputy but an independent security provider building its own layered alliance network. Three minilateral pacts form the core of this architecture [6]:
+
+- **Ocean of Peace Alliance (July 6, 2026)**: A mutual defense treaty between Australia and Fiji — Fiji's first formal alliance and Australia's fourth. Signed the same day as [China's JL-3 SLBM test]({{ site.baseurl }}/events/jl-3-slbm-test-2026-07-06.html), the alliance is open to other Pacific countries. See [Ocean of Peace Alliance]({{ site.baseurl }}/events/ocean-of-peace-alliance-2026-07-06.html).
+- **Pukpuk Mutual Defense Treaty (October 2025)**: Australia and Papua New Guinea — Australia's first new alliance in over 70 years.
+- **Nakamal Agreement (June 29, 2026)**: Australia and Vanuatu — prohibits foreign military bases and requires Australian consultation on third-party critical infrastructure projects.
+
+A de facto division of labor structures the broader architecture: the [United States]({{ site.baseurl }}/actors/countries/united-states.html) handles the Compacts of Free Association with Palau, the Marshall Islands, and Micronesia in the Northern Pacific, while Australia serves as the day-to-day security partner across the South Pacific. Australia's financial dominance underwrites this role: $1.5 billion in official development finance disbursed in 2024 — 37% of the regional total — and $2.4 billion in new Pacific loan agreements since 2021, displacing [China]({{ site.baseurl }}/actors/countries/china.html) as the top bilateral lender. Chinese annual lending has declined to approximately $91 million since 2020 from its 2010s peak, with a shift to smaller grants. Yet roughly 40% of Pacific infrastructure projects since 2008 have involved Chinese state-owned enterprises, and Chinese warships have circumnavigated Australia and conducted live-fire exercises in the Tasman Strait — signaling that reduced lending does not mean reduced strategic ambition [6].
+
+The JL-3 test and the Pacific Islands Forum's failure to agree on a collective statement condemning it revealed both the challenge and the opportunity: China's military signaling generates backlash that Australia can channel into alliance-building, but China's diplomatic clout can still divide Pacific Island consensus. Australia's architecture is designed to be expandable — the Ocean of Peace Alliance's openness to other Pacific countries creates a pathway for incremental enlargement of the security network [6].
+
 # Citations
 
 [1] [There Is No Next Economy](https://thehonestsorcerer.substack.com/p/there-is-no-next-economy)
@@ -72,3 +84,5 @@ The same logic extends to a wider network — [Lombrum]({{ site.baseurl }}/actor
 [4] [In the Asia-Pacific, a New Security Arrangement Takes Shape](https://geopoliticalfutures.com/in-the-asia-pacific-a-new-security-arrangement-takes-shape/)
 
 [5] [Broken Drone, Far from Home: The Case for Overseas Autonomous System Sustainment](https://warontherocks.com/broken-drone-far-from-home-the-case-for-overseas-autonomous-system-sustainment/)
+
+[6] Ronan Wordsworth, "What China's Missile Test Says About the Pacific Order", 2026-07-31 — [https://geopoliticalfutures.com/what-chinas-missile-test-says-about-the-pacific-order/](https://geopoliticalfutures.com/what-chinas-missile-test-says-about-the-pacific-order/)

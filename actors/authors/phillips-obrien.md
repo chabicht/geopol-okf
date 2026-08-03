@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Military historian and analyst — author of "War and Power" — arguing that wars are choices of individual leaders, that cheap mass beats expensive precision, and that US decline is accelerating faster than expected
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -110,15 +110,35 @@ O'Brien advances a framework that cuts against one of the most deeply romanticiz
 
 The framework has immediate diagnostic application to the [United States]({{ site.baseurl }}/actors/countries/united-states.html) under Secretary Hegseth. The Department of War's announcement of testosterone screening for soldiers — what O'Brien calls the "High-T Department of War" — equates warfighting capacity with testosterone levels, despite the medical reality that testosterone boosting is linked to infertility. Hegseth has long emphasized hyper-masculine bravery as a military virtue, citing E.B. Sledge's Pacific campaign accounts and praising the "brave" on the Kelly podcast in 2024. O'Brien reads this as a symptom of an institution stressing all the wrong things — romantic sacrifice narratives instead of the education, technological sophistication, and thoughtfulness that actually correlate with battlefield success. The US military, on this analysis, is culturally preparing for failure by celebrating the qualities that do not win wars while neglecting those that do [19]. See [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) and [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
 
+## The 1861 Analogy: US Vulnerability at Its Deepest
+
+O'Brien's "Is China Going In For The Kill" (August 2026) introduces a historical comparator for US vulnerability. He compares the current moment to 1861 — the first year of the US Civil War — when outside powers directly threatened the US in ways similar to what China is doing now. The US didn't recover assertiveness until 1863–1864. But unlike then, the US is not on an upward trajectory now. China "seems to grasp that." The framework extends his US decline thesis: the weakness Trump has created is not cyclical but structural, and adversaries are exploiting it in real time [24].
+
+The same source documents the full catalogue of Chinese support for Iran — from missile propellant chemicals (sodium perchlorate, enough for ~785 missiles) through satellite intelligence (TEE-01B, BeiDou navigation), chipmaking equipment (SMIC), and now the prospective transfer of 400 finished MANPADS launchers (FN-16 and QW-12). The qualitative shift from dual-use to finished weapons marks a threshold: MANPADS would deter US low-level airpower and create a binary choice for Trump — escalate before they arrive or admit he cannot escalate at all [24]. See [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) and [China MANPADS Transfer]({{ site.baseurl }}/events/china-manpads-transfer-iran-2026.html).
+
+## Iran Is Toying With the USA: The Strategic Framework
+
+O'Brien's Midweek Update #21 (July 29, 2026) provides the most structured account of Iran's strategic calculus. He reconstructs Iran's framework in Aims/Ways/Means format: **Aims** — control over the Strait of Hormuz, weakened US military presence, ability to restart the nuclear program, dissolution of the US-led coalition. **Ways** — keep fighting, deplete US munitions, demonstrate US weakness to allies, sustain high oil prices, delay talks. **Means** — existing missiles and cheap drones supplemented by Chinese/Russian deliveries, sustainable with present resources. Iran calculates that time is on its side: the longer the war drags, the closer to November midterms, the more desperate Trump becomes [25].
+
+He documents the White House's leaked admission of munitions stockpile depletion, Ambassador Waltz's self-contradicting Meet the Press appearance (simultaneously blaming Biden, denying and admitting a shortfall, and calling for leakers to be prosecuted), and the post-July 23 escalation sequence where Iran continued attacking Bahrain, Jordan, Saudi Arabia, and Iraq after the US halted strikes. He outlines the likely shape of peace: Iran issues a non-concession statement on nuclear weapons, tacitly controls Hormuz through "administrative fees," gets assets unfrozen and sanctions wound down, and Trump declares victory — representing "the quickest and arguably the most decisive defeat in US history" [25]. See [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) and [Hormuz Ceasefire Collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html).
+
+## Hope Kills: The Trump Pivot Trap
+
+O'Brien's Weekend Update #196 (August 2, 2026) identifies his April 2026 Atlantic article — "Ukraine Has Finally Given Up on Trump" — as his biggest analytical mistake of the year. Ukrainian hope never extinguished and came roaring back in July when Trump briefly adopted a pro-Ukraine posture. Six major US press headlines between July 8–13 reported Trump's supposed pivot (Patriot production, Graham sanctions, praising Zelensky). None was true. Trump never agreed to a Patriot license, never backed the sanctions bill, and never pressured Russia. By July 31, Trump said he might not let Ukraine have Patriots — Ukrainians "can't be trusted." The Senate's bastardized Graham bill increases Trump's tariff powers rather than sanctioning Russia [26].
+
+O'Brien offers two interpretations: the mainstream press version (Trump honestly pivoted, then reverted) versus his own — Trump never changed his fundamental beliefs; he maneuvered for political benefit and to help Putin. The result: 1 of 27 ballistic missiles intercepted, 19 Ukrainians killed in two days, and another month of unrestricted Russian bombardment. He is "most angry at the sloppy, delusional, and frankly moronic western press and analytical community that refuses to admit what Trump is and is doing." The framework's prescription: hope in Trump kills — literally — and the strategy of flattering Trump has demonstrably failed for 18 months [26]. See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), [Ukraine Air Defense Crisis]({{ site.baseurl }}/events/ukraine-air-defense-crisis-2026.html), and [Fedorov Dismissal]({{ site.baseurl }}/events/fedorov-dismissal-2026.html).
+
 # Track Record
 
 **Resolved**
 
 - 2026-07 (Weekend Update #195) — predicted that if Zelensky kept Fedorov permanently sidelined, the Drapatyi command-change crisis would not resolve to the best outcome. Consistent with the qualified, "not the best" reading O'Brien gave at the time [22].
+- 2026-04 (Atlantic article) — predicted Ukraine had "finally given up on Trump." **Miss.** Ukrainian hope in Trump resurged in July 2026, with Zelensky requesting Starlink access via Trump/Musk at the Graham funeral meeting. O'Brien identifies this as his biggest mistake of the year: he underestimated the persistence of Ukrainian hope and the effectiveness of Trump's deceptive pivot pattern. The miss was methodological — he read Ukraine's April posture as structural rather than tactical [26].
 
 **Open**
 
 - 2026-07-22 (Midweek Update #20) — doubts the US could win even the opening battles of a China war, given post-Iran-war interceptor depletion [20]. This is the O'Brien side of the `## Contested: Is the US in decline?` block in [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html), where Beckley's structural-durability reading takes the opposite side. Resolves as allied readiness metrics and Ankara Summit follow-through become observable.
+- 2026-07-29 (Midweek Update #21) — the war will end with Iran getting most of what it wants, including tacit Hormuz control, asset release, and sanctions unwind — packaged by Trump as victory but representing "the quickest and arguably most decisive defeat in US history" [25]. Resolves as the peace settlement terms become observable.
 - Standing (war-termination framework) — the Russia-Ukraine war ends only once both Putin and Zelensky independently conclude a settlement beats continued fighting; O'Brien identifies no such condition met yet [21]. No date attached, so treat as a standing structural forecast rather than a near-term call.
 - Standing (leader-choice framework) — O'Brien's foundational claim that wars are choices of individual leaders, not state structures, is the O'Brien side of the recurring agency-vs-structure fault line; see [Analytical Fault Lines]({{ site.baseurl }}/themes/analytical-fault-lines.html) for where GPF/Friedman's structural counter-reading currently stands.
 
@@ -147,6 +167,9 @@ The framework has immediate diagnostic application to the [United States]({{ sit
 - "Scenarios For Ending The Russo-Ukraine War" [21]
 - "Weekend Update #195: The Worst Week Becomes Much Better (But Not The Best)" [22]
 - "It Is All One" [23]
+- "Is China Going In For The Kill" [24]
+- "Midweek Update 21: Iran Is Toying With The USA" [25]
+- "Weekend Update 196: The Week When Hope Killed, Literally" [26]
 
 # Citations
 
@@ -195,3 +218,9 @@ The framework has immediate diagnostic application to the [United States]({{ sit
 [22] [Weekend Update #195: The Worst Week Becomes Much Better (But Not The Best)](https://phillipspobrien.substack.com/p/weekend-update-195-the-worst-week)
 
 [23] Phillips P. O'Brien, "It Is All One", 2026-07-27 — [https://phillipspobrien.substack.com/p/it-is-all-one](https://phillipspobrien.substack.com/p/it-is-all-one)
+
+[24] Phillips P. O'Brien, "Is China Going In For The Kill", 2026-08-01 — [https://phillipspobrien.substack.com/p/is-china-going-in-for-the-kill](https://phillipspobrien.substack.com/p/is-china-going-in-for-the-kill)
+
+[25] Phillips P. O'Brien, "Midweek Update 21: Iran Is Toying With The USA", 2026-07-29 — [https://phillipspobrien.substack.com/p/midweek-update-21-iran-is-toying](https://phillipspobrien.substack.com/p/midweek-update-21-iran-is-toying)
+
+[26] Phillips P. O'Brien, "Weekend Update 196: The Week When Hope Killed, Literally", 2026-08-02 — [https://phillipspobrien.substack.com/p/weekend-update-196-the-week-when](https://phillipspobrien.substack.com/p/weekend-update-196-the-week-when)

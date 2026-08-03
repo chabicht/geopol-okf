@@ -10,7 +10,7 @@ tags:
   - military
   - europe
 status: ongoing
-timestamp: 2026-07-31T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -141,6 +141,22 @@ Russia is conducting a systematic [resettlement campaign]({{ site.baseurl }}/eve
 
 Wang & Beauchamp-Mustafaga identify the Russia-Ukraine War as [China]({{ site.baseurl }}/actors/countries/china.html)'s best example of national total war in practice. Chinese military analysts derived a key lesson: the [United States]({{ site.baseurl }}/actors/countries/united-states.html) significantly enhanced Ukrainian military lethality using non-military tools — economic sanctions against Russia, Starlink civilian satellite communication services enabling Ukrainian military command and control, intelligence declassification, cyber capabilities, and coordinated strategic messaging. Chinese analysts interpret the early public assessment by U.S. officials that the war would end quickly as a deliberate strategic deception campaign — a "cognitive smoke bomb" — designed to induce Russian underestimation of Ukrainian forces and contribute to operational defeat. For Beijing, Ukraine demonstrates how national total war integrates civilian and military capabilities across domains, with non-military instruments producing decisive military effects [31]. However, China recognizes it cannot simply replicate the U.S. approach. Beijing lacks broad alliance networks capable of imposing coordinated sanctions, does not control major financial chokepoints like the petrodollar, and has no resilient megaconstellations comparable to Starlink. Beijing also publicly assesses that it lags the United States in strategic messaging and disinformation capabilities. These gaps motivate continued investment in military-civil fusion and civilian capacity-building, with the 15th Five-Year Plan prioritizing the strategic capabilities necessary for executing national total war [31]. See [China]({{ site.baseurl }}/actors/countries/china.html) and [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html).
 
+## The Trump Pivot Pattern Returns: Hope Kills
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) identifies his April 2026 Atlantic article — "Ukraine Has Finally Given Up on Trump" — as his biggest analytical mistake of the year. Ukrainian hope in the Trump administration never extinguished; it came roaring back in July when Trump briefly adopted a pro-Ukraine posture. Six major US press headlines between July 8–13 reported Trump's supposed pivot: praising Zelensky, allowing Patriot production, backing Graham-Blumenthal sanctions. None was true. Trump never agreed to a Patriot license, never backed the sanctions bill, and never pressured Russia. By end of July, Trump publicly said he might not let Ukraine have Patriots — citing that Ukrainians "can't be trusted" with the technology and might use it against the US. The Senate's bastardized Graham bill does not sanction Russia but increases Trump's tariff powers. Trump returned to public alignment with Putin, posting that Russia's war should have been won in "one day" in early 2022 but Russian tanks got stuck in mud [43].
+
+O'Brien offers two interpretations: the mainstream press version (Trump honestly pivoted, then had another change of heart) versus his own reading — Trump never changed his fundamental beliefs; he maneuvered for political benefit and to help Putin. The US press, official Washington, and Ukrainians all fell for it. The result: another month wasted trying to persuade Trump to be something he is not, while Putin received more time to bombard Ukrainians by air. The casualty toll: on July 30, at least 10 Ukrainians killed in Russian ballistic missile attacks; the next night, 9 more killed. Ukraine intercepted only 1 of 27 ballistic missiles fired [43]. See [Ukraine Air Defense Crisis 2026]({{ site.baseurl }}/events/ukraine-air-defense-crisis-2026.html) and [Trump]({{ site.baseurl }}/actors/trump.html).
+
+## Drapatyi's Reform Program and the Fedorov-Drapatyi Alignment
+
+General Mykhailo Drapatyi, the new Commander-in-Chief, immediately introduced policies to reduce casualties. On July 29, the Ukrainian General Staff announced a comprehensive manpower audit covering brigades, regiments, and corps — assessing actual manning, analyzing personnel distribution, and identifying improvements. On July 31, Ukrainska Pravda reported that Drapatyi had ordered (on July 26) the suspension of personnel replenishment to four assault regiments — units prized by Syrskyi that had the ability to take men from other parts of the army and suffered high losses. These regiments were part of Syrskyi's "hold all land at high cost" strategy [43].
+
+Russian casualties are reaching extraordinary levels. Monthly figures for 2026: January 31,710; February 26,090; March 31,960; April 32,980; May 33,760; June 39,290; July 42,860 (a record for 2026) — totaling 191,650 for January through July [43]. Drapatyi's philosophy aligns with Fedorov's: machines and robots must do the fighting whenever possible, not human beings. Fedorov stated in a NYT interview: "I am absolutely convinced that robots and drones should be doing the fighting wherever possible… armies equipped with cheap, smart and mass-produced weapons will survive in a new era of warfare" [43]. The alignment between Drapatyi's military command and Fedorov's technology-first approach represents a potential war-winning combination — but Zelensky's determination to keep Fedorov out limits its realization. See [Fedorov Dismissal]({{ site.baseurl }}/events/fedorov-dismissal-2026.html) and [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html).
+
+## The Black Sea Grain Shipping Crisis
+
+Russia has been waging a campaign to destroy shipping in and out of Ukrainian ports. Between June 20 and July 20, 2026, Russian forces hit 28 merchant vessels around Odesa, killing 21 sailors — the largest single loss being a corn-laden vessel under Guinea-Bissau flag where 10 sailors died. On July 22, not a single merchant ship entered Ukrainian waters to load grain — at peak harvest season. Ukrainian Foreign Minister Sybiha tweeted: "Russia is holding global food security hostage… Just as Iran targeted energy routes in the Strait of Hormuz, Russia is now targeting global food markets in the Black Sea" [43]. The crisis underscores the parallel between the two theaters: Russia makes money selling oil, Ukraine makes money selling grain, and both commodities must go out by sea. See [Geoeconomics of Water]({{ site.baseurl }}/themes/geoeconomics-of-water.html) and [Food and Agriculture]({{ site.baseurl }}/themes/food-and-agriculture.html).
+
 # Citations
 
 [1] https://substack.com/@velinatchakarova/p-204418261
@@ -218,3 +234,5 @@ Wang & Beauchamp-Mustafaga identify the Russia-Ukraine War as [China]({{ site.ba
 [41] Phillips O'Brien, "It Is All One", 2026-07-28 — [https://phillipspobrien.substack.com/p/it-is-all-one](https://phillipspobrien.substack.com/p/it-is-all-one)
 
 [42] Velina Tchakarova, "The Triumvirate of Happiness amid Two Wars, One Continuum", 2026-07-30 — [https://substack.com/@velinatchakarova/p-209080577](https://substack.com/@velinatchakarova/p-209080577)
+
+[43] Phillips P. O'Brien, "Weekend Update 196: The Week When Hope Killed, Literally", 2026-08-02 — [https://phillipspobrien.substack.com/p/weekend-update-196-the-week-when](https://phillipspobrien.substack.com/p/weekend-update-196-the-week-when)

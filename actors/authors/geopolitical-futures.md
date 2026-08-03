@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Strategic analysis publication providing structured geopolitical assessments with maps and structural drivers — covering great power competition, Middle East security architecture, alliance evolution, rare earth supply chains, and Eurasian realignment. Publishes the monthly GeoEconomicLens report examining the global economy through a geopolitical lens.
 tags: [author, framework]
 status: ongoing
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -54,6 +54,18 @@ The analysis traces specific Houthi actions as instruments of political coercion
 
 GPF's broader argument concerns the cohesion of Iran's proxy network as Tehran's position deteriorates. As Iran loses influence through successive military setbacks, economic pressure, and the weakening of allied groups, the Houthis' standing relative to the internationally recognized government in Aden declines, giving them every incentive to demonstrate coercive power independent of Iran. The Houthis have also capitalized on the Saudi-Emirati rift over Yemen's political future — Riyadh backing the Aden government while Abu Dhabi supports the Southern Transitional Council — which prevents a united anti-Houthi front and grants the movement room to consolidate control in northern Yemen. GPF concludes that as Iran's position deteriorates, the cohesion of its regional network will depend increasingly on the independent calculations of its members rather than direction from Tehran, a dynamic that limits Iran's ability to offset conventional military losses through its partners and explains why the regional balance of power is shifting against Iran despite sporadic "successes" in the Red Sea and the Gulf [30].
 
+## Azerbaijan as Strategic Pivot
+
+George Friedman (GPF) assesses [Azerbaijan]({{ site.baseurl }}/actors/countries/azerbaijan.html) as a small but disproportionately significant state whose geography at the intersection of [Russia]({{ site.baseurl }}/actors/countries/russia.html), [Iran]({{ site.baseurl }}/actors/countries/iran.html), and [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) makes it a natural arena for great-power competition. The 2023 Nagorno-Karabakh victory, achieved with Turkish support, cemented Azerbaijan's military credibility and consolidated the Turkey-Azerbaijan axis. The Trump Route for International Peace and Prosperity (TRIPP) — a US-mediated Armenia-Azerbaijan agreement connecting Azerbaijan to its Nakhchivan exclave along the Iranian border — elevates Azerbaijan from a terminal energy node to a transit hub linking the [Caspian Sea]({{ site.baseurl }}/regions/caspian.html) to Turkey and Europe. Friedman emphasizes the Iran-Azerbaijan border as a sensitive zone: Azeris are Iran's third-largest ethnic group at roughly 25% of the population, giving Azerbaijan potential influence over Iran's internal dynamics. Israel's deep partnership with Azerbaijan since independence adds a further layer, providing Israel with a strategic perch on Iran's northern border. Friedman frames the [South Caucasus]({{ site.baseurl }}/regions/south-caucasus.html) as "in some ways the soft underbelly of Russia" — a region where Moscow's grip has weakened as the Ukraine war degrades its capacity to project power southward [32].
+
+## Caspian War Convergence
+
+Kamran Bokhari (GPF) identifies the [Caspian Sea]({{ site.baseurl }}/regions/caspian.html) as the basin where two geographically distant wars — the US-vs-Iran conflict centered on the Gulf and the Russia-vs-Ukraine conflict centered on the Black Sea — are converging. The dynamic is driven by the Iran-Russia military relationship: Russia relies on Iranian Shahed drones, drone-production expertise, artillery shells, and short-range ballistic missiles, receiving in return advanced drones and tactical intelligence. This arms-smuggling route traverses the Caspian, making the sea a logistics artery for one war and a potential target in the other. Bokhari documents the escalation sequence: Israel's March 2026 strike on Bandar Anzali opened the Caspian as a theater; Ukraine's July 26 strike on an Iranian cargo vessel linked the two wars directly. Iran considered retaliating against a Ukrainian Black Sea port before diplomacy de-escalated. Bokhari notes that the six trans-Caspian states have a shared incentive to keep the Caspian a commercial waterway through the Middle Corridor, but warns that if Tehran continues expanding the conflict while pressure mounts on Washington, the US could shift to attacking Iranian Caspian assets directly [33].
+
+## Pacific Order and China's SLBM Test
+
+Ronan Wordsworth (GPF) analyzes [China]({{ site.baseurl }}/actors/countries/china.html)'s July 6, 2026 JL-3 SLBM test — the first publicly acknowledged submarine-launched ballistic missile test into open international waters — as a demonstration of second-strike capability that simultaneously catalyzed Pacific Island backlash and Australian alliance-building. The missile traveled approximately 7,300km from a South China Sea launch point, landing in the South Pacific Nuclear Free Zone established by the 1985 Treaty of Rarotonga. Pacific Island leaders from Tuvalu, Vanuatu, Palau, and Solomon Islands condemned the test, invoking the region's Cold War nuclear testing legacy — but the 18-member Pacific Islands Forum failed to agree on a collective statement, revealing China's diplomatic clout. Wordsworth documents a de facto US-Australia division of labor: the US manages the Compacts of Free Association with Palau, the Marshall Islands, and Micronesia in the Northern Pacific, while [Australia]({{ site.baseurl }}/actors/countries/australia.html) serves as day-to-day security partner across the South Pacific. Australia's emerging alliance architecture — the Ocean of Peace Alliance with Fiji (signed the same day as the JL-3 test), the Pukpuk Mutual Defense Treaty with PNG, and the Nakamal Agreement with Vanuatu — is supplemented by financial dominance: $1.5 billion in official development finance in 2024 (37% of the regional total) and $2.4 billion in new Pacific loan agreements since 2021, displacing China as the top bilateral lender. Chinese annual lending has declined to approximately $91 million since 2020, yet roughly 40% of Pacific infrastructure projects since 2008 have involved Chinese SOEs — a structural presence that reduced lending does not eliminate [34].
+
 # Track Record
 
 **Open**
@@ -99,6 +111,9 @@ Per rules.md §8.5, "GPF" is not one analytical voice — see the Analyst Bench 
 - "Choking the Grain Trade" [29]
 - "The Houthis Are Not Fighting Iran's War" [30]
 - "Thinking About Iran's Strategy" [31]
+- "Azerbaijan: Very Small, Very Significant" [32]
+- "The Risks of Conflict Expansion from the Gulf to the Caspian" [33]
+- "What China's Missile Test Says About the Pacific Order" [34]
 
 # Citations
 
@@ -163,3 +178,9 @@ Per rules.md §8.5, "GPF" is not one analytical voice — see the Analyst Bench 
 [30] [The Houthis Are Not Fighting Iran's War](https://geopoliticalfutures.com/the-houthis-are-not-fighting-irans-war/)
 
 [31] [Thinking About Iran's Strategy](https://geopoliticalfutures.com/thinking-about-irans-strategy/)
+
+[32] George Friedman, "Azerbaijan: Very Small, Very Significant", 2026-08-03 — [https://geopoliticalfutures.com/azerbaijan-very-small-very-significant/](https://geopoliticalfutures.com/azerbaijan-very-small-very-significant/)
+
+[33] Kamran Bokhari, "The Risks of Conflict Expansion from the Gulf to the Caspian", 2026-07-30 — [https://geopoliticalfutures.com/the-risks-of-conflict-expansion-from-the-gulf-to-the-caspian/](https://geopoliticalfutures.com/the-risks-of-conflict-expansion-from-the-gulf-to-the-caspian/)
+
+[34] Ronan Wordsworth, "What China's Missile Test Says About the Pacific Order", 2026-07-31 — [https://geopoliticalfutures.com/what-chinas-missile-test-says-about-the-pacific-order/](https://geopoliticalfutures.com/what-chinas-missile-test-says-about-the-pacific-order/)

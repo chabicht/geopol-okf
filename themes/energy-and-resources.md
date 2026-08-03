@@ -9,7 +9,7 @@ tags:
   - trade
   - supply-chain
 status: ongoing
-timestamp: 2026-07-31T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -142,6 +142,12 @@ The Honest Sorcerer frames the convergence as the opening stage of a climactic c
 
 Brent crude has crossed the psychological and structural threshold of USD 100 for the first time since May, settling at USD 100.69 — a single-session gain of approximately 7 percent and a rise of roughly 30 percent from the USD 71.57 level recorded on 1 July. RBC's Helima Croft has stated that extreme pressure could send Brent above the 2022 war-driven high of USD 128 and, in a full regional war scenario, toward the 2008 peak of USD 146. This range should now anchor stress-testing rather than the USD 90 to 95 range carried through prior assessments. The Kazakhstan suspension and confirmed Houthi tanker strikes together explain the price movement: both events occurred within the same assessment window, and both contribute to a supply picture in which the risk premium is no longer driven solely by Gulf chokepoint dynamics [31]. See [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html).
 
+## The Diesel Crunch Deepens: Goldman Sachs Data and the 2026-2027 Cascade
+
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) supplies the most recent quantitative picture of the diesel crisis, drawing on Goldman Sachs analysis. Global diesel exports dropped approximately 35% — a loss of 2.6 million barrels per day — and July 2026 refining throughput was 6.5 million bpd lower than July 2025. The Jazan refinery (400,000 bpd), shut by a Houthi strike, was a major producer of ultra-low-sulfur diesel. The Caspian Pipeline Consortium (1.4 million bpd of Kazakh crude) was shut down. Russia extended its diesel and gasoline export ban to 2027, closing off another source of supply. Goldman Sachs identifies the diesel crunch as the single biggest threat in oil markets — not crude supply, but refined product availability [34].
+
+War fuel consumption compounds the civilian demand: the US military averages 270,000 barrels per day; the Air Force alone consumes approximately 2 billion gallons of aviation fuel annually. AI data center demand adds a new competitor for energy throughput — gigawatt-scale facilities consuming the output of a nuclear plant or 24/7 gas turbines, with massive water requirements and construction logistics requiring hundreds of truckloads. The US generated 28% more electricity from oil in 2025 than in 2024, reversing the decarbonization trajectory. The convergence of war-driven supply destruction, export bans, and AI-driven demand growth points toward a structural diesel shortage that cascades through agriculture, mining, transport, and military logistics — the vicious cycle of less and less-available fuel producing less and less material output [34]. See [Food and Agriculture]({{ site.baseurl }}/themes/food-and-agriculture.html).
+
 # Citations
 
 [1] [The Myth of American Energy Independence](https://thehonestsorcerer.substack.com/p/the-myth-of-american-energy-independence)
@@ -209,3 +215,5 @@ Brent crude has crossed the psychological and structural threshold of USD 100 fo
 [32] Robert Pape, "Why July Red Sea Front = August Energy Shock", 2026-07-28 — [https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy](https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy)
 
 [33] Javier Blas, "Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy", 2026-07-28 — [https://archive.ph/eLoT5](https://archive.ph/eLoT5)
+
+[34] The Honest Sorcerer, "No Oil, No Food", 2026-07-31 — [https://thehonestsorcerer.substack.com/p/no-oil-no-food](https://thehonestsorcerer.substack.com/p/no-oil-no-food)

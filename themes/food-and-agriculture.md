@@ -8,7 +8,7 @@ tags:
   - economics
   - supply-chain
 status: ongoing
-timestamp: 2026-07-31T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -95,6 +95,14 @@ For [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html), Russian missile
 
 The global supply picture offers no relief. The USDA revised its 2026–27 U.S. wheat production forecast to 42.45 million metric tons — the lowest in 54 years — driven by severe drought. Hot weather in Western Europe threatens wheat crops, and prolonged rains in Canada's Alberta and Saskatchewan provinces risk crop damage. The [Iran war]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) has raised prices for fuel, fertilizer, and maritime transport, compounding grain production costs globally. A prolonged suspension of navigation through the peak export period from August to December would significantly worsen the outlook. Much rests on the revival of the now-dead grain deal [11].
 
+## The 2026-2027 Food Crisis Forecast: Haber-Bosch Dependency and AI Competition
+
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) constructs the most comprehensive forecast of an imminent food crisis, arguing that 2026-2027 will see a "remarkable drop in food and agricultural input availability, massive food shortages and even famine and riots." The thesis rests on four converging vectors: the diesel crunch crippling agricultural machinery and fertilizer logistics, the structural oil-food dependency of industrial agriculture, AI data center demand competing with agriculture for energy and water, and Earth Overshoot Day arriving on July 30 — the 56th consecutive year of overshoot since 1971. Even if all 8.3 billion people lived like Hondurans or Cambodians, the world would still exhaust a year's worth of natural resources in eleven months [13].
+
+The Haber-Bosch dependency is the critical structural vulnerability. Natural gas feeds ammonia production via the Haber-Bosch process; the world population supported without synthetic fertilizer is approximately 4 billion, versus 8 billion with it. Sulfuric acid, essential for phosphate and potash fertilizer processing, is 99% derived from crude oil — one-third from the Middle East. Agricultural machinery is diesel-powered; lubricants derive from oil; fertilizers are mined by diesel equipment. The entire food supply chain is a fossil fuel derivative. America's wheat harvest is set to fall to its lowest level in 150 years, and US farm income is projected to drop 0.7% [13].
+
+AI data center demand introduces a new competitor for the resources agriculture needs. Gigawatt-scale data centers consume the output of a nuclear plant or 24/7 gas turbines; their construction requires hundreds of truckloads; their water consumption diverts from agricultural use. The US generated 28% more electricity from oil in 2025 than in 2024 — a reversal driven by AI demand that directly competes with the energy inputs agriculture requires. The Honest Sorcerer warns that "a permanent loss of carrying capacity" cannot be excluded, and that the trajectory points toward "a financial crisis and an economic depression not seen since the 1930s." The world has passed peak agricultural land use: a third of forests cleared, two-thirds of wild grasslands lost. The vicious cycle — less and less-available fuel producing less and less material and food — is now structurally embedded [13]. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html).
+
 # Citations
 
 [1] [The Persian Polycrisis](https://thehonestsorcerer.substack.com/p/the-persian-polycrisis)
@@ -122,3 +130,5 @@ The global supply picture offers no relief. The USDA revised its 2026–27 U.S. 
 [11] [Choking the Grain Trade](https://geopoliticalfutures.com/choking-the-grain-trade/)
 
 [12] [Regenerative Ag Doesn't Scale (And That's Okay!)](https://sarahmock.substack.com/p/regenerative-ag-doesnt-scale-and)
+
+[13] The Honest Sorcerer, "No Oil, No Food", 2026-07-31 — [https://thehonestsorcerer.substack.com/p/no-oil-no-food](https://thehonestsorcerer.substack.com/p/no-oil-no-food)

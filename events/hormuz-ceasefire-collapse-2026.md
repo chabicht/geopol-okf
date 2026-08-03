@@ -7,7 +7,7 @@ event_date: 2026-07-07
 actuality: actual
 tags: [energy, middle-east, military, kinetic]
 status: ongoing
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -94,6 +94,12 @@ On July 18, Iran crossed another escalation threshold: instead of concentrating 
 
 [Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) documents the full operational tempo of the reignition that produced the conditions Pape analyzed day by day. Trump declared the ceasefire formally over on July 8 at the [Ankara Summit]({{ site.baseurl }}/events/nato-ankara-summit-2026.html); the military meaning became clear over five consecutive days. July 11: CENTCOM struck approximately 140 targets and set terms (open the strait, halt shipping attacks, surrender enriched uranium); the IRGC struck the *GFS Galaxy* and declared Hormuz closed. July 12: US strikes on Qeshm Island, Bandar Abbas, Hajiabad; first use of one-way attack drones this campaign; Iran fired its widest missile/drone volley yet at UAE, Qatar, Kuwait, Bahrain, Oman, and Jordan. July 13: Five-hour US strike wave on Bushehr, Chah Bahar, Jask, Konarak, Abu Musa, Bandar Abbas; IRGC missiles struck two UAE-flagged tankers in Omani waters — 1 Indian crew killed; oil price spiked almost 10%. July 14: Third consecutive night of coastal strikes; Trump reinstated the [naval blockade]({{ site.baseurl }}/events/us-naval-blockade-iran.html) and threatened infrastructure (bridges, power plants) next. July 15: Seven-hour fourth-night strike wave plus a separate round on Greater Tunb Island; an empty tanker disabled with Hellfire missiles for ignoring the blockade; Kuwait intercepted Iranian missiles. July 16: Fifth consecutive day of strikes; Trump reportedly weighing ground operations and bombing an underground site linked to Iran's nuclear program. See [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) for the consolidated account [14].
 
+## Post-July 23: Iran Continues While US Halts
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) documents that after the US concluded its thirteen-night strike campaign on July 23, Iran continued attacking — demonstrating that no ceasefire existed. The sequence: July 24 saw Arash drones strike Isa Air Base (Bahrain) and Al-Azraq/Muwaffaq Salti Air Base (Jordan), with Jordan's military intercepting 7 missiles and 6 drones. July 25 brought Houthi strikes on Aramco facilities at Jizan and Yanbu (confirmed by NASA FIRMS thermal data; Aramco shut the Jizan refinery on July 27). July 27 opened a new proxy front as Iran-backed Iraqi groups attacked Saudi Eastern Province petroleum facilities. July 28–29 saw US reprisal strikes in Iraq and parallel Iranian strikes on Jordan. O'Brien's framing: Trump wants out, but Iran will not let him — "Iran is toying with the USA" [16].
+
+Iran's strategic calculus, as O'Brien reconstructs it, treats time as a weapon: the longer the war drags, the closer to November midterms, the more desperate Trump becomes, the stronger Iran's leverage. Iran rejected a return to negotiations approximately six days before the article and escalated instead. The war is "the least popular war in US history," with the GOP already panicking. Iran threatens US allies to expose US unreliability, implicitly asking regional states whether they can rely on Washington or should cut their own deals with Tehran [16].
+
 # Citations
 
 [1] [Suddenly, Hormuz is Less Crucial Than It Was](https://paulkrugman.substack.com/p/suddenly-hormuz-is-less-crucial-than)
@@ -125,3 +131,5 @@ On July 18, Iran crossed another escalation threshold: instead of concentrating 
 [14] [Midweek Update #19: What Do We Know?](https://phillipspobrien.substack.com/p/midweek-update-19-what-do-we-know)
 
 [15] [Is Iran Controlling the Gulf Conflict?](https://www.thecipherbrief.com/is-iran-controlling-the-gulf-conflict)
+
+[16] Phillips P. O'Brien, "Midweek Update 21: Iran Is Toying With The USA", 2026-07-29 — [https://phillipspobrien.substack.com/p/midweek-update-21-iran-is-toying](https://phillipspobrien.substack.com/p/midweek-update-21-iran-is-toying)

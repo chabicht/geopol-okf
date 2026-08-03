@@ -5,7 +5,7 @@ parent: Countries
 description: The United States as a geopolitical actor — superpower facing military overstretch, diplomatic erosion, domestic institutional degradation, oligarchic capture, and an unresolved AI military integration gap
 tags: [country, military, ai, nuclear, energy, intelligence, middle-east, indo-pacific, latin-america, europe, oligarchy]
 status: ongoing
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -152,6 +152,12 @@ The US-Japan alliance is adapting to a new form of sustained short-of-war pressu
 
 The [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) has directly undermined US force posture in the [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html), creating tensions within the alliance. Ueki documents how the 31st Marine Expeditionary Unit and amphibious warship USS Tripoli were deployed from US Forces Japan to the Middle East, and Marine Commandant General Eric Smith testified that the gap in the Marine Corps' ability to deter adversaries in the Indo-Pacific remains unfilled — prompting public and legislative concern in [Japan]({{ site.baseurl }}/actors/countries/japan.html). US munitions depletion from the Iran war — approximately half of key munitions used in 39 days — has cascading effects on allied readiness. Tomahawk deliveries to Japan have been delayed by up to four years, impeding Japan's plans to rapidly strengthen its counterstrike capability. The structural problem is an offense-defense cost imbalance: 1,900 to 3,000 interceptors consumed in less than two weeks of the Iran war against a production capacity of 600 Patriot PAC-3 per year, while [China]({{ site.baseurl }}/actors/countries/china.html) dominates drone production through companies like DJI (over 70 percent market share). The Hegseth-Koizumi Operation Supercharge agreement in May 2026 — accelerating codevelopment and coproduction of SM-3 Block IIA and AMRAAM missiles — represents a structural shift toward allied industrial-base cooperation, but the production timelines mean near-term gaps will persist [47]. See [Japan]({{ site.baseurl }}/actors/countries/japan.html), [Taiwan Standoff]({{ site.baseurl }}/conflicts/taiwan-standoff.html), and [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
 
+## The Four-Pillar Erosion Framework
+
+[Paul Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html) argues that [Trump]({{ site.baseurl }}/actors/trump.html) has "shattered American power" with astonishing speed, dismantling four residual US advantages that persisted until roughly 2024. First, **science and cutting-edge technology leadership** — Trump officials orchestrated attacks on scientists, driving talent toward Canada, Europe, and [China]({{ site.baseurl }}/actors/countries/china.html). Second, **military technological dominance** — Secretary Hegseth's "pro-testosterone, anti-intellectual leadership" has driven the military's reputation into a nose-dive; a CSIS December 2025 report documented that the Chinese supply chain underpins modern drone warfare. Third, **dollar weaponization** — Iran's ability to sell oil rested on payment in yuan; ships paying Hormuz passage also paid in yuan or cryptocurrency, meaning the dollar's coercive power has been "greatly reduced." Fourth, **the alliance system** — Trump torpedoed alliances on day one, demanding Canada become the 51st state and Denmark hand over Greenland. All four pillars were squandered without adversary action; the erosion is self-inflicted [48].
+
+The Pew favorability collapse quantifies the damage. In 12 countries surveyed, [China]({{ site.baseurl }}/actors/countries/china.html)'s favorability surpassed the [United States]({{ site.baseurl }}/actors/countries/united-states.html) between 2023 and 2026. The sharpest swings occurred in core allies: Germany (US favorability fell from 57% to 27%, while China's rose from 19% to 33%), Sweden (55% to 19% vs. 12% to 27%), and Australia (52% to 24% vs. 13% to 31%). The pattern is not a Chinese charm offensive but American self-destruction — the crossover is driven by the collapse of US standing rather than the rise of Chinese popularity. On manufacturing, China overtook the US in 2010; the US and EU combined still produce more, but that alliance advantage is fading. The cumulative assessment: "When future historians write about this tale of self-immolation, they may well do so in Mandarin" [48]. See [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) and [Sanctions and Financial Warfare]({{ site.baseurl }}/themes/sanctions-and-financial-warfare.html).
+
 # Citations
 
 [1] The Honest Sorcerer, "The Big Picture" — [https://thehonestsorcerer.substack.com/p/the-big-picture](https://thehonestsorcerer.substack.com/p/the-big-picture)
@@ -247,3 +253,5 @@ The [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) has direct
 [46] [Beyond Deterrence: Evolving China-Russia Military Coordination and the U.S.-Japan Alliance](https://www.csis.org/analysis/beyond-deterrence-evolving-china-russia-military-coordination-and-us-japan-alliance)
 
 [47] [China and CRINK: Implications for Japan and the United States](https://www.csis.org/analysis/china-and-crink-implications-japan-and-united-states)
+
+[48] Paul Krugman, "How China Won the Iran War", 2026-08-03 — [https://paulkrugman.substack.com/p/how-china-won-the-iran-war](https://paulkrugman.substack.com/p/how-china-won-the-iran-war)

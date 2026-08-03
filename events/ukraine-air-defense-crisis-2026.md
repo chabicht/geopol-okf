@@ -7,7 +7,7 @@ tags: [military, air-defense, missile, europe]
 event_date: 2026-07-06
 actuality: actual
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -57,8 +57,18 @@ O'Brien identifies critical unanswered questions about Trump's Patriot license p
 
 The fact that Russia is upping its strike rate — three attacks on Kyiv in six days — precisely as Ukraine is running out of Patriot interceptors shows Russian awareness of the help Trump has provided and will continue to provide. For at least a year, if not longer, Russia can do extensive damage with ballistic missiles knowing Ukraine has few options to shoot them down [1].
 
+## The Interception Collapse
+
+By end of July 2026, the interception crisis reached its nadir: Ukraine intercepted only 1 of 27 ballistic missiles fired on August 1, 2026. The preceding days produced mounting casualties: at least 10 Ukrainians killed on July 30, and 9 more killed the next night [3]. Russia is escalating its strike rate precisely as Ukrainian interceptor stocks deplete, exploiting the window before Western systems can arrive [1].
+
+## Trump's Patriot Denial
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) documents that Trump's July "pivot" to Ukraine — widely reported as allowing Patriot production and backing sanctions — was entirely hollow. By July 31, Trump publicly said he might not let Ukraine have Patriots, citing that Ukrainians "can't be trusted" with the technology and might use it against the US. The Senate's Graham-Blumenthal bill, even if passed, does not sanction Russia but increases Trump's tariff powers. Trump returned to public alignment with Putin. O'Brien's assessment: Trump never changed his fundamental beliefs; the pro-Ukraine posture was a maneuver for political benefit. The result: another month of unrestricted Russian ballistic missile bombardment while Ukraine cannot shoot back [3].
+
 # Citations
 
 [1] [Weekend Update #193: What Is Happening In The Sea Of Azov?](https://phillipspobrien.substack.com/p/weekend-update-193-what-is-happening)
 
 [2] [The Worst NATO Summit In History](https://phillipspobrien.substack.com/p/the-worst-nato-summit-in-history)
+
+[3] Phillips P. O'Brien, "Weekend Update 196: The Week When Hope Killed, Literally", 2026-08-02 — [https://phillipspobrien.substack.com/p/weekend-update-196-the-week-when](https://phillipspobrien.substack.com/p/weekend-update-196-the-week-when)

@@ -15,6 +15,7 @@ permalink: /themes/
 * [Layered Security](layered-security.html) - Middle powers supplementing Cold War-era alliances with mission-limited, region-specific security arrangements
 * [Escalation Theory Critique](escalation-theory-critique.html) - Aurelien's critique of game theory and rational-actor models in contemporary conflicts
 * [Endless Warfare](endless-warfare.html) - Adversary strategy of persistent, below-threshold conflict by China, Russia, and Iran — gray zone, cognitive warfare, weaponized negotiations, proxy and illicit networks
+* [Iran's Security Resistance Belt](iran-security-resistance-belt.html) - IRGC doctrine connecting Persian Gulf, Red Sea, and Mediterranean into a unified strategic theater holding global maritime trade hostage
 * [Migration Policy](migration-policy.html) - Protection-vs-control tension in European migration governance; route-based externalization and the structural leverage transit states hold over destination states
 * [Analytical Fault Lines](analytical-fault-lines.html) - Recurring methodological splits among named analysts — agency vs structure, unitary vs factional actor modeling, alliance-as-real vs alliance-as-branding — and the standing register of contested calls they produce
 

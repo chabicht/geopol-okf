@@ -9,7 +9,7 @@ tags:
   - cyber
   - ai
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -93,6 +93,10 @@ Wang & Beauchamp-Mustafaga trace the evolution of [China]({{ site.baseurl }}/act
 
 The core innovation is the reframing of systems confrontation from information-paralysis to cognitive-engineering: warfare short of total annihilation should gear toward cognitively engineering the adversary's acceptance of defeat, with traditional military operations serving primarily to achieve cognitive effects rather than physical destruction. The target is not just command-and-control systems but civilian populations, whose perceptions, social cohesion, and will to resist are to be manipulated to induce surrender. However, Beijing publicly assesses that it lags the [United States]({{ site.baseurl }}/actors/countries/united-states.html) in strategic messaging and disinformation capabilities, and recognizes it lacks the alliance networks, financial chokepoints, and megaconstellations that the US leveraged in Ukraine. AI technologies are expected to make available new techniques and avenues for targeting civilians with cognitive effects as these concepts mature. U.S. wargames and analyses consistently underexplore the blending of kinetic and cognitive effects, rarely examining wartime cognitive attacks directly — a gap that leaves planners unprepared for the integrated campaigns Chinese military researchers are actively developing [9]. See [China]({{ site.baseurl }}/actors/countries/china.html) and [Taiwan Standoff]({{ site.baseurl }}/conflicts/taiwan-standoff.html).
 
+## TikTok Disinformation and the Far-Right Amplification Chain
+
+[Anne Applebaum]({{ site.baseurl }}/actors/authors/anne-applebaum.html) documents a cognitive warfare pattern that operates through civilian platforms rather than state operatives — the TikTok-to-far-right-politician amplification cycle. On July 31, 2026, a TikTok video went viral falsely claiming Spain's border was open, misreading a Spanish Supreme Court ruling on sea arrivals. The disinformation cascaded through X (JD Vance's "Invasion of the West" post garnered 4.79 million views) and was amplified by Nigel Farage, Robert Jenrick, Suella Braverman (UK), and Alice Weidel (AfD, Germany). The video's origin — Ceuta, a Spanish enclave in Morocco — was mischaracterized as "northern Spain," and the migrants could never have reached mainland Spain. By the time context corrections circulated, most migrants had returned to Morocco and 99 people were dead. The cycle — viral platform disinformation → far-right political amplification → policy panic — outpaces institutional fact-checking by orders of magnitude. This is cognitive warfare conducted through the adversary's own information ecosystem, weaponizing migration events through mischaracterization and transnational far-right networks. The pattern echoes the 2015 Syrian migrant wave's instrumentalization for Brexit and the German far-right's rise, now operating at faster speed through algorithmic amplification [10]. See [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html).
+
 # Citations
 
 [1] https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris
@@ -112,3 +116,5 @@ The core innovation is the reframing of systems confrontation from information-p
 [8] [Cybersicherheit im Gesundheitssektor](https://www.swp-berlin.org/publikation/cybersicherheit-im-gesundheitssektor)
 
 [9] [Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare](https://warontherocks.com/total-war-on-taipei-china-explores-elevating-cognitive-effects-into-its-vision-of-warfare/)
+
+[10] Anne Applebaum, "The Far-Right Playbook in Action", 2026-08-03 — [https://anneapplebaum.substack.com/p/the-far-right-playbook-in-action](https://anneapplebaum.substack.com/p/the-far-right-playbook-in-action)

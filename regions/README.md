@@ -15,3 +15,6 @@ permalink: /regions/
 * [Latin America](latin-america.html) - Rightward wave with militarized security turn and institutional fragility
 * [Arctic](arctic.html) - Strategic theater where digital sovereignty, submarine cable infrastructure, and great power competition converge
 * [Red Sea](red-sea.html) - Strategic maritime basin connecting the Mediterranean to the Indian Ocean; evolving from Houthi threat theater to interstate rivalry arena
+* [South Caucasus](south-caucasus.html) - Contested corridor between Russia, Iran, and Turkey; Karabakh legacy, Trump Route, and Caspian energy infrastructure
+* [Caspian Sea](caspian.html) - Contested maritime theater linking the Iran and Ukraine wars; six littoral states and growing military spillover risk
+* [Pacific Islands](pacific-islands.html) - Emerging security architecture; Australia-led minilateral pacts, US Compacts of Free Association, and China's contested diplomatic influence

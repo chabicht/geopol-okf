@@ -5,7 +5,7 @@ parent: Countries
 description: Turkey as a geopolitical actor — emerging as the Middle East's dominant power, capitalizing on Iran's decline to expand across Syria, Iraq, Lebanon, and the Horn of Africa, competing with Israel for regional influence, and pursuing independent defense cooperation outside NATO constraints
 tags: [country, military, drone-warfare, africa, nato, middle-east, naval, ideology]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -80,6 +80,14 @@ Turkey's strategic position is uniquely favorable. The US shift from Israel-cent
 
 The Israel-Turkey rivalry is emerging as the defining competitive dynamic in the post-Iran Middle East. Turkey's rise — with Washington's assent — represents for Israel its greatest challenge since making peace with Egypt nearly 50 years ago. The competition unfolds across Syria, the Red Sea, and Gaza, with port infrastructure and proxy relationships as the primary currencies of influence [3].
 
+## The Israel-Turkey Collision Course in Syria
+
+[The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) documents the structural rivalry operating beneath NATO alliance membership. On March 25, 2025, Israeli aircraft struck Syrian airfields — sites Turkey had surveyed for planned forward military bases. Ankara quietly shelved the deployment. The two governments run a deconfliction channel through Azerbaijani mediation, described as "strictly technical" — too thin a mechanism to carry what American guarantees used to hold. Since Assad's fall in December 2024, Turkey established itself as the dominant external patron of al-Sharaa's government; on July 19, 2026, al-Sharaa consolidated the security apparatus under Interior Minister Anas Khattab. Israel conducted approximately 988 air and artillery strikes in Syria in the seven months after Assad fell — nearly triple its previous rate — creating the forward operating environment Turkey's planned bases were meant to contest [10].
+
+Trump's July 7, 2026, Ankara visit delivered a "gift bag": lifting CAATSA sanctions (imposed 2020 over S-400 purchase), proceeding with F110 engines for Turkey's KAAN fighter, and a conditional F-35 offer. Trump declared Turkey had proven "a more loyal partner than some allies Washington once counted on." US Middle East policy now operates on commercial and strategic arithmetic: 85 million people, NATO's second-largest air force, a fast-growing arms industry, and control of the Bosporus. The State Department initiated rescission of Syria's state-sponsor-of-terrorism designation on July 8 (in place since 1979); Washington and Riyadh announced a nuclear cooperation agreement on July 22 [10].
+
+Turkey's Africa expansion accelerates in parallel. Turkey operates its largest overseas military base in Somalia, has trained 15,000+ soldiers, deployed F-16s and armor, and begun offshore oil drilling. Turkey's defense minister reports other African governments requesting the same security-and-investment package. Iran's regional network, degraded by the 2026 war, has left a vacuum Turkey is filling faster than anyone else. The collision course with Israel is structural: both powers are expanding into the same post-Iran vacuum in Syria, and the Baku-routed deconfliction hotline cannot prevent the trajectory collision that both parties' strategic logic is producing [10]. See [Israel]({{ site.baseurl }}/actors/countries/israel.html) and [NATO Ankara Summit 2026]({{ site.baseurl }}/events/nato-ankara-summit-2026.html).
+
 # Citations
 
 [1] Geopolitical Futures, "In Mali, Turkey Sees an Opening" — [https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/](https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/)
@@ -99,3 +107,5 @@ The Israel-Turkey rivalry is emerging as the defining competitive dynamic in the
 [8] [Ankara's Charm Offensive Should Not Buy Back the F-35](https://www.thecipherbrief.com/ankara-s-charm-offensive-should-not-buy-back-the-f-35)
 
 [9] [The EU's pragmatic turn toward the Taliban](https://www.theparliamentmagazine.eu/news/article/beyond-the-taliban-normalization-debate)
+
+[10] The Cipher Brief, "The New Fault Line: Israel and Turkey on a Collision Course", 2026-08-03 — [https://www.thecipherbrief.com/the-new-fault-line-israel-and-turkey-on-a-collision-course](https://www.thecipherbrief.com/the-new-fault-line-israel-and-turkey-on-a-collision-course)

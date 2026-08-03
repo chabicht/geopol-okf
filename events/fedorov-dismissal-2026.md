@@ -7,7 +7,7 @@ event_date: 2026-07-16
 actuality: actual
 tags: [drone-warfare, military, europe]
 status: concluded
-timestamp: 2026-07-26T23:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -73,6 +73,20 @@ A Rating Group poll released the week of the dismissal captured the immediate pu
 
 See [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) for the actor's broader doctrine, [Zelensky]({{ site.baseurl }}/actors/zelensky.html) for the cabinet-reshuffle pattern, and [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) for Fedorov's drone-innovation legacy.
 
+## Fedorov's Ukrainska Pravda Interview: The Pressure Campaign
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) documents Fedorov's most detailed public account of his ouster, given to Ukrainska Pravda on July 29. Fedorov revealed that he warned Zelensky in April that opponents would come with claims of "political ambitions," drone-company ownership, and disrupted processes — asking Zelensky to cross-check those claims. He described Ukraine's largest Telegram channels as "effectively bought" to work exclusively against him and his team, and reported that "criminal cases started to appear" involving people who worked with him. The pressure "ratcheted up month after month" until the government reshuffle removed him. Fedorov's framing: "when 90% of people are coming to you and saying, 'Something isn't right there,' then it may become difficult to see the situation objectively under that kind of pressure" [4].
+
+RBC Ukraine reports that people around Zelensky say there is no chance Fedorov comes back, despite continuing protests. Zelensky is getting his way on the dismissal [4].
+
+## Drapatyi's Reform Program
+
+General Drapatyi immediately introduced policies to reduce casualties. On July 29, the General Staff announced a manpower audit covering brigades, regiments, and corps. On July 31, Ukrainska Pravda reported that Drapatyi had ordered (on July 26) suspension of personnel replenishment to four assault regiments — units prized by Syrskyi that stripped personnel from other units and suffered high losses. Russian casualties are reaching extraordinary levels: July 2026 set a record of 42,860, bringing the 2026 total to 191,650 [4].
+
+Fedorov's NYT interview (July 31) aligns with Drapatyi's philosophy: "I am absolutely convinced that robots and drones should be doing the fighting wherever possible… armies equipped with cheap, smart and mass-produced weapons will survive in a new era of warfare." O'Brien identifies the alignment between Drapatyi's military command and Fedorov's technology-first approach as a potential war-winning combination — but Zelensky's determination to keep Fedorov out limits its realization [4].
+
+See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) for the broader operational context.
+
 # Citations
 
 [1] [The Fedorov Dismissal: On Trust, Technology, and Turnover](https://warontherocks.com/the-fedorov-dismissal-on-trust-technology-and-turnover/)
@@ -80,3 +94,5 @@ See [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) for the actor's 
 [2] [The Dismissal of Ukraine's Defence Minister](https://www.rusi.org/explore-our-research/publications/commentary/dismissal-ukraines-defence-minister)
 
 [3] [Weekend Update #195: The Worst Week Becomes Much Better (But Not The Best)](https://phillipspobrien.substack.com/p/weekend-update-195-the-worst-week)
+
+[4] Phillips P. O'Brien, "Weekend Update 196: The Week When Hope Killed, Literally", 2026-08-02 — [https://phillipspobrien.substack.com/p/weekend-update-196-the-week-when](https://phillipspobrien.substack.com/p/weekend-update-196-the-week-when)

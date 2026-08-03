@@ -5,7 +5,7 @@ parent: Countries
 description: Israel as a geopolitical actor — dissatisfied with Iran war outcome, recognizing Somaliland for Red Sea access, facing Turkey as its greatest regional challenge, and resisting the US shift to multilateral security
 tags: [country, military, middle-east, naval]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -58,6 +58,12 @@ Ahmed Saber Abbas ([War on the Rocks]({{ site.baseurl }}/actors/authors/war-on-t
 
 The deep disagreements between the Trump and Netanyahu administrations have become public. Israel fears any sanctions relief will rebuild Hizballah and allow Tehran to rebound; the framework Israel has pressed for treats Lebanese sovereignty as conditional on a security process imposed inside Lebanon rather than as a sovereign bargaining position to be restored. See [Lebanon]({{ site.baseurl }}/actors/countries/lebanon.html) and [Camp David Accords]({{ site.baseurl }}/events/camp-david-accords.html) [8].
 
+## The Turkey Collision Course: Unprecedented Opposition to NATO Arms Sale
+
+[The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) documents the deepening Israel-Turkey collision course in Syria. Netanyahu warned on Fox News and CNN that arming Turkey with F-35s would upset the regional balance — the first time Israel has publicly opposed a US arms sale to a fellow NATO member. The opposition reflects a structural rivalry: both powers are expanding into the post-Iran vacuum in Syria, with Turkey as the dominant external patron of al-Sharaa's government and Israel conducting approximately 988 air and artillery strikes in Syria in the seven months after Assad fell — nearly triple its previous rate. The two governments run a deconfliction channel through Azerbaijani mediation, described as "strictly technical," but the channel is too thin to prevent the trajectory collision that both parties' strategic logic is producing [9].
+
+Israel's strikes target the very Syrian airfields Turkey had surveyed for planned forward military bases — a March 25, 2025, Israeli strike on these sites caused Ankara to shelve its deployment. Trump's Ankara summit "gift bag" (lifting CAATSA sanctions, F110 engines for KAAN, conditional F-35 offer) directly accelerates the collision by upgrading Turkey's military capacity while Israel simultaneously escalates its Syrian operations. The State Department's July 8 initiation of rescission of Syria's state-sponsor-of-terrorism designation (in place since 1979) further tilts the Syrian theater toward Turkey's patronage. The Baku-routed deconfliction hotline cannot carry what American guarantees used to hold [9]. See [Turkey]({{ site.baseurl }}/actors/countries/turkey.html).
+
 # Citations
 
 [1] Robert Pape, "Situation Report Special Edition" — [https://escalationtrap.substack.com/p/situation-report-special-edition](https://escalationtrap.substack.com/p/situation-report-special-edition)
@@ -75,3 +81,5 @@ The deep disagreements between the Trump and Netanyahu administrations have beco
 [7] [Live with Prof Robert Pape and Joe Kent](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-and-joe-244)
 
 [8] [The Peace That Redistributes War: What Camp David Reveals About Lebanon and Iran](https://warontherocks.com/the-peace-that-redistributes-war-what-camp-david-reveals-about-lebanon-and-iran/)
+
+[9] The Cipher Brief, "The New Fault Line: Israel and Turkey on a Collision Course", 2026-08-03 — [https://www.thecipherbrief.com/the-new-fault-line-israel-and-turkey-on-a-collision-course](https://www.thecipherbrief.com/the-new-fault-line-israel-and-turkey-on-a-collision-course)

@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Energy-centered analyst arguing that energy throughput — not GDP — is the true measure of power, that resource depletion is exponential, and that there is no "next economy" on a finite planet
 tags: [author, framework, opinion, energy]
 status: ongoing
-timestamp: 2026-07-26T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -60,6 +60,18 @@ The "polycrisis" framework captures the convergence of multiple stress vectors w
 
 These thermodynamic and material constraints synthesize into a civilizational diagnosis. The pursuit of "energy dominance" — escalating conflict with Iran, attacks on Russian oil infrastructure, Yemeni Houthi shipping blockades, Kazakhstan ceasing crude flows through the Black Sea — converts the double whammy of declining EROI and absolute depletion into a triple whammy by physically destroying the fragile infrastructure that remains [34]. The conflicts have merged into a single war waged for control over the world economy's energy base, and none of the parties involved can back down: the fight has become existential. The Honest Sorcerer sees no reason to expect avoidance of an economic depression with world GDP contracting by several percentage points year after year — comparable to the 1930s before World War II — followed by a climactic, decisive conflict between superpowers waged through proxies and client states, ending in a fractured and de-globalized world economy [34]. The framing echoes the [Zero State]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) and [polycrisis]({{ site.baseurl }}/themes/global-system-rupture.html) frameworks: the system cannot create growth, so it chooses war as its last resort, accelerating the very depletion and infrastructure destruction that made growth impossible [34].
 
+## No Oil, No Food: The 2026-2027 Food Crisis
+
+The Honest Sorcerer's "No Oil, No Food" analysis constructs the thesis that 2026-2027 will see a "remarkable drop in food and agricultural input availability, massive food shortages and even famine and riots" — driven by the convergence of a diesel crunch, fertilizer disruption, AI data center demand, and the structural oil-food dependency of industrial agriculture [35].
+
+Earth Overshoot Day 2026 fell on July 30 — the 56th consecutive year of overshoot since 1971. Even if all 8.3 billion people lived like Hondurans or Cambodians, the world would still exhaust a year's worth of natural resources in eleven months. The world has passed peak agricultural land use: a third of forests cleared, two-thirds of wild grasslands lost. The food-oil dependency is total — most agricultural machinery is diesel-powered; lubricants derive from oil; phosphate and potash fertilizers are mined by diesel equipment; sulfuric acid for refining them is 99% derived from crude oil (one-third from the Middle East); natural gas feeds ammonia via Haber-Bosch. The world population supported without synthetic fertilizer is approximately 4 billion, versus 8 billion with it [35].
+
+The diesel crunch data is stark. Goldman Sachs identifies diesel supply as the biggest threat in oil markets: global diesel exports dropped approximately 35% (2.6 million bpd), and July refining throughput was 6.5 million bpd lower than July 2025. The Jazan refinery (400,000 bpd) was shut by a Houthi strike — its biggest product was ultra-low-sulfur diesel. The Caspian Pipeline Consortium (1.4 million bpd of Kazakh crude) shut down. Russia extended its diesel and gasoline export ban to 2027. War fuel consumption compounds the pressure: the US military averages 270,000 barrels per day; the Air Force consumes approximately 2 billion gallons of aviation fuel annually [35].
+
+AI data center demand competes directly with agriculture for energy and water. Gigawatt-scale data centers consume the output of a nuclear plant or 24/7 gas turbines; their construction requires hundreds of truckloads; massive water consumption diverts resources from agriculture. The US generated 28% more electricity from oil in 2025 than in 2024 — a reversal of the decarbonization trajectory, driven by AI demand [35].
+
+America's wheat harvest is set to fall to its lowest level in 150 years, and US farm income is projected to drop 0.7%. The vicious cycle framing: less and less-available fuel means less and less material and food. The Honest Sorcerer warns that "a permanent loss of carrying capacity" cannot be excluded, and that the trajectory points toward "a gradual decline in real material output... threatening to end in a financial crisis and an economic depression not seen since the 1930s" [35]. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) and [Food and Agriculture]({{ site.baseurl }}/themes/food-and-agriculture.html).
+
 # Sources in Bundle
 
 - "The Big Picture" [1]
@@ -96,6 +108,7 @@ These thermodynamic and material constraints synthesize into a civilizational di
 - "We Are Not Mining with Renewable Energy" [32]
 - "The Oil Price 'Mystery'" [33]
 - "No Oil, No Transition, No Economy" [34]
+- "No Oil, No Food" [35]
 
 # Citations
 
@@ -166,3 +179,5 @@ These thermodynamic and material constraints synthesize into a civilizational di
 [33] [The Oil Price "Mystery"](https://thehonestsorcerer.substack.com/p/the-oil-price-mystery)
 
 [34] [No Oil, No Transition, No Economy](https://thehonestsorcerer.substack.com/p/no-oil-no-transition-no-economy)
+
+[35] The Honest Sorcerer, "No Oil, No Food", 2026-07-31 — [https://thehonestsorcerer.substack.com/p/no-oil-no-food](https://thehonestsorcerer.substack.com/p/no-oil-no-food)

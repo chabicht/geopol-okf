@@ -4,6 +4,121 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-08-03 — Batch 5: Applebaum, Krugman, Honest Sorcerer, Cipher Brief
+
+**Sources incorporated (4)**
+
+* Anne Applebaum, "The Far-Right Playbook in Action" (2026-08-03)
+* Paul Krugman, "How China Won the Iran War" (2026-08-03)
+* The Honest Sorcerer, "No Oil, No Food" (2026-07-31)
+* The Cipher Brief, "The New Fault Line: Israel and Turkey on a Collision Course" (2026-08-03)
+
+**Updates (14)**
+
+* **Update**: Updated [Anne Applebaum]({{ site.baseurl }}/actors/authors/anne-applebaum.html) with "far-right playbook" pattern analysis, Ceuta case study, kleptocracy tracker; added citation [3]
+* **Update**: Updated [Paul Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html) with four-pillar erosion framework (science, military, dollar, alliances), Pew favorability data, manufacturing trajectory, "China won" thesis; added citation [11]
+* **Update**: Updated [The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) with "No Oil, No Food" 2026/2027 food crisis forecast, diesel crunch data, Haber-Bosch dependency, AI data center competition; added citation [35]
+* **Update**: Updated [The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) with Israel-Turkey collision course, Trump Ankara summit gift bag, Turkey's Africa expansion, Iran vacuum; added citation [15]
+* **Update**: Updated [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html) with far-right playbook pattern and Ceuta as textbook replay; added citation [37]
+* **Update**: Updated [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) with TikTok disinformation → far-right amplification → policy panic cycle; added citation [10]
+* **Update**: Updated [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) with diesel crunch data (Goldman Sachs 35% drop, Jazan/CPC shutdowns, Russia ban to 2027); added citation [34]
+* **Update**: Updated [Food and Agriculture]({{ site.baseurl }}/themes/food-and-agriculture.html) with 2026/2027 food crisis forecast, Haber-Bosch dependency, wheat harvest 150-year low; added citation [13]
+* **Update**: Updated [Sanctions and Financial Warfare]({{ site.baseurl }}/themes/sanctions-and-financial-warfare.html) with yuan-based sanctions evasion and dollar weaponization collapse; added citation [7]
+* **Update**: Updated [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) with Israel-Turkey collision course in Syria, 988 Israeli strikes, Trump gift bag, Africa expansion; added citation [10]
+* **Update**: Updated [Israel]({{ site.baseurl }}/actors/countries/israel.html) with unprecedented F-35 opposition, 988 strikes in Syria, deconfliction channel insufficiency; added citation [9]
+* **Update**: Updated [United States]({{ site.baseurl }}/actors/countries/united-states.html) with four-pillar erosion framework and Pew favorability collapse; added citation [48]
+* **Update**: Updated [China]({{ site.baseurl }}/actors/countries/china.html) with "China won the Iran war" thesis, drone supply chain, yuan evasion; added citation [33]
+* **Update**: Updated [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) with Pew favorability data and "China won" thesis; added citation [36]
+
+## 2026-08-03 — Batch 1: O'Brien — China MANPADS, Iran Toying, Hope Kills
+
+**Sources incorporated (3)**
+
+* Phillips P. O'Brien, "Is China Going In For The Kill" (2026-08-01)
+* Phillips P. O'Brien, "Midweek Update 21: Iran Is Toying With The USA" (2026-07-29)
+* Phillips P. O'Brien, "Weekend Update 196: The Week When Hope Killed, Literally" (2026-08-02)
+
+**New concepts (2)**
+
+* **Creation**: Created [Chinese MANPADS Transfer to Iran]({{ site.baseurl }}/events/china-manpads-transfer-iran-2026.html) — China preparing 400 FN-16/QW-12 MANPADS for Iran, qualitative shift from dual-use to finished weapons
+* **Creation**: Created [Black Sea Grain Shipping Crisis]({{ site.baseurl }}/events/black-sea-grain-shipping-crisis-2026-07.html) — 28 merchant vessels attacked in 30 days, 21 sailors killed, zero grain vessels on July 22
+
+**Updates (7)**
+
+* **Update**: Updated [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) with "China's Escalating Military Support and the MANPADS Threshold" and "The Thirteen-Day Campaign and Iran's Strategic Framework" subsections; added citations [75][76][77]
+* **Update**: Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with "The Trump Pivot Pattern Returns: Hope Kills," "Drapatyi's Reform Program and the Fedorov-Drapatyi Alignment," and "The Black Sea Grain Shipping Crisis" subsections; added citation [43]
+* **Update**: Updated [Ukraine Air Defense Crisis 2026]({{ site.baseurl }}/events/ukraine-air-defense-crisis-2026.html) with 1-of-27 interception collapse and Trump's Patriot denial; added citation [3]
+* **Update**: Updated [Fedorov Dismissal]({{ site.baseurl }}/events/fedorov-dismissal-2026.html) with Fedorov's Ukrainska Pravda interview, Drapatyi's reform program, and Fedorov-Drapatyi alignment; added citation [4]
+* **Update**: Updated [Hormuz Ceasefire Collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) with post-July 23 escalation timeline and Iran's strategic framework; added citation [16]
+* **Update**: Updated [Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) with three new framework sections (1861 analogy, Iran toying strategic framework, hope kills pivot trap), new Track Record miss entry (April Atlantic article misprediction), new open forecast on peace settlement shape; added sources [24][25][26] and citations
+
+## 2026-08-03 — Batch 4: GPF Azerbaijan, Caspian Convergence, and Pacific Order
+
+**Sources incorporated (3)**
+
+* George Friedman, "Azerbaijan: Very Small, Very Significant" (2026-08-03)
+* Kamran Bokhari, "The Risks of Conflict Expansion from the Gulf to the Caspian" (2026-07-30)
+* Ronan Wordsworth, "What China's Missile Test Says About the Pacific Order" (2026-07-31)
+
+**New concepts (8)**
+
+* **Creation**: Created [Azerbaijan]({{ site.baseurl }}/actors/countries/azerbaijan.html) — small Caucasus state at intersection of Russia, Iran, and Turkey; oil-rich, militarily capable, key node in the Trump Route
+* **Creation**: Created [South Caucasus]({{ site.baseurl }}/regions/south-caucasus.html) — contested corridor between Russia, Iran, and Turkey; Karabakh legacy, Trump Route, and Caspian energy infrastructure
+* **Creation**: Created [Caspian Sea]({{ site.baseurl }}/regions/caspian.html) — contested maritime theater linking the Iran and Ukraine wars; six littoral states and growing military spillover risk
+* **Creation**: Created [Pacific Islands]({{ site.baseurl }}/regions/pacific-islands.html) — emerging security architecture; Australia-led minilateral pacts, US Compacts of Free Association, and China's contested diplomatic influence
+* **Creation**: Created [Israeli Strike on Bandar Anzali]({{ site.baseurl }}/events/bandar-anzali-strike-2026-03-19.html) — Israel's first Caspian strike on Iran, targeting naval vessels and an Iran-Russia arms-smuggling route
+* **Creation**: Created [Ukraine Strikes Iranian Vessel in Caspian Sea]({{ site.baseurl }}/events/ukraine-caspian-vessel-strike-2026-07-26.html) — Ukraine's July 2026 strike linking the two wars in a new theater
+* **Creation**: Created [China JL-3 SLBM Test]({{ site.baseurl }}/events/jl-3-slbm-test-2026-07-06.html) — China's first publicly acknowledged SLBM test into open international waters, demonstrating second-strike capability
+* **Creation**: Created [Ocean of Peace Alliance]({{ site.baseurl }}/events/ocean-of-peace-alliance-2026-07-06.html) — Australia-Fiji mutual defense treaty signed the same day as China's JL-3 test
+
+**Updates (7)**
+
+* **Update**: Updated [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) with new "Caspian Theater Expansion" subsection — Bandar Anzali strike, Ukraine Caspian vessel strike, war convergence risk, trans-Caspian diplomatic cross-currents; added citation [80]
+* **Update**: Updated [Geopolitical Futures]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) with three new analysis sections (Azerbaijan as Strategic Pivot, Caspian War Convergence, Pacific Order and China's SLBM Test); added sources [32][33][34] and corresponding citations
+* **Update**: Updated [China]({{ site.baseurl }}/actors/countries/china.html) with JL-3 SLBM test as military capability milestone and Pacific order analysis — second-strike capability, Pacific Island backlash, PIF split, Australia's aid dominance, US-Australia division of labor; added citation [32]
+* **Update**: Updated [Australia]({{ site.baseurl }}/actors/countries/australia.html) with Pacific security architecture update — Ocean of Peace Alliance, Pukpuk treaty, Nakamal Agreement, $1.5B aid dominance, US-Australia division of labor, China's lending decline; added citation [6]
+* **Update**: Updated [Central Asia]({{ site.baseurl }}/regions/central-asia.html) with cross-links to South Caucasus and Caspian Sea region concepts; added brief mention of Trump Route and Caspian theater; added citation [7]
+* **Update**: Updated [Actors]({{ site.baseurl }}/actors/) index with corrected country count
+* **Update**: Updated [Regions]({{ site.baseurl }}/regions/) index with South Caucasus, Caspian Sea, and Pacific Islands entries
+
+## 2026-08-03 — Batch 3: Tchakarova Ceuta and GSR Update
+
+**Sources incorporated (2)**
+
+* Velina Tchakarova, "Ceuta 2026: Migration Crisis or Spain's Emerging Geopolitical Vulnerability?" (2026-07-31)
+* Velina Tchakarova, "Global System Rupture Update" (2026-08-01)
+
+**New concepts (1)**
+
+* **Creation**: Created [Ceuta Migration Crisis]({{ site.baseurl }}/events/ceuta-migration-crisis-2026-07-31.html) — mass migration to Spanish enclave driven by TikTok misinformation, Moroccan border leverage, and four convergent geopolitical fault lines
+
+**Updates (5)**
+
+* **Update**: Updated [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) with Day 152 diagnostic — "energy shock → durability crisis" conceptual upgrade, seven-domain stress matrix reframed into functional categories, cross-domain linkages (Patriot stocks, Gulf urea, desalination), two named cascade chains, soft blockade via insurance withdrawal, DragonBear substitution ceiling, financial-physical disconnect, and "winning posture shifts from efficiency to buffered resilience"; added Key Dynamics bullets and citation [19]
+* **Update**: Updated [Insurance and Trade Warfare]({{ site.baseurl }}/themes/insurance-and-trade-warfare.html) with "soft blockade via insurance withdrawal" concept — P&I clubs withdrawing cover, war-risk at 8× pre-crisis, insurance withdrawal as binary gate distinct from kinetic blockade; added citation [7]
+* **Update**: Updated [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html) with Ceuta case — expectation-based pull factor from regularisation, Morocco's demonstrated migration-leverage capability, intersection of migration with geopolitical fault lines; added citation [5]
+* **Update**: Updated [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) with DragonBear energy evidence update — 90% of Russian crude to China+India, Shandong teapots reactivating Iranian barrels, 5.4 Mb/d Hormuz-exposed volume vs Russian substitution ceiling; added citation [35]
+* **Update**: Updated [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) with "energy shock → durability crisis" conceptual upgrade, Simultaneity Theory formalization (seven functional domains, cross-domain linkages, cascade chains), soft blockade via insurance withdrawal concept, Ceuta four-fault-line framework; added sources [27] and [28] and track record hit on June "period of maximum leverage" forecast
+
+## 2026-08-03 — Batch 2: Pape Breaking Analysis #9 and #10
+
+**Sources incorporated (2)**
+
+* Robert Pape, "Breaking Analysis #9: Iran Attacks Egypt – Is a Mediterranean Front Opening?" (2026-07-31)
+* Robert Pape, "Breaking Analysis #10: Trump's Illusion of Control Meets Escalation Reality" (2026-08-03)
+
+**New concepts (1)**
+
+* **Creation**: Created [Iran's Security Resistance Belt]({{ site.baseurl }}/themes/iran-security-resistance-belt.html) — IRGC doctrine connecting Persian Gulf, Red Sea, and Mediterranean into a unified strategic theater
+
+**Updates (5)**
+
+* **Update**: Updated [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) with Pape's Mediterranean strategic framing (BA#9) and new "Spiral Phase Oscillation" subsection on the illusion of control, ground power dilemma, and political calendar (BA#10); added citations [78] and [79]
+* **Update**: Updated [Damietta Port Drone Strike]({{ site.baseurl }}/events/damietta-port-drone-strike-2026-07-29.html) with Pape's strategic framing — map-change event, security resistance belt doctrine, phase-shift thesis, dilemma expansion, and neutral-state message; added citation [2]
+* **Update**: Updated [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) with security resistance belt doctrine identification, spiral phase oscillation vocabulary, ground power dilemma, strategy of maximum leverage, and "time itself as a weapon"; added citations [22] and [23] and open track record entries
+* **Update**: Updated [Escalation Theory Critique]({{ site.baseurl }}/themes/escalation-theory-critique.html) with spiral phase oscillation concept and ground power dilemma as further challenge to escalation-ladder models; added citation [9]
+* **Update**: Updated [Themes]({{ site.baseurl }}/themes/) index with Iran's Security Resistance Belt
+
 ## 2026-07-31 — Seven-Batch Source Incorporation Round (Final Pass, 12 of 13 Sources)
 
 Final-pass consolidation of the twelve substantive sources incorporated across seven batches between July 26 and July 31, 2026. The Pape "End of American Empire" piece (2026-07-28) was deliberately excluded as a promotional post rather than analytical work. Net total for the round: ten new concepts created, thirty-two existing concepts updated.

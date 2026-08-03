@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Economist and columnist — tracking oligarchic capture of US government, the social democracy vs socialism distinction, corruption as the through-line of Trump's second term, the oligarchy spiral via corporate tax cuts, the refining capacity constraint on energy prices, and election interference as the endgame of foreign policy failure
 tags: [author, opinion, economics, oligarchy, energy]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 ---
 
 # Background
@@ -72,6 +72,14 @@ Krugman analyzes [Trump]({{ site.baseurl }}/actors/trump.html)'s 50% tariffs on 
 
 Krugman argues that the oligarchic takeover of US media is the fundamental story of our time — not a hidden conspiracy but an open seizure. He identifies three escalating levels of capture. First, campaign finance: a *New York Times* analysis found that roughly 20% of all 2024 campaign contributions came from just 300 billionaires and their families, who are more targeted and strategic than average donors. Second, direct corruption: buying politicians openly with cash and crypto — billions thrown at the president and his family — in a shift from the discreet, indirect methods of the past to blatant transaction. Third, shaping the information space: billionaire acquisition of major media institutions (the Ellison family acquiring CBS and hiring Bari Weiss to reshape it, attempting a Warner/CNN takeover; Musk transforming Twitter/X and tilting its algorithm toward right-wing content; Zuckerberg tilting Facebook; Bezos shifting the *Washington Post* editorial policy hard right and eviscerating its news division), the funding of zombie ideas (tax cuts pay for themselves), and the sponsorship of climate disinformation — Krugman notes that 100% of skeptical studies have fossil fuel backing. The objective across all three levels is not profit but influence. His conclusion: the only durable solution is reducing wealth concentration at the top, because as Woodrow Wilson observed, "If there are men big enough to own the government, they're going to own the government." Oligarchy is not the root of all evil, but it is the root of a lot of it. [9]
 
+## How China Won the Iran War: The Four Pillars Framework
+
+Krugman argues that [Trump]({{ site.baseurl }}/actors/trump.html) has "shattered American power" with astonishing speed, dismantling four residual US advantages that persisted until roughly 2024. First, **science and cutting-edge technology leadership** — Trump officials orchestrated attacks on scientists, driving talent toward Canada, Europe, and China. Second, **military technological dominance** — Secretary Hegseth's "pro-testosterone, anti-intellectual leadership" has driven the military's reputation into a nose-dive; a CSIS December 2025 report documented that the Chinese supply chain underpins modern drone warfare. Third, **dollar weaponization** — Iran's ability to sell oil rested on payment in yuan; ships paying Hormuz passage also paid in yuan or cryptocurrency, meaning the dollar's coercive power has been "greatly reduced." Fourth, **the alliance system** — Trump torpedoed alliances on day one, demanding Canada become the 51st state and Denmark hand over Greenland. All four pillars were squandered without adversary action; the erosion is self-inflicted [11].
+
+The Pew favorability data quantifies the collapse. In 12 countries surveyed, [China]({{ site.baseurl }}/actors/countries/china.html)'s favorability surpassed the [United States]({{ site.baseurl }}/actors/countries/united-states.html) between 2023 and 2026. The sharpest swings occurred in core allies: Germany (US favorability fell from 57% to 27%, while China's rose from 19% to 33%), Sweden (55% to 19% vs. 12% to 27%), and Australia (52% to 24% vs. 13% to 31%). The pattern is not a Chinese charm offensive but an American self-destruction — the favorability crossover is driven by the collapse of US standing rather than the rise of Chinese popularity [11].
+
+On manufacturing, Krugman notes that China overtook the US in manufacturing output in 2010; the US and EU combined still produce more, but that alliance advantage is fading. The "China won the Iran war" thesis is not about combat — China was not a direct combatant — but about non-combatant victory through US self-destruction. The war accelerated every trend eroding US power while China collected the geopolitical dividends. The closing line: "When future historians write about this tale of self-immolation, they may well do so in Mandarin" [11]. See [United States]({{ site.baseurl }}/actors/countries/united-states.html), [China]({{ site.baseurl }}/actors/countries/china.html), [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html), and [Sanctions and Financial Warfare]({{ site.baseurl }}/themes/sanctions-and-financial-warfare.html).
+
 # Recurring Themes
 
 - Oligarchic capture of US regulatory and political institutions
@@ -96,6 +104,7 @@ Krugman argues that the oligarchic takeover of US media is the fundamental story
 - "Lina Khan on AI and More" [8]
 - "Oligarchy and the Media" [9]
 - "Oy, Canada Tariffs" [10]
+- "How China Won the Iran War" [11]
 
 # Citations
 
@@ -118,3 +127,5 @@ Krugman argues that the oligarchic takeover of US media is the fundamental story
 [9] [Oligarchy and the Media](https://paulkrugman.substack.com/p/oligarchy-and-the-media)
 
 [10] [Oy, Canada Tariffs](https://paulkrugman.substack.com/p/oy-canada-tariffs)
+
+[11] Paul Krugman, "How China Won the Iran War", 2026-08-03 — [https://paulkrugman.substack.com/p/how-china-won-the-iran-war](https://paulkrugman.substack.com/p/how-china-won-the-iran-war)

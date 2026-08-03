@@ -9,7 +9,7 @@ permalink: /actors/
 
 ## Countries
 
-* [Countries](countries/) - 37 nation-state actor concepts, from major powers to regional players
+* [Countries](countries/) - 48 nation-state actor concepts, from major powers to regional players
 
 ## Leaders
 
