@@ -4,6 +4,24 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-08-09 — Consolidation & Refinement
+
+**Consolidation (2 clusters)**
+
+* **Cluster A — Back-channel diplomacy**: Trimmed duplicate content in [Europe]({{ site.baseurl }}/regions/europe.html) and [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) to regional/conflict facets with cross-links to [Russia]({{ site.baseurl }}/actors/countries/russia.html) as canonical home.
+* **Cluster B — Thermodynamic AI argument**: Trimmed duplicate framework exposition in [China]({{ site.baseurl }}/actors/countries/china.html) to China-specific facet with cross-link to [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) as canonical home.
+
+**Refinement (8 files)**
+
+* **Refined**: [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — consolidated 10 source-organized sections into 6 thematic sections (Bokhari/Slife-Hinote/Roule merges).
+* **Refined**: [Russia]({{ site.baseurl }}/actors/countries/russia.html) — folded 3 source-organized sections into existing thematic sections (CSIS data, shadow fleet, CTBT).
+* **Refined**: [China]({{ site.baseurl }}/actors/countries/china.html) — folded nuclear testing into JL-3 section as "Nuclear Modernization and the Pacific Order"; verified AI thermodynamic facet.
+* **Refined**: [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) — merged 22 sections to 16 (CSIS strike dataset, grain trade, Trump pivot, governance, endgame).
+* **Refined**: [China Alleged Nuclear Test]({{ site.baseurl }}/events/china-alleged-june-2020-underground-nuclear-test.html) — merged 7 sections to 3.
+* **Refined**: [Hormuz Crisis / North Africa Hub]({{ site.baseurl }}/events/hormuz-crisis-north-africa-hub-acceleration.html) — merged 5 sections to 3; converted country bullet lists to prose.
+* **Refined**: [Ukraine Civil Society Protests]({{ site.baseurl }}/events/ukraine-civil-society-protests-2026-07.html) — merged 5 sections to 1.
+* **Refined**: [Shadow Fleet Boarding Wave]({{ site.baseurl }}/events/shadow-fleet-dawn-raids-2026.html) — merged 4 sections to 2.
+
 ## 2026-08-09 — Batch 6: Bokhari, Cipher Brief, Roule, Houdret/Furness, Jones/McCabe, Ryvkin, Reservistenverband, Stewart, Rombach, Steinberg, Cancian/Park, Cipher Brief BLUF, Beisheim/Böttcher/Brozus, Honest Sorcerer
 
 **New concepts (28)**

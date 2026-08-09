@@ -7,7 +7,7 @@ event_date: 2026-07-15
 actuality: actual
 tags: [europe, ideology, elections]
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-09T00:00:00Z
 ---
 
 # Background
@@ -28,27 +28,17 @@ Key dynamics:
 
 # Analysis
 
-## Zelensky's Personnel Patterns
+## Personnel Politics, Wartime Restraint, and Civil Society
 
-[Susan Stewart]({{ site.baseurl }}/actors/authors/susan-stewart.html) identifies a deepening pattern in Zelensky's personnel management that fuels public discontent. The president has grown accustomed to frequent personnel changes in the highest offices, with reasons that are only partially transparent. This creates an impression that the political system is increasingly shaped by narrow political or even personal considerations rather than institutional logic. A recurring pattern has emerged: individuals who achieve high popularity are removed from their positions. Such changes also trigger organizational disruption, complicating internal processes and inter-agency cooperation at a time when continuity is especially important [1].
+[Susan Stewart]({{ site.baseurl }}/actors/authors/susan-stewart.html) identifies a deepening pattern in Zelensky's personnel management that fuels the public discontent now visible on the streets. The president has grown accustomed to frequent personnel changes in the highest offices, with reasons that are only partially transparent. This creates an impression that the political system is increasingly shaped by narrow political or even personal considerations rather than institutional logic. A recurring pattern has emerged: individuals who achieve high popularity are removed from their positions. Such changes also trigger organizational disruption, complicating internal processes and inter-agency cooperation at a time when continuity is especially important [1].
 
-## The Erosion of Wartime Restraint
+These intransparent and publicly under-justified decisions have themselves become a reason for politically engaged citizens to take to the streets — and that willingness marks a significant shift in Ukrainian political culture. In the early war years, the population largely suppressed public dissent to maintain a unified front; protests remain technically prohibited under martial law, though they have been tolerated. Since July 2025, however, that restraint has eroded. The anti-corruption protests that forced the withdrawal of a law disempowering two key anti-corruption institutions demonstrated that demonstrations could reverse government decisions even during wartime. The Fedorov case reinforced this lesson: after achieving a partial success with Syrskyi's removal, some protesters felt emboldened to press for broader political change beyond a single ministerial appointment [1].
 
-The shift from wartime restraint to protest willingness marks a significant change in Ukrainian political culture. In the early war years, the population largely suppressed public dissent to maintain a unified front. After four and a half years of war, the return to political debate is understandable — but it introduces higher instability as societal and political differences become more visible. This tension is actively debated within Ukraine: where is the boundary between necessary protest and the danger of destabilization during wartime? [1]
+Stewart warns that this return to political debate, while understandable after four and a half years of war, introduces higher instability as societal and political differences become more visible. Such tensions will inevitably be exaggerated by Russian actors and used against Kyiv — and the timing could hardly be worse, as Ukraine is currently in a positive phase both on the battlefield and in its relationship with the [United States]({{ site.baseurl }}/actors/countries/united-states.html). Visible internal discord risks undermining these gains at a critical moment. The boundary between necessary protest and the danger of destabilization is actively debated within Ukraine, and the outcome of that debate will shape how the protests evolve. Even as citizens understand the risks — including Russian disinformation exploiting internal divisions — the need for political participation remains strong [1].
 
-The July 2025 anti-corruption precedent demonstrated that protests could achieve policy reversals. The Fedorov case reinforced this lesson: partial success (Syrskyi's removal) emboldened further demands. The need for political participation is strong, even as citizens understand the risks — including Russian disinformation exploiting internal divisions [1].
+To navigate this tension, Stewart recommends that Zelensky repeat his September 2025 statement that he will not run for re-election after the war. By positioning himself above day-to-day political considerations, the president could orient his decisions toward substantive rather than political calculations, lending greater weight to his choices both domestically and with foreign partners. This would directly address the perception that personnel decisions are driven by personal or political loyalty rather than merit [1].
 
-## Russian Exploitation and Timing
-
-Stewart warns that societal and political tensions will inevitably be exaggerated by Russian actors and used against Kyiv. The timing of the protests is particularly unfortunate: Ukraine is currently in a positive phase both on the battlefield and in its relationship with the [United States]({{ site.baseurl }}/actors/countries/united-states.html). Visible internal discord risks undermining these gains at a critical moment [1].
-
-## The Zelensky Reform Recommendation
-
-Stewart recommends that Zelensky repeat his September 2025 statement that he will not run for re-election after the war. By positioning himself above day-to-day political considerations, the president could orient his decisions toward substantive rather than political calculations, lending greater weight to his choices both domestically and with foreign partners. This would address the perception that personnel decisions are driven by personal or political loyalty rather than merit [1].
-
-## Civil Society as Ukrainian Strength
-
-An active and influential civil society is one of Ukraine's core strengths and has contributed to its battlefield successes. The protests, while carrying destabilization risks, also demonstrate a healthy democratic instinct — citizens holding their government accountable even under martial law. The challenge for Ukraine is to channel this civic energy into constructive political participation without enabling Russian exploitation or undermining wartime coherence [1].
+Yet the protests also demonstrate one of Ukraine's core strengths. An active and influential civil society has contributed to the country's battlefield successes, and citizens holding their government accountable even under martial law reflects a healthy democratic instinct. The challenge for Ukraine is to channel this civic energy into constructive political participation without enabling Russian exploitation or undermining wartime coherence [1].
 
 See [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) for the actor's broader political dynamics, [Zelensky]({{ site.baseurl }}/actors/zelensky.html) for the leadership pattern, [Fedorov Dismissal 2026]({{ site.baseurl }}/events/fedorov-dismissal-2026.html) for the triggering event, and [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html) for the broader framework on wartime governance and democratic accountability.
 

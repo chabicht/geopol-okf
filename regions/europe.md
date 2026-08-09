@@ -5,7 +5,7 @@ parent: Regions
 description: Traditional US alliance architecture under NATO; EU economic bloc facing Russian hybrid warfare, shifting US priorities, and Trump's Greenland crisis fracturing the transatlantic alliance.
 tags: [europe, military, nato, energy, trade, economics]
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-09T00:00:00Z
 ---
 
 # Background
@@ -88,9 +88,7 @@ Energy shortages are approaching. The system is global and interconnected, but i
 
 ## Berlin-Centered Back-Channel Diplomacy
 
-[Andrew Ryvkin]({{ site.baseurl }}/actors/authors/andrew-ryvkin.html) (GPF) documents that [Germany]({{ site.baseurl }}/actors/countries/germany.html) has held a series of meetings since at least early 2024 in Baku and Abu Dhabi involving former German politicians and Kremlin-connected figures, formally devoted to discussing the possible revival of the Petersburg Dialogue — the German-Russian forum founded by Gerhard Schroeder and Putin in 2001 and officially terminated by Berlin in 2021. The Russian delegation includes Viktor Zubkov (former prime minister and chairman of Gazprom's supervisory board, a longtime Putin confidant from their St. Petersburg days), Valery Fadeyev (head of Russia's Human Rights Council and Putin adviser), and Alexey Gromyko (head of the Institute of Europe at the Russian Academy of Sciences, which advises the Kremlin on EU policy). These figures carry significantly more political weight inside Russia than Kirill Dmitriev, Putin's envoy to Trump who regularly appears in American media. [Roman Abramovich]({{ site.baseurl }}/actors/roman-abramovich.html) has been identified as another channel, valued for keeping lines of communication open and helping with narrowly defined humanitarian issues [36].
-
-The economic logic underpinning these back channels is structural. [Russia]({{ site.baseurl }}/actors/countries/russia.html)-EU trade in 2021, before the full-scale invasion of Ukraine, equaled $282 billion. By comparison, Russia-China trade in 2025 totaled $228 billion. Russia's eastward turn is driven by necessity rather than strategy. The [EU]({{ site.baseurl }}/actors/organizations/eu.html) controls the decisive levers for Russia's postwar return: frozen Russian assets, integration into the global banking system, and access to European markets. Moscow understands that if it ever wants to regain access to those assets, it needs a clear channel to the EU and, specifically, to Germany, the bloc's largest economy. Many European decision-makers believe Russia remains structurally oriented toward Europe and that maintaining Russia's increasingly subordinate relationship with China for years to come runs against Moscow's long-term interests. Putin has said on more than one occasion that Russia is interested in resuming gas exports to Germany and that all that's needed is a political decision in Berlin. See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) [36].
+[Germany]({{ site.baseurl }}/actors/countries/germany.html) has served as the key European interlocutor in back-channel diplomacy with [Russia]({{ site.baseurl }}/actors/countries/russia.html), holding meetings since at least early 2024 in Baku and Abu Dhabi involving former German politicians and Kremlin-connected figures. The [EU]({{ site.baseurl }}/actors/organizations/eu.html) controls the decisive levers for Russia's postwar return — frozen Russian assets, integration into the global banking system, and access to European markets — making Germany, the bloc's largest economy, the necessary counterpart for any normalization path [36]. For the full delegation roster, structural constraints, and normalization path, see [Russia]({{ site.baseurl }}/actors/countries/russia.html).
 
 ## European Climate and Energy Vulnerability Convergence
 
