@@ -9,7 +9,7 @@ tags:
   - indo-pacific
   - cold-war
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -83,9 +83,13 @@ Ueki documents the depth of Japanese public concern: 89 percent of respondents i
 
 Ueki identifies a structural constraint on CRINK involvement in a Taiwan contingency: China sees Taiwan as a domestic problem and may prefer not to involve other countries, as their participation would delegitimize China's claim that the issue is internal. This suggests that while Russia and North Korea may not be invited to participate directly in a Taiwan operation, they could act opportunistically in adjacent theaters. The coordination challenge for the US-Japan alliance is thus not a unified CRINK assault but a set of concurrent, potentially uncoordinated pressures that exploit the same bandwidth constraints [12]. See [Japan]({{ site.baseurl }}/actors/countries/japan.html), [China]({{ site.baseurl }}/actors/countries/china.html), and [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html).
 
+## Anti-Ship Munitions Scarcity for a China Fight
+
+[Mark F. Cancian]({{ site.baseurl }}/actors/authors/mark-f-cancian.html) and [Chris H. Park]({{ site.baseurl }}/actors/authors/chris-h-park.html) identify long-range anti-ship munitions — LRASM, Maritime Strike Tomahawk, and the Naval Strike Missile — as critical for a Taiwan contingency but barely consumed during the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html). While their inventories have been largely unaffected by the Iran war, existing stocks would dwindle rapidly in a peer naval fight against [China]({{ site.baseurl }}/actors/countries/china.html). The [United States]({{ site.baseurl }}/actors/countries/united-states.html) does maintain deep inventories of cheaper alternatives such as JDAM, which offer comparable precision and explosive yield to Tomahawk or JASSM — but at the cost of shorter range, requiring aircraft to overfly adversary territory and exposing pilots and platforms to greater vulnerability and potential losses. CSIS Taiwan wargames — including *The First Battle of the Next War* — inform this assessment, underscoring that the anti-ship munitions shortfall is a pre-existing structural gap that the Iran war did not cause but that a Pacific conflict would expose immediately. The analysis connects to the broader munitions readiness crisis documented by [Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) above: the US security guarantee for Taiwan may be militarily unexecutable not only at the interceptor level but at the sea-control level as well [13]. See [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
+
 # Citations
 
-[1] https://substack.com/@velinatchakarova/p-203793388
+[1] [https://substack.com/@velinatchakarova/p-203793388](https://substack.com/@velinatchakarova/p-203793388)
 
 [2] [Xi Drains the Central Military Commission](https://geopoliticalfutures.com/xi-drains-the-central-military-commission/)
 
@@ -108,3 +112,5 @@ Ueki identifies a structural constraint on CRINK involvement in a Taiwan conting
 [11] [Beyond Deterrence: Evolving China-Russia Military Coordination and the U.S.-Japan Alliance](https://www.csis.org/analysis/beyond-deterrence-evolving-china-russia-military-coordination-and-us-japan-alliance)
 
 [12] [China and CRINK: Implications for Japan and the United States](https://www.csis.org/analysis/china-and-crink-implications-japan-and-united-states)
+
+[13] Mark F. Cancian and Chris H. Park, "Six Reasons Why the United States Is Low on Munitions", 2026-08-05 — [https://www.csis.org/analysis/six-reasons-why-united-states-low-munitions](https://www.csis.org/analysis/six-reasons-why-united-states-low-munitions)

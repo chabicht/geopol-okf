@@ -9,7 +9,7 @@ tags:
   - supply-chain
   - sanctions
 status: ongoing
-timestamp: 2026-07-30T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -38,11 +38,12 @@ The destination data is the physical signature of the bifurcation thesis: Wester
 
 # Key Dynamics
 
-- **Rupture as catalyst, bifurcation as outcome**: The [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) creates the crisis condition; bifurcation is the successor state the system stabilizes into. Tchakarova argues the system can only stabilize into one of two configurations: a bifurcation into two competing order spaces, or an unstable multipolar equilibrium.
-- **Trade data as leading indicator**: Policy declarations (sanctions, export controls, tariff lists) are lagging indicators — they codify changes already visible in the trade data. The WTO 2025 numbers show destination divergence preceding and outpacing policy formalization.
-- **Currency effects mask volume shifts**: EU export growth in dollar terms overstates Western resilience; in volume terms, China is closing the export gap. Analytical frameworks that track headline dollar values without adjusting for currency will misread the bifurcation trajectory.
-- **Services vs goods**: Services trade (up 8%) is growing faster than goods (up 6%), and services are less susceptible to chokepoint disruption and sanctions. The bifurcation may proceed more slowly in services than in goods — creating a structural asymmetry between the two trade dimensions.
+- **Rupture as catalyst, bifurcation as outcome**: The [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) creates the crisis condition; bifurcation is the successor state the system stabilizes into. Tchakarova argues the system can only stabilize into one of two configurations: a bifurcation into two competing order spaces, or an unstable multipolar equilibrium. [1]
+- **Trade data as leading indicator**: Policy declarations (sanctions, export controls, tariff lists) are lagging indicators — they codify changes already visible in the trade data. The WTO 2025 numbers show destination divergence preceding and outpacing policy formalization. [1]
+- **Currency effects mask volume shifts**: EU export growth in dollar terms overstates Western resilience; in volume terms, China is closing the export gap. Analytical frameworks that track headline dollar values without adjusting for currency will misread the bifurcation trajectory. [1]
+- **Services vs goods**: Services trade (up 8%) is growing faster than goods (up 6%), and services are less susceptible to chokepoint disruption and sanctions. The bifurcation may proceed more slowly in services than in goods — creating a structural asymmetry between the two trade dimensions. [1]
 - **Bifurcation is now conceptual as well as structural**: The divergence extends beyond trade flows to the analytical frameworks used to interpret them. Western market-economics paradigms analyze the surplus as an "industrial policy shock of global scale"; an alternative reading frames it as "unrestricted warfare" — the bifurcation has a methodology dimension alongside its physical one. See [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html). [3][4]
+- **Arms control regime bifurcating along great-power lines.** Russia revoked CTBT ratification; US 2026 CTBTO contributions unpaid; latent proliferators face new incentives. The non-proliferation regime fragments along the same competition axis as trade. [5][6]
 
 # Analysis
 
@@ -66,6 +67,24 @@ The 2026 trade data visible in physical flows has a parallel split at the concep
 
 The bifurcation is therefore not only structural (two competing trade geometries) but methodological (two incompatible frameworks operating on the same data). See [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html) for the full sequenced treatment and [Analytical Fault Lines]({{ site.baseurl }}/themes/analytical-fault-lines.html) for the formal contested block.
 
+## Erosion of Multilateral Arms Control
+
+[Philipp Rombach]({{ site.baseurl }}/actors/authors/philipp-rombach.html) (SWP) documents the erosion of the international testing norm from multiple directions, reflecting the broader systemic bifurcation. [Russia]({{ site.baseurl }}/actors/countries/russia.html) revoked its CTBT ratification in 2023, in the context of the Ukraine war, to put itself on an equal footing with the United States (which signed but never ratified). The US has not paid its 2026 CTBTO contributions, leaving the International Monitoring System underfunded. [China]({{ site.baseurl }}/actors/countries/china.html)'s alleged secret nuclear testing at Lop Nur and its refusal of P5 observer invitations to the Nevada test site further weaken the norm [5].
+
+The erosion creates new incentives for latent proliferators. In international discourse, countries such as Poland, South Korea, and [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) are increasingly seen as potential nuclear proliferators. Should major nuclear powers resume underground testing on a full scale, the non-proliferation norm would continue to erode, and secondary nuclear powers — India, Pakistan, North Korea — could be drawn into renewed testing competition. The bifurcation of the arms control regime mirrors the broader systemic split: the testing norm is fragmenting along the same competition axis as trade and technology [5]. See [Nuclear Proliferation and Arms Control]({{ site.baseurl }}/themes/nuclear-proliferation-and-arms-control.html).
+
+## Middle East Proliferation Cascade
+
+[Guido Steinberg]({{ site.baseurl }}/actors/authors/guido-steinberg.html) analyzes the US-Saudi nuclear agreement as a regional dimension of systemic bifurcation — the non-proliferation regime fragmenting along great-power competition lines. The agreement permits [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) to enrich uranium domestically, with less stringent inspections than the neighboring UAE's 2009 agreement (which included a renunciation of domestic enrichment and NPT Additional Protocol adherence). This weakens the "gold standard" set by the UAE deal. Two path-breaking details: domestic uranium enrichment is allowed, and inspections are less intrusive than in the UAE case [6].
+
+The cascade effects are regional. Abu Dhabi will likely seek the same conditions retroactively; [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) may respond with its own nuclear program given its rivalry with Riyadh; and [Iran]({{ site.baseurl }}/actors/countries/iran.html) — whose new, heavily militarized leadership continues the weapons program pursued since 1987 — will point to Saudi conditions in future negotiations to justify its own enrichment rights. The combination of Iran's continued nuclear pursuit and the Saudi nuclear agreement makes a Middle East with three, four, or five nuclear powers "very much more probable than previously." This cascade represents a regional dimension of systemic bifurcation: the non-proliferation regime fragmenting not from overt collapse but from the accumulation of bilateral exceptions that hollow out the universal norm [6]. See [Nuclear Proliferation and Arms Control]({{ site.baseurl }}/themes/nuclear-proliferation-and-arms-control.html).
+
+## Climate Policy Fragmentation
+
+[SWP]({{ site.baseurl }}/actors/authors/swp.html) (Beisheim/Böttcher/Brozus) identify growing geopolitical tensions and the multipolar order as fragmenting international climate cooperation. A Foresight exercise at the ACUNS conference identified three key challenges: (1) ideologization and politicization, alongside rising adaptation and transformation costs, could progressively weaken willingness for joint climate efforts; (2) a stronger fragmentation of international climate policy could follow; (3) this could lead to disproportionate burdens on less capable or willing members of the international community, further amplifying global inequalities [7].
+
+Fragmentation, however, can also mean decentralization — offering opportunities for local and regional climate policy that may be more accessible and inclusive. This could enable the inclusion of additional actors, increasing the legitimacy and acceptance of political measures. The UN General Assembly was identified as the multilateral platform where plurilateral coalitions and initiatives could converge to discuss progress and obstacles with all member states. The universal framework remains necessary even under fragmentation — the UN is still the appropriate venue for it [7]. See [Multilateral Climate Diplomacy]({{ site.baseurl }}/themes/multilateral-climate-diplomacy.html).
+
 # Citations
 
 [1] [Global System Bifurcation](https://substack.com/@velinatchakarova/p-205754684)
@@ -75,3 +94,9 @@ The bifurcation is therefore not only structural (two competing trade geometries
 [3] Adam Tooze, "Chartbook 462: China Shocked — Beyond 1.0 and 2.0 to the Big One", 2026-07-30 — [https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond](https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond)
 
 [4] ctindale, "The Importance of Being Obsolescent", 2026-07-30 — [https://substack.com/@ctindale/p-209065047](https://substack.com/@ctindale/p-209065047)
+
+[5] Philipp Rombach, "China's Secret Nuclear Tests", SWP, 2026-08-04 — [https://www.swp-berlin.org/publikation/chinas-secret-nuclear-tests](https://www.swp-berlin.org/publikation/chinas-secret-nuclear-tests)
+
+[6] Guido Steinberg, "Atommacht Saudi-Arabien — Dieses Atomabkommen bringt zwei große Probleme mit sich", Cicero, 2026-07-24 — [https://archive.ph/ncDGY](https://archive.ph/ncDGY)
+
+[7] Marianne Beisheim, Miranda Böttcher, Lars Brozus, "Klimapolitik in einer multipolaren Welt: Zwischen Fragmentierung und neuen Chancen", SWP, 2026-07-31 — [https://www.swp-berlin.org/publikation/klimapolitik-in-einer-multipolaren-welt-zwischen-fragmentierung-und-neuen-chancen](https://www.swp-berlin.org/publikation/klimapolitik-in-einer-multipolaren-welt-zwischen-fragmentierung-und-neuen-chancen)

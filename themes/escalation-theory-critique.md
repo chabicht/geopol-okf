@@ -7,7 +7,7 @@ tags:
   - military
   - ideology
 status: ongoing
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -82,6 +82,14 @@ The oscillation concept aligns with Aurelien's critique of linear escalation mod
 
 The **ground power dilemma** that Pape identifies deepens the critique. Airpower has failed on three measures: it has not restored secure commercial transit through Hormuz, has not broken [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s regional leverage, and has not produced a political settlement. The military instrument that has been applied cannot achieve the political objective, yet the political objective cannot be abandoned. This is the structural condition that the rational-actor model cannot capture: leaders are not choosing between escalation and de-escalation on a ladder — they are trapped in a geometry where every available option (continue bombing, pause bombing, escalate to ground operations, accept defeat) produces unacceptable costs along at least one dimension. The American political calendar compounds the trap by treating **time itself as a weapon** that Iran wields: as the November midterms approach, the incentive structure shifts in ways that favor the side that can outwait, not the side that can outfight [9].
 
+## Mowing the Grass: Israel's Doctrine of Perpetual Low-Level Escalation
+
+[S. Clinton Hinote]({{ site.baseurl }}/actors/authors/s-clinton-hinote.html) articulates [Israel]({{ site.baseurl }}/actors/countries/israel.html)'s theory of success in the [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html): the assumption that the Iranian regime will always be hostile, and the operational doctrine of conducting repeated "mowing the grass" strikes against regime targets. The more Iranian regime leaders killed, the more time it takes for replacements to become dangerous — but the replacements will eventually become dangerous, requiring another round. This is a doctrine of perpetual low-level escalation, not a strategy for achieving a decisive end-state. Hinote contrasts this with the US theory of success, which aims to coerce Iran into giving up its nuclear aspirations and reopening Hormuz — but the decapitation of Iranian leadership has produced strategic paralysis rather than a negotiating partner, leaving no one in Iran who can make and enforce a decision. The mismatch between Israeli and US national aims — reflected in their different target sets — illustrates the non-unitary actor problem at the alliance level [10].
+
+## Arms Control as De-escalation: The Case Against Nuclear Test Resumption
+
+[Philipp Rombach]({{ site.baseurl }}/actors/authors/philipp-rombach.html) argues that US resumption of underground nuclear testing would not deter rivals but would escalate and advantage them. China, having conducted only 45 tests (versus 1,054 by the US and 715 by the Soviet Union), has the strongest incentive to obtain additional test data for modernizing its nuclear arsenal. Experts largely agree that China would benefit the most from the full resumption of nuclear testing. The counter-argument against resumption is multilayered: China and [Russia]({{ site.baseurl }}/actors/countries/russia.html) are already deterred by the US arsenal; politically, Nevada is unlikely to support resumption given potential seismic effects on Las Vegas infrastructure; and science-based stockpile stewardship, combined with advances in X-ray and laser experiments, means there are no systems-level issues urgently requiring underground tests. At the systems level, underground tests are limited simulations — modern methods make it possible to understand *why and how* a system works, not merely *that* it works. The implication for escalation theory is direct: responding to adversary testing by resuming one's own testing is an escalatory move that advantages the party with the larger data deficit, not the party with the more advanced stewardship program [11]. See [Nuclear Proliferation and Arms Control]({{ site.baseurl }}/themes/nuclear-proliferation-and-arms-control.html).
+
 # Citations
 
 [1] [Upstairs, Downstairs](https://aurelien2022.substack.com/p/upstairs-downstairs)
@@ -101,3 +109,7 @@ The **ground power dilemma** that Pape identifies deepens the critique. Airpower
 [8] [Trump: "They Have Not Suffered Enough Yet"](https://escalationtrap.substack.com/p/trump-they-have-not-suffered-enough)
 
 [9] Robert Pape, "Breaking Analysis #10: Trump's Illusion of Control Meets Escalation Reality", 2026-08-03 — [https://escalationtrap.substack.com/p/breaking-analysis-10-trumps-illusion](https://escalationtrap.substack.com/p/breaking-analysis-10-trumps-illusion)
+
+[10] S. Clinton Hinote, "Why the Iran War Remains Strategically Adrift", The Cipher Brief, 2026-08-04 — [https://www.thecipherbrief.com/why-the-iran-war-remains-strategically-adrift](https://www.thecipherbrief.com/why-the-iran-war-remains-strategically-adrift)
+
+[11] Philipp Rombach, "China's Secret Nuclear Tests", SWP, 2026-08-04 — [https://www.swp-berlin.org/publikation/chinas-secret-nuclear-tests](https://www.swp-berlin.org/publikation/chinas-secret-nuclear-tests)

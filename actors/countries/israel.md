@@ -5,7 +5,7 @@ parent: Countries
 description: Israel as a geopolitical actor — dissatisfied with Iran war outcome, recognizing Somaliland for Red Sea access, facing Turkey as its greatest regional challenge, and resisting the US shift to multilateral security
 tags: [country, military, middle-east, naval]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -54,6 +54,8 @@ Joe Kent, in conversation with [Robert Pape]({{ site.baseurl }}/actors/authors/r
 - **Israel's long-term goal for Iran is complete regime change.** The nuclear issue was a pretext to entangle the US; Israel views a fracturing Iran as beneficial despite the disaster for Washington. [7]
 - **Lebanon must stay on a separate track from Iran.** Israel rejected unifying the fronts, insisting its conduct in Lebanon not be bound by any Iran ceasefire framework. [8]
 - **Syria is the collision course.** Israel's strikes target the very airfields Turkey surveyed for forward bases, and the Baku deconfliction channel is too thin to prevent the trajectory collision. [9]
+- **The Saudi normalization track failed after October 7.** The Biden mega-deal (peace + security pact + nuclear technology) collapsed; Riyadh lost interest, and the Trump administration pursued a standalone nuclear agreement without Israel normalization. [11]
+- **Israel is a "support" layer in the emerging regional architecture.** Egypt, Jordan, UAE, and Azerbaijan maintain formal ties, but constructing a broader framework including Israel alongside Arab states remains the core challenge. [10]
 
 # Analysis
 
@@ -72,6 +74,18 @@ The deep disagreements between the Trump and Netanyahu administrations have beco
 [The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) documents the deepening Israel-Turkey collision course in Syria. Netanyahu warned on Fox News and CNN that arming Turkey with F-35s would upset the regional balance — the first time Israel has publicly opposed a US arms sale to a fellow NATO member. The opposition reflects a structural rivalry: both powers are expanding into the post-Iran vacuum in Syria, with Turkey as the dominant external patron of al-Sharaa's government and Israel conducting approximately 988 air and artillery strikes in Syria in the seven months after Assad fell — nearly triple its previous rate. The two governments run a deconfliction channel through Azerbaijani mediation, described as "strictly technical," but the channel is too thin to prevent the trajectory collision that both parties' strategic logic is producing [9].
 
 Israel's strikes target the very Syrian airfields Turkey had surveyed for planned forward military bases — a March 25, 2025, Israeli strike on these sites caused Ankara to shelve its deployment. Trump's Ankara summit "gift bag" (lifting CAATSA sanctions, F110 engines for KAAN, conditional F-35 offer) directly accelerates the collision by upgrading Turkey's military capacity while Israel simultaneously escalates its Syrian operations. The State Department's July 8 initiation of rescission of Syria's state-sponsor-of-terrorism designation (in place since 1979) further tilts the Syrian theater toward Turkey's patronage. The Baku-routed deconfliction hotline cannot carry what American guarantees used to hold [9]. See [Turkey]({{ site.baseurl }}/actors/countries/turkey.html).
+
+## Normalization and the Saudi Track Failure
+
+[Guido Steinberg]({{ site.baseurl }}/actors/authors/guido-steinberg.html) documents that the Biden-era mega-deal — [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html)-Israel peace combined with a US security pact and civilian nuclear technology — failed after the October 2023 Gaza war damaged Israel-Saudi relations. MBS announced in September 2023 that a deal was close, but Riyadh lost interest in the grand bargain as relations deteriorated. The Trump administration resumed nuclear cooperation talks from April 2025, but as a standalone US-Saudi agreement rather than a comprehensive peace plan — meaning the normalization track with Israel was abandoned [11]. See [Political Normalization]({{ site.baseurl }}/themes/political-normalization.html).
+
+## Post-War Positioning
+
+[Kamran Bokhari]({{ site.baseurl }}/actors/authors/kamran-bokhari.html) assesses that Israel degraded Hamas and Hezbollah as military forces in 2024, and the collapse of [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s regional proxy network opened strategic space. Israel is part of the "support" layer of the new regional architecture — [Egypt]({{ site.baseurl }}/actors/countries/egypt.html), [Jordan]({{ site.baseurl }}/actors/countries/jordan.html), the [UAE]({{ site.baseurl }}/actors/countries/uae.html), and Azerbaijan maintain formal Israel relations and form the foundation on which a broader regional framework can be built. The fundamental challenge is constructing an architecture that includes Israel alongside Arab states. The October 7 fallout intensified Arab and Muslim public anger; Iran continues to exploit this to harness popular sentiment, sustain its ideological narrative, and obstruct broader regional alignments. Arab and Muslim states with leadership aspirations are geopolitically constrained by both Israel and Iran [10]. See [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) and [Middle East]({{ site.baseurl }}/regions/middle-east.html).
+
+## Mowing the Grass Doctrine
+
+Israel's theory of success assumes Iran will always be hostile; the operational response is repeated "mowing the grass" strikes against regime targets — degrading capabilities periodically rather than seeking decisive victory. This cross-references the [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) analysis of Israel's long-term goal for Iran. The doctrine complements Israel's long-term objective of complete regime change toward a secular, business-friendly government, as revealed by Joe Kent in conversation with [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) [7]. See [Iran]({{ site.baseurl }}/actors/countries/iran.html).
 
 # Citations
 
@@ -92,3 +106,7 @@ Israel's strikes target the very Syrian airfields Turkey had surveyed for planne
 [8] [The Peace That Redistributes War: What Camp David Reveals About Lebanon and Iran](https://warontherocks.com/the-peace-that-redistributes-war-what-camp-david-reveals-about-lebanon-and-iran/)
 
 [9] The Cipher Brief, "The New Fault Line: Israel and Turkey on a Collision Course", 2026-08-03 — [https://www.thecipherbrief.com/the-new-fault-line-israel-and-turkey-on-a-collision-course](https://www.thecipherbrief.com/the-new-fault-line-israel-and-turkey-on-a-collision-course)
+
+[10] Kamran Bokhari, "What Will the Middle East Look Like After the Iran War?" — [https://geopoliticalfutures.com/what-will-the-middle-east-look-like-after-the-iran-war/](https://geopoliticalfutures.com/what-will-the-middle-east-look-like-after-the-iran-war/)
+
+[11] Guido Steinberg, "Atommacht Saudi-Arabien — Dieses Atomabkommen bringt zwei große Probleme mit sich", 2026-07-24 — [https://archive.ph/ncDGY](https://archive.ph/ncDGY)

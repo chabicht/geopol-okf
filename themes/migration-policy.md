@@ -5,7 +5,7 @@ parent: Themes
 description: "Migration as a cross-cutting geopolitical instrument and stress test — route-based approaches, the protection-vs-control tension, externalization of border management, and the instrumentalization of anti-migration sentiment by political actors from South Africa to Europe to Afghanistan."
 tags: [demography, ideology, trade]
 status: ongoing
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -36,10 +36,10 @@ Müller ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) documents the South 
 
 # Key Dynamics
 
-- **Protection and control are not separable in practice**: Route-based programs that combine service provision with return cooperation risk using protection narratives to legitimize externalized control. The same program can improve conditions along a corridor and deepen the surveillance capacity of authoritarian transit states.
-- **Migration pressure overrides values**: When the volume of unwanted migration becomes politically unsustainable, governments engage with regimes they would otherwise shun. The EU-Taliban case is the leading edge; the pattern generalizes to any regime controlling a significant migration corridor.
-- **Scapegoating scales faster than governance**: Networked xenophobic mobilization — social-media-amplified, "concerned citizen"-framed, linked to but plausibly deniable by political parties — can outpace institutional responses. The South African template is exportable.
-- **Regional spillover is a first-order consequence**: Deportation and return policies affect neighboring states whose absorptive capacity is limited. South Africa's returns to Zimbabwe, Mozambique, and Malawi; Europe's returns to Afghanistan and North Africa — each creates downstream instability that feeds back into migration pressure.
+- **Protection and control are not separable in practice**: Route-based programs that combine service provision with return cooperation risk using protection narratives to legitimize externalized control. The same program can improve conditions along a corridor and deepen the surveillance capacity of authoritarian transit states. [1]
+- **Migration pressure overrides values**: When the volume of unwanted migration becomes politically unsustainable, governments engage with regimes they would otherwise shun. The EU-Taliban case is the leading edge; the pattern generalizes to any regime controlling a significant migration corridor. [2]
+- **Scapegoating scales faster than governance**: Networked xenophobic mobilization — social-media-amplified, "concerned citizen"-framed, linked to but plausibly deniable by political parties — can outpace institutional responses. The South African template is exportable. [3]
+- **Regional spillover is a first-order consequence**: Deportation and return policies affect neighboring states whose absorptive capacity is limited. South Africa's returns to Zimbabwe, Mozambique, and Malawi; Europe's returns to Afghanistan and North Africa — each creates downstream instability that feeds back into migration pressure. [3]
 
 # Analysis
 
@@ -79,6 +79,10 @@ The case also demonstrates **demonstrated migration-leverage capability** by a t
 
 Most significantly, Tchakarova shows that the Ceuta crisis sits at the **intersection of migration with geopolitical fault lines** — the Spain-Algeria rapprochement that threatens Morocco, the Washington-Madrid deterioration under Trump, and the Washington-Rabat alignment over Western Sahara. Migration is not merely a domestic policy issue or a bilateral negotiation lever but a vector that amplifies and is amplified by great-power positioning. The expectation-based pull factor, the demonstrated leverage capability, and the geopolitical fault lines are mutually reinforcing: Spain's domestic legal architecture creates the vulnerability, Morocco's border-control capacity provides the instrument, and the broader geopolitical alignment (or misalignment) determines the costs and risks of applying it. This framework generalizes: any migration corridor controlled by a state with geopolitical grievances against a destination state is potentially subject to the same triple intersection [5].
 
+## Ceuta Limits and Buffer-Zone Doctrine Failure
+
+[Annabelle Houdret]({{ site.baseurl }}/actors/authors/annabelle-houdret.html) and [Mark Furness]({{ site.baseurl }}/actors/authors/mark-furness.html) argue that the Hormuz crisis has revealed the limits of viewing North Africa primarily as a buffer zone for migration control. The [Ceuta Migration Crisis]({{ site.baseurl }}/events/ceuta-migration-crisis-2026-07-31.html) of July 2026 illustrates once more that the transactional, security-oriented framework has reached its limits. A more holistic approach is needed: circular skilled-worker migration, climate-change adaptation and mitigation, and dialogue on socio-political issues. The crisis requires moving beyond frameworks that reinforced authoritarian regimes and prioritized European border and energy security over the development needs of North African societies. A multidimensional alliance would embed socio-economic benefit and support democratic change as a means of creating resilience on both shores of the Mediterranean — a model that treats [Africa]({{ site.baseurl }}/regions/africa.html) as a partner rather than a buffer [6]. See [EU]({{ site.baseurl }}/actors/organizations/eu.html) for the AccelerateEU and partnership doctrine dimension.
+
 # Citations
 
 [1] [Migrationsrouten im Fokus: Routenbasierte Ansätze zwischen Schutzversprechen und Migrationskontrolle](https://www.swp-berlin.org/publikation/migrationsrouten-im-fokus)
@@ -90,3 +94,5 @@ Most significantly, Tchakarova shows that the Ceuta crisis sits at the **interse
 [4] [Protection Gaps in Germany's Skilled Labour Migration System](https://www.swp-berlin.org/publikation/protection-gaps-in-germanys-skilled-labour-migration-system)
 
 [5] Velina Tchakarova, "Ceuta 2026: Migration Crisis or Spain's Emerging Geopolitical Vulnerability?", 2026-07-31 — [https://substack.com/@velinatchakarova/p-209189178](https://substack.com/@velinatchakarova/p-209189178)
+
+[6] Annabelle Houdret and Mark Furness, "Between Shock and Opportunity: Hormuz and Deepening North Africa–Europe Relations", SWP, 2026-08-03 — [https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations](https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations)

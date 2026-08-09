@@ -10,7 +10,7 @@ tags:
   - supply-chain
   - naval
 status: ongoing
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -46,6 +46,7 @@ See [Sanctions and Financial Warfare]({{ site.baseurl }}/themes/sanctions-and-fi
 - **Regionalization of insurance architecture**: Sovereign-backed pools, regional reinsurance facilities, and hybrid public-private schemes are becoming central features of the system. The global insurance market is fragmenting into regional blocs aligned with geopolitical alignments [1].
 - **US withdrawal from security guarantor role**: The US has policed the world's trade routes and ultimately guaranteed global insurers safe and free navigation. The Iran war confirmed that in some situations the US is not only unable to provide such guarantees but can make them worse. Countries are no longer willing to rely solely on global markets that can cut capacity under stress or political pressure [1].
 - **Permanent cost inflation**: Security costs are becoming permanent. Insurance, compliance, and risk management are now baked into the price of trade. Supply chains are becoming redundant and more expensive. The era of optimizing trade for efficiency is over; the era of optimizing for resilience is underway [1].
+- **The 2% threshold**: Near-perfect military interception (98%) cannot eliminate the residual threat that insurance markets cannot absorb — volume can return while reliability remains compromised. [1]
 
 # Analysis
 
@@ -95,6 +96,14 @@ The soft blockade mechanism is analytically distinct from the voyage-by-voyage r
 
 The soft blockade connects directly to the [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) framework's "durability crisis" thesis: the system's buffers — in this case, the insurance infrastructure that enables global trade — are not merely stressed but withdrawn, converting a price event into a structural condition. It also reinforces the bifurcation dynamic: vessels operating outside Western insurance frameworks (the "shadow fleet" documented above) are immune to P&I withdrawal but operate at higher risk and with greater opacity, meaning the soft blockade accelerates the parallel-insurance architecture's expansion even as it closes the regulated system [7].
 
+## The Last 2% Problem and the Insurance Threshold
+
+[S. Clinton Hinote]({{ site.baseurl }}/actors/authors/s-clinton-hinote.html) identifies the structural dilemma at the heart of the Hormuz insurance crisis. The US joint force can prevent approximately 98% of attacks on shipping — "that could even get into the 90% plus range. You could even call it 98%." But the "last 2%" caused by mountainous rugged Iranian shores used as protective cover for missile and drone launches is genuinely hard to stop, and that 2% is precisely what the insurance industry cannot absorb. The problem is not military failure but the asymmetry between near-perfect interception and the binary risk tolerance of commercial insurance. So long as Iran has the will, it retains some level of capability to negate shipping through the strait — creating a conundrum that military means cannot solve and that insurance markets cannot price without withdrawing. The 98%/2% split explains why the [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) produced both operational success and economic paralysis simultaneously: the military objectives were being achieved while the strategic objective — restoring reliable commercial transit — remained unattainable as long as the residual threat persisted [8].
+
+## Throughput Recovery and Insurance Persistence
+
+[Norman T. Roule]({{ site.baseurl }}/actors/authors/norman-roule.html) reports that up to approximately 5 million barrels per day are now moving through the strait, reducing oil-market pressure. But the waterway remains unreliable, insurance rates remain very high and will persist at elevated levels, and the US naval blockade is still nominally in place. Refusenik shippers — operators unwilling to risk passage regardless of toll arrangements — are a factor. The [Hormuz Toll System]({{ site.baseurl }}/events/hormuz-toll-system.html) introduces unresolved questions about how payments to Iran interact with the sanctions regime: whether American ships can pay Iran, through what channels, and whether other countries will be sanctioned for paying Iran through those channels. The persistence of high insurance rates despite throughput recovery confirms Hinote's 2% thesis: volume can return while reliability remains compromised, and the insurance market prices reliability, not volume [9]. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html).
+
 # Citations
 
 [1] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
@@ -110,3 +119,7 @@ The soft blockade connects directly to the [Global System Rupture]({{ site.baseu
 [6] Javier Blas, "Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy", 2026-07-28 — [https://archive.ph/eLoT5](https://archive.ph/eLoT5)
 
 [7] Velina Tchakarova, "Global System Rupture Update", 2026-08-01 — [https://substack.com/@velinatchakarova/p-209381988](https://substack.com/@velinatchakarova/p-209381988)
+
+[8] S. Clinton Hinote and James Slife, "Why the Iran War Remains Strategically Adrift", 2026-08-04 — [https://www.thecipherbrief.com/why-the-iran-war-remains-strategically-adrift](https://www.thecipherbrief.com/why-the-iran-war-remains-strategically-adrift)
+
+[9] Norman T. Roule, "There Will be Unseen Costs to be Paid over the War in Iran. Who is Weighing Them?", 2026-08-05 — [https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them](https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them)

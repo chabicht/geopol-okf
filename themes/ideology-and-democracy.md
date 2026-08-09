@@ -9,7 +9,7 @@ tags:
   - democracy
   - oligarchy
 status: ongoing
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -26,7 +26,11 @@ The empirical record of communism's failure — authoritarian governance, econom
 
 # Key Dynamics
 
-The central dynamic is the gap between institutional authority and the values that originally legitimized it — a structural drift, not an incidental one, that makes the "save democracy" appeal unresponsive to the conservative critique [1]. This legitimacy erosion is compounded by oligarchic capture: the political power of the hyper-wealthy tilts policy in their favor, and this tilt reinforces their wealth, creating a self-reinforcing spiral in which corporate taxes fall despite overwhelming public opposition [17][25]. [Latin America]({{ site.baseurl }}/regions/latin-america.html)'s rightward realignment carries indigenous roots but also instability — disputed elections, institutional weakness, and leftist strongholds in Mexico and Brazil — meaning the conversion of ideological shift into security bloc architecture depends on whether right-leaning governments can consolidate institutional control [4].
+- **Legitimacy gap is structural.** The gap between institutional authority and the founding values that legitimized it is a structural drift, making "save democracy" appeals unresponsive to the conservative critique. [1]
+- **Oligarchic capture is self-reinforcing.** The political power of the hyper-wealthy tilts policy in their favor, and this tilt reinforces their wealth — corporate taxes fall despite overwhelming public opposition. [17][25]
+- **Blood-and-soil vs civic project.** Applebaum identifies the core ideological division as a clash between founding abstractions and "blood and soil" nationalism, crystallized in Vance's 2024 RNC speech. [12]
+- **Partisan balkanization.** O'Brien argues America has balkanized into two partisan camps where loyalty to party now determines views on war and America's global role, eroding shared national identity. [14]
+- **Latin American realignment carries instability.** The rightward wave has indigenous roots but disputed elections, institutional weakness, and leftist strongholds mean conversion into security bloc architecture is not guaranteed. [4]
 
 # Analysis
 
@@ -126,12 +130,16 @@ The AfD's eastern regional strength, classified "gesichert rechtsextrem" (confir
 
 The pattern is structural, not incidental. The 2015 Syrian migrant wave was instrumental to Brexit and the rise of the German far-right; the Ceuta replay demonstrates the same playbook operating with faster amplification through TikTok and X. The geopolitical context reveals instrumentalization: Spanish PM Sánchez had been meeting with Algeria shortly before, potentially provoking Moroccan retaliation through loosened border enforcement. The Trump administration reinforced Morocco's leverage — Congress described Ceuta and Melilla as "under Spanish administration" rather than sovereign Spanish territory, and Morocco joined Trump's "Board of Peace." Vox sent a politician to Ceuta calling on people to "defend their family." The playbook operates because the far-right amplification network — transnational in scope — can generate policy pressure faster than democratic institutions can verify facts. See [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) [37].
 
+## Wartime Governance and Democratic Participation in Ukraine
+
+[Susan Stewart]({{ site.baseurl }}/actors/authors/susan-stewart.html) documents how [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html)'s protests reflect a transformation of political culture during war — not a departure from democratic norms but an evolution of them. [Zelensky]({{ site.baseurl }}/actors/zelensky.html)'s opaque personnel decisions give citizens reason to protest: frequent, insufficiently explained dismissals of popular officials create the impression that the political system is increasingly shaped by personal rather than institutional logic. In the first war years, the population exercised great restraint, wanting to present a common front against the enemy. That restraint eroded beginning in July 2025, when street protests — combined with external actors' voices — forced the withdrawal of a law that would have disempowered two of Ukraine's key anti-corruption institutions. Active and influential civil society is a strength that has contributed to Ukraine's battlefield successes, but 4.5 years of war means greater instability as societal and political differences become visible. Wartime law formally bans protests, though they are tolerated in practice. Citizens demand political participation despite understanding the risks — including Russian exploitation of internal divisions. The debate over where the boundary lies between necessary protest and dangerous instability is itself a sign of democratic maturation under extreme conditions [38]. See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) and [Ukraine Civil Society Protests]({{ site.baseurl }}/events/ukraine-civil-society-protests-2026-07.html).
+
 # Citations
 
-[1] https://archive.ph/8FvBT
-[2] https://www.campustimes.org/2025/09/15/why-communism-doesnt-work/
-[3] https://medium.com/@navpil/why-communism-is-a-fundamentally-terrible-ideology-an-analysis-of-the-manifesto-of-the-communist-4fd7d2f9187a
-[4] https://substack.com/@velinatchakarova/p-203689435
+[1] [https://archive.ph/8FvBT](https://archive.ph/8FvBT)
+[2] [https://www.campustimes.org/2025/09/15/why-communism-doesnt-work/](https://www.campustimes.org/2025/09/15/why-communism-doesnt-work/)
+[3] [https://medium.com/@navpil/why-communism-is-a-fundamentally-terrible-ideology-an-analysis-of-the-manifesto-of-the-communist-4fd7d2f9187a](https://medium.com/@navpil/why-communism-is-a-fundamentally-terrible-ideology-an-analysis-of-the-manifesto-of-the-communist-4fd7d2f9187a)
+[4] [https://substack.com/@velinatchakarova/p-203689435](https://substack.com/@velinatchakarova/p-203689435)
 
 [5] [A Verdict on (the) Slaughter](https://paulkrugman.substack.com/p/a-verdict-on-the-slaughter)
 
@@ -198,3 +206,5 @@ The pattern is structural, not incidental. The 2015 Syrian migrant wave was inst
 [36] Carolina Drüten, James Crisp, Joe Barnes, James Rothwell (WELT/Telegraph), "Szenario für AfD-Wahlsieg: An der Landesregierung vorbei – Bund entwickelt Notfallpläne für Nato-Drehscheibe", 2026-07-30 — [https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html](https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html)
 
 [37] Anne Applebaum, "The Far-Right Playbook in Action", 2026-08-03 — [https://anneapplebaum.substack.com/p/the-far-right-playbook-in-action](https://anneapplebaum.substack.com/p/the-far-right-playbook-in-action)
+
+[38] Susan Stewart, "Die Ukraine zwischen Personalpolitik und Protesten", SWP, 2026-07-30 — [https://www.swp-berlin.org/publikation/die-ukraine-zwischen-personalpolitik-und-protesten](https://www.swp-berlin.org/publikation/die-ukraine-zwischen-personalpolitik-und-protesten)

@@ -55,3 +55,7 @@ permalink: /actors/countries/
 * [South Africa](south-africa.html) - ANC-led state whose xenophobic mobilization and GNU instability illustrate the intersection of economic distress, identity politics, and democratic erosion
 * [North Korea](north-korea.html) - Constitutionalizing nuclear centrality, abandoning unification, institutionalizing a "hostile two states" posture
 * [Finland](finland.html) - NATO's newest Baltic member navigating the Åland demilitarization debate
+* [Azerbaijan](azerbaijan.html) - Caucasus state at the intersection of Russia, Iran, and Turkey — oil-rich, militarily capable, key node in the Trump Route
+* [Morocco](morocco.html) - North African monarchy leveraging Tanger Med port, phosphate reserves, and Chinese-partnered battery factories as a geostrategic hub between Europe, Africa, and the Middle East
+* [Algeria](algeria.html) - North African energy exporter and EU's second-largest gas supplier (17.4% of imports), leveraging pipeline infrastructure (Transmed, Medgaz) and potential shale gas reserves as a geostrategic anchor
+* [Libya](libya.html) - Fragmented North African oil state where rival political factions (GNU west, LNA east) finance their operations through oil revenues, vulnerable to Hormuz crisis spillovers

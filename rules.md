@@ -382,12 +382,17 @@ not `energy-policy`).
 `energy`, `military`, `technology`, `ai`, `ideology`, `economics`,
 `cognitive-warfare`, `drone-warfare`, `nuclear`, `cbrn`, `sanctions`, `trade`,
 `demography`, `intelligence`, `critical-minerals`, `supply-chain`,
-`naval`, `air-defense`, `missile`, `cyber`, `elections`
+`naval`, `air-defense`, `missile`, `cyber`, `elections`, `agriculture`,
+`disinfo`, `far-right`, `oligarchy`, `terrorism`, `historical`
 
 ### 11.3 Regional tags
 
 `middle-east`, `indo-pacific`, `europe`, `africa`, `latin-america`,
-`central-asia`, `caucasus`, `sahel`, `baltic`, `black-sea`
+`central-asia`, `caucasus`, `sahel`, `baltic`, `black-sea`, `arctic`
+
+Entity-name tags (e.g., `china`, `nato`, `Ukraine`) are permitted as
+justified extensions for cross-referencing specific actors on event and
+theme concepts where the regional tag alone is insufficient. Use sparingly.
 
 ### 11.4 Conflict character tags
 

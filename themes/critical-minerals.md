@@ -10,7 +10,7 @@ tags:
   - technology
   - energy
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -25,10 +25,10 @@ The critical minerals landscape is defined by several concurrent dynamics across
 
 # Key Dynamics
 
-- **Mineral extraction increasingly energy-intensive as high-grade ores deplete**: The same depletion dynamics that affect fossil fuels apply to minerals. As high-grade deposits are exhausted, more energy is required to extract and process the same amount of material — compounding the energy cost of the energy transition.
-- **China dominates processing and refining of many critical minerals**: Control of midstream capacity — processing and refining — confers leverage that upstream production cannot match. China's dominance in rare earth processing, lithium refining, and other critical mineral supply chains creates a structural dependency for Western economies.
-- **Western countries selective in Central Asia due to sanctions risk**: Western investment in Central Asian mining is constrained by sanctions compliance, anti-corruption standards, and ESG requirements — creating a competitive disadvantage relative to Chinese investment, which operates without these constraints.
-- **Central Asia forced to interact with China despite concerns**: Central Asian states have concerns about Chinese dominance but limited alternatives. The 90% Chinese FDI share reflects not preference but the absence of viable Western alternatives.
+- **Mineral extraction increasingly energy-intensive as high-grade ores deplete**: The same depletion dynamics that affect fossil fuels apply to minerals. As high-grade deposits are exhausted, more energy is required to extract and process the same amount of material — compounding the energy cost of the energy transition. [2]
+- **China dominates processing and refining of many critical minerals**: Control of midstream capacity — processing and refining — confers leverage that upstream production cannot match. China's dominance in rare earth processing, lithium refining, and other critical mineral supply chains creates a structural dependency for Western economies. [3]
+- **Western countries selective in Central Asia due to sanctions risk**: Western investment in Central Asian mining is constrained by sanctions compliance, anti-corruption standards, and ESG requirements — creating a competitive disadvantage relative to Chinese investment, which operates without these constraints. [1]
+- **Central Asia forced to interact with China despite concerns**: Central Asian states have concerns about Chinese dominance but limited alternatives. The 90% Chinese FDI share reflects not preference but the absence of viable Western alternatives. [1]
 
 # Analysis
 
@@ -94,13 +94,21 @@ The EU Global Gateway framework represents the institutional architecture for tr
 
 Yet a sober reality check tempers this strategic logic. Building competitive processing capacity takes longer than a single legislative cycle, demands enormous capital, and faces formidable entrenched competition. The copper sector illustrates the challenge starkly: Chinese smelting capacity has expanded faster than global concentrate supply, driving treatment and refining charges (TC/RCs) into negative territory in 2025 — smelters literally paying miners for concentrate to maintain throughput. New African smelters entering this market must compete with Chinese operations that have already achieved economies of scale and are willing to operate at negative margins to defend market share. Infrastructure deficits in energy and transport further compound the difficulty, making the timeline for meaningful African downstream capacity realistic only on a decade-plus horizon [12].
 
+## CBAM and Due-Diligence as Cooperative Levers
+
+[Annabelle Houdret]({{ site.baseurl }}/actors/authors/annabelle-houdret.html) and Mark Furness argue that the [EU]({{ site.baseurl }}/actors/organizations/eu.html) Supply Chain Due-Diligence Directive and the Carbon Border Adjustment Mechanism (CBAM) should be implemented as cooperative tools rather than purely regulatory instruments. North African industrial diversification away from the fossil-fuel rentier model — supported by European investment in renewable energy, hydrogen production, and manufacturing — creates a structural alignment between European decarbonization goals and African development needs. [Morocco]({{ site.baseurl }}/actors/countries/morocco.html)'s Tanger Med port, automotive manufacturing center, battery factories, and phosphate reserves position it as a case study for this model. The cooperative framing matters: CBAM and due-diligence obligations, designed to support decarbonization in third countries, can either deepen or fracture the partnership depending on whether they are experienced as collaborative or coercive [14].
+
+## Declining Copper Head Grades and the EROI Linkage
+
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) documents the quantitative trajectory of copper depletion: McKinsey states that "the trend of declining copper head grades is well established and unlikely to be reversed," and BHP found that the average grade of copper ore has declined by 40% since 1991. As high-grade ores are exhausted, counteracting depletion requires increasingly energy-intensive and complex extraction methods — more rock must be processed to yield the same metal, raising the energy cost of production at every increment. This links mineral depletion directly to EROI decline: the energy return on investment for mining falls as ore grades fall, meaning more of society's net energy must be allocated to extracting the minerals that the energy transition itself requires. The thermodynamic trap is that technological complexity needed to counteract depletion — more sophisticated processing, longer supply chains, exotic materials — demands more energy, not less, at exactly the moment when energy surpluses are contracting [15]. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) and [Civilizational Collapse and Progress Traps]({{ site.baseurl }}/themes/civilizational-collapse-and-progress-traps.html).
+
 # Citations
 
-[1] https://geopoliticalfutures.com/what-investments-say-about-central-asia/
+[1] [https://geopoliticalfutures.com/what-investments-say-about-central-asia/](https://geopoliticalfutures.com/what-investments-say-about-central-asia/)
 
-[2] https://thehonestsorcerer.substack.com/p/the-big-picture
+[2] [https://thehonestsorcerer.substack.com/p/the-big-picture](https://thehonestsorcerer.substack.com/p/the-big-picture)
 
-[3] https://substack.com/@velinatchakarova/p-204418261
+[3] [https://substack.com/@velinatchakarova/p-204418261](https://substack.com/@velinatchakarova/p-204418261)
 
 [4] [Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)
 
@@ -121,3 +129,7 @@ Yet a sober reality check tempers this strategic logic. Building competitive pro
 [12] [Critical Minerals Will Reshape European-African Relations](https://www.swp-berlin.org/publikation/mta-spot77-critical-minerals-will-reshape-european-african-relations)
 
 [13] [China's Moment of Weakness](https://www.foreignaffairs.com/china/chinas-moment-weakness)
+
+[14] Annabelle Houdret and Mark Furness, "Between Shock and Opportunity: Hormuz and Deepening North Africa–Europe Relations", SWP, 2026-08-03 — [https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations](https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations)
+
+[15] The Honest Sorcerer, "Civilizations Fall When This Mechanism Activates", 2026-08-07 — [https://thehonestsorcerer.substack.com/p/civilizations-fall-when-this-mechanism](https://thehonestsorcerer.substack.com/p/civilizations-fall-when-this-mechanism)

@@ -5,7 +5,7 @@ parent: Countries
 description: Turkey as a geopolitical actor — emerging as the Middle East's dominant power, capitalizing on Iran's decline to expand across Syria, Iraq, Lebanon, and the Horn of Africa, competing with Israel for regional influence, and pursuing independent defense cooperation outside NATO constraints
 tags: [country, military, drone-warfare, africa, nato, middle-east, naval, ideology]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -16,14 +16,14 @@ Turkey is a Muslim-majority, non-Western member of [NATO]({{ site.baseurl }}/act
 
 # Key Dynamics
 
-- **Turkey is the primary beneficiary of US Middle East realignment.** The shift from Israel-centric to multilateral security elevates Turkey as the region's most capable military actor. [3][5]
-- **Iran's collapse created a strategic vacuum Turkey is filling faster than anyone.** Ankara backed al-Sharaa's takeover in Syria, regaining a Levant foothold for the first time since the Ottoman Empire fell. [5][10]
+- **Turkey is the primary beneficiary of US Middle East realignment and Iran's decline.** The shift to multilateral security and Iran's proxy-network collapse created a vacuum Ankara is filling faster than anyone — regaining a Levant foothold for the first time since the Ottoman Empire fell. [3][5][10][11]
 - **The Israel-Turkey rivalry is the defining dynamic of the post-Iran Middle East.** Both powers are expanding into the same Syrian vacuum on a structural collision course. [3][10]
 - **The Somalia model is Turkey's template for African expansion.** Military training, infrastructure, and diplomatic support displace Russia and France across the Sahel and Horn. [1][2]
 - **Horn of Africa port infrastructure is the primary vector of strategic competition.** Rival blocs — Israel-UAE-Ethiopia vs Turkey-Somalia-Egypt-Eritrea — face off through port deals. [2][6]
 - **F-35 reinstatement risks are technical, not just political.** The S-400's collection threat, Chinese telecom embedded in Turkey's networks, and regional opposition from Israel and Greece each independently argue against readmission. [8]
 - **Autocratisation has halved Turkey's economic performance.** Post-2016 purges and institutional erosion cut GDP growth from 6.5% to 3.5% and FDI from $15B to $11B. [7]
 - **Migration is a leverage tool Turkey repeatedly weaponizes.** Afghan transit pressure gives Ankara influence over EU Afghanistan policy comparable to the 2016 refugee deal. [9]
+- **Saudi rivalry may drive Turkish nuclear aspirations.** The US-Saudi agreement's loosened non-proliferation precedent gives Ankara both motive and cover to pursue its own program. [12]
 
 ## African Expansion: Drones, Diplomacy, and the Somalia Model
 
@@ -99,6 +99,14 @@ Trump's July 7, 2026, Ankara visit delivered a "gift bag": lifting CAATSA sancti
 
 Turkey's Africa expansion accelerates in parallel. Turkey operates its largest overseas military base in Somalia, has trained 15,000+ soldiers, deployed F-16s and armor, and begun offshore oil drilling. Turkey's defense minister reports other African governments requesting the same security-and-investment package. Iran's regional network, degraded by the 2026 war, has left a vacuum Turkey is filling faster than anyone else. The collision course with Israel is structural: both powers are expanding into the same post-Iran vacuum in Syria, and the Baku-routed deconfliction hotline cannot prevent the trajectory collision that both parties' strategic logic is producing [10]. See [Israel]({{ site.baseurl }}/actors/countries/israel.html) and [NATO Ankara Summit 2026]({{ site.baseurl }}/events/nato-ankara-summit-2026.html).
 
+## Strategic Pivot and Leadership Role in Post-Iran-War Architecture
+
+[Kamran Bokhari]({{ site.baseurl }}/actors/authors/kamran-bokhari.html) traces Turkey's strategic pivot toward the [Middle East]({{ site.baseurl }}/regions/middle-east.html) to the late 2000s, when Ankara's efforts to expand regional influence collided with [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s. Tehran had a head start and became the dominant power in Iraq and Syria, both bordering Turkey. The collapse of Iran's regional proxy network — Hamas and Hezbollah degraded as military forces in 2024 — created a strategic opening Turkey exploited through its Hayat Tahrir al-Sham allies, helping shape a new political order in Syria by end of 2024. Turkey is now part of the "core" of the new regional security architecture alongside [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html), [Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html), and [Egypt]({{ site.baseurl }}/actors/countries/egypt.html), with support from Qatar, the [UAE]({{ site.baseurl }}/actors/countries/uae.html), Jordan, and Azerbaijan. Historically Western-anchored via NATO and EU ties, Turkey is now pivoting toward the Middle East as the US offloads security responsibilities [11]. See [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html).
+
+## Saudi Rivalry Driving Nuclear Interest
+
+[Guido Steinberg]({{ site.baseurl }}/actors/authors/guido-steinberg.html) argues that Turkey may pursue its own nuclear program given the Saudi-Turkish rivalry for Middle East leadership. The US-Saudi agreement's loosening of non-proliferation standards — allowing domestic enrichment with less thorough inspections than the [UAE]({{ site.baseurl }}/actors/countries/uae.html) 2009 "gold standard" — sets a precedent Turkey may cite. The prospect of a nuclear-armed Saudi Arabia adds a direct strategic incentive, and the erosion of the non-proliferation framework removes a normative barrier [12]. See [Nuclear Proliferation and Arms Control]({{ site.baseurl }}/themes/nuclear-proliferation-and-arms-control.html) and [US-Saudi Nuclear Agreement]({{ site.baseurl }}/events/saudi-arabia-us-civilian-nuclear-agreement-2026-07-24.html).
+
 # Citations
 
 [1] Geopolitical Futures, "In Mali, Turkey Sees an Opening" — [https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/](https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/)
@@ -120,3 +128,7 @@ Turkey's Africa expansion accelerates in parallel. Turkey operates its largest o
 [9] [The EU's pragmatic turn toward the Taliban](https://www.theparliamentmagazine.eu/news/article/beyond-the-taliban-normalization-debate)
 
 [10] The Cipher Brief, "The New Fault Line: Israel and Turkey on a Collision Course", 2026-08-03 — [https://www.thecipherbrief.com/the-new-fault-line-israel-and-turkey-on-a-collision-course](https://www.thecipherbrief.com/the-new-fault-line-israel-and-turkey-on-a-collision-course)
+
+[11] Kamran Bokhari, "What Will the Middle East Look Like After the Iran War?" — [https://geopoliticalfutures.com/what-will-the-middle-east-look-like-after-the-iran-war/](https://geopoliticalfutures.com/what-will-the-middle-east-look-like-after-the-iran-war/)
+
+[12] Guido Steinberg, "Atommacht Saudi-Arabien — Dieses Atomabkommen bringt zwei große Probleme mit sich", 2026-07-24 — [https://archive.ph/ncDGY](https://archive.ph/ncDGY)

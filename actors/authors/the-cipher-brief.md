@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: National security and intelligence-focused analytical publication featuring expert commentary from former officials — covering AI military competition, intelligence community reform, China strategic rivalry, Endless Warfare framework, and cognitive warfare
 tags: [author, news]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -88,6 +88,32 @@ Netanyahu's response was unprecedented: he warned on Fox News and CNN that armin
 
 Iran's regional network, degraded by the 2026 war, has left a vacuum Turkey is filling faster than anyone else. The State Department initiated rescission of Syria's state-sponsor-of-terrorism designation on July 8 (in place since 1979); Washington and Riyadh announced a nuclear cooperation agreement on July 22. The Baku-routed deconfliction hotline is too thin to prevent the collision that both parties' strategic trajectories are producing. See [Turkey]({{ site.baseurl }}/actors/countries/turkey.html), [Israel]({{ site.baseurl }}/actors/countries/israel.html), and [NATO Ankara Summit 2026]({{ site.baseurl }}/events/nato-ankara-summit-2026.html) [15].
 
+## Strategic Drift and the Iran War
+
+Retired Air Force Lt. Gen. S. Clinton Hinote and Gen. James Slife assess that while US forces are achieving military objectives in the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — destroying the Iranian Navy, Air Force, air defenses, missile and drone production capabilities — the translation of battlefield success into strategic success has been "the weakness in this entire operation." Hinote frames the disparity between strategic aims and military means: the US is fighting a coercion campaign ("we want the Strait open, we want you to give up your nuclear aspirations") but there is nobody left in Iran who can make and enforce that decision up and down what remains of the government and military apparatus. The result is that strategic aims and military means "may in certain circumstances work against each other" [16].
+
+The analysis contrasts Israeli and US doctrines. Hinote characterizes the Israeli approach as "mowing the grass" — the belief that the Iranian regime will always be hostile, requiring repeated strikes against regime targets and leaders. The US, by contrast, seeks a steady state better than the pre-war status quo, ideally enabling a pivot to Asia. Hinote notes the US and Israel have pursued "very different target sets which may tell us something about what our respective national aims are." The decapitation operation against Iranian leadership was "maybe the most successful decapitation operation in history," yet there was no strategic paralysis in Tehran and no internal uprising, contrary to Trump's February call for the Iranian people to "take over your government" [16].
+
+On the Strait of Hormuz, Slife emphasizes that geography favors Iran — three sides of the strait, narrow, shallow, limited maneuverability. Hinote identifies the "last 2% problem": the joint force can prevent 98%+ of attacks on shipping, but that final 2% is what ship insurance companies cannot accept, creating an intractable conundrum as long as Iran has the will to negate shipping. Slife warns of a service-reliability drag: the pace of operations over the last year has "probably exceeded the Air Force and Navy's ability to maintain levels of readiness going forward," with a delayed impact over the next three-to-five years [16].
+
+Hinote highlights the F-15E back-seater rescue operation as a multi-service exemplar — "a huge operation that required tremendous integration across multiple types of forces in a very difficult time frame" — contrasting it with the failed April 1980 Iran hostage rescue attempt, and arguing it stands as "one of the best we've ever seen." The political stakes of the rescue were existential: a captured pilot paraded on Iranian TV would have jeopardized the entire operation's political objectives [16]. See [S. Clinton Hinote]({{ site.baseurl }}/actors/authors/s-clinton-hinote.html) and [James Slife]({{ site.baseurl }}/actors/authors/james-slife.html).
+
+## Operational Pause and Sanctions Architecture
+
+Norman T. Roule (former National Intelligence Manager for Iran at ODNI) assesses that the current state is not a ceasefire but an "operational pause" — a period of coercive restraint where Iran continues to attack ships while the US restrains its response to give diplomacy a chance. The negotiation pattern is consistently indirect: the US announces negotiations, Iran denies they are taking place, and indirect negotiations through regional parties follow. The Iran-Oman mechanism raises unresolved questions: what happens to a shipper who refuses to pay tolls? How does this work with US sanctions? Are American ships allowed to pay Iran money? Are Israeli or Israeli-related ships banned from the Gulf? [17].
+
+Roule's central warning: if Iran acquires control over the strait, the international sanctions regime could collapse. Iran would gain a "permanent foot on the throat of the international community," with billions in revenue inevitably flowing to its missile program and proxies. The Houthi precedent compounds the risk — if the Houthis see the Iran-Oman deal and demand the same for the Bab el-Mandeb, there is no premise to refuse. Roule identifies the Gulf states as moderators who convinced Trump to give diplomacy a chance, noting their exceptional air defense performance in protecting their own nationals, hundreds of thousands of American residents, and the international economy. He cautions that Iranian cyber activity has continued "unabated" since the conflict began, including the Minnesota SCADA infrastructure attack, and that failure to respond signals to Tehran that there is no reason to stop [17].
+
+Roule's closing assessment: "there will be unseen costs to be paid over the war in Iran" — the costs of any deal (sanctions implications, Houthi precedent, strait control) are not being publicly discussed, and "if it doesn't happen, that's a bad thing for everybody." See [Norman T. Roule]({{ site.baseurl }}/actors/authors/norman-roule.html), [Sanctions and Financial Warfare]({{ site.baseurl }}/themes/sanctions-and-financial-warfare.html), and [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) [17].
+
+## Gray-Zone Operational Doctrine
+
+The Cipher Brief argues that the United States must develop a coherent whole-of-government strategy for gray-zone activity — coercion and subversion "below what constitutes armed conflict but outside the bounds of historically legitimate statecraft," per the National Intelligence Council's definition. The US currently lacks the organizational structure to compete: the State Department is focused on developing relationships, the NSC is "hollowed out," and legal authorities prevent both the Department of War and the intelligence community from taking the lead in implementing whole-of-government strategies. The article identifies five activity categories: (1) cyber and information operations; (2) covert and clandestine operations (espionage, infiltration, subversion); (3) enlistment of non-governmental actors and assistance to irregular/paramilitary forces; (4) economic pressures beyond normal competition; (5) calculated ambiguity including deception and denial operations [18].
+
+The framework identifies an autocratic structural advantage: non-democratic states, unlimited by domestic law and regulation, can marshal whole-of-state and whole-of-society resources more effectively. Democratic societies face inherent challenges because legal and military systems are geared toward war and peace with "little consideration for anything in between." Historical antecedents are traced from the Trojan Horse (deception, clandestine infiltration) through the Peloponnesian War (Athenian proxy operations to sow Helot revolt against Sparta), the Han Empire (economic and cultural engagement to manage nomadic tensions), and the Cold War (espionage, sabotage, proxy support in Latin America, Korea, Vietnam) [18].
+
+The article notes that the White House has taken an initial step by appointing the first NSC Director for Cognitive Advantage, but cognitive advantage is just one subset of gray-zone activity. The prescription: put a seasoned professional at the NSC in charge of integrating USG gray-zone activities against specific adversaries, use trained Department of War and intelligence community planners to develop government-wide plans implemented at the White House, and train national security professionals across the government in gray-zone strategy development. Without this, "we will find ourselves no longer the global power that we have been." See [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) and [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) [18].
+
 # Track Record
 
 ## Resolved
@@ -107,6 +133,9 @@ Iran's regional network, degraded by the 2026 war, has left a vacuum Turkey is f
 - **2026 — Endless Warfare persistence [6]:** Standing forecast that adversary gray-zone warfare will continue until it is no longer effective, not until adversaries choose peace. *Observable that would resolve it:* sustained reduction in adversary gray-zone activity linked to ineffectiveness rather than voluntary restraint.
 
 - **2026 — FY 2027 defense budget: battleship and DAWG as filler [12]:** Standing forecast that the battleship program and the $54B DAWG line item are budget filler that Congress will cut back. *Observable that would resolve it:* FY 2027 appropriations outcome showing whether these line items survive intact or are reduced.
+- **2026-08-04 (Hinote/Slife, "Strategically Adrift") [16]:** Standing forecast that the US lacks a coherent strategy to convert battlefield success into lasting political outcomes in Iran, and that the situation remains "adrift." *Observable that would resolve it:* whether a post-ceasefire political framework emerges or the situation remains strategically incoherent.
+- **2026-08-05 (Roule, "Unseen Costs") [17]:** Standing forecast that the costs of any Iran deal (sanctions implications, Houthi precedent, strait control consequences) are not being publicly discussed, and that this absence is "a bad thing for everybody." *Observable that would resolve it:* whether a public costs debate emerges in policy discourse or the deal proceeds without addressing these tradeoffs.
+- **2026-08-05 (BLUF, "Gray Zone") [18]:** Standing forecast that without a coherent US gray-zone strategy and an NSC coordinator with operational authority, the US will lose global leadership in the gray-zone domain. *Observable that would resolve it:* whether such a position is created with operational authority.
 
 # Sources in Bundle
 
@@ -125,6 +154,9 @@ Iran's regional network, degraded by the 2026 war, has left a vacuum Turkey is f
 - "Is Iran Controlling the Gulf Conflict?" [13]
 - "We've Seen Autonomous Warfare and We're in Trouble" [14]
 - "The New Fault Line: Israel and Turkey on a Collision Course" [15]
+- "Why the Iran War Remains Strategically Adrift" [16]
+- "There Will be Unseen Costs to be Paid over the War in Iran. Who is Weighing Them?" [17]
+- "BLUF: The US Must Lead in Gray Zone Activity" [18]
 
 # Citations
 
@@ -157,3 +189,9 @@ Iran's regional network, degraded by the 2026 war, has left a vacuum Turkey is f
 [14] [We've Seen Autonomous Warfare and We're in Trouble](https://www.thecipherbrief.com/weve-seen-autonomous-warfare-and-were-in-trouble)
 
 [15] The Cipher Brief, "The New Fault Line: Israel and Turkey on a Collision Course", 2026-08-03 — [https://www.thecipherbrief.com/the-new-fault-line-israel-and-turkey-on-a-collision-course](https://www.thecipherbrief.com/the-new-fault-line-israel-and-turkey-on-a-collision-course)
+
+[16] The Cipher Brief, "Why the Iran War Remains Strategically Adrift", 2026-08-04 — [https://www.thecipherbrief.com/why-the-iran-war-remains-strategically-adrift](https://www.thecipherbrief.com/why-the-iran-war-remains-strategically-adrift)
+
+[17] Norman T. Roule, "There Will be Unseen Costs to be Paid over the War in Iran. Who is Weighing Them?", 2026-08-05 — [https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them](https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them)
+
+[18] The Cipher Brief, "BLUF: The US Must Lead in Gray Zone Activity", 2026-08-05 — [https://www.thecipherbrief.com/bluf-the-us-must-lead-in-gray-zone-activity](https://www.thecipherbrief.com/bluf-the-us-must-lead-in-gray-zone-activity)

@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Center for Strategic and International Studies — defense and security analysis producing data-driven assessments of the Russia-Ukraine War, military capabilities, great power competition, war cost estimation, cyber threat ecosystems, Indo-Pacific security dynamics, and economic statecraft
 tags: [author, news, cyber]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -17,6 +17,12 @@ The Center for Strategic and International Studies (CSIS) is a bipartisan, nonpr
 ## Data-Driven Battlefield Assessment
 
 CSIS produces regular assessments of the Russia-Ukraine War using quantitative indicators: fatality and casualty rates, rates of advance measured in meters per day, and territorial gains in square kilometers. This methodology moves beyond anecdotal analysis to establish historically grounded comparisons. Their June 2026 report found Russian fatalities in Ukraine are more than four times greater than all US fatalities in all wars combined since World War II, and more than nine times greater than all Soviet and Russian fatalities in all wars combined since World War II [1].
+
+The August 2026 update (Jones/McCabe) provides the most comprehensive CSIS battlefield dataset to date. Russian forces have suffered approximately 1.4 million battlefield casualties and as many as 450,000 fatalities between February 2022 and June 2026. Russia's monthly casualty rates of 30,000–34,000 per month in 2026 have likely exceeded recruitment rates of approximately 27,000 per month. The Russia-Ukraine casualty ratio has likely risen to nearly 8:1 in the first half of 2026, up from between 2:1 and 3:1 for much of the war — driven in large part by Ukraine's use of AI-enabled drones in its aggressive air interdiction campaign. Ukrainian forces have suffered between 525,000 and 625,000 casualties and 125,000–150,000 fatalities. Combined Russian and Ukrainian casualties have exceeded 2 million [1].
+
+Rates of advance have been historically slow: approximately 50 meters per day around Kostiantynivka, 70 meters per day around Pokrovsk, and 90 meters per day around Sloviansk — among the slowest rates in any war over the last century, comparable to the Battle of the Somme. Russia's territorial control in Ukraine shrank in the spring of 2026, with a net loss of roughly 400 square kilometers in April and May — the first monthly net losses since August 2024. Russia currently controls approximately 118,000 square kilometers (about 20 percent of Ukraine) [1].
+
+The data documents a kill zone of approximately 20–40 kilometers saturated with drones, where over 90 percent of Russian casualties are from drone attacks rather than human-to-human engagements. Russia's Rubikon Center for Advanced Unmanned Systems has been effective at striking Ukrainian drone operators, destroying rear units, and severing supply lines. On the Ukrainian side, the Hornet drone — a one-way autonomous attack drone costing roughly $6,000 with a range of up to 150 km — uses AI to analyze live video feeds, identify targets, detect decoys, and strike during the terminal phase using onboard AI without requiring a satellite connection. Ukraine has also deployed AI-assisted systems from SkyFall for counter-drone operations, including identification and destruction of Russian FPV drones. See [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) and [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html) [1].
 
 ## Ukraine's Air Interdiction Campaign
 
@@ -50,6 +56,12 @@ Philip Luck (CSIS Economics Program director) quantifies the costs of Trump's ta
 
 CSIS Economics Program and Americas Program fellows (Gundermann, Grant-Chapman, Marroquín Bitar) provide legal and trade analysis of the first presidential use of Section 338 of the Tariff Act of 1930. Three proclamations targeted alcohol, autos, and dairy — $20.2B in goods, representing 4.9% of US imports from Canada. The analysis flags unresolved legal questions around the ITC's role, implicit repeal of existing trade obligations, and WTO compatibility. The tariffs function as leverage to force Canada into USMCA review negotiations [7].
 
+## Six-Driver Munitions Shortage Framework
+
+Mark Cancian and Chris Park (CSIS) provide a taxonomy of six interconnected drivers explaining why the United States lacks the depth of munitions inventories it needs: (1) **Strategic** — the post–Cold War shift from preparing for a superpower conflict to two limited regional conflicts (Iraq and North Korea) shrank munitions procurement requirements; expectations only began changing after Russia's 2014 Crimea invasion and the 2022 full-scale Ukraine invasion. (2) **Operational** — the US has deep inventories of cheaper alternatives (e.g., JDAM) but these come with trade-offs: shorter range requiring aircraft to overfly adversary territory, resulting in greater vulnerability. (3) **Industrial** — the 1993 "Last Supper" consolidation reduced defense prime contractors from 51 to 5, restructuring the industrial base for efficient peacetime production with no surge capability; very little spare capacity was available when DOD tried to surge production in 2022. (4) **Institutional** — munitions compete poorly in the Pentagon's budget process: platforms (aircraft, ships, armored vehicles) are visible 30-year deterrence assets, while munitions go into bunkers and only emerge during war or when their service life expires, making them perennial "bill payers" for higher-priority needs. (5) **Expenditure** — recent wars have drawn down inventories: the Houthi campaign (Operation Poseidon Archer) used hundreds of SM-2/3/6 interceptors; the April and October 2024 Iran-Israel exchanges expended more interceptors; the Twelve Day War fired 150 THAAD interceptors and 24 Tomahawks; additional Tomahawks were used against ISIS in Nigeria and JASSMs in the Venezuela raid. (6) **Ukraine transfers** — only a minor factor with one important exception: of 102 items provided to Ukraine at a total cost of $85 billion, only 4 (Patriot interceptors, ATACMS, HARM, Stingers) affect war reserves relevant to a China conflict [8].
+
+The framework's central thesis is that the immediate problem is "not money, but time": current deliveries reflect funding before FY 2024, as it takes two to four years for munitions to be delivered once a contract is signed. The US is surging production, but until production catches up, there is a "window of vulnerability" where current inventories are insufficient for a simultaneous conflict with China, Russia, or North Korea. The framework emphasizes that commitment must be sustained — a few years of frenzied buying will not fully build inventories or establish the surge capacity that might be needed. See [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) and [Twelve Day War]({{ site.baseurl }}/events/twelve-day-war.html) [8].
+
 # Track Record
 
 **Resolved**
@@ -61,6 +73,8 @@ CSIS Economics Program and Americas Program fellows (Gundermann, Grant-Chapman, 
 
 - 2026-07-22 (Luck, "Elbows Up") — Luck's finding that consumer boycott behavior persists beyond tariff adjustments — citizen behavior cannot be dictated by state-to-state economic statecraft [6]. Resolves on whether US-Canada consumer patterns (travel spending, provincial liquor delistings) recover after tariff removal or persist independently of trade policy.
 - 2026-07-22 (Gundermann, Grant-Chapman, Marroquín Bitar, "Understanding President Trump's New Tariffs") — the analysis forecasts that Section 338 tariffs function as leverage to force Canada into USMCA review negotiations [7]. Resolves on whether Canada formally enters USMCA review talks before or in response to the August 19 tariff enforcement date, or whether the tariffs are implemented as scheduled without Canadian concession.
+- 2026-08-05 (Cancian/Park, "Six Reasons Why the United States Is Low on Munitions") — standing forecast that the US faces a "window of vulnerability" where current munitions inventories are insufficient for a simultaneous China/Russia/NK conflict, and that a multiyear rebuild is needed [8]. Resolves on whether FY2027/2028 reconciliation funding produces measurable inventory expansion by FY2029.
+- 2026-08-05 (Jones/McCabe, "Russian Blood and Treasure") — standing forecast that Ukraine's best hope is a stalemate leading to a peace agreement or ceasefire, and that secondary sanctions on Chinese/HK banks facilitating shadow-fleet transactions are the key pressure lever [1]. Resolves on whether a ceasefire materializes and whether secondary sanctions are imposed.
 
 **Single-publication-as-single-voice**
 
@@ -75,6 +89,7 @@ Per rules.md §8.5, "CSIS" is not one analytical voice — Track Record entries 
 - "China and CRINK: Implications for Japan and the United States" [5]
 - "Elbows Up: The Price of Economic Coercion Against Canada" [6]
 - "Understanding President Trump's New Tariffs on Canadian Imports" [7]
+- "Six Reasons Why the United States Is Low on Munitions" (Cancian/Park) [8]
 
 # Citations
 
@@ -91,3 +106,5 @@ Per rules.md §8.5, "CSIS" is not one analytical voice — Track Record entries 
 [6] [Elbows Up: The Price of Economic Coercion Against Canada](https://www.csis.org/analysis/elbows-price-economic-coercion-against-canada)
 
 [7] [Understanding President Trump's New Tariffs on Canadian Imports](https://www.csis.org/analysis/understanding-president-trumps-new-tariffs-canadian-imports)
+
+[8] Mark F. Cancian, Chris H. Park, "Six Reasons Why the United States Is Low on Munitions", 2026-08-05 — [https://www.csis.org/analysis/six-reasons-why-united-states-low-munitions](https://www.csis.org/analysis/six-reasons-why-united-states-low-munitions)

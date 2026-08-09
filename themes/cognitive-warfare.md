@@ -9,7 +9,7 @@ tags:
   - cyber
   - ai
 status: ongoing
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -29,9 +29,12 @@ Leaked documents from Delfi Estonia, shared with OCCRP, reveal the scope and met
 
 # Key Dynamics
 
-- **Image as power**: The explicit goal, as stated in the leaked documents, is that "the more Russia participates in active influence campaigns all over the world, the stronger the image of a global Russian power." Influence operations are not a supplement to conventional power but a substitute for it — projecting influence that the state cannot achieve through military or economic means.
-- **Operations designed to incite unrest and intolerance**: The cognitive strikes target social fault lines — religious tensions, ethnic divisions, political polarization — with the objective of destabilizing adversary societies from within.
-- **Institutional coordination through digital tools**: The use of workplace collaboration platforms for coordination between SDA staffers and Presidential Administration officials reveals a modernized operational architecture that blends plausible deniability with bureaucratic integration.
+- **Image as power**: The explicit goal, as stated in the leaked documents, is that "the more Russia participates in active influence campaigns all over the world, the stronger the image of a global Russian power." Influence operations are not a supplement to conventional power but a substitute for it — projecting influence that the state cannot achieve through military or economic means. [1]
+- **Operations designed to incite unrest and intolerance**: The cognitive strikes target social fault lines — religious tensions, ethnic divisions, political polarization — with the objective of destabilizing adversary societies from within. [1]
+- **Institutional coordination through digital tools**: The use of workplace collaboration platforms for coordination between SDA staffers and Presidential Administration officials reveals a modernized operational architecture that blends plausible deniability with bureaucratic integration. [1]
+- **Iranian cyber operations on US infrastructure**: Iran's cyber activity has continued "unabated" since the US-Iran War began, including probable attacks on Minnesota water-infrastructure SCADA systems — a longstanding pattern of Iranian targeting of US national infrastructure [11].
+- **Cognitive advantage as subset of gray zone**: The NSC Director for Cognitive Advantage covers one pillar; cyber ops, covert action, paramilitary enlistment, economic pressure, and deception/denial are other pillars requiring coordinated integration [12].
+- **Russian exploitation of wartime governance tensions**: Tensions in Ukrainian politics will inevitably be exaggerated by Russian actors and used against Kyiv — a live example of cognitive warfare exploiting wartime governance disputes [13].
 
 # Analysis
 
@@ -97,9 +100,27 @@ The core innovation is the reframing of systems confrontation from information-p
 
 [Anne Applebaum]({{ site.baseurl }}/actors/authors/anne-applebaum.html) documents a cognitive warfare pattern that operates through civilian platforms rather than state operatives — the TikTok-to-far-right-politician amplification cycle. On July 31, 2026, a TikTok video went viral falsely claiming Spain's border was open, misreading a Spanish Supreme Court ruling on sea arrivals. The disinformation cascaded through X (JD Vance's "Invasion of the West" post garnered 4.79 million views) and was amplified by Nigel Farage, Robert Jenrick, Suella Braverman (UK), and Alice Weidel (AfD, Germany). The video's origin — Ceuta, a Spanish enclave in Morocco — was mischaracterized as "northern Spain," and the migrants could never have reached mainland Spain. By the time context corrections circulated, most migrants had returned to Morocco and 99 people were dead. The cycle — viral platform disinformation → far-right political amplification → policy panic — outpaces institutional fact-checking by orders of magnitude. This is cognitive warfare conducted through the adversary's own information ecosystem, weaponizing migration events through mischaracterization and transnational far-right networks. The pattern echoes the 2015 Syrian migrant wave's instrumentalization for Brexit and the German far-right's rise, now operating at faster speed through algorithmic amplification [10]. See [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html).
 
+## Iranian Cyber Operations on US Critical Infrastructure
+
+[Norman T. Roule]({{ site.baseurl }}/actors/authors/norman-roule.html) — former National Intelligence Manager for Iran at ODNI — reports that [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s cyber activities have continued "unabated" since the [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) began. This includes probable attacks on US water-infrastructure SCADA systems in Minnesota, which fits a longstanding pattern of Iranian cyber targeting of US national infrastructure. While US national cyber architecture and Gulf partner defenses have largely succeeded, the persistence of Iranian cyber operations against critical infrastructure during an active conflict demonstrates that cognitive warfare extends beyond information operations to the physical-digital interface — attacks on SCADA systems are attacks on the cognitive confidence of the targeted society in its own infrastructure [11].
+
+Roule argues that a US response against Iranian cyber architecture would be a congruent asymmetric/proportional response rather than a symmetric one — striking the cyber infrastructure that enables the attacks, rather than replicating the same kind of attack. The principle is that the US does not need to respond in kind but must impose material costs that exceed Iranian gains. If proven and left unanswered, the message to Tehran is that such operations carry no consequence. This connects cognitive warfare to the broader [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) framework: cyber operations on critical infrastructure are a gray-zone tool designed to coerce below the threshold of armed conflict while degrading the targeted society's confidence in its own systems [11]. See [United States]({{ site.baseurl }}/actors/countries/united-states.html) and [Iran]({{ site.baseurl }}/actors/countries/iran.html).
+
+## Cognitive Advantage as Subset of Gray Zone
+
+[The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) provides a critical disambiguation: the NSC Director for Cognitive Advantage is a meaningful institutional step but covers only one part of the gray-zone toolkit. Cyber operations, covert action, paramilitary enlistment, economic pressure, and deception/denial are other pillars that require coordinated integration. Cognitive warfare — influence operations, narrative competition, perception management — is a subset of gray-zone activity, not the whole. The US government has been arguing over the definition and leadership of gray-zone and information operations for years, and the lack of a senior NSC professional coordinating all gray-zone pillars inhibits the synchronized whole-of-government response that the adversary strategy demands [12].
+
+This disambiguation matters for cognitive warfare as a concept: it prevents overloading the cognitive-warfare frame with activities (cyber sabotage, economic coercion, covert action) that are better understood as parallel gray-zone pillars operating alongside cognitive warfare, not within it. The [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) framework provides the overarching structure; cognitive warfare is one pillar within it; cyber, covert, paramilitary, economic, and deception operations are others [12].
+
+## Russian Exploitation of Ukrainian Political Tensions
+
+[Susan Stewart]({{ site.baseurl }}/actors/authors/susan-stewart.html) (SWP) identifies a live example of cognitive warfare exploiting wartime governance disputes. The ongoing street protests in [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) — triggered by the dismissal of Defense Minister Fedorov and broader patterns of intransparent personnel decisions by President Zelensky — will "inevitably be exaggerated by Russian actors and used against Kyiv." The timing is particularly poor: Ukraine is experiencing a positive phase both on the battlefield and in its relationship with the [United States]({{ site.baseurl }}/actors/countries/united-states.html), and internal political tensions provide Russian cognitive-warfare operators with material to exploit at precisely the moment when allied support is most needed [13].
+
+The mechanism is familiar from the broader cognitive-warfare pattern: internal political divisions are amplified by adversary information operations to degrade allied confidence in Ukrainian governance and to fracture the civil-society cohesion that has sustained the war effort. Stewart notes that the tension between necessary democratic debate and the danger of instability is itself a contested space — and contested spaces are where cognitive warfare operates most effectively. The case illustrates that cognitive warfare does not require adversary fabrication; it requires only that genuine internal tensions exist, which adversary actors can then exaggerate and weaponize [13]. See [Russia]({{ site.baseurl }}/actors/countries/russia.html) and [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html).
+
 # Citations
 
-[1] https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris
+[1] [https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris](https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris)
 
 [2] [The Kremlin's Expanding Media Conglomerate 2026](https://understandingwar.org/research/cognitive-warfare/the-kremlins-expanding-media-conglomerate/)
 
@@ -118,3 +139,9 @@ The core innovation is the reframing of systems confrontation from information-p
 [9] [Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare](https://warontherocks.com/total-war-on-taipei-china-explores-elevating-cognitive-effects-into-its-vision-of-warfare/)
 
 [10] Anne Applebaum, "The Far-Right Playbook in Action", 2026-08-03 — [https://anneapplebaum.substack.com/p/the-far-right-playbook-in-action](https://anneapplebaum.substack.com/p/the-far-right-playbook-in-action)
+
+[11] Norman T. Roule, "There Will be Unseen Costs to be Paid over the War in Iran. Who is Weighing Them?", 2026-08-05 — [https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them](https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them)
+
+[12] [BLUF: The US Must Lead in Gray Zone Activity](https://www.thecipherbrief.com/bluf-the-us-must-lead-in-gray-zone-activity)
+
+[13] Susan Stewart, "Die Ukraine zwischen Personalpolitik und Protesten", 2026-07-30 — [https://www.swp-berlin.org/publikation/die-ukraine-zwischen-personalpolitik-und-protesten](https://www.swp-berlin.org/publikation/die-ukraine-zwischen-personalpolitik-und-protesten)

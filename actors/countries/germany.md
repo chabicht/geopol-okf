@@ -5,7 +5,7 @@ parent: Countries
 description: Germany as a geopolitical actor — publishing first military strategy, signaling European conventional defense leadership, but hampered by timeline inconsistencies, capability gaps, and the AfD's Trump dilemma
 tags: [country, military, europe, nato, ideology, economics, trade, energy]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -105,8 +105,9 @@ At the European level, the [EU]({{ site.baseurl }}/actors/organizations/eu.html)
 - **China Shock 2.0 hits the industrial core.** Trade balance with China swung €27B between 2021 and 2025, 60% from vehicles; Volkswagen plans up to 100,000 job cuts. [6]
 - **Diplomatic erosion quantified.** Worst-ever UNSC election defeat — 104 votes against 127 needed — breaking a pattern of near-unanimous Western European support. [3][4]
 - **AfD's Trump dilemma.** Only 12% of Germans view Trump positively, making alignment politically toxic and forcing tepid rare criticism from the AfD. [5]
-- **Merz authority collapse.** Cabinet reshuffle cascade described as a "Scherbengericht"; senior CDU sources project resignation by September 21, 2026. [17]
-- **AfD-Landesregierung as NATO sabotage vector.** AfD at 41% in Saxony-Anhalt polls on a platform of lifting Russia sanctions; federal "Notfallpläne" would route around an AfD interior ministry. [18]
+- **Merz authority collapse and AfD election threat compound the capability gap.** Cabinet reshuffle cascade described as a "Scherbengericht"; AfD at 41% in Saxony-Anhalt polls on a platform of lifting Russia sanctions; federal "Notfallpläne" would route around an AfD interior ministry. [17][18]
+- **Back-channel diplomacy with Russia through unofficial channels.** Since early 2024, Germany has held meetings in Baku and Abu Dhabi to revive the Petersburg Dialogue, using Abramovich as intermediary. [19]
+- **Nuclear policy anchored in CTBT and multilateral arms control.** Germany ratified the CTBT; Rombach urges diplomatic pressure on China, CBMs, and independent European assessment of US evidence. [20]
 
 # Analysis
 
@@ -117,6 +118,18 @@ Germany's military strategy represents a necessary but insufficient step. The re
 [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html)'s Day 144 diagnostic places the Financial System Stress domain (S6) at CRITICAL, with EU gas storage at 54% and the German storage peak projected near 70%. The German figure reflects the concentration of industrial demand in the German manufacturing base — the same base already under pressure from China Shock 2.0 — and the particular vulnerability of a manufacturing economy that depends on reliable, affordable energy for its export competitiveness. The projected near-70% peak is not a comfortable buffer but a level that leaves Germany exposed to a cold winter or a further supply disruption [14].
 
 The S5→S6 winter trigger identified in the diagnostic is especially consequential for Germany. The corridor closures (Hormuz dual blockade, Houthi blockade of [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html), Ukraine's Black Sea route lost) are preventing the storage replenishment that must occur before the heating season begins. The mechanism is a physical conversion: maritime disruption → inventory shortfall → winter-triggered fiscal-monetary crisis. For Germany, this compounds the existing economic pressures — the manufacturing recession driven by China Shock 2.0, the Rhine low-water logistics constraint, and the energy price competitiveness gap — with a seasonal deadline that no policy intervention can reset. The ECB's policy collision (oil re-spike against refill shortfall) hits Germany with particular force because German industrial output is the most energy-intensive in the eurozone [14].
+
+## Back-Channel Diplomacy with Russia
+
+[Andrew Ryvkin]({{ site.baseurl }}/actors/authors/andrew-ryvkin.html) (GPF) reports that since at least early 2024, Germany has held a series of meetings in Baku and Abu Dhabi involving former German politicians and Kremlin-connected figures. The meetings are formally devoted to discussing the possible revival of the Petersburg Dialogue — the German-Russian forum founded by Gerhard Schröder and Putin in 2001 and officially terminated by Berlin in 2021. The German delegation is led by officials from former Chancellor Angela Merkel's cabinet and former OSCE members; none currently hold government office but all maintain extensive networks in Germany and across Europe. The Russian side has included Viktor Zubkov (former prime minister and chairman of Gazprom's supervisory board), Valery Fadeyev (head of Russia's Human Rights Council), and Alexey Gromyko (head of the Institute of Europe at the Russian Academy of Sciences) [19].
+
+Berlin and Paris differed in their approach. France tried to initiate contact with Russia on an intergovernmental level, while Germany held out little hope that negotiations with Putin would produce meaningful results and instead pivoted to unofficial channels of communication. Russian billionaire [Roman Abramovich]({{ site.baseurl }}/actors/roman-abramovich.html) has been identified as an intermediary — not expected to persuade Putin on fundamental issues, but valued for keeping lines of communication open and helping with narrowly defined humanitarian issues. Both sides understand that the war will eventually end and that these back channels will be needed to restore at least some degree of normalcy in security and economic affairs [19]. See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) and [Russia]({{ site.baseurl }}/actors/countries/russia.html).
+
+## Nuclear Policy and Multilateral Engagement
+
+[Philipp Rombach]({{ site.baseurl }}/actors/authors/philipp-rombach.html) (SWP) assesses Germany's position on the alleged Chinese nuclear testing issue. Germany has ratified the Comprehensive Nuclear-Test-Ban Treaty (CTBT) and regards itself as a values-based actor supporting the preservation of both the NPT and the CTBT. Rombach recommends that Germany, together with its European allies, exert diplomatic pressure on China and call for greater transparency regarding its nuclear testing programme. Confidence-building measures (CBMs) — including on-site inspections, more comprehensive data sharing from monitoring stations, and voluntary advance notification of civilian underground explosions — could significantly increase confidence that China is complying with testing norms without incurring a strategic disadvantage [20].
+
+Rombach further recommends that Germany and the EU support Washington's call for greater nuclear transparency and new strategic arms control agreements, while drawing up an independent assessment of the available US evidence and emphasizing to the United States the central importance of comprehensive testing moratoria for international stability. Germany should resist US pressure to resume testing, since China and Russia would benefit most from a new era of nuclear testing. Finally, Berlin should help ensure adequate funding for the IAEA and the CTBTO's International Monitoring System [20]. See [Nuclear Proliferation and Arms Control]({{ site.baseurl }}/themes/nuclear-proliferation-and-arms-control.html).
 
 # Citations
 
@@ -155,3 +168,7 @@ The S5→S6 winter trigger identified in the diagnostic is especially consequent
 [17] Konstantin von Hammerstein and Christian Teevs (SPIEGEL), "Friedrich Merz: Wie die CDU an ihrem Kanzler verzweifelt", 2026-07-30 — [https://archive.is/oBx7X](https://archive.is/oBx7X)
 
 [18] Carolina Drüten, James Crisp, Joe Barnes, James Rothwell (WELT/Telegraph), "Szenario für AfD-Wahlsieg: An der Landesregierung vorbei – Bund entwickelt Notfallpläne für Nato-Drehscheibe", 2026-07-30 — [https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html](https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/szenario-fuer-afd-wahlsieg-an-der-landesregierung-vorbei-bund-entwickelt-notfallplaene-fuer-nato-drehscheibe.html)
+
+[19] Andrew Ryvkin (GPF), "Russia's Road Back Runs Through Berlin" — [https://geopoliticalfutures.com/russias-road-back-runs-through-berlin/](https://geopoliticalfutures.com/russias-road-back-runs-through-berlin/)
+
+[20] Philipp Rombach (SWP), "China's Secret Nuclear Tests" — [https://www.swp-berlin.org/publikation/chinas-secret-nuclear-tests](https://www.swp-berlin.org/publikation/chinas-secret-nuclear-tests)

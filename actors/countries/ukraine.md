@@ -5,7 +5,7 @@ parent: Countries
 description: Ukraine as a geopolitical actor — innovating in drone warfare and deep-strike doctrine, transforming its force structure under Western dependency, and pressuring Belarus to curtail Russian supply lines
 tags: [country, military, drone-warfare, air-defense, europe]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -17,13 +17,13 @@ Ukraine has been at war with [Russia]({{ site.baseurl }}/actors/countries/russia
 # Key Dynamics
 
 - **Drones have permeated Ukrainian operational doctrine completely.** Over 90% of Russian casualties are now from drone attacks; AI-enabled Hornets costing ~$6,000 strike at 150 km without satellite links. [5]
-- **Russian advance rates have collapsed to ~3 sq km/day.** Ukraine's corps structure, Delta battlefield management, and AI-enabled deep strike compress Russian operational depth. [3]
+- **Russian advance rates have collapsed to ~3 sq km/day while deep strikes impose economic costs.** Ukraine's corps structure, Delta battlefield management, and AI-enabled deep strike compress Russian operational depth; strikes on refineries cut gasoline production by roughly a quarter and raised jet fuel prices 17%. [3][8]
 - **Ukraine's military-industrial base surged from €1B to €55B in four years.** By 2025, 82% of army suppliers were homegrown and drone production scaled to 10 million annually. [9]
 - **The US aid cutoff is a structural constraint defining the war.** Trump ended all military aid in 2025, gifting Putin 1-3 winters of unrestricted bombardment. [6]
 - **Belarus leverage works because of geographic exposure.** Minsk's proximity to Kyiv means Belarus-based assets are vulnerable to Ukrainian retaliation in ways Russian rear areas are not. [2]
 - **The Fedorov dismissal exposed a civilian-military rift over reform.** Syrskyi's General Staff obstructed consolidation, technology-driven casualty reduction, and procurement transparency. [7][13]
-- **Deep strikes on Russian refineries translate battlefield operations into economic costs.** Ukrainian strikes cut gasoline production by roughly a quarter and raised Russian jet fuel prices 17%. [8]
 - **Gulf defense partnerships reposition Ukraine from victim to reciprocal partner.** Ten-year agreements with Saudi Arabia, Qatar, and the UAE export counter-drone expertise and attract Gulf investment. [10]
+- **Ukraine's 2026 counteroffensive produced Russia's first net territorial loss since August 2024.** Ukraine retook ~400 km² near Oleksandrivka and Huliaipole; long-range strikes reached St. Petersburg, Moscow, and Ukrainka Air Base. [18]
 
 ## Doctrine: Deep-Strike & Drone Innovation as Strategic Culture
 
@@ -91,6 +91,20 @@ The S2→S4 cross-domain pairing in Tchakarova's framework has fused into a sing
 
 [RUSI]({{ site.baseurl }}/actors/authors/rusi.html) (Jim McLean) provides the most detailed account of the institutional conflict behind the [Fedorov dismissal]({{ site.baseurl }}/events/fedorov-dismissal-2026.html). Fedorov's reform agenda targeted three areas: consolidating poorly performing brigades (roughly a sixth of Ukraine's 120), strengthening the Army Corps by collocating constituent brigades distributed in non-contiguous geography, and empowering commanders who leveraged technology to reduce casualties. General Syrskyi systematically obstructed each line of effort — establishing new brigades instead of consolidating, splitting best units across opposite ends of the front, and prioritising personnel for 425 Assault Regiment's human-centric, high-casualty attacks while stripping equipment from innovative formations. The crisis point came when Fedorov's team found that personnel identified for technically innovative units were being redirected to 425 Assault Regiment. The substantive issue is civilian control of the military: whether a reform mandate from Parliament can override military command autonomy. Zelensky removed Fedorov but directed that the reforms continue under his successor — leaving the rift unresolved. The conscription reform question also remains open: Fedorov identified that the problem was not recruitment volume but training, personnel management, and corruption — only a minority of those mobilised reached combat units each month. Fixing this requires changes to how the force handles recruits, changes Syrskyi's General Staff refused to implement [13]. See [Fedorov Dismissal (July 2026)]({{ site.baseurl }}/events/fedorov-dismissal-2026.html).
 
+## Counteroffensive 2026: First Russian Net Territorial Loss Since August 2024
+
+[Seth G. Jones]({{ site.baseurl }}/actors/authors/seth-g-jones.html) (CSIS) documents that between January and mid-March 2026, Ukraine retook approximately 400 km² near Oleksandrivka and Huliaipole. Throughout April and May, Ukrainian counterattacks extended across the front from Kharkiv Oblast through Donetsk to Zaporizhzhia Oblast — producing the first Russian monthly net territorial loss since August 2024. The territorial shifts are marginal compared to the vast exchanges of the war's first year, but they mark a directional reversal: Russia's footprint stopped growing for the first time in years [18]. See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html).
+
+Ukraine's deep-strike campaign has expanded in range and intensity. Long-range strikes have reached St. Petersburg, Moscow, and Ukrainka Air Base — over 6,000 kilometers from Kyiv. The strikes have decreased Russia's energy refining capacity, caused gasoline shortages, disrupted logistics, and attritted industrial production, though they have not fully crippled Russia's war machine [18]. See [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html).
+
+The air-defense vulnerability remains acute. [Russia]({{ site.baseurl }}/actors/countries/russia.html) has exploited Ukraine's limited supply of interceptors such as PAC-3 missiles. Ukrainian Air Force Colonel Yurii Ihnat described the challenge: "A goalkeeper is standing in the goal, and suddenly 10 balls are flying at him at once. He cannot catch all of them. He can catch as many as he has hands and feet, right?" [18]
+
+## Wartime Governance and Protests
+
+[Susan Stewart]({{ site.baseurl }}/actors/authors/susan-stewart.html) (SWP) analyzes the street protests that have continued for two weeks against the government reshuffle — primarily targeting the dismissal of Defense Minister Fedorov while also pointing to deeper patterns in Ukrainian politics. The conflict between Fedorov and Commander-in-Chief Syrsky was an "open secret," though its extent only became public recently. Even after [Zelensky]({{ site.baseurl }}/actors/zelensky.html) dismissed Syrsky and replaced him with the popular General Major [Mykhailo Drapatyi]({{ site.baseurl }}/actors/mykhailo-drapatyi.html), protests continued demanding Fedorov's return [19]. See [Ukraine Civil Society Protests]({{ site.baseurl }}/events/ukraine-civil-society-protests-2026-07.html), [Fedorov Dismissal]({{ site.baseurl }}/events/fedorov-dismissal-2026.html), and [Oleksandr Syrsky]({{ site.baseurl }}/actors/oleksandr-syrsky.html).
+
+Stewart identifies a deeper pattern in Zelensky's personnel policy: popular figures are frequently removed from their positions, creating the impression that the political system is increasingly shaped by narrow political or personal considerations. Such turnover disrupts internal processes and inter-agency cooperation — particularly problematic in wartime. An active and influential civil society is among Ukraine's strengths and has contributed to its battlefield successes, but the return of political debate after four and a half years of war also brings higher instability. Stewart warns that Russian actors will inevitably exploit these tensions — a concern amplified by the fact that Ukraine is currently experiencing a positive phase both on the battlefield and in its relationship with the [United States]({{ site.baseurl }}/actors/countries/united-states.html) [19]. See [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html).
+
 # Citations
 
 [1] Phillips P. O'Brien, "Early Lessons from the US-Iran War" — [https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war](https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war)
@@ -126,3 +140,7 @@ The S2→S4 cross-domain pairing in Tchakarova's framework has fused into a sing
 [16] [Interview with Mykhailo Drapatyi — Ukraїner](https://www.youtube.com/watch?v=W8DZMpx--UA)
 
 [17] [Ukraine's Strike Campaigns Will Likely Continue to Hurt Russia's Economy and Military Operations in Ukraine](https://understandingwar.org/research/russia-ukraine/ukraines-strike-campaigns-will-likely-continue-to-hurt-russias-economy-and-military-operations-in-ukraine/)
+
+[18] Seth G. Jones and Riley McCabe, "Russian Blood and Treasure: The Ballooning Costs of Putin's War" — [https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war](https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war)
+
+[19] Susan Stewart, "Die Ukraine zwischen Personalpolitik und Protesten" — [https://www.swp-berlin.org/publikation/die-ukraine-zwischen-personalpolitik-und-protesten](https://www.swp-berlin.org/publikation/die-ukraine-zwischen-personalpolitik-und-protesten)

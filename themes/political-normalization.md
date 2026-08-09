@@ -5,7 +5,7 @@ parent: Themes
 description: The mechanism by which authoritarian figures gain mainstream legitimacy through tactical single-issue pivots, and the dangers of praising one "good" position from figures whose broader project is anti-democratic
 tags: [ideology, cognitive-warfare]
 status: ongoing
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -32,6 +32,26 @@ Trump's own pivot pattern illustrates the mechanism at scale. Between January an
 
 Theomorphic variants exist across the transatlantic coalition. Orban and Fico play different issues from Trump; Farage plays different issues from Robinson; Carlson plays different issues from Loomer. The differences are tactical. The project is the same — and the normalization mechanism operates the same way regardless of which single-issue pivot is performed.
 
+# Analysis
+
+## Emerging MENA Security Architecture
+
+[Kamran Bokhari]({{ site.baseurl }}/actors/authors/kamran-bokhari.html) identifies the emergence of a new regional security architecture in the [Middle East]({{ site.baseurl }}/regions/middle-east.html) built on a core of [Turkey]({{ site.baseurl }}/actors/countries/turkey.html), [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html), [Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html), and Egypt, with support from Qatar, the UAE, Jordan, and Azerbaijan. The foundation for a broader framework already exists: Egypt, Jordan, the UAE, and Azerbaijan maintain formal diplomatic relations with [Israel]({{ site.baseurl }}/actors/countries/israel.html). The long-term viability of the architecture depends on whether the most consequential actors — Turkey, Saudi Arabia, and Pakistan — can set their differences aside and establish pragmatic relations with Israel. Arab and Muslim states see [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s regional ambitions as a more fundamental strategic threat than Israel's policies, creating the political basis for normalization. The conflict triggered by the October 7 attacks intensified public anger and political sensitivities, but Iran's exploitation of the war to sustain its ideological narrative has not reversed the strategic logic [2]. See [Layered Security]({{ site.baseurl }}/themes/layered-security.html) for the offloading doctrine underpinning this architecture.
+
+## Russia-EU Normalization Path
+
+[Andrew Ryvkin]({{ site.baseurl }}/actors/authors/andrew-ryvkin.html) documents a Russia-EU normalization path operating through back-channel diplomacy. Since at least early 2024, [Germany]({{ site.baseurl }}/actors/countries/germany.html) has held a series of meetings in Baku and Abu Dhabi involving former German politicians and Kremlin-connected figures, formally devoted to discussing the possible revival of the Petersburg Dialogue — the German-Russian forum founded by Gerhard Schroeder and Putin in 2001 and officially terminated by Berlin in 2021. The Russian side includes Viktor Zubkov (former prime minister and Gazprom chairman), Valery Fadeyev (head of Russia's Human Rights Council), and Alexey Gromyko (head of the Institute of Europe at the Russian Academy of Sciences). If a settlement in [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) is eventually reached, these back channels are likely to expand: business leaders, bankers, and former officials could become increasingly important in discussions over sanctions, frozen [Russian]({{ site.baseurl }}/actors/countries/russia.html) assets, investment, reconstruction, and the restoration of commercial ties [3]. The normalization mechanism here is structural rather than ideological: Moscow understands that the EU holds the decisive vote over the future of Russia's frozen assets, integration into the global banking system, and access to European markets [3].
+
+## Failed Saudi-Israel Mega-Deal
+
+The Biden-era mega-deal — Saudi-Israel peace combined with a US security pact, modern weapons systems, and civilian nuclear technology — failed after the October 2023 Gaza war intensified, deteriorating relations between [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) and Israel to the point where Riyadh lost interest in the comprehensive agreement. MBS had announced in September 2023 that a deal was close, but the Gaza war reversed the trajectory. The Trump administration subsequently picked up the nuclear component as a standalone bilateral deal, decoupled from any peace plan with Israel [4]. See [Nuclear Proliferation and Arms Control]({{ site.baseurl }}/themes/nuclear-proliferation-and-arms-control.html) and [Iran's Security Resistance Belt]({{ site.baseurl }}/themes/iran-security-resistance-belt.html).
+
 # Citations
 
 [1] Phillips P. O'Brien, "It Is All One", 2026-07-27 — [https://phillipspobrien.substack.com/p/it-is-all-one](https://phillipspobrien.substack.com/p/it-is-all-one)
+
+[2] Kamran Bokhari, "What Will the Middle East Look Like After the Iran War?", 2026-08-05 — [https://geopoliticalfutures.com/what-will-the-middle-east-look-like-after-the-iran-war/](https://geopoliticalfutures.com/what-will-the-middle-east-look-like-after-the-iran-war/)
+
+[3] Andrew Ryvkin, "Russia's Road Back Runs Through Berlin", 2026-08-04 — [https://geopoliticalfutures.com/russias-road-back-runs-through-berlin/](https://geopoliticalfutures.com/russias-road-back-runs-through-berlin/)
+
+[4] Guido Steinberg, "Atommacht Saudi-Arabien — Dieses Atomabkommen bringt zwei große Probleme mit sich", 2026-07-24 — [https://archive.ph/ncDGY](https://archive.ph/ncDGY)

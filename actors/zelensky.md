@@ -5,7 +5,7 @@ parent: Actors
 description: President of Ukraine; leading a multi-front campaign combining battlefield defense, long-range strikes on Russian industry, and coercive diplomacy against Belarus.
 tags: [leader, military, europe]
 status: ongoing
-timestamp: 2026-07-31T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -68,6 +68,20 @@ In late July 2026, Zelensky sat for a televised interview with [Laura Loomer]({{
 
 [Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) judges that Zelensky "will live to regret" the interview. The gestures of apparent support that Loomer offered came bundled with her broader broadcasting repertoire — racism, election-denial, anti-Muslim hatred, conspiracism, and Trump sycophancy throughout the trip. Zelensky's apparent gains from validating her visit were minor compared with the normalization the appearance provided to her platform and the broader coalition of figures who share her project. The interview illustrates the costs of accepting tactical endorsements from figures whose broader posture is destructive of the very democratic civil society Ukraine's cause depends on. See [Laura Loomer Ukraine Visit]({{ site.baseurl }}/events/laura-loomer-ukraine-visit-2026.html), [Political Normalization]({{ site.baseurl }}/themes/political-normalization.html), and [Laura Loomer]({{ site.baseurl }}/actors/laura-loomer.html) [8].
 
+### Personnel Pattern and Protest Response
+
+[Susan Stewart]({{ site.baseurl }}/actors/authors/susan-stewart.html) identifies deepening structural patterns in Zelensky's wartime governance that have now become a strategic liability. Zelensky has grown accustomed to frequent personnel changes at the highest levels; the reasons are only partially transparent, creating an increasingly widespread impression that the political system is driven by narrow political or even personal considerations. A pattern appears to be establishing itself: individuals who achieve a high degree of popularity are removed from their positions. Such changes also initiate a phase of reorganization, complicating internal processes and cooperation with other authorities — particularly problematic in wartime. The [Fedorov dismissal]({{ site.baseurl }}/events/fedorov-dismissal-2026.html) and the replacement of [Oleksandr Syrsky]({{ site.baseurl }}/actors/oleksandr-syrsky.html) with [Mykhailo Drapatyi]({{ site.baseurl }}/actors/mykhailo-drapatyi.html) were partially responsive to public pressure, but street protests continued even after Syrsky's removal, demanding Fedorov's return to the Defence Ministry [9].
+
+Stewart traces the erosion of wartime restraint to July 2025, when street protests — combined with the voices of external actors — forced the withdrawal of a law that would have largely disempowered two of Ukraine's key anti-corruption institutions. In the first war years, the population exercised great restraint, wanting to stand behind the country's leadership to form a common front against the enemy. Since July 2025, that restraint has diminished. After achieving a partial success with Syrsky's dismissal, some citizens felt encouraged to continue protesting — also for political goals extending beyond Fedorov's return. Although protests are technically prohibited under martial law, they have been tolerated [9].
+
+### The September 2025 No-Re-election Pledge as Credibility Anchor
+
+Stewart recommends that Zelensky repeat his September 2025 statement that he would not run for re-election after the war. Standing above day-to-day political considerations could allow him to orient himself more toward substantive reasoning, lending his decisions greater weight both among the population and with foreign partners. The pledge — an existing commitment that Stewart references as a credibility anchor — offers a mechanism by which Zelensky could counter the perception that personnel decisions are driven by personal or narrow political calculations. Reaffirming it would signal that his authority derives from wartime necessity rather than electoral ambition, potentially restoring trust in a governance system under strain [9].
+
+### Timing and Russian Exploitation
+
+The protests come at a particularly bad time. [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) is currently experiencing a positive phase both on the battlefield and in its relationship with the [United States]({{ site.baseurl }}/actors/countries/united-states.html). An active and influential civil society is among Ukraine's strengths and has contributed to its battlefield successes; after nearly four and a half years of war, a growing return to political debate is understandable. But this also brings greater instability, as social and political differences become more visible. Such tensions will inevitably be exaggerated by Russian actors and used against Kyiv. Citizens understand the risks — including Russian disinformation — but the need for political participation is strong. The debate within Ukraine over where the boundary lies between necessary protest and the danger of instability will shape the trajectory of the demonstrations. See [Ukraine Civil Society Protests]({{ site.baseurl }}/events/ukraine-civil-society-protests-2026-07.html), [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html), and [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html) [9].
+
 # Citations
 
 [1] [Watch Belarus Indeed](https://phillipspobrien.substack.com/p/watch-belarus-indeed)
@@ -84,3 +98,5 @@ In late July 2026, Zelensky sat for a televised interview with [Laura Loomer]({{
 [7] [Weekend Update #195: The Worst Week Becomes Much Better (But Not The Best)](https://phillipspobrien.substack.com/p/weekend-update-195-the-worst-week)
 
 [8] Phillips O'Brien, "It Is All One", 2026-07-28 — [https://phillipspobrien.substack.com/p/it-is-all-one](https://phillipspobrien.substack.com/p/it-is-all-one)
+
+[9] Susan Stewart, "Die Ukraine zwischen Personalpolitik und Protesten", SWP Berlin, 2026-07-30 — [https://www.swp-berlin.org/publikation/die-ukraine-zwischen-personalpolitik-und-protesten](https://www.swp-berlin.org/publikation/die-ukraine-zwischen-personalpolitik-und-protesten)

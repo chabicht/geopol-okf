@@ -5,7 +5,7 @@ parent: Regions
 description: Crossroads of three continents containing the Strait of Hormuz; undergoing a US strategic reorientation from Israel-centric to multilateral security, with Turkey-Israel rivalry as the defining competitive dynamic and Iran in systemic decline.
 tags: [middle-east, energy, military, trade]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -64,6 +64,22 @@ Under the Escalation Trap framework, Pape argues that Iran has powerful incentiv
 
 [Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) documents that Iran's "sideways escalation" strategy — systematically striking infrastructure across Gulf states from July 12–21 — is producing the strategic fragmentation Tehran intends. Only the [UAE]({{ site.baseurl }}/actors/countries/uae.html) is doubling down on US support; the rest of the GCC is having serious doubts. An investor quoted by O'Brien captured the cascading assessment: "exacerbation of pre-existing political fissures in the GCC, dilution of US influence, America's security guarantee weaker than once thought, divided GCC strengthens [Iran]({{ site.baseurl }}/actors/countries/iran.html), [China]({{ site.baseurl }}/actors/countries/china.html) positioned to capitalize." The [Trump]({{ site.baseurl }}/actors/trump.html) administration is simultaneously making major nuclear concessions to [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) — potentially producing a Saudi nuclear weapon — further destabilizing the regional security architecture [16]. See [United States]({{ site.baseurl }}/actors/countries/united-states.html) and [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html).
 
+## Post-War Security Architecture: The Blank Canvas
+
+[Kamran Bokhari]({{ site.baseurl }}/actors/authors/kamran-bokhari.html) (GPF) argues that a new regional security architecture is emerging from the wreckage of the Iran war. The "core" consists of [Turkey]({{ site.baseurl }}/actors/countries/turkey.html), [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html), [Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html), and [Egypt]({{ site.baseurl }}/actors/countries/egypt.html), with support from [Qatar]({{ site.baseurl }}/actors/countries/qatar.html), the [UAE]({{ site.baseurl }}/actors/countries/uae.html), [Jordan]({{ site.baseurl }}/actors/countries/jordan.html), and [Azerbaijan]({{ site.baseurl }}/actors/countries/azerbaijan.html). These states are to take a leadership role so that a self-sustaining balance of power can emerge without direct US management. The US "offloading" doctrine means Washington reduces its force posture and transitions from regional hegemon to offshore actor with its finger on the scales — the Trump administration had decided to reduce assets within striking distance of [Iran]({{ site.baseurl }}/actors/countries/iran.html) even before the war began [17].
+
+Unlike Europe, which has NATO and the EU as institutional frameworks on which allies can build, the Middle East is a "blank canvas" — it requires regional integration mechanisms to be constructed from scratch to manage Iran as it heads toward uncertainty and [Israel]({{ site.baseurl }}/actors/countries/israel.html) as it undergoes its own evolution. The challenge is not only aligning these countries — all of which have their own interests and priorities — but integrating them into a workable relationship with Israel. The three most consequential actors (Turkey, Saudi Arabia, Pakistan) either lack formal diplomatic ties with Israel or, in Ankara's case, have seen relations deteriorate as they compete over Syria. Egypt, Jordan, the UAE, and Azerbaijan's existing formal relations with Israel are the foundation on which a broader framework can be built [17].
+
+The GPF "Shifting Alliances" map visually encodes this thesis: an ochre ring of core states ([Turkey]({{ site.baseurl }}/actors/countries/turkey.html), [Egypt]({{ site.baseurl }}/actors/countries/egypt.html), [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html), [Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html), [Azerbaijan]({{ site.baseurl }}/actors/countries/azerbaijan.html)) encircles a teal [Iran]({{ site.baseurl }}/actors/countries/iran.html) as the constrained entity; pink [Israel]({{ site.baseurl }}/actors/countries/israel.html) and the West Bank stand as a separate, unresolved friction point; uncolored support states ([Qatar]({{ site.baseurl }}/actors/countries/qatar.html), [UAE]({{ site.baseurl }}/actors/countries/uae.html), [Jordan]({{ site.baseurl }}/actors/countries/jordan.html)) complete the architecture. See [Layered Security]({{ site.baseurl }}/themes/layered-security.html) and [Political Normalization]({{ site.baseurl }}/themes/political-normalization.html) [17].
+
+The role of Gulf states as moderators during the Iran war illustrates the emerging burden-sharing dynamic in practice. See the [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) analysis for details on Gulf state mediation efforts.
+
+## Nuclear Proliferation Cascade
+
+[Guido Steinberg]({{ site.baseurl }}/actors/authors/guido-steinberg.html) (Cicero) argues that the [US-Saudi nuclear agreement]({{ site.baseurl }}/events/saudi-arabia-us-civilian-nuclear-agreement-2026-07-24.html) makes a Middle East with three to five nuclear powers significantly more likely. Two details of the agreement are pathbreaking: [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) is to be allowed to enrich uranium domestically, and inspections will be less stringent than those imposed on the [UAE]({{ site.baseurl }}/actors/countries/uae.html) under its 2009 agreement with the US (which included an enrichment ban and an Additional Protocol commitment). A nuclear-armed Saudi Arabia has become a possibility. Crown Prince Mohammed bin Salman stated in 2018 that his country would acquire a nuclear bomb if Iran developed one — a position that likely still reflects Saudi leadership thinking [18].
+
+The signal effect cascades across the region. Abu Dhabi will likely seek to renegotiate its own agreement to match Saudi terms. [Turkey]({{ site.baseurl }}/actors/countries/turkey.html), as Riyadh's rival for regional leadership, may be tempted to respond with its own nuclear program. Meanwhile, [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s new militarized leadership will pursue its weapons program with even greater determination — Tehran has pursued a military nuclear program since 1987, and its strongly military-dominated leadership will do everything to more effectively deter the US and Israel. The combination of Iran's continued pursuit and the Saudi agreement's precedent makes the scenario of a Middle East with three, four, or five nuclear powers far more probable than before. See [Nuclear Proliferation and Arms Control]({{ site.baseurl }}/themes/nuclear-proliferation-and-arms-control.html) [18].
+
 # Key Dynamics
 
 - **Energy chokepoint geography** — The Strait of Hormuz makes the region globally critical. No alternative route can absorb the volumes that transit here, so even partial disruptions cascade through world energy markets. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html).
@@ -72,6 +88,8 @@ Under the Escalation Trap framework, Pape argues that Iran has powerful incentiv
 - **Axis consultation** — Russia and China green-lit Iran's ceasefire, indicating that Iran's strategic posture is coordinated within the broader axis framework. This suggests the pause was an axis course correction, not an American coercive triumph. See [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html).
 - **US strategic reorientation** — Washington is shifting from Israel-centric to multilateral security, elevating Turkey and Saudi Arabia as burden-sharing partners. The transition limits direct US exposure but lays the groundwork for future regional conflicts as Israel and Turkey compete for influence [4].
 - **Nation-state reassertion** — Great power competition has paradoxically become a protective umbrella for weak states. The US now opposes partition in Syria, Iraq, and Yemen because fragmentation creates openings for China and Russia. China's rise has given the Middle East a chance to recover after years of turmoil [10].
+- **Post-war security architecture** — A new regional order is emerging with a "core" of Turkey, Saudi Arabia, Pakistan, and Egypt, supported by Qatar, UAE, Jordan, and Azerbaijan. Unlike Europe's NATO/EU frameworks, the Middle East is a "blank canvas" requiring integration mechanisms to be constructed from scratch [17].
+- **Nuclear proliferation cascade** — The US-Saudi nuclear agreement, combined with Iran's continued weapons program under militarized leadership, makes a Middle East with 3-5 nuclear powers increasingly likely [18].
 
 # Citations
 
@@ -106,3 +124,7 @@ Under the Escalation Trap framework, Pape argues that Iran has powerful incentiv
 [15] [Breaking Analysis #6: Why Aqaba?](https://escalationtrap.substack.com/p/breaking-analysis-6-why-aqaba)
 
 [16] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)
+
+[17] [What Will the Middle East Look Like After the Iran War?](https://geopoliticalfutures.com/what-will-the-middle-east-look-like-after-the-iran-war/)
+
+[18] [Atommacht Saudi-Arabien — Dieses Atomabkommen bringt zwei große Probleme mit sich](https://archive.ph/ncDGY)

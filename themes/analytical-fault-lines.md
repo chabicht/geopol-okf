@@ -7,7 +7,7 @@ tags:
   - contested
   - fault-line
 status: ongoing
-timestamp: 2026-07-30T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -55,6 +55,10 @@ where in the bundle it currently produces a live disagreement.
   2.0 framing; ctindale reads it via Beijing's stated operational paradigm and argues
   the market-economics framing is "constructive blindness." See `## Contested:` in
   [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html). [13][14]
+- **Contested — is US Iran strategy deliberate doctrine or adrift improvisation?**
+  Bokhari reads a coherent offloading doctrine; Hinote reads tactical success without
+  strategic conversion. See `## Contested:` in
+  [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html). [15][16]
 
 # Analysis
 
@@ -146,6 +150,12 @@ and the broader treatment in [Global System
 Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html) (Under
 "Bifurcation of Analytical Frames"). 
 
+## Unasked Questions: The Absence of Public Costs Discussion
+
+[Norman T. Roule]({{ site.baseurl }}/actors/authors/norman-roule.html) identifies an analytical gap rather than a contested split: the question of whether the costs of any Iran deal — especially sanctions implications of payments to Iran and the Houthi precedent at Bab el-Mandeb — are being publicly discussed. Roule frames this as the question to watch: "if it doesn't happen, that's a bad thing for everybody." The absence of that conversation would mean hidden costs — erosion of the sanctions regime, normalization of chokepoint tolls, cascading Houthi demands for equivalent arrangements at Bab el-Mandeb — are accumulating without scrutiny [17].
+
+This is structurally distinct from the fault lines above: it is not a disagreement between two analysts but a question not being asked. Roule identifies the gap by naming what a responsible policy process would include — public weighing of sanctions consequences, discussion of whether payments to Iran through the Oman mechanism undermine the sanctions architecture, and consideration of whether the Houthi precedent at Bab el-Mandeb would follow from an Iran-Hormuz toll arrangement — and noting its absence. The analytical implication is that the [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) may be producing a settlement whose costs are not being surfaced in public debate, making the gap itself a fault line between the policy process and the analytical record. See [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), where the [Kamran Bokhari]({{ site.baseurl }}/actors/authors/kamran-bokhari.html)/[S. Clinton Hinote]({{ site.baseurl }}/actors/authors/s-clinton-hinote.html) contested block addresses whether US strategy is coherent doctrine or adrift improvisation — Roule's observation suggests the answer may be "adrift" precisely because the costs discussion is absent [17].
+
 # Citations
 
 [1] Phillips O'Brien, "Midweek Update #20: Each Day The US Weakens Itself", 2026-07-22 — [https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)
@@ -165,3 +175,9 @@ Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html) (Under
 [13] Adam Tooze, "Chartbook 462: China shocked - beyond 1.0 and 2.0 to the Big One", 2026-07-29 — [https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond](https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond)
 
 [14] ctindale, "The Importance of Being Obsolescent", 2026-07-30 — [https://substack.com/@ctindale/p-209065047](https://substack.com/@ctindale/p-209065047)
+
+[15] Kamran Bokhari, "What Will the Middle East Look Like After the Iran War?", 2026-08-05 — [https://geopoliticalfutures.com/what-will-the-middle-east-look-like-after-the-iran-war/](https://geopoliticalfutures.com/what-will-the-middle-east-look-like-after-the-iran-war/)
+
+[16] S. Clinton Hinote and James Slife, "Why the Iran War Remains Strategically Adrift", 2026-08-04 — [https://www.thecipherbrief.com/why-the-iran-war-remains-strategically-adrift](https://www.thecipherbrief.com/why-the-iran-war-remains-strategically-adrift)
+
+[17] Norman T. Roule, "There Will be Unseen Costs to be Paid over the War in Iran. Who is Weighing Them?", The Cipher Brief, 2026-08-05 — [https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them](https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them)

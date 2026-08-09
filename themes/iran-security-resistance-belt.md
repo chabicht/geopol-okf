@@ -5,7 +5,7 @@ parent: Themes
 description: "IRGC doctrine connecting Persian Gulf, Red Sea, and Mediterranean into a unified strategic theater — holding global maritime trade hostage across three pillars."
 tags: [middle-east, military, naval, missile, energy]
 status: ongoing
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -32,6 +32,18 @@ The dilemma facing Washington has expanded geometrically. In June 2026, the dile
 
 The strike on the Energos Winter — a US-owned floating storage and regasification unit leased to Egypt's state gas company — demonstrates that American commercial assets are no longer insulated from the conflict. The target selection signals that Iran is no longer trying to close one chokepoint but is demonstrating that it can threaten every route by which Gulf energy reaches world markets. The center of gravity is shifting from military bases and naval operations to pressure on the civilian energy system itself. If that becomes the pattern, the objective is no longer simply to complicate American military operations but to raise the economic costs of continuing the war until governments begin changing their political calculations [1].
 
+## Arab Psychological Shift After the 2026 War
+
+[Kamran Bokhari]({{ site.baseurl }}/actors/authors/kamran-bokhari.html) identifies a "fundamental psychological shift" among Arab governments produced by the [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html). [Iran]({{ site.baseurl }}/actors/countries/iran.html) attacking Arab states as and when it has an interest in doing so is "the new normal" — one that will shape their calculations for years to come. Many Arab and Muslim governments view Iran as a more fundamental strategic threat than Israeli policies toward the Palestinian territories, Lebanon, and Syria. Iran is a far larger state with greater demographic, geographic, and military resources, and Tehran has exploited the chronic weaknesses of the Arab state system to expand its influence. Iran's penetration produced cumulative setbacks: the emergence of an Iran-aligned government in Syria under Assad in the 1980s, the collapse of the Baathist government in Iraq in the early 2000s and its drift into Tehran's sphere, the instability of the 2011 Arab Spring, and the 2014 empowerment of the Iran-backed Houthis in Yemen [2].
+
+## Persistent Weapons Pursuit Under New Leadership
+
+[Guido Steinberg]({{ site.baseurl }}/actors/authors/guido-steinberg.html) argues that Iran's new, strongly militarized leadership will continue the nuclear weapons program pursued since 1987. The acquisition of the Strait of Hormuz as a weapon — which Iran can deploy against the US and its allies in future conflicts — does not displace the military nuclear program; the two operate in parallel. At future negotiations, Iran will cite the Saudi precedent: the US-Saudi nuclear agreement permits domestic uranium enrichment and less intrusive inspections, lowering the nonproliferation baseline. Iran will insist on equivalent or more permissive conditions. The combination of Iran's persistent weapons pursuit and the erosion of nonproliferation standards makes a Middle East with three, four, or five nuclear powers substantially more likely [3]. See [Nuclear Proliferation and Arms Control]({{ site.baseurl }}/themes/nuclear-proliferation-and-arms-control.html).
+
 # Citations
 
 [1] Robert Pape, "Breaking Analysis #9: Iran Attacks Egypt – Is a Mediterranean Front Opening?", 2026-07-31 — [https://escalationtrap.substack.com/p/breaking-analysis-9-iran-attacks](https://escalationtrap.substack.com/p/breaking-analysis-9-iran-attacks)
+
+[2] Kamran Bokhari, "What Will the Middle East Look Like After the Iran War?", 2026-08-05 — [https://geopoliticalfutures.com/what-will-the-middle-east-look-like-after-the-iran-war/](https://geopoliticalfutures.com/what-will-the-middle-east-look-like-after-the-iran-war/)
+
+[3] Guido Steinberg, "Atommacht Saudi-Arabien — Dieses Atomabkommen bringt zwei große Probleme mit sich", 2026-07-24 — [https://archive.ph/ncDGY](https://archive.ph/ncDGY)

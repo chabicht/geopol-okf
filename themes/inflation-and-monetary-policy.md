@@ -9,7 +9,7 @@ tags:
   - trade
   - sanctions
 status: ongoing
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -38,11 +38,12 @@ The effects are felt asymmetrically across investors. The US remains the best la
 
 # Key Dynamics
 
-- **Geopolitical risk, not market forces, is the primary driver**: The inflation surge is driven by trade policy uncertainty, bypass shipping costs, and Iran war unpredictability — not cyclical economic dynamics.
-- **Asymmetric impact**: Countries heavily dependent on imports with weak currencies, large fiscal deficits, and limited monetary credibility are disproportionately affected. Strong reserve currencies, diversified economies, and credible institutions absorb shocks better.
-- **Core inflation transmission**: Sustained energy price pressure gradually contributes to core inflation through food, transportation, agriculture, and industry — driving up the overall price of less sensitive goods.
-- **Central bank caution**: The Fed, ECB, and BoE have all signaled discomfort with the inflation side of the shock even while acknowledging weaker growth. The IMF has advised central banks to prepare to raise rates if the ceasefire breaks down.
-- **Resilience over efficiency**: Prolonged inflation and geopolitical instability accelerate capital rotation toward commodities, defense, energy, and inflation-resistant sectors, fundamentally reshaping investment priorities.
+- **Geopolitical risk, not market forces, is the primary driver**: The inflation surge is driven by trade policy uncertainty, bypass shipping costs, and Iran war unpredictability — not cyclical economic dynamics. [1]
+- **Asymmetric impact**: Countries heavily dependent on imports with weak currencies, large fiscal deficits, and limited monetary credibility are disproportionately affected. Strong reserve currencies, diversified economies, and credible institutions absorb shocks better. [1]
+- **Core inflation transmission**: Sustained energy price pressure gradually contributes to core inflation through food, transportation, agriculture, and industry — driving up the overall price of less sensitive goods. [1]
+- **Central bank caution**: The Fed, ECB, and BoE have all signaled discomfort with the inflation side of the shock even while acknowledging weaker growth. The IMF has advised central banks to prepare to raise rates if the ceasefire breaks down. [1]
+- **Resilience over efficiency**: Prolonged inflation and geopolitical instability accelerate capital rotation toward commodities, defense, energy, and inflation-resistant sectors, fundamentally reshaping investment priorities. [1]
+- **Asymmetric regional transmission**: Geopolitical shocks produce divergent inflationary outcomes — energy importers face fiscal deterioration while energy exporters capture windfalls that mask structural fragility. [5]
 
 # Analysis
 
@@ -66,6 +67,10 @@ The fiscal dimension compounds the inflationary mechanism. Governments in import
 
 The Fed faces the same dilemma without its traditional cushion. The Fed's hiking repricing holds — markets price a higher-for-longer trajectory despite weakening growth — yet there is no safe-haven Treasury bid. The absence of the traditional flight-to-quality dynamic during a systemic crisis suggests that the US fiscal position itself is being questioned by markets, removing the last monetary buffer from the global financial system. Without automatic stabilization through Treasury demand, the Fed must choose between allowing inflation to run hot or tightening into a growth shock, amplifying rather than absorbing the energy-driven shock [3]. The stress-testing anchor has meanwhile shifted upward: Brent settled at USD 100.69 — a single-session gain of approximately 7 percent and roughly 30 percent above the USD 71.57 level recorded on 1 July. RBC's Helima Croft has stated that extreme pressure could send Brent above the 2022 war-driven high of USD 128 and, in a full regional war scenario, toward the 2008 peak of USD 146. This range should now anchor stress-testing rather than the USD 90 to 95 range carried through prior assessments. The combination of the ECB's explicit inflation warning and the Brent threshold crossing means the monetary authority cannot look through an energy shock it has itself flagged as incomplete, and the market is pricing accordingly [4]. See [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html).
 
+## Hormuz Shock to North African Importers
+
+[Annabelle Houdret]({{ site.baseurl }}/actors/authors/annabelle-houdret.html) and [Mark Furness]({{ site.baseurl }}/actors/authors/mark-furness.html) document how the Hormuz crisis transmits asymmetrically through North African economies. [Egypt]({{ site.baseurl }}/actors/countries/egypt.html) faces CPI inflation of 13.4% year-on-year (February 2026) with food prices up 4.6%; Suez Canal revenues remain at less than half of 2023 levels and remittances from approximately five million migrant workers in the Gulf are vulnerable to continued uncertainty. [Tunisia]({{ site.baseurl }}/actors/countries/tunisia.html)'s food costs rose 7.1% year-on-year (June 2026), with the economy forecast to shrink by 0.8 percentage points against an expected 2.1% growth — public debt stands at nearly 80% of GDP, pressuring the government to depreciate the dinar and cut subsidies. [Morocco]({{ site.baseurl }}/actors/countries/morocco.html)'s compensation spending reached approximately 1.2% of GDP; headline inflation has stayed low, but "price stability is being purchased rather than achieved" through subsidy maintenance and social spending increases. By contrast, Algeria and Libya benefit from higher oil and gas prices — though this hydrocarbon windfall does not address deeper structural risks to stability. These divergent inflationary pressures illustrate how geopolitical shocks transmit asymmetrically through regional economies: energy importers face fiscal deterioration and social instability risk while energy exporters capture windfalls that mask structural fragility [5]. See [Hormuz Crisis North Africa Hub]({{ site.baseurl }}/events/hormuz-crisis-north-africa-hub-acceleration.html).
+
 # Citations
 
 [1] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
@@ -75,3 +80,5 @@ The Fed faces the same dilemma without its traditional cushion. The Fed's hiking
 [3] [Global System Rupture](https://substack.com/@velinatchakarova/p-207969383)
 
 [4] [Global System Rupture - Update](https://substack.com/@velinatchakarova/p-208325909)
+
+[5] Annabelle Houdret and Mark Furness, "Between Shock and Opportunity: Hormuz and Deepening North Africa–Europe Relations", 2026-08-03 — [https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations](https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations)

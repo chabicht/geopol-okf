@@ -5,7 +5,7 @@ parent: Countries
 description: Gulf monarchy mediating between Iran and the US through Pakistan, deploying Pakistani troops and Chinese jets while negotiating a non-aggression pact
 tags: [country, energy, military, middle-east]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -39,6 +39,7 @@ Saudi Arabia closed its airspace (along with Kuwait) when [Trump]({{ site.baseur
 - **Bypass for the bypass.** With Yanbu under Houthi threat, Riyadh pushes barrels toward Suez-Mediterranean routes, but pipeline capacity leaves a ~1.3 mbpd gap. [9]
 - **Nuclear concessions as reward.** Trump-era nuclear power concessions could yield a Saudi nuclear weapon, rewarding Riyadh for mediation while raising proliferation risks. [7]
 - **Ukraine defense partnership.** A 10-year agreement with Ukraine covers counter-drone technology, air defense, and cybersecurity, creating a reciprocal defense-industrial relationship. [5]
+- **Saudi Arabia is a core pillar of the post-Iran-war regional architecture.** Alongside Turkey, Pakistan, and Egypt, Riyadh must take the reins as Washington offloads security responsibilities. [10]
 
 # Analysis
 
@@ -74,6 +75,18 @@ The Eilat-to-Ashkelon pipeline has a layered history that makes it analytically 
 
 The Houthi threat reached operational completion the week of July 21. The Houthis announced a naval blockade of Saudi Arabia, including foreign ships calling at the kingdom's Red Sea oil ports — days after Saudi Arabia bombed the airport in Sanaa. When the Houthis executed that threat, striking two Saudi-flagged tankers in the southern Red Sea, oil prices climbed back to $100 a barrel and the Yanbu bypass — the largest of the three buffers absorbing the Hormuz shock — became the one now failing fastest. For Saudi Arabia, the structural picture is doubly dangerous: the Kingdom has been mediating between [Iran]({{ site.baseurl }}/actors/countries/iran.html) and the US through [Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html), and a Houthi blockade on its ports would pressure Riyadh to abandon its mediator role and align more firmly with Washington — precisely the outcome Iran seeks to prevent [9]. See [Red Sea]({{ site.baseurl }}/regions/red-sea.html), [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), and [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html).
 
+## Leadership Role in Post-Iran-War Architecture
+
+[Kamran Bokhari]({{ site.baseurl }}/actors/authors/kamran-bokhari.html) places [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) in the "core" of a new regional security architecture alongside [Turkey]({{ site.baseurl }}/actors/countries/turkey.html), [Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html), and [Egypt]({{ site.baseurl }}/actors/countries/egypt.html), with support from Qatar, the [UAE]({{ site.baseurl }}/actors/countries/uae.html), Jordan, and Azerbaijan. The US offloading doctrine means Saudi Arabia must take the reins of regional security — there is no returning to an era in which Washington is the [Middle East]({{ site.baseurl }}/regions/middle-east.html)'s principal security guarantor. The transition from regional hegemon to offshore actor with its finger on the scales is the defining feature of the emerging order. The challenge is not only aligning these countries, all with their own interests and priorities, but integrating them into a workable relationship with [Israel]({{ site.baseurl }}/actors/countries/israel.html) [10]. See [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html).
+
+## Defense Performance During 2026 War
+
+[Norman T. Roule]({{ site.baseurl }}/actors/authors/norman-roule.html) reports that Gulf States' defense has been "very, very successful" — protecting their own nationals and infrastructure, hundreds of thousands of American residents, and the international economy through stable energy flows. Saudi Arabia is joining US strikes on [Iraq]({{ site.baseurl }}/actors/countries/iraq.html) (a first) and executing surgical strikes against Houthi aggression, demonstrating the quality of the Saudi Air Force and the close Saudi-US military partnership. The Gulf States talked [Trump]({{ site.baseurl }}/actors/trump.html) out of imminent escalation, giving diplomacy a chance — a process Roule assesses as "natural, organic and appropriate." The performance reflects years of engagement with the [United States]({{ site.baseurl }}/actors/countries/united-states.html) and the US private sector in defending against cyber, drone, and missile attacks [11]. See [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html).
+
+## Nuclear Posture: US Agreement and Proliferation Implications
+
+[Guido Steinberg]({{ site.baseurl }}/actors/authors/guido-steinberg.html) assesses the US-Saudi civilian nuclear agreement (announced during the Gulf war) as having two major problems. First, the agreement allows domestic uranium enrichment with less thorough inspections than the [UAE]({{ site.baseurl }}/actors/countries/uae.html)'s 2009 "gold standard" — meaning a civilian program could flip to military. MBS's 2018 statement that Saudi would acquire a bomb if [Iran]({{ site.baseurl }}/actors/countries/iran.html) developed one still reflects leadership thinking. Vision 2030 requires nuclear power to meet growing domestic energy demand and free up oil for export; the current war and Hormuz disruption have underscored Saudi vulnerability, leaving MBS with no alternative to the US alliance despite dissatisfaction with the war's conduct. Second, the signal effect weakens the UAE precedent and may trigger a proliferation cascade — Abu Dhabi will likely demand the same terms, and [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) may pursue its own program. The agreement makes a Middle East with three, four, or five nuclear powers "very much more probable than before" [12]. See [US-Saudi Nuclear Agreement]({{ site.baseurl }}/events/saudi-arabia-us-civilian-nuclear-agreement-2026-07-24.html) and [Nuclear Proliferation and Arms Control]({{ site.baseurl }}/themes/nuclear-proliferation-and-arms-control.html).
+
 # Citations
 
 [1] [The World Beyond Hormuz](https://thehonestsorcerer.substack.com/p/the-world-beyond-hormuz)
@@ -93,3 +106,9 @@ The Houthi threat reached operational completion the week of July 21. The Houthi
 [8] [Global System Rupture](https://substack.com/@velinatchakarova/p-207969383)
 
 [9] Javier Blas, "Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy", 2026-07-28 — [https://archive.ph/eLoT5](https://archive.ph/eLoT5)
+
+[10] Kamran Bokhari, "What Will the Middle East Look Like After the Iran War?" — [https://geopoliticalfutures.com/what-will-the-middle-east-look-like-after-the-iran-war/](https://geopoliticalfutures.com/what-will-the-middle-east-look-like-after-the-iran-war/)
+
+[11] Norman T. Roule, "There Will be Unseen Costs to be Paid over the War in Iran. Who is Weighing Them?" — [https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them](https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them)
+
+[12] Guido Steinberg, "Atommacht Saudi-Arabien — Dieses Atomabkommen bringt zwei große Probleme mit sich", 2026-07-24 — [https://archive.ph/ncDGY](https://archive.ph/ncDGY)

@@ -5,7 +5,7 @@ parent: Countries
 description: Iran as a geopolitical actor — surviving US-Israeli military campaign with retained leverage over Strait of Hormuz and negotiating from strength
 tags: [country, military, nuclear, energy, middle-east, drone-warfare, sanctions, cyber]
 status: ongoing
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -73,6 +73,8 @@ The asymmetric logic still favors Iran on the cost-exchange ratio: Washington mu
 - **Contested — is Iran a coherent strategist or factionally incoherent?** Pape and Friedman model a deliberate three-phase strategy; Fowler models factional maneuvering behind a possibly incapacitated Supreme Leader. Open fork. [15][32][33]
 - **Contested — declining regionally or ascendant in leverage?** Bokhari reads Iran's proxy network as fraying under Turkish advance; Pape reads Iran's wartime negotiating position as strengthening. Scope mismatch — both hold. [12][3]
 - **Turkey is filling the regional vacuum Iran is vacating.** Syria's collapse converted a pillar of Iranian influence into a springboard for Ankara. [12]
+- **Proxy network collapse reshapes the regional balance.** Hamas/Hezbollah degraded, Syria lost, Iraq position vulnerable — a "fundamental psychological shift" makes Iran attacking Arab states the "new normal." [36]
+- **Nuclear weapons pursuit continues under militarized leadership.** Hormuz leverage does not displace the bomb program; Iran will cite the Saudi enrichment precedent in future negotiations. [38]
 
 # Analysis
 
@@ -153,6 +155,22 @@ O'Brien's assessment reinforces this logic: the Iranian regime has consolidated 
 
 [Aurelien]({{ site.baseurl }}/actors/authors/aurelien.html) argues [Iran]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) holds the initiative in the US-Iran conflict — by no means the winners yet, but in control of how the crisis evolves. The US cannot win. Western failure resulted from a mixture of arrogance, inherited military and political folklore, and a simple disinclination to study Iranian military capability. The Iranian political system and the nature of its society did not need to be studied — they could be assumed. The thought of effective Iranian retaliation, if even entertained, was dismissed because it would cast doubt on the viability of the entire enterprise [26]. The future evolution of the crisis depends primarily on Iran — an uncomfortable and unfamiliar position for the West. The prospect of a renewed conflict with Iran, as some US pundits already try to map out, is not possible. The most likely outcome is a long period of low-level tension suiting Iran and straining Western cohesion. The West has lost the ability to determine how crises unfold, both at the day-to-day tactical level and strategically [26]. See [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html).
 
+## Regime Survival and Internal Reordering
+
+[Kamran Bokhari]({{ site.baseurl }}/actors/authors/kamran-bokhari.html) assesses that the Iranian regime will almost certainly survive in the near term so long as the US declines to put boots on the ground and no viable domestic insurgent alternative exists. Over time, however, war losses, the death of senior political and military leadership, and devolution within the IRGC will reshape the internal balance of power. Iran's proxy network has collapsed: Hamas and Hezbollah were degraded as military forces in 2024, Syria was lost, and Iran's position in [Iraq]({{ site.baseurl }}/actors/countries/iraq.html) is increasingly vulnerable as Baghdad and Washington curb pro-Iranian Shiite militias. The war has produced a "fundamental psychological shift" among Arab governments — Iran attacking them as and when it has an interest is "the new normal," one that will shape their calculations for years to come [36]. See [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) and [Iran Security Resistance Belt]({{ site.baseurl }}/themes/iran-security-resistance-belt.html).
+
+## Internal Economic Stress and Cyber Operations
+
+[Norman T. Roule]({{ site.baseurl }}/actors/authors/norman-roule.html) reports that Iran's inflation is approximately 70%, with unemployment as high as 40-45% in some areas. Iranians show defiance but this "has got to be touching their decision-making." Iran's cyber activity has continued "unabated" since the conflict began, including probable attacks on US water-infrastructure SCADA systems (Minnesota). If proven and left unanswered, Tehran will conclude there is no reason to cease such operations [37]. See [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) and [United States]({{ site.baseurl }}/actors/countries/united-states.html).
+
+## Nuclear Weapons Pursuit Under New Leadership
+
+[Guido Steinberg]({{ site.baseurl }}/actors/authors/guido-steinberg.html) argues that Iran's new, heavily militarized leadership will continue the nuclear weapons program pursued since 1987. The Strait of Hormuz as a weapon does not displace the nuclear program — both serve the same deterrent logic against the US and [Israel]({{ site.baseurl }}/actors/countries/israel.html). At future negotiations, Iran will cite the [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) precedent (domestic enrichment with less thorough inspections) and insist on equivalent enrichment rights. The US-Saudi agreement and Iran's continued pursuit make a Middle East with three, four, or five nuclear powers "very much more probable than before" [38]. See [Nuclear Proliferation and Arms Control]({{ site.baseurl }}/themes/nuclear-proliferation-and-arms-control.html).
+
+## Operational Pause and Indirect Negotiations
+
+Roule characterizes the current state as an "operational pause," not a ceasefire — a period of coercive restraint in which Iran continues attacks on ships while the US restrains its response to give diplomacy a chance. The diplomatic pattern is consistent: the US announces negotiations, Iran denies negotiations are taking place, and indirect negotiations through regional parties occur days later, still addressing the same issues but without direct engagement on nuclear, missile, or militia matters as originally discussed [37]. See [Hormuz Toll System]({{ site.baseurl }}/events/hormuz-toll-system.html) and [United States]({{ site.baseurl }}/actors/countries/united-states.html).
+
 ## China's Indirect Support and the CRINK Periphery
 
 Ueki positions [Iran]({{ site.baseurl }}/actors/countries/iran.html) within the CRINK framework as a peripheral actor in [Japan]({{ site.baseurl }}/actors/countries/japan.html)'s threat perception — ranked behind China, North Korea, and Russia. Iran is not Japan's traditional adversary; historically, Tokyo sought to maintain good relations with Tehran as an important oil supplier, importing roughly 5 percent of its crude oil from Iran before US sanctions in 2019 ended the trade. Japan still depends on the Middle East for approximately 95 percent of its oil, making the safe passage of the Strait of Hormuz a vital national interest, but this concern is driven by geography and energy dependence rather than a perception of Iran as a direct threat [30].
@@ -230,3 +248,9 @@ Ueki positions [Iran]({{ site.baseurl }}/actors/countries/iran.html) within the 
 [34] Geopolitical Futures, "The Houthis Are Not Fighting Iran's War", 2026-07-24 — [https://geopoliticalfutures.com/the-houthis-are-not-fighting-irans-war/](https://geopoliticalfutures.com/the-houthis-are-not-fighting-irans-war/)
 
 [35] Robert Pape, "Breaking Analysis #3: Tehran's Second Front Heating Up Fast — Are Markets Watching?" — [https://escalationtrap.substack.com/p/breaking-analysis-3-tehrans-second](https://escalationtrap.substack.com/p/breaking-analysis-3-tehrans-second)
+
+[36] Kamran Bokhari, "What Will the Middle East Look Like After the Iran War?" — [https://geopoliticalfutures.com/what-will-the-middle-east-look-like-after-the-iran-war/](https://geopoliticalfutures.com/what-will-the-middle-east-look-like-after-the-iran-war/)
+
+[37] Norman T. Roule, "There Will be Unseen Costs to be Paid over the War in Iran. Who is Weighing Them?" — [https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them](https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them)
+
+[38] Guido Steinberg, "Atommacht Saudi-Arabien — Dieses Atomabkommen bringt zwei große Probleme mit sich", 2026-07-24 — [https://archive.ph/ncDGY](https://archive.ph/ncDGY)

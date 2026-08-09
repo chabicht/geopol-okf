@@ -11,7 +11,7 @@ tags:
   - supply-chain
   - trade
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -30,10 +30,11 @@ The AI military race is defined by an asymmetry in deployment speed, governance,
 
 # Key Dynamics
 
-- **The real gap is not in models but in operational integration**: Once models are "good enough," advantage shifts from model quality to speed of deployment, access to operational data, and integration with command systems. A three-month gap in frontier model performance can disappear if the other side is better at turning AI into operational tempo.
-- **China can put tech sector to work for the military tomorrow; the US has to pass a bill first**: Civil-military fusion gives China a structural advantage in iteration speed. The US legislative process introduces latency that the Chinese system does not have.
-- **Three AI threats**: influence operations and cyber; model theft and distillation; and military applications. These require different countermeasures but are often conflated in policy discussions, producing fragmented responses.
+- **The real gap is not in models but in operational integration**: Once models are "good enough," advantage shifts from model quality to speed of deployment, access to operational data, and integration with command systems. A three-month gap in frontier model performance can disappear if the other side is better at turning AI into operational tempo. [1]
+- **China can put tech sector to work for the military tomorrow; the US has to pass a bill first**: Civil-military fusion gives China a structural advantage in iteration speed. The US legislative process introduces latency that the Chinese system does not have. [1]
+- **Three AI threats**: influence operations and cyber; model theft and distillation; and military applications. These require different countermeasures but are often conflated in policy discussions, producing fragmented responses. [1]
 - **AI as the operating system of national power**: AI functions as the operating system of economic productivity, military effectiveness, industrial automation, intelligence, and strategic decision-making. The decisive variable in great-power competition is not who holds the best model but who can integrate AI across the entire industrial base — from factory floor to command post [15].
+- **Combat-proven AI autonomous strike**: The Hornet drone uses onboard AI for target detection, decoy discrimination, and terminal strike without satellite connection — combat-proven in Ukraine at ~$6,000, 150 km range, making the Russia-Ukraine war the live testing ground for AI-enabled autonomous warfare [16].
 
 # Analysis
 
@@ -139,10 +140,16 @@ Both the previous and current US administrations regard the AI race as existenti
 
 A legal analogy underpins the open-models argument: encryption code was previously ruled to fall under free-speech protections (Bernstein v. United States), establishing that source code is expressive speech. The source advances the case for extending First Amendment protections to AI models, which would constrain the government's authority to restrict open-weight releases and protect the developer ecosystem from regulatory capture. The tension between national-security export controls and constitutional speech protections is likely to intensify as AI models become more capable and more dual-use [14].
 
+## Hornet and SkyFall: AI Autonomous Warfare in Ukraine
+
+[Seth G. Jones]({{ site.baseurl }}/actors/authors/seth-g-jones.html) and [Riley McCabe]({{ site.baseurl }}/actors/authors/riley-mccabe.html) (CSIS) document a qualitative shift in AI-enabled autonomous warfare from the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html). Ukraine has fielded the Hornet — a one-way autonomous attack drone costing ~$6,000 with a range of up to 150 km — that uses AI to analyze live video feeds, identify legitimate targets via onboard algorithms, detect Russian decoys based on geometry, surface texture, and thermal signature, and execute terminal-phase strike using onboard AI without a satellite connection. This makes it jam-resistant: Russian electronic warfare systems that target satellite links are ineffective against a platform whose terminal-phase decision is made entirely onboard [16].
+
+SkyFall AI-assisted systems represent the next layer — AI countering AI-enabled drones. Ukraine has used SkyFall systems for counter-FPV operations, using AI to help identify and destroy Russian first-person-view drones. The Russia-Ukraine war is thus the live testing ground for the AI military race: both attack-side AI (autonomous terminal strike) and defense-side AI (counter-drone AI) are being iterated under combat conditions, generating operational data and adaptation cycles that peacetime defense industries cannot replicate. The Hornet is itself a product of a Ukrainian-US drone partnership, embedding the technology transfer dynamic into the AI competition between the [United States]({{ site.baseurl }}/actors/countries/united-states.html) and [China]({{ site.baseurl }}/actors/countries/china.html) [16]. See [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) for the operational and cost-exchange analysis.
+
 # Citations
 
-[1] https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military
-[2] https://www.thecipherbrief.com/dni-day-one
+[1] [https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military](https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military)
+[2] [https://www.thecipherbrief.com/dni-day-one](https://www.thecipherbrief.com/dni-day-one)
 [3] [Tech Stack Diplomacy: Policy Implications of the U.S. AI Export Strategy](https://newlinesinstitute.org/tech-econ-sov-sec/tech-stack-diplomacy-policy/)
 [4] [The AI Kill Switch: Dangerous Chinese Open Source](https://cepa.org/article/the-ai-kill-switch-dangerous-chinese-open-source/)
 
@@ -167,3 +174,5 @@ A legal analogy underpins the open-models argument: encryption code was previous
 [14] [We've Seen Autonomous Warfare and We're in Trouble](https://www.thecipherbrief.com/weve-seen-autonomous-warfare-and-were-in-trouble)
 
 [15] [China's Steady Economic Decline](https://substack.com/@velinatchakarova/p-208670863)
+
+[16] Seth G. Jones and Riley McCabe, "Russian Blood and Treasure: The Ballooning Costs of Putin's War", 2026-08-05 — [https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war](https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war)

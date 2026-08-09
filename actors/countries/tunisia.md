@@ -5,7 +5,7 @@ parent: Countries
 description: North African state under Kais Saied's authoritarian consolidation — Europe's most important economic partner in the Maghreb, yet facing a striking visibility deficit as Chinese engagement outshines European despite EU providing 85% of FDI and budget support
 tags: [country, africa, energy, trade]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -46,6 +46,7 @@ The visibility deficit stems from several factors:
 - **Migration diplomacy backfired.** Saied returned €60 million of the EU's migration MoU, calling it insufficient, while significant portions of promised aid remain delayed or undisbursed. [1]
 - **Gaza war eroded European standing.** Perceived double standards on Ukraine versus Gaza boosted Saied's populist rhetoric and drove European popularity to a 2024 low point. [1]
 - **China exploits the visibility gap.** Chinese projects receive extensive media coverage and official fanfare while European engagement remains deliberately low-profile to avoid political backlash. [1]
+- **Hormuz shock compounds fiscal fragility and subsidy-cut pressure.** Public debt just under 80% of GDP; food costs +7.1% YoY (June 2026); economy forecast to shrink by 0.8 percentage points vs. earlier +2.1% growth expectation. [2]
 
 # Analysis
 
@@ -53,6 +54,12 @@ Europe's dilemma is structural: it wants its cooperation to generate visibility 
 
 Isabelle Werenfels (SWP) argues that Europe should not hesitate to showcase infrastructure cooperation that brings tangible benefits. The path forward involves: highlighting concrete results rather than lofty statements; creative communication strategies (diaspora actors, humour, social media); honesty about European interests (especially migration); and acknowledging past errors. Failure to address the visibility gap inadvertently fuels right-wing populist narratives in Europe questioning the value of foreign aid [1].
 
+## Hormuz Shock, Subsidy Cuts and Fiscal Fragility
+
+[Annabelle Houdret]({{ site.baseurl }}/actors/authors/annabelle-houdret.html) and [Mark Furness]({{ site.baseurl }}/actors/authors/mark-furness.html) (IDOS/SWP) document the compounding economic pressures on Tunisia from the Hormuz crisis. Tunisia faces a fragile fiscal position, with public debt standing at just under 80 per cent of GDP. The cost of food in Tunisia increased 7.1 per cent in June 2026 over the same month in 2025, and is predicted to continue trending upwards. The Tunisian economy, which was expected to grow by 2.1 per cent in 2026, is now projected to shrink by 0.8 percentage points — a swing that could pressure the government to further depreciate the dinar and cut subsidies for fuel and staple foods, thereby increasing the risk of social instability [2]. See [Inflation and Monetary Policy]({{ site.baseurl }}/themes/inflation-and-monetary-policy.html), [Africa]({{ site.baseurl }}/regions/africa.html), and [Hormuz Crisis North Africa Hub]({{ site.baseurl }}/events/hormuz-crisis-north-africa-hub-acceleration.html).
+
 # Citations
 
 [1] [Europe's Visibility Dilemma in Tunisia](https://www.swp-berlin.org/publikation/mta-spot-76-europes-visibility-dilemma-in-tunisia)
+
+[2] Annabelle Houdret and Mark Furness, "Between Shock and Opportunity: Hormuz and Deepening North Africa–Europe Relations" — [https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations](https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations)

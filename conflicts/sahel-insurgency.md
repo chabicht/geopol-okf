@@ -45,6 +45,6 @@ The analysis suggests that Turkey's role could expand well beyond drones to enco
 
 # Citations
 
-[1] https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/
+[1] [https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/](https://geopoliticalfutures.com/in-mali-turkey-sees-an-opening/)
 
 [2] [The ECOWAS Counter-Terrorism Force: New Ambitions, Old Constraints](https://www.swp-berlin.org/publikation/mta-spotlight-74-the-ecowas-counter-terrorism-force)

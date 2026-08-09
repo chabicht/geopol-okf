@@ -5,7 +5,7 @@ parent: Organizations
 description: The European Union as a geopolitical actor — managing energy storage shortfalls, sanctions secondary risk, enlargement pressure, and the strain of US shifting priorities on Western alliance architecture
 tags: [organization, economics, europe, sanctions, energy, trade, military]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -88,6 +88,12 @@ Ryvkin (GPF) reports that the EU has shifted its approach to Ukraine from financ
 
 The S5→S6 cross-domain pairing identified in the diagnostic runs through European storage, where corridor closure converts directly into a physical inventory shortfall with a winter trigger. This is a time-determinate linkage: the winter heating season creates a fixed deadline by which storage must be replenished, and the corridor closures (Hormuz dual blockade, Houthi blockade of [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html), Ukraine's Black Sea route lost) are preventing that replenishment. The mechanism is not financial contagion but physical conversion — maritime disruption becomes an inventory shortfall becomes a fiscal-monetary crisis, all on a seasonal clock that no policy intervention can reset [14].
 
+## AccelerateEU and the New North Africa Partnership Doctrine
+
+[Annabelle Houdret]({{ site.baseurl }}/actors/authors/annabelle-houdret.html) and [Mark Furness]({{ site.baseurl }}/actors/authors/mark-furness.html) document an accelerating shift in the EU's Mediterranean strategy driven by the Hormuz crisis. The EU's AccelerateEU package — designed to address rising energy costs and reduce reliance on oil and gas — is being implemented alongside hydrogen-production partnerships and Mediterranean renewable cooperation initiatives. The Hormuz crisis has increased the urgency of modernizing North African energy infrastructure, particularly in [Algeria]({{ site.baseurl }}/actors/countries/algeria.html), which supplied 18% of the EU's gas imports in 2025 and whose pipelines (Transmed to Italy, Medgaz to Spain) have become cornerstones of Europe's energy security. The Hormuz Crisis North Africa Hub acceleration is thus directly reshaping EU energy architecture [17].
+
+The strategic logic extends beyond energy. The EU must move beyond the transactional, security-oriented framework that prioritized European border and energy security while reinforcing the resilience of authoritarian regimes. A multidimensional alliance with [Africa]({{ site.baseurl }}/regions/africa.html)n countries should embed socio-economic benefit and support democratic change — creating a model of regional cooperation as resilient as the infrastructure it builds. The CBAM and Supply Chain Due-Diligence Directive should be implemented as cooperative levers that support decarbonization in third countries rather than as purely regulatory instruments. [Morocco]({{ site.baseurl }}/actors/countries/morocco.html)'s industrial diversification — Tanger Med, automotive manufacturing, battery factories, phosphate reserves, green hydrogen — demonstrates the potential. The shift from buffer-zone logic to partnership logic is the doctrinal change the Hormuz crisis has made unavoidable [17]. See [Critical Minerals]({{ site.baseurl }}/themes/critical-minerals.html), [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html), and [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html).
+
 # Citations
 
 [1] Velina Tchakarova, "Global System June 2026" — [https://substack.com/@velinatchakarova/p-204418261](https://substack.com/@velinatchakarova/p-204418261)
@@ -121,3 +127,5 @@ The S5→S6 cross-domain pairing identified in the diagnostic runs through Europ
 [15] [Critical Minerals Will Reshape European-African Relations](https://www.swp-berlin.org/publikation/mta-spot77-critical-minerals-will-reshape-european-african-relations)
 
 [16] [Protection Gaps in Germany's Skilled Labour Migration System](https://www.swp-berlin.org/publikation/protection-gaps-in-germanys-skilled-labour-migration-system)
+
+[17] Annabelle Houdret and Mark Furness, "Between Shock and Opportunity: Hormuz and Deepening North Africa–Europe Relations", SWP, 2026-08-03 — [https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations](https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations)

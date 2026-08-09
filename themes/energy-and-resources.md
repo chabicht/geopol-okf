@@ -9,7 +9,7 @@ tags:
   - trade
   - supply-chain
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -31,11 +31,12 @@ The global energy landscape is defined by extreme asymmetries in consumption and
 
 # Key Dynamics
 
-- **Resource depletion is exponential**: Beyond a certain point, more energy is needed to extract the same amount of material. Mines close not because nothing is left but because the high-grade ore is gone. Technological innovation that enables extraction from lower-grade deposits becomes a trap — running faster to stay in place.
-- **Recycling cannot restore material growth**: Recycling always loses material; it can slow depletion but cannot reverse it. No circular economy can sustain exponential growth on a finite planet.
-- **Electricity is auxiliary, not primary**: Electricity is a carrier, not a source. It must be generated from something — and the dominant sources remain fossil fuels.
-- **Renewables are an extension of the fossil fuel system, not a replacement**: Solar panels, wind turbines, and batteries are manufactured using fossil-fuel-powered industrial processes and require critical minerals whose extraction is itself energy-intensive.
-- **No next economy**: Growth cannot be maintained by switching to renewables on a finite planet. The energy return on investment (EROI) of renewables is lower than that of historical fossil fuels, and the material requirements scale with deployment.
+- **Resource depletion is exponential**: Beyond a certain point, more energy is needed to extract the same amount of material. Mines close not because nothing is left but because the high-grade ore is gone. Technological innovation that enables extraction from lower-grade deposits becomes a trap — running faster to stay in place. [5]
+- **Recycling cannot restore material growth**: Recycling always loses material; it can slow depletion but cannot reverse it. No circular economy can sustain exponential growth on a finite planet. [5]
+- **Electricity is auxiliary, not primary**: Electricity is a carrier, not a source. It must be generated from something — and the dominant sources remain fossil fuels. [5]
+- **Renewables are an extension of the fossil fuel system, not a replacement**: Solar panels, wind turbines, and batteries are manufactured using fossil-fuel-powered industrial processes and require critical minerals whose extraction is itself energy-intensive. [8]
+- **No next economy**: Growth cannot be maintained by switching to renewables on a finite planet. The energy return on investment (EROI) of renewables is lower than that of historical fossil fuels, and the material requirements scale with deployment. [15]
+- **Jenga tower dependency**: Energy technologies stack rather than replace — each new source builds on continued extraction of the previous, making the base the most critical vulnerability. [37]
 - **Diesel is the critical fuel**: Diesel runs agriculture, mining, transport, and military logistics. There is no electric substitute for heavy machinery, shipping, or aviation. A diesel shortage cascades through the entire physical economy faster than a crude oil shortage [2].
 
 # Analysis
@@ -120,6 +121,20 @@ Regional energy dynamics illustrate the framework's application but belong prima
 
 Six days later, Tchakarova's Day 150 diagnostic identifies a new pattern: a third supply node has opened entirely outside the Hormuz-Red Sea system. [Kazakhstan]({{ site.baseurl }}/actors/countries/kazakhstan.html) has suspended crude exports through the Caspian Pipeline Consortium terminal following drone attacks, removing a supply source with no geographic or political connection to the Gulf conflict from the market at the same moment Gulf supply is constrained. The assessment is that the crisis has moved from chokepoint disruption to a broader pattern in which energy infrastructure anywhere in reach of drone technology has become contestable, independent of proximity to the named theatre. This generalisation is what distinguishes Day 150 from the Day 144 diagnostic: the S5 domain is no longer escalating through deepening of existing chokepoints but through the addition of geographically unrelated disruption vectors [31]. Brent crude has crossed the psychological and structural threshold of USD 100 for the first time since May, settling at USD 100.69 — a single-session gain of approximately 7 percent and a rise of roughly 30 percent from the USD 71.57 level recorded on 1 July. RBC's Helima Croft has stated that extreme pressure could send Brent above the 2022 war-driven high of USD 128 and, in a full regional war scenario, toward the 2008 peak of USD 146. This range should now anchor stress-testing rather than the USD 90 to 95 range carried through prior assessments. The Kazakhstan suspension and confirmed Houthi tanker strikes together explain the price movement: both events occurred within the same assessment window, and both contribute to a supply picture in which the risk premium is no longer driven solely by Gulf chokepoint dynamics [31]. See [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html).
 
+## 5 mb/d Resumption and Price Recalibration
+
+[Norman T. Roule]({{ site.baseurl }}/actors/authors/norman-roule.html) reports that up to approximately 5 million barrels per day are now moving through the Strait of Hormuz, reducing oil-market pressure. However, the waterway remains unreliable and insurance rates remain very high. The partial resumption does not resolve the structural vulnerability: the [Hormuz Toll System]({{ site.baseurl }}/events/hormuz-toll-system.html) introduces toll payments whose interaction with the sanctions regime remains unresolved, and refusenik shippers constrain full throughput recovery. The 5 mb/d figure represents a partial normalization — not a return to the ~20 mbpd baseline — and the persistence of elevated insurance rates confirms that markets price reliability, not volume [35].
+
+## Mediterranean Energy Diversion
+
+[Annabelle Houdret]({{ site.baseurl }}/actors/authors/annabelle-houdret.html) and [Mark Furness]({{ site.baseurl }}/actors/authors/mark-furness.html) map how the Hormuz crisis is accelerating North Africa's emergence as a geostrategic energy hub between Europe, Africa, and the Middle East. [Algeria]({{ site.baseurl }}/actors/countries/algeria.html) provides approximately 18% of EU gas imports via the Transmed (to Italy) and Medgaz (to Spain) pipelines, making it the EU's second-largest gas supplier. [Morocco]({{ site.baseurl }}/actors/countries/morocco.html) imports approximately 90% of its energy demand despite 17% renewable production, leaving it acutely exposed to energy-price shocks — compensation spending is projected to reach ~1.2% of GDP. The EU's AccelerateEU package and hydrogen-production partnerships may reinvigorate the sector, and the Hormuz crisis could reshape the hydrogen economy entirely. Tanger Med stands as Africa's leading port, with Chinese-partnered battery factories and free trade access to 50+ countries. The crisis has entrenched North Africa's importance as an energy provider and trade hub, accelerating the [Hormuz Crisis North Africa Hub]({{ site.baseurl }}/events/hormuz-crisis-north-africa-hub-acceleration.html) [36]. See [Critical Minerals]({{ site.baseurl }}/themes/critical-minerals.html).
+
+## EROI and the Jenga Tower of Energy Technologies
+
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) frames the entire energy technology base as a Jenga tower: each new energy source builds on the continued — and ever-growing — extraction of the previous one. We never stopped burning coal when we found oil; we still use massive quantities of coal for steel, cement, and 24/7 power. Wind turbines and pump-jacks are "energy extraction machines" built on mountains of coal, which is mined and transported by diesel engines made of steel. The technologies required to harvest solar and wind energy cannot be built by intermittent and diffuse renewable energy at scale — high heat and carbon atoms remain essential in the material transformations needed for solar panels, batteries, and wind turbines. Should coal production collapse, the whole tower crumbles [37].
+
+The EROI decline is structural and inexorable: it takes an ever-growing amount of energy to mine the same amount of minerals as rich deposits deplete. Even if mining with wind, solar, or fusion became possible, the depletion of rich mineral deposits would still translate into an ever-higher energy cost of producing the next generation of energy-harvesting devices. Lion Hirth's 2013 study found that adding wind above 30% or solar above 15% of total electricity effectively halves their market value — the statement that solar and wind are cheaper than fossil fuels is only true insofar as these technologies are produced and balanced by the fossil fuels they aim to replace. EU gas storage stood at 57% as of August 5 — the lowest level since 2011 — and WoodMac warned that Europe's historically low storage levels place winter 2026/27 supply security at risk. The UK's net-zero push risks higher electricity bills and more blackouts, according to a leaked national grid report. The global ship order book has climbed to its highest level in almost two decades — driven not by demand growth but by forced inefficient routing from chokepoint disruptions, with these vessels risking becoming stranded assets in a world slipping into involuntary degrowth [37]. See [Civilizational Collapse and Progress Traps]({{ site.baseurl }}/themes/civilizational-collapse-and-progress-traps.html).
+
 # Citations
 
 [1] [The Myth of American Energy Independence](https://thehonestsorcerer.substack.com/p/the-myth-of-american-energy-independence)
@@ -189,3 +204,9 @@ Six days later, Tchakarova's Day 150 diagnostic identifies a new pattern: a thir
 [33] Javier Blas, "Saudi Oil Can Still Get Out — But It Won't Be Cheap or Easy", 2026-07-28 — [https://archive.ph/eLoT5](https://archive.ph/eLoT5)
 
 [34] The Honest Sorcerer, "No Oil, No Food", 2026-07-31 — [https://thehonestsorcerer.substack.com/p/no-oil-no-food](https://thehonestsorcerer.substack.com/p/no-oil-no-food)
+
+[35] Norman T. Roule, "There Will be Unseen Costs to be Paid over the War in Iran. Who is Weighing Them?", 2026-08-05 — [https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them](https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them)
+
+[36] Annabelle Houdret and Mark Furness, "Between Shock and Opportunity: Hormuz and Deepening North Africa–Europe Relations", 2026-08-03 — [https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations](https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations)
+
+[37] The Honest Sorcerer, "Civilizations Fall When This Mechanism Activates", 2026-08-07 — [https://thehonestsorcerer.substack.com/p/civilizations-fall-when-this-mechanism](https://thehonestsorcerer.substack.com/p/civilizations-fall-when-this-mechanism)

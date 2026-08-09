@@ -10,7 +10,7 @@ tags:
   - proxy
   - hybrid
 status: ongoing
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -37,11 +37,11 @@ Countering the impacts of cognitive warfare is essential to countering Endless W
 
 In the era of Endless Warfare, adversaries often use negotiations as a continuation of conflict by other means — not as instruments of resolution. The central challenge is distinguishing when talks aim to legitimately resolve a conflict versus when they are designed to shape its next phase. Key principles for countering weaponized negotiations [1]:
 
-- No upfront concessions to get an adversary to the table
-- Establish clear overarching objectives and non-negotiable redlines early
-- Proactively counter narratives during negotiations
-- Concessions must be conditions-based with automatic snap-back mechanisms
-- Be willing to walk away
+- **No upfront concessions.** Do not offer upfront concessions to get an adversary to the table — concessions granted before talks begin reward bad faith. [1]
+- **Set clear objectives early.** Establish overarching objectives and non-negotiable redlines at the outset to prevent drift during negotiations. [1]
+- **Counter adversary narratives.** Proactively counter narratives during negotiations — adversaries use talks as continuation of conflict by other means. [1]
+- **Conditions-based concessions with snap-back.** Concessions must be conditions-based with automatic snap-back mechanisms to prevent adversary gaming. [1]
+- **Be willing to walk away.** Be willing to walk away — the credibility of withdrawal is the strongest lever in weaponized negotiations. [1]
 
 ## Countering Endless Warfare Networks
 
@@ -82,8 +82,22 @@ Endless Warfare will not end because adversaries choose peace. It will end when 
 
 [The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) argues that [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) is effectively waging a global hybrid war on the West's behalf — a conflict the [United States]({{ site.baseurl }}/actors/countries/united-states.html) hardly engages in directly, except through the most deniable means. Drones are the ideal instrument for this mode of warfare: cheap, attributable only with difficulty, and operable through layered intermediaries that preserve plausible deniability. The drone's inherent semi-deniability makes it the signature weapon of the gray zone — projecting kinetic effect without the political signature of a manned platform or missile launch. This dynamic extends the Endless Warfare framework: the adversary's gray-zone toolkit and the West's deniable-response toolkit are converging on the same technology, eroding the threshold between below-threshold conflict and open war [2].
 
+## Gray-Zone Operational Doctrine
+
+[The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) provides a doctrinal framework for the gray-zone dimension of Endless Warfare. The National Intelligence Council defines gray zone activities as "coercion and subversion... below what constitutes armed conflict but outside the bounds of historically legitimate statecraft." Deniability is critical to success because attribution risks escalation. The [United States]({{ site.baseurl }}/actors/countries/united-states.html) lacks a whole-of-government organizational structure for gray zone: the State Department focuses on relationships, the NSC is hollowed out, and legal-authority issues prevent either the Department of War or the intelligence community from leading implementation [3].
+
+The specific activities requiring integration include: cyber and information operations focused on undermining resistance and supporting US goals; covert and clandestine operations (espionage, infiltration, subversion); enlistment of non-governmental actors and assistance to irregular and paramilitary forces; economic pressures beyond normal competition; and calculated ambiguity including deception and denial operations. Autocracies have a structural advantage: centralized systems can marshal whole-of-state and whole-of-society resources without domestic legal constraints, while democratic states' systems are geared toward a binary war/peace framework with little institutional capacity for the space between. [China]({{ site.baseurl }}/actors/countries/china.html), [Russia]({{ site.baseurl }}/actors/countries/russia.html), and [Iran]({{ site.baseurl }}/actors/countries/iran.html) have ingrained gray-zone tactics into their doctrines; the US has been arguing over definitions and leadership for years [3].
+
+Historical antecedents underscore that gray-zone methods are longstanding statecraft, not innovation: the Trojan Horse exploited confusion, division, deception, and infiltration; the Athenians used proxy forces to sow distrust among Spartan Helots; the Han Empire used economic and cultural engagement to secure borders without large-scale wars; Cold War active measures (espionage, sabotage, proxy support) kept the US-Soviet competition a contested space. Gray-zone campaigns will increase and diversify due to enabling technologies, norm erosion, and attribution challenges. Without developing gray-zone strategies, the US limits its response options to kinetic ones — ceding the contested space between peace and war to adversaries. See [Cold War 2]({{ site.baseurl }}/conflicts/cold-war-2.html) [3].
+
+### Cognitive Advantage as One Pillar of Gray Zone
+
+The White House has taken an important step by appointing the first NSC Director for Cognitive Advantage, but cognitive advantage is only one part of gray-zone activity. Cyber operations, covert action, paramilitary enlistment, economic pressure, and deception/denial are other pillars that require coordinated integration. A senior NSC professional charged with integrating USG gray-zone activities against specific adversaries is "key to winning in this realm" — without coherent command-and-control, jurisdictional and philosophical boundaries between agencies inhibit the synchronized activities needed for truly whole-of-government gray-zone response. See [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) for the cognitive-advantage pillar [3].
+
 # Citations
 
 [1] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)
 
 [2] [We've Seen Autonomous Warfare and We're in Trouble](https://www.thecipherbrief.com/weve-seen-autonomous-warfare-and-were-in-trouble)
+
+[3] [BLUF: The US Must Lead in Gray Zone Activity](https://www.thecipherbrief.com/bluf-the-us-must-lead-in-gray-zone-activity)

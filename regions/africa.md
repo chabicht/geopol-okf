@@ -5,7 +5,7 @@ parent: Regions
 description: Continent of growing strategic importance; Sahel as insurgency zone, Horn of Africa as maritime chokepoint with emerging rival blocs, and US-China competition along strategic resource corridors.
 tags: [africa, sahel, insurgency, military, drone-warfare, trade, terrorism]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -54,6 +54,20 @@ Labour and education migration from sub-Saharan Africa to [Germany]({{ site.base
 
 Werenfels (SWP) documents that [Tunisia]({{ site.baseurl }}/actors/countries/tunisia.html)'s President Kais Saied has systematically dismantled democratic institutions while Europe's engagement remains invisible to the Tunisian public. The EU's visibility dilemma — European-funded infrastructure presented as Chinese projects, migration diplomacy failures, and the Gaza war's strain — illustrates the broader challenge of European soft power in North Africa [13].
 
+### North Africa as Geostrategic Hub
+
+[Annabelle Houdret]({{ site.baseurl }}/actors/authors/annabelle-houdret.html) and [Mark Furness]({{ site.baseurl }}/actors/authors/mark-furness.html) (SWP/IDOS) argue that the Hormuz crisis is accelerating North Africa's emergence as a geostrategic hub between [Europe]({{ site.baseurl }}/regions/europe.html), [Africa]({{ site.baseurl }}/regions/africa.html), and the [Middle East]({{ site.baseurl }}/regions/middle-east.html). The five North African countries are affected differently by the crisis [17]:
+
+**Importers ([Egypt]({{ site.baseurl }}/actors/countries/egypt.html), [Tunisia]({{ site.baseurl }}/actors/countries/tunisia.html), [Morocco]({{ site.baseurl }}/actors/countries/morocco.html)):** Higher prices for petrol, electricity, and food. Egypt's CPI stood at 13.4% year-on-year in February 2026; Suez Canal traffic jumped nearly 30% from diverted oil tankers but remains at less than half of 2023 levels, and remittances from approximately five million Egyptian migrant workers in the Gulf are vulnerable to continued uncertainty. Tunisia's public debt stands at just under 80% of GDP, food costs increased 7.1% in June 2026, and the economy — expected to grow 2.1% — is now projected to shrink by 0.8 percentage points. Morocco increased social spending after the 2025 Gen Z protests, but the Hormuz crisis has made this commitment considerably more expensive: compensation spending is projected to reach around 1.2% of GDP, and the country remains 90% dependent on imported fossil fuels for domestic energy demand despite renewables accounting for 17% of total production.
+
+**Exporters ([Algeria]({{ site.baseurl }}/actors/countries/algeria.html), [Libya]({{ site.baseurl }}/actors/countries/libya.html)):** Benefiting from higher oil and gas prices but facing structural limits. Algeria provides 17.4% of [EU]({{ site.baseurl }}/actors/organizations/eu.html) gas imports via the Transmed and Medgaz pipelines, making it the EU's second-largest natural gas supplier. However, Algeria uses more than half of its gas production domestically and its infrastructure faces limits; new investments and licensing awards to companies including ExxonMobil and Chevron could lay foundations for future growth, but controversial shale gas extraction carries significant environmental and social risks. In Libya, oil revenues continue to finance the two main rival political factions (the Government of National Unity in the west and the Libyan National Army in the east), while the country remains exposed to higher fertilizer and food costs and reduced remittances from migrant workers in the Gulf.
+
+[Morocco]({{ site.baseurl }}/actors/countries/morocco.html) exemplifies the hub dynamic: Tanger Med (the leading port in Africa), an automotive manufacturing center building battery factories partly in partnership with Chinese firms, phosphate reserves and associated fertilizer production, and an ambitious hydrogen-production programme. China and other countries are leveraging Morocco's free trade agreements to access more than 50 country markets. See [Hormuz Crisis North Africa Hub]({{ site.baseurl }}/events/hormuz-crisis-north-africa-hub-acceleration.html) [17].
+
+### Beyond the Buffer-Zone Model
+
+The Hormuz crisis has revealed that North Africa can no longer be viewed primarily as a "buffer zone" for migration control — the latest mass migrant crossing attempt in the Spanish enclave of Ceuta illustrates the limits of this approach. A more holistic [EU]({{ site.baseurl }}/actors/organizations/eu.html)-North Africa partnership is needed: trade and logistics, mutually beneficial economic development, circular migration of skilled workers, climate change adaptation and mitigation, and dialogue on socio-political issues. The EU's 2025 "Pact for the Mediterranean" provides a starting point, but the transactional, security-oriented framework that has prioritised European border and energy security while reinforcing the resilience of authoritarian regimes must evolve. North African countries have a renewed opportunity to diversify their industrial base, reducing reliance on the rentier economic model and fostering more resilient, multifaceted economies less vulnerable to geopolitical shocks. See [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html) and [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) [17].
+
 ## Southern Africa: Xenophobic Mobilization and Regional Migration
 
 Müller ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) documents the 2026 South African anti-migration movement as a regional stress test. See [South Africa]({{ site.baseurl }}/actors/countries/south-africa.html). The 30 June 2026 deadline set by Operation Dudula and March and March produced 120 protest actions nationwide; the campaigns have announced weekly protests through the 4 November 2026 municipal elections. The government's response — 53,000 deportations or returns, many to Zimbabwe, Mozambique, and Malawi — risks destabilizing neighboring states whose socioeconomic capacity to absorb returnee flows is far lower than South Africa's. The regional spillover logic is structural: South Africa's deportation policy directly affects regional stability, creating potential for cross-border deterioration that feeds back into migration pressure [14].
@@ -68,6 +82,8 @@ Knapp and Koch ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) extend the ro
 - **Fractured terrain** — Landlocked, vast territory with weak state authority creates operational environments where non-state actors and external powers operate with minimal oversight.
 - **Drones as modernization signaling** — Regimes use drone acquisitions to project an image of modernization and military capability, even when battlefield impact is limited.
 - **Illicit economies** — Porous borders and jihadist governance of rural areas sustain conflict economies that external security partnerships cannot dismantle.
+- **North Africa as geostrategic hub** — The Hormuz crisis is accelerating North Africa's emergence as a hub between Europe, Africa, and the Middle East, with divergent impacts on importers (Egypt, Tunisia, Morocco) and exporters (Algeria, Libya). See [Hormuz Crisis North Africa Hub]({{ site.baseurl }}/events/hormuz-crisis-north-africa-hub-acceleration.html) [17].
+- **Beyond the buffer-zone model** — North Africa can no longer be viewed primarily as a buffer zone for migration control; a more holistic EU-NA partnership spanning trade, logistics, circular migration, and climate adaptation is needed [17].
 
 # Citations
 
@@ -102,3 +118,5 @@ Knapp and Koch ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) extend the ro
 [15] [Migrationsrouten im Fokus](https://www.swp-berlin.org/publikation/migrationsrouten-im-fokus)
 
 [16] [Critical Minerals Will Reshape European-African Relations](https://www.swp-berlin.org/publikation/mta-spot77-critical-minerals-will-reshape-european-african-relations)
+
+[17] [Between Shock and Opportunity: Hormuz and Deepening North Africa–Europe Relations](https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations)

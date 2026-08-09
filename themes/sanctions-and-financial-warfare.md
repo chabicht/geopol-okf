@@ -9,7 +9,7 @@ tags:
   - trade
   - supply-chain
 status: ongoing
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -36,11 +36,13 @@ Russia, Iran, China, and North Korea increasingly outsource sanctions evasion to
 
 # Key Dynamics
 
-- **Architecture mismatch**: Sanctions are designed at the goods level (HS codes) but enforced at the entity level (ISIC codes), creating a detection gap.
-- **Shadow banking resilience**: Iran's oil-backed system demonstrates that adversary financial architecture can operate entirely outside Western reach.
-- **Criminal outsourcing**: States under sanctions pressure increasingly rely on criminal networks, blurring the boundary between illicit finance and statecraft.
-- **Diminishing marginal returns**: Each additional layer of sanctions produces less marginal coercive effect as evasion architectures mature.
-- **Coalition fragility**: Sanctions effectiveness depends on multilateral coordination, which erodes as third countries (China, UAE, Turkey) facilitate evasion for profit.
+- **Architecture mismatch**: Sanctions are designed at the goods level (HS codes) but enforced at the entity level (ISIC codes), creating a detection gap. [1]
+- **Shadow banking resilience**: Iran's oil-backed system demonstrates that adversary financial architecture can operate entirely outside Western reach. [2]
+- **Criminal outsourcing**: States under sanctions pressure increasingly rely on criminal networks, blurring the boundary between illicit finance and statecraft. [3]
+- **Diminishing marginal returns**: Each additional layer of sanctions produces less marginal coercive effect as evasion architectures mature. [1]
+- **Coalition fragility**: Sanctions effectiveness depends on multilateral coordination, which erodes as third countries (China, UAE, Turkey) facilitate evasion for profit. [5]
+- **Sanctions-regime collapse risk**: Iranian control over Hormuz could functionally collapse the sanctions regime by channeling billions in toll revenue to the IRGC's missile program and proxies. [8]
+- **EU asset leverage**: The EU controls frozen Russian assets and market access, giving it decisive leverage over Russia's postwar reintegration — a lever Washington lacks. [10]
 
 # Analysis
 
@@ -80,6 +82,18 @@ The contrast with US sanctions on Iran is stark: the sustained targeting of the 
 
 The yuan-based evasion is not a sophisticated parallel financial system but a simple substitution: if the seller accepts yuan and the buyer has yuan, the dollar is bypassed entirely. The mechanism's simplicity is its strength — it requires no new infrastructure, only willingness on both sides. As [China]({{ site.baseurl }}/actors/countries/china.html)'s trade surplus and global footprint grow, the pool of yuan available for trade settlement expands, making the evasion architecture self-reinforcing. The dollar remains the reserve currency, but its weaponization — the ability to cut adversaries off from the dollar system as coercive leverage — has been functionally neutralized for any adversary with access to Chinese trade flows [7]. See [United States]({{ site.baseurl }}/actors/countries/united-states.html) and [China]({{ site.baseurl }}/actors/countries/china.html).
 
+## Iranian Straits Control as Sanctions-Collapse Risk
+
+[Norman T. Roule]({{ site.baseurl }}/actors/authors/norman-roule.html) warns that if [Iran]({{ site.baseurl }}/actors/countries/iran.html) acquires formal control over the Strait of Hormuz through the [Hormuz Toll System]({{ site.baseurl }}/events/hormuz-toll-system.html), it could collapse the international sanctions regime. Money paid by shippers to Iran would "inevitably go to its missile program and proxies." The IRGC-led government cannot be trusted on a transactional basis — the idea that diplomacy can build trust with an IRGC government "has no evidence in reality." Iran would gain a permanent foot on the throat of the international community, able to dictate which food shippers can enter Kuwait and inject unprecedented power projection into the region. The deal raises the question of whether the US military would be banned from the Persian Gulf — requiring Iranian approval of US military transits — which the US would not accept, creating a gray area that could unravel at any provocation [8].
+
+## Shadow-Fleet Enforcement and Secondary Sanctions
+
+[Seth G. Jones]({{ site.baseurl }}/actors/authors/seth-g-jones.html) and McCabe argue the moment is "ripe" for a pressure campaign pushing [Russia]({{ site.baseurl }}/actors/countries/russia.html)'s oil revenues toward exhaustion. The US and Europe should increase pressure through stricter enforcement of sanctions targeting Russia's shadow fleet, including secondary sanctions on banks in China, Hong Kong, and other countries that facilitate shadow-fleet transactions. Three Baltic ports (Ust-Luga, Primorsk, and Novorossiysk) handle approximately 60% of Russian seaborne oil exports — concentrating the enforcement target. The shadow fleet is the financial-logistical backbone of Russia's sanctions evasion, and the failure to fully wield economic pressure represents a bitter irony: despite Russia's battlefield challenges and economic vulnerabilities, the US and Europe have not maximized the coercive instruments available to them [9]. See [Shadow Fleet Boarding Wave]({{ site.baseurl }}/events/shadow-fleet-dawn-raids-2026.html) and [Organised Crime and Statecraft]({{ site.baseurl }}/themes/organised-crime-and-statecraft.html).
+
+## Frozen Assets and EU Leverage
+
+[Andrew Ryvkin]({{ site.baseurl }}/actors/authors/andrew-ryvkin.html) reframes Russia's postwar trajectory through the lens of EU leverage. It is the EU — not the US — that shares a border with Russia, that imposed the most economically damaging sanctions, and that controls the decisive vote over the future of Russia's frozen assets, integration into global banking, and access to European markets. Russia's postwar return to the global stage therefore requires EU, and especially German, engagement. Moscow downplays the extent of EU sanctions disruption, but the reorientation toward China has not proved as profitable: Russia-China trade totaled $228 billion in 2025, compared to $282 billion in Russia-EU trade in 2021 before the full-scale invasion. Germany has maintained back-channel diplomacy through figures like Roman Abramovich and meetings in Baku and Abu Dhabi, signaling that both sides understand the war will eventually end and that restoring economic ties will require these channels [10].
+
 # Citations
 
 [1] [Decoding Sanctions: How Governments can get the Best out of Banks](https://www.rusi.org/explore-our-research/publications/commentary/decoding-sanctions-how-governments-can-get-best-out-banks)
@@ -95,3 +109,9 @@ The yuan-based evasion is not a sophisticated parallel financial system but a si
 [6] [Global System Rupture - Update](https://substack.com/@velinatchakarova/p-208325909)
 
 [7] Paul Krugman, "How China Won the Iran War", 2026-08-03 — [https://paulkrugman.substack.com/p/how-china-won-the-iran-war](https://paulkrugman.substack.com/p/how-china-won-the-iran-war)
+
+[8] Norman T. Roule, "There Will be Unseen Costs to be Paid over the War in Iran. Who is Weighing Them?", 2026-08-05 — [https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them](https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them)
+
+[9] Seth G. Jones and Riley McCabe, "Russian Blood and Treasure: The Ballooning Costs of Putin's War", 2026-08-05 — [https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war](https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war)
+
+[10] Andrew Ryvkin, "Russia's Road Back Runs Through Berlin", 2026-08-04 — [https://geopoliticalfutures.com/russias-road-back-runs-through-berlin/](https://geopoliticalfutures.com/russias-road-back-runs-through-berlin/)

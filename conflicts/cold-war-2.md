@@ -9,7 +9,7 @@ tags:
   - gray-zone
   - hybrid
 status: ongoing
-timestamp: 2026-07-26T00:00:00Z
+timestamp: 2026-08-05T00:00:00Z
 ---
 
 # Background
@@ -80,25 +80,33 @@ The Western answer, in Yousef's framing, should not be a watered-down version of
 
 A previously unconfirmed DragonBear vector requires flagging, not adoption. US intelligence officials are examining, without having reached a conclusion, whether [Russia]({{ site.baseurl }}/actors/countries/russia.html) provided targeting information or drone technology in support of [Iran]({{ site.baseurl }}/actors/countries/iran.html)n strikes on CIA facilities in the Gulf. This is sourced to four anonymous officials and is explicitly unconfirmed; it is carried as a watch item under S3 rather than as a finding, consistent with sourcing discipline for anonymous-source material. If confirmed, the item would represent a qualitative deepening of the DragonBear's operational coordination beyond the experiential and maritime domains already documented into direct battlefield targeting support [12]. See [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) and [Sanctions and Financial Warfare]({{ site.baseurl }}/themes/sanctions-and-financial-warfare.html).
 
+## Gray Zone as Cold War 2.0 Domain
+
+[The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html) argues that adversaries' "endless wars" are gray-zone activities waged against the [United States]({{ site.baseurl }}/actors/countries/united-states.html) — incorporating cyber operations, influence campaigns, covert action, economic coercion, and subversive networks. The US lacks the whole-of-government organizational structure for gray-zone competition: the State Department focuses on relationships, the NSC is hollowed out, and legal-authority boundaries prevent either the Department of War or the intelligence community from leading a coordinated effort. Autocracies have a structural gray-zone advantage: centralized systems can marshal whole-of-state and whole-of-society resources while democratic states are limited by domestic law and regulation, and because democratic legal and military systems are geared toward war-and-peace binaries with little institutional capacity for the space in between [14].
+
+The proposal for a seasoned NSC professional to coordinate gray-zone activities against specific adversaries parallels existing proposals for a Deputy NSA for Strategic Competition — both seek to create a focal point for synchronized whole-of-government action across the competition spectrum. The article connects gray-zone activity to the [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) framework already documented in this concept: adversaries' persistent, long-term strategy of weaponized negotiations, proxy networks, cyber operations, and illicit financial networks is precisely the gray-zone campaign the US is failing to counter organizationally [14]. The cognitive dimension — already partially addressed by the appointment of the first NSC Director for Cognitive Advantage — is just one part of a broader gray-zone portfolio that also includes calculated ambiguity, deception and denial operations, and the enlistment of non-governmental actors. See [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html).
+
+Historical antecedents underscore that gray-zone activity is a longstanding form of statecraft, not a novel invention. Cold War "active measures" — espionage, sabotage, and proxy support across [Latin America]({{ site.baseurl }}/regions/latin-america.html), Korea, and Vietnam — kept superpower competition a contested space below the threshold of direct confrontation. Earlier precedents include the Trojan Horse operation (creating confusion and division, extending ostensible inducements, deception, and clandestine infiltration) and the Peloponnesian War, in which Athens used proxy forces expert in Helot language and culture to sow distrust among Sparta's Helot population, triggering a national emergency that drove Sparta to seek peace talks. The lesson for Cold War 2.0 is that [China]({{ site.baseurl }}/actors/countries/china.html), [Russia]({{ site.baseurl }}/actors/countries/russia.html), and [Iran]({{ site.baseurl }}/actors/countries/iran.html) are applying centuries-old subversive logic with modern enabling technologies — and that the US risks limiting its response options to kinetic ones if it does not develop its own offensive gray-zone strategies [14].
+
 # Citations
 
-[1] https://substack.com/@velinatchakarova/p-204418261
+[1] [https://substack.com/@velinatchakarova/p-204418261](https://substack.com/@velinatchakarova/p-204418261)
 
-[2] https://substack.com/@velinatchakarova/p-203689435
+[2] [https://substack.com/@velinatchakarova/p-203689435](https://substack.com/@velinatchakarova/p-203689435)
 
-[3] https://substack.com/@velinatchakarova/p-203711905
+[3] [https://substack.com/@velinatchakarova/p-203711905](https://substack.com/@velinatchakarova/p-203711905)
 
-[4] https://warontherocks.com/a-claim-to-lead-a-hesitation-to-act-germanys-new-military-strategy/
+[4] [https://warontherocks.com/a-claim-to-lead-a-hesitation-to-act-germanys-new-military-strategy/](https://warontherocks.com/a-claim-to-lead-a-hesitation-to-act-germanys-new-military-strategy/)
 
-[5] https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military
+[5] [https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military](https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military)
 
-[6] https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris
+[6] [https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris](https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris)
 
 [7] [Endless Warfare – Part II: Countering Endless Warfare and its Networks](https://www.thecipherbrief.com/endless-warfare-part-ii-countering-endless-warfare-and-its-networks)
 
 [8] [The DragonBear in July: Coordination Without Alliance](https://substack.com/@velinatchakarova/p-206606963)
 
-[9] https://substack.com/@velinatchakarova/p-203793388
+[9] [https://substack.com/@velinatchakarova/p-203793388](https://substack.com/@velinatchakarova/p-203793388)
 
 [10] [Midweek Update 12: We Are Witnessing US Decline In Real Time](https://phillipspobrien.substack.com/p/midweek-update-12-we-are-witnessing)
 
@@ -107,3 +115,5 @@ A previously unconfirmed DragonBear vector requires flagging, not adoption. US i
 [12] [Global System Rupture - Update](https://substack.com/@velinatchakarova/p-208325909)
 
 [13] [North Korea's Constitutional Amendments Cement the Regime's Strategic Posture](https://understandingwar.org/research/china-taiwan/north-koreas-constitutional-amendments-cement-the-regimes-strategic-posture/)
+
+[14] The Cipher Brief, "BLUF: The US Must Lead in Gray Zone Activity", 2026-08-05 — [https://www.thecipherbrief.com/bluf-the-us-must-lead-in-gray-zone-activity](https://www.thecipherbrief.com/bluf-the-us-must-lead-in-gray-zone-activity)
