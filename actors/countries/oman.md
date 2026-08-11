@@ -5,7 +5,7 @@ parent: Countries
 description: Gulf sultanate co-negotiating with Iran on a permanent Hormuz toll system — mediating between Iranian and Western positions on Strait of Hormuz passage
 tags: [country, energy, middle-east]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -22,6 +22,10 @@ Oman is in talks with Iran over a permanent toll system for the Strait of Hormuz
 
 Oman's mediation role gives it outsized diplomatic influence relative to its size. By facilitating the toll system negotiations, Oman positions itself as indispensable to any Hormuz governance arrangement — a role that persists regardless of the war's outcome.
 
+## Pivot in the Iran-Oman Maritime Mechanism
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) identifies Oman as the pivot in the emerging Iran-Oman maritime mechanism for governing Strait of Hormuz transit. Oman is acceptable to both parties, sits on the strait's littoral, and has its commercial access at stake. Under the proposed mechanism, Iran would have authority over inbound traffic while Iran and Oman would jointly govern outbound shipping — making Oman the indispensable co-architect of any arrangement that formalizes Iran's chokepoint control. [3]
+
 # Key Dynamics
 
 - **Toll system institutionalizes Iranian leverage.** Oman is co-negotiating a permanent Hormuz toll system that would charge tankers for transit, formalizing Iran's control over maritime traffic. [1]
@@ -29,6 +33,7 @@ Oman's mediation role gives it outsized diplomatic influence relative to its siz
 - **Mediation is the source of influence.** Oman's credibility in Tehran gives it outsized diplomatic weight, making it indispensable to any Hormuz governance arrangement. [1]
 - **Neutrality does not guarantee immunity.** The IRGC struck Duqm port on July 12, 2026, demonstrating that Iran's "sideways escalation" reaches neutral mediators hosting US-supporting infrastructure. [2]
 - **Duqm complicates the mediator's position.** The strike on Oman's deep-water port shows that hosting US logistics infrastructure erodes the very neutrality that makes Oman valuable. [2]
+- **Oman is the pivot in the Iran-Oman maritime mechanism.** Acceptable to both parties and strait-littoral, Oman would co-govern outbound shipping under the proposed Hormuz transit arrangement. [3]
 
 # Analysis
 
@@ -41,3 +46,5 @@ Oman's mediation role gives it outsized diplomatic influence relative to its siz
 [1] [Iran War: Iran, Oman in Talks Over Permanent Toll System for Strait of Hormuz](https://archive.ph/fPxWM)
 
 [2] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)
+
+[3] Velina Tchakarova, "Hormuz on a Knife's Edge: The Fragile Architecture of a Deal Nobody Trusts", 2026-08-06 — [https://substack.com/@velinatchakarova/p-210042648](https://substack.com/@velinatchakarova/p-210042648)

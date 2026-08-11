@@ -5,7 +5,7 @@ parent: Countries
 description: Archipelagic US treaty ally and South China Sea claimant that has become a proactive security actor at the center of an expanding regional network connecting Northeast Asia, Oceania, and Southeast Asia
 tags: [country, indo-pacific, naval, military]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -28,7 +28,7 @@ The Philippines' growing strategic partnership with [Vietnam]({{ site.baseurl }}
 
 ## Energy-Import Vulnerability
 
-The Philippines declared a national emergency during the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) due to its weak domestic energy base and low reserves. Its dependence on Gulf energy imports created acute economic pressure at the height of the Middle East energy crisis — a vulnerability that briefly opened an aperture for Chinese economic diplomacy. At the height of the crisis, Manila appeared willing to reopen discussions on joint energy development and broader cooperation with Beijing, provided it remained consistent with international law and progress toward a South China Sea Code of Conduct [1][2].
+The Philippines declared a national emergency during the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) due to its weak domestic energy base and low reserves. Its dependence on Gulf energy imports created acute economic pressure at the height of the Middle East energy crisis — a vulnerability that briefly opened an aperture for Chinese economic diplomacy. At the height of the crisis, Manila appeared willing to reopen discussions on joint energy development and broader cooperation with Beijing, provided it remained consistent with international law and progress toward a South China Sea Code of Conduct [1][2]. KPB 206's KITE bottleneck simulation quantifies this exposure, projecting a −1.34% welfare loss for the Philippines under a full Hormuz closure, driven by the energy-to-food price cascade through fertilizer supply chains [4].
 
 ## ASEAN Chair Role
 
@@ -71,3 +71,5 @@ See [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html) for the emergin
 [2] [In the Asia-Pacific, a New Security Arrangement Takes Shape](https://geopoliticalfutures.com/in-the-asia-pacific-a-new-security-arrangement-takes-shape/)
 
 [3] [Broken Drone, Far from Home: The Case for Overseas Autonomous System Sustainment](https://warontherocks.com/broken-drone-far-from-home-the-case-for-overseas-autonomous-system-sustainment/)
+
+[4] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)

@@ -49,3 +49,11 @@ permalink: /actors/authors/
 * [Guido Steinberg](guido-steinberg.html) - SWP expert on Middle East politics and terrorism — expert on Saudi nuclear ambitions, Iran's nuclear program, and proliferation cascade dynamics in the Middle East
 * [Mark F. Cancian](mark-f-cancian.html) - Retired Marine Corps Colonel and CSIS senior adviser — expert on US munitions inventories, defense industrial base consolidation, and the six-driver framework for munitions shortages
 * [Chris H. Park](chris-h-park.html) - CSIS research associate co-authoring analysis of US munitions shortages, defense procurement, and missile defense interceptor expenditures
+* [Jeff Currie](jeff-curry.html) - Commodity and oil market analyst — crude-refining double bottleneck, energy-market reading of the US-Iran war
+* [Julian Hinz](julian-hinz.html) - Kiel Institute economist — KITE trade model developer, bottleneck extension and third-market decomposition methodology
+* [Hendrik Mahlkow](hendrik-mahlkow.html) - Kiel Institute co-author — KITE bottleneck extension, Hormuz closure economic damage simulation
+* [Robin Sogalla](robin-sogalla.html) - Kiel Institute co-author — KITE model implementation, Hormuz closure simulation
+* [Gerald Willmann](gerald-willmann.html) - Bielefeld/Kiel trade theorist — bottleneck mechanism derivation, Hormuz closure welfare modeling
+* [Sonali Chowdhry](sonali-chowdhry.html) - DIW/Kiel lead author — proportional benchmark methodology for China third-market displacement
+* [Katharina Erhardt](katharina-erhardt.html) - Kiel co-author — third-market competition analysis, China shock quantitative decomposition
+* [Ronald Wright](ronald-wright.html) - Canadian archaeologist and author — "progress trap" concept from *A Short History of Progress* (2004), foundational to the civilizational-collapse framework

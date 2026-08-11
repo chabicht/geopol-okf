@@ -7,7 +7,7 @@ tags:
   - contested
   - fault-line
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -30,18 +30,9 @@ where in the bundle it currently produces a live disagreement.
 
 # Key Dynamics
 
-- **Agency vs structure.** O'Brien reads great-power trajectories as leader choices; GPF
-  (Friedman) and Beckley read them as structural patterns that outlast any one leader. [1][2][3]
-- **Unitary vs factional actor modeling.** Pape and Friedman model Iran as a coherent
-  strategic actor; Fowler models it as factionally incoherent, with no confirmed Supreme
-  Leader in effective control. [4][5][6]
-- **Alliance-as-real vs alliance-as-branding.** Tchakarova's DragonBear/CRINK framing
-  treats China-Russia-Iran-North Korea coordination as a deepening strategic partnership;
-  Ueki's bilateral-only reading treats it as four separate relationships with no joint
-  military structure. [7][8]
-- **Single-publication-as-single-voice.** Outlets with multiple bylines (The Cipher
-  Brief, GPF) get cited as if they hold one institutional position; two Cipher Brief
-  pieces on Russian regime durability reach opposite conclusions under different bylines. [9][10]
+- **Agency vs structure; alliance-as-real vs alliance-as-branding.** O'Brien reads great-power trajectories as leader choices; GPF (Friedman) and Beckley read them as structural patterns. Tchakarova's DragonBear/CRINK framing treats China-Russia-Iran-North Korea coordination as a deepening partnership; Ueki's bilateral-only reading treats it as four separate relationships. [1][2][3][7][8]
+- **Unitary vs factional actor modeling.** Pape and Friedman model Iran as a coherent strategic actor; Fowler models it as factionally incoherent, with no confirmed Supreme Leader in effective control. [4][5][6]
+- **Single-publication-as-single-voice.** Outlets with multiple bylines (The Cipher Brief, GPF) get cited as if they hold one institutional position; two Cipher Brief pieces on Russian regime durability reach opposite conclusions under different bylines. [9][10]
 - **Contested — is US decline structural or cyclical?** O'Brien reads compounding
   decline; Beckley reads structural durability. See `## Contested:` in
   [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html). [1][3]
@@ -53,12 +44,21 @@ where in the bundle it currently produces a live disagreement.
 - **Contested — is the China trade shock a market phenomenon or unrestricted warfare?**
   Tooze reads China's surplus via macroeconomic aggregates and a sequenced China Shock
   2.0 framing; ctindale reads it via Beijing's stated operational paradigm and argues
-  the market-economics framing is "constructive blindness." See `## Contested:` in
-  [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html). [13][14]
+  the market-economics framing is "constructive blindness." Kiel's proportional-benchmark
+  decomposition (31% China-attributable / 69% excess for Germany) introduces a third
+  methodological approach that has not yet produced a `## Contested:` block. See
+  `## Contested:` in
+  [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html). [13][14][18]
 - **Contested — is US Iran strategy deliberate doctrine or adrift improvisation?**
   Bokhari reads a coherent offloading doctrine; Hinote reads tactical success without
   strategic conversion. See `## Contested:` in
   [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html). [15][16]
+- **Contested — are the empirical foundations of Wright's progress-trap framework sound?**
+  The Honest Sorcerer's compilation presents Wright's progress traps as empirically
+  grounded and civilization-threatening; a Cicero review contests the megafauna, Easter
+  Island, and methodology claims as ideology critique with patchy empirical support. See
+  `## Contested:` in
+  [Civilizational Collapse and Progress Traps]({{ site.baseurl }}/themes/civilizational-collapse-and-progress-traps.html). [19][20]
 
 # Analysis
 
@@ -150,11 +150,25 @@ and the broader treatment in [Global System
 Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html) (Under
 "Bifurcation of Analytical Frames"). 
 
+## Proportional-Benchmark Methodology as Candidate Fault Line
+
+The [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html)'s KPB 213 introduces a "proportional benchmark" that decomposes advanced-economy market-share losses into China-attributable and excess-loss components — a statistical attribution method that produces findings complicating both sides of the existing market-economics vs state-power fault line. For [Germany]({{ site.baseurl }}/actors/countries/germany.html), only 31% of the 1.98pp third-market-share loss is mechanically attributable to China's rise; 69% is overproportional, reflecting home-grown competitiveness deterioration. The method deliberately stops short of causal claims, framing the decomposition as descriptive-statistical rather than structural [18].
+
+This creates a potential three-way methodological split in the China shock discourse. Tooze reads the aggregate surge and its qualitative break from 1.0/2.0 through macroeconomic aggregates and historical sequencing — a narrative framing that identifies the phenomenon. ctindale reads the same data through Beijing's stated operational paradigm — a doctrine-reading that labels it "unrestricted warfare." Kiel reads it through a proportional-benchmark decomposition — a statistical method that quantifies how much is China-driven and how much is self-inflicted. The three approaches operate at different levels of analysis and could all hold simultaneously, but they produce different policy prescriptions: Tooze's framing implies market-discipline correction; ctindale's implies strategic countermeasures; Kiel's implies targeted, conditional trade defence paired with domestic competitiveness investment and rejection of blanket tariffs.
+
+The fault line has not yet produced a `## Contested:` block because the three approaches are not directly opposed on the same falsifiable question — they answer different questions (what is happening, why is it happening, how much is China's fault). But the policy prescriptions diverge sharply enough that a contested block may emerge as the debate matures. The Kiel Institute's Track Record files this as an open candidate: "resolves as the methodological debate between descriptive decomposition and causal analysis matures" [18]. See [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html) for the full proportional-benchmark treatment.
+
 ## Unasked Questions: The Absence of Public Costs Discussion
 
 [Norman T. Roule]({{ site.baseurl }}/actors/authors/norman-roule.html) identifies an analytical gap rather than a contested split: the question of whether the costs of any Iran deal — especially sanctions implications of payments to Iran and the Houthi precedent at Bab el-Mandeb — are being publicly discussed. Roule frames this as the question to watch: "if it doesn't happen, that's a bad thing for everybody." The absence of that conversation would mean hidden costs — erosion of the sanctions regime, normalization of chokepoint tolls, cascading Houthi demands for equivalent arrangements at Bab el-Mandeb — are accumulating without scrutiny [17].
 
 This is structurally distinct from the fault lines above: it is not a disagreement between two analysts but a question not being asked. Roule identifies the gap by naming what a responsible policy process would include — public weighing of sanctions consequences, discussion of whether payments to Iran through the Oman mechanism undermine the sanctions architecture, and consideration of whether the Houthi precedent at Bab el-Mandeb would follow from an Iran-Hormuz toll arrangement — and noting its absence. The analytical implication is that the [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) may be producing a settlement whose costs are not being surfaced in public debate, making the gap itself a fault line between the policy process and the analytical record. See [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), where the [Kamran Bokhari]({{ site.baseurl }}/actors/authors/kamran-bokhari.html)/[S. Clinton Hinote]({{ site.baseurl }}/actors/authors/s-clinton-hinote.html) contested block addresses whether US strategy is coherent doctrine or adrift improvisation — Roule's observation suggests the answer may be "adrift" precisely because the costs discussion is absent [17].
+
+## Empirical Foundations of the Progress-Trap Framework
+
+[The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) compiles Ronald Wright's progress-trap framework — Stone Age hunters versus megafauna, Sumerian irrigation salinization, Easter Island deforestation — as empirically grounded archaeology with direct modern analogues, integrated with Tainter's complexity theory and Lotka's maximum power principle into a civilizational-collapse thesis. [19] A Cicero review of Wright's *A Short History of Progress* contests the empirical foundations: the megafauna case is contestable (many species were displaced by competition with pastoralists and farmers, not hunters); the Easter Island case is circular (the trap snapped at settlement, not at deforestation); Wright's method is ideology critique genealogically linked to Benjamin and Adorno/Horkheimer, not archaeology; and his prescriptions end in "faith" rather than logically derivable conclusions. [20]
+
+The split is methodological — Wright reads archaeological narrative as evidence for a civilizational pattern; the reviewer applies source-critical methodology to Wright's own claims. No single near-term observable can settle the question because it turns on cumulative interpretation of archaeological evidence. See `## Contested:` in [Civilizational Collapse and Progress Traps]({{ site.baseurl }}/themes/civilizational-collapse-and-progress-traps.html).
 
 # Citations
 
@@ -181,3 +195,9 @@ This is structurally distinct from the fault lines above: it is not a disagreeme
 [16] S. Clinton Hinote and James Slife, "Why the Iran War Remains Strategically Adrift", 2026-08-04 — [https://www.thecipherbrief.com/why-the-iran-war-remains-strategically-adrift](https://www.thecipherbrief.com/why-the-iran-war-remains-strategically-adrift)
 
 [17] Norman T. Roule, "There Will be Unseen Costs to be Paid over the War in Iran. Who is Weighing Them?", The Cipher Brief, 2026-08-05 — [https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them](https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them)
+
+[18] Sonali Chowdhry, Katharina Erhardt, and Julian Hinz, "Competing with China in Third Markets", 2026-06 — [https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/](https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/)
+
+[19] The Honest Sorcerer, "Civilizations Fall When This Mechanism Activates", 2026-08-08 — [https://thehonestsorcerer.substack.com/p/civilizations-fall-when-this-mechanism](https://thehonestsorcerer.substack.com/p/civilizations-fall-when-this-mechanism)
+
+[20] Cicero, "Das Journal – Wenn die Fortschrittsfalle zuschnappt", 2009 — [https://www.cicero.de/kultur/wenn-die-fortschrittsfalle-zuschnappt/44445](https://www.cicero.de/kultur/wenn-die-fortschrittsfalle-zuschnappt/44445)

@@ -10,7 +10,7 @@ tags:
   - technology
   - energy
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -29,6 +29,7 @@ The critical minerals landscape is defined by several concurrent dynamics across
 - **China dominates processing and refining of many critical minerals**: Control of midstream capacity — processing and refining — confers leverage that upstream production cannot match. China's dominance in rare earth processing, lithium refining, and other critical mineral supply chains creates a structural dependency for Western economies. [3]
 - **Western countries selective in Central Asia due to sanctions risk**: Western investment in Central Asian mining is constrained by sanctions compliance, anti-corruption standards, and ESG requirements — creating a competitive disadvantage relative to Chinese investment, which operates without these constraints. [1]
 - **Central Asia forced to interact with China despite concerns**: Central Asian states have concerns about Chinese dominance but limited alternatives. The 90% Chinese FDI share reflects not preference but the absence of viable Western alternatives. [1]
+- **Neon supply chain exposure at Ras Laffan**: Qatar's LNG processing yields neon essential for excimer lasers in semiconductor fabs — the Gulf chokepoint links directly to critical mineral supply chains beyond hydrocarbons. [16]
 
 # Analysis
 
@@ -67,6 +68,10 @@ The paradox of green technology is that it requires materials whose extraction i
 **Silver**: 60%+ of silver goes to electronics, solar panels, EVs, missiles, and AI data centers — it is an industrial metal, not just a precious one. Five consecutive years of physical deficit (820M oz cumulative). 70%+ of silver is a byproduct of zinc/lead/gold/copper mining, linking silver supply to broader mineral depletion [5].
 
 **Gallium and graphite**: The [Iran war]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) exposed the vulnerability of gallium (98% refined in China) and graphite (needle coke from oil refining) supply chains. These materials are essential for semiconductors and EV batteries respectively, and their supply chains run through the Middle East — making them vulnerable to chokepoint disruption [6].
+
+## Neon and the Semiconductor Supply Chain at Ras Laffan
+
+The [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html)'s KPB 206 identifies a critical-minerals exposure layer that extends beyond the materials typically tracked in the semiconductor supply chain: neon, a by-product of LNG processing at [Qatar]({{ site.baseurl }}/actors/countries/qatar.html)'s Ras Laffan industrial complex — the world's largest integrated petrochemical site. Neon is essential for the excimer lasers used in semiconductor photolithography; the Gulf's growing share of global rare-gas exports has been rising steadily over three decades. The Hormuz closure therefore threatens not only energy and fertilizer supply chains but the semiconductor fabrication pipeline itself: the same chokepoint that constrains methane for Haber-Bosch also constrains neon for lithography. This reinforces the gallium and graphite chokepoint findings — the critical-minerals supply chain runs through the [Middle East]({{ site.baseurl }}/regions/middle-east.html) in multiple intersecting layers, and the bifurcation of trade through Hormuz compounds the vulnerability [16]. See [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) for the manufacturing-capacity implications.
 
 ## Western Response
 
@@ -133,3 +138,5 @@ Yet a sober reality check tempers this strategic logic. Building competitive pro
 [14] Annabelle Houdret and Mark Furness, "Between Shock and Opportunity: Hormuz and Deepening North Africa–Europe Relations", SWP, 2026-08-03 — [https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations](https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations)
 
 [15] The Honest Sorcerer, "Civilizations Fall When This Mechanism Activates", 2026-08-07 — [https://thehonestsorcerer.substack.com/p/civilizations-fall-when-this-mechanism](https://thehonestsorcerer.substack.com/p/civilizations-fall-when-this-mechanism)
+
+[16] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, and Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)

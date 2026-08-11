@@ -5,7 +5,7 @@ parent: Countries
 description: Gulf monarchy mediating between Iran and the US through Pakistan, deploying Pakistani troops and Chinese jets while negotiating a non-aggression pact
 tags: [country, energy, military, middle-east]
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -24,11 +24,15 @@ Saudi Arabia has deployed Pakistani troops and Chinese jets as part of a militar
 
 ## Pipeline Bypass
 
-Saudi Arabia's limited pipeline bypass capacity (via Yanbu on the Red Sea) proved structurally insufficient to compensate for the Hormuz disruption. The bypass can redirect only a fraction of the volumes that transit through Hormuz, confirming that no alternative route can absorb the chokepoint's throughput [2].
+Saudi Arabia's limited pipeline bypass capacity (via Yanbu on the Red Sea) proved structurally insufficient to compensate for the Hormuz disruption. The bypass can redirect only a fraction of the volumes that transit through Hormuz, confirming that no alternative route can absorb the chokepoint's throughput [2]. The Kiel Institute's KITE bottleneck simulation underscores Saudi Arabia's structural oil-transit exposure: approximately 21% of global petroleum consumption passes through Hormuz daily, and an eight-state upper-bound scenario (blocking Saudi and Omani exports as well) roughly doubles the welfare and price effects of a closure [14].
 
 ## Saudi Realism and Houthi Pressure
 
 Saudi Arabia closed its airspace (along with Kuwait) when [Trump]({{ site.baseurl }}/actors/trump.html) wanted to conduct more aggressive operations in April 2026 — a notable refusal from a state that had been pro-war before the bombing started. [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) and Joe Kent identify a Saudi shift toward realism: having seen the limitations of American power, the Saudis may return to a traditional hedging posture. The Houthis are demanding money from Saudi Arabia for Red Sea transit — essentially payment for not attacking Saudi oil. Saudi intelligence may be distributing cash to tribal factions within the Houthi alliance to keep attacks targeted at Israel rather than Saudi infrastructure. The growing Saudi-[Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html) relationship — including Pakistani troops in Saudi Arabia — signals eroding US influence, as Saudi Arabia uses Pakistani tribal fighters as mercenaries [3].
+
+## Mecca Joint Defense Agreement
+
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) assesses the Saudi-Turkey-[Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html) "Mecca" defense agreement as a power-vacuum fill rather than a new NATO. The pact lacks an integrated command structure — unlike NATO's US 4-star SACEUR, Turkey and Saudi Arabia are unlikely to hand over control of their forces to a Pakistani general. [Turkey]({{ site.baseurl }}/actors/countries/turkey.html)'s 18-million Kurdish population limits its intervention appetite. The agreement reflects the broader pattern of regional states hedging and building coalitions as American power recedes [13].
 
 # Key Dynamics
 
@@ -112,3 +116,7 @@ The Houthi threat reached operational completion the week of July 21. The Houthi
 [11] Norman T. Roule, "There Will be Unseen Costs to be Paid over the War in Iran. Who is Weighing Them?" — [https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them](https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them)
 
 [12] Guido Steinberg, "Atommacht Saudi-Arabien — Dieses Atomabkommen bringt zwei große Probleme mit sich", 2026-07-24 — [https://archive.ph/ncDGY](https://archive.ph/ncDGY)
+
+[13] Robert Pape, "Live with Prof Robert Pape: Assessing Pape/Currie Conversation 3 Weeks Later", 2026-08-09 — [https://escalationtrap.substack.com/p/live-with-prof-robert-pape-assessing](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-assessing)
+
+[14] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, and Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)

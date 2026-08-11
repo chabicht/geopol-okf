@@ -9,7 +9,7 @@ tags:
   - economics
   - supply-chain
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -34,6 +34,10 @@ Bangladesh is simultaneously accepting Chinese investment, maintaining strong tr
 
 China's expansion in Bangladesh faces friction from multiple directions: U.S. opposition to growing Chinese presence in the [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html); Myanmar's instability hindering connectivity plans for the Bangladesh-Myanmar-China Economic Corridor; Beijing's own budget strained by a vast overseas investment portfolio and decelerating economy; and Bangladesh's own concern with building sovereignty rather than becoming a Chinese vassal state [1].
 
+## Hormuz Closure Food-Price Vulnerability
+
+KPB 206's KITE bottleneck simulation projects a +4.98% food price increase for Bangladesh under a full Strait of Hormuz closure, placing it among the top-20 most food-price-vulnerable economies as fertilizer supply disruptions cascade into agricultural prices [2].
+
 # Key Dynamics
 
 - **China's $9.2 billion investment surge reshapes the calculus.** 13 MOUs and a dozen companies' proposals center on infrastructure, logistics, and energy, including the long-delayed Teesta River project. [1]
@@ -50,3 +54,5 @@ The Bangladesh case illustrates the central tension of [great power competition]
 # Citations
 
 [1] [China Makes Its Move in Bangladesh](https://geopoliticalfutures.com/china-makes-its-move-in-bangladesh/)
+
+[2] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)

@@ -5,7 +5,7 @@ parent: Organizations
 description: The European Union as a geopolitical actor — managing energy storage shortfalls, sanctions secondary risk, enlargement pressure, and the strain of US shifting priorities on Western alliance architecture
 tags: [organization, economics, europe, sanctions, energy, trade, military]
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -94,6 +94,12 @@ The S5→S6 cross-domain pairing identified in the diagnostic runs through Europ
 
 The strategic logic extends beyond energy. The EU must move beyond the transactional, security-oriented framework that prioritized European border and energy security while reinforcing the resilience of authoritarian regimes. A multidimensional alliance with [Africa]({{ site.baseurl }}/regions/africa.html)n countries should embed socio-economic benefit and support democratic change — creating a model of regional cooperation as resilient as the infrastructure it builds. The CBAM and Supply Chain Due-Diligence Directive should be implemented as cooperative levers that support decarbonization in third countries rather than as purely regulatory instruments. [Morocco]({{ site.baseurl }}/actors/countries/morocco.html)'s industrial diversification — Tanger Med, automotive manufacturing, battery factories, phosphate reserves, green hydrogen — demonstrates the potential. The shift from buffer-zone logic to partnership logic is the doctrinal change the Hormuz crisis has made unavoidable [17]. See [Critical Minerals]({{ site.baseurl }}/themes/critical-minerals.html), [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html), and [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html).
 
+## Policy Prescriptions for Competing with China in Third Markets
+
+Chowdhry, Erhardt, and Hinz ([Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html)) offer the most quantitatively grounded policy prescription for the EU's response to Chinese export competition. Using a proportional-benchmark decomposition of BACI/CEPII trade data (2012–2014 vs 2022–2024), they show that only 31% of [Germany]({{ site.baseurl }}/actors/countries/germany.html)'s 1.98pp third-market-share loss is mechanically attributable to China's rise; 69% is overproportional, reflecting home-grown competitiveness deterioration. The UK's excess-loss rate is 89.6%, France's 78.1% — indicating that domestic factors, not China alone, drive the majority of advanced-economy losses [18].
+
+The brief explicitly rejects blanket tariffs as a defensible response. Chinese cost advantages in lithium-ion batteries and solar modules are now so large that any "level-the-playing-field" tariff would have to be implausibly high; blanket tariffs raise costs for downstream consumers, invite retaliation, and redirect Chinese exports toward non-tariffing third markets. Instead, the prescription has four pillars: (1) targeted, time-limited trade defence with sunset clauses, conditional on protected firms investing in the technologies on which future competitiveness depends — protection without such conditions risks entrenching incumbents; (2) deeper European integration, specifically a single market in capital and technology, since the lack of progress hinders European firms in search of capital and upstream/downstream markets; (3) attack on Europe's own structural weaknesses, especially high energy costs in [Germany]({{ site.baseurl }}/actors/countries/germany.html) that weigh on precisely the energy-intensive industrial sectors in which Germany has traditionally been strong; and (4) sustained, long-horizon investment in innovation through research funding, coordinated procurement, and a deeper single market for capital and technology — the policy with the highest expected return, which also secures European interests vis-à-vis [China]({{ site.baseurl }}/actors/countries/china.html) and against policy shifts in the [United States]({{ site.baseurl }}/actors/countries/united-states.html) [18]. See [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html).
+
 # Citations
 
 [1] Velina Tchakarova, "Global System June 2026" — [https://substack.com/@velinatchakarova/p-204418261](https://substack.com/@velinatchakarova/p-204418261)
@@ -129,3 +135,5 @@ The strategic logic extends beyond energy. The EU must move beyond the transacti
 [16] [Protection Gaps in Germany's Skilled Labour Migration System](https://www.swp-berlin.org/publikation/protection-gaps-in-germanys-skilled-labour-migration-system)
 
 [17] Annabelle Houdret and Mark Furness, "Between Shock and Opportunity: Hormuz and Deepening North Africa–Europe Relations", SWP, 2026-08-03 — [https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations](https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations)
+
+[18] Sonali Chowdhry, Katharina Erhardt, Julian Hinz, "Competing with China in Third Markets", 2026-06 — [https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/](https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/)

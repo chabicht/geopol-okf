@@ -8,7 +8,7 @@ tags:
   - trade
   - sanctions
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -39,6 +39,8 @@ US Treasury Secretary Scott Bessent's secondary sanctions on Chinese banks facil
 - **Gold as the sanctions-resistant reserve**: Central bank gold buying across the DragonBear axis reflects a strategic preference for assets that cannot be frozen or seized. The trend is structural, not cyclical [1].
 - **Gulf states hedging**: The UAE and Saudi Arabia are maintaining dollar pegs while simultaneously developing non-dollar trade channels — a hedging strategy that preserves optionality [1][2].
 - **Sovereign wealth fund reallocation**: Gulf sovereign wealth funds, among the world's largest, are gradually diversifying away from dollar-denominated assets, reflecting a structural rather than tactical shift [1].
+- **Yuan-denominated cargo bypasses the petrodollar blockade.** Only Chinese-flagged tankers carrying yuan-denominated cargo were permitted sporadic Hormuz passage — a sanctioned oil transaction system functioning alongside the petrodollar one. [7]
+- **Currency zone partitioning, not regime succession.** The renminbi is structurally minor at 1.99% of global reserves vs 5.44% for the yen, yet the system operates as a parallel-systems state — separate dollar, renminbi, and anti-sanction liquidity zones coexist. [8]
 
 # Analysis
 
@@ -72,6 +74,18 @@ The structural change taking place is the gradual politicization of trade and cu
 
 Tooze's framework has direct implications for dedollarization analysis. The regime that observers project into the future and past — Bretton Woods 2.0 / Dollar #4 — was in fact very particular to the period 2000-2015. The current regime (#5) is structurally different: it depends on the attractiveness of US private assets, not official reserve accumulation. The "profit dollar" is sustained by the unequal structure of the US economy itself — the K-shaped expansion that makes American financial markets the honeypot. If that attractiveness fades (through institutional degradation, political instability, or the rise of competitive financial markets), Dollar #5 could metamorphose again — but the successor would not be a "post-dollar" regime so much as another mutation of the dollar system [6].
 
+## The Yuan-Denominated Cargo Exception
+
+The [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html)'s KITE bottleneck model documents a structural fact about the petrodollar alternatives operating during the Hormuz crisis: only Chinese-flagged tankers carrying yuan-denominated cargo were permitted sporadic passage through the Strait of Hormuz after its closure in March 2026, while all other commercial tanker traffic fell from approximately 40 daily passages to near zero. This is direct evidence that the bifurcation is operating in real time — a sanctioned oil transaction system functioning alongside the petrodollar one. The exception confirms that [China]({{ site.baseurl }}/actors/countries/china.html)'s discounted Iranian oil purchases, settled in yuan, constitute a parallel payment-and-logistics channel that bypasses the dollar-denominated global energy trade architecture. The mechanism is not theoretical: it is a documented operational fact from the March 2026 closure, observed in ship-tracking data [7].
+
+This connects to the broader dedollarization mechanism: each use of the dollar as a sanctions weapon demonstrates to adversaries the risk of dollar dependency, but the Hormuz closure demonstrates something further — that the alternative channels are not merely theoretical but already carrying cargo. The Chinese-flagged yuan exception is the physical-world confirmation of the financial-system divergence that Endtropy and Tooze track through reserve data and capital-flow analysis. See [Global System Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html) [7].
+
+## Currency Zone Partitioning and the Schrödinger Phenomenon
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) frames the monetary system's current state as a **Schrödinger Phenomenon** — a parallel-systems state in which the old dollar regime and the new coexist until observation forces collapse. The dollar remains dominant, but the renminbi is structurally minor at 1.99% of global reserves versus 5.44% for the yen in Q1 2026. The DragonBear is an alignment rather than a monetary bloc; there is no coherent alternative for troubled states to move into. Yet the trend-level indicators point toward bifurcation: central banks bought 4,000+ tonnes of gold since 2022, and yuan payment share is rising as the dollar's declines. The outcome is not a succession of monetary regimes but the growth of separate dollar, renminbi, and anti-sanction liquidity zones [8].
+
+The renminbi's structural ceiling is a quantitative limit on the DragonBear-monetary-bloc narrative. [China]({{ site.baseurl }}/actors/countries/china.html) has capital controls and little interest in reserve-currency responsibilities. [Russia]({{ site.baseurl }}/actors/countries/russia.html)'s de-dollarization is mostly forced reliance on Chinese banks — shifting asymmetry to another axis. The phenomenon describes a system that has not yet collapsed but has not yet stabilized — both regimes coexist, and the observation event that forces the collapse has not yet occurred. This is consistent with Tooze's framework: the current dollar regime (#5, the "profit dollar") depends on the attractiveness of US private assets, not official reserve accumulation. If that attractiveness fades, Dollar #5 could metamorphose again — but the successor would be another mutation of the dollar system, not a post-dollar regime. The Schrödinger Phenomenon and Tooze's five-metamorphoses framework are complementary: Tchakarova names the current condition (parallel-systems state), Tooze names the historical pattern (repeated metamorphosis rather than replacement) [8][6].
+
 # Citations
 
 [1] [Operation Epic Folly(Fury) — Part 9: Gold, The UAE, Currency Swap Lines and the Petrodollar](https://endtropy.substack.com/p/operation-epic-follyfury-part-9-gold)
@@ -85,3 +99,7 @@ Tooze's framework has direct implications for dedollarization analysis. The regi
 [5] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
 
 [6] [Chartbook 457: The Metamorphoses of the Dollar](https://adamtooze.substack.com/p/chartbook-457-the-metamorphoses-of)
+
+[7] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, and Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)
+
+[8] Velina Tchakarova, "The Yen Breaks First", 2026-08-07 — [https://substack.com/@velinatchakarova/p-210196165](https://substack.com/@velinatchakarova/p-210196165)

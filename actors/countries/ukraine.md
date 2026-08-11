@@ -5,7 +5,7 @@ parent: Countries
 description: Ukraine as a geopolitical actor — innovating in drone warfare and deep-strike doctrine, transforming its force structure under Western dependency, and pressuring Belarus to curtail Russian supply lines
 tags: [country, military, drone-warfare, air-defense, europe]
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -13,6 +13,10 @@ timestamp: 2026-08-05T00:00:00Z
 Ukraine has been at war with [Russia]({{ site.baseurl }}/actors/countries/russia.html) since 2022, developing into one of the most technologically consequential conflicts of the modern era. Under [Zelensky]({{ site.baseurl }}/actors/zelensky.html), Ukraine has evolved from a post-Soviet state with limited military capability into a formidable drone warfare innovator and long-range strike practitioner. The [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) remains the central strategic commitment defining Ukrainian identity, doctrine, and external relationships.
 
 # Current Situation
+
+## Energy Infrastructure Devastation
+
+Russian strikes have destroyed or damaged more than 80% of Ukraine's power generation capacity, dropping electricity generation to approximately 12 GW against a 6 GW shortfall that produces rolling blackouts. [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) projects that Russia will escalate to targeting Ukrainian water-supply facilities next winter (2026-27), mirroring Iran's March 2 targeting of energy and water desalination infrastructure in the Gulf — joining the two auxiliary wars at the deepest structural level through a shared infrastructure-strike doctrine and water-energy nexus targeting. [20]
 
 # Key Dynamics
 
@@ -144,3 +148,5 @@ Stewart identifies a deeper pattern in Zelensky's personnel policy: popular figu
 [18] Seth G. Jones and Riley McCabe, "Russian Blood and Treasure: The Ballooning Costs of Putin's War" — [https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war](https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war)
 
 [19] Susan Stewart, "Die Ukraine zwischen Personalpolitik und Protesten" — [https://www.swp-berlin.org/publikation/die-ukraine-zwischen-personalpolitik-und-protesten](https://www.swp-berlin.org/publikation/die-ukraine-zwischen-personalpolitik-und-protesten)
+
+[20] Velina Tchakarova, "A Real Bottleneck", 2026-08-05 — [https://substack.com/@velinatchakarova/p-209893924](https://substack.com/@velinatchakarova/p-209893924)

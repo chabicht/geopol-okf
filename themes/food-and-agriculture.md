@@ -8,7 +8,7 @@ tags:
   - economics
   - supply-chain
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -66,6 +66,9 @@ The Iran war disrupted shipping logistics dramatically. Before the war, Houthi a
 - **Fertilizer as energy derivative**: Nitrogen fertilizer is made from natural gas. The energy crisis is thus a fertilizer crisis is thus a food crisis — but with time lags that make the causal chain invisible to short-term political attention [1][2].
 - **Structural inflexibility**: The lock-in of U.S. agriculture to corn and soybeans, and of global agriculture to diesel-powered monoculture, means the system cannot adapt at the speed required by the [energy and resource]({{ site.baseurl }}/themes/energy-and-resources.html) transition [4][5].
 - **El Nino amplification**: A super El Nino in the pipeline threatens concurrent crop failures in multiple regions, compounding the fertilizer-driven yield reductions [1].
+- **Bottleneck-anchored fertilizer cascade**: The KITE model's bottleneck extension shows that critical-input chokepoints transmit asymmetric costs from energy through fertilizer to food, with the cascade anchored independently of oil-price uncertainty [16].
+- **Planting-season irreversibility**: March and April are peak demand months for fertilizer; delayed application means reduced yields or failed planting — even a brief Hormuz closure can disrupt an entire growing season [16].
+- **Strategic fertilizer reserves**: Strategic fertilizer reserves — analogous to strategic petroleum reserves — are a proposed policy response to chokepoint-driven food crises that the existing international architecture lacks [16].
 
 # Analysis
 
@@ -107,6 +110,14 @@ AI data center demand introduces a new competitor for the resources agriculture 
 
 [Annabelle Houdret]({{ site.baseurl }}/actors/authors/annabelle-houdret.html) documents how the Hormuz crisis transmits to food systems across North Africa through energy prices and import costs. [Egypt]({{ site.baseurl }}/actors/countries/egypt.html) is under intense pressure: consumer price inflation stood at 13.4% year-on-year in February 2026, while food prices rose by 4.6%. Suez Canal revenues, already under pressure from Houthi attacks, remain at less than half of 2023 levels despite some benefit from diverted oil tankers. Remittances from approximately five million Egyptian migrant workers in the Gulf States are vulnerable to continued uncertainty. [Tunisia]({{ site.baseurl }}/actors/countries/tunisia.html) faces a fragile fiscal position with public debt at nearly 80% of GDP; food costs increased 7.1% year-on-year in June 2026 and are predicted to continue trending upward. The Tunisian economy, expected to grow by 2.1% in 2026, is now projected to shrink by 0.8 percentage points. Higher fertilizer costs compound the pressure across North Africa, linking the [Hormuz Crisis North Africa Hub]({{ site.baseurl }}/events/hormuz-crisis-north-africa-hub-acceleration.html) directly to food security outcomes [15].
 
+## Quantifying the Fertilizer-to-Food Cascade: The KITE Bottleneck Model
+
+The [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html)'s KITE quantitative general equilibrium model, extended with a bottleneck mechanism that captures asymmetric cost transmission through critical inputs, provides the most rigorous quantitative anchor yet for the fertilizer-to-food cascade that Colibasanu and Tchakarova have described qualitatively. The bottleneck extension introduces a critical-input layer distinguishing ordinary intermediates from bottleneck inputs — methane as feedstock for the Haber-Bosch ammonia/urea process being the canonical case. When critical inputs become more expensive, a one-sided penalty applies; when they become cheaper, no symmetric windfall is generated. This asymmetry captures the real-world observation that bottleneck costs bite hard on the upside but do not produce symmetric gains on the downside, and it breaks the Cobb-Douglas symmetry that standard trade models assume — showing that those models systematically underestimate the welfare cost of chokepoint closures because they miss the cascade from energy → chemicals/fertilizers → food [16].
+
+The simulation's price cascade runs from crude oil (+11.94%) through chemicals (+5.75%) to food (wheat +4.24%, vegetables/fruit +5.21%) under the short-run full-closure scenario. The bottleneck mechanism anchors the food cascade regardless of the precise oil-price level: food price increases are tightly estimated at +2.7% [+2.0%, +4.9%] — the fertilizer channel transmits independently of oil-market uncertainty. The distributional consequences are severe: [Zambia]({{ site.baseurl }}/actors/countries/zambia.html) faces food prices up 30.7%, [Sri Lanka]({{ site.baseurl }}/actors/countries/sri-lanka.html) +15.33%, [Taiwan]({{ site.baseurl }}/actors/countries/taiwan.html) +12.52%, [Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html) +11.40%, and [India]({{ site.baseurl }}/actors/countries/india.html) +10.73%. The model explicitly excludes speculative and financial market dynamics, hoarding, strategic reserve releases, and commodity futures pricing — the results represent the structural cost of rerouting supply chains, not the spot-price spike observed in commodity markets [16].
+
+The seasonal dimension is critical. March and April are peak demand months for the crop inputs that determine yields for the entire growing season. Fertilizer cannot simply arrive three months late; delayed application means reduced yields or failed planting altogether. This means that even a relatively brief Hormuz closure could disrupt an entire growing season, with food security consequences that persist long after the strait reopens. The brief concludes with a strong normative recommendation: strategic fertilizer reserves — analogous to strategic petroleum reserves — deserve serious consideration, and international institutions should develop contingency frameworks for rapid fertilizer and food aid deployment when major energy supply routes are disrupted [16].
+
 # Citations
 
 [1] [The Persian Polycrisis](https://thehonestsorcerer.substack.com/p/the-persian-polycrisis)
@@ -138,3 +149,5 @@ AI data center demand introduces a new competitor for the resources agriculture 
 [14] The Honest Sorcerer, "No Oil, No Food", 2026-07-31 — [https://thehonestsorcerer.substack.com/p/no-oil-no-food](https://thehonestsorcerer.substack.com/p/no-oil-no-food)
 
 [15] Annabelle Houdret and Mark Furness, "Between Shock and Opportunity: Hormuz and Deepening North Africa–Europe Relations", SWP, 2026-08-03 — [https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations](https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations)
+
+[16] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, and Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)

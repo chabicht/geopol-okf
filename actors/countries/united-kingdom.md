@@ -9,7 +9,7 @@ tags:
   - military
   - energy
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -36,6 +36,7 @@ The UK is navigating the Trump administration's pressure on European allies to t
 - **Enforcement alone cannot stop Channel crossings.** Despite record raids, smugglers have industrialized to 63 migrants per boat in 2026, and the £10,000 asylum charge risks pushing vulnerable people underground. [2]
 - **A European-led NATO is both opportunity and risk.** The UK can lead as Europe's foremost military power, but only if it sustains spending while resolving domestic crises that constrain its political bandwidth. [3]
 - **Spending is not capacity.** A larger defence budget does not automatically produce readiness — deferred maintenance, understocked munitions, and poor housing are hidden claims on future force effectiveness. [4]
+- **Highest excess-loss rate in third-market competition.** Kiel's decomposition shows 89.6% of UK export-share decline is home-grown, not China-driven — the worst competitiveness deterioration among advanced economies. [5]
 
 # Analysis
 
@@ -47,6 +48,10 @@ Ball, Crompton, and Detter ([RUSI]({{ site.baseurl }}/actors/authors/rusi.html))
 
 They propose three reforms: (1) a Defence Capacity Statement with every major spending uplift, showing the capacity created (munitions output, drone production, ship repair, deployable units, training capacity, stockpile resilience, housing quality, maintenance reduction); (2) Capacity Schedules for each service and Top Level Budget holder; (3) a Defence Capacity Map classifying the assets, bottlenecks and liabilities shaping readiness. Weak accounting is evidence of weak management visibility. If provisions for liabilities are understated, today's budget is flattered at the expense of tomorrow's force. Deferred maintenance is a hidden claim on future defence capacity. The Annington service housing deal remains a warning that badly structured asset decisions can damage both the balance sheet and the force [4].
 
+## Third-Market Competitiveness: Highest Excess-Loss Rate
+
+The Kiel Institute's proportional-benchmark decomposition of advanced-economy market-share losses in third markets finds the [United Kingdom]({{ site.baseurl }}/actors/countries/united-kingdom.html) has the highest excess-loss rate among advanced economies at 89.6% — meaning only about 10% of the UK's third-market export-share decline is mechanically attributable to [China]({{ site.baseurl }}/actors/countries/china.html)'s rise, while nearly 90% reflects home-grown competitiveness deterioration relative to other non-Chinese exporters. The finding signals that UK industrial competitiveness problems are predominantly domestic rather than China-driven, with a weighted market-share change of −1.07pp over the 2012–2024 window [5].
+
 # Citations
 
 [1] [The North Sea Debate Risks Missing the Point](https://www.rusi.org/explore-our-research/publications/commentary/north-sea-debate-risks-missing-point)
@@ -56,3 +61,5 @@ They propose three reforms: (1) a Defence Capacity Statement with every major sp
 [3] [Towards a more European-led NATO: Strategic Imperatives for the Decade Ahead](https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/towards-more-european-led-nato-strategic-imperatives-decade-ahead)
 
 [4] [Defence Spending Must Become Defence Capacity](https://www.rusi.org/explore-our-research/publications/commentary/defence-spending-must-become-defence-capacity)
+
+[5] Sonali Chowdhry, Katharina Erhardt, and Julian Hinz, "Competing with China in Third Markets", 2026-06 — [https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/](https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/)

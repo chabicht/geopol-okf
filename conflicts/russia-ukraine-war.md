@@ -10,7 +10,7 @@ tags:
   - military
   - europe
 status: ongoing
-timestamp: 2026-08-09T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -26,6 +26,8 @@ Russia's summer advance has slowed sharply, and Ukrainian strikes are now reachi
 The operational picture is defined by several parallel and increasingly synergistic Ukrainian campaigns. Ukraine is successfully isolating [Crimea]({{ site.baseurl }}/events/crimea-isolation-campaign.html), with fuel shortages becoming acute — the Russian-appointed governor has forbidden civilian fuel sales on the peninsula [3]. The isolation campaign has extended into the [Sea of Azov]({{ site.baseurl }}/events/sea-of-azov-campaign.html), where air and sea drones have attacked 28 Russian-controlled vessels and forced Russia to close the Kerch Strait to new traffic [25]. Long-range strikes are targeting not just refineries but Russian war production — the Titan-Barrikady facility in Volgograd has been hit by FP-5 Flamingo missiles [4]. Fuel shortages are appearing across Russia as the refinery campaign bites [4]. Meanwhile, [Lukashenka]({{ site.baseurl }}/actors/lukashenka.html) has halted radio guidance equipment that was helping Russian strikes, responding to Ukrainian threats — [Belarus]({{ site.baseurl }}/actors/countries/belarus.html) is increasingly exposed, with Minsk closer to Kyiv than Kyiv is to Crimea [5].
 
 Putin has rejected ceasefire proposals, with demands disconnected from battlefield realities [1]. In a stunning acknowledgement of Russia's struggles, Putin dramatically scaled back his annual Victory Day military parade in May 2026 over fears of Ukrainian long-range strikes [44]. [Crimea]({{ site.baseurl }}/events/crimea-isolation-campaign.html) has come under withering attack, forcing Russia to close summer camps and beaches, disrupting fuel supplies, and causing electricity outages [44]. [Seth G. Jones]({{ site.baseurl }}/actors/authors/seth-g-jones.html) and [Riley McCabe]({{ site.baseurl }}/actors/authors/riley-mccabe.html) (CSIS) document that Putin's primary objectives remain bringing [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) back into [Russia]({{ site.baseurl }}/actors/countries/russia.html)'s sphere of influence, destroying [NATO]({{ site.baseurl }}/actors/organizations/nato.html)'s credibility, preventing further eastward expansion, and weakening the [EU]({{ site.baseurl }}/actors/organizations/eu.html) [14][44].
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) identifies the deepest structural coupling between the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) and the Russia-Ukraine War: both theaters are joined by a single physical constraint — infrastructure strike doctrine paired with water-energy nexus targeting. Russian strikes have destroyed or damaged more than 80% of Ukraine's power generation capacity, electricity generation has fallen to approximately 12 GW with a 6 GW capacity shortfall driving rolling blackouts. Russia is projected to escalate to targeting Ukrainian water-supply facilities next winter, mirroring Iran's March 2 approach targeting energy and water desalination in the Gulf. The two auxiliary wars are joined at the deepest structural level by a shared targeting logic that treats civilian survival infrastructure as a primary battlefield [48].
 
 # Analysis
 
@@ -266,3 +268,5 @@ An active and influential civil society is one of Ukraine's strengths and has co
 [46] "Ein harter Schlag gegen die Schattenflotte", 2026-08-03 — [https://www.reservistenverband.de/magazin-loyal/ein-harter-schlag-gegen-die-schattenflotte/](https://www.reservistenverband.de/magazin-loyal/ein-harter-schlag-gegen-die-schattenflotte/)
 
 [47] Susan Stewart, "Die Ukraine zwischen Personalpolitik und Protesten", 2026-07-30 — [https://www.swp-berlin.org/publikation/die-ukraine-zwischen-personalpolitik-und-protesten](https://www.swp-berlin.org/publikation/die-ukraine-zwischen-personalpolitik-und-protesten)
+
+[48] Velina Tchakarova, "A Real Bottleneck", 2026-08-05 — [https://substack.com/@velinatchakarova/p-209893924](https://substack.com/@velinatchakarova/p-209893924)

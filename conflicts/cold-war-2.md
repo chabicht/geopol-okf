@@ -9,7 +9,7 @@ tags:
   - gray-zone
   - hybrid
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -25,6 +25,8 @@ Multiple simultaneous theaters are active: the [Middle East]({{ site.baseurl }}/
 In Latin America, Washington is reconstructing a hemispheric bloc through the Shield of the Americas initiative [2]. A conservative wave has swept the region: Argentina, Bolivia, Chile, Colombia, Costa Rica, Ecuador, and Honduras have shifted rightward, creating conditions for renewed US influence and axis counter-pressure [2].
 
 On the energy front, Russian oil exports surged to fill the gap created by the Hormuz disruption during the US-Iran War. Sanctions waivers enabled this surge but expired on June 17, creating a new vector of instability as the waivers' removal constrains Russian export capacity at a moment when the global energy system is still fragile [3].
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) assesses that a stable Iran-Oman deal governing the Strait of Hormuz would be the first instance since 1945 in which a US enemy has been able to dictate terms at a strategic chokepoint. A Tehran-controlled chokepoint shifts the distributional balance of Gulf oil toward the Sino-Russian axis: [China]({{ site.baseurl }}/actors/countries/china.html) buys cheap Iranian oil in yuan while [Russia]({{ site.baseurl }}/actors/countries/russia.html) collects a risk premium on all seaborne Gulf oil regardless of price. The US is forced to defend a strategic sea lane it previously controlled — a concrete manifestation of Cold War 2.0 competition in the physical domain [15].
 
 # Analysis
 
@@ -59,6 +61,12 @@ Latin America's rightward turn is, in Tchakarova's framing, a theater in the con
 Kiesewetter argues that China, Russia, Iran, and North Korea cooperate militarily and technologically against NATO in every theater — the CRINK alliance is not a theoretical construct but an operational reality visible in arms transfers, technology sharing, and coordinated diplomatic positioning [4].
 
 [North Korea]({{ site.baseurl }}/actors/countries/north-korea.html) pursues a wedge strategy within this coalition framework. Pyongyang's rejection of dialogue with South Korea coincides with conditional openness to talks with the [United States]({{ site.baseurl }}/actors/countries/united-states.html), and its efforts to exclude South Korea from security dialogues are designed to drive a wedge between Washington and Seoul — weakening the US-ROK alliance by treating the two allies asymmetrically. North Korea ultimately seeks international recognition as a nuclear state, using diplomatic selective engagement as leverage toward that goal [13].
+
+## Bloc Consolidation, Not Fragmentation
+
+Tchakarova argues that the most important geopolitical feature of Cold War 2.0 is not the fracturing of any bloc but the reinforcement of the American bloc. The August 3, 2026 US-[Japan]({{ site.baseurl }}/actors/countries/japan.html) joint yen-purchase operation — the first since 1998 — was explicitly framed in alliance language. Exchange-rate intervention is now formally part of alliance economic security: the US broke a 28-year tradition of yen purchases, building in mechanisms to protect the financial system. The bloc is functioning. DragonBear wins are "indirect, structural, and slow" — neither Beijing nor Moscow created the yen crisis, but the cascade logic of the [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) means every trillion yen Tokyo spends on currency defense is money unavailable for military modernization, semiconductor supply-chain security, and [Taiwan]({{ site.baseurl }}/conflicts/taiwan-standoff.html) contingency planning. A Japan distracted by currency defense is a less dangerous Japan in the Indo-Pacific from the DragonBear view — what Tchakarova terms "relative strategic degradation" [16].
+
+The [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html)'s KPB 213 (June 2026) provides the implicit bloc definition: the "EU+7" economies — all EU member states plus Norway, Switzerland, the [United Kingdom]({{ site.baseurl }}/actors/countries/united-kingdom.html), the [United States]({{ site.baseurl }}/actors/countries/united-states.html), Canada, Japan, and [South Korea]({{ site.baseurl }}/actors/countries/south-korea.html) — serve as the advanced-economy bloc whose third-market shares are being eroded by [China]({{ site.baseurl }}/actors/countries/china.html)'s export expansion. China's gains in capital and intermediate goods with rising product complexity cluster in the same sectors where EU+7 economies lose, confirming a structural shift toward a China-led complex-manufacturing bloc competing against the EU+7 services-led bloc. The competition for third markets is a concrete expression of Cold War 2.0 bifurcation in the trade domain [17].
 
 ## Avenues of Competition
 
@@ -117,3 +125,9 @@ Historical antecedents underscore that gray-zone activity is a longstanding form
 [13] [North Korea's Constitutional Amendments Cement the Regime's Strategic Posture](https://understandingwar.org/research/china-taiwan/north-koreas-constitutional-amendments-cement-the-regimes-strategic-posture/)
 
 [14] The Cipher Brief, "BLUF: The US Must Lead in Gray Zone Activity", 2026-08-05 — [https://www.thecipherbrief.com/bluf-the-us-must-lead-in-gray-zone-activity](https://www.thecipherbrief.com/bluf-the-us-must-lead-in-gray-zone-activity)
+
+[15] Velina Tchakarova, "Hormuz on a Knife's Edge: The Fragile Architecture of a Deal Nobody Trusts", 2026-08-06 — [https://substack.com/@velinatchakarova/p-210042648](https://substack.com/@velinatchakarova/p-210042648)
+
+[16] Velina Tchakarova, "The Yen Breaks First", 2026-08-07 — [https://substack.com/@velinatchakarova/p-210196165](https://substack.com/@velinatchakarova/p-210196165)
+
+[17] Sonali Chowdhry, Katharina Erhardt, and Julian Hinz, "Competing with China in Third Markets", 2026-06 — [https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/](https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/)

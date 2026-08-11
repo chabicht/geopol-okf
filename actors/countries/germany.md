@@ -5,7 +5,7 @@ parent: Countries
 description: Germany as a geopolitical actor — publishing first military strategy, signaling European conventional defense leadership, but hampered by timeline inconsistencies, capability gaps, and the AfD's Trump dilemma
 tags: [country, military, europe, nato, ideology, economics, trade, energy]
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -35,6 +35,12 @@ Chancellor Merz has taken up the accusation of an undervalued Chinese currency a
 The [EV transition]({{ site.baseurl }}/themes/ev-competition.html) sharpens the crisis. Europe's automotive sector supports more than 13 million jobs and generated €273 billion in gross value added in 2023. Europe's response to China's EV dominance is built around the Critical Raw Materials Act, strategic autonomy, and selective industrial support, but the main constraint is cost: energy prices, labor costs, permitting delays, and fragmented national priorities make it difficult to match China's scale and speed. If European EVs remain too expensive, policymakers must balance three goals that do not always align: protecting domestic industry, keeping the transition affordable, and reducing dependence on Chinese inputs [10].
 
 Germany's industrial model is further stressed by physical logistics. The Rhine links North Sea ports to Germany's industrial heartland and Switzerland, carrying chemicals, petroleum products, coal, grains, minerals, and construction materials. At chokepoints such as Kaub, low water forces barges to reduce loads — in June 2026, barges carrying diesel through Kaub were limited to about 1,070 tons, only 45% of full carrying capacity. Low-water episodes in 2018, 2022, 2023, and 2025 have repeatedly pushed up freight costs. Adaptation is possible but expensive — low-draft vessels, alternative rail capacity, and diversified logistics networks require capital and coordination [10]. See [Geoeconomics of Water]({{ site.baseurl }}/themes/geoeconomics-of-water.html).
+
+## Quantifying the China Shock: Third-Market Decomposition
+
+A Kiel Institute study using BACI/CEPII trade data over a ten-year window (2012-2014 vs 2022-2024) applies a proportional-benchmark methodology to decompose Germany's third-market export-share losses into the portion mechanically attributable to [China]({{ site.baseurl }}/actors/countries/china.html)'s rise and an "excess loss" reflecting home-grown competitiveness deterioration. Germany's total third-market-share decline was −1.98 percentage points, but only 31 percent (0.61pp) can be attributed to China's expansion; the remaining 69 percent (1.36pp) is overproportional — losses relative to other non-Chinese exporters. The excess-loss rate of 80.2 percent means that in the great majority of German sectors, actual losses exceed what China's rise alone would predict. The sector breakdown is revealing: aircraft (−3.69pp actual, only 4% China-attributable), pharma (−2.28pp, 8% China-attributable), and optical/medical (−1.84pp, 16% China-attributable) are nearly pure excess losses — home-grown competitiveness failures. Vehicles (−3.24pp, 38% China-attributable) and organic chemicals (−2.15pp, 60% China-attributable) show more genuine China displacement [21].
+
+The study identifies high energy costs as a prime suspect for Germany's differential excess loss: energy prices weigh on precisely the energy-intensive industrial sectors where Germany has traditionally been strong, and they have risen sharply since 2022. The contrast with China is stark — China added roughly a Germany-sized electricity system to its grid in a single year. The policy prescription rejects blanket tariffs in favor of targeted, time-limited trade defence conditional on protected firms investing in future-competitiveness technologies, deeper European single-market integration in capital and technology, and sustained long-horizon innovation investment [21]. See [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html).
 
 ## Relationships: Indo-Pacific & Taiwan
 
@@ -102,7 +108,7 @@ At the European level, the [EU]({{ site.baseurl }}/actors/organizations/eu.html)
 
 - **Declaratory, not transformative.** First military strategy claims European defense leadership but staggers milestones (2029/2035/2039) with no operationalization or institutional reform to bridge them. [1]
 - **NATO logistics hub already broken.** Germany cannot currently fulfill its role as logistics hub for European defense — a present-day shortfall, not a future risk. [1]
-- **China Shock 2.0 hits the industrial core.** Trade balance with China swung €27B between 2021 and 2025, 60% from vehicles; Volkswagen plans up to 100,000 job cuts. [6]
+- **China Shock 2.0 hits the industrial core — and 69% of the loss is home-grown.** Trade balance with China swung €27B (60% from vehicles); a Kiel decomposition shows only 31% of Germany's −1.98pp third-market loss is China-attributable, with high energy costs driving the 80.2% excess-loss rate. [6][21]
 - **Diplomatic erosion quantified.** Worst-ever UNSC election defeat — 104 votes against 127 needed — breaking a pattern of near-unanimous Western European support. [3][4]
 - **AfD's Trump dilemma.** Only 12% of Germans view Trump positively, making alignment politically toxic and forcing tepid rare criticism from the AfD. [5]
 - **Merz authority collapse and AfD election threat compound the capability gap.** Cabinet reshuffle cascade described as a "Scherbengericht"; AfD at 41% in Saxony-Anhalt polls on a platform of lifting Russia sanctions; federal "Notfallpläne" would route around an AfD interior ministry. [17][18]
@@ -172,3 +178,5 @@ Rombach further recommends that Germany and the EU support Washington's call for
 [19] Andrew Ryvkin (GPF), "Russia's Road Back Runs Through Berlin" — [https://geopoliticalfutures.com/russias-road-back-runs-through-berlin/](https://geopoliticalfutures.com/russias-road-back-runs-through-berlin/)
 
 [20] Philipp Rombach (SWP), "China's Secret Nuclear Tests" — [https://www.swp-berlin.org/publikation/chinas-secret-nuclear-tests](https://www.swp-berlin.org/publikation/chinas-secret-nuclear-tests)
+
+[21] Sonali Chowdhry, Katharina Erhardt, and Julian Hinz, "Competing with China in Third Markets", Kiel Report No. 213, 2026-06 — [https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/](https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/)

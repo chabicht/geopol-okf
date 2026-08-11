@@ -5,7 +5,7 @@ parent: Countries
 description: India as a geopolitical actor — balancing China as its overriding strategic concern, building an Asian alliance network, and enduring Trump-era diplomatic slights
 tags: [country, military, indo-pacific, trade]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -57,6 +57,7 @@ McKinsey's 2026 trade geometry analysis shows that US-China trade fell approxima
 - **Multi-alignment under stress.** RIC revival and Starlink freeze test whether India can sit in both the DragonBear and the Quad simultaneously. [2][4]
 - **Gorging on Russian oil.** Record June 2026 purchases despite reactivated US sanctions; India calculates Trump is too afraid of India and too enamored of Putin to enforce. [6]
 - **Beyond the Quad.** Modi's Asia tour builds a coalition (India, Japan, Australia, Indonesia, New Zealand, Vietnam) with an economic dimension the Quad lacks. [7]
+- **Most-exposed large economy under Hormuz closure.** Kiel's simulation projects −1.78% welfare loss and +10.73% food price increase, driven by fertilizer-import dependence. [10]
 
 # Analysis
 
@@ -67,6 +68,8 @@ Modi's Asia tour suggests India is not merely passively accepting the American a
 ## Fertilizer Supply Chain Vulnerability
 
 Colibasanu documents India's acute exposure to the Hormuz fertilizer disruption. The Gulf supplied 20-30% of India's urea imports and 30% of diammonium phosphate imports — both critical inputs for Indian agriculture. An April tender paid approximately double what India had paid two months earlier, reflecting the immediate price impact of the blockade on Gulf-origin supply. India is now compelled to seek alternative suppliers in Russia, North Africa, and Southeast Asia, requiring contract renegotiation and route reorganization that add both cost and logistical complexity to an already strained procurement system [9].
+
+The Kiel Institute's KITE bottleneck simulation quantifies India as the most-exposed large economy under a full Hormuz closure, with a projected −1.78% welfare loss and +10.73% food price increase in the short-run scenario. The bottleneck mechanism anchors the cascade from energy through fertilizers to food, and India's fertilizer-import dependence transmits the chokepoint shock directly into agricultural prices and household welfare [10].
 
 # Citations
 
@@ -87,3 +90,5 @@ Colibasanu documents India's acute exposure to the Hormuz fertilizer disruption.
 [8] [The Middle Power Mirage: Colby, the Skeptics, and the Verdict Nobody Wants](https://substack.com/@velinatchakarova/p-207135676)
 
 [9] [Rising Costs from the New Hormuz Blockade](https://geopoliticalfutures.com/rising-costs-from-the-new-hormuz-blockade/)
+
+[10] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, and Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)

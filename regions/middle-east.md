@@ -5,7 +5,7 @@ parent: Regions
 description: Crossroads of three continents containing the Strait of Hormuz; undergoing a US strategic reorientation from Israel-centric to multilateral security, with Turkey-Israel rivalry as the defining competitive dynamic and Iran in systemic decline.
 tags: [middle-east, energy, military, trade]
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -19,6 +19,8 @@ The region hosts a dense web of competing actors — the United States, [Iran]({
 ## Hormuz and the Energy Chokepoint
 
 The Strait of Hormuz remains the region's defining strategic asset. The [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) demonstrated that even partial disruptions cascade through world energy markets: approximately 10 million barrels per day were lost against a 20 mbpd baseline during the war's peak. The [June 17 Versailles MoU]({{ site.baseurl }}/events/iran-ceasefire-mou.html) ended the kinetic phase, but Iran retained leverage over Hormuz passage, including the ability to charge fees and control inspections. [Oman]({{ site.baseurl }}/actors/countries/oman.html) co-negotiated a [permanent toll system]({{ site.baseurl }}/events/hormuz-toll-system.html) with Iran, formalizing Iran's chokepoint leverage [1]. The [UAE]({{ site.baseurl }}/actors/countries/uae.html) requested a US dollar swap line during the war, signaling stress in the petrodollar system while simultaneously facilitating Chinese-Iranian oil trade [2].
+
+The structural geography of Hormuz dependence is stark: six countries — [Iran]({{ site.baseurl }}/actors/countries/iran.html), [Iraq]({{ site.baseurl }}/actors/countries/iraq.html), [Kuwait]({{ site.baseurl }}/actors/countries/kuwait.html), the [UAE]({{ site.baseurl }}/actors/countries/uae.html), [Qatar]({{ site.baseurl }}/actors/countries/qatar.html), and [Bahrain]({{ site.baseurl }}/actors/countries/bahrain.html) — have oil and gas exports that transit exclusively through the Strait, with no alternative pipeline route. Approximately 21% of global petroleum consumption and around 25% of the world's LNG passes through its waters daily. Military analysts assess that just two well-placed attacks would suffice to halt commercial transit, making a forced reopening effectively impossible without a sustained, large-scale military operation. The Strait's narrowest point is just 21 nautical miles wide [19].
 
 The [Qatar Ras Laffan LNG explosion]({{ site.baseurl }}/events/qatar-lng-explosion.html) compounded regional energy vulnerability, exposing the concentration of global LNG supply in a single complex. See [Qatar]({{ site.baseurl }}/actors/countries/qatar.html). The [Hormuz ceasefire collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html) around July 13, 2026 — Trump's reinstated blockade, Iran's resumed drone strikes, and the announced 20% toll — confirmed the pause's fragility. [Paul Krugman]({{ site.baseurl }}/actors/authors/paul-krugman.html) notes the collapse will do less economic damage than expected because the binding constraint has shifted from crude supply to refining capacity: roughly 10% of world refining capacity is offline, primarily from Ukraine's drone campaign against Russian refineries, so Hormuz reopening would add crude but not usable fuel [3]. The full escalation trajectory — including Pape's Escalation Trap analysis and Stage 3 ground operation planning — is tracked in the [conflict file]({{ site.baseurl }}/conflicts/us-iran-war-2026.html).
 
@@ -128,3 +130,5 @@ The signal effect cascades across the region. Abu Dhabi will likely seek to rene
 [17] [What Will the Middle East Look Like After the Iran War?](https://geopoliticalfutures.com/what-will-the-middle-east-look-like-after-the-iran-war/)
 
 [18] [Atommacht Saudi-Arabien — Dieses Atomabkommen bringt zwei große Probleme mit sich](https://archive.ph/ncDGY)
+
+[19] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)

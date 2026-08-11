@@ -9,7 +9,7 @@ tags:
   - trade
   - sanctions
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -44,6 +44,8 @@ The effects are felt asymmetrically across investors. The US remains the best la
 - **Central bank caution**: The Fed, ECB, and BoE have all signaled discomfort with the inflation side of the shock even while acknowledging weaker growth. The IMF has advised central banks to prepare to raise rates if the ceasefire breaks down. [1]
 - **Resilience over efficiency**: Prolonged inflation and geopolitical instability accelerate capital rotation toward commodities, defense, energy, and inflation-resistant sectors, fundamentally reshaping investment priorities. [1]
 - **Asymmetric regional transmission**: Geopolitical shocks produce divergent inflationary outcomes — energy importers face fiscal deterioration while energy exporters capture windfalls that mask structural fragility. [5]
+- **Central banks cannot fix supply-side inflation.** Rate hikes reduce demand but cannot unblock Hormuz or add shipping capacity — approximately one-third of central banks worldwide are now hiking into a stagflation trap. [6]
+- **Quantitative cascade anchor.** The KITE bottleneck model simulates +11.94% oil, +5.38% energy, and +2.75% food price increases under full Hormuz closure — structural costs that exclude speculation, hoarding, and SPR dynamics. [7]
 
 # Analysis
 
@@ -71,6 +73,20 @@ The Fed faces the same dilemma without its traditional cushion. The Fed's hiking
 
 [Annabelle Houdret]({{ site.baseurl }}/actors/authors/annabelle-houdret.html) and [Mark Furness]({{ site.baseurl }}/actors/authors/mark-furness.html) document how the Hormuz crisis transmits asymmetrically through North African economies. [Egypt]({{ site.baseurl }}/actors/countries/egypt.html) faces CPI inflation of 13.4% year-on-year (February 2026) with food prices up 4.6%; Suez Canal revenues remain at less than half of 2023 levels and remittances from approximately five million migrant workers in the Gulf are vulnerable to continued uncertainty. [Tunisia]({{ site.baseurl }}/actors/countries/tunisia.html)'s food costs rose 7.1% year-on-year (June 2026), with the economy forecast to shrink by 0.8 percentage points against an expected 2.1% growth — public debt stands at nearly 80% of GDP, pressuring the government to depreciate the dinar and cut subsidies. [Morocco]({{ site.baseurl }}/actors/countries/morocco.html)'s compensation spending reached approximately 1.2% of GDP; headline inflation has stayed low, but "price stability is being purchased rather than achieved" through subsidy maintenance and social spending increases. By contrast, Algeria and Libya benefit from higher oil and gas prices — though this hydrocarbon windfall does not address deeper structural risks to stability. These divergent inflationary pressures illustrate how geopolitical shocks transmit asymmetrically through regional economies: energy importers face fiscal deterioration and social instability risk while energy exporters capture windfalls that mask structural fragility [5]. See [Hormuz Crisis North Africa Hub]({{ site.baseurl }}/events/hormuz-crisis-north-africa-hub-acceleration.html).
 
+## Central Bank Powerlessness and the Stagflation Trap
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) formalizes the **central bank powerlessness thesis**: central banks cannot tighten their way out of supply-side or geopolitical inflation. Rate hikes reduce demand but cannot repair the supply side — they cannot unblock [Hormuz]({{ site.baseurl }}/regions/middle-east.html), add shipping capacity, or resolve geopolitical disruptions. The distinction between demand-pull inflation (the textbook case where tightening works) and supply-side/geopolitical inflation (today's dominant form) is the framework's analytical core. The [ECB]({{ site.baseurl }}/actors/organizations/eu.html) raised rates in June — the first major central-bank increase in reaction to the energy shock after eight consecutive cuts. The Fed backed off anticipated cuts with 30-year yields above 5%. Approximately one-third of central banks worldwide are now hiking. The geopolitical rupture has lifted the floor for interest rates permanently [6].
+
+The **stagflation trap** is the mechanism through which the thesis converts to country-level outcome: when demand is already squeezed by higher energy costs, aggressive tightening converts a slowdown into a full-fledged recession while the inflation impulse survives in headline data — the 1973–74 and 1980–82 playbook. Real wages are compressed from both sides: energy costs raise the cost of living while tightening suppresses employment and wage growth. Fiscal space narrows as recession deepens, limiting the government's capacity to cushion the shock. The trap is not a theoretical risk but the observed pattern: central banks tighten because they have no other option for energy-led supply shocks, but the tightening itself becomes a second-order drag on growth without addressing the inflationary impulse's root cause [6].
+
+[Japan]({{ site.baseurl }}/actors/countries/japan.html) crystallizes the thesis. The Bank of Japan raised its policy rate to 1.0 percent — the highest since 1995 — with core inflation above 2% for 44 consecutive months. Yet Japan's energy import dependence (over 95% of crude from the Middle East, only 15% domestic energy production) means the inflation is supply-driven and import-transmitted, not demand-pull. The BoJ's tightening cannot increase Middle East energy supply; it can only suppress domestic demand, which is already compressed by the energy shock. This is the stagflation trap in its purest form: the central bank hikes into a supply shock because not hiking would concede the inflation target, but the hiking itself produces no relief — only slower growth alongside persistent inflation [6].
+
+## Quantitative Price-Cascade Anchor
+
+The [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html)'s KITE bottleneck model provides the first quantitative general-equilibrium simulation of the Hormuz closure's price effects. Under the short-run full-closure scenario, global oil prices rise +11.94% (90% CI: +7.39 to +30.28), global energy +5.38% (90% CI: +3.55 to +11.48), and global food +2.75% (90% CI: +2.03 to +4.92). The price cascade runs from crude oil (+11.94%) through petroleum products (+7.42%) and chemicals (+5.75%) to downstream food: vegetables and fruit +5.21%, cereal grains +4.45%, wheat +4.24%. The bottleneck mechanism anchors the cascade from energy through fertilizers to food regardless of the precise oil price level — the food price increase is tightly estimated because the cascade is structurally determined by critical-input dependencies, not by the spot price of crude [7].
+
+The model's limitations are explicitly documented and analytically important: the simulation captures trade-channel effects only. It excludes speculative and financial market dynamics, hoarding behaviour, strategic reserve releases, and commodity futures pricing. Real-world oil prices reflect panic, speculation, and inventory dynamics on top of the structural supply shift — meaning the model results represent the **structural cost of rerouting supply chains, not the spot-price spike** observed in commodity markets. The long-run scenario (allowing full supply-chain adjustment) reduces losses to roughly one-third of short-run values: global oil +2.87%, energy +1.36%, food +0.73% — demonstrating that markets can partially but not fully compensate once supply chains have had time to redirect. This trade-channel-only lower bound is the quantitative anchor for the cost-push-vs-demand-pull debate: the structural cost is real and measurable even before speculative dynamics are layered on top [7].
+
 # Citations
 
 [1] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
@@ -82,3 +98,7 @@ The Fed faces the same dilemma without its traditional cushion. The Fed's hiking
 [4] [Global System Rupture - Update](https://substack.com/@velinatchakarova/p-208325909)
 
 [5] Annabelle Houdret and Mark Furness, "Between Shock and Opportunity: Hormuz and Deepening North Africa–Europe Relations", 2026-08-03 — [https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations](https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations)
+
+[6] Velina Tchakarova, "The Yen Breaks First", 2026-08-07 — [https://substack.com/@velinatchakarova/p-210196165](https://substack.com/@velinatchakarova/p-210196165)
+
+[7] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, and Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)

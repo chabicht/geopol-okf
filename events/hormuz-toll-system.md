@@ -7,7 +7,7 @@ tags: [energy, middle-east, trade]
 status: ongoing
 actuality: actual
 event_date: 2026-05-01
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -30,6 +30,10 @@ Multiple Iranian officials have framed the toll negotiations not as a revenue ex
 
 [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) argues that Iran's leverage over Hormuz is structural, not tactical — it persists regardless of the balance of conventional forces. The toll system proposal is the diplomatic manifestation of this structural leverage: Iran is not asking permission but describing the terms under which it will continue to permit passage [3].
 
+Pape reframes the rumored 7% cargo-value fee not as a Malacca-style navigation transit charge (~1%) but as materially identical to the wartime insurance premium that marine insurers already charge for Persian Gulf voyages. His arithmetic is stark: a 7% levy on a VLCC carrying 2 million barrels at $80/barrel amounts to roughly $10.5M per voyage, and even partial resumption of prewar Gulf exports under such a levy would generate $100–140B annually — what Pape calls "one of the largest geopolitical wealth transfers in modern history," financing Iran's military modernization, proxy network, and strategic ambitions. He argues that no US president, regardless of party, could accept a permanent arrangement that institutionalizes Iranian geopolitical leverage over the world's most important energy chokepoint, leaving only two outcomes: no agreement, or a fragile one that leaves the chokepoint-fee issue unresolved [6].
+
+By August 2026, the toll-system track shifted from negotiation to legislation. Iran's parliament began reviewing the "Strategic Action for the Security and Sustainable Development of the Strait of Hormuz and the Persian Gulf" — a bill that would bar vessels and cargo linked to the United States, Israel, and other "hostile nations" while imposing 5–7% cargo-value transit fees and compensation requirements. Pape frames this as a transition from military coercion to institutionalized maritime authority: Iran would no longer be threatening to control the strait but legislating that control as the normal operating rule for international commerce. Drawing on his *Bombing to Win* thesis, he argues that airpower has reached its familiar coercive limit — it can destroy capabilities and raise costs but seldom changes the underlying political objective. The legislation confirms that Iran's strategic calculus has moved from survival to ambition, and that the toll system is evolving from a negotiated fee into a unilateral legal regime [7].
+
 [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) notes that Iran's de facto control over transit has outlasted the post-war price collapse even without a formal toll regime. Tehran now exercises a degree of practical control over Hormuz passage that did not exist before the war, and this shift in de facto authority is unlikely to revert once headline prices stabilize. Some shipping operators have reportedly begun obscuring vessel locations rather than risk sanctions exposure by coordinating openly with Iranian authorities — an opaque adaptation that itself signals how unresolved the governance question remains beneath a calmer price chart [4].
 
 Iran appears to pursue control of the strait through two parallel pathways. The first is diplomatic: securing explicit US recognition of Iranian sovereignty over Hormuz through a negotiated agreement. The second is coercive: maintaining the status quo by firing missiles and drones at — or credibly threatening — vessels that disregard Iranian directives. Both paths serve the same sovereignty objective; the toll system is merely the revenue mechanism layered on top [5].
@@ -47,3 +51,7 @@ The fee-extraction scheme faces a structural obstacle: shipping companies bound 
 [4] [Priced for Peace: Why Oil's Return to Pre-War Levels Overstates the Hormuz Recovery](https://substack.com/@velinatchakarova/p-204528761)
 
 [5] [How Iran Hopes to Control the Strait of Hormuz — It's Not Just About Fees](https://understandingwar.org/research/middle-east/how-iran-hopes-to-control-the-strait-of-hormuz-its-not-just-about-fees/)
+
+[6] Robert Pape, "Breaking Analysis #10: Is Trump About to Accept Iran's Terms and Declare 'Victory'?", 2026-08-05 — [https://escalationtrap.substack.com/p/breaking-analysis-10-is-trump-about](https://escalationtrap.substack.com/p/breaking-analysis-10-is-trump-about)
+
+[7] Robert Pape, "Iran's Hormuz Gambit: The Law That Could Trigger the Next Escalation", 2026-08-07 — [https://escalationtrap.substack.com/p/irans-hormuz-gambit-the-law-that](https://escalationtrap.substack.com/p/irans-hormuz-gambit-the-law-that)

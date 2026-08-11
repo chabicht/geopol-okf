@@ -9,7 +9,7 @@ tags:
   - supply-chain
   - sanctions
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -44,6 +44,8 @@ The destination data is the physical signature of the bifurcation thesis: Wester
 - **Services vs goods**: Services trade (up 8%) is growing faster than goods (up 6%), and services are less susceptible to chokepoint disruption and sanctions. The bifurcation may proceed more slowly in services than in goods — creating a structural asymmetry between the two trade dimensions. [1]
 - **Bifurcation is now conceptual as well as structural**: The divergence extends beyond trade flows to the analytical frameworks used to interpret them. Western market-economics paradigms analyze the surplus as an "industrial policy shock of global scale"; an alternative reading frames it as "unrestricted warfare" — the bifurcation has a methodology dimension alongside its physical one. See [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html). [3][4]
 - **Arms control regime bifurcating along great-power lines.** Russia revoked CTBT ratification; US 2026 CTBTO contributions unpaid; latent proliferators face new incentives. The non-proliferation regime fragments along the same competition axis as trade. [5][6]
+- **Yuan-denominated cargo as live bifurcation evidence.** During the Hormuz closure, only Chinese-flagged tankers carrying yuan-denominated cargo were permitted sporadic passage — a sanctioned transaction system functioning alongside the petrodollar one in real time. [8]
+- **Schrödinger Phenomenon: parallel-systems state.** Tchakarova frames the current condition as one in which the old monetary regime and the new coexist until observation forces collapse — the dollar remains dominant, the renminbi is structurally minor, yet trend indicators point toward bifurcation. [10]
 
 # Analysis
 
@@ -66,6 +68,20 @@ The 2026 trade data visible in physical flows has a parallel split at the concep
 [ctindale]({{ site.baseurl }}/actors/authors/ctindale.html) reads the same data through Beijing's stated operating paradigm — production is power, scale is leverage, technological capability is sovereignty — and argues the market-economics frame is a form of "constructive blindness" that conceptually neutralizes a form of aggression. Five failed assumptions of the engagement paradigm (markets separate from state power; trade integration moderates rivalry; capital flows are politically neutral; efficiency outweighs industrial control; persistent losses self-correct) leave Western analysts unable to register what Beijing's state-power paradigm is doing. The correct label is "unrestricted warfare," not "overcapacity" or "imbalance" [4].
 
 The bifurcation is therefore not only structural (two competing trade geometries) but methodological (two incompatible frameworks operating on the same data). See [China Shock and Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html) for the full sequenced treatment and [Analytical Fault Lines]({{ site.baseurl }}/themes/analytical-fault-lines.html) for the formal contested block.
+
+## The Yuan-Denominated Cargo Exception
+
+The [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html)'s KPB 206 documents the most direct physical evidence of bifurcation operating in real time: during the March 2026 Hormuz closure, only Chinese-flagged tankers carrying yuan-denominated cargo were permitted sporadic passage through the strait. All other tanker traffic fell from approximately 40 daily passages to near zero within days of the US-Israeli strikes on [Iran]({{ site.baseurl }}/actors/countries/iran.html). The Chinese exception is not a minor detail — it represents a parallel transaction system functioning alongside the petrodollar architecture, with [China]({{ site.baseurl }}/actors/countries/china.html) buying discounted Iranian oil in yuan while the Western financial system enforces sanctions on the same commodity. This is the operational signature of bifurcation: not a policy declaration but a physical fact observable in shipping data [8].
+
+## EU+7 vs China: Bloc Structure in Third-Market Trade
+
+KPB 213's proportional-benchmark decomposition implicitly defines the bloc structure that the bifurcation thesis predicts. The "EU+7" definition — all EU member states plus Norway, Switzerland, the [UK]({{ site.baseurl }}/actors/countries/united-kingdom.html), the [US]({{ site.baseurl }}/actors/countries/united-states.html), Canada, [Japan]({{ site.baseurl }}/actors/countries/japan.html), and [South Korea]({{ site.baseurl }}/actors/countries/south-korea.html) — serves as the implicit advanced-economy bloc whose third-market shares are being displaced by China's export expansion. The negative correlation is structural: sectors in which China gained market share are typically those in which EU+7 economies lost share, with the displacement concentrated in complex manufacturing. China's export basket has shifted decisively toward capital and intermediate goods with rising product complexity, while advanced economies' baskets have remained largely unchanged — the bloc structure is not static but evolving as China climbs the value chain [9].
+
+The cross-country dispersion within the EU+7 bloc is itself a bifurcation signal. Excess-loss rates range from 89.6% (UK) to 41.7% (Italy), with [Switzerland]({{ site.baseurl }}/actors/countries/switzerland.html), South Korea, Canada, and the US actually gaining competitiveness within the non-Chinese segment. The bloc is not losing uniformly — some members are adapting while others deteriorate — suggesting that bifurcation's internal dynamics are as important as its external boundary [9].
+
+## The Schrödinger Phenomenon: Parallel-Systems State
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) frames the current condition of the global monetary system as a **parallel-systems state** — the old regime and the new coexist until observation forces collapse. The dollar remains dominant; the renminbi is structurally minor (1.99% of global reserves vs 5.44% for the yen in Q1 2026); the DragonBear is an alignment rather than a monetary bloc with a coherent alternative for troubled states to move into. Yet trend-level indicators point toward bifurcation: central banks bought 4,000+ tonnes of gold since 2022, and yuan payment share is rising as the dollar's declines. The phenomenon describes a system that has not yet collapsed but has not yet stabilized — both regimes coexist, and the observation event that forces the collapse has not yet occurred. This refines the bifurcation thesis: the outcome is not a clean succession of monetary regimes but the growth of separate dollar, renminbi, and anti-sanction liquidity zones that coexist in an unstable equilibrium [10].
 
 ## Erosion of Multilateral Arms Control
 
@@ -100,3 +116,9 @@ Fragmentation, however, can also mean decentralization — offering opportunitie
 [6] Guido Steinberg, "Atommacht Saudi-Arabien — Dieses Atomabkommen bringt zwei große Probleme mit sich", Cicero, 2026-07-24 — [https://archive.ph/ncDGY](https://archive.ph/ncDGY)
 
 [7] Marianne Beisheim, Miranda Böttcher, Lars Brozus, "Klimapolitik in einer multipolaren Welt: Zwischen Fragmentierung und neuen Chancen", SWP, 2026-07-31 — [https://www.swp-berlin.org/publikation/klimapolitik-in-einer-multipolaren-welt-zwischen-fragmentierung-und-neuen-chancen](https://www.swp-berlin.org/publikation/klimapolitik-in-einer-multipolaren-welt-zwischen-fragmentierung-und-neuen-chancen)
+
+[8] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, and Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)
+
+[9] Sonali Chowdhry, Katharina Erhardt, and Julian Hinz, "Competing with China in Third Markets", 2026-06 — [https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/](https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/)
+
+[10] Velina Tchakarova, "The Yen Breaks First", 2026-08-07 — [https://substack.com/@velinatchakarova/p-210196165](https://substack.com/@velinatchakarova/p-210196165)

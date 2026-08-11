@@ -5,7 +5,7 @@ parent: Countries
 description: China+1 manufacturing hub pursuing multi-alignment between the US and China — semiconductor ambitions, rare earth partnerships, and strategic hedging in the South China Sea
 tags: [country, indo-pacific, trade, supply-chain, technology, critical-minerals]
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -29,6 +29,10 @@ State-owned telecom giant Viettel has begun developing Vietnam's first domestica
 ## Critical Minerals Partnership
 
 Vietnam has large rare earth reserves and is partnering with [Australia]({{ site.baseurl }}/actors/countries/australia.html) and other countries to develop extraction and processing capabilities outside China's near-monopoly in rare earth refining. This creates opportunities to diversify sourcing for electric vehicles, batteries, telecommunications equipment, renewable energy systems, and defense-related technologies. See [Critical Minerals]({{ site.baseurl }}/themes/critical-minerals.html) [1].
+
+## Hormuz Closure Food-Price Vulnerability
+
+KPB 206's KITE bottleneck simulation identifies Vietnam as vulnerable to the energy-to-food price cascade from a full Strait of Hormuz closure, where fertilizer supply disruptions transmit into food-price increases across import-dependent developing economies [5].
 
 ## Strategic Risks
 
@@ -67,3 +71,5 @@ The unresolved pieces are legal and organizational: uncrewed hulls lack a worldw
 [3] [In the Asia-Pacific, a New Security Arrangement Takes Shape](https://geopoliticalfutures.com/in-the-asia-pacific-a-new-security-arrangement-takes-shape/)
 
 [4] [Broken Drone, Far from Home: The Case for Overseas Autonomous System Sustainment](https://warontherocks.com/broken-drone-far-from-home-the-case-for-overseas-autonomous-system-sustainment/)
+
+[5] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)

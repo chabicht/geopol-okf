@@ -16,7 +16,9 @@ permalink: /actors/countries/
 * [Taiwan](taiwan.html) - Facing Chinese grey-zone encirclement, domestic budget paralysis, espionage campaign
 * [Germany](germany.html) - Publishing first military strategy, signaling European defense leadership
 * [France](france.html) - Signaling on Taiwan, targeted by Russian cognitive warfare
+* [Italy](italy.html) - European economy with the lowest excess-loss rate in third-market China competition, suggesting possible resilience
 * [Japan](japan.html) - Intensifying posture against Chinese expansion, delimiting EEZs with Philippines
+* [South Korea](south-korea.html) - Advanced manufacturing economy and "winner" in non-Chinese third-market competition despite overall losses
 * [India](india.html) - Balancing China as overriding strategic concern while enduring Trump-era friction
 * [Turkey](turkey.html) - Exploiting Russian weakness in Africa through drone exports and training
 * [Qatar](qatar.html) - Critical LNG supplier whose Ras Laffan infrastructure concentrates global gas supply
@@ -33,6 +35,7 @@ permalink: /actors/countries/
 * [Ethiopia](ethiopia.html) - Landlocked state pursuing sea access through Eritrea, aligned with UAE-RSF axis
 * [Eritrea](eritrea.html) - Coastal state controlling Ethiopia's path to sea, aligned against UAE-Ethiopia axis
 * [Austria](austria.html) - Trapped by its holy trinity of taboos (nuclear, NATO, neutrality) as European security shifts eastward
+* [Switzerland](switzerland.html) - Advanced European economy and "winner" in non-Chinese third-market competition, gaining competitiveness relative to peers
 * [United Kingdom](united-kingdom.html) - Post-Brexit power navigating energy security, European defence burden-sharing, and domestic asylum policy
 * [Egypt](egypt.html) - Self-styled Middle East mediator with diminishing diplomatic leverage, constrained by economic weakness
 * [Bangladesh](bangladesh.html) - Strategic player in the Bay of Bengal pursuing multi-alignment among China, India, and the US
@@ -53,8 +56,10 @@ permalink: /actors/countries/
 * [Tunisia](tunisia.html) - North African state under Saied's authoritarian consolidation — Europe's visibility deficit vs China's soft power advance
 * [Afghanistan](afghanistan.html) - State that collapsed because it lost the cognitive war before the battlefield; Taliban-controlled, facing ISIS-K and regional exploitation
 * [South Africa](south-africa.html) - ANC-led state whose xenophobic mobilization and GNU instability illustrate the intersection of economic distress, identity politics, and democratic erosion
+* [Zambia](zambia.html) - Most extreme data point in Hormuz closure simulation — −5.49% welfare loss and +30.7% food price increase
 * [North Korea](north-korea.html) - Constitutionalizing nuclear centrality, abandoning unification, institutionalizing a "hostile two states" posture
 * [Finland](finland.html) - NATO's newest Baltic member navigating the Åland demilitarization debate
+* [Norway](norway.html) - Clearest "winner" in third-market China competition with a positive weighted market-share change of +1.32pp
 * [Azerbaijan](azerbaijan.html) - Caucasus state at the intersection of Russia, Iran, and Turkey — oil-rich, militarily capable, key node in the Trump Route
 * [Morocco](morocco.html) - North African monarchy leveraging Tanger Med port, phosphate reserves, and Chinese-partnered battery factories as a geostrategic hub between Europe, Africa, and the Middle East
 * [Algeria](algeria.html) - North African energy exporter and EU's second-largest gas supplier (17.4% of imports), leveraging pipeline infrastructure (Transmed, Medgaz) and potential shale gas reserves as a geostrategic anchor

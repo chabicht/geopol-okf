@@ -10,7 +10,7 @@ tags:
   - supply-chain
   - naval
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -47,6 +47,8 @@ See [Sanctions and Financial Warfare]({{ site.baseurl }}/themes/sanctions-and-fi
 - **US withdrawal from security guarantor role**: The US has policed the world's trade routes and ultimately guaranteed global insurers safe and free navigation. The Iran war confirmed that in some situations the US is not only unable to provide such guarantees but can make them worse. Countries are no longer willing to rely solely on global markets that can cut capacity under stress or political pressure [1].
 - **Permanent cost inflation**: Security costs are becoming permanent. Insurance, compliance, and risk management are now baked into the price of trade. Supply chains are becoming redundant and more expensive. The era of optimizing trade for efficiency is over; the era of optimizing for resilience is underway [1].
 - **The 2% threshold**: Near-perfect military interception (98%) cannot eliminate the residual threat that insurance markets cannot absorb — volume can return while reliability remains compromised. [1]
+- **Structural-vs-speculative cost distinction**: The KITE model captures only trade-channel rerouting costs, excluding speculation, hoarding, and futures pricing — the insurable structural cost is separable from the spot-price spike that markets actually price. [10]
+- **Excess-loss sectors defy tariff logic**: Germany's pharma (8% China-attributable), aircraft (4%), and optical/medical (16%) third-market losses are nearly pure home-grown competitiveness failures that trade-defence instruments targeting China cannot address. [11]
 
 # Analysis
 
@@ -104,6 +106,18 @@ The soft blockade connects directly to the [Global System Rupture]({{ site.baseu
 
 [Norman T. Roule]({{ site.baseurl }}/actors/authors/norman-roule.html) reports that up to approximately 5 million barrels per day are now moving through the strait, reducing oil-market pressure. But the waterway remains unreliable, insurance rates remain very high and will persist at elevated levels, and the US naval blockade is still nominally in place. Refusenik shippers — operators unwilling to risk passage regardless of toll arrangements — are a factor. The [Hormuz Toll System]({{ site.baseurl }}/events/hormuz-toll-system.html) introduces unresolved questions about how payments to Iran interact with the sanctions regime: whether American ships can pay Iran, through what channels, and whether other countries will be sanctioned for paying Iran through those channels. The persistence of high insurance rates despite throughput recovery confirms Hinote's 2% thesis: volume can return while reliability remains compromised, and the insurance market prices reliability, not volume [9]. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html).
 
+## Structural Cost vs Speculative Premium: The KITE Model's Trade-Channel Lower Bound
+
+The [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html)'s KPB 206 provides a methodological anchor for separating the insurable structural cost of chokepoint disruption from the speculative premium that commodity markets and insurance markets actually price. The KITE model captures trade-channel effects only — it explicitly excludes speculative and financial market dynamics, hoarding behaviour, strategic reserve releases, and commodity futures pricing. The results therefore represent the structural cost of rerouting supply chains, not the spot-price spike observed in commodity markets. This distinction is directly relevant to the insurance framework: the structural cost (welfare losses of −0.07% for the [US]({{ site.baseurl }}/actors/countries/united-states.html) up to −5.49% for [Zambia]({{ site.baseurl }}/actors/countries/zambia.html)) is the floor that rerouting and substitution impose regardless of market psychology, while the speculative premium — the difference between the model's structural estimate and the actual spot-price movement — is what insurance markets, war-risk underwriters, and freight rate setters must absorb on top [10].
+
+The implication for the soft-blockade mechanism is that insurance withdrawal compounds the structural cost rather than merely reflecting it. When P&I clubs withdraw cover, they are pricing not the structural rerouting cost (which is bounded and estimable) but the speculative tail risk — the unmodeled dynamics of hoarding, futures contagion, and crisis psychology that the KITE framework deliberately excludes. The structural-vs-speculative distinction thus explains why insurance markets can overreact relative to the physical disruption: they are pricing a risk surface that includes dynamics the trade model does not capture [10].
+
+## Sector-Specific Excess Losses and the Limits of Trade Defence
+
+KPB 213's sectoral decomposition of [Germany]({{ site.baseurl }}/actors/countries/germany.html)'s third-market losses reveals that the sectors most affected by the current trade-warfare environment are also those where China-driven displacement is smallest. Vehicles (−3.24pp actual, 38% China-attributable), aircraft (−3.69pp, 4%), pharma (−2.28pp, 8%), optical/medical (−1.84pp, 16%), and plastics (−2.64pp, 45%) all sustained large absolute losses, yet the majority of those losses are excess — reflecting home-grown competitiveness deterioration relative to other non-Chinese exporters rather than Chinese export competition [11].
+
+For the trade-warfare framework, this means that the tariff and trade-defence instruments currently deployed against China are poorly matched to the sectors where advanced-economy losses are largest. Blanket tariffs on Chinese goods cannot repair a German aerospace sector that lost 96% of its market share to non-Chinese competitors. The Kiel brief explicitly rejects blanket tariffs as a defensible response and prescribes targeted, time-limited trade defence conditional on investment commitments — a diagnosis that aligns with the insurance framework's broader finding that coercive economic instruments have structural limits that their proponents underestimate [11].
+
 # Citations
 
 [1] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
@@ -123,3 +137,7 @@ The soft blockade connects directly to the [Global System Rupture]({{ site.baseu
 [8] S. Clinton Hinote and James Slife, "Why the Iran War Remains Strategically Adrift", 2026-08-04 — [https://www.thecipherbrief.com/why-the-iran-war-remains-strategically-adrift](https://www.thecipherbrief.com/why-the-iran-war-remains-strategically-adrift)
 
 [9] Norman T. Roule, "There Will be Unseen Costs to be Paid over the War in Iran. Who is Weighing Them?", 2026-08-05 — [https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them](https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them)
+
+[10] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, and Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)
+
+[11] Sonali Chowdhry, Katharina Erhardt, and Julian Hinz, "Competing with China in Third Markets", 2026-06 — [https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/](https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/)

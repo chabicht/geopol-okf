@@ -5,7 +5,7 @@ parent: Countries
 description: Qatar as a geopolitical actor — critical LNG supplier whose Ras Laffan infrastructure concentrates global gas supply chain vulnerability
 tags: [country, energy, middle-east, supply-chain]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -24,12 +24,17 @@ The explosion at Ras Laffan exposed the structural fragility of concentrated glo
 
 The explosion occurred during a high-risk restart window after the Hormoz crisis forced inactivity. The convergence of geopolitical disruption (the [Iran]({{ site.baseurl }}/actors/countries/iran.html)-controlled Strait of Hormuz crisis) and operational risk (facility restart) created conditions for a cascading failure in global energy supply.
 
+## Diplomatic Conduit in the Hormuz Negotiations
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) identifies Qatar as the political conduit in the Iran-Oman maritime mechanism. Qatar conveyed the August 4 draft plan and is pushing a US-Iran memorandum of understanding that includes freedom of navigation — positioning Doha as the diplomatic channel through which the Hormuz bargain is negotiated, distinct from Oman's pivot role. [5]
+
 # Key Dynamics
 
 - **Mediation under fire.** Iran's July 12, 2026 strike on Qatar demonstrates that even Gulf states attempting neutrality face "sideways escalation" targeting. [3]
 - **Institutional-legal posture.** Qatar backs Riyadh and invokes UNCLOS and UN Security Council Resolution 2722, choosing international law over military pathways to manage the maritime crisis. [4]
 - **Legal framing over US guarantees.** Qatar's invocation of these frameworks signals the Gulf monarchy bloc managing crises through international law rather than through US security guarantees. [4]
 - **Defense diversification via Ukraine.** A 10-year agreement with Ukraine covers counter-drone technology, air defense, and cybersecurity, positioning Qatar within a Gulf-Ukraine defense partnership. [2]
+- **Qatar is the diplomatic conduit for the Hormuz bargain.** Doha conveyed the August 4 draft plan and is pushing a US-Iran MoU including freedom of navigation, distinct from Oman's pivot role. [5]
 
 # Analysis
 
@@ -58,3 +63,5 @@ The diagnostic also notes that Yemen's recognized government and the Houthis con
 [3] [Midweek Update #20: Each Day The US Weakens Itself](https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us)
 
 [4] [Global System Rupture](https://substack.com/@velinatchakarova/p-207969383)
+
+[5] Velina Tchakarova, "Hormuz on a Knife's Edge: The Fragile Architecture of a Deal Nobody Trusts", 2026-08-06 — [https://substack.com/@velinatchakarova/p-210042648](https://substack.com/@velinatchakarova/p-210042648)

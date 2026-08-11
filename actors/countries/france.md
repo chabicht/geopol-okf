@@ -5,7 +5,7 @@ parent: Countries
 description: France as a geopolitical actor — signaling on Taiwan, targeted by Russian cognitive warfare, navigating the Trump-era transatlantic relationship, exercising strategic autonomy in the Indo-Pacific, and experiencing a populist rightward shift with Bardella's rise
 tags: [country, military, europe, cognitive-warfare, ideology, indo-pacific]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -37,6 +37,7 @@ Jordan Bardella, president of the National Rally, has criticized [Trump]({{ site
 - **France is the exemplar of the "autonomous hedge."** Paris declines US-led statements while independently engaging the Philippines, acting from surplus via its Indo-Pacific territories. [5]
 - **The autonomous hedge will never be a reliable coalition member.** France acts unilaterally when its interests are engaged, neither bound to nor against any coalition in either direction. [5]
 - **Bardella's National Rally faces a Trump dilemma.** Bardella criticizes Trump's imperial ambitions but opposes French troops to Ukraine, and leads early 2027 presidential polling. [4]
+- **High excess-loss rate in third-market competition.** Kiel's decomposition shows 78.1% of France's export-share decline is home-grown, with only 10% China-attributable — a competitiveness problem, not a China-displacement story. [6]
 
 # Analysis
 
@@ -47,6 +48,10 @@ France occupies a unique position as a European power with global reach, nuclear
 [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) identifies France as the exemplar of the "autonomous hedge" — declining to co-sign the American-led joint statement on the South China Sea arbitration anniversary, while simultaneously sending its ambassador to Manila to argue for credible deterrence alongside India, South Korea, and Japan. France declines from surplus: it holds the second-largest exclusive economic zone in the world on the strength of its Indo-Pacific territories, sails freedom of navigation operations, and has the platforms and doctrine to act on its own account. Its reason for declining the American text is doctrinal and long-standing: strategic autonomy requires that French Indo-Pacific presence be legible as French rather than as an auxiliary function of United States containment policy. Paris will act, and will act with the Philippines, but will not do so under a Washington letterhead [5].
 
 The distinction between the autonomous hedge and the coerced hedge (Vietnam) predicts different futures: the autonomous hedger will act unilaterally whenever its interests are engaged and will never be reliable as a coalition member, in either direction. Most of the hedging literature treats these as one phenomenon, generating forecasts that are wrong in opposite directions [5].
+
+## Third-Market Competitiveness: High Excess-Loss Rate
+
+The Kiel Institute's proportional-benchmark decomposition finds [France]({{ site.baseurl }}/actors/countries/france.html) has an excess-loss rate of 78.1% in third-market export competition — meaning only about 10% of France's market-share decline is mechanically attributable to [China]({{ site.baseurl }}/actors/countries/china.html)'s rise, while the vast majority reflects home-grown competitiveness deterioration relative to other non-Chinese exporters. France's weighted market-share change of −1.53pp and −11.4% non-Chinese segment loss place it among the advanced economies with the largest relative competitiveness declines, behind the [United Kingdom]({{ site.baseurl }}/actors/countries/united-kingdom.html) but ahead of [Germany]({{ site.baseurl }}/actors/countries/germany.html) in excess-loss severity [6].
 
 # Citations
 
@@ -59,3 +64,5 @@ The distinction between the autonomous hedge and the coerced hedge (Vietnam) pre
 [4] [French far-right leader Bardella slams Trump's 'imperial ambitions' in Greenland, Venezuela](https://www.politico.eu/article/france-jordan-bardella-donald-trumps-imperial-ambitions-in-venezuela-greenland/)
 
 [5] [The Award Everyone Defends and No One Will Co-Sign](https://substack.com/@velinatchakarova/p-206915723)
+
+[6] Sonali Chowdhry, Katharina Erhardt, and Julian Hinz, "Competing with China in Third Markets", 2026-06 — [https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/](https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/)

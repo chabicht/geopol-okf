@@ -7,7 +7,7 @@ event_date: 2026-07-07
 actuality: actual
 tags: [energy, middle-east, military, kinetic]
 status: ongoing
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -47,6 +47,8 @@ The re-escalation confirms that the fourth systemic crisis has entered its alloc
 Krugman notes that US policy has been wildly erratic — first 20% tolls, then demands for foreign investment, neither of which will happen. The overarching moral is the immense folly of a war that has left America and the world in a much worse place than if Trump had preserved the 2015 Iran deal [1].
 
 Trump's briefly floated demand that the US military receive a 20 percent gratuity for keeping the strait open — a proposal he abandoned almost as quickly as he announced it — further muddied the waters. By conflating freedom of navigation with a private revenue stream for the armed forces, the gesture degraded the coherence of the American position and reinforced the perception that US Hormuz policy is driven by impulse rather than strategy [15].
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) documents the continuation of this erratic posture into early August: on August 1, Trump issued a "very hard" strike threat against Iran, followed by 10-country security alerts and a tanker targeting — only for [Qatar]({{ site.baseurl }}/actors/countries/qatar.html) to distribute a draft peace plan on August 4. Tchakarova frames the pattern as "controlled escalation": coercive signalling and secret diplomacy running in parallel, with both sides reading the other's quietness as either fatigue or gearing-up. The system has not healed but coalesced into a bargaining-phase equilibrium where any maritime incident could snap it back into active combat [17].
 
 ## No Victory Path
 
@@ -133,3 +135,5 @@ Iran's strategic calculus, as O'Brien reconstructs it, treats time as a weapon: 
 [15] [Is Iran Controlling the Gulf Conflict?](https://www.thecipherbrief.com/is-iran-controlling-the-gulf-conflict)
 
 [16] Phillips P. O'Brien, "Midweek Update 21: Iran Is Toying With The USA", 2026-07-29 — [https://phillipspobrien.substack.com/p/midweek-update-21-iran-is-toying](https://phillipspobrien.substack.com/p/midweek-update-21-iran-is-toying)
+
+[17] Velina Tchakarova, "Hormuz on a Knife's Edge: The Fragile Architecture of a Deal Nobody Trusts", 2026-08-06 — [https://substack.com/@velinatchakarova/p-210042648](https://substack.com/@velinatchakarova/p-210042648)

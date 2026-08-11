@@ -7,7 +7,7 @@ tags: [military, air-defense, missile, europe]
 event_date: 2026-07-06
 actuality: actual
 status: ongoing
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -30,6 +30,7 @@ Ukraine intercepted about 89% of all aerial threats (drones, cruise missiles) in
 - **June 15**: 34 Iskander-M ballistic missiles in a combined strike; roughly half intercepted. Killed 5, injured 35 in Kyiv.
 - **July 6**: 29 ballistic missiles fired at Kyiv; all 29 struck their targets — part of a barrage that killed at least 19-27 people.
 - **July 8**: Third ballistic missile strike on Kyiv in six days, killing 4.
+- **July 31**: Every Russian missile impacted — no Patriot interceptor was launched because Ukraine had completely run out; the last interceptor was used in this attack [4].
 - Recent weekend strikes used Iskander-M/S-400 ballistic missiles from the Bryansk area alongside cruise missiles and drones [1].
 
 ## Cumulative Toll
@@ -59,7 +60,7 @@ The fact that Russia is upping its strike rate — three attacks on Kyiv in six 
 
 ## The Interception Collapse
 
-By end of July 2026, the interception crisis reached its nadir: Ukraine intercepted only 1 of 27 ballistic missiles fired on August 1, 2026. The preceding days produced mounting casualties: at least 10 Ukrainians killed on July 30, and 9 more killed the next night [3]. Russia is escalating its strike rate precisely as Ukrainian interceptor stocks deplete, exploiting the window before Western systems can arrive [1].
+By end of July 2026, the interception crisis reached its nadir: Ukraine intercepted only 1 of 27 ballistic missiles fired on August 1, 2026. The preceding days produced mounting casualties: at least 10 Ukrainians killed on July 30, and 9 more killed the next night [3]. [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) documents the actual exhaustion point: on July 31, every Russian missile impacted without a single Patriot launch — the last interceptor had been expended in that attack, confirming complete depletion rather than merely diminished stocks [4]. Russia is escalating its strike rate precisely as Ukrainian interceptor stocks deplete, exploiting the window before Western systems can arrive [1].
 
 ## Trump's Patriot Denial
 
@@ -72,3 +73,5 @@ By end of July 2026, the interception crisis reached its nadir: Ukraine intercep
 [2] [The Worst NATO Summit In History](https://phillipspobrien.substack.com/p/the-worst-nato-summit-in-history)
 
 [3] Phillips P. O'Brien, "Weekend Update 196: The Week When Hope Killed, Literally", 2026-08-02 — [https://phillipspobrien.substack.com/p/weekend-update-196-the-week-when](https://phillipspobrien.substack.com/p/weekend-update-196-the-week-when)
+
+[4] Velina Tchakarova, "A Real Bottleneck", 2026-08-05 — [https://substack.com/@velinatchakarova/p-209893924](https://substack.com/@velinatchakarova/p-209893924)

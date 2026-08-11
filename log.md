@@ -4,6 +4,55 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-08-11 — Incorporation: 11 Sources (Pape ×4, Tchakarova ×4, Cicero, KPB 206, KPB 213)
+
+**New concepts (13)**
+
+* **Creation**: Created 8 author concepts: [Jeff Currie]({{ site.baseurl }}/actors/authors/jeff-curry.html), [Julian Hinz]({{ site.baseurl }}/actors/authors/julian-hinz.html), [Hendrik Mahlkow]({{ site.baseurl }}/actors/authors/hendrik-mahlkow.html), [Robin Sogalla]({{ site.baseurl }}/actors/authors/robin-sogalla.html), [Gerald Willmann]({{ site.baseurl }}/actors/authors/gerald-willmann.html), [Sonali Chowdhry]({{ site.baseurl }}/actors/authors/sonali-chowdhry.html), [Katharina Erhardt]({{ site.baseurl }}/actors/authors/katharina-erhardt.html), [Ronald Wright]({{ site.baseurl }}/actors/authors/ronald-wright.html).
+* **Creation**: Created 5 event concepts: [Iran-Oman Maritime Mechanism]({{ site.baseurl }}/events/iran-oman-maritime-mechanism-2026-08.html), [US-Japan Joint Yen Intervention]({{ site.baseurl }}/events/us-japan-joint-yen-intervention-2026-08-03.html), [Iranian Hormuz Transit-Fee Legislation]({{ site.baseurl }}/events/hormuz-legislation-2026.html), [Iran's Six-Point Demands]({{ site.baseurl }}/events/iran-six-point-demands-2026-08-09.html), [Mecca Joint Defense Agreement]({{ site.baseurl }}/events/mecca-joint-defense-agreement-2026.html).
+* **Creation**: Created 5 country concepts: [South Korea]({{ site.baseurl }}/actors/countries/south-korea.html), [Switzerland]({{ site.baseurl }}/actors/countries/switzerland.html), [Italy]({{ site.baseurl }}/actors/countries/italy.html), [Norway]({{ site.baseurl }}/actors/countries/norway.html), [Zambia]({{ site.baseurl }}/actors/countries/zambia.html).
+
+**Updated concepts (~35)**
+
+* **Update**: [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) — added 4 sources [24]–[27] (risk-pricing reframe, Hormuz legislation, crude-refining double bottleneck, Exit Trap); 3 new open forecasts.
+* **Update**: [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) — added 4 sources [29]–[32] (Patriot bottleneck, Rosneft scenarios, controlled escalation, financial-monetary cascade); 10 new framework subsections; 3 new open forecasts.
+* **Update**: [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html) — added KPB 206 [2] and KPB 213 [3]; 4 new framework subsections (KITE model, bottleneck extension, proportional benchmark, third-market displacement); created Track Record section.
+* **Update**: [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — added 7 citations [85]–[91] (Pape ×4, Tchakarova ×2, KPB 206); new Analysis subsections on risk-pricing, Stage Four, exit criterion, Iran-Ukraine coupling.
+* **Update**: [Cold War 2]({{ site.baseurl }}/conflicts/cold-war-2.html) — added 3 citations [15]–[17] (Tchakarova ×2, KPB 213); new Analysis subsection on bloc consolidation.
+* **Update**: [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) — added [48] (Tchakarova #5): 80%+ generation damage, winter 2026-27 water-supply targeting.
+* **Update**: [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) — added [22]–[24] (KPB 206, Tchakarova ×2): financial-monetary cascade, controlled-escalation reading, polycrisis quantitative anchor.
+* **Update**: [Escalation Theory Critique]({{ site.baseurl }}/themes/escalation-theory-critique.html) — added [12]–[15] (Pape ×4): risk-pricing, legislation, Stage Four, Exit Trap; 4 new Key Dynamics bullets.
+* **Update**: [Energy & Resources]({{ site.baseurl }}/themes/energy-and-resources.html) — added [38]–[39] (Tchakarova #6, KPB 206): Rosneft 2050 scenarios, chokepoint reframed as energy+chemicals+food.
+* **Update**: [Monetary System Transition]({{ site.baseurl }}/themes/monetary-system-transition.html) — added [7]–[8] (KPB 206, Tchakarova #8): yuan cargo exception, currency zone partitioning.
+* **Update**: [Inflation & Monetary Policy]({{ site.baseurl }}/themes/inflation-and-monetary-policy.html) — added [6]–[7] (Tchakarova #8, KPB 206): central bank powerlessness, stagflation trap, price-cascade numbers.
+* **Update**: [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) — added [24]–[25] (Tchakarova #5, KPB 213): three-theater Patriot bottleneck, aerospace competitiveness failure.
+* **Update**: [Food & Agriculture]({{ site.baseurl }}/themes/food-and-agriculture.html) — added [16] (KPB 206): fertilizer bottleneck, Zambia food-price rise, strategic fertilizer reserve.
+* **Update**: [China Shock & Deindustrialization]({{ site.baseurl }}/themes/china-shock-and-deindustrialization.html) — added [3] (KPB 213): proportional benchmark methodology, 31%/69% decomposition.
+* **Update**: [Global System Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html) — added [8]–[10] (KPB ×2, Tchakarova #8): yuan exception, EU+7 bloc, Schrödinger Phenomenon.
+* **Update**: [Insurance & Trade Warfare]({{ site.baseurl }}/themes/insurance-and-trade-warfare.html) — added [10]–[11] (KPB ×2): 98%/2% interception, Germany sector excess losses.
+* **Update**: [Critical Minerals]({{ site.baseurl }}/themes/critical-minerals.html) — added [16] (KPB 206): neon/excimer-laser supply chain exposure at Ras Laffan.
+* **Update**: [Analytical Fault Lines]({{ site.baseurl }}/themes/analytical-fault-lines.html) — added [18]–[20] (KPB 213, Cicero): proportional-benchmark fault line, progress-trap empirical foundations.
+* **Update**: [Civilizational Collapse & Progress Traps]({{ site.baseurl }}/themes/civilizational-collapse-and-progress-traps.html) — added [2] (Cicero): `## Contested:` block on Wright framework empirical foundations; `contested` tag added.
+* **Update**: 14 country concepts updated: [Japan]({{ site.baseurl }}/actors/countries/japan.html), [Germany]({{ site.baseurl }}/actors/countries/germany.html), [China]({{ site.baseurl }}/actors/countries/china.html), [United States]({{ site.baseurl }}/actors/countries/united-states.html), [Iran]({{ site.baseurl }}/actors/countries/iran.html), [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html), [Oman]({{ site.baseurl }}/actors/countries/oman.html), [Qatar]({{ site.baseurl }}/actors/countries/qatar.html), [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html), [Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html), [India]({{ site.baseurl }}/actors/countries/india.html), [Taiwan]({{ site.baseurl }}/actors/countries/taiwan.html), [United Kingdom]({{ site.baseurl }}/actors/countries/united-kingdom.html), [France]({{ site.baseurl }}/actors/countries/france.html).
+* **Update**: 3 minor country updates: [Vietnam]({{ site.baseurl }}/actors/countries/vietnam.html), [Philippines]({{ site.baseurl }}/actors/countries/philippines.html), [Bangladesh]({{ site.baseurl }}/actors/countries/bangladesh.html) — food-price vulnerability.
+* **Update**: 4 existing event concepts: [Hormuz Toll System]({{ site.baseurl }}/events/hormuz-toll-system.html), [Hormuz Ceasefire Collapse]({{ site.baseurl }}/events/hormuz-ceasefire-collapse-2026.html), [US Naval Blockade Iran]({{ site.baseurl }}/events/us-naval-blockade-iran.html), [Ukraine Air Defense Crisis]({{ site.baseurl }}/events/ukraine-air-defense-crisis-2026.html).
+* **Update**: [EU]({{ site.baseurl }}/actors/organizations/eu.html) — KPB 213 policy prescriptions.
+* **Update**: [Middle East]({{ site.baseurl }}/regions/middle-east.html) — KPB 206 Hormuz-transit countries.
+
+**Sources incorporated (11)**
+
+1. Robert Pape, "Breaking Analysis #10: Is Trump About to Accept Iran's Terms?" (Aug 5)
+2. Robert Pape, "Iran's Hormuz Gambit" (Aug 7)
+3. Robert Pape, "Live with Prof Robert Pape: Assessing Pape/Currie Conversation" (Aug 9)
+4. Robert Pape, "The Exit Trap" (Aug 10)
+5. Velina Tchakarova, "A Real Bottleneck" (Aug 10)
+6. Velina Tchakarova, "Global Energy System according to Russia" (Aug 10)
+7. Velina Tchakarova, "Hormuz on a Knife's Edge" (Aug 10)
+8. Velina Tchakarova, "The Yen Breaks First" (Aug 10)
+9. Cicero, "Das Journal – Wenn die Fortschrittsfalle zuschnappt" (2009, captured Aug 11)
+10. KPB 206: Hinz/Mahlkow/Sogalla/Willmann, "The Cost of Closing the Strait of Hormuz" (March 2026)
+11. KPB 213: Chowdhry/Erhardt/Hinz, "Competing with China in Third Markets" (June 2026)
+
 ## 2026-08-09 — Consolidation & Refinement
 
 **Consolidation (2 clusters)**

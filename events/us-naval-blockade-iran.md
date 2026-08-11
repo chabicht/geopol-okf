@@ -7,7 +7,7 @@ tags: [kinetic, energy, sanctions, middle-east]
 status: concluded
 actuality: actual
 event_date: 2026-06-20
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -33,6 +33,8 @@ After the initial kinetic phase of the [US-Iran War of 2026]({{ site.baseurl }}/
 
 The blockade and Iran's de facto control of Hormuz passage operate on different logics and do not cancel each other out. The US naval cordon targets vessels entering or leaving Iranian ports; it does not intercept ships that accept Iran's transit terms for through-passage. A third-country vessel that complies with Iranian demands but is not bound for an Iranian port can still exit the strait under the blockade. Conversely, any vessel that declines Iran's terms will face Iranian fire regardless of the American blockade. The US blockade thus constrains Iran's export revenue while leaving Iran's chokepoint coercion over third-party shipping largely intact [6].
 
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) documents a critical Iranian qualification that links the blockade directly to any negotiated Hormuz settlement. Iran's foreign ministry spokesman Esmaeel Baghaei stated that a settlement between Iran and Oman does not necessarily mean free transit when the United States' "naval blockade" and other hostile operations against Iran continue — meaning the strait's closure or opening is conditioned on US activity Tehran considers illegal under international law. This framing makes the blockade not merely an instrument of economic pressure but a legal-political obstacle to any settlement: Iran positions its own chokepoint control as a conditional response to US actions it designates as illegal, rather than as an independent aggression [7].
+
 ## The July 15 Blockade Reversal
 
 [Heather Cox Richardson]({{ site.baseurl }}/actors/authors/heather-cox-richardson.html) documents that on July 15, 2026, Trump reversed the reimposed blockade — declaring that the U.S. would become the "GUARDIAN OF THE HORMUZ STRAIT" and then, within 24 hours, claiming that Gulf allies told him they would rather invest directly in the U.S. than pay tolls. The reversal underscores the erratic character of the blockade instrument: announced as a strategic commitment, then abandoned when the cost crystallized. The same day, Trump convened a Situation Room meeting to discuss "new plans for devastating strikes" against Iran — shifting the instrument of pressure from economic blockade back to kinetic escalation [4].
@@ -54,3 +56,5 @@ The blockade and Iran's de facto control of Hormuz passage operate on different 
 [5] [Midweek Update #19: What Do We Know?](https://phillipspobrien.substack.com/p/midweek-update-19-what-do-we-know)
 
 [6] [How Iran Hopes to Control the Strait of Hormuz — It's Not Just About Fees](https://understandingwar.org/research/middle-east/how-iran-hopes-to-control-the-strait-of-hormuz-its-not-just-about-fees/)
+
+[7] Velina Tchakarova, "Hormuz on a Knife's Edge: The Fragile Architecture of a Deal Nobody Trusts", 2026-08-06 — [https://substack.com/@velinatchakarova/p-210042648](https://substack.com/@velinatchakarova/p-210042648)

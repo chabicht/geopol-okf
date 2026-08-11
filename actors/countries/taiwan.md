@@ -5,7 +5,7 @@ parent: Countries
 description: Taiwan as a geopolitical actor — facing Chinese grey-zone encirclement, domestic budget paralysis, and an espionage campaign while European powers signal support
 tags: [country, military, naval, indo-pacific, gray-zone]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Background
@@ -52,10 +52,20 @@ The May 2026 [Trump-Xi summit]({{ site.baseurl }}/events/trump-xi-summit-2026.ht
 - **Trump-Xi summit introduced existential uncertainty.** Xi framed Taiwan as "the most important issue," leaving Taipei reliant on questionable American promises while exploring EU defence partnerships. [4]
 - **All-domain megacity warfare targets Taipei's will.** China's concept combines blockade, decapitation strikes, and cognitive attacks — including deepfakes and algorithmic content — to break the will to fight without annihilating the city. [5]
 - **European support is widening the dispute's scope.** Britain, France, and Germany issued a rare joint statement signaling Taiwan is treated as integral to the global order, not merely a regional dispute. [2]
+- **Hormuz closure hits Taiwan like a developing country.** Kiel's simulation projects −2.31% welfare and +12.52% food prices, driven by LNG and food import dependence. [6]
+- **Three-theater Patriot coupling drains Taiwan's magazine.** Every interceptor spent in the Gulf or over Kyiv is one unavailable for Taiwan's defense — the Pacific is the true center of gravity. [7]
 
 # Analysis
 
 Taiwan's strategic challenge is multidimensional: external grey-zone pressure from China, internal political paralysis blocking defense investment, and an espionage threat that compromises military effectiveness. The European joint statement suggests that the [Taiwan standoff]({{ site.baseurl }}/conflicts/taiwan-standoff.html) is being absorbed into the broader framework of [great power competition]({{ site.baseurl }}/themes/great-power-competition.html), with implications for alliance structures far beyond the Indo-Pacific.
+
+## Hormuz Closure Welfare Exposure
+
+The Kiel Institute's KITE bottleneck simulation identifies Taiwan as one of the most exposed economies under a full Hormuz closure, with a projected −2.31% welfare loss and +12.52% food price increase in the short-run scenario — driven by Taiwan's very high liquefied natural gas import dependence and food import dependence. The figure conflicts with Taiwan's image as a US-aligned advanced economy, placing it alongside developing-country exposure profiles rather than advanced-economy ones [6].
+
+## Three-Theater Patriot Coupling
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) extends the "Two Wars, One Continuum" thesis to a three-theater problem: the finite US [Patriot]({{ site.baseurl }}/themes/defense-industrial-resilience.html) interceptor magazine must be husbanded across [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html), the Gulf, and the Indo-Pacific simultaneously. Every interceptor expended defending Gulf bases against Iranian ballistic missiles or over Kyiv is one unavailable for the defense of Taiwan and the first island chain — the Pacific being the true center of gravity. The DragonBear's structural calculation is to force this trade-off: auxiliary wars drain the magazine the decisive theater will require [7].
 
 ### Target of All-Domain Megacity Incapacitation Warfare
 
@@ -74,3 +84,7 @@ The authors recommend that Taiwan defend major media and communications faciliti
 [4] [Washington's Volatility and Taipei's Security](https://www.swp-berlin.org/publikation/washingtons-volatility-and-taipeis-security)
 
 [5] [Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare](https://warontherocks.com/total-war-on-taipei-china-explores-elevating-cognitive-effects-into-its-vision-of-warfare/)
+
+[6] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, and Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)
+
+[7] Velina Tchakarova, "A Real Bottleneck", 2026-08-05 — [https://substack.com/@velinatchakarova/p-209893924](https://substack.com/@velinatchakarova/p-209893924)
