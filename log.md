@@ -4,6 +4,12 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-08-13 — Refinement: Robert Pape (full pass)
+
+**Refined (1)**
+
+* **Refinement**: Full arc restructure of [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html). Regenerated all 25 body sections from 29 archived sources into 6 arcs + 2 standalone sections: (1) The Escalation Trap: From Foundational Theory to Exit Condition, (2) Iran's War Aims: From Survival to Hard Power, (3) Hormuz as Leverage: From Chokepoint to Institutionalized Control, (4) The Limits of Airpower: From Pickaxe Mountain to Civilian Punishment, (5) Regional Expansion: From Single Chokepoint to Three-Theater War, (6) The Economic Clock: Buffers, Bottlenecks, and the Wealth Transfer. Background regenerated as projection. 3 unsupported claims dropped (2 uncited paraphrases of leverage theory, 1 derived synthesis). Track Record, Sources in Bundle, and Citations preserved byte-identical.
+
 ## 2026-08-12 — Incorporation: Pape (Aug 11) + Hagens/Currie TGS 229
 
 **Creation (1)**
