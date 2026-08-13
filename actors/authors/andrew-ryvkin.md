@@ -12,7 +12,7 @@ timestamp: 2026-08-05T00:00:00Z
 
 Andrew Ryvkin is a journalist and analyst who writes for Air Mail and The Atlantic. A former Russian politics and media insider, he has lectured at Harvard and Yale. His work for [Geopolitical Futures (GPF)]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) examines the architecture of back-channel diplomacy between Russia and the West.
 
-His analysis draws on access to sources familiar with unofficial German-Russian negotiations, including the revival of the Petersburg Dialogue — a civil-society forum that previously served as a track-2 diplomatic channel. He argues that Russia's road back to normalization with the West runs through Berlin, where economic interests and political pragmatism create conditions for intermediary-led diplomacy even as official relations remain frozen.
+His analysis draws on access to sources familiar with unofficial German-Russian negotiations, including the revival of the Petersburg Dialogue — a civil-society forum that previously served as a track-2 diplomatic channel. He argues that Russia's road back to normalization with the West runs through Berlin, where economic interests and political pragmatism create conditions for intermediary-led diplomacy even as official relations remain frozen [1].
 
 # Track Record
 

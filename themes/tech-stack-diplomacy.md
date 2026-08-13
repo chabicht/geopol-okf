@@ -16,7 +16,7 @@ AI has emerged as a central arena of [great power competition]({{ site.baseurl }
 
 ## US Strategy: Export the Entire Tech Stack
 
-The White House's AI Action Plan (July 2025) has a core objective: "export the entire U.S. tech stack" to secure allies and establish global dependency on US technology ahead of competitors. Executive Order 14320 reinforces this, stating the need to ensure US AI technologies, standards, and governance models are adopted worldwide. The US defines an AI tech stack as encompassing AI-optimized hardware, data pipelines, AI models and systems, security measures, and AI applications. The Commerce Department has been instructed to establish an AI Exports Program.
+The White House's AI Action Plan (July 2025) has a core objective: "export the entire U.S. tech stack" to secure allies and establish global dependency on US technology ahead of competitors. Executive Order 14320 reinforces this, stating the need to ensure US AI technologies, standards, and governance models are adopted worldwide. The US defines an AI tech stack as encompassing AI-optimized hardware, data pipelines, AI models and systems, security measures, and AI applications. The Commerce Department has been instructed to establish an AI Exports Program [1].
 
 The strategy is built on the premise that exporting a robust stack would expand the US global AI footprint, guide standards, and lock nations into dependency on US models before China can combat it. The approach was informed by the first Trump administration's experience witnessing Huawei's global telecommunications expansion.
 
@@ -30,7 +30,7 @@ Chinese open-weight AI models are now used by as many as 80% of American AI star
 
 - **DeepSeek V3** removes restrictions on AI use for "justice, law enforcement, immigration or asylum processes" — aligning with Chinese authoritarian governance practices.
 - **Tencent** has inserted clauses prohibiting use that "violates or disrespects the social ethics and moral standards of other countries or regions" — language matching China's Deep Synthesis Regulation, which requires AI to adhere to "correct political direction, public opinion guidance, and value orientation."
-- Disputes would be litigated in Chinese courts under Chinese law, creating exposure to political manipulation.
+- Disputes would be litigated in Chinese courts under Chinese law, creating exposure to political manipulation [2].
 
 ## Critical Mineral Interdependency
 

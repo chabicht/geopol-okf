@@ -16,7 +16,7 @@ Japan is a key node in the US-led alliance architecture in the [Indo-Pacific]({{
 
 ## Tensions with Beijing
 
-Tensions with Beijing have intensified since PM Takaichi suggested that Tokyo's military could become involved if China moves against Taiwan. This statement represents a significant departure from Japan's traditionally more circumspect public posture on cross-strait contingencies, signaling a growing willingness to acknowledge the defense implications of a Taiwan conflict for Japanese security.
+Tensions with Beijing have intensified since PM Takaichi suggested that Tokyo's military could become involved if China moves against Taiwan. This statement represents a significant departure from Japan's traditionally more circumspect public posture on cross-strait contingencies, signaling a growing willingness to acknowledge the defense implications of a Taiwan conflict for Japanese security [1].
 
 ## Maritime Architecture
 

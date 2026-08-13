@@ -12,7 +12,7 @@ timestamp: 2026-08-05T00:00:00Z
 
 Norman T. Roule served 34 years in the CIA, where he managed Iran and Middle East programs, and later served as National Intelligence Manager for Iran at the Office of the Director of National Intelligence (ODNI). He is now a geopolitical and energy consultant and a contributor to [The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html).
 
-His expertise spans the architecture of Iranian sanctions, the dynamics of the Strait of Hormuz as a coercive lever, and Iranian cyber operations. In his Cipher Brief interview, he emphasizes the unseen costs of the Iran war — the downstream consequences of sanctions erosion, covert Iranian retaliation, and the long-tail risks to regional stability that extend well beyond the conventional battlefield.
+His expertise spans the architecture of Iranian sanctions, the dynamics of the Strait of Hormuz as a coercive lever, and Iranian cyber operations. In his Cipher Brief interview, he emphasizes the unseen costs of the Iran war — the downstream consequences of sanctions erosion, covert Iranian retaliation, and the long-tail risks to regional stability that extend well beyond the conventional battlefield [1].
 
 # Track Record
 

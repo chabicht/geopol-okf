@@ -14,7 +14,7 @@ Roman Abramovich is a Russian-born billionaire businessman who has served as an 
 
 # Current Situation
 
-Active as a back-channel intermediary in German-Russian negotiations. Meetings held since at least early 2024 in Baku and Abu Dhabi, formally about reviving the Petersburg Dialogue (founded by Schröder and Putin in 2001, terminated by Berlin in 2021). The Russian side includes Viktor Zubkov (former PM, Gazprom board chair), Valery Fadeyev (Human Rights Council head), and Alexey Gromyko (Institute of Europe, RAS) — who carry more political weight inside Russia than Kirill Dmitriev (Putin's envoy to Trump).
+Active as a back-channel intermediary in German-Russian negotiations. Meetings held since at least early 2024 in Baku and Abu Dhabi, formally about reviving the Petersburg Dialogue (founded by Schröder and Putin in 2001, terminated by Berlin in 2021). The Russian side includes Viktor Zubkov (former PM, Gazprom board chair), Valery Fadeyev (Human Rights Council head), and Alexey Gromyko (Institute of Europe, RAS) — who carry more political weight inside Russia than Kirill Dmitriev (Putin's envoy to Trump) [1].
 
 # Sources in Bundle
 

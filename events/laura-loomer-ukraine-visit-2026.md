@@ -13,7 +13,7 @@ source_url: https://phillipspobrien.substack.com/p/it-is-all-one
 
 # Background
 
-O'Brien frames [Laura Loomer]({{ site.baseurl }}/actors/laura-loomer.html)'s late-July 2026 trip to Ukraine not as a conversion to the Ukrainian cause but as a tactical pivot. The visit won her broadcast reach, prestige-driven coverage across pro-Ukraine media, and normalization that benefits the underlying Trumpist, racist, conspiracist project she continues to advance. Praise from pro-Ukraine voices is, on this reading, the mechanism by which her broader message reaches new audiences.
+O'Brien frames [Laura Loomer]({{ site.baseurl }}/actors/laura-loomer.html)'s late-July 2026 trip to Ukraine not as a conversion to the Ukrainian cause but as a tactical pivot. The visit won her broadcast reach, prestige-driven coverage across pro-Ukraine media, and normalization that benefits the underlying Trumpist, racist, conspiracist project she continues to advance. Praise from pro-Ukraine voices is, on this reading, the mechanism by which her broader message reaches new audiences [1].
 
 # The Visit
 

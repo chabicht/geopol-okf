@@ -12,7 +12,7 @@ timestamp: 2026-08-05T00:00:00Z
 
 Kamran Bokhari is Director of Analytical Development at New Lines Magazine and a fellow at the Jackson School of International Studies (University of Washington). He is a frequent contributor to [Geopolitical Futures (GPF)]({{ site.baseurl }}/actors/authors/geopolitical-futures.html), where his analysis centers on the structural drivers of Middle East security and the reconfiguration of regional alliances following the Iran war.
 
-His central thesis is that a new regional security architecture is emerging, built around a Turkey/Saudi Arabia/Pakistan/Egypt core with Qatar, the UAE, Jordan, and Azerbaijan in a supporting role — a framework that reorients the Middle East away from Iranian hegemony and toward a multi-polar coalition of Sunni-majority states.
+His central thesis is that a new regional security architecture is emerging, built around a Turkey/Saudi Arabia/Pakistan/Egypt core with Qatar, the UAE, Jordan, and Azerbaijan in a supporting role — a framework that reorients the Middle East away from Iranian hegemony and toward a multi-polar coalition of Sunni-majority states [1].
 
 # Track Record
 

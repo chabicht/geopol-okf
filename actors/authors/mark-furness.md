@@ -12,7 +12,7 @@ timestamp: 2026-08-05T00:00:00Z
 
 Mark Furness is a Senior Researcher at [IDOS]({{ site.baseurl }}/actors/organizations/idos.html), specializing in inter- and transnational cooperation, EU development policy, and the political economy of North Africa–Europe relations. He co-authored an [SWP]({{ site.baseurl }}/actors/authors/swp.html) MTA Spotlight on the Hormuz crisis's impact on North Africa.
 
-His work examines how EU development cooperation frameworks and North African partnership structures are being stress-tested by the Hormuz disruption — and how the crisis may catalyze deeper institutional ties between Europe and North African states around energy security, migration management, and economic stabilization.
+His work examines how EU development cooperation frameworks and North African partnership structures are being stress-tested by the Hormuz disruption — and how the crisis may catalyze deeper institutional ties between Europe and North African states around energy security, migration management, and economic stabilization [1].
 
 # Track Record
 

@@ -10,7 +10,7 @@ timestamp: 2026-08-05T00:00:00Z
 
 # Background
 
-Brigadier General Mykhailo Drapatyi was appointed Commander-in-Chief of Ukraine's Armed Forces in 2026, replacing [Oleksandr Syrsky]({{ site.baseurl }}/actors/oleksandr-syrsky.html). He is described as popular with both the armed forces and the general population. His appointment was part of [Zelensky]({{ site.baseurl }}/actors/zelensky.html)'s response to public pressure over the government reshuffle, though protests continued demanding the return of Defense Minister Fedorov as well. Link to [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html), [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html).
+Brigadier General Mykhailo Drapatyi was appointed Commander-in-Chief of Ukraine's Armed Forces in 2026, replacing [Oleksandr Syrsky]({{ site.baseurl }}/actors/oleksandr-syrsky.html). He is described as popular with both the armed forces and the general population. His appointment was part of [Zelensky]({{ site.baseurl }}/actors/zelensky.html)'s response to public pressure over the government reshuffle, though protests continued demanding the return of Defense Minister Fedorov as well. Link to [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html), [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) [1].
 
 # Current Situation
 

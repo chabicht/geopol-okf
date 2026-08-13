@@ -12,7 +12,7 @@ timestamp: 2026-08-05T00:00:00Z
 
 General James Slife (ret.) is a retired U.S. Air Force General and former USAF Vice Chief of Staff. He serves as a non-resident adviser at [CSIS]({{ site.baseurl }}/actors/authors/csis.html) and contributes analysis to [The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html).
 
-His assessment of the Iran war highlights strategic drift: despite tactical proficiency, the campaign lacks a coherent theory of how air power translates into political outcomes. He draws on his deep expertise in Hormuz geography and the operational limits of air campaigns in littoral environments, and raises concerns about service readiness under sustained high-tempo operations — the gap between what the force is structured for and what an open-ended commitment demands.
+His assessment of the Iran war highlights strategic drift: despite tactical proficiency, the campaign lacks a coherent theory of how air power translates into political outcomes. He draws on his deep expertise in Hormuz geography and the operational limits of air campaigns in littoral environments, and raises concerns about service readiness under sustained high-tempo operations — the gap between what the force is structured for and what an open-ended commitment demands [1].
 
 # Track Record
 

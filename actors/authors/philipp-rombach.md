@@ -12,7 +12,7 @@ timestamp: 2026-08-05T00:00:00Z
 
 Philipp Rombach is an Associate in the International Security Research Division at [SWP]({{ site.baseurl }}/actors/authors/swp.html), affiliated with the STAND project (Strategic Threat Analysis and Nuclear (Dis-)Order). His research focuses on nuclear arms control, CTBT verification, and the erosion of international testing norms.
 
-His analysis examines China's alleged secret nuclear tests, including a suspected June 2020 test at the Lop Nur site, and the seismic decoupling methodology by which such tests could evade detection. He situates this within the broader erosion of the global testing moratorium and great-power competition in the nuclear domain, and offers policy recommendations for Germany on strengthening verification architecture and responding to the normalization of nuclear ambiguity.
+His analysis examines China's alleged secret nuclear tests, including a suspected June 2020 test at the Lop Nur site, and the seismic decoupling methodology by which such tests could evade detection. He situates this within the broader erosion of the global testing moratorium and great-power competition in the nuclear domain, and offers policy recommendations for Germany on strengthening verification architecture and responding to the normalization of nuclear ambiguity [1].
 
 # Track Record
 

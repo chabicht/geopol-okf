@@ -24,7 +24,7 @@ France has been a direct target of Russian [cognitive warfare]({{ site.baseurl }
 
 ## Macron and the Ukraine War
 
-Macron has made claims about Trump's understanding of the [Ukraine war]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), suggesting ongoing diplomatic engagement and intelligence sharing between Paris and Washington — even as the transatlantic relationship shows signs of strain under the Trump administration.
+Macron has made claims about Trump's understanding of the [Ukraine war]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), suggesting ongoing diplomatic engagement and intelligence sharing between Paris and Washington — even as the transatlantic relationship shows signs of strain under the Trump administration [3].
 
 ## Bardella and the National Rally's Trump Dilemma
 

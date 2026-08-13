@@ -12,7 +12,7 @@ timestamp: 2026-08-05T00:00:00Z
 
 Dr. Seth G. Jones is President of the Defense and Security Department at [CSIS]({{ site.baseurl }}/actors/authors/csis.html). He is a leading analyst of the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), specializing in data-driven battlefield assessment using quantitative methodology — casualty data, rates of advance, and territorial gains — to produce reproducible estimates of war costs and trajectories.
 
-His CSIS report on Russian war costs argues that the financial and human toll of Putin's war is ballooning, and he advocates for secondary sanctions on Chinese banks facilitating shadow-fleet transactions as a means of increasing the cost of sustained Russian military operations. His methodology bridges the gap between open-source intelligence and policy-relevant defense analysis.
+His CSIS report on Russian war costs argues that the financial and human toll of Putin's war is ballooning, and he advocates for secondary sanctions on Chinese banks facilitating shadow-fleet transactions as a means of increasing the cost of sustained Russian military operations. His methodology bridges the gap between open-source intelligence and policy-relevant defense analysis [1].
 
 # Track Record
 

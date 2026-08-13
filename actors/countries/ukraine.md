@@ -10,7 +10,7 @@ timestamp: 2026-08-11T00:00:00Z
 
 # Background
 
-Ukraine has been at war with [Russia]({{ site.baseurl }}/actors/countries/russia.html) since 2022, developing into one of the most technologically consequential conflicts of the modern era. Under [Zelensky]({{ site.baseurl }}/actors/zelensky.html), Ukraine has evolved from a post-Soviet state with limited military capability into a formidable drone warfare innovator and long-range strike practitioner. The [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) remains the central strategic commitment defining Ukrainian identity, doctrine, and external relationships.
+Ukraine has been at war with [Russia]({{ site.baseurl }}/actors/countries/russia.html) since 2022, developing into one of the most technologically consequential conflicts of the modern era. Under [Zelensky]({{ site.baseurl }}/actors/zelensky.html), Ukraine has evolved from a post-Soviet state with limited military capability into a formidable drone warfare innovator and long-range strike practitioner. The [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) remains the central strategic commitment defining Ukrainian identity, doctrine, and external relationships [1].
 
 # Current Situation
 

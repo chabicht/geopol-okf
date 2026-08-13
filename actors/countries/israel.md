@@ -16,7 +16,7 @@ Israel is the dominant military power in the eastern [Middle East]({{ site.baseu
 
 ## Dissatisfaction with War Outcome
 
-Israel remains dissatisfied with the outcome of the Iran war. The ceasefire left [Iran]({{ site.baseurl }}/actors/countries/iran.html) with retained leverage and did not achieve the decisive degradation of Iranian capabilities that Israeli security doctrine demands. The gap between Israeli objectives and the war's results has created tensions with the [United States]({{ site.baseurl }}/actors/countries/united-states.html).
+Israel remains dissatisfied with the outcome of the Iran war. The ceasefire left [Iran]({{ site.baseurl }}/actors/countries/iran.html) with retained leverage and did not achieve the decisive degradation of Iranian capabilities that Israeli security doctrine demands. The gap between Israeli objectives and the war's results has created tensions with the [United States]({{ site.baseurl }}/actors/countries/united-states.html) [1].
 
 ## Turkey as Greatest Regional Challenge
 
@@ -34,13 +34,13 @@ Iran has demanded an immediate end to Israeli military operations in Lebanon as 
 
 ## Friction with the United States
 
-US-Israel tensions have surfaced publicly since the ceasefire. VP Vance rebuked Israeli cabinet members for attacking U.S. diplomacy, stating that Israel "might not be attacking the only powerful ally that I have anywhere left in the entire world." The friction reflects a fundamental divergence: Washington seeks a negotiated settlement that constrains Iran while stabilizing the region, whereas Israel remains skeptical that an ideologically driven regime can be durably moderated. Washington conducted ceasefire negotiations through Pakistani mediation without Israeli participation — despite Israel bearing much of the war's cost and risk [6].
+US-Israel tensions have surfaced publicly since the ceasefire. VP Vance rebuked Israeli cabinet members for attacking U.S. diplomacy, stating that Israel "might not be attacking the only powerful ally that I have anywhere left in the entire world." The friction reflects a fundamental divergence: Washington seeks a negotiated settlement that constrains Iran while stabilizing the region, whereas Israel remains skeptical that an ideologically driven regime can be durably moderated. Washington conducted ceasefire negotiations through Pakistani mediation without Israeli participation — despite Israel bearing much of the war's cost and risk [4][6].
 
 Israel has shifted operational focus toward Lebanon, where Hezbollah represents a more immediate and actionable threat. Unlike in Iran, where Israel relies on U.S. military power, Israel believes it can act more independently against Hezbollah. Israeli planners fear that any Iranian financial relief under a U.S.-Iran nuclear arrangement would be used to quickly rebuild Hezbollah — a fear reinforced by Tehran's calls for Washington to restrain Israeli operations in Lebanon [6].
 
 ## Capacity to Defy the US
 
-Israel can defy the United States and get away with it. This was demonstrated during the Iran war, where Israeli operational choices diverged from American preferences without producing meaningful consequences. The structural asymmetry — the US needs Israel as a regional partner more than Israel needs US approval for specific operations — gives Jerusalem freedom of action that Washington has limited ability to constrain.
+Israel can defy the United States and get away with it. This was demonstrated during the Iran war, where Israeli operational choices diverged from American preferences without producing meaningful consequences. The structural asymmetry — the US needs Israel as a regional partner more than Israel needs US approval for specific operations — gives Jerusalem freedom of action that Washington has limited ability to constrain [5].
 
 ## Long-Term Goal for Iran
 

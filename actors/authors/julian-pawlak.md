@@ -12,7 +12,7 @@ timestamp: 2026-08-05T00:00:00Z
 
 Julian Pawlak is a maritime security researcher at [SWP]({{ site.baseurl }}/actors/authors/swp.html). His work focuses on shadow fleet operations, Baltic and North Sea maritime enforcement, and the legal frameworks governing coastal-state interdiction of sanctions-evading shipping.
 
-His analysis estimates that roughly three shadow-fleet tankers transit the Baltic daily, with an interdiction rate of only about 2% — a gap that exposes the structural weakness of current enforcement. He identifies the law-of-the-sea constraints that limit coastal-state authority to board or seize vessels in international waters, and calls for a coordinated European approach to close the enforcement gap through multilateral maritime cooperation and port-state controls.
+His analysis estimates that roughly three shadow-fleet tankers transit the Baltic daily, with an interdiction rate of only about 2% — a gap that exposes the structural weakness of current enforcement. He identifies the law-of-the-sea constraints that limit coastal-state authority to board or seize vessels in international waters, and calls for a coordinated European approach to close the enforcement gap through multilateral maritime cooperation and port-state controls [1].
 
 # Track Record
 

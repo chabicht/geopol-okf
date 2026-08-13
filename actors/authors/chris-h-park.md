@@ -10,7 +10,7 @@ timestamp: 2026-08-05T00:00:00Z
 
 # Background
 
-Chris H. Park is a Research Associate in the Arleigh A. Burke Chair in Strategy program at [CSIS]({{ site.baseurl }}/actors/authors/csis.html). He co-authored the CSIS analysis of U.S. munitions shortages with [Mark F. Cancian]({{ site.baseurl }}/actors/authors/mark-f-cancian.html), contributing research on defense procurement dynamics, missile defense interceptor expenditures, and the industrial-base constraints affecting sustained munitions production.
+Chris H. Park is a Research Associate in the Arleigh A. Burke Chair in Strategy program at [CSIS]({{ site.baseurl }}/actors/authors/csis.html). He co-authored the CSIS analysis of U.S. munitions shortages with [Mark F. Cancian]({{ site.baseurl }}/actors/authors/mark-f-cancian.html), contributing research on defense procurement dynamics, missile defense interceptor expenditures, and the industrial-base constraints affecting sustained munitions production [1].
 
 # Track Record
 

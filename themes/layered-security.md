@@ -38,7 +38,7 @@ The shift from rigid alliance blocs to layered security is not a departure from 
 
 ### CSTO as Cautionary Tale
 
-The [CSTO]({{ site.baseurl }}/actors/countries/russia.html) illustrates the failure mode of rigid alliance frameworks when commitments are unsupported by legitimacy and capability. Its repeated failures to defend Armenia during conflicts with Azerbaijan (2016–2023), the refusal of member states to support Russia's position on Crimea, and Armenia's frozen membership demonstrate that collective defense agreements are only as credible as the power and willingness behind them. Russia's current revitalization effort — standardizing equipment, expanding deployment authorities, conducting crisis exercises — attempts to address these weaknesses, but the fundamental problem of divergent threat perceptions and distrust of Russian guarantees persists.
+The [CSTO]({{ site.baseurl }}/actors/countries/russia.html) illustrates the failure mode of rigid alliance frameworks when commitments are unsupported by legitimacy and capability. Its repeated failures to defend Armenia during conflicts with Azerbaijan (2016–2023), the refusal of member states to support Russia's position on Crimea, and Armenia's frozen membership demonstrate that collective defense agreements are only as credible as the power and willingness behind them. Russia's current revitalization effort — standardizing equipment, expanding deployment authorities, conducting crisis exercises — attempts to address these weaknesses, but the fundamental problem of divergent threat perceptions and distrust of Russian guarantees persists [2].
 
 ### Implications for Great Power Competition
 

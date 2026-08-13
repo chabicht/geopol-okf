@@ -13,7 +13,7 @@ source_url: https://www.welt.de/politik/ausland/article6a69d2061ff9bc89d8812c1e/
 
 # Background
 
-The September 20, 2026 Saxony-Anhalt state election carries national and alliance-level significance far beyond a regional vote. INSA polling places the AfD at 41% versus CDU at 24% — putting the AfD within reach of an absolute majority and sole control of a state government for the first time. The AfD is classified as "gesichert rechtsextrem" (confirmed right-extremist) by the Verfassungsschutz.
+The September 20, 2026 Saxony-Anhalt state election carries national and alliance-level significance far beyond a regional vote. INSA polling places the AfD at 41% versus CDU at 24% — putting the AfD within reach of an absolute majority and sole control of a state government for the first time. The AfD is classified as "gesichert rechtsextrem" (confirmed right-extremist) by the Verfassungsschutz [1].
 
 # Stakes
 

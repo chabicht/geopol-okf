@@ -13,7 +13,7 @@ source_url: https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-stri
 
 # Background
 
-The [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), begun late February 2026, had previously centered on the Strait of Hormuz and the Red Sea / Bab el-Mandeb chokepoints. The Damietta strike extends the threat to the Mediterranean — a previously unaffected theater. Damietta is an Egyptian port on the Mediterranean coast, north of the Suez Canal and close to the Sumed pipeline terminus at Sidi Kerir. Shipping companies have been routing around the Red Sea and the Persian Gulf since the war began; the possibility of a Mediterranean attack vector invites a further rerouting premium that the war has not previously imposed.
+The [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), begun late February 2026, had previously centered on the Strait of Hormuz and the Red Sea / Bab el-Mandeb chokepoints. The Damietta strike extends the threat to the Mediterranean — a previously unaffected theater. Damietta is an Egyptian port on the Mediterranean coast, north of the Suez Canal and close to the Sumed pipeline terminus at Sidi Kerir. Shipping companies have been routing around the Red Sea and the Persian Gulf since the war began; the possibility of a Mediterranean attack vector invites a further rerouting premium that the war has not previously imposed [1].
 
 # The Incident
 

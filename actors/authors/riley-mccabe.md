@@ -10,7 +10,7 @@ timestamp: 2026-08-05T00:00:00Z
 
 # Background
 
-Riley McCabe is an Associate Fellow in the Irregular Threats & Terrorism Program at [CSIS]({{ site.baseurl }}/actors/authors/csis.html). She co-authored the CSIS assessment of Russian war costs with [Seth G. Jones]({{ site.baseurl }}/actors/authors/seth-g-jones.html), contributing to the data-driven analysis of Russia-Ukraine battlefield dynamics, casualty estimates, and the financial sustainability of prolonged military operations.
+Riley McCabe is an Associate Fellow in the Irregular Threats & Terrorism Program at [CSIS]({{ site.baseurl }}/actors/authors/csis.html). She co-authored the CSIS assessment of Russian war costs with [Seth G. Jones]({{ site.baseurl }}/actors/authors/seth-g-jones.html), contributing to the data-driven analysis of Russia-Ukraine battlefield dynamics, casualty estimates, and the financial sustainability of prolonged military operations [1].
 
 # Track Record
 

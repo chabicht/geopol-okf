@@ -16,7 +16,7 @@ Qatar is one of the world's largest exporters of liquefied natural gas, with its
 
 ## Ras Laffan and Global Supply
 
-Ras Laffan Industrial City is responsible for approximately one-fifth of global seaborne LNG supply. This extraordinary concentration of production in a single complex creates a structural fragility in the global gas supply chain — a vulnerability that became manifest during the [Qatar LNG explosion]({{ site.baseurl }}/events/qatar-lng-explosion.html).
+Ras Laffan Industrial City is responsible for approximately one-fifth of global seaborne LNG supply. This extraordinary concentration of production in a single complex creates a structural fragility in the global gas supply chain — a vulnerability that became manifest during the [Qatar LNG explosion]({{ site.baseurl }}/events/qatar-lng-explosion.html) [1].
 
 ## Explosion and Structural Fragility
 

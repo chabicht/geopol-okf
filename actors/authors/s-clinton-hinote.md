@@ -12,7 +12,7 @@ timestamp: 2026-08-05T00:00:00Z
 
 Lieutenant General S. Clinton Hinote (ret.) is a retired U.S. Air Force officer who served as Deputy Chief of Staff for Strategy. He is affiliated with RAND and [CSIS]({{ site.baseurl }}/actors/authors/csis.html) and contributes analysis to [The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html).
 
-His core analytical contribution to the Iran war debate is the concept of "decapitation without paralysis" — the observation that U.S. and Israeli strikes have eliminated senior Iranian leadership and destroyed military assets, yet the regime remains functionally operational. He identifies a fundamental divergence in U.S.-Israeli theory of victory: tactical military objectives are being achieved, but there is no coherent framework for converting those tactical gains into strategic outcomes — a gap that leaves the campaign strategically adrift even as it succeeds operationally.
+His core analytical contribution to the Iran war debate is the concept of "decapitation without paralysis" — the observation that U.S. and Israeli strikes have eliminated senior Iranian leadership and destroyed military assets, yet the regime remains functionally operational. He identifies a fundamental divergence in U.S.-Israeli theory of victory: tactical military objectives are being achieved, but there is no coherent framework for converting those tactical gains into strategic outcomes — a gap that leaves the campaign strategically adrift even as it succeeds operationally [1].
 
 # Track Record
 

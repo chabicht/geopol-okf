@@ -12,7 +12,7 @@ timestamp: 2026-08-05T00:00:00Z
 
 Dr. Annabelle Houdret is a Senior Researcher at the [IDOS]({{ site.baseurl }}/actors/organizations/idos.html) (German Institute of Development and Sustainability), where she focuses on environmental governance, water resources, and the political economy of North African energy systems. She co-authored an [SWP]({{ site.baseurl }}/actors/authors/swp.html) MTA Spotlight examining how the Hormuz crisis is reshaping North Africa–Europe relations.
 
-Her analysis connects the Hormuz disruption to its second-order effects on North African energy and water systems — arguing that the crisis is simultaneously a shock and an opportunity for deepening energy and security cooperation between North Africa and Europe, as European energy diversification accelerates investment in North African renewable and gas infrastructure.
+Her analysis connects the Hormuz disruption to its second-order effects on North African energy and water systems — arguing that the crisis is simultaneously a shock and an opportunity for deepening energy and security cooperation between North Africa and Europe, as European energy diversification accelerates investment in North African renewable and gas infrastructure [1].
 
 # Track Record
 

@@ -33,7 +33,7 @@ Israel's move has solidified rival alignments in the Horn of Africa:
 
 ## Turkey's Role
 
-[Turkey]({{ site.baseurl }}/actors/countries/turkey.html) has emerged as Somalia's most important external patron, providing military training, arms, infrastructure investment, and diplomatic support — largely at the expense of the UAE, whose relationship with Somalia deteriorated over port concessions and a 2018 cash-seizure incident. Turkey built a large military training base in Mogadishu and signed major port and infrastructure deals in 2024, becoming Somalia's primary external security and economic partner. This reinforces the Israel-Turkey rivalry in the region.
+[Turkey]({{ site.baseurl }}/actors/countries/turkey.html) has emerged as Somalia's most important external patron, providing military training, arms, infrastructure investment, and diplomatic support — largely at the expense of the UAE, whose relationship with Somalia deteriorated over port concessions and a 2018 cash-seizure incident. Turkey built a large military training base in Mogadishu and signed major port and infrastructure deals in 2024, becoming Somalia's primary external security and economic partner. This reinforces the Israel-Turkey rivalry in the region [1].
 
 ## Great-Power Implications
 

@@ -12,7 +12,7 @@ timestamp: 2026-08-05T00:00:00Z
 
 Colonel Mark F. Cancian, USMC Reserve (ret.), is a Senior Adviser in the Defense and Security Department at [CSIS]({{ site.baseurl }}/actors/authors/csis.html). His research focuses on U.S. munitions inventories, defense industrial base capacity, and the structural factors driving munitions shortages.
 
-His CSIS report identifies a six-driver taxonomy for U.S. munitions shortages — spanning strategic, operational, industrial, and institutional factors — that collectively explain why the United States cannot quickly surge production of critical precision munitions. He introduces the concept of a "window of vulnerability": a period during which U.S. forces lack the inventory depth to sustain a high-intensity conflict, created by the convergence of peacetime procurement choices, industrial consolidation, and surging demand from multiple simultaneous theaters.
+His CSIS report identifies a six-driver taxonomy for U.S. munitions shortages — spanning strategic, operational, industrial, and institutional factors — that collectively explain why the United States cannot quickly surge production of critical precision munitions. He introduces the concept of a "window of vulnerability": a period during which U.S. forces lack the inventory depth to sustain a high-intensity conflict, created by the convergence of peacetime procurement choices, industrial consolidation, and surging demand from multiple simultaneous theaters [1].
 
 # Track Record
 

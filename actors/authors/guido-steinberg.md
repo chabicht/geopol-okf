@@ -12,7 +12,7 @@ timestamp: 2026-08-05T00:00:00Z
 
 Dr. Guido Steinberg is a Senior expert at [SWP]({{ site.baseurl }}/actors/authors/swp.html) specializing in Middle East politics and terrorism. His research covers Saudi nuclear ambitions, Iran's nuclear program, and the proliferation dynamics linking the two.
 
-His analysis of the U.S.-Saudi civilian nuclear agreement examines its provisions for domestic enrichment and weakened inspections — features that could lay the groundwork for a Saudi breakout capability. He advances a proliferation cascade thesis: if Iran and Saudi Arabia move toward nuclear weapons, three to five Middle Eastern states could become nuclear powers within a decade, fundamentally destabilizing the regional security order.
+His analysis of the U.S.-Saudi civilian nuclear agreement examines its provisions for domestic enrichment and weakened inspections — features that could lay the groundwork for a Saudi breakout capability. He advances a proliferation cascade thesis: if Iran and Saudi Arabia move toward nuclear weapons, three to five Middle Eastern states could become nuclear powers within a decade, fundamentally destabilizing the regional security order [1].
 
 # Track Record
 
