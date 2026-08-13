@@ -8,7 +8,7 @@ tags:
   - economics
   - supply-chain
 status: ongoing
-timestamp: 2026-08-11T00:00:00Z
+timestamp: 2026-08-12T00:00:00Z
 ---
 
 # Background
@@ -118,6 +118,12 @@ The simulation's price cascade runs from crude oil (+11.94%) through chemicals (
 
 The seasonal dimension is critical. March and April are peak demand months for the crop inputs that determine yields for the entire growing season. Fertilizer cannot simply arrive three months late; delayed application means reduced yields or failed planting altogether. This means that even a relatively brief Hormuz closure could disrupt an entire growing season, with food security consequences that persist long after the strait reopens. The brief concludes with a strong normative recommendation: strategic fertilizer reserves — analogous to strategic petroleum reserves — deserve serious consideration, and international institutions should develop contingency frameworks for rapid fertilizer and food aid deployment when major energy supply routes are disrupted [16].
 
+## Black Sea Grain Shuttering and the Whole-Basket Rationale
+
+[Jeff Currie]({{ site.baseurl }}/actors/authors/jeff-currie.html) adds quantitative specificity to the Black Sea grain crisis: [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) and [Russia]({{ site.baseurl }}/actors/countries/russia.html) together account for 20% of global grain, and the Odessa ports are now effectively shut in — potentially shuttering 10% of global grain supply. El Niño amplification compounds the crisis: Currie reports 46°C Mediterranean temperatures, with every climate forecaster confirming "this El Niño is serious." The convergence of Black Sea grain closure and El Niño-driven crop stress creates simultaneous supply and output shocks. The fertilizer shock for the next planting cycle adds a third layer. Currie's investment prescription — own the whole commodity basket, not just oil — reflects the structural logic that the crisis is simultaneously an energy story and an agricultural story [17].
+
+The USD strength dynamic that previously moderated food prices is also running its course. A strong dollar incentivized Latin American countries to grow acreage and export as much as possible — a buffer that has now been exhausted. The combination of shuttered Black Sea exports, El Niño amplification, fertilizer cascade, and the end of the USD-strength overproduction buffer points toward a multi-vector food crisis rather than a single-channel disruption [17].
+
 # Citations
 
 [1] [The Persian Polycrisis](https://thehonestsorcerer.substack.com/p/the-persian-polycrisis)
@@ -151,3 +157,5 @@ The seasonal dimension is critical. March and April are peak demand months for t
 [15] Annabelle Houdret and Mark Furness, "Between Shock and Opportunity: Hormuz and Deepening North Africa–Europe Relations", SWP, 2026-08-03 — [https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations](https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations)
 
 [16] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, and Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)
+
+[17] Nate Hagens, "Why Abundance Is an Illusion with Jeff Currie | TGS 229", 2026-07-29 — [https://www.youtube.com/watch?v=ij1_uxiXmm8](https://www.youtube.com/watch?v=ij1_uxiXmm8)

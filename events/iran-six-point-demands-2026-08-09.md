@@ -7,7 +7,7 @@ tags: [middle-east, military, ideology]
 status: ongoing
 actuality: actual
 event_date: 2026-08-09
-timestamp: 2026-08-11T00:00:00Z
+timestamp: 2026-08-12T00:00:00Z
 ---
 
 # Background
@@ -36,6 +36,12 @@ The demands connect to Pape's Stage Four of the [Escalation Theory Critique]({{ 
 
 A key analytical tension: punishment strategy — the assumption that inflicting costs will produce compliance — produces fight, not flight. Pape's *Bombing to Win* finding, generalized to the current context, holds that killing 4,000 Iranians makes them want to hurt the US, not surrender. The six-point demands are consistent with this: a punished Iran is not a compliant Iran, but an Iran that reads its survival as vindication and presses its advantage. [1]
 
+## August 11 Refinement: Victor's-Justice Terms and the Collision Course
+
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html)'s August 11 analysis restates the demands with precise dollar figures: approximately $300 billion in up-front payment for damages, over $100 billion in frozen Iranian assets returned, an end to Israel's occupation of Palestine, removal of US military forces from the Middle East, sanctions relief, and diplomatic recognition. The scale and simultaneity of these demands confirm Pape's characterization as "victor's-justice terms" — the posture of a state dictating conditions to a defeated adversary, not bargaining with one. The demands are consistent with the Survival→Ambition→Hard Power progression: Iran's survival through the US bombing campaign vindicated its strategic position, the six-point demands operationalized that vindication into ambition, and the subsequent [collision with Trump's own unilateral demands]({{ site.baseurl }}/events/hormuz-unilateral-demands-2026-08-11.html) converted ambition into a hard-power standoff where neither side can accept the other's terms [2].
+
 # Citations
 
 [1] Robert Pape, "Live with Prof Robert Pape: Assessing Pape/Currie Conversation 3 Weeks Later", 2026-08-09 — [https://escalationtrap.substack.com/p/live-with-prof-robert-pape-assessing](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-assessing)
+
+[2] Robert Pape, "Trump's Unilateral Demands, Iran Doubles Down on Hard Power — A Collision Course", 2026-08-11 — [https://escalationtrap.substack.com/p/trumps-unilateral-demands-iran-doubles](https://escalationtrap.substack.com/p/trumps-unilateral-demands-iran-doubles)

@@ -4,11 +4,24 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-08-12 — Incorporation: Pape (Aug 11) + Hagens/Currie TGS 229
+
+**Creation (1)**
+
+* **Creation**: New event concept for [Hormuz Unilateral Demands Collision]({{ site.baseurl }}/events/hormuz-unilateral-demands-2026-08-11.html).
+
+**Updates (17)**
+
+* **Update**: Incorporated Robert Pape (Aug 11) and Hagens-Currie TGS 229 (Jul 29) sources across [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html), [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), [Monetary System Transition]({{ site.baseurl }}/themes/monetary-system-transition.html), [Global System Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html), [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html), [Inflation and Monetary Policy]({{ site.baseurl }}/themes/inflation-and-monetary-policy.html), [Critical Minerals]({{ site.baseurl }}/themes/critical-minerals.html), [Food and Agriculture]({{ site.baseurl }}/themes/food-and-agriculture.html), [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html), [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html), [Civilizational Collapse]({{ site.baseurl }}/themes/civilizational-collapse-and-progress-traps.html), [Iran Security Resistance Belt]({{ site.baseurl }}/themes/iran-security-resistance-belt.html), and [Escalation Theory Critique]({{ site.baseurl }}/themes/escalation-theory-critique.html).
+* **Update**: Updated author concepts for [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html), [Jeff Currie]({{ site.baseurl }}/actors/authors/jeff-currie.html), and [Nate Hagens]({{ site.baseurl }}/actors/authors/nate-hagens.html).
+* **Update**: Updated event concepts for [SPR Depletion Crisis]({{ site.baseurl }}/events/spr-depletion-crisis.html), [Iran's Six-Point Demands]({{ site.baseurl }}/events/iran-six-point-demands-2026-08-09.html), and [Hormuz Legislation]({{ site.baseurl }}/events/hormuz-legislation-2026.html).
+* **Fix**: Renamed `actors/authors/jeff-curry.md` to `actors/authors/jeff-currie.md` to correct filename typo.
+
 ## 2026-08-11 — Incorporation: 11 Sources (Pape ×4, Tchakarova ×4, Cicero, KPB 206, KPB 213)
 
 **New concepts (13)**
 
-* **Creation**: Created 8 author concepts: [Jeff Currie]({{ site.baseurl }}/actors/authors/jeff-curry.html), [Julian Hinz]({{ site.baseurl }}/actors/authors/julian-hinz.html), [Hendrik Mahlkow]({{ site.baseurl }}/actors/authors/hendrik-mahlkow.html), [Robin Sogalla]({{ site.baseurl }}/actors/authors/robin-sogalla.html), [Gerald Willmann]({{ site.baseurl }}/actors/authors/gerald-willmann.html), [Sonali Chowdhry]({{ site.baseurl }}/actors/authors/sonali-chowdhry.html), [Katharina Erhardt]({{ site.baseurl }}/actors/authors/katharina-erhardt.html), [Ronald Wright]({{ site.baseurl }}/actors/authors/ronald-wright.html).
+* **Creation**: Created 8 author concepts: [Jeff Currie]({{ site.baseurl }}/actors/authors/jeff-currie.html), [Julian Hinz]({{ site.baseurl }}/actors/authors/julian-hinz.html), [Hendrik Mahlkow]({{ site.baseurl }}/actors/authors/hendrik-mahlkow.html), [Robin Sogalla]({{ site.baseurl }}/actors/authors/robin-sogalla.html), [Gerald Willmann]({{ site.baseurl }}/actors/authors/gerald-willmann.html), [Sonali Chowdhry]({{ site.baseurl }}/actors/authors/sonali-chowdhry.html), [Katharina Erhardt]({{ site.baseurl }}/actors/authors/katharina-erhardt.html), [Ronald Wright]({{ site.baseurl }}/actors/authors/ronald-wright.html).
 * **Creation**: Created 5 event concepts: [Iran-Oman Maritime Mechanism]({{ site.baseurl }}/events/iran-oman-maritime-mechanism-2026-08.html), [US-Japan Joint Yen Intervention]({{ site.baseurl }}/events/us-japan-joint-yen-intervention-2026-08-03.html), [Iranian Hormuz Transit-Fee Legislation]({{ site.baseurl }}/events/hormuz-legislation-2026.html), [Iran's Six-Point Demands]({{ site.baseurl }}/events/iran-six-point-demands-2026-08-09.html), [Mecca Joint Defense Agreement]({{ site.baseurl }}/events/mecca-joint-defense-agreement-2026.html).
 * **Creation**: Created 5 country concepts: [South Korea]({{ site.baseurl }}/actors/countries/south-korea.html), [Switzerland]({{ site.baseurl }}/actors/countries/switzerland.html), [Italy]({{ site.baseurl }}/actors/countries/italy.html), [Norway]({{ site.baseurl }}/actors/countries/norway.html), [Zambia]({{ site.baseurl }}/actors/countries/zambia.html).
 

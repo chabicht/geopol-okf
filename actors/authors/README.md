@@ -49,7 +49,7 @@ permalink: /actors/authors/
 * [Guido Steinberg](guido-steinberg.html) - SWP expert on Middle East politics and terrorism — expert on Saudi nuclear ambitions, Iran's nuclear program, and proliferation cascade dynamics in the Middle East
 * [Mark F. Cancian](mark-f-cancian.html) - Retired Marine Corps Colonel and CSIS senior adviser — expert on US munitions inventories, defense industrial base consolidation, and the six-driver framework for munitions shortages
 * [Chris H. Park](chris-h-park.html) - CSIS research associate co-authoring analysis of US munitions shortages, defense procurement, and missile defense interceptor expenditures
-* [Jeff Currie](jeff-curry.html) - Commodity and oil market analyst — crude-refining double bottleneck, energy-market reading of the US-Iran war
+* [Jeff Currie](jeff-currie.html) - Commodity and oil market analyst — crude-refining double bottleneck, energy-market reading of the US-Iran war
 * [Julian Hinz](julian-hinz.html) - Kiel Institute economist — KITE trade model developer, bottleneck extension and third-market decomposition methodology
 * [Hendrik Mahlkow](hendrik-mahlkow.html) - Kiel Institute co-author — KITE bottleneck extension, Hormuz closure economic damage simulation
 * [Robin Sogalla](robin-sogalla.html) - Kiel Institute co-author — KITE model implementation, Hormuz closure simulation

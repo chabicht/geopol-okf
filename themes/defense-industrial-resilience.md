@@ -11,7 +11,7 @@ tags:
   - supply-chain
   - economics
 status: ongoing
-timestamp: 2026-08-11T00:00:00Z
+timestamp: 2026-08-12T00:00:00Z
 ---
 
 # Background
@@ -179,6 +179,10 @@ Retired Air Force Gen. [James Slife]({{ site.baseurl }}/actors/authors/james-sli
 
 This extends the Ball/Crompton/Detter thesis that capacity is not the same as spending: a force that has been deployed at sustained high tempo may appear funded and equipped on paper while carrying hidden maintenance debt, personnel exhaustion, and deferred training — the same "hidden claim on future defense capacity" that deferred maintenance represents, now applied to the human and institutional dimension. The implication for industrial resilience is that the production and procurement of munitions and platforms is necessary but insufficient; the readiness cycle — generation, deployment, recovery, and re-generation — is itself a binding constraint on how quickly sustained combat operations can be repeated [23][8].
 
+## War Kit 1.0 vs War Kit 2.0: The Battery Gap
+
+[Jeff Currie]({{ site.baseurl }}/actors/authors/jeff-currie.html) frames the defense-industrial transition as a generational shift from War Kit 1.0 (oil-based, "artificial muscle") to War Kit 2.0 (AI-driven, drones and batteries). [Europe]({{ site.baseurl }}/regions/europe.html) is positioning around War Kit 2.0, planning to spend 5% of GDP on the new kit — a structural shift comparable to the post-Cold War rearmament but oriented toward autonomous systems rather than platforms. The critical gap is battery technology: Europe's ASML dominance in lithography gives it a powerful position in the AI supply chain, but without battery technology to power the renewable energy infrastructure that sustains War Kit 2.0, the European position remains incomplete. Fiber-optic drone navigation — learned by Ukraine on the battlefield, transferred to Russian operators, and now spreading to Iranian forces — eliminates the RF-signal dependency that electronic warfare exploits, making drone navigation harder to jam. The technology transfer pathway compresses the adaptation cycle across theaters [26]. See [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html).
+
 # Citations
 
 [1] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
@@ -230,3 +234,5 @@ This extends the Ball/Crompton/Detter thesis that capacity is not the same as sp
 [24] Velina Tchakarova, "A Real Bottleneck", 2026-08-05 — [https://substack.com/@velinatchakarova/p-209893924](https://substack.com/@velinatchakarova/p-209893924)
 
 [25] Sonali Chowdhry, Katharina Erhardt, and Julian Hinz, "Competing with China in Third Markets", 2026-06 — [https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/](https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/)
+
+[26] Nate Hagens, "Why Abundance Is an Illusion with Jeff Currie | TGS 229", 2026-07-29 — [https://www.youtube.com/watch?v=ij1_uxiXmm8](https://www.youtube.com/watch?v=ij1_uxiXmm8)

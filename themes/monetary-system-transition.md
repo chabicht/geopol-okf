@@ -8,7 +8,7 @@ tags:
   - trade
   - sanctions
 status: ongoing
-timestamp: 2026-08-11T00:00:00Z
+timestamp: 2026-08-12T00:00:00Z
 ---
 
 # Background
@@ -86,6 +86,12 @@ This connects to the broader dedollarization mechanism: each use of the dollar a
 
 The renminbi's structural ceiling is a quantitative limit on the DragonBear-monetary-bloc narrative. [China]({{ site.baseurl }}/actors/countries/china.html) has capital controls and little interest in reserve-currency responsibilities. [Russia]({{ site.baseurl }}/actors/countries/russia.html)'s de-dollarization is mostly forced reliance on Chinese banks — shifting asymmetry to another axis. The phenomenon describes a system that has not yet collapsed but has not yet stabilized — both regimes coexist, and the observation event that forces the collapse has not yet occurred. This is consistent with Tooze's framework: the current dollar regime (#5, the "profit dollar") depends on the attractiveness of US private assets, not official reserve accumulation. If that attractiveness fades, Dollar #5 could metamorphose again — but the successor would be another mutation of the dollar system, not a post-dollar regime. The Schrödinger Phenomenon and Tooze's five-metamorphoses framework are complementary: Tchakarova names the current condition (parallel-systems state), Tooze names the historical pattern (repeated metamorphosis rather than replacement) [8][6].
 
+## The Grand Bargain
+
+[Jeff Currie]({{ site.baseurl }}/actors/authors/jeff-currie.html) provides the cleanest articulation of the architecture underpinning US dollar primacy: the Bretton Woods 1945 deal in which the US protects global sea lanes in exchange for trade flowing through New York and dollar usage. When the US emerged from WWII with 95% of global industrial production, the arrangement made structural sense. Eighty years later, the US is still performing the same role with a much smaller share of global output — the Grand Bargain is structurally obsolete. Failure to reopen the [Strait of Hormuz]({{ site.baseurl }}/regions/middle-east.html) breaks the bargain: if the US cannot protect sea lanes and allies, capital begins pulling out of the United States. "That's gonna hit middle class America and change their lifestyles like they've never seen before." The breaking of the Grand Bargain connects the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) directly to the monetary-system transition — the Hormuz closure is not merely an energy event but a test of the security architecture that underwrites the dollar's exorbitant privilege [9].
+
+If the public loses confidence in the administration's ability to manage the crisis, hoarding behavior could set in. Currie predicts the next US response would be to ban exports of refined products — a second-order consequence of the Grand Bargain breaking down, as the US shifts from protecting global trade flows to hoarding domestic supply [9]. See [Global System Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html) and [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html).
+
 # Citations
 
 [1] [Operation Epic Folly(Fury) — Part 9: Gold, The UAE, Currency Swap Lines and the Petrodollar](https://endtropy.substack.com/p/operation-epic-follyfury-part-9-gold)
@@ -103,3 +109,5 @@ The renminbi's structural ceiling is a quantitative limit on the DragonBear-mone
 [7] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, and Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)
 
 [8] Velina Tchakarova, "The Yen Breaks First", 2026-08-07 — [https://substack.com/@velinatchakarova/p-210196165](https://substack.com/@velinatchakarova/p-210196165)
+
+[9] Nate Hagens, "Why Abundance Is an Illusion with Jeff Currie | TGS 229", 2026-07-29 — [https://www.youtube.com/watch?v=ij1_uxiXmm8](https://www.youtube.com/watch?v=ij1_uxiXmm8)

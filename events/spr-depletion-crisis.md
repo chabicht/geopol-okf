@@ -7,7 +7,7 @@ tags: [energy, economics]
 status: ongoing
 actuality: actual
 event_date: 2026-05-09
-timestamp: 2026-07-31T00:00:00Z
+timestamp: 2026-08-12T00:00:00Z
 ---
 
 # Background
@@ -52,6 +52,16 @@ Pape's forecast: world reserve drawdowns — including the SPR — will likely d
 
 The empirical question is what "falling by more than half" looks like in mid-to-late August. If the SPR drawdown rate decelerates from ~0.43 mbpd toward ~0.2 mbpd as the reserve approaches ~300 million barrels, if Chinese crude imports rise further from ~7.1 mbpd toward ~7.4 mbpd as the demand-destruction phase unwinds, and if Red Sea bypass capacity remains at the current 40% offline level, then the composite offset falls from ~16 mbpd in spring 2026 toward ~7–8 mbpd by end of August — covering approximately one-third rather than four-fifths of the Hormuz baseline. The arithmetic signals shortage rather than just disruption, because the residual ~12 mbpd gap cannot be closed without either substantial price increases, demand destruction outside China, or a kinetic reopening of one of the two corridors. Each of those remedies is itself costly and none is on track by mid-summer 2026 [8].
 
+## IEA Inventory Data and the Three-Buffer Compression (August 2026)
+
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html)'s August 11 analysis supplies the IEA's observed inventory data: global observed inventories fell by 368 million barrels from March to August 1, 2026, with OECD on-land stocks declining sharply over the same period. The drawdown is not decelerating evenly — it is compressing across all three buffers simultaneously. SPR releases are approaching the statutory floor, Chinese demand destruction is unwinding as Beijing's crude imports rise, and pipeline bypass capacity through the Red Sea remains kinetically constrained. The three buffers that collectively absorbed the Hormuz shock are narrowing in concert, meaning the composite offset of ~16 mbpd is falling faster than any single buffer's trajectory would suggest in isolation [9].
+
+## The Cavern Collapse Threshold and Hochstein's Floor
+
+[Jeff Currie]({{ site.baseurl }}/actors/authors/jeff-currie.html), in conversation with [Nate Hagens]({{ site.baseurl }}/actors/authors/nate-hagens.html), supplies the physical-limit analysis that converts the SPR depletion from a policy concern into an engineering crisis. Amos Hochstein's authoritative floor estimate places the operational minimum at approximately 300 million barrels — the level below which the reserve cannot be drawn down without compromising its basic function. Below that floor lies a harder physical limit: the SPR's salt-dome caverns begin to deform when too much oil is removed. The caverns are structurally dependent on the oil column's pressure; once approximately 70 million barrels remain in a given cavern, the salt walls begin to cave inward, permanently destroying the storage geometry. The cavern collapse is not a policy choice but a geological constraint — the salt domes physically cannot be emptied below a certain point without irreversible structural damage [10].
+
+The market consequence of crossing the cavern threshold is severe. If the caverns begin collapsing, refined product prices would experience what Currie terms a "moonshot" — a discontinuous price jump driven not by speculation but by the sudden, irreversible loss of physical storage capacity. Unlike a price spike that demand destruction can absorb, a cavern collapse removes storage capacity permanently; the reserve cannot be refilled because the geological structure is gone. The tail risk transforms the SPR depletion from a reversible policy variable into a potential one-way door: once the caverns cave in, the buffer is not depleted but destroyed [10].
+
 # Citations
 
 [1] [The Quiet Before the Squeeze — Why Hormuz Hasn't Sent Oil to $150](https://substack.com/@velinatchakarova/p-201366553)
@@ -69,3 +79,7 @@ The empirical question is what "falling by more than half" looks like in mid-to-
 [7] [July 16, 2026](https://heathercoxrichardson.substack.com/p/july-16-2026)
 
 [8] Robert Pape, "Why July Red Sea Front = August Energy Shock", 2026-07-28 — [https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy](https://escalationtrap.substack.com/p/why-july-red-sea-front-august-energy)
+
+[9] Robert Pape, "Trump's Unilateral Demands, Iran Doubles Down on Hard Power — A Collision Course", 2026-08-11 — [https://escalationtrap.substack.com/p/trumps-unilateral-demands-iran-doubles](https://escalationtrap.substack.com/p/trumps-unilateral-demands-iran-doubles)
+
+[10] Nate Hagens, "Why Abundance Is an Illusion with Jeff Currie | TGS 229", 2026-07-29 — [https://www.youtube.com/watch?v=ij1_uxiXmm8](https://www.youtube.com/watch?v=ij1_uxiXmm8)

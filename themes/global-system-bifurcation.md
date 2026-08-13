@@ -9,7 +9,7 @@ tags:
   - supply-chain
   - sanctions
 status: ongoing
-timestamp: 2026-08-11T00:00:00Z
+timestamp: 2026-08-12T00:00:00Z
 ---
 
 # Background
@@ -101,6 +101,14 @@ The cascade effects are regional. Abu Dhabi will likely seek the same conditions
 
 Fragmentation, however, can also mean decentralization — offering opportunities for local and regional climate policy that may be more accessible and inclusive. This could enable the inclusion of additional actors, increasing the legitimacy and acceptance of political measures. The UN General Assembly was identified as the multilateral platform where plurilateral coalitions and initiatives could converge to discuss progress and obstacles with all member states. The universal framework remains necessary even under fragmentation — the UN is still the appropriate venue for it [7]. See [Multilateral Climate Diplomacy]({{ site.baseurl }}/themes/multilateral-climate-diplomacy.html).
 
+## The World's Atoms and Molecules: Material Bifurcation
+
+[Jeff Currie]({{ site.baseurl }}/actors/authors/jeff-currie.html) frames the bifurcation through the lens of commodity production: of the three largest commodity producers, [China]({{ site.baseurl }}/actors/countries/china.html) has metals but no energy; [Russia]({{ site.baseurl }}/actors/countries/russia.html) has both metals and energy; the [United States]({{ site.baseurl }}/actors/countries/united-states.html) has energy but no metals. Two of the three largest commodity producers are Russia and China — the material basis of the bifurcated order. China controls the world's atoms (critical minerals processing), the world's molecules (chemical production), and, through the Taiwan Strait, the world's chips. The bifurcation is therefore not only a trade-flow or monetary phenomenon but a material one: the Western bloc's energy abundance cannot compensate for its metal deficit, while the Eastern bloc's metal surplus is coupled with energy from Russian flows [11].
+
+The BRICS vs G7 framing makes the political dimension explicit: "This is BRICS versus G7, even though the Europeans don't know they're involved." The BRICS reading is one of historical redress — "for the last 400 years, you guys have treated us like dirt." The bifurcation's political energy comes not from ideology but from status recalibration [11].
+
+[Nate Hagens]({{ site.baseurl }}/actors/authors/nate-hagens.html) contributes **Liebig's Law of the Limiter** as the constraint mechanism for bifurcated supply chains: when the global system splits into competing supply chains, the most-congested chokepoint becomes the binding constraint on commodity flow — just as plant growth is limited by the scarcest essential nutrient. With redundant supply chains, the bloc with the worst-performing chokepoint determines the effective capacity of the entire bloc's economy. The implication is that bifurcation does not produce two equal halves but two systems whose throughput is determined by their respective binding constraints [11].
+
 # Citations
 
 [1] [Global System Bifurcation](https://substack.com/@velinatchakarova/p-205754684)
@@ -122,3 +130,5 @@ Fragmentation, however, can also mean decentralization — offering opportunitie
 [9] Sonali Chowdhry, Katharina Erhardt, and Julian Hinz, "Competing with China in Third Markets", 2026-06 — [https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/](https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/)
 
 [10] Velina Tchakarova, "The Yen Breaks First", 2026-08-07 — [https://substack.com/@velinatchakarova/p-210196165](https://substack.com/@velinatchakarova/p-210196165)
+
+[11] Nate Hagens, "Why Abundance Is an Illusion with Jeff Currie | TGS 229", 2026-07-29 — [https://www.youtube.com/watch?v=ij1_uxiXmm8](https://www.youtube.com/watch?v=ij1_uxiXmm8)

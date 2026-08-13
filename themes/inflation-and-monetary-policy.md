@@ -9,7 +9,7 @@ tags:
   - trade
   - sanctions
 status: ongoing
-timestamp: 2026-08-11T00:00:00Z
+timestamp: 2026-08-12T00:00:00Z
 ---
 
 # Background
@@ -87,6 +87,20 @@ The [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html)'s KI
 
 The model's limitations are explicitly documented and analytically important: the simulation captures trade-channel effects only. It excludes speculative and financial market dynamics, hoarding behaviour, strategic reserve releases, and commodity futures pricing. Real-world oil prices reflect panic, speculation, and inventory dynamics on top of the structural supply shift — meaning the model results represent the **structural cost of rerouting supply chains, not the spot-price spike** observed in commodity markets. The long-run scenario (allowing full supply-chain adjustment) reduces losses to roughly one-third of short-run values: global oil +2.87%, energy +1.36%, food +0.73% — demonstrating that markets can partially but not fully compensate once supply chains have had time to redirect. This trade-channel-only lower bound is the quantitative anchor for the cost-push-vs-demand-pull debate: the structural cost is real and measurable even before speculative dynamics are layered on top [7].
 
+## Currie's Fiscal-Transfer Inflation Framework
+
+[Jeff Currie]({{ site.baseurl }}/actors/authors/jeff-currie.html) argues that inflation is driven by fiscal transfers to the bottom two income quintiles — households with zero credit who live paycheck to paycheck — not by monetary policy alone. When governments inject fiscal transfers (as with Biden's $2,000 checks), these households spend immediately on commodities and goods, producing demand spikes that ripple through commodity prices. Every fiat-currency inflation regime follows this pattern: Venezuela, Italy in the 1980s, Latin America in the 1980s, Brazil in the 2000s, and the US in 2022. The mechanism is disguised in standard macro analysis, which treats inflation as a monetary phenomenon; Currie reframes it as a fiscal-transfer-to-commodity-demand pipeline. The implication is that central-bank rate hikes cannot fix inflation driven by fiscal transfers to zero-credit households — the demand spike bypasses the interest-rate transmission mechanism entirely [8].
+
+## Europe Breaks First
+
+Currie argues that the next sovereign debt crisis will break in [Europe]({{ site.baseurl }}/regions/europe.html) before the [United States]({{ site.baseurl }}/actors/countries/united-states.html). France and Germany face huge import bills from natural gas and energy costs, and eventually cannot borrow more without losing creditworthiness. This thesis contrasts with the existing "Japan breaks first" view in the bundle — the question of which leveraged creditor's balance sheet cracks first remains contested. See [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) [8].
+
+## The Munificent Seven and AI Pricing Transition
+
+Currie coins "Munificent Seven" — "munificent means gifting lavishly" — for the hyperscaler technology companies whose valuations concentrate roughly 40% of the S&P. The concentration creates systemic risk: if these companies experience a drawdown comparable to oil's 2014 collapse, the S&P amplifies the instability. AI companies face a 2014-oil-style drawdown risk as the $800 billion annual buildout pushes commodity input costs higher. The real danger, however, is to sovereigns — not the companies themselves [8].
+
+Currie also predicts that the AI industry's current fixed-fee pricing model will collapse into usage-based pricing. Vendors currently offer flat-rate subscriptions to build addiction; once lock-in is achieved, costs will "explode" as the model shifts to pay-as-you-go, analogous to mobile phone pricing evolution. Observable: any major AI vendor shifting to usage-based pricing by mid-2027 [8].
+
 # Citations
 
 [1] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
@@ -102,3 +116,5 @@ The model's limitations are explicitly documented and analytically important: th
 [6] Velina Tchakarova, "The Yen Breaks First", 2026-08-07 — [https://substack.com/@velinatchakarova/p-210196165](https://substack.com/@velinatchakarova/p-210196165)
 
 [7] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, and Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)
+
+[8] Nate Hagens, "Why Abundance Is an Illusion with Jeff Currie | TGS 229", 2026-07-29 — [https://www.youtube.com/watch?v=ij1_uxiXmm8](https://www.youtube.com/watch?v=ij1_uxiXmm8)

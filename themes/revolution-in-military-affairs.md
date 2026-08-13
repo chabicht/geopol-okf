@@ -9,7 +9,7 @@ tags:
   - ai
   - drone-warfare
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-12T00:00:00Z
 ---
 
 # Background
@@ -78,6 +78,10 @@ The US military's institutional priorities invert this lesson. Secretary Hegseth
 
 The institutional restructuring needed to match the RMA's pace is beginning to emerge. The Cipher Brief cites the creation of the DRPM-UxS (Defense Representative for Program Management – Unmanned Systems, or similar office) with sweeping and disruptive authorities as an example of the organizational restructuring needed to continually remake the military rather than reform it incrementally. The premise is that incremental reform within existing program offices cannot match the pace of commercial drone iteration; only an entity with mandate to bypass legacy processes can keep the force aligned with a technology that reinvents itself on a weekly cadence [8].
 
+## Drones Beat Refuelers: The Cost-Exchange Inversion
+
+[Jeff Currie]({{ site.baseurl }}/actors/authors/jeff-currie.html) extends the cost-asymmetry thesis with a specific operational claim: the big refuelers, planes, and boats that sustain expeditionary operations are "just a sitting target for drones." The cost-exchange ratio is starkly illustrated by 400,000 drones versus a single B-1 bomber — the mass of cheap autonomous systems overwhelms the exquisite platform's defensive capacity. The implication is that petroleum-dependent platforms — aerial refuelers, carrier groups, logistics ships — are structurally vulnerable in a drone-saturated battlespace. Battery technology emerges as the substitute for big refuelers: distributed energy storage enables autonomous systems to operate without the vulnerable fuel-logistics chain that drones can target. The RMA thus connects to the defense-industrial resilience agenda through energy infrastructure: the side that field-deploys battery-powered autonomous systems gains both cost and survivability advantages over the side dependent on liquid-fuel logistics [10]. See [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
+
 # Citations
 
 [1] [Yes, We Are In A Revolution In Military Affairs](https://phillipspobrien.substack.com/p/yes-we-are-in-a-revolution-in-military-affairs)
@@ -97,3 +101,5 @@ The institutional restructuring needed to match the RMA's pace is beginning to e
 [8] [We've Seen Autonomous Warfare and We're in Trouble](https://www.thecipherbrief.com/weve-seen-autonomous-warfare-and-were-in-trouble)
 
 [9] Velina Tchakarova, "The Triumvirate of Happiness amid Two Wars, One Continuum", 2026-07-30 — [https://substack.com/@velinatchakarova/p-209080577](https://substack.com/@velinatchakarova/p-209080577)
+
+[10] Nate Hagens, "Why Abundance Is an Illusion with Jeff Currie | TGS 229", 2026-07-29 — [https://www.youtube.com/watch?v=ij1_uxiXmm8](https://www.youtube.com/watch?v=ij1_uxiXmm8)

@@ -9,7 +9,7 @@ tags:
   - trade
   - supply-chain
 status: ongoing
-timestamp: 2026-08-11T00:00:00Z
+timestamp: 2026-08-12T00:00:00Z
 ---
 
 # Background
@@ -39,6 +39,7 @@ The global energy landscape is defined by extreme asymmetries in consumption and
 - **Jenga tower dependency**: Energy technologies stack rather than replace — each new source builds on continued extraction of the previous, making the base the most critical vulnerability. [37]
 - **Diesel is the critical fuel**: Diesel runs agriculture, mining, transport, and military logistics. There is no electric substitute for heavy machinery, shipping, or aviation. A diesel shortage cascades through the entire physical economy faster than a crude oil shortage [2].
 - **Chokepoint closure is an energy+chemicals+food shock.** Gulf export share of hydrocarbon derivatives rose from negligible to ~73% over three decades — the chokepoint transmits through fertilizer, steel, and semiconductor inputs, not just crude oil. [39]
+- **Buffer exhaustion is also a clock.** The rate of buffer decline matters as much as the stock level — as SPR, Chinese demand, and bypass buffers all narrow simultaneously, every day of continued Hormuz constraint raises Iran's leverage and the economic cost of disruption. [40]
 
 # Analysis
 
@@ -148,6 +149,28 @@ The [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html)'s KI
 
 The fertilizer pipeline mechanism runs through [Qatar]({{ site.baseurl }}/actors/countries/qatar.html) and Iran's cheap natural gas feeding the Haber-Bosch ammonia/urea process. Qatar's Ras Laffan industrial complex — the world's largest integrated petrochemical site — produces ethylene, ethylene glycol, and a range of downstream products. Qatar LNG processing yields neon essential for excimer lasers in semiconductor fabs. The chokepoint thus transmits through semiconductor supply chains (neon), construction (steel structures, aluminium), agriculture (urea fertilizer), and petrochemicals simultaneously. The KITE model's bottleneck extension captures this asymmetric cost transmission: when critical inputs become more expensive, a one-sided penalty applies — there is no symmetric windfall when they become cheaper. Standard trade models that assume Cobb-Douglas symmetry systematically underestimate the welfare cost of chokepoint closures because they miss the cascade from energy → chemicals/fertilizers → food [39].
 
+## The Abundance Illusion
+
+[Jeff Currie]({{ site.baseurl }}/actors/authors/jeff-currie.html) articulates a foundational framework for Western energy policy: since the 1970s, the strategy has been to suppress scarcity signals through strategic reserve drawdowns and market interventions rather than admitting scarcity and mobilizing investment. Carter's February 1977 "sweater speech" and April 1977 "energy transition" speech — in which he coined the term and called for non-fossil-fuel investment for security reasons — were the founding events. Carter "got killed" for admitting scarcity. Every president from George H. W. Bush onward learned the lesson: never admit scarcity. Bush Sr.'s 1991 Gulf War was the first abundance-illusion presidency; Clinton, Bush Jr., Obama, Biden, and Trump all followed the same playbook. [China]({{ site.baseurl }}/actors/countries/china.html), by contrast, heeded Carter's energy-transition advice — investing in nuclear, solar, wind, batteries, and lithium for energy security, not environmental reasons. The West pursued the abundance illusion while China built the alternative [41].
+
+## The Physical Capital Paradox
+
+Commodities are the best-performing asset class of the decade — up over 200%, outpacing crypto at 157% — yet remain dramatically under-owned at roughly 3% of S&P weight. The paradox has a structural mechanism: at 3% S&P weight, energy doubling yields only a 6% portfolio return, while technology at ~40% of the S&P needs only a 12% rise to match. Dodd-Frank destroyed back-end curve liquidity by eliminating the proprietary risk-taking that once provided depth to commodity futures markets. Without that liquidity, the price signals that would normally trigger investment in physical capital are suppressed, ensuring under-investment persists. Currie describes the result as "huge potholes ahead" — the market has lost the ability to smooth supply disruptions [41].
+
+The 3-2-1 crack spread — weighting gasoline at three, diesel at two, crude at one — reached $60 per barrel in mid-2026, a three-decade high. Diesel products are up 81% year-to-date against a 34% broader index gain. The effective consumer price of oil is the refined-product price: diesel at $160 per barrel effective against ~$100 Brent. "Crude is the noise; products are the signal" [41].
+
+## Scarcity-Debasement Rotation and the Decade Ahead
+
+Currie frames the next decade as a rotation between scarcity and currency debasement thematics — gold as the headline on debasement, oil and copper as the headline on scarcity, agricultural commodities like corn and soybeans as proxies. The rotation is structural, not cyclical. Both oil and copper are running on investment from the previous cycle; Goldman Sachs' latest survey of major projects was the first ever without any new major additions. The $800 billion annual AI buildout channels more than 50% of its spending directly into commodities — the biggest commodity demand shock in history — while investment in commodity supply remains suppressed. Currie's trajectory marker: "we're only in the foothills of the Himalayas at this point" [41].
+
+State capitalism is the necessary mechanism for 27-year-duration energy infrastructure projects, Currie argues. Investors do not have the tolerance for duration that energy infrastructure requires; the cash flows are too long-term relative to short-term-yielding alternatives. China's speed in building energy infrastructure stems from state-directed investment that bypasses the duration mismatch. WWII's auto-plant-to-weapons-plant conversion is the historical exemplar of state-led mobilization at the required scale [41].
+
+If the crisis intensifies to the point where the public loses confidence in the administration's control, hoarding behavior could set in. The next US response, Currie predicts, would be to ban exports of refined products — a second-order consequence of breaking the [Grand Bargain]({{ site.baseurl }}/themes/monetary-system-transition.html) [41].
+
+## IEA Buffer Exhaustion Update
+
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) reports that the IEA documented global observed inventories falling by 368 million barrels from March to August 1, 2026. The three buffers — SPR releases, Chinese demand destruction, and pipeline bypass — are finite measures, not structural substitutes for normal supply. Each is narrowing simultaneously: SPR releases decelerate as the reserve approaches the statutory floor, Chinese demand destruction reverses as refiners accelerate purchases, and the bypass buffer compresses under Houthi pressure on [Red Sea]({{ site.baseurl }}/regions/red-sea.html) shipping. Time is not neutral: as the buffers shrink, the economic cost of continued disruption rises, and so does Iran's leverage. See [SPR Depletion Crisis]({{ site.baseurl }}/events/spr-depletion-crisis.html) [40].
+
 # Citations
 
 [1] [The Myth of American Energy Independence](https://thehonestsorcerer.substack.com/p/the-myth-of-american-energy-independence)
@@ -227,3 +250,7 @@ The fertilizer pipeline mechanism runs through [Qatar]({{ site.baseurl }}/actors
 [38] Velina Tchakarova, "Global Energy System according to Russia", 2026-08-10 — [https://substack.com/@velinatchakarova/p-210582012](https://substack.com/@velinatchakarova/p-210582012)
 
 [39] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, and Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)
+
+[40] Robert Pape, "Trump's Unilateral Demands, Iran Doubles Down on Hard Power — A Collision Course", 2026-08-11 — [https://escalationtrap.substack.com/p/trumps-unilateral-demands-iran-doubles](https://escalationtrap.substack.com/p/trumps-unilateral-demands-iran-doubles)
+
+[41] Nate Hagens, "Why Abundance Is an Illusion with Jeff Currie | TGS 229", 2026-07-29 — [https://www.youtube.com/watch?v=ij1_uxiXmm8](https://www.youtube.com/watch?v=ij1_uxiXmm8)

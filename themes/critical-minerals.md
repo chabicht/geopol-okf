@@ -10,7 +10,7 @@ tags:
   - technology
   - energy
 status: ongoing
-timestamp: 2026-08-11T00:00:00Z
+timestamp: 2026-08-12T00:00:00Z
 ---
 
 # Background
@@ -107,6 +107,18 @@ Yet a sober reality check tempers this strategic logic. Building competitive pro
 
 [The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) documents the quantitative trajectory of copper depletion: McKinsey states that "the trend of declining copper head grades is well established and unlikely to be reversed," and BHP found that the average grade of copper ore has declined by 40% since 1991. As high-grade ores are exhausted, counteracting depletion requires increasingly energy-intensive and complex extraction methods — more rock must be processed to yield the same metal, raising the energy cost of production at every increment. This links mineral depletion directly to EROI decline: the energy return on investment for mining falls as ore grades fall, meaning more of society's net energy must be allocated to extracting the minerals that the energy transition itself requires. The thermodynamic trap is that technological complexity needed to counteract depletion — more sophisticated processing, longer supply chains, exotic materials — demands more energy, not less, at exactly the moment when energy surpluses are contracting [15]. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) and [Civilizational Collapse and Progress Traps]({{ site.baseurl }}/themes/civilizational-collapse-and-progress-traps.html).
 
+## Environmental Outsourcing and the Origins of China's Processing Dominance
+
+[Jeff Currie]({{ site.baseurl }}/actors/authors/jeff-currie.html) traces China's dominance in critical mineral processing to a deliberate environmental outsourcing dynamic. Western nations outsourced the toxic, polluting work of mineral processing to China during the 1970s–2000s sustainability era — not changing their consumption behavior but displacing the environmental cost. Even Soviet interlocutors acknowledged the pattern: "even the Soviet Union didn't want this stuff in their backyard 'cause it's polluting, it's toxic, it's terrible. Let the Chinese do it." The West bought processed minerals from China while China bore the environmental devastation. The result is a structural dependency that cannot be reversed quickly: the processing infrastructure, accumulated expertise, and tolerance for environmental cost are all concentrated in China [17].
+
+## ASML as the Dominant AI Moat
+
+Currie identifies ASML — the European lithography equipment manufacturer — as the company with "the dominant, most biggest moat and powerful company" in the AI supply chain. The European position in the AI race is stronger than commonly assumed: if Europe can couple its ASML dominance with battery technology to power renewable energy infrastructure, it enters "a different ballgame." The implication is that the AI competition is not purely a US-China bilateral but a three-way contest in which Europe controls a critical chokepoint [17].
+
+## The $800 Billion AI Buildout as Commodity Demand Shock
+
+The $800 billion annual AI infrastructure buildout channels more than 50% of its spending directly into commodities — the biggest commodity demand shock in history — while investment in commodity supply remains suppressed. Copper, in particular, absorbs a disproportionate share: "the more you do, the more expensive it becomes." The AI buildout is simultaneously a commodity story and an energy story, as data centers compete with agriculture and industry for energy throughput. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) [17].
+
 # Citations
 
 [1] [https://geopoliticalfutures.com/what-investments-say-about-central-asia/](https://geopoliticalfutures.com/what-investments-say-about-central-asia/)
@@ -140,3 +152,5 @@ Yet a sober reality check tempers this strategic logic. Building competitive pro
 [15] The Honest Sorcerer, "Civilizations Fall When This Mechanism Activates", 2026-08-07 — [https://thehonestsorcerer.substack.com/p/civilizations-fall-when-this-mechanism](https://thehonestsorcerer.substack.com/p/civilizations-fall-when-this-mechanism)
 
 [16] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, and Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)
+
+[17] Nate Hagens, "Why Abundance Is an Illusion with Jeff Currie | TGS 229", 2026-07-29 — [https://www.youtube.com/watch?v=ij1_uxiXmm8](https://www.youtube.com/watch?v=ij1_uxiXmm8)
