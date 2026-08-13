@@ -4,6 +4,15 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-08-13 — Refinement: US-Iran War 2026 (full pass, recovered)
+
+**Refined (1)**
+
+* **Refinement**: Full arc restructure of [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html). Regenerated 29 source-organized sections into 11 arcs from 393 inventoried claims and 93 archived sources: strategic-diagnosis, energy-war, diplomatic-realignment, escalation-trap, military-operations, horizontal-escalation, domestic-legitimacy, technology-systemic, great-power-coupling, post-war-posture, saudi-nuclear-deal. Background, Pre-War Context and Current Situation regenerated as projections. `## Contested:` block preserved byte-identical. 67 claims (17%) rendered at the source's strength after `weaker_in_source` reconciliation. 3 claims dropped: 1 `absent`, 1 `mis_resolved`, 1 `derived`.
+* **Recovery**: The arc prose was written on 2026-08-13 but destroyed before assembly by a write-scope revert in a concurrent refinement run; reassembled here from the preserved writer outputs. The original assembly also emitted three `# Citations` blocks, which this one does not.
+* **Correction**: Citations `[1]` and `[90]` appeared only in projection sections (`## Pre-War Context`, `# Current Situation`), which carry no inventoried claims, so no reader was assigned and their content would have been deleted on regeneration. Both were grounded against their archived sources and their claims placed in the arcs that own them — [Kamran Bokhari]({{ site.baseurl }}/actors/authors/kamran-bokhari.html)'s pre-war "hard landing" assessment into strategic-diagnosis, [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html)'s August diagnostic into diplomatic-realignment. Grounding `[90]` also corrected a pre-existing error: the file had ten countries *issuing* security alerts, where the source has the US *dispatching* alerts to ten countries.
+* **Citations unlinked for cause**: `[20]` and `[77]` no longer carry body references. Both were removed from claims by reconciliation because the cited source does not support the claim — `[77]` is a Ukraine-focused article that had been cited for Iran content, supported solely by `[76]`. The bibliography entries are retained: removing them would break citation contiguity, and renumbering would rewrite citations in sections this pass never opened. The resulting `orphan_citation` warning is expected and justified, not a defect.
+
 ## 2026-08-13 — Refinement: Robert Pape (full pass)
 
 **Refined (1)**
