@@ -4,6 +4,32 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-08-16 — Incorporation: Coordinator Wave (RUSI ×2, GeoEcon Aug 2026, O'Brien ×4, Pape ×1, Honest Sorcerer ×1, ctindale ×2, CSIS ×2, Kiel ×2, SWP ×2)
+
+**Updates (21)**
+
+* **Update**: [Russia]({{ site.baseurl }}/actors/countries/russia.html) — added RUSI Putin Longevity framework (ESS/EFR/TI scoring), O'Brien WU198 alliance asymmetry, GeoEcon fuel shortage update; 3 new Key Dynamics; 3 new citations [41]–[43].
+* **Update**: [United Kingdom]({{ site.baseurl }}/actors/countries/united-kingdom.html) — added RUSI Paradiplomacy framework (reserved powers, Scotland/Wales/NI/English regions paradiplomacy); 1 new Key Dynamics bullet; 1 new citation [6].
+* **Update**: [Morocco]({{ site.baseurl }}/actors/countries/morocco.html) — major expansion from GeoEcon August 2026 profile: Western Sahara dispute, EU/China trade, ports (Tanger Med, Nador West Med, Dakhla, Jorf Lasfar), OCP phosphate dominance, Atlantic Initiative, renewables, Nigeria-Morocco pipeline, automotive, OCP duties suspension, GenZ212 protests; 8 new Key Dynamics; 1 new citation [2].
+* **Update**: [Japan]({{ site.baseurl }}/actors/countries/japan.html) — added GeoEcon yen/Takaichi investment plan detail and O'Brien fiscal constraint on US Treasury sales; 1 new Key Dynamics bullet; 2 new citations [8]–[9].
+* **Update**: [South Korea]({{ site.baseurl }}/actors/countries/south-korea.html) — added GeoEcon housing crisis section (Seoul apartment prices, 70% household assets in real estate, Japan comparison, housing as leading indicator); 2 new Key Dynamics; 1 new citation [2].
+* **Update**: [Canada]({{ site.baseurl }}/actors/countries/canada.html) — added GeoEcon USMCA non-renewal and diversification (Saudi/Ecuador/Turkey/China/Asian defense, west-to-east pipeline); 1 new Key Dynamics bullet; 1 new citation [6].
+* **Update**: [Mexico]({{ site.baseurl }}/actors/countries/mexico.html) — added GeoEcon USMCA separate negotiations, automotive rules of origin, Section 232 alignment pressure, Queretaro data center hub; 2 new Key Dynamics; 1 new citation [3].
+* **Update**: [Escalation Theory Critique]({{ site.baseurl }}/themes/escalation-theory-critique.html) — added Pape "Iran's Endgame" escalation trap double bind and three-year time-as-weapon projection; 1 new Key Dynamics bullet; 1 new citation [17].
+* **Update**: [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) — added O'Brien AI oversold analysis and replenishment fallacy (China 70-80% drone manufacturing, 20× US exports); 2 new Key Dynamics; 2 new citations [21]–[22].
+* **Update**: [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) — added O'Brien complete-rebuild thesis (not Rome 409AD, cultural/institutional damage, autonomous war over-hyped); 2 new Key Dynamics; 2 new citations [11]–[12].
+* **Update**: [Phillips P. O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) — added 7 new sources [27]–[33]; 3 new framework subsections (US military degradation, Patriot leverage as con, fiscal constraints).
+* **Update**: [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) — added 3 new sources [33]–[35]; noted GSR Wave Three verification milestone.
+* **Update**: [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) — added 1 new source [29] ("Iran's Endgame: Wait Out Trump"); noted "wait-out-Trump" doctrine.
+* **Update**: [The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) — added 1 new source [37] ("Coal: The Next Chokepoint"); noted coal-as-chokepoint thesis.
+* **Update**: [ctindale]({{ site.baseurl }}/actors/authors/ctindale.html) — added 2 new sources [6]–[7] ("Five Contracts, One River", "The Copper Residual"); noted Rhine/copper/acid analysis.
+* **Update**: [CSIS]({{ site.baseurl }}/actors/authors/csis.html) — added 2 new sources [9]–[10] (interceptor inventories, water-sector cyberattacks).
+* **Update**: [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html) — added 2 new sources [5]–[6] (German defence budget 2027, Ukraine Support Tracker).
+* **Update**: [RUSI]({{ site.baseurl }}/actors/authors/rusi.html) — added 6 new sources [14]–[19] (Putin Longevity, Paradiplomacy, Age of Optionality, cybercrime, Lebanon, instrumentalised migration); noted breadth of topics.
+* **Update**: [SWP]({{ site.baseurl }}/actors/authors/swp.html) — added 2 new sources [16]–[17] (Hormuz legal analysis, migration routes update); noted Hormuz legal analysis.
+* **Update**: [Countries index]({{ site.baseurl }}/actors/countries/) — added Syria to country listing.
+* **Update**: [Events index]({{ site.baseurl }}/events/) — Rhine Low Water Crisis 2026 already present via Jekyll templating.
+
 ## 2026-08-13 — Refinement: US-Iran War 2026 (full pass, recovered)
 
 **Refined (1)**

@@ -64,3 +64,4 @@ permalink: /actors/countries/
 * [Morocco](morocco.html) - North African monarchy leveraging Tanger Med port, phosphate reserves, and Chinese-partnered battery factories as a geostrategic hub between Europe, Africa, and the Middle East
 * [Algeria](algeria.html) - North African energy exporter and EU's second-largest gas supplier (17.4% of imports), leveraging pipeline infrastructure (Transmed, Medgaz) and potential shale gas reserves as a geostrategic anchor
 * [Libya](libya.html) - Fragmented North African oil state where rival political factions (GNU west, LNA east) finance their operations through oil revenues, vulnerable to Hormuz crisis spillovers
+* [Syria](syria.html) - Post-Assad state navigating territorial fragmentation, foreign military presence, and reconstruction amid competing regional power interests

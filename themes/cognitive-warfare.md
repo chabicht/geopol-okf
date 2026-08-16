@@ -9,7 +9,7 @@ tags:
   - cyber
   - ai
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Background
@@ -35,6 +35,12 @@ Leaked documents from Delfi Estonia, shared with OCCRP, reveal the scope and met
 - **Iranian cyber operations on US infrastructure**: Iran's cyber activity has continued "unabated" since the US-Iran War began, including probable attacks on Minnesota water-infrastructure SCADA systems — a longstanding pattern of Iranian targeting of US national infrastructure [11].
 - **Cognitive advantage as subset of gray zone**: The NSC Director for Cognitive Advantage covers one pillar; cyber ops, covert action, paramilitary enlistment, economic pressure, and deception/denial are other pillars requiring coordinated integration [12].
 - **Russian exploitation of wartime governance tensions**: Tensions in Ukrainian politics will inevitably be exaggerated by Russian actors and used against Kyiv — a live example of cognitive warfare exploiting wartime governance disputes [13].
+- **Disposable agents for sabotage and social-tension operations.** Russia recruits "disposable agents" via Telegram for surveillance, arson, and vandalism. Attacks on Jewish sites, mosques, and minority communities are designed to aggravate existing social tensions and provoke suspicion, retaliation, and political polarisation. [14]
+- **Cumulative coercion below the threshold of war.** The strategic value lies in accumulation: repeated incidents across multiple countries consume investigative resources and create uncertainty. Russia imposes disproportionate costs without crossing an obvious military red line. [14]
+- **UK cybercrime growing 3x faster than law enforcement capacity.** The gap between the scale of organised cybercrime and resources to combat it is stark, with a distinct possibility of a future Category 1 cyber incident with sustained impact on UK societal services. [15]
+- **Iran's cognitive effect as primary objective.** Iran's cyber operations target water, energy, transport, and local government sectors not for physical destruction but for psychological effect — sowing fear, chaos, and division as part of its information warfare strategy. [16]
+- **CyberAv3ngers/IRGC multi-sector targeting.** Iran's opportunistic disruption exploits weak cyber defenses across multiple US critical infrastructure sectors, with randomness of targeting designed to sow insecurity and panic. [16]
+- **Trump's political calculation in attribution.** Quick blame of Democratic officials for the Minnesota water attacks may have reflected a deliberate calculation to minimise conjecture and quash escalation framing, preserving diplomatic space with Iran. [16]
 
 # Analysis
 
@@ -118,6 +124,30 @@ This disambiguation matters for cognitive warfare as a concept: it prevents over
 
 The mechanism is familiar from the broader cognitive-warfare pattern: internal political divisions are amplified by adversary information operations to degrade allied confidence in Ukrainian governance and to fracture the civil-society cohesion that has sustained the war effort. Stewart notes that the tension between necessary democratic debate and the danger of instability is itself a contested space — and contested spaces are where cognitive warfare operates most effectively. The case illustrates that cognitive warfare does not require adversary fabrication; it requires only that genuine internal tensions exist, which adversary actors can then exaggerate and weaponize [13]. See [Russia]({{ site.baseurl }}/actors/countries/russia.html) and [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html).
 
+## Disposable Agents: Cognitive Coercion Below the Threshold
+
+RUSI documents how Russia's "disposable agents" campaign extends cognitive warfare into the physical domain through sabotage and social-tension operations. Recruits — criminal associates, migrants, Russian-speaking European residents, people facing financial difficulties, or individuals responding to paid-work offers on Telegram — are tasked with photographing military facilities, following individuals, vandalising monuments, damaging railway infrastructure, setting fire to warehouses, or attacking businesses connected to Ukraine. Payment is frequently made in cryptocurrency. Operations are compartmentalised: one individual conducts surveillance, another acquires materials, a third carries out an attack, a fourth amplifies its effects online [14].
+
+Some operations appear designed less to damage strategically important targets than to **aggravate existing social tensions**. Attacks against Jewish sites, mosques, and other minority communities can provoke suspicion, retaliation, and political polarisation. The immediate physical damage may be limited; the intended effect is social and psychological. This is cognitive warfare conducted through physical acts — the cognitive effect is the primary objective, not the physical destruction [14].
+
+The strategic value lies in accumulation. One warehouse fire or surveillance operation is unlikely to change European policy. Repeated incidents across multiple countries can consume investigative resources, raise the cost of supporting Ukraine, and create uncertainty about where the next attack will occur. The model complicates attribution: an arson attack may initially appear to be insurance fraud, organised crime, or opportunistic vandalism. Even when investigators establish a connection to Russian intelligence, the limited physical consequences of a single act may make a conventional or military response appear disproportionate. Below the threshold of war is not an empty space between peace and conflict — [Russia]({{ site.baseurl }}/actors/countries/russia.html) is treating it as an operational environment [14].
+
+## UK Cybercrime Capacity Gap and Deputisation Debate
+
+RUSI identifies a stark and growing gap between the scale of organised cybercrime in the [UK]({{ site.baseurl }}/actors/countries/united-kingdom.html) and the resources to combat it. The reported number of cybercrime incidents has risen three times faster than recruitment of suitable law enforcement personnel, with the real figure likely higher given underreporting. The UK government has undertaken laudable actions — raising resilience, providing incident response assistance (429 nationally significant incidents in one year), and conducting disruptive operations — but the cumulative societal costs extend beyond lost revenue to psychological and physiological harms and a fracturing of the liberal order's cornerstone: the idea that the state can protect its citizens. There is a distinct possibility of a future Category 1 cyber incident with sustained impact on UK societal services, up to and including threat to life [15].
+
+The UK government is moving ahead with ransomware legislation introducing mandatory incident reporting and prohibiting select organisations from making ransom payments. Notably, these measures place burdens on the victims of crime rather than the perpetrators. RUSI proposes a **deputisation** model: firms could receive authorisation from a vested government agency to undertake time-limited, narrowly-scoped activity to identify, understand, or neutralise cyber threat sources. Each stage would involve a government "hand-on-the-shoulder," with the government able to order cessation at any time. In exchange, the private sector entity would receive legal wraparound giving them immunity from the Computer Misuse Act. This would not represent "hack back" or a wide-ranging letter of marque — it is a controlled process with strict legitimacy, proportionality, and transparency requirements [15].
+
+## Iran's Information Warfare Doctrine: Cognitive Effect as Primary Objective
+
+[CSIS]({{ site.baseurl }}/actors/authors/csis.html) (Shah) provides a detailed assessment of Iranian cyber operations against the US water sector, reframing them as information warfare rather than escalation. At least 12 states and 100 municipalities have been impacted by cyberattacks exploiting extremely weak cyber defenses — default passwords, operational technology connected to the internet, lack of authentication — using basic technical accesses. The CyberAv3ngers, a hacktivist group linked to the IRGC, has claimed responsibility. The attacks are **opportunistic disruption** rather than strategic pre-positioning: Iran exploits low-hanging fruit through quick operations that meet the timescales of conflict, rather than developing exquisite capabilities that can take years [16].
+
+The primary objective is psychological, not escalatory. [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s military doctrine prioritises the information domain as a key battlespace. Through disrupting critical infrastructure in the [United States]({{ site.baseurl }}/actors/countries/united-states.html), Iran can sow fear and a sense of insecurity, projecting power into the US homeland far beyond its own borders. The randomness of targeting — water, energy, transport, local government — is designed to sow insecurity and panic among the US public. Iranian cyber actors quickly throw malware at poorly-defended victims of symbolic value, using resulting media coverage to amplify impact and enable immediate power projection [16].
+
+The fractured nature of the Iranian regime complicates attribution. Iran's communications infrastructure has been degraded by the war, and its decentralised command approach means that leadership likely lacks effective means of communicating across the state apparatus. The cyberattacks on water facilities may not have been ordered by Iranian leadership — they could be the work of middle-ranking operators or one faction seeking to undermine another [16].
+
+President Trump's quick attribution of the Minnesota water attacks to Democratic officials — immediately refuted by Governor Walz — was revealing. It may have reflected a deliberate political calculation: minimising conjecture about perpetrators and quashing any space for the attacks to be perceived as escalation, in order to preserve the broader strategic space for diplomatic negotiations with Iran to continue. The aggressive posture set out in the US National Cyber Strategy 2026 suggests that the administration will likely respond privately with offensive cyber operations, even while downplaying the incidents rhetorically [16]. See [United States]({{ site.baseurl }}/actors/countries/united-states.html) and [Iran]({{ site.baseurl }}/actors/countries/iran.html).
+
 # Citations
 
 [1] [https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris](https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris)
@@ -145,3 +175,9 @@ The mechanism is familiar from the broader cognitive-warfare pattern: internal p
 [12] [BLUF: The US Must Lead in Gray Zone Activity](https://www.thecipherbrief.com/bluf-the-us-must-lead-in-gray-zone-activity)
 
 [13] Susan Stewart, "Die Ukraine zwischen Personalpolitik und Protesten", 2026-07-30 — [https://www.swp-berlin.org/publikation/die-ukraine-zwischen-personalpolitik-und-protesten](https://www.swp-berlin.org/publikation/die-ukraine-zwischen-personalpolitik-und-protesten)
+
+[14] RUSI, "Instrumentalised Migration and Russia's 'Disposable Agents'", 2026-08-14 — [https://www.rusi.org/explore-our-research/publications/commentary/instrumentalised-migration-and-russias-disposable-agents](https://www.rusi.org/explore-our-research/publications/commentary/instrumentalised-migration-and-russias-disposable-agents)
+
+[15] RUSI, "Private Sector Cybercrime Disruption: Compatible with Statecraft?", 2026-08-10 — [https://www.rusi.org/explore-our-research/publications/commentary/private-sector-cybercrime-disruption-compatible-statecraft](https://www.rusi.org/explore-our-research/publications/commentary/private-sector-cybercrime-disruption-compatible-statecraft)
+
+[16] Nikita Shah, "The Cyberattacks on the U.S. Water Sector and the Iran Question: Escalation or Opportunism?", CSIS, 2026-08 — [https://www.csis.org/analysis/cyberattacks-us-water-sector-and-iran-question-escalation-or-opportunism](https://www.csis.org/analysis/cyberattacks-us-water-sector-and-iran-question-escalation-or-opportunism)

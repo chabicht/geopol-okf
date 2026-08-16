@@ -11,7 +11,7 @@ tags:
   - supply-chain
   - trade
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Background
@@ -35,6 +35,10 @@ The AI military race is defined by an asymmetry in deployment speed, governance,
 - **Three AI threats**: influence operations and cyber; model theft and distillation; and military applications. These require different countermeasures but are often conflated in policy discussions, producing fragmented responses. [1]
 - **AI as the operating system of national power**: AI functions as the operating system of economic productivity, military effectiveness, industrial automation, intelligence, and strategic decision-making. The decisive variable in great-power competition is not who holds the best model but who can integrate AI across the entire industrial base — from factory floor to command post [15].
 - **Combat-proven AI autonomous strike**: The Hornet drone uses onboard AI for target detection, decoy discrimination, and terminal strike without satellite connection — combat-proven in Ukraine at ~$6,000, 150 km range, making the Russia-Ukraine war the live testing ground for AI-enabled autonomous warfare [16].
+- **Data centres are the new dreadnoughts.** AI infrastructure has been reclassified as critical national security infrastructure; the copper and sulphuric acid required to wire 300-MW data centres are no longer acquired through commercial pricing but through sovereign mandate, elevating AI compute to absolute priority in the material-allocation queue. [17]
+- **AI infrastructure faces a six-constraint geography.** Electricity, grid connections, cooling, water, land, and political consent jointly determine where data centres can be built — no single geography satisfies all constraints, making the AI race a competition over physical foundations as much as models. [18]
+- **Clean-energy supply chain dominance reinforces AI dependence.** China's 85% solar, 95% wafer, >90% Li-ion, and >95% sodium-ion manufacturing dominance means any renewable-powered data centre buildout deepens reliance on Chinese supply chains — the AI race and the energy transition compete for the same Chinese-manufactured inputs. [18]
+- **CCA programs operationalise autonomous combat air power.** The US Air Force plans >150 combat-capable collaborative combat aircraft by 2030, with Anduril's YFQ-44A achieving a weapon-release test in July — autonomy has moved from one-way attack drones into the high-end combat-air market. [19]
 
 # Analysis
 
@@ -146,6 +150,24 @@ A legal analogy underpins the open-models argument: encryption code was previous
 
 SkyFall AI-assisted systems represent the next layer — AI countering AI-enabled drones. Ukraine has used SkyFall systems for counter-FPV operations, using AI to help identify and destroy Russian first-person-view drones. The Russia-Ukraine war is thus the live testing ground for the AI military race: both attack-side AI (autonomous terminal strike) and defense-side AI (counter-drone AI) are being iterated under combat conditions, generating operational data and adaptation cycles that peacetime defense industries cannot replicate. The Hornet is itself a product of a Ukrainian-US drone partnership, embedding the technology transfer dynamic into the AI competition between the [United States]({{ site.baseurl }}/actors/countries/united-states.html) and [China]({{ site.baseurl }}/actors/countries/china.html) [16]. See [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) for the operational and cost-exchange analysis.
 
+## Data Centres as the New Dreadnoughts
+
+Ronan Wordsworth ([GPF]({{ site.baseurl }}/actors/authors/geopolitical-futures.html)) documents that the AI race depends on a physical stack of data centres whose geography is shaped by six constraints: electricity, grid connections, cooling systems, water, land, and political consent. Hyperscalers — Amazon, Google, Meta, Microsoft, and Oracle — are expected to spend $710–740 billion in 2026 alone on cloud and data centre expansion. The IEA projects global data centre electricity consumption could more than double from approximately 415 TWh in 2024 to 945 TWh by 2030, making power availability one of the largest constraints of the AI buildout [18].
+
+The US entered the boom from a position of strength, accounting for approximately 45% of global data centre electricity consumption in 2024. But the speed of buildout has created grid pressure: PJM, the largest US regional grid, saw transmission congestion costs rise 81% to $3.2 billion in 2025. Transformer lead times now exceed three years. Fossil fuels — primarily natural gas — are expected to meet more than 40% of additional data centre demand through 2030, giving the US a significant near-term advantage through abundant domestic gas. In China, coal provides nearly 70% of data centre electricity, with annual generation increasing by nearly 90 TWh. Nuclear offers a long-term baseload alternative — Microsoft signed a 20-year, 835-MW agreement to restart Three Mile Island Unit 1 — but new projects remain extremely time-consuming [18].
+
+China's dominance across the clean-energy supply chain means any renewable-powered data centre buildout reinforces dependence on Chinese manufacturing: 85% of solar supply chain, 95% of wafer capacity, >90% of Li-ion battery storage, and >95% of announced sodium-ion capacity. Approximately half of nuclear capacity under construction globally is in China, with installed capacity expected to reach ~100 GW by 2030. Water adds a further constraint: US data centres could require 700 million to 1.451 billion gallons per day of new water capacity by 2030, comparable to New York City's daily supply. Political resistance is intensifying — only 14% of Americans support a data centre in their community, and New York imposed a statewide moratorium on new hyperscale facilities in July 2026 [18].
+
+The regional scorecard ranks the US highest overall (4.0), followed by the Middle East (3.78) and China (3.67), with Europe at 3.22. Wordsworth's five-stage development framework — mobilisation, adaptation, contestation, consolidation, and possible rebalancing — describes how data centre infrastructure will evolve as demand outpaces supporting systems. In the consolidation stage, only companies with large balance sheets and the ability to control several layers of the infrastructure stack can continue expanding at scale, making control over physical infrastructure a barrier to entry and a source of market power [18].
+
+[Craig Tindale]({{ site.baseurl }}/actors/authors/craig-tindale.html) frames the implication in sovereignty terms: "data centres are the new dreadnoughts." Compute is now synonymous with sovereign survival, and AI and semiconductor fabrication have been absorbed into the defence apparatus. They no longer operate as commercial tech enterprises but as critical national security assets. The copper required to wire 300-MW data centres and the ultra-high-purity sulphuric acid required to etch semiconductor wafers are no longer acquired through commercial pricing — they are secured through sovereign mandate. When hyperscalers require the physical bill of materials to expand compute capacity, the state ensures they receive it because losing the AI arms race is viewed as an existential sovereign threat [17]. The DPA invocation in July 2026 — restricting exports of recoverable critical minerals — is the operational confirmation. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html).
+
+## Collaborative Combat Aircraft: Autonomy in the High-End Combat-Air Market
+
+Andrew Davidson (GPF) documents that autonomy has moved beyond one-way attack drones into the high-end combat-air market. Collaborative combat aircraft (CCAs) are reusable, uncrewed aircraft designed to operate alongside crewed fighters, performing sensing, electronic warfare, strike, and air-to-air combat missions as networked components of a broader combat-air system. In June 2026, the US Air Force awarded General Atomics and Anduril engineering and manufacturing development contracts for its first-generation CCA programme, planning to procure more than 150 combat-capable CCAs by the end of 2030. In July, Anduril's YFQ-44A fired an AIM-120 at a digital target during testing — the programme's progression from inert weapons evaluations to an operationally relevant weapon-release test [19].
+
+The procurement architecture is structurally significant: the US is purchasing mission-autonomy software separately from the airframes and maintaining competition among six software providers, effectively unbundling capabilities that were traditionally integrated under one major contractor. This modular approach reduces the ability of established contractors like Lockheed Martin, Boeing, and Northrop Grumman to control the entire technological stack, creating competitive entry points across the defence technology sector. Australia is advancing a parallel model through Boeing's MQ-28 Ghost Bat with an initial A$1.4 billion commitment, and the UK has committed £300 million to autonomous combat aircraft within its future combat-air system [19]. See [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) and [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html).
+
 # Citations
 
 [1] [https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military](https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military)
@@ -176,3 +198,9 @@ SkyFall AI-assisted systems represent the next layer — AI countering AI-enable
 [15] [China's Steady Economic Decline](https://substack.com/@velinatchakarova/p-208670863)
 
 [16] Seth G. Jones and Riley McCabe, "Russian Blood and Treasure: The Ballooning Costs of Putin's War", 2026-08-05 — [https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war](https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war)
+
+[17] Craig Tindale, "The Copper Residual", 2026-08-13 — [https://ctindale.substack.com/p/the-copper-residual](https://ctindale.substack.com/p/the-copper-residual)
+
+[18] Ronan Wordsworth, "The Geography of Data Centers", GeoEconomicLens, August 2026 — [https://geopoliticalfutures.com/lens/issue/august-2026/](https://geopoliticalfutures.com/lens/issue/august-2026/)
+
+[19] Andrew Davidson, "Defense Industry", GeoEconomicLens, August 2026 — [https://geopoliticalfutures.com/lens/issue/august-2026/](https://geopoliticalfutures.com/lens/issue/august-2026/)

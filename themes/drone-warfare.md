@@ -8,7 +8,7 @@ tags:
   - military
   - technology
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Background
@@ -31,6 +31,8 @@ Multiple theaters demonstrate the transformative impact of drone warfare:
 - **Drones can't solve every problem**: While drones can compensate for weak ground control over vast territories, they cannot address the underlying drivers of conflict — weak state authority, poor intelligence infrastructure, ethnic and political tensions. Drones are a force multiplier, not a substitute for governance. [2]
 - **AI autonomous terminal strike**: The Hornet drone uses onboard AI for target detection, decoy discrimination, and terminal strike without satellite connection — making it jam-resistant and operationally autonomous at ~$6,000 per unit [19].
 - **Drones as naval interdiction**: Ukraine's over/underwater drone campaign has disabled 50–60 shadow fleet tankers (25–35% of Black Sea-route tankers), dropping Ust-Luga departures from 16–17/week to 2 [20].
+- **AI as targeting tool is being oversold.** The US campaign against Iran — if AI-driven — produced "one of the worst performances in the history of warfare"; AI still struggles with military systems analysis and makes fundamental targeting mistakes. [21]
+- **China dominates drone manufacturing 20:1 over the US.** China holds 70-80%+ of global drone manufacturing capacity and exports military drones at 20× the US rate — a structural asymmetry widening in wars of attrition. [22]
 
 # Analysis
 
@@ -130,6 +132,18 @@ The CSIS data also documents the human cost of drone dominance on the eastern fr
 
 The economic impact is measurable. KSE Institute estimates that March 2026 drone attacks on the Baltic ports of Ust-Luga and Primorsk alone cost [Russia]({{ site.baseurl }}/actors/countries/russia.html) approximately $1.76 billion in oil revenue. In Ust-Luga, weekly tanker departures dropped from 16–17 to just two. Together with the subsequently attacked Black Sea port of Novorossiysk, these three ports handle nearly 60% of Russia's seaborne oil exports. The campaign demonstrates that drones can impose direct fiscal costs on an adversary's wartime economy, not merely attrit military forces — a maritime analog to the land-based drone interdiction campaign. See [Shadow Fleet Boarding Wave]({{ site.baseurl }}/events/shadow-fleet-dawn-raids-2026.html) and [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) [20].
 
+## AI Oversold: Doctrinal Superiority Proven Hollow
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) argues that AI's role as a decisive targeting tool in contemporary warfare has been significantly overstated. Despite Pentagon boasts about an "AI-First" warfighting machine and Palantir CEO Alex Karp's claims that AI was "saving Ukraine and indeed all of Europe," the evidence shows the opposite. The US targeting campaign against Iran — if AI was central to it — produced what O'Brien calls "one of the worst performances in the history of warfare": massive ordnance expended, advanced anti-air systems squandered, and the war lost. Over 13,000 targets were attacked by April 2026, with claims that 90% of Iran's weapons manufacturing had been hit — yet Iran's military reconstituted itself rapidly, and a July escalation with 140 targets per night still ended with the US throwing in the towel as it ran out of vital weapons [21].
+
+On the Ukraine front, AI's role is similarly mixed. Since the dismissal of Defense Minister Fedorov, Ukrainian targeting appears driven more by political signaling than systematic campaign logic — attacking Wildberries warehouses rather than concentrating on fuel production systems. O'Brien's assessment: AI still struggles to analyze military and strategic systems, cannot process enough data, and makes fundamental mistakes such as bombing schools. The transition to autonomous war-fighting is real and coming, but it will require investment, planning, and sober heads — the current overhyping makes the transition seem far easier than it will be [21].
+
+## The Replenishment Fallacy: Rebuilding a Failed Military
+
+O'Brien's most radical claim is that the US military does not need stock replenishment but complete reconstruction. The discussion about rebuilding depleted inventories assumes the pre-war military was properly armed and equipped — but even with full stocks on February 27, 2026, the US military would have been unable to fight a major war. With approximately 3,000 Patriot and 600 THAAD interceptors (including a 33% cushion), the US could have fought China for only months — perhaps weeks — before stocks fell below current depleted levels. China's PLAAF operates 3,000+ fixed-wing combat aircraft with improving quality, and its ballistic and cruise missile stocks number in the many thousands. Meanwhile, China holds 70-80%+ of global drone manufacturing capacity and has exported military drones at a rate 20 times that of US military drone exports [22].
+
+The cultural and institutional damage compounds the material gap. Under the current administration, "toadies and sycophants get promoted and good officers keep their heads down, watch what they say, or even get pushed aside" — making the US military "a terrified institution today" that would struggle to fight any war regardless of its equipment. Yet O'Brien identifies two positive takeaways: US fundamentals (technology, economy, entrepreneurship, ability to recreate an industrial base) remain present — this is not Rome in 409AD — and Trump's War has "ripped the band-aid off of US military complacency," making the true weakness undeniable. The transition to autonomous war-fighting is coming but is over-hyped; recreating the old military is a loser's game requiring a complete structural reset [22]. See [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) and [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
+
 # Citations
 
 [1] [https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war](https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war)
@@ -170,3 +184,7 @@ The economic impact is measurable. KSE Institute estimates that March 2026 drone
 [19] Seth G. Jones and Riley McCabe, "Russian Blood and Treasure: The Ballooning Costs of Putin's War", 2026-08-05 — [https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war](https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war)
 
 [20] Julian Pawlak (SWP), cited in Reservistenverband, "Ein harter Schlag gegen die Schattenflotte", 2026-08-03 — [https://www.reservistenverband.de/magazin-loyal/ein-harter-schlag-gegen-die-schattenflotte/](https://www.reservistenverband.de/magazin-loyal/ein-harter-schlag-gegen-die-schattenflotte/)
+
+[21] Phillips P. O'Brien, "AI And War Is Being Oversold Right Now", 2026-08-08 — [https://phillipspobrien.substack.com/p/ai-and-war-is-being-oversold-right](https://phillipspobrien.substack.com/p/ai-and-war-is-being-oversold-right)
+
+[22] Phillips P. O'Brien, "Replenishing Stocks Will Just Recreate A Failed Military", 2026-08-11 — [https://phillipspobrien.substack.com/p/replenishing-stocks-will-just-recreate](https://phillipspobrien.substack.com/p/replenishing-stocks-will-just-recreate)

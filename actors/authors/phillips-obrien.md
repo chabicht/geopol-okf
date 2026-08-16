@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Military historian and analyst — author of "War and Power" — arguing that wars are choices of individual leaders, that cheap mass beats expensive precision, and that US decline is accelerating faster than expected
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Background
@@ -128,6 +128,18 @@ O'Brien's Weekend Update #196 (August 2, 2026) identifies his April 2026 Atlanti
 
 O'Brien offers two interpretations: the mainstream press version (Trump honestly pivoted, then reverted) versus his own — Trump never changed his fundamental beliefs; he maneuvered for political benefit and to help Putin. The result: 1 of 27 ballistic missiles intercepted, 19 Ukrainians killed in two days, and another month of unrestricted Russian bombardment. He is "most angry at the sloppy, delusional, and frankly moronic western press and analytical community that refuses to admit what Trump is and is doing." The framework's prescription: hope in Trump kills — literally — and the strategy of flattering Trump has demonstrably failed for 18 months [26]. See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), [Ukraine Air Defense Crisis]({{ site.baseurl }}/events/ukraine-air-defense-crisis-2026.html), and [Fedorov Dismissal]({{ site.baseurl }}/events/fedorov-dismissal-2026.html).
 
+## US Military Degradation: Complete Rebuild, Not Replenishment
+
+O'Brien's August 2026 analysis extends his US decline thesis from diplomatic and societal dimensions to the military itself. The US military does not need stock replenishment but complete reconstruction: even with full pre-war inventories, it was equipped for short wars and glamorous missions, not sustained conflict. The cultural damage — "toadies and sycophants get promoted" while good officers are "sidelined" — makes the institution "a terrified" one that would struggle to fight any war. Yet US fundamentals (technology, economy, entrepreneurship) remain present — "this is not Rome in 409AD" — and Trump's War has made the weakness undeniable, ripping off the "band-aid of complacency." The transition to autonomous war-fighting is real but over-hyped; AI targeting produced "one of the worst performances in the history of warfare" against Iran [27][28].
+
+## Patriot Leverage as Con: The Ukraine Constraint
+
+O'Brien documents how the US uses Patriot interceptor rationing as leverage over Ukraine. By keeping Ukraine dependent on small monthly Patriot supplies, the Trump administration forces concessions — including halting Ukraine's effective Black Sea oil-interdiction campaign at Novorossiysk, a major favor to Putin. The Patriot supply is "brutally efficient" as a control instrument: cutting it off entirely would actually be worse for Russia, so the US maintains just enough to keep Ukraine bending to its tune while slowing European development of independent air defense [29].
+
+## Fiscal Constraints on War-Fighting
+
+O'Brien argues the US cannot afford to escalate or fight a long war even if it wanted to. National debt exceeds 120% of GDP (about the same as at the end of WWII), interest rates are relatively high, and the US is already struggling to sell debt before increased war costs. The $2.1 trillion annual debt service cost by 2036 (without a longer war) and the administration's low-balled war-cost figures ($37.5B claimed vs. $67.1B supplemental request) create a fiscal ceiling on escalation. The US yen intervention was self-interested: preventing Japan from selling Treasuries to defend the yen independently. Democrats have begun blocking defense appropriations — a post-Vietnam break in wartime funding norms [30].
+
 # Track Record
 
 **Resolved**
@@ -170,6 +182,13 @@ O'Brien offers two interpretations: the mainstream press version (Trump honestly
 - "Is China Going In For The Kill" [24]
 - "Midweek Update 21: Iran Is Toying With The USA" [25]
 - "Weekend Update 196: The Week When Hope Killed, Literally" [26]
+- "Do Not Forget That Wars Demand Money" [27]
+- "Replenishing Stocks Will Just Recreate A Failed Military" [28]
+- "Weekend Update 198: Russia's Allies Are More Helpful Than Ukraine's" [29]
+- "AI And War Is Being Oversold Right Now" [30]
+- "Midweek Update 22: The American Age in the Persian Gulf Is Over" [31]
+- "Weekend Update 197: Anatomy Of A Con" [32]
+- "Midweek Update 23: Can He Keep It Going Through The Election" [33]
 
 # Citations
 
@@ -224,3 +243,17 @@ O'Brien offers two interpretations: the mainstream press version (Trump honestly
 [25] Phillips P. O'Brien, "Midweek Update 21: Iran Is Toying With The USA", 2026-07-29 — [https://phillipspobrien.substack.com/p/midweek-update-21-iran-is-toying](https://phillipspobrien.substack.com/p/midweek-update-21-iran-is-toying)
 
 [26] Phillips P. O'Brien, "Weekend Update 196: The Week When Hope Killed, Literally", 2026-08-02 — [https://phillipspobrien.substack.com/p/weekend-update-196-the-week-when](https://phillipspobrien.substack.com/p/weekend-update-196-the-week-when)
+
+[27] Phillips P. O'Brien, "Do Not Forget That Wars Demand Money", 2026-08-04 — [https://phillipspobrien.substack.com/p/do-not-forget-that-wars-demand-money](https://phillipspobrien.substack.com/p/do-not-forget-that-wars-demand-money)
+
+[28] Phillips P. O'Brien, "Replenishing Stocks Will Just Recreate A Failed Military", 2026-08-11 — [https://phillipspobrien.substack.com/p/replenishing-stocks-will-just-recreate](https://phillipspobrien.substack.com/p/replenishing-stocks-will-just-recreate)
+
+[29] Phillips P. O'Brien, "Weekend Update 198: Russia's Allies Are More Helpful Than Ukraine's", 2026-08-15 — [https://phillipspobrien.substack.com/p/weekend-update-198-russias-allies](https://phillipspobrien.substack.com/p/weekend-update-198-russias-allies)
+
+[30] Phillips P. O'Brien, "AI And War Is Being Oversold Right Now", 2026-08-08 — [https://phillipspobrien.substack.com/p/ai-and-war-is-being-oversold-right](https://phillipspobrien.substack.com/p/ai-and-war-is-being-oversold-right)
+
+[31] Phillips P. O'Brien, "Midweek Update 22: The American Age in the Persian Gulf Is Over", 2026-08-16 — [https://phillipspobrien.substack.com/p/midweek-update-22-the-american-age](https://phillipspobrien.substack.com/p/midweek-update-22-the-american-age)
+
+[32] Phillips P. O'Brien, "Weekend Update 197: Anatomy Of A Con", 2026-08-09 — [https://phillipspobrien.substack.com/p/weekend-update-197-anatomy-of-a-con](https://phillipspobrien.substack.com/p/weekend-update-197-anatomy-of-a-con)
+
+[33] Phillips P. O'Brien, "Midweek Update 23: Can He Keep It Going Through The Election", 2026-08-13 — [https://phillipspobrien.substack.com/p/midweek-update-23-can-he-keep-it](https://phillipspobrien.substack.com/p/midweek-update-23-can-he-keep-it)

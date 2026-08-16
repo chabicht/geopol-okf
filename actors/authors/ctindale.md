@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Analyst of governance feedback loops, co-developer of the Tindale-Tchakarova Cascade model, and critic of paradigm obsolescence in mainstream economics and Wall Street when analyzing strategic competition with China
 tags: [author, framework]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Background
@@ -75,6 +75,8 @@ This directly challenges Tooze's market-economics reading of [China Shock 2.0]({
 - "The Next Evolution in Human Logic" [3]
 - "Where We Are Today: The Mechanics of Our Own Undoing" [4]
 - "The Importance of Being Obsolescent" [5]
+- "Five Contracts, One River" [6]
+- "The Copper Residual" [7]
 
 # Citations
 
@@ -87,3 +89,7 @@ This directly challenges Tooze's market-economics reading of [China Shock 2.0]({
 [4] [Where We Are Today: The Mechanics of Our Own Undoing](https://ctindale.substack.com/p/where-we-are-today-the-mechanics)
 
 [5] ctindale, "The Importance of Being Obsolescent", 2026-07-30 — [https://substack.com/@ctindale/p-209065047](https://substack.com/@ctindale/p-209065047)
+
+[6] Craig Tindale, "Five Contracts, One River", 2026-08-15 — [https://ctindale.substack.com/p/five-contracts-one-river](https://ctindale.substack.com/p/five-contracts-one-river)
+
+[7] Craig Tindale, "The Copper Residual", 2026-08-13 — [https://ctindale.substack.com/p/the-copper-residual](https://ctindale.substack.com/p/the-copper-residual)

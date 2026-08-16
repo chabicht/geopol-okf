@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Energy-centered analyst arguing that energy throughput — not GDP — is the true measure of power, that resource depletion is exponential, and that there is no "next economy" on a finite planet
 tags: [author, framework, opinion, energy]
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Background
@@ -154,6 +154,7 @@ The Honest Sorcerer proposes a paradigm shift built around robustness, reciproci
 - "No Oil, No Transition, No Economy" [34]
 - "No Oil, No Food" [35]
 - "Civilizations Fall When This Mechanism Activates" [36]
+- "Coal: The Next Chokepoint" [37]
 
 # Citations
 
@@ -228,3 +229,5 @@ The Honest Sorcerer proposes a paradigm shift built around robustness, reciproci
 [35] The Honest Sorcerer, "No Oil, No Food", 2026-07-31 — [https://thehonestsorcerer.substack.com/p/no-oil-no-food](https://thehonestsorcerer.substack.com/p/no-oil-no-food)
 
 [36] The Honest Sorcerer, "Civilizations Fall When This Mechanism Activates", 2026-08-07 — [https://thehonestsorcerer.substack.com/p/civilizations-fall-when-this-mechanism](https://thehonestsorcerer.substack.com/p/civilizations-fall-when-this-mechanism)
+
+[37] The Honest Sorcerer, "Coal: The Next Chokepoint", 2026-08-14 — [https://thehonestsorcerer.substack.com/p/coal-the-next-chokepoint](https://thehonestsorcerer.substack.com/p/coal-the-next-chokepoint)

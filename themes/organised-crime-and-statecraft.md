@@ -9,7 +9,7 @@ tags:
   - cognitive-warfare
   - hybrid
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Background
@@ -44,6 +44,11 @@ Iran's IRGC and Quds Force have escalated external operations in Europe using a 
 - **Escalation trajectory**: As sanctioned states face increasing economic pressure, their reliance on criminal infrastructure for regime survival will deepen. [3]
 - **Maritime criminal infrastructure**: The shadow fleet — ~1,300 tankers transporting ~half of Russia's oil exports — operates through forged papers, manipulated AIS, and false flags, increasingly carrying armed security and escorted by warships. [7]
 - **Legal asymmetry**: Coastal states face a "poker game" in each boarding — legal proceedings often end in costly fiascos, while the fleet's operators face no comparable cost. [7]
+- **UK cybercrime capacity gap.** Reported cybercrime incidents have risen 3x faster than law enforcement recruitment; 429 nationally significant incidents in one year alone, with a distinct possibility of a future Category 1 cyber incident threatening UK societal services. [9]
+- **Deputisation model with government hand-on-the-shoulder.** Firms could receive time-limited, narrowly-scoped authorisation from a vested agency to identify, understand, or neutralise cyber threat sources — not hack-back, but a controlled process with legal wraparound and government cessation authority. [9]
+- **US cyber-letter-of-marque bills and NDAA contractor provisions.** Senators tabled cyber letters of marque bills in 2019 and 2025; the Senate-reported 2027 NDAA includes provisions for contractors to conduct offensive cyber operations for access development. [9]
+- **Singapore precedent for cyber deputisation.** Singapore implemented a deputisation process in 2013 and transferred it to its Cybersecurity Act in 2018, allowing disruptive operations "by a certificate under the Minister's hand" — available but with no public reporting mechanism. [9]
+- **ARSIWA Article V and responsible-statecraft principle.** International law may permit deputised private cyber operations: ARSIWA Article V allows non-state actors to conduct operations if empowered by state law, and the Budapest Convention's "without right" language leaves room for formalised authorisation. [9]
 
 # Analysis
 
@@ -80,6 +85,28 @@ The Russian shadow fleet — approximately 1,300 tankers transporting roughly ha
 
 [Seth G. Jones]({{ site.baseurl }}/actors/authors/seth-g-jones.html) and McCabe argue that the shadow fleet is the financial-logistical backbone of [Russia]({{ site.baseurl }}/actors/countries/russia.html)'s sanctions evasion, and that EU/US should impose secondary sanctions on banks in China, Hong Kong, and other countries that facilitate shadow-fleet transactions. Three ports — Ust-Luga, Primorsk, and Novorossiysk — handle approximately 60% of Russian seaborne oil exports, concentrating the enforcement target. The moment is "ripe" for a pressure campaign because Russia's wartime spending may be increasingly untenable: the economy is in distress, and the combination of battlefield costs and economic sanctions has not been fully wielded. The failure to impose secondary sanctions on the financial facilitators means the crime-statecraft nexus operates with institutional banking infrastructure that remains untouched by Western enforcement — the criminal maritime network and the regulated financial network are coupled, and sanctions have targeted only the former [8]. See [Sanctions and Financial Warfare]({{ site.baseurl }}/themes/sanctions-and-financial-warfare.html).
 
+## UK Cybercrime Capacity Gap and Private Sector Disruption
+
+RUSI identifies a structural mismatch in the [UK]({{ site.baseurl }}/actors/countries/united-kingdom.html)'s fight against organised cybercrime: reported incidents have risen three times faster than recruitment of suitable law enforcement personnel, with many incidents against individuals and organisations going unreported. The UK government has undertaken laudable actions — raising resilience through voluntary and obligatory measures, providing incident response assistance (429 nationally significant incidents in one year), and conducting disruptive operations in partnership with allies. Yet the ransomware threat has evolved to more efficiently extract funds while navigating increased government pressure. The cumulative societal costs extend beyond lost revenue to psychological and physiological harms and a fracturing of the liberal order's cornerstone: the idea that the state can protect its citizens and bring criminals to justice. There is a distinct possibility of a future Category 1 cyber incident with sustained impact on UK societal services, up to and including threat to life [9].
+
+The UK has prioritised and nurtured a public-private partnership ecosystem focused on enhancing resilience, including the i100 collaboration, the Cyber Incident Response assurance scheme, and the NCSC early warning system. The private sector owns the networks and much of the infrastructure, and therefore owns the risk. At present, firms are obligated to remain in a defensive crouch or risk breaching the Computer Misuse Act (CMA). The government is due to reform the CMA to provide statutory public-interest protections for good-faith cyber vulnerability research [9].
+
+## Deputisation: Letters of Marque for the Digital Age
+
+RUSI proposes a **deputisation** model through which a firm could receive authorisation from a vested government agency to undertake time-limited, narrowly-scoped activity to identify, understand, or neutralise cyber threat sources. Each stage of the operation would involve a government "hand-on-the-shoulder," with the government able to order cessation at any time. In exchange for full adherence to authorisation and operational controls, the private sector entity would receive legal wraparound giving them a CMA waiver or immunity — though the UK government could not guarantee immunity against foreign prosecution. Deputised activities could take place pro bono, at-cost, or for-profit [9].
+
+Google has already announced the formation of a cyber "disruption unit" intended to engage in "legal and ethical disruption," shifting from a reactive to a proactive posture, and successfully disrupted a proxy network used by criminal botnets with US court authorisation. Microsoft received authorisation from a Virginian court to conduct "sinkholing" against foreign servers used for Trickbot activity. These operations received court authorisation and did not breach the US Computer Fraud and Abuse Act [9].
+
+The deputisation debate is most commonly associated with the [United States]({{ site.baseurl }}/actors/countries/united-states.html), which has a Constitutional provision for letters of marque and reprisal. Senators have sporadically tabled bills to implement cyber letters of marque — in 2019 and 2025 — and the Senate-reported version of the 2027 National Defense Authorization Act includes provisions for contractors to engage in offensive cyber operations for the purpose of "access development and maintenance." [China]({{ site.baseurl }}/actors/countries/china.html) has used three private companies to hack global telecoms, illustrating the adversary's own integration of private-sector capabilities into state operations [9].
+
+## Responsible Cyber Statecraft and International Law
+
+Deputisation could be compatible with international law. Articles II, III, and IV of the Budapest Convention are potential impediments — Article II compels signatories to criminalise non-state "access to the whole or any part of a computer system without right." However, the Convention does not define what "without right" means, suggesting that a formalised deputisation process bestowing temporary and restricted rights on the private sector could be compatible. Similarly, Article V of the UN Articles on Responsibility of States for Internationally Wrongful Acts (ARSIWA) allows non-state actors to conduct operations if they have been "empowered by the law of that State" in a "particular instance" [9].
+
+Any move to deputise the private sector must be cautious of inadvertently imitating or legitimising the chaotic practices of adversaries. Strict legitimacy and proportionality must be enforced, and some transparency is important — a "Singapore Plus" approach involving routine public or Parliamentary notifications akin to disclosure of the number of thwarted terrorist incidents. Being a "responsible" state cyber actor necessitates a balancing act: taking all possible measures to protect national security, social order, and livelihoods, but doing so in a proportionate way in which the means do not undermine the ends [9].
+
+See [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) for the broader context of cyber operations as gray-zone activity, and [Sanctions and Financial Warfare]({{ site.baseurl }}/themes/sanctions-and-financial-warfare.html) for the sanctions enforcement dimension.
+
 # Citations
 
 [1] [The Changing Face of Organised Crime](https://www.rusi.org/explore-our-research/publications/commentary/changing-face-organised-crime)
@@ -97,3 +124,5 @@ The Russian shadow fleet — approximately 1,300 tankers transporting roughly ha
 [7] Julian Pawlak / Reservistenverband, "Ein harter Schlag gegen die Schattenflotte", 2026-08-03 — [https://www.reservistenverband.de/magazin-loyal/ein-harter-schlag-gegen-die-schattenflotte/](https://www.reservistenverband.de/magazin-loyal/ein-harter-schlag-gegen-die-schattenflotte/)
 
 [8] Seth G. Jones and Riley McCabe, "Russian Blood and Treasure: The Ballooning Costs of Putin's War", 2026-08-05 — [https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war](https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war)
+
+[9] RUSI, "Private Sector Cybercrime Disruption: Compatible with Statecraft?", 2026-08-10 — [https://www.rusi.org/explore-our-research/publications/commentary/private-sector-cybercrime-disruption-compatible-statecraft](https://www.rusi.org/explore-our-research/publications/commentary/private-sector-cybercrime-disruption-compatible-statecraft)

@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Center for Strategic and International Studies — defense and security analysis producing data-driven assessments of the Russia-Ukraine War, military capabilities, great power competition, war cost estimation, cyber threat ecosystems, Indo-Pacific security dynamics, and economic statecraft
 tags: [author, news, cyber]
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Background
@@ -90,6 +90,8 @@ Per rules.md §8.5, "CSIS" is not one analytical voice — Track Record entries 
 - "Elbows Up: The Price of Economic Coercion Against Canada" [6]
 - "Understanding President Trump's New Tariffs on Canadian Imports" [7]
 - "Six Reasons Why the United States Is Low on Munitions" (Cancian/Park) [8]
+- "Renewed Iran War Would Test Diminished Interceptor Inventories" [9]
+- "The Cyberattacks on the U.S. Water Sector and the Iran Question" [10]
 
 # Citations
 
@@ -108,3 +110,7 @@ Per rules.md §8.5, "CSIS" is not one analytical voice — Track Record entries 
 [7] [Understanding President Trump's New Tariffs on Canadian Imports](https://www.csis.org/analysis/understanding-president-trumps-new-tariffs-canadian-imports)
 
 [8] Mark F. Cancian, Chris H. Park, "Six Reasons Why the United States Is Low on Munitions", 2026-08-05 — [https://www.csis.org/analysis/six-reasons-why-united-states-low-munitions](https://www.csis.org/analysis/six-reasons-why-united-states-low-munitions)
+
+[9] CSIS, "Renewed Iran War Would Test Diminished Interceptor Inventories", 2026-08-16 — [https://www.csis.org/analysis/renewed-iran-war-would-test-diminished-interceptor-inventories](https://www.csis.org/analysis/renewed-iran-war-would-test-diminished-interceptor-inventories)
+
+[10] CSIS, "The Cyberattacks on the U.S. Water Sector and the Iran Question: Escalation or Opportunism?", 2026-08-16 — [https://www.csis.org/analysis/cyberattacks-us-water-sector-and-iran-question](https://www.csis.org/analysis/cyberattacks-us-water-sector-and-iran-question)

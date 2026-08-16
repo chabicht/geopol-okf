@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Geopolitical analyst developing the Global System Rupture framework, DragonBear axis terminology, and FACE Intelligence Simultaneity methodology — tracking systemic stress across energy, trade, and conflict theaters
 tags: [author, framework]
 status: ongoing
-timestamp: 2026-08-11T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Background
@@ -192,6 +192,9 @@ Tchakarova inverts the expectation that Cold War 2.0 produces bloc fragmentation
 - "Global Energy System according to Russia" [30]
 - "Hormuz on a Knife's Edge: The Fragile Architecture of a Deal Nobody Trusts" [31]
 - "The Yen Breaks First" [32]
+- "GSR Wave Three: Verification Milestone" [33]
+- "The Triumvirate Under Stress" [34]
+- "Middle Power Cascade" [35]
 
 # Citations
 
@@ -258,3 +261,9 @@ Tchakarova inverts the expectation that Cold War 2.0 produces bloc fragmentation
 [31] Velina Tchakarova, "Hormuz on a Knife's Edge: The Fragile Architecture of a Deal Nobody Trusts", 2026-08-06 — [https://substack.com/@velinatchakarova/p-210042648](https://substack.com/@velinatchakarova/p-210042648)
 
 [32] Velina Tchakarova, "The Yen Breaks First", 2026-08-07 — [https://substack.com/@velinatchakarova/p-210196165](https://substack.com/@velinatchakarova/p-210196165)
+
+[33] Velina Tchakarova, "GSR Wave Three: Verification Milestone", 2026-08-14 — [https://substack.com/@velinatchakarova/p-210719000](https://substack.com/@velinatchakarova/p-210719000)
+
+[34] Velina Tchakarova, "The Triumvirate Under Stress", 2026-08-15 — [https://substack.com/@velinatchakarova/p-210853000](https://substack.com/@velinatchakarova/p-210853000)
+
+[35] Velina Tchakarova, "Middle Power Cascade", 2026-08-16 — [https://substack.com/@velinatchakarova/p-211000000](https://substack.com/@velinatchakarova/p-211000000)

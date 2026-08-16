@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Stiftung Wissenschaft und Politik (German Institute for International and Security Affairs) — Berlin-based think tank producing policy research on global security, climate diplomacy, regional dynamics, and European foreign policy
 tags: [author, framework]
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Background
@@ -126,6 +126,8 @@ Per rules.md §8.5, "SWP" is not one analytical voice. Track Record entries abov
 - "China's Secret Nuclear Tests" (Rombach) [13]
 - "Die Ukraine zwischen Personalpolitik und Protesten" (Stewart) [14]
 - "Klimapolitik in einer multipolaren Welt: Zwischen Fragmentierung und neuen Chancen" (Beisheim/Böttcher/Brozus) [15]
+- "Der Konflikt um die Straße von Hormus" [16]
+- "Migration Routes in Focus" (Knapp/Koch update) [17]
 
 # Citations
 
@@ -158,3 +160,7 @@ Per rules.md §8.5, "SWP" is not one analytical voice. Track Record entries abov
 [14] Susan Stewart, "Die Ukraine zwischen Personalpolitik und Protesten", 2026-07-30 — [https://www.swp-berlin.org/publikation/die-ukraine-zwischen-personalpolitik-und-protesten](https://www.swp-berlin.org/publikation/die-ukraine-zwischen-personalpolitik-und-protesten)
 
 [15] Marianne Beisheim, Miranda Böttcher, Lars Brozus, "Klimapolitik in einer multipolaren Welt: Zwischen Fragmentierung und neuen Chancen", 2026-07-31 — [https://www.swp-berlin.org/publikation/klimapolitik-in-einer-multipolaren-welt-zwischen-fragmentierung-und-neuen-chancen](https://www.swp-berlin.org/publikation/klimapolitik-in-einer-multipolaren-welt-zwischen-fragmentierung-und-neuen-chancen)
+
+[16] SWP, "Der Konflikt um die Straße von Hormus", 2026-08-16 — [https://www.swp-berlin.org/publikation/der-konflikt-um-die-strasse-von-hormus](https://www.swp-berlin.org/publikation/der-konflikt-um-die-strasse-von-hormus)
+
+[17] Nadine Knapp, Anne Koch, "Migration Routes in Focus", 2026-08-16 — [https://www.swp-berlin.org/publikation/migration-routes-in-focus](https://www.swp-berlin.org/publikation/migration-routes-in-focus)

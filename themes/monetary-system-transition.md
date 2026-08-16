@@ -8,7 +8,7 @@ tags:
   - trade
   - sanctions
 status: ongoing
-timestamp: 2026-08-12T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Background
@@ -41,6 +41,12 @@ US Treasury Secretary Scott Bessent's secondary sanctions on Chinese banks facil
 - **Sovereign wealth fund reallocation**: Gulf sovereign wealth funds, among the world's largest, are gradually diversifying away from dollar-denominated assets, reflecting a structural rather than tactical shift [1].
 - **Yuan-denominated cargo bypasses the petrodollar blockade.** Only Chinese-flagged tankers carrying yuan-denominated cargo were permitted sporadic Hormuz passage — a sanctioned oil transaction system functioning alongside the petrodollar one. [7]
 - **Currency zone partitioning, not regime succession.** The renminbi is structurally minor at 1.99% of global reserves vs 5.44% for the yen, yet the system operates as a parallel-systems state — separate dollar, renminbi, and anti-sanction liquidity zones coexist. [8]
+- **Dollar dominance no longer guarantees exclusivity.** States are investing in alternative payment systems, regional settlement arrangements, and digital financial infrastructure not to abandon the dollar but to ensure they are no longer beholden to it. [10]
+- **China seeks strategic resilience, not reserve currency status.** Beijing's renminbi internationalisation, CIPS, bilateral swap arrangements, and digital financial innovation aim to provide credible alternatives for Chinese firms and partners should Western access become restricted — not to replicate the dollar's role. [10]
+- **Stablecoins reinforce the dollar but reduce oversight.** Most stablecoins rely on dollar-denominated collateral, extending dollar usage into jurisdictions where conventional banking is limited, while operating outside formal channels and reducing transparency for regulators. [10]
+- **CBDC interoperability as modular architecture.** A network of interoperable digital currencies could allow transactions to bypass correspondent banking without abandoning the dollar — making the monetary hierarchy more modular rather than dividing into rival blocs. [10]
+- **Fed holds at 3.5–3.75%; offshore yuan at highest since February 2023.** The Fed's cautious rate policy has anchored expectations and curbed currency movements, while China's trade surplus has driven the offshore yuan to its strongest level in over three years. [11]
+- **Yen weakest since 1986; first joint US-Japan intervention since 2011.** The yen reached 159.2 per dollar, prompting a joint yen-buying intervention confirmed at the end of July. PM Takaichi unveiled a $2.3 trillion investment plan over 14 years. [11]
 
 # Analysis
 
@@ -92,6 +98,32 @@ The renminbi's structural ceiling is a quantitative limit on the DragonBear-mone
 
 If the public loses confidence in the administration's ability to manage the crisis, hoarding behavior could set in. Currie predicts the next US response would be to ban exports of refined products — a second-order consequence of the Grand Bargain breaking down, as the US shifts from protecting global trade flows to hoarding domestic supply [9]. See [Global System Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html) and [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html).
 
+## Financial Optionality: Dominance Without Exclusivity
+
+RUSI reframes the dedollarization debate: the defining feature of the emerging financial landscape is not the search for a successor to the US dollar but the steady expansion of **optionality**. The dollar remains the world's principal reserve currency, dominates foreign exchange markets, underpins international trade, and provides the foundation for the rapidly expanding stablecoin ecosystem. These advantages are reinforced by deep and liquid capital markets, comparatively robust legal institutions, and network effects accumulated over decades. What has changed is that dominance no longer guarantees exclusivity [10].
+
+Governments are hedging and investing in alternative payment systems, regional settlement arrangements, domestic card networks, local currency trading mechanisms, and digital financial infrastructure. They are not seeking to abandon the existing system but to ensure they are no longer beholden to it. Countries continue to use SWIFT while investing in alternative messaging platforms; they continue to invoice trade in dollars while experimenting with different settlement currencies. The result is a financial architecture that is becoming more layered and flexible, rather than simply dividing into rival blocs [10].
+
+The post-Cold War period was characterised by an unprecedented concentration of financial power — dollar dominance, correspondent banking, SWIFT messaging, and extraterritorial Western regulation created a system that was extraordinarily efficient but highly centralised. This centralisation became one of the West's greatest strategic advantages and spurred the development of financial sanctions as a principal instrument of foreign policy. The current expansion of optionality is eroding that centralisation: alternative payment mechanisms remain slower, less liquid, and more expensive, but under sanctions or geopolitical pressure, they become attractive despite their imperfections. An inefficient alternative can still be strategically valuable if it permits transactions that would otherwise be impossible [10].
+
+## China Seeks Resilience, Not Replacement
+
+China's ambitions are frequently misunderstood through the lens of dollar-replacement. Becoming the issuer of the world's principal reserve currency requires accepting significant trade-offs — open capital markets, deep financial liberalisation, and willingness to supply global liquidity during crises — that sit uneasily alongside China's capital controls and state-managed financial system. A more plausible interpretation is that [China]({{ site.baseurl }}/actors/countries/china.html) seeks **strategic resilience**: ensuring that Chinese firms, financial institutions, and trading partners possess credible alternatives should access to Western financial infrastructure become restricted. Success for Beijing may be less about achieving reserve currency dominance and more about providing an alternative financial infrastructure sufficiently useful that governments and businesses choose to maintain access alongside existing Western systems [10].
+
+## Technology Lowering the Cost of Choice
+
+Digital innovation is accelerating the optionality trend by lowering the cost of constructing alternative mechanisms. Stablecoins illustrate the complexity: far from undermining dollar dominance, most stablecoins reinforce it through dollar-denominated collateral, making dollar-dominated value more accessible across borders, including in jurisdictions where conventional dollar banking is limited. Simultaneously, stablecoins operate outside formal banking channels, reducing transparency for regulators accustomed to monitoring correspondent banking networks. The dollar may become even more widely used even as traditional instruments of financial oversight become less effective [10].
+
+CBDCs raise a different possibility: a network of interoperable digital currencies could allow transactions to bypass established correspondent banking relationships without requiring countries to abandon the dollar across all dimensions. Technology is not replacing the monetary hierarchy but making it more modular — currency choice, payment infrastructure, settlement arrangements, and regulatory oversight can increasingly be separated from one another. For Western policymakers, the objective should be to **preserve preference, not dominance**: maintaining the openness, legal certainty, liquidity, innovation, and institutional trust that make Western financial markets attractive, rather than attempting to prevent the emergence of every alternative. The future is likely to resemble a network of overlapping systems connected through intermediaries, technical gateways, and multiple forms of interoperability — creating both resilience and vulnerability [10].
+
+## Currency Movements: Fed Caution, Yuan Strength, Yen Crisis
+
+Colibasanu (GPF) documents the July 2026 currency landscape. The Federal Reserve has held interest rates at 3.5–3.75%, supporting current monetary conditions and maintaining overall dollar demand. These policies have curbed currency movements by anchoring rate expectations and influencing capital flows. The dollar's relatively weak performance against the euro and the yuan is attributable to this caution [11].
+
+The offshore [Chinese yuan]({{ site.baseurl }}/actors/countries/china.html), which trades more freely outside mainland China, reached its highest level against the dollar since February 2023. China's large trade surplus, driven by export growth, undergirds the appreciation. The rise has been gradual enough to raise questions about undervaluation, fueling debate about global imbalances, risk mitigation, and industrial policy [11].
+
+The [Japanese yen]({{ site.baseurl }}/actors/countries/japan.html) has been under constant pressure due to the growing gap between Japan's monetary policy and those of other major economies. The yen weakened to its lowest level since 1986, reaching 159.2 per dollar. Rising oil prices from the Iran conflict have aggravated inflationary pressure in Japan. At the end of July, Washington and Tokyo confirmed a joint yen-buying intervention — the first joint intervention in the currency market since 2011. Meanwhile, Prime Minister Sanae Takaichi unveiled plans to attract approximately $2.3 trillion in public and private investment over the next 14 years [11].
+
 # Citations
 
 [1] [Operation Epic Folly(Fury) — Part 9: Gold, The UAE, Currency Swap Lines and the Petrodollar](https://endtropy.substack.com/p/operation-epic-follyfury-part-9-gold)
@@ -111,3 +143,7 @@ If the public loses confidence in the administration's ability to manage the cri
 [8] Velina Tchakarova, "The Yen Breaks First", 2026-08-07 — [https://substack.com/@velinatchakarova/p-210196165](https://substack.com/@velinatchakarova/p-210196165)
 
 [9] Nate Hagens, "Why Abundance Is an Illusion with Jeff Currie | TGS 229", 2026-07-29 — [https://www.youtube.com/watch?v=ij1_uxiXmm8](https://www.youtube.com/watch?v=ij1_uxiXmm8)
+
+[10] RUSI, "Age of Optionality: The Future is Not About Replacing the US Dollar", 2026-08-11 — [https://www.rusi.org/explore-our-research/publications/commentary/age-optionality-future-not-about-replacing-us-dollar](https://www.rusi.org/explore-our-research/publications/commentary/age-optionality-future-not-about-replacing-us-dollar)
+
+[11] Antonia Colibasanu, "Checking in on the Strength of Currencies", GPF GeoEconomicLens, August 2026 — [https://geopoliticalfutures.com/lens/issue/august-2026/](https://geopoliticalfutures.com/lens/issue/august-2026/)

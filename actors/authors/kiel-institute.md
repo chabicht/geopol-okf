@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Kiel Institute for the World Economy — producing data-driven assessments of the Russian war economy, Hormuz closure economic damage via the KITE bottleneck model, and China third-market displacement using proportional benchmark methodology
 tags: [author, economics]
 status: ongoing
-timestamp: 2026-08-11T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Background
@@ -58,6 +58,8 @@ The proportional benchmark applied to BACI/CEPII trade data over a ten-year wind
 - "Endgame: The State of the Russian Economy" (Kiel Report No. 9) [1]
 - "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security" (Kiel Policy Brief No. 206) [2]
 - "Competing with China in Third Markets" (Kiel Report No. 213) [3]
+- "German defence budget 2027: a lot of money, the wrong priorities" [5]
+- "Ukraine Support Tracker: Europe leads on aid – US weapons remain key" [6]
 
 # Citations
 
@@ -68,3 +70,7 @@ The proportional benchmark applied to BACI/CEPII trade data over a ten-year wind
 [3] Sonali Chowdhry, Katharina Erhardt, and Julian Hinz, "Competing with China in Third Markets", 2026-06 — [https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/](https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/)
 
 [4] [Weekend Update #192: Can Russia Counter?](https://phillipspobrien.substack.com/p/weekend-update-192-can-russia-counter)
+
+[5] Kiel Institute, "German defence budget 2027: a lot of money, the wrong priorities", 2026-08-16 — [https://www.kielinstitut.de/publications/german-defence-budget-2027](https://www.kielinstitut.de/publications/german-defence-budget-2027)
+
+[6] Kiel Institute, "Ukraine Support Tracker: Europe leads on aid – US weapons remain key", 2026-08-16 — [https://www.kielinstitut.de/publications/ukraine-support-tracker-europe-leads](https://www.kielinstitut.de/publications/ukraine-support-tracker-europe-leads)

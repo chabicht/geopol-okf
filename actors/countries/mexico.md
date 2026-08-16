@@ -5,7 +5,7 @@ parent: Countries
 description: Latin America's second-largest oil producer pursuing strategic autonomy from the US through energy cooperation with Brazil and bilateral trade renegotiation under USMCA pressure
 tags: [country, energy, trade, latin-america, economics]
 status: ongoing
-timestamp: 2026-07-15T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Background
@@ -30,6 +30,8 @@ The July 1 USMCA negotiations ended before they truly began, with Washington mak
 
 See [USMCA Renegotiation 2026]({{ site.baseurl }}/events/usmca-renegotiation-2026.html).
 
+GPF (GeoEconomicLens August 2026) reports that Washington's decision not to automatically renew the USMCA on July 1, 2026 has replaced the trilateral framework with a prolonged period of annual reviews. The US is pursuing separate negotiations with Mexico and Canada. US concerns about Mexico center on automotive rules of origin, and Washington has pressed Mexico to align more closely with US Section 232 tariffs on Chinese steel and aluminum. Mexico has signaled willingness to examine US demands because its manufacturing sector remains heavily dependent on US investment and consumer demand, and has tried to reassure international investors — including Japanese automotive companies — that North American market access will remain stable. Mexico is likely to remain a major manufacturing hub, but its role may shift from a low-cost assembly platform toward a more tightly regulated extension of US industrial policy. Queretaro, just north of Mexico City, has emerged as a major data center hub, though it faces water stress and electricity constraints typical of the relocation trend's limits [3].
+
 ## Iran War Economic Repercussions
 
 Mexico remains vulnerable to tighter global financial conditions due to its deep integration into US manufacturing supply chains and reliance on external demand and capital. During the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), Mexico deepened fuel price controls and expanded subsidies to manage energy cost inflation [2].
@@ -38,11 +40,15 @@ Mexico remains vulnerable to tighter global financial conditions due to its deep
 
 - **Strategic autonomy vs economic dependence**: Mexico's pursuit of autonomy through diversification is structurally constrained by its geographic and economic integration with the US.
 - **Energy cooperation as autonomy tool**: The Pemex-Petrobras MoU is emblematic of a larger trend — the diversification of strategic resource exploration, exploitation, and refinement aimed at reducing vulnerabilities, alongside a stronger push for cooperation among countries of the Global South [1].
-- **USMCA as leverage point**: The US preference for bilateral deals over trilateral frameworks creates both risk and opportunity for Mexico to negotiate terms favorable to its strategic interests.
+- **USMCA as leverage point**: The US preference for bilateral deals over trilateral frameworks creates both risk and opportunity for Mexico to negotiate terms favorable to its strategic interests. [1]
 - **Pemex structural constraints**: Production declines, operational limitations, and dependence on foreign deep-water expertise constrain Mexico's energy strategy.
+- **From low-cost assembly to regulated US industrial extension.** USMCA non-renewal and US pressure on automotive rules of origin and Section 232 alignment are shifting Mexico toward tighter integration with US industrial policy. [3]
+- **Queretaro as data center hub with limits.** Proximity to the US market attracts data center investment, but water stress and electricity constraints expose the limits of relocation. [3]
 
 # Citations
 
 [1] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
 
 [2] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
+
+[3] Antonia Colibasanu (GPF), "GeoEconomicLens — August 2026: North American Trade", 2026-08-16 — [https://geopoliticalfutures.com/lens/issue/august-2026/](https://geopoliticalfutures.com/lens/issue/august-2026/)

@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Royal United Services Institute — UK defense and security think tank producing analysis on NATO strategy, asymmetric warfare, defense industrial capacity, sanctions, and Indo-Pacific security
 tags: [author, news]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Background
@@ -107,6 +107,12 @@ Per rules.md §8.5, "RUSI" is not one analytical voice. Track Record entries abo
 - "The EU's pragmatic turn toward the Taliban" (Giustozzi) [11]
 - "Japan's Ambivalent Policy Towards Russia and Ukraine" (James Brown) [12]
 - "The Dismissal of Ukraine's Defence Minister" (Jim McLean) [13]
+- "Putin's Political Longevity – A Framework of Considerations" (David Roche) [14]
+- "Paradiplomacy: From Devolved Nation to Foreign Policy Actor" (Jim McLean) [15]
+- "Age of Optionality: The Future is Not About Replacing the US Dollar" [16]
+- "Private Sector Cybercrime Disruption Compatible with Statecraft" [17]
+- "Lebanon's Tutelage Trap" [18]
+- "Instrumentalised Migration and Russia's 'Disposable Agents'" [19]
 
 # Citations
 
@@ -135,3 +141,15 @@ Per rules.md §8.5, "RUSI" is not one analytical voice. Track Record entries abo
 [12] [Japan's Ambivalent Policy Towards Russia and Ukraine](https://www.rusi.org/explore-our-research/publications/commentary/japans-ambivalent-policy-towards-russia-and-ukraine)
 
 [13] [The Dismissal of Ukraine's Defence Minister](https://www.rusi.org/explore-our-research/publications/commentary/dismissal-ukraines-defence-minister)
+
+[14] David Roche (RUSI), "Putin's Political Longevity – A Framework of Considerations", 2026-08-13 — [https://www.rusi.org/explore-our-research/publications/commentary/putins-political-longevity-framework-considerations](https://www.rusi.org/explore-our-research/publications/commentary/putins-political-longevity-framework-considerations)
+
+[15] Jim McLean (RUSI), "Paradiplomacy: From Devolved Nation to Foreign Policy Actor", 2026-08-12 — [https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/paradiplomacy-devolved-nation-foreign-policy-actor](https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/paradiplomacy-devolved-nation-foreign-policy-actor)
+
+[16] RUSI, "Age of Optionality: The Future is Not About Replacing the US Dollar", 2026-08-16 — [https://www.rusi.org/explore-our-research/publications/commentary/age-of-optionality](https://www.rusi.org/explore-our-research/publications/commentary/age-of-optionality)
+
+[17] RUSI, "Private Sector Cybercrime Disruption Compatible with Statecraft", 2026-08-16 — [https://www.rusi.org/explore-our-research/publications/commentary/private-sector-cybercrime-disruption](https://www.rusi.org/explore-our-research/publications/commentary/private-sector-cybercrime-disruption)
+
+[18] RUSI, "Lebanon's Tutelage Trap", 2026-08-16 — [https://www.rusi.org/explore-our-research/publications/commentary/lebanons-tutelage-trap](https://www.rusi.org/explore-our-research/publications/commentary/lebanons-tutelage-trap)
+
+[19] RUSI, "Instrumentalised Migration and Russia's 'Disposable Agents'", 2026-08-16 — [https://www.rusi.org/explore-our-research/publications/commentary/instrumentalised-migration-russias-disposable-agents](https://www.rusi.org/explore-our-research/publications/commentary/instrumentalised-migration-russias-disposable-agents)

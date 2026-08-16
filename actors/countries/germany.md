@@ -5,7 +5,7 @@ parent: Countries
 description: Germany as a geopolitical actor — publishing first military strategy, signaling European conventional defense leadership, but hampered by timeline inconsistencies, capability gaps, and the AfD's Trump dilemma
 tags: [country, military, europe, nato, ideology, economics, trade, energy]
 status: ongoing
-timestamp: 2026-08-11T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Background
@@ -23,6 +23,10 @@ The first deficiency is an inconsistent timeline. The strategy staggers its mile
 The second deficiency is the absence of any operationalization of the technological and economic transformation that the strategy's end-states would require. The third is the lack of structural changes to defense institutions. Without addressing these, the strategy's milestones float free of the organizational and industrial base that would have to deliver them [1].
 
 That base is already inadequate. Germany is currently unable to fulfill its NATO obligations, particularly its role as a logistics hub for European defense — not a future problem but a present-day shortfall that undermines alliance readiness [1]. Yet the strategy also performs a diplomatic function: it signals to Washington that Europe is ready to shoulder the conventional defense burden, and that the Indo-Pacific and the Middle East are not German priorities. This is a deliberate scoping decision that reflects both strategic realism and resource constraints [1].
+
+## Defence Budget 2027: Record Spending, Wrong Priorities
+
+The [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html) assesses Germany's FY2027 defence budget — a record €140 billion, an increase of more than €30 billion over the prior year — as structurally misallocated. Germany is rich in capital and technology but short on personnel, pointing from an economic perspective toward a technology-driven, automated defence strategy. Yet the budget lacks strategic integration of technology, industrial, and defence policy. Research spending will rise from €1.6 billion to nearly €3 billion, but at just over 2% of the defence budget, the R&D share remains low by international standards — the [United States]({{ site.baseurl }}/actors/countries/united-states.html) invests above 10% and the [UK]({{ site.baseurl }}/actors/countries/united-kingdom.html) around 5%. Procurement priorities reinforce the backward-looking posture: ammunition and field equipment account for 26% of military procurement, while €1.75 billion goes to F-35 fighter jets from the US. There is no clear focus on AI, autonomous systems, robotics, or space capabilities, nor on scalability — the government buys small quantities at high unit costs rather than investing in production capacity that could be ramped up quickly in an emergency. A fragmented arms industry with limited capacity and little competition means a growing budget may mainly produce higher prices. The Kiel Institute calls for coordination of defence spending with a comprehensive technology and industrial policy agenda, competition policy to push back against established defence companies' market power, and support for smaller, younger firms — pointing to the "Sparta 2.0" paper as a template [22]. See [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
 
 ## Economic Posture: China Shock & Industrial Crisis
 
@@ -80,6 +84,10 @@ Germany is becoming a destination for African labour and education migrants. Vis
 
 In 2023, Germany and [Colombia]({{ site.baseurl }}/actors/countries/colombia.html) signed a bilateral Partnership for Climate Action and a Just Energy Transition, with Germany pledging up to €200 million in funding; Colombia is one of three bilateral partners of the Federal Ministry for Economic Cooperation and Development (BMZ) in Latin America [11]. From the German side, the partnership reflects an effort to support supply-side climate policy in a Global South fossil fuel exporter, but German and broader EU engagement falls short of its strategic potential: financing materializes only once projects are well advanced, with little presence during high-risk early phases. Whether Germany can provide reliable support for Colombia's transformation is being closely watched by other Global South fossil fuel exporters. The Colombia-side dynamics — Petro's reform agenda, the 2026 political reversal, and the energy-transition trajectory — are tracked in the [Colombia]({{ site.baseurl }}/actors/countries/colombia.html) actor concept [11].
 
+## Relationships: Ukraine Bilateral Aid
+
+The [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html)'s Ukraine Support Tracker records that Germany allocated €700 million in bilateral military aid to [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) in May and June 2026 — the largest bilateral military donor in that period after the EU's collective Ukraine Support Loan allocations. The €90 billion EU loan is designed to support Ukraine's budgetary and defense needs through 2026 and 2027, with nearly €11 billion allocated in those two months alone. Yet financial and humanitarian aid across all European donors remained 41% below 2025 levels on a monthly average basis, even as military aid allocations nearly matched the prior year [23]. See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html).
+
 ## Healthcare Cybersecurity and the National Security Council
 
 Bayerlein, Bendiek, Hemmelskamp, and von der Forst ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) recommend that the German government treat healthcare cybersecurity as a matter for the Nationaler Sicherheitsrat (National Security Council), which could establish staff offices for the 18 critical infrastructure sectors to function as a hinge between local, European, and international policy levels. The Bundesamt für Sicherheit in der Informationstechnik (BSI) plays a central role in protecting the healthcare sector, working closely with ENISA and collecting reports on serious cyber incidents under the NIS-2 Directive. The German health minister has announced a specific Gesundheitssicherstellungsgesetz (Health Security Act) to complement the sectoral KRITIS laws, with core aspects including holistic resilience strengthening and closer cooperation with security authorities and the Bundeswehr. Johannes Backus, the Bundeswehr's Surgeon General and Commander of the Healthcare Command, frames resilience as the interaction of all relevant operational, administrative, and supply actors. The implementation repeatedly fails due to departmental boundaries and lack of top-down organization through the National Security Council [12]. See [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html).
@@ -114,6 +122,8 @@ At the European level, the [EU]({{ site.baseurl }}/actors/organizations/eu.html)
 - **Merz authority collapse and AfD election threat compound the capability gap.** Cabinet reshuffle cascade described as a "Scherbengericht"; AfD at 41% in Saxony-Anhalt polls on a platform of lifting Russia sanctions; federal "Notfallpläne" would route around an AfD interior ministry. [17][18]
 - **Back-channel diplomacy with Russia through unofficial channels.** Since early 2024, Germany has held meetings in Baku and Abu Dhabi to revive the Petersburg Dialogue, using Abramovich as intermediary. [19]
 - **Nuclear policy anchored in CTBT and multilateral arms control.** Germany ratified the CTBT; Rombach urges diplomatic pressure on China, CBMs, and independent European assessment of US evidence. [20]
+- **Record defence budget misallocates resources.** The €140B FY2027 budget allocates only 2% to R&D (vs. >10% US, ~5% UK), prioritizes F-35 purchases (€1.75B) over AI, autonomous systems, and space, and lacks scalability — buying small quantities at high unit costs rather than investing in surgeable production capacity. [22]
+- **Defence industry fragmentation risks price inflation.** A growing budget meeting a fragmented arms industry with limited capacity and little competition may produce higher prices rather than greater capability — competition policy and support for smaller, younger firms are needed. [22]
 
 # Analysis
 
@@ -180,3 +190,7 @@ Rombach further recommends that Germany and the EU support Washington's call for
 [20] Philipp Rombach (SWP), "China's Secret Nuclear Tests" — [https://www.swp-berlin.org/publikation/chinas-secret-nuclear-tests](https://www.swp-berlin.org/publikation/chinas-secret-nuclear-tests)
 
 [21] Sonali Chowdhry, Katharina Erhardt, and Julian Hinz, "Competing with China in Third Markets", Kiel Report No. 213, 2026-06 — [https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/](https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/)
+
+[22] Kiel Institute, "German defence budget 2027: a lot of money, the wrong priorities", 2026-08-16 — [https://www.kielinstitut.de/publications/news/german-defence-budget-2027-a-lot-of-money-the-wrong-priorities/](https://www.kielinstitut.de/publications/news/german-defence-budget-2027-a-lot-of-money-the-wrong-priorities/)
+
+[23] Kiel Institute, "Ukraine Support Tracker: Europe leads on aid – US weapons remain key", 2026-08-16 — [https://www.kielinstitut.de/publications/news/ukraine-support-tracker-europe-leads-on-aid-us-weapons-remain-key/](https://www.kielinstitut.de/publications/news/ukraine-support-tracker-europe-leads-on-aid-us-weapons-remain-key/)

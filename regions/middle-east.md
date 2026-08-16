@@ -5,7 +5,7 @@ parent: Regions
 description: Crossroads of three continents containing the Strait of Hormuz; undergoing a US strategic reorientation from Israel-centric to multilateral security, with Turkey-Israel rivalry as the defining competitive dynamic and Iran in systemic decline.
 tags: [middle-east, energy, military, trade]
 status: ongoing
-timestamp: 2026-08-11T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Background
@@ -54,6 +54,18 @@ Ahmed Saber Abbas ([War on the Rocks]({{ site.baseurl }}/actors/authors/war-on-t
 
 The same pattern is reasserting itself in the negotiations around the [Iran Ceasefire MoU]({{ site.baseurl }}/events/iran-ceasefire-mou.html). Israel rejected unifying the fronts within a single agreement and including [Lebanon]({{ site.baseurl }}/actors/countries/lebanon.html) in both the ceasefire and any future settlement. When the Trump administration opened separate negotiations on Lebanon, the result preserved the distinction Israel insisted on: the Iranian track could move forward while Lebanon was dealt with on separate terms. The U.S.-mediated Israel-Lebanon framework tied Israel's full withdrawal to Hizballah's disarmament, separating the Lebanese track from the Iranian one. The danger is that, once separated, Lebanon is no longer addressed through a comprehensive political settlement but through an open-ended arrangement of disarmament, verification, and conditional withdrawal — preserving the grievances, political vacuum, and unequal security conditions through which future resistance can grow. Peace agreements endure when they close conflict without diminishing sovereignty, as Camp David did with Egypt; they redistribute war when they defer sovereignty, as the Lebanese framework now does [14]. See [Lebanon]({{ site.baseurl }}/actors/countries/lebanon.html) and [Camp David Accords (1978)]({{ site.baseurl }}/events/camp-david-accords.html).
 
+## Lebanon's Tutelage Trap and the Syrian Option
+
+RUSI identifies a recurring structural pattern in Middle East security: outside powers attempting to solve Lebanon's unresolved armed order by assigning it to another external manager. Trump made this explicit in June 2026, proposing that [Syria]({{ site.baseurl }}/actors/countries/syria.html)'s new ruler Ahmed al-Sharaa "take care of" Hezbollah where [Israel]({{ site.baseurl }}/actors/countries/israel.html) has struggled [20]. The pattern stretches from Syria's 1976 entry into Lebanon (under Hafez al-Assad, exploiting a narrow political opening shaped by Lebanon's collapse, Arab cover, and tacred US-Israeli understandings about limits of Syrian movement), through Israel's 1982 invasion and the failed May 17 Agreement, to the Taif Agreement that ended the civil war without producing a fully sovereign Lebanese state [20]. None of these outside-manager experiments restored Lebanese sovereignty — they merely decided who manages its absence [20].
+
+Hezbollah's entrenched position makes the Syrian option even less viable than earlier attempts. The organization has spent decades building military, political, social, and financial structures far more deeply embedded than the PLO was in 1976 [20]. Sharaa lacks Hafez al-Assad's centralized army, intelligence networks in Lebanon, accumulated knowledge of Lebanese factions, and — critically — the strategic incentive to inherit Lebanon's security problem [20]. Syria's new military structure is still being consolidated, while much of the organizational memory connecting the Syrian state to Hezbollah's operational environment has been lost [20]. Sharaa might gain greater border control from Hezbollah's weakening, but this is not the same as a strategic reason to wage war inside Lebanon — especially without guarantees that Israel's freedom of action against Syria and Lebanon would be reduced afterward [20]. [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) investment in Syria announced in February 2026 is a wager on reconstruction and state capacity, not a mandate for a Lebanese war [20].
+
+## Gulf State Hedging and Regional Autonomy
+
+O'Brien documents that Gulf states are openly "hedging" — a euphemism for losing confidence in the US as ultimate security guarantor. For decades, [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) spent eye-watering sums building its military with US equipment and relying on Washington as the ultimate guarantor; now it can see the US cannot protect it from [Iran]({{ site.baseurl }}/actors/countries/iran.html) and can barely help fight the Houthis [21]. The entire security architecture constructed by Persian Gulf states — expensive US equipment purchases, hosting US military forces, acting as US allies — has been invalidated by the war [21]. Regional states are thinking more regionally, looking toward a future that relies as little as possible on the whims of a declining and fickle US [21].
+
+Pape's three-year projection compounds this trajectory. If Iran maintains its Hormuz leverage through January 2029, front-line Gulf states are likely to delay, scale back, or reconsider bypass pipeline plans, as investing in infrastructure directly opposed to Iran may prove impractical when Iran has demonstrated willingness to use force to enforce its goals [22]. Pressures will build for Gulf states to accept Iran's requirements to no longer be considered "hostile" nations — a major demand likely being the dismantling of US military bases on their territory, in addition to economic reparations and transit fees [22]. The combination of sustained Iranian leverage and growing regional power would make Iran an increasingly attractive and enduring partner for [Russia]({{ site.baseurl }}/actors/countries/russia.html) and [China]({{ site.baseurl }}/actors/countries/china.html), potentially accelerating the diversification away from the petrodollar [22].
+
 # Analysis
 
 ## Aqaba and the Basra-Aqaba Pipeline Threat
@@ -92,6 +104,9 @@ The signal effect cascades across the region. Abu Dhabi will likely seek to rene
 - **Nation-state reassertion** — Great power competition has paradoxically become a protective umbrella for weak states. The US now opposes partition in Syria, Iraq, and Yemen because fragmentation creates openings for China and Russia. China's rise has given the Middle East a chance to recover after years of turmoil [10].
 - **Post-war security architecture** — A new regional order is emerging with a "core" of Turkey, Saudi Arabia, Pakistan, and Egypt, supported by Qatar, UAE, Jordan, and Azerbaijan. Unlike Europe's NATO/EU frameworks, the Middle East is a "blank canvas" requiring integration mechanisms to be constructed from scratch [17].
 - **Nuclear proliferation cascade** — The US-Saudi nuclear agreement, combined with Iran's continued weapons program under militarized leadership, makes a Middle East with 3-5 nuclear powers increasingly likely [18].
+- **Lebanon's tutelage trap persists** — Outside-manager experiments (Syria 1976, Israel 1982, Taif) never restored Lebanese sovereignty; Trump's proposal for Sharaa's Syria to "take care of" Hezbollah repeats the pattern without giving Sharaa the leverage, machinery, or incentive his predecessors possessed [20].
+- **Gulf states are hedging away from the US** — Saudi Arabia and other Gulf states are losing confidence in US security guarantees, thinking more regionally as the war invalidates decades of architecture built on US equipment purchases and basing [21].
+- **Three-year Iranian leverage trajectory threatens Gulf sovereignty** — If Iran maintains Hormuz control through 2029, Gulf states face demands to dismantle US bases, pay transit fees, and accept Iranian hegemony, accelerating petrodollar diversification [22].
 
 # Citations
 
@@ -132,3 +147,9 @@ The signal effect cascades across the region. Abu Dhabi will likely seek to rene
 [18] [Atommacht Saudi-Arabien — Dieses Atomabkommen bringt zwei große Probleme mit sich](https://archive.ph/ncDGY)
 
 [19] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)
+
+[20] Ahmed Saber Abbas, "Lebanon's Tutelage Trap", RUSI Newsbrief, 2026-08-13 — [https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/lebanons-tutelage-trap](https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/lebanons-tutelage-trap)
+
+[21] Phillips P. O'Brien, "Midweek Update #22: The American Age in the Persian Gulf Is Over", 2026-08-06 — [https://phillipspobrien.substack.com/p/midweek-update-22-the-american-age](https://phillipspobrien.substack.com/p/midweek-update-22-the-american-age)
+
+[22] Robert Pape, "Iran's Endgame: Wait Out Trump", 2026-08-13 — [https://escalationtrap.substack.com/p/irans-endgame-wait-out-trump](https://escalationtrap.substack.com/p/irans-endgame-wait-out-trump)

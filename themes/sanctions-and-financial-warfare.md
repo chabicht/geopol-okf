@@ -9,7 +9,7 @@ tags:
   - trade
   - supply-chain
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Background
@@ -43,6 +43,13 @@ Russia, Iran, China, and North Korea increasingly outsource sanctions evasion to
 - **Coalition fragility**: Sanctions effectiveness depends on multilateral coordination, which erodes as third countries (China, UAE, Turkey) facilitate evasion for profit. [5]
 - **Sanctions-regime collapse risk**: Iranian control over Hormuz could functionally collapse the sanctions regime by channeling billions in toll revenue to the IRGC's missile program and proxies. [8]
 - **EU asset leverage**: The EU controls frozen Russian assets and market access, giving it decisive leverage over Russia's postwar reintegration — a lever Washington lacks. [10]
+- **Sanctions effectiveness tied to financial centralisation.** The post-Cold War concentration of financial power — dollar dominance, correspondent banking, SWIFT — made sanctions effective. As optionality expands, that centralisation erodes, and with it the coercive power of sanctions. [11]
+- **Alternative payment mechanisms strategically valuable under stress.** Non-Western systems remain slower and more expensive but become attractive when access to traditional channels is constrained. An inefficient alternative is still strategically valuable if it permits otherwise impossible transactions. [11]
+- **EU 21st package targets entire ecosystems.** 94 banks, 33 financial entities, 14 crypto platforms, 41 vessels, and the A7/A7A5 stablecoin network — a shift from persons and products to systems and infrastructure. [12]
+- **Graham bill: 86–12 Senate vote, tariffs up to 100% on Russian-energy buyers.** The posthumous legislation mandates 30-day and 180-day review cycles, targets the central bank, Rosatom, financial messaging providers, and converts secondary sanctions into visible tariff pressure. [12]
+- **SPFS/stablecoin continuum.** Sanctions policy now treats legacy interbank messaging, alternative messaging, stablecoin structures, and offshore crypto platforms as one continuum of financial mobility risk. [12]
+- **Insurance as sanctions control surface.** P&I insurance, war-risk cover, underwriting, and reinsurance can all facilitate prohibited shipping activity — making maritime coverage a central sanctions control point. [12]
+- **Calibrated coercion approaching its limit.** This may be one of the last major moments in which sanctions can be presented as a policy capable of changing Moscow's calculations without reorganising international commerce. [12]
 
 # Analysis
 
@@ -94,6 +101,36 @@ The yuan-based evasion is not a sophisticated parallel financial system but a si
 
 [Andrew Ryvkin]({{ site.baseurl }}/actors/authors/andrew-ryvkin.html) reframes Russia's postwar trajectory through the lens of EU leverage. It is the EU — not the US — that shares a border with Russia, that imposed the most economically damaging sanctions, and that controls the decisive vote over the future of Russia's frozen assets, integration into global banking, and access to European markets. Russia's postwar return to the global stage therefore requires EU, and especially German, engagement. Moscow downplays the extent of EU sanctions disruption, but the reorientation toward China has not proved as profitable: Russia-China trade totaled $228 billion in 2025, compared to $282 billion in Russia-EU trade in 2021 before the full-scale invasion. Germany has maintained back-channel diplomacy through figures like Roman Abramovich and meetings in Baku and Abu Dhabi, signaling that both sides understand the war will eventually end and that restoring economic ties will require these channels [10].
 
+## Post-Cold War Financial Centralisation and Its Erosion
+
+RUSI traces the structural basis of sanctions power to the post-Cold War period's unprecedented concentration of financial power. The combination of dollar dominance, the central role of correspondent banking, the ubiquity of SWIFT messaging, and the extraterritorial reach of Western financial regulation created a system that was extraordinarily efficient but also highly centralised. This centralisation became one of the West's greatest strategic advantages and enabled the development of financial sanctions as a principal instrument of foreign policy. Sanctions effectiveness is tied to that centralisation — as optionality expands and alternative payment mechanisms proliferate, the coercive power of sanctions erodes [11].
+
+Western policymakers face a more complex challenge than preserving financial dominance — they must **preserve preference**. Alternative payment mechanisms remain slower, less liquid, and more expensive than established Western infrastructure. Under normal circumstances, countries and businesses will continue to prefer existing systems. However, when confronted with sanctions or geopolitical pressure, those alternatives become more attractive despite their imperfections. The value of alternatives lies not in outperforming the incumbent system under ordinary conditions but in providing credible options during periods of disruption [11]. See [Global System Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html).
+
+## EU 21st Sanctions Package: Ecosystem Targeting
+
+Colibasanu (GPF) documents the EU's 21st sanctions package, adopted after the NATO Ankara summit on July 7–8. The package freezes assets of 94 banks and major institutions, sanctions one senior banking official, extends transaction bans to 33 additional Russian financial entities, and covers a Kyrgyz bank linked to SPFS, three other non-Russian banks involved in circumvention, and 14 crypto platforms. In energy, it adds 41 vessels to the shadow fleet list, restricts related maritime services, targets refineries and oil traders, and allows action against third-country facilities processing Russian feedstock. LNG measures are more cautious, relying on reporting, contractual safeguards, and limited service bans rather than an immediate prohibition. The package also tightens pressure on the military-industrial base, adds individual and corporate listings, expands dual-use export controls, restricts drone and aerospace goods, and targets the A7/A7A5 stablecoin network. New legal protections shield EU operators from retaliatory Russian court judgments [12].
+
+The shift from sanctions on persons and products to sanctions on **systems and ecosystems** is significant. The EU is extending restrictions to crypto platforms, shipping services, ports, airports, refineries, and logistics hubs — targeting the operational infrastructure of the Russian economy rather than individual bad actors [12].
+
+## The Graham Bill: Secondary Sanctions as Tariff Pressure
+
+In Washington, the Graham-backed sanctions bill moved through Congress with significant momentum. On July 28, the Senate voted 86–12 to advance H.R. 5334 as the vehicle for the sanctions measure. The bill requires the president to review and impose sanctions within 30 days of enactment and every 180 days thereafter, targeting senior Russian officials, defense suppliers, oligarchs, energy executives, sanctions-evasion networks, and shadow fleet vessels and operators. It mandates sanctions on Russia's central bank, major state-linked banks, and financial institutions; restricts US transactions and selected services to Russia; and allows sanctions against financial messaging providers used to evade restrictions. Additional provisions would enforce the Russian uranium import ban, target Rosatom leadership, and authorise tariffs of up to 100% on countries that remain major buyers of Russian energy or facilitate oil sanctions evasion [12].
+
+The growing use of secondary pressure is notable: the US is converting secondary sanctions into something more visible and coercive — tariff pressure on major energy buyers — while the EU increasingly targets third-country banks, refiners, traders, and crypto providers involved in circumvention. Sanctions and export controls are becoming more closely integrated, with the US proposal using the Commerce Department's Common High Priority Items List as a basis for sanctions, reflecting a focus on supply chains, sensitive goods, and diversion risks rather than solely on listed companies [12].
+
+## Financial Messaging as Sanctions Frontier
+
+Financial restrictions now target the full architecture of payment and settlement. EU measures are targeting SPFS-linked banks, crypto networks, and alternative payment channels; the US bill would sanction financial messaging services used for evasion. The implication is that sanctions policy now treats legacy interbank messaging, alternative messaging, stablecoin-style structures, and offshore crypto platforms as part of one continuum of financial mobility risk. Conventional banking, digital assets, and alternative messaging systems are part of the same financial risk landscape [12].
+
+Contractual and insurance risks are also increasing. Companies need stronger sanctions clauses, termination rights, anti-diversion warranties, and payment alternatives. Insurers and reinsurers must now treat maritime coverage as a central sanctions control point — P&I insurance, war-risk cover, underwriting, and reinsurance may all facilitate prohibited shipping activity. Sanctions compliance is moving from a specialised legal check to a company-wide system of operational control [12].
+
+## Calibrated Coercion and the Limits of Sanctions
+
+Both sides are pursuing **calibrated rather than absolute coercion**. The EU has delayed or exempted certain measures to protect energy security and market stability; the US has reduced its maximum tariff and added exemptions. Sanctions are becoming broader and stronger even as they become more carefully designed to limit economic damage to Western interests [12].
+
+The sanctions regime has become so extensive that compliance itself is reshaping how companies operate. Even firms with no direct business in Russia may need to strengthen screening across payments, ownership structures, shipping routes, counterparties, insurers, distributors, and end users. The sophistication of Western sanctions is not incidental — policymakers have been preparing for the possibility that negotiations might begin and that sanctions could serve as leverage. Yet no agreement appears imminent, and each new package pushes restrictions deeper and wider. This may be one of the last major moments in which Western governments can present sanctions as a policy capable of changing Moscow's calculations without reorganising international commerce. The transformation of sanctions from a gradual instrument of pressure into a mechanism of economic separation is underway [12].
+
 # Citations
 
 [1] [Decoding Sanctions: How Governments can get the Best out of Banks](https://www.rusi.org/explore-our-research/publications/commentary/decoding-sanctions-how-governments-can-get-best-out-banks)
@@ -115,3 +152,7 @@ The yuan-based evasion is not a sophisticated parallel financial system but a si
 [9] Seth G. Jones and Riley McCabe, "Russian Blood and Treasure: The Ballooning Costs of Putin's War", 2026-08-05 — [https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war](https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war)
 
 [10] Andrew Ryvkin, "Russia's Road Back Runs Through Berlin", 2026-08-04 — [https://geopoliticalfutures.com/russias-road-back-runs-through-berlin/](https://geopoliticalfutures.com/russias-road-back-runs-through-berlin/)
+
+[11] RUSI, "Age of Optionality: The Future is Not About Replacing the US Dollar", 2026-08-11 — [https://www.rusi.org/explore-our-research/publications/commentary/age-optionality-future-not-about-replacing-us-dollar](https://www.rusi.org/explore-our-research/publications/commentary/age-optionality-future-not-about-replacing-us-dollar)
+
+[12] Antonia Colibasanu, "Are These the Final Sanctions?", GPF GeoEconomicLens, August 2026 — [https://geopoliticalfutures.com/lens/issue/august-2026/](https://geopoliticalfutures.com/lens/issue/august-2026/)

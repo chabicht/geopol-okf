@@ -5,7 +5,7 @@ parent: Countries
 description: Major US trading partner targeted by Trump's Section 338 tariffs; economic coercion campaign, USMCA renegotiation pressures, and consumer boycott impacts
 tags: [country, trade, economics]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Background
@@ -16,6 +16,8 @@ Canada is the United States' northern neighbor and one of its largest trading pa
 
 On July 20, 2026, Trump invoked Section 338 of the Tariff Act of 1930 — a provision dormant since the 1940s — to impose 50% tariffs on approximately $20 billion in Canadian imports. Three separate proclamations targeted alcoholic beverages, motor vehicles, and dairy. The tariffs are scheduled to take effect August 19, 2026, and apply regardless of USMCA compliance status. The USMCA review is underway, with US-Mexico negotiations having advanced speedily while Canada remained reluctant to negotiate. Prime Minister Mark Carney called for resolution, but coercion has shrunk the political room for engagement.
 
+GPF (GeoEconomicLens August 2026) reports that Washington's decision not to automatically renew the USMCA on July 1, 2026 has put North American economic relations in a prolonged period of annual reviews. The US is pursuing separate negotiations with Mexico and Canada, reinforcing a protectionist strategy focused on shortening supply chains, strengthening domestic industry, and limiting China's indirect access to the North American market. With Canada, the relationship is more confrontational: formal trade talks have not begun, and Washington has imposed tariffs on a large share of Canadian imports while excluding strategically important products such as energy, critical minerals, potash, and fish. Canada has responded by trying to reduce its dependence on the US market — agreements and negotiations with Saudi Arabia, Ecuador, Turkey, China, and European and Asian defense partners indicate a broader diversification strategy. Plans for a west-to-east oil pipeline similarly aim to redirect Canadian energy toward Asian markets [6].
+
 # Key Dynamics
 
 - **Section 338 revives a dormant statute as USMCA leverage.** No court has interpreted the 1930 provision; it likely violates WTO commitments and replaces expiring Section 122 tariffs after the Supreme Court struck down IEEPA tariffs. [2]
@@ -25,6 +27,7 @@ On July 20, 2026, Trump invoked Section 338 of the Tariff Act of 1930 — a prov
 - **A Trump deal lasts only until he breaks it.** The tariffs explicitly override USMCA origin rules; Canadians now view the US less favorably than China. [3]
 - **Middle powers manage exposure, not alignment.** Carney's adaptive balancing generates compliance distinct from genuine alignment — a vulnerability the DragonBear axis can exploit. [5]
 - **Arctic sovereignty diverges from NATO consensus.** Canada treats the Northwest Passage as internal waters, paralleling elements of Russia's territorial framing while remaining firmly in NATO. [4]
+- **USMCA non-renewal drives diversification.** Annual reviews replace the trilateral framework; Canada is pursuing Saudi, Ecuadorian, Turkish, Chinese, and European/Asian defense partners while planning a west-to-east oil pipeline toward Asian markets. [6]
 
 # Analysis
 
@@ -74,3 +77,5 @@ Canada is also one of only three Western Arctic littoral states — alongside De
 [4] [Defining the White Water Zone: Cold Seas as a Distinct Category for the Operational Ordering of Maritime Domain](https://www.swp-berlin.org/en/swp/working-groups/reordering-european-security)
 
 [5] [Global System Rupture - Update](https://substack.com/@velinatchakarova/p-208325909)
+
+[6] Antonia Colibasanu (GPF), "GeoEconomicLens — August 2026: North American Trade", 2026-08-16 — [https://geopoliticalfutures.com/lens/issue/august-2026/](https://geopoliticalfutures.com/lens/issue/august-2026/)
