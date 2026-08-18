@@ -4,6 +4,33 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-08-19 — Refinement: Tchakarova & O'Brien (full pass)
+
+**Refined (2)**
+
+* **Refinement**: Full arc restructure of [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html). Regenerated 17 source-organized sections into 4 arcs + 13 standalone sections from 124 inventoried claims and 15 archived sources: financial-monetary-cascade (identification → mechanism → structural outcome), gsr-diagnostic-trajectory (Day 144 → Day 150 → Day 152 formalization), theater-coupling (two-theater → three-theater Patriot bottleneck), hormuz-escalation (chokepoint control → bargaining-phase equilibrium). Background and Recurring Themes regenerated as projections. 4 unsupported claims dropped (standalone-02, 14, 44, 45). 3 weaker_in_source corrections applied (standalone-24: Triumvirate framing softened; standalone-29: dropped "third coined concept" enumeration; standalone-39: restored "may be" hedge on Ceuta). Track Record preserved byte-identical.
+* **Refinement**: Full arc restructure of [Phillips P. O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html). Regenerated 16 source-organized sections into 3 arcs + 8 standalone sections from 143 inventoried claims and 25 archived sources: us-iran-assessment (initial lessons → consequence-free world → self-defeating war → Iran's calculus → China exploitation), us-decline-trajectory (general thesis → military culture → military reconstruction → fiscal ceiling), ukraine-posture (operational tracking → Trump pivot trap → Patriot leverage). Background regenerated as projection. 8 unsupported claims dropped (ranged-war-02/03/04, battles-reveal-02/03, cheap-mass-02/03, us-decline-01). 6 weaker_in_source corrections applied (ranged-war-01: source targets; rma-01: dropped Iran, attributed to O'Brien; how-wars-end-11: dropped "predictable"; how-wars-end-14: source terminology; authoritarian-coalition-04: count/items/consequence; nato-posture-05: restored hedging). Citation misattribution corrected: us-decline-17–21 → [27], us-decline-16 → [30], us-decline-12–15 → [28]. Track Record preserved byte-identical.
+
+**Corrections**
+
+* **Citation fix**: Tchakarova [7] repointed from misresolved Substack URL to GfKV PDF (`gfkv.org/…/GfKV-Global-Systemic-Rupture-…pdf`). New source wrapper file created: `sources/2026-04-12 GfKV Global Systemic Rupture The Fourth Systemic Crisis.md`.
+* **Citation fix**: Tchakarova [33] URL corrected to match existing source file for "Wave Three Verification."
+* **Phantom citations removed**: Tchakarova [34] "The Triumvirate Under Stress" and [35] "Middle Power Cascade" — articles do not exist online and were not cited in body text. Removed from Sources in Bundle and Citations.
+* **Frontmatter fix**: O'Brien description updated to remove dropped us-decline-01 language ("accelerating faster than expected" → "accelerating across diplomatic, military, cultural, and fiscal domains").
+
+**Corpus defects (pre-existing, surfaced)**
+
+* Orphaned source files not in any citation list: "The Cascade Comes to the Table" and "A Test Run on the INSTC" (Tchakarova), "Lindsey Graham On Ukraine and Trump" (O'Brien).
+* Tchakarova [7]/[8] shared a URL — now separated after [7] repoint.
+
+**Consolidation candidates (for future okf-consolidate)**
+
+* Tchakarova GSR diagnostic ↔ `themes/global-system-rupture.md` — extensive figure/framing overlap.
+* Tchakarova theater coupling ↔ `themes/defense-industrial-resilience.md` and `conflicts/us-iran-war-2026.md`.
+* Tchakarova Hormuz ↔ `conflicts/us-iran-war-2026.md`, `themes/global-system-rupture.md`, `actors/countries/iran.md`.
+* O'Brien us-iran ↔ `conflicts/us-iran-war-2026.md` — same figures attributed to O'Brien in both.
+* O'Brien us-decline ↔ `themes/revolution-in-military-affairs.md`, `themes/defense-industrial-resilience.md`, `actors/countries/united-states.md`.
+
 ## 2026-08-16 — Incorporation: Coordinator Wave (RUSI ×2, GeoEcon Aug 2026, O'Brien ×4, Pape ×1, Honest Sorcerer ×1, ctindale ×2, CSIS ×2, Kiel ×2, SWP ×2)
 
 **Updates (21)**
