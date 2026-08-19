@@ -7,7 +7,7 @@ event_date: 2026-07-15
 actuality: actual
 tags: [military, missile, air-defense, middle-east]
 status: concluded
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -54,6 +54,13 @@ Long-range anti-ship munitions (LRASM, Maritime Strike Tomahawk, Naval Strike Mi
 
 See [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) for the broader industrial base analysis, [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) for the full conflict context, and [Taiwan Standoff]({{ site.baseurl }}/conflicts/taiwan-standoff.html) for the Pacific contingency that frames the munitions-risk assessment.
 
+## Iran's Partner Disillusionment and the Russia Relationship
+
+The ceasefire exposed sharp tensions between [Iran]({{ site.baseurl }}/actors/countries/iran.html) and its security partners. President Pezeshkian publicly reproached countries he characterized as friends for withholding support during the fighting, stating that some did not assist Iran during the war days [2]. The frustration was directed in part at [Russia]({{ site.baseurl }}/actors/countries/russia.html), whose reciprocal aid fell well short of what Tehran had provided Moscow during the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html). Iran had supplied Russia with thousands of missiles and over 300,000 artillery shells for use in Ukraine, yet Russia's response during the Twelve-Day War was largely confined to diplomatic phone calls and a Foreign Ministry statement [2].
+
+Despite the public displeasure, security cooperation between Tehran and Moscow deepened rather than frayed after the conflict. During the fighting itself, Russia transitioned from an initially passive posture to active material support, furnishing Iran with upgraded drones described as resistant to electronic jamming along with satellite-imagery intelligence [2]. The pattern suggests that Russia calibrated its involvement — staying on the sidelines early before extending concrete military assistance — and that Iran, despite its rhetorical frustration, judged the partnership too valuable to abandon. The episode illustrates the asymmetry inherent in the Iran-Russia relationship: Iran has invested far more in sustaining Russia's war effort than Russia reciprocated when Iran faced direct conflict with [Israel]({{ site.baseurl }}/actors/countries/israel.html) and the [United States]({{ site.baseurl }}/actors/countries/united-states.html) [2].
+
 # Citations
 
 [1] Mark F. Cancian, Chris H. Park, "Six Reasons Why the United States Is Low on Munitions", 2026-08-05 — [https://www.csis.org/analysis/six-reasons-why-united-states-low-munitions](https://www.csis.org/analysis/six-reasons-why-united-states-low-munitions)
+[2] Aisha Sulemana et al. (SBU/CSIS Journalism Bootcamp), "At Arm's Length", 2026-08-18 — [https://features.csis.org/at-arms-length/](https://features.csis.org/at-arms-length/)

@@ -9,7 +9,7 @@ tags:
   - trade
   - supply-chain
 status: ongoing
-timestamp: 2026-08-16T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -28,6 +28,11 @@ The global energy landscape is defined by extreme asymmetries in consumption and
 - Silver has passed its production peak; copper is expected to peak before 2030.
 - [Qatar]({{ site.baseurl }}/actors/countries/qatar.html)'s Ras Laffan facility represents approximately one-fifth of global seaborne LNG supply — a concentration of risk visible in the [Qatar LNG explosion]({{ site.baseurl }}/events/qatar-lng-explosion.html).
 - [Russia]({{ site.baseurl }}/actors/countries/russia.html)'s oil exports surged to 4.11 mbpd to fill the Hormuz gap, demonstrating how sanctions regimes fracture under systemic stress.
+- Pre-war Hormuz throughput averaged approximately 20.9 million barrels/day of petroleum liquids — roughly one-fifth of global consumption — and more than one-fifth of global LNG supply. Saudi and UAE bypass pipelines can redirect only about 4.7 million barrels/day, leaving a structural gap that no rerouting can close [48].
+- Oil has traded above $90/barrel as prospects for a renewed US-Iran agreement dimmed, embedding a persistent risk premium into crude pricing [48].
+- Roughly half of any crude-oil price change passes through to US retail gasoline within approximately two weeks, and about 80% within four weeks — making pump prices a fast-transmitting political signal from Hormuz disruption [48].
+- [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) has rerouted exports through [Red Sea]({{ site.baseurl }}/regions/red-sea.html) terminals as a workaround to Iran's closure of Persian Gulf shipping lanes, relying on the same bypass architecture exposed by Houthi pressure [49].
+- The IRGC threatened [Gulf states]({{ site.baseurl }}/regions/middle-east.html) with destruction of energy facilities if the US strikes similar sites in Iran, circulating detailed target lists to underscore the credibility of the threat [49].
 
 # Key Dynamics
 
@@ -232,6 +237,14 @@ Copper prices already reflect the convergence of AI and electrification demand: 
 
 Wordsworth's five-stage development framework — mobilisation, adaptation, contestation, consolidation, and possible rebalancing — describes how data centre infrastructure will evolve as demand outpaces supporting systems. The regional scorecard ranks the US highest overall (4.0), followed by the Middle East (3.78) and China (3.67), with Europe at 3.22. Tindale's formulation that "data centres are the new dreadnoughts" captures the reclassification: AI and semiconductor fabrication have been absorbed into the defence apparatus, and the copper and acid required to wire 300-MW data centres are no longer acquired through commercial pricing but through sovereign mandate [46][47]. See [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html).
 
+## Gasoline as Political Pressure Vector
+
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) argues that Iran's Hormuz strategy operates through a direct causal chain: chokepoint pressure drives higher and more volatile crude prices, which transmit rapidly into retail gasoline, diesel, and transport costs, which in turn erode voter confidence in [Trump]({{ site.baseurl }}/actors/trump.html)'s war plan. The pass-through speed is politically significant — because roughly half of a crude price move reaches the pump within two weeks and 80% within four, any escalation in Hormuz disruption produces visible consumer pain on a timeline shorter than a news cycle. Pape's survey data show that 40% of Americans now identify gasoline prices as a major source of stress, up from 27% before the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — a shift that converts an energy-market variable into an electoral liability. The mechanism links the [Insurance and Trade Warfare]({{ site.baseurl }}/themes/insurance-and-trade-warfare.html) domain to domestic politics: when selective denial of Hormuz transit keeps crude elevated, the political cost accumulates in the price voters see at the pump, not in abstract strategic debate. See [Inflation and Monetary Policy]({{ site.baseurl }}/themes/inflation-and-monetary-policy.html) [48].
+
+## Heat-Energy Demand Feedback
+
+[Adam Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) draws on Allianz Research to identify a dual-channel drag that intensifies the energy squeeze from the climate side. Energy consumption rises approximately 1.2% per degree Celsius at precisely the temperature thresholds where labor productivity declines — meaning heatwaves simultaneously increase power demand and reduce economic output, compounding the stress on already constrained energy systems. Under heat-stress scenarios, Allianz estimates that fiscal balances deteriorate by roughly 0.5% of GDP annually on average across affected [European]({{ site.baseurl }}/regions/europe.html) economies, as cooling demand strains grids, import costs rise, and productivity losses narrow the tax base. The feedback loop connects to the broader resource framework: heat-driven demand growth competes with the fossil-fuel drawdown and chokepoint constraints documented above, ensuring that even a partial Hormuz recovery would not relieve price pressure if climate amplification continues to lift baseline consumption [50].
+
 # Citations
 
 [1] [The Myth of American Energy Independence](https://thehonestsorcerer.substack.com/p/the-myth-of-american-energy-independence)
@@ -327,3 +340,9 @@ Wordsworth's five-stage development framework — mobilisation, adaptation, cont
 [46] Craig Tindale, "The Copper Residual", 2026-08-13 — [https://ctindale.substack.com/p/the-copper-residual](https://ctindale.substack.com/p/the-copper-residual)
 
 [47] Ronan Wordsworth, "The Geography of Data Centers", GeoEconomicLens, August 2026 — [https://geopoliticalfutures.com/lens/issue/august-2026/](https://geopoliticalfutures.com/lens/issue/august-2026/)
+
+[48] Robert Pape, "Iran's Strategy for the U.S. Midterms: Maximum Political Pressure on Trump", 2026-08-18 — [https://escalationtrap.substack.com/p/irans-strategy-for-the-us-midterms](https://escalationtrap.substack.com/p/irans-strategy-for-the-us-midterms)
+
+[49] Benoit Faucon and Summer Said, "Iran's Secret Plan to Escalate the War", 2026-08-17 — [https://www.wsj.com/world/middle-east/iran-plan-escalate-war-cc657664](https://www.wsj.com/world/middle-east/iran-plan-escalate-war-cc657664)
+
+[50] Adam Tooze, "Chartbook 467: Heatwave economics — summer 2026", 2026-08-16 — [https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave](https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave)

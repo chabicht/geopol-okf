@@ -9,7 +9,7 @@ tags:
   - cyber
   - ai
 status: ongoing
-timestamp: 2026-08-16T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -148,6 +148,10 @@ The fractured nature of the Iranian regime complicates attribution. Iran's commu
 
 President Trump's quick attribution of the Minnesota water attacks to Democratic officials — immediately refuted by Governor Walz — was revealing. It may have reflected a deliberate political calculation: minimising conjecture about perpetrators and quashing any space for the attacks to be perceived as escalation, in order to preserve the broader strategic space for diplomatic negotiations with Iran to continue. The aggressive posture set out in the US National Cyber Strategy 2026 suggests that the administration will likely respond privately with offensive cyber operations, even while downplaying the incidents rhetorically [16]. See [United States]({{ site.baseurl }}/actors/countries/united-states.html) and [Iran]({{ site.baseurl }}/actors/countries/iran.html).
 
+## Perception Warfare in the Iran Conflict
+
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) argues that [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s overarching objective in the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) is cognitive rather than kinetic: to create a domestic perception within the [United States]({{ site.baseurl }}/actors/countries/united-states.html) that the war is expensive, indefinite, and strategically pointless. Once that perception takes hold, the political pressure on [Donald Trump]({{ site.baseurl }}/actors/trump.html) exceeds any direct physical damage Iran can inflict on the Gulf — the cognitive effect becomes the primary mechanism of coercion [17]. Iran must persuade not only American voters but also global audiences that the Trump administration has no viable military path to victory at a cost Americans will bear. The persuasion campaign operates through the accumulation of visible costs — disruption of energy flows, hedging by Gulf allies, and the absence of a credible endgame — rather than through discrete information operations [17]. As the conflict persists, the economic consequences of the war become increasingly intertwined with political consequences for Trump and his party: rising fuel prices, fracturing alliance cohesion, and the perception of strategic drift all feed back into the domestic political calculus that will determine whether the US sustains the campaign. This is perception warfare conducted at the intersection of military coercion and electoral politics, where the target is not a battlefield but the American voter's assessment of whether the war is worth fighting [17]. See [Escalation Theory Critique]({{ site.baseurl }}/themes/escalation-theory-critique.html) and the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html).
+
 # Citations
 
 [1] [https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris](https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris)
@@ -181,3 +185,5 @@ President Trump's quick attribution of the Minnesota water attacks to Democratic
 [15] RUSI, "Private Sector Cybercrime Disruption: Compatible with Statecraft?", 2026-08-10 — [https://www.rusi.org/explore-our-research/publications/commentary/private-sector-cybercrime-disruption-compatible-statecraft](https://www.rusi.org/explore-our-research/publications/commentary/private-sector-cybercrime-disruption-compatible-statecraft)
 
 [16] Nikita Shah, "The Cyberattacks on the U.S. Water Sector and the Iran Question: Escalation or Opportunism?", CSIS, 2026-08 — [https://www.csis.org/analysis/cyberattacks-us-water-sector-and-iran-question-escalation-or-opportunism](https://www.csis.org/analysis/cyberattacks-us-water-sector-and-iran-question-escalation-or-opportunism)
+
+[17] Robert Pape, "Iran's Strategy for the U.S. Midterms: Maximum Political Pressure on Trump", 2026-08-18 — [https://escalationtrap.substack.com/p/irans-strategy-for-the-us-midterms](https://escalationtrap.substack.com/p/irans-strategy-for-the-us-midterms)

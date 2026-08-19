@@ -11,7 +11,7 @@ tags:
   - supply-chain
   - economics
 status: ongoing
-timestamp: 2026-08-16T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -31,6 +31,16 @@ Militaries are responding with transportable microreactors, microgrids, and stor
 The cyber domain is no longer a support function but a primary battlespace. NATO's Locked Shields 2026 exercise convinced defense officials that commercial cybersecurity capabilities must be integrated into military operations, blurring the line between defense and private sector infrastructure. NATO and EU plans highlighted critical digital gaps, as well as [Europe]({{ site.baseurl }}/regions/europe.html)'s untenable reliance on US cloud infrastructure. The exercise revealed that private sector capabilities often exceed those of military organizations [1].
 
 These systems share a specific constraint: power. Hyperscale data centers, secure cloud infrastructure, and AI-driven defense systems all depend on stable and scalable energy. Yet global investment remains imbalanced; far more capital is directed toward energy generation than storage and distribution. This creates a bottleneck, particularly in contested environments where energy cannot be reliably transmitted. The defense industry's ability to field AI-enabled systems is constrained not by computing power but by the energy infrastructure required to run them [1]. The [AI military race]({{ site.baseurl }}/themes/ai-military-race.html) is therefore not only about models and deployment speed but about the energy infrastructure that powers AI systems — the energy-cyber bottleneck is the physical substrate of the AI competition, and it is currently underinvested relative to the attention devoted to model development and chip fabrication [1].
+
+## Air-Defence Affordability and European Counter-UAS
+
+[Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) has increased its ability to shoot down Shahed-type drones, but ballistic missiles remain a key problem because of limited Patriot interceptors. [Germany]({{ site.baseurl }}/actors/countries/germany.html) and other European nations are ramping up counter-UAS capabilities — Skyranger, IRIS-T, electronic warfare, and special anti-drone forces — but [Europe]({{ site.baseurl }}/regions/europe.html) lacks sufficient affordable air-defence systems for mass drone attacks [33].
+
+In 2025, [Russia]({{ site.baseurl }}/actors/countries/russia.html) spent approximately $190 billion on defense versus [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s $7.4 billion — a ratio of roughly 25:1. Russian defense spending surged from 12.9% of government expenditure in 2022 to 19.8% in 2025–2026. Despite the partnership, Russia has not shared its most advanced surface-to-air missiles with Iran [34].
+
+## US Carrier Force Readiness
+
+The US carrier maintenance backlog is now backed up for years; the Lincoln will require at least two years of refit. The [United States]({{ site.baseurl }}/actors/countries/united-states.html) Navy has zero carriers in the Western [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html) for the first time since 1943–44 [35].
 
 # Key Dynamics
 
@@ -229,6 +239,10 @@ The [Kiel Institute]({{ site.baseurl }}/actors/authors/kiel-institute.html)'s Uk
 
 The dependency is most acute for Patriot interceptors, for which Europe has only limited alternatives. The longer-term question is whether Europe can develop and produce reliable substitutes for key US defense systems to gradually reduce this dependence — a question that intersects directly with Germany's budget priorities and the broader European defence-industrial base agenda. The Ukraine Support Loan — a €90 billion EU instrument designed to support Ukraine's budgetary and defense needs in 2026 and 2027 — allocated nearly €11 billion in May and June 2026 alone (€4.3 billion military, €6.7 billion financial and humanitarian). Yet financial and humanitarian aid remained 41% below 2025 levels on a monthly average basis, even as military aid allocations nearly matched the prior year [31]. See [Germany]({{ site.baseurl }}/actors/countries/germany.html) and [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html).
 
+## Carrier Force Readiness Crisis
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) argues that US military reconstruction will take a decade or more, and the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) has compounded Pacific degradation by consuming advanced munitions and carrier availability. The carrier maintenance backlog — years of deferred work now compounded by combat deployment cycles — means the US Navy faces a period in which its primary power-projection platform is structurally unavailable in the [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html), precisely when Chinese capabilities are expanding. With zero carriers in the Western Pacific for the first time since 1943–44 and the Lincoln requiring at least two years of refit, the gap between strategic commitment and operational capacity is widening [35]. This extends the spending-capacity gap thesis: the problem is not only that money does not automatically produce capability, nor that stockpiles are depleted, but that the operational instruments themselves — carriers, air wings, maintenance cycles — require a reconstruction timeline measured in years rather than appropriations. The [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) cost-exchange dynamic compounds the problem: cheap drones and missiles impose continued interceptor expenditure even as the carrier force that would project power sits in maintenance backlog.
+
 # Citations
 
 [1] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
@@ -294,3 +308,9 @@ The dependency is most acute for Patriot interceptors, for which Europe has only
 [31] Kiel Institute, "Ukraine Support Tracker: Europe leads on aid – US weapons remain key", 2026-08-16 — [https://www.kielinstitut.de/publications/news/ukraine-support-tracker-europe-leads-on-aid-us-weapons-remain-key/](https://www.kielinstitut.de/publications/news/ukraine-support-tracker-europe-leads-on-aid-us-weapons-remain-key/)
 
 [32] Jack Watling, "Patriot missiles have been a godsend for Ukraine against Putin, but they're running out. Kyiv needs help and fast", 2026-08-14 — [https://www.theguardian.com/commentisfree/2026/aug/14/patriot-missiles-ukraine-putin-kyiv-running-out-nato-danger](https://www.theguardian.com/commentisfree/2026/aug/14/patriot-missiles-ukraine-putin-kyiv-running-out-nato-danger)
+
+[33] Velina Tchakarova, "Russian war on Ukraine - Update", 2026-08-18 — [https://substack.com/@velinatchakarova/p-211724442](https://substack.com/@velinatchakarova/p-211724442)
+
+[34] Aisha Sulemana et al. (SBU/CSIS Journalism Bootcamp), "At Arm's Length", 2026-08-18 — [https://features.csis.org/at-arms-length/](https://features.csis.org/at-arms-length/)
+
+[35] Phillips P. O'Brien, "Is The American Age In The Western Pacific Over As Well?", 2026-08-17 — [https://phillipspobrien.substack.com/p/is-the-american-age-in-the-western](https://phillipspobrien.substack.com/p/is-the-american-age-in-the-western)

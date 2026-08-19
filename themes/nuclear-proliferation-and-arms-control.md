@@ -7,7 +7,7 @@ tags:
   - nuclear
   - military
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -63,7 +63,14 @@ The cascade dynamic is self-reinforcing. Each new nuclear state increases the in
 
 This theme intersects with [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) and [Global System Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html): the nuclear domain is one of the last areas where great-power coordination remains formally possible, but also one where the consequences of fragmentation are most catastrophic.
 
+## Russia's Nuclear Exclusivity and Leverage Over Iran
+
+[Russia]({{ site.baseurl }}/actors/countries/russia.html) possesses an estimated 5,240 nuclear warheads, placing it first globally in arsenal size [3]. This numerical primacy gives Moscow a structural stake in preserving the exclusivity of the nuclear-weapons club. Kenneth Pollack (MEI) argues that the more countries acquire nuclear weapons, the less any single possessor can claim to be separate, different, or more powerful by virtue of having them [3]. For Russia, nuclear distinction is a core element of its great-power identity and strategic leverage; proliferation dilutes that currency.
+
+This exclusivity interest creates a tension in the Russia-[Iran]({{ site.baseurl }}/actors/countries/iran.html) security partnership. While Moscow has supplied Tehran with conventional military hardware — drones, missiles, and intelligence — it has a structural incentive to keep Iran below the nuclear threshold. A nuclear-armed Iran would not only erode the exclusivity that bolsters Russia's own standing, but would also reduce Moscow's leverage over Tehran, which is partly grounded in Iran's dependence on Russian conventional support against the [United States]({{ site.baseurl }}/actors/countries/united-states.html) and [Israel]({{ site.baseurl }}/actors/countries/israel.html). Russia's interest in a small nuclear club may therefore constrain its willingness to share certain military technologies with Iran, even as the two countries deepen cooperation in other domains [3].
+
 # Citations
 
 [1] Philipp Rombach, "China's Secret Nuclear Tests", 2026-08-05 — [https://www.swp-berlin.org/publikation/chinas-secret-nuclear-tests](https://www.swp-berlin.org/publikation/chinas-secret-nuclear-tests)
 [2] Guido Steinberg, "Atommacht Saudi-Arabien - Dieses Atomabkommen bringt zwei große Probleme mit sich", 2026-08-05 — [https://archive.ph/ncDGY](https://archive.ph/ncDGY)
+[3] Aisha Sulemana et al. (SBU/CSIS Journalism Bootcamp), "At Arm's Length", 2026-08-18 — [https://features.csis.org/at-arms-length/](https://features.csis.org/at-arms-length/)

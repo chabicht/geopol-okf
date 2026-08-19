@@ -10,7 +10,7 @@ tags:
   - supply-chain
   - naval
 status: ongoing
-timestamp: 2026-08-11T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -36,6 +36,10 @@ As private insurance markets tightened, states began stepping in to fill the gap
 ## The Shadow Fleet and Parallel Insurance
 
 The transformation of insurance markets did not begin with the Iran war. Sanctions regimes imposed on [Iran]({{ site.baseurl }}/actors/countries/iran.html) and [Russia]({{ site.baseurl }}/actors/countries/russia.html) had already created parallel shipping and insurance ecosystems — the "shadow fleet" — in which tankers operated outside Western insurance frameworks, inside opaque ownership structures and alternative, often state-backed, coverage mechanisms. What is happening now is not the creation of a new system from scratch but the formalization and expansion of an already emerging parallel structure: a regulated, transparent insurance system centered around Western markets operating alongside a politically shielded system supported by regional powers and sanctions-affected actors [1].
+
+## Hormuz Throughput Collapse
+
+By August 16, Hormuz throughput had collapsed to five commodity vessels on Saturday and none on Sunday, against a pre-war baseline of over 130 vessels per day. The collapse demonstrates that the soft-blockade mechanism — insurance withdrawal compounded by kinetic risk — has moved beyond premium inflation into near-total traffic cessation. Iran has asserted de facto control over passage through the strait, meaning that commercial access now depends on Iranian discretion rather than US security guarantees [12].
 
 See [Sanctions and Financial Warfare]({{ site.baseurl }}/themes/sanctions-and-financial-warfare.html) for the sanctions architecture driving this bifurcation.
 
@@ -118,6 +122,14 @@ KPB 213's sectoral decomposition of [Germany]({{ site.baseurl }}/actors/countrie
 
 For the trade-warfare framework, this means that the tariff and trade-defence instruments currently deployed against China are poorly matched to the sectors where advanced-economy losses are largest. Blanket tariffs on Chinese goods cannot repair a German aerospace sector that lost 96% of its market share to non-Chinese competitors. The Kiel brief explicitly rejects blanket tariffs as a defensible response and prescribes targeted, time-limited trade defence conditional on investment commitments — a diagnosis that aligns with the insurance framework's broader finding that coercive economic instruments have structural limits that their proponents underestimate [11].
 
+## Selective Denial as Coercive Instrument
+
+[Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) argues that Iran's most effective Hormuz instrument is not a total blockade but "selective denial": keeping most commercial traffic out while permitting passage for states that accommodate Iranian terms, thereby creating market-wide ambiguity about who controls the waterway. The strategy is more politically forceful than a simple closure because it imposes costs on adversaries while demonstrating that US military power has not restored normal commercial access. Vessels from compliant states transit; vessels from non-compliant states do not — and the resulting differential access fragments any coalition that might form against Iran. The mechanism connects directly to the [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) framework: selective denial keeps crude prices elevated and volatile, transmitting the chokepoint signal through gasoline prices into US domestic politics. It also reinforces the soft-blockade dynamic documented above: when insurers cannot distinguish between vessels that will be permitted passage and those that will not, coverage withdrawal generalises across the entire fleet, deepening the insurance gap [12].
+
+## The Insurance Gap Under Heat Stress
+
+[Adam Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) draws on Allianz Research to highlight a structural mismatch between what heat stress destroys and what conventional insurance covers. Insured losses remain a small fraction of total damages from heatwaves — reflecting an architecture designed for sudden, localized catastrophes rather than the slow, diffuse, economy-wide erosion that extreme heat produces. Labor productivity declines, agricultural losses, power-grid stress, and infrastructure degradation unfold gradually and broadly, falling outside the trigger mechanisms of standard property and casualty policies. The gap mirrors the coverage problem documented in the Hormuz context: war exclusions left airlines, supply-disrupted firms, and delayed traders uninsured, just as heat exclusions and gradual-damage limitations leave households, farmers, and municipalities exposed to climate-driven losses. Financial-market actors are beginning to mobilize around the opportunity — hedge funds such as Moreton Capital are positioning to profit from El Niño-driven commodity impacts — but speculative interest in commodity-price movements does not translate into insurance protection for the populations and supply chains most affected. The parallel to the trade-warfare framework is structural: in both cases, the gap between economic exposure and insured protection widens under systemic stress, and private markets alone cannot close it, forcing states to absorb losses or leave them uncovered [13]. See [Food and Agriculture]({{ site.baseurl }}/themes/food-and-agriculture.html).
+
 # Citations
 
 [1] [GeoEconomicLens — Fallout from the Iran War, May 2026](https://geopoliticalfutures.com/lens/issue/may-2026/)
@@ -141,3 +153,7 @@ For the trade-warfare framework, this means that the tariff and trade-defence in
 [10] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, and Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)
 
 [11] Sonali Chowdhry, Katharina Erhardt, and Julian Hinz, "Competing with China in Third Markets", 2026-06 — [https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/](https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/)
+
+[12] Robert Pape, "Iran's Strategy for the U.S. Midterms: Maximum Political Pressure on Trump", 2026-08-18 — [https://escalationtrap.substack.com/p/irans-strategy-for-the-us-midterms](https://escalationtrap.substack.com/p/irans-strategy-for-the-us-midterms)
+
+[13] Adam Tooze, "Chartbook 467: Heatwave economics — summer 2026", 2026-08-16 — [https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave](https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave)

@@ -5,7 +5,7 @@ parent: Regions
 description: Maritime theater encompassing China, Taiwan, Japan, the Philippines, and Australia; central front of the new Cold War.
 tags: [indo-pacific, naval, gray-zone, military]
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -14,9 +14,13 @@ The Indo-Pacific is the maritime theater stretching from the eastern Indian Ocea
 
 The region's geography is defined by island chains, straits, and exclusive economic zones that create overlapping territorial claims. Key chokepoints — the Bashi Channel, Miyako Strait, and the Taiwan Strait — control access between the East and South China Seas and the broader Pacific.
 
+For over eight decades, [United States]({{ site.baseurl }}/actors/countries/united-states.html) power in the Western Pacific rested on three pillars: forward-deployed military might, a network of regional allies, and economic influence. The "American Age" in the Western Pacific arguably began with the seizure of the Philippines in 1898 and was consolidated by the neutralization of the Japanese Navy in 1944–45. The US alliance structure furnished a security shield that enabled prosperity for [Japan]({{ site.baseurl }}/actors/countries/japan.html), [South Korea]({{ site.baseurl }}/actors/countries/south-korea.html), [Taiwan]({{ site.baseurl }}/actors/countries/taiwan.html), Thailand, the Philippines, Singapore, and Australia, and was expanding to include Vietnam and India [23].
+
 # Current Situation
 
 ## China-Taiwan Military Posture
+
+For the first time since 1943–1944, the US Navy has zero aircraft carriers deployed in the Western Pacific. The USS George Washington was redeployed from Yokosuka to replace the USS Abraham Lincoln in the Middle East as part of the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html). The carrier maintenance backlog is now backed up for years; the Lincoln alone will require at least two years of refit before returning to operational status [23].
 
 China's coast guard has normalized operations east of Taiwan; survey vessels are conducting regular operations in contested waters. See [China]({{ site.baseurl }}/actors/countries/china.html) [1]. The Fujian carrier transited the Taiwan Strait; a carrier strike group deployed east of the Philippines. A temporary structure appeared at Scarborough Shoal; the broader maritime architecture remains contested. [Japan]({{ site.baseurl }}/actors/countries/japan.html) PM Takaichi suggested Japan would consider military involvement if China moves against Taiwan.
 
@@ -102,6 +106,12 @@ Short-of-war pressure in the [Indo-Pacific]({{ site.baseurl }}/regions/indo-paci
 
 Ueki identifies multiple conflict scenarios that compound the Indo-Pacific risk environment. An extraregional conflict — such as the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — could open a window for a [Taiwan contingency]({{ site.baseurl }}/conflicts/taiwan-standoff.html) if US forces appear tied down. A Korean Peninsula conflict could trigger a Taiwan crisis, or vice versa. The 2026 US National Defense Strategy explicitly warns of the "possibility that one or more potential opponents might act together in a coordinated or opportunistic fashion across multiple theaters." The Iran war has already demonstrated this risk concretely: the 31st Marine Expeditionary Unit and amphibious warship USS Tripoli were deployed from US Forces Japan to the Middle East, and Marine Commandant General Smith testified that the gap in the Marine Corps' ability to deter adversaries in the Indo-Pacific remains unfilled. US munitions depletion from the Iran war — approximately half of key munitions used in 39 days — directly affects allied readiness for a Pacific contingency. Tomahawk deliveries to Japan have been delayed by up to four years, and interceptor production capacity (600 Patriot PAC-3 per year) is dwarfed by wartime consumption rates (1,900–3,000 used in less than two weeks of the Iran war). China dominates drone production through companies like DJI (over 70 percent of the civilian market), creating an offense-defense cost imbalance that favors attackers. The Hegseth-Koizumi Operation Supercharge agreement in May 2026 represents a Japan-US missile coproduction response to these structural gaps [22]. See [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) and [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
 
+## The End of the American Age in the Western Pacific
+
+[Phillips P. O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) argues that the "American Age" in the Western Pacific is over with no prospect of resuscitation. The [United States]({{ site.baseurl }}/actors/countries/united-states.html) has gone from dominant military power to counterweight to close to a non-factor in any war with [China]({{ site.baseurl }}/actors/countries/china.html). The damage to alliance credibility and force readiness cannot be undone even by a post-2028 administration; military reconstruction will take a decade or more. China is exploiting the vacuum in real time, and by the time the US could reverse course, the region will have moved on [23].
+
+US allies no longer merely doubt American willingness to defend them — they now know the US both cannot and has no interest in doing so. The erosion of the three pillars — military presence, alliance credibility, and economic leverage — reinforces [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) dynamics and accelerates [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html). The carrier gap and maintenance backlog illustrate the [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) crisis that underpins the structural shift [23].
+
 # Citations
 
 [1] [Velinatchakarova — Indo-Pacific grey-zone analysis](https://substack.com/@velinatchakarova/p-203793388)
@@ -147,3 +157,5 @@ Ueki identifies multiple conflict scenarios that compound the Indo-Pacific risk 
 [21] [Beyond Deterrence: Evolving China-Russia Military Coordination and the U.S.-Japan Alliance](https://www.csis.org/analysis/beyond-deterrence-evolving-china-russia-military-coordination-and-us-japan-alliance)
 
 [22] [China and CRINK: Implications for Japan and the United States](https://www.csis.org/analysis/china-and-crink-implications-japan-and-united-states)
+
+[23] Phillips P. O'Brien, "Is The American Age In The Western Pacific Over As Well?", 2026-08-17 — [https://phillipspobrien.substack.com/p/is-the-american-age-in-the-western](https://phillipspobrien.substack.com/p/is-the-american-age-in-the-western)

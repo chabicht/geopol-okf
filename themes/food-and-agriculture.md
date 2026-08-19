@@ -8,7 +8,7 @@ tags:
   - economics
   - supply-chain
 status: ongoing
-timestamp: 2026-08-16T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -59,6 +59,12 @@ Colibasanu (GPF) documents the scale of Gulf fertilizer production that passes t
 ## Shipping Disruption and Perishable Goods
 
 The Iran war disrupted shipping logistics dramatically. Before the war, Houthi attacks in 2023 had brought Suez Canal traffic to a crawl — tonnage remains down roughly 70% from pre-2023 levels. International carriers were already using longer routes around the Cape of Good Hope, beset by tighter vessel availability and higher freight costs. War-risk insurance surged sharply — in some cases by more than 1,000% — while risky maritime zones extended beyond Hormuz into the Red Sea, the Gulf of Aden, and the Arabian Sea. The immediate effect on food markets is strongest in perishable goods, animal products, feed imports, and fertilizer procurement cycles rather than in grain volumes alone [9].
+
+## El Niño Food Insecurity and Commodity Price Shocks
+
+The 2026 El Niño threatens to push at least 49 million more people into food insecurity according to WFP assessments. [Latin America]({{ site.baseurl }}/regions/latin-america.html) and the Caribbean faces the largest proportional increase of all analyzed areas at 83.1%, with approximately 16 million people affected. East and Southern [Africa]({{ site.baseurl }}/regions/africa.html) faces over 18 million affected — a 26% increase — while [Asia]({{ site.baseurl }}/regions/asia.html) and the Pacific see 8.2 million additional people at risk. West and Central Africa projects a 12% increase in food insecurity [20].
+
+Commodity prices have responded sharply. Coffee prices have risen approximately 37% and cocoa 37% since early June 2026, with arabica coffee specifically up 26%. The El Niño-driven threats span multiple crops and supply chains: India's monsoon rainfall running more than 10% below average puts rice and sugar production at risk; Australia faces wheat vulnerability; West Africa's cocoa supply is threatened; Brazil's arabica coffee output is at risk; Chile and [Zambia]({{ site.baseurl }}/actors/countries/zambia.html) face copper supply disruption; and the Panama Canal suffers drought-driven draft reductions that constrain global shipping [20]. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html).
 
 # Key Dynamics
 
@@ -148,6 +154,14 @@ The Global South pays twice — once for higher wheat prices from Black Sea disr
 
 The US response is itself asymmetric: while the Trump administration pressured [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) to halt strikes on non-Russian tankers at Novorossiysk — effectively protecting Russian oil export revenue — it has not similarly urged Russia to cease attacks on Ukrainian grain shipments. Russian-caused inflation in food markets appears acceptable to US policy, while Ukrainian-caused inflation in oil markets triggered an official request for retreat. The discrepancy reveals the hierarchy of US economic-security priorities under the current administration [19].
 
+## El Niño and Climate-Amplified Food Insecurity
+
+[Adam Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) argues that the most dramatic El Niño damage will land in the Global South, with [Central America]({{ site.baseurl }}/regions/latin-america.html) serving as the principal feed-forward channel for US-bound migration pressure. The WFP data showing the largest proportional food-insecurity increase in Central America connects climate-driven agricultural failure directly to the [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html) dynamics at the US southern border [20].
+
+Callahan and Mankin (Science, 2023) found that major El Niño episodes cause severe growth-rate effects that persist for years. The 1997–98 El Niño caused cumulative global losses of approximately USD 5.7 trillion by 2003; Peru's per-capita income would have been roughly 19% higher absent the event. These findings suggest that the 2026 El Niño's economic and food-security consequences will unfold over a multi-year horizon rather than resolving with the climate event itself [20]. See [Analytical Fault Lines]({{ site.baseurl }}/themes/analytical-fault-lines.html).
+
+Morgan Stanley and Capital Economics argue that the global stock-market and food-price-inflation impacts of El Niño are historically limited at the aggregate level — but local and regional impacts can be severe. This divergence between aggregate financial-market resilience and localized humanitarian catastrophe is a defining feature of climate-amplified food crises within the [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html): macro indicators obscure the concentrated damage that drives political outcomes [20].
+
 # Citations
 
 [1] [The Persian Polycrisis](https://thehonestsorcerer.substack.com/p/the-persian-polycrisis)
@@ -187,3 +201,5 @@ The US response is itself asymmetric: while the Trump administration pressured [
 [18] Velina Tchakarova, "The Cascade Comes to the Table", 2026-08-12 — [https://substack.com/@velinatchakarova/p-210911397](https://substack.com/@velinatchakarova/p-210911397)
 
 [19] Phillips P. O'Brien, "Weekend Update #198: Russia's Allies Are More Helpful Than Ukraine's", 2026-08-15 — [https://phillipspobrien.substack.com/p/weekend-update-198-russias-allies](https://phillipspobrien.substack.com/p/weekend-update-198-russias-allies)
+
+[20] Adam Tooze, "Chartbook 467: Heatwave economics — summer 2026", 2026-08-16 — [https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave](https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave)

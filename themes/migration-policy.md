@@ -5,7 +5,7 @@ parent: Themes
 description: "Migration as a cross-cutting geopolitical instrument and stress test — route-based approaches, the protection-vs-control tension, externalization of border management, and the instrumentalization of anti-migration sentiment by political actors from South Africa to Europe to Afghanistan."
 tags: [demography, ideology, trade]
 status: ongoing
-timestamp: 2026-08-16T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -108,6 +108,10 @@ The depoliticisation risk is acute. The focus on services, data collection, mapp
 
 See [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) for the disposable agents and sabotage dimension, [EU]({{ site.baseurl }}/actors/organizations/eu.html) for the Whole-of-Route architecture, and [Organised Crime and Statecraft]({{ site.baseurl }}/themes/organised-crime-and-statecraft.html) for the criminal intermediary dimension.
 
+## Climate-Driven Migration from Central America
+
+[Adam Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) identifies a feedback loop connecting climate, food security, and migration: the 2026 El Niño-driven food insecurity in [Central America]({{ site.baseurl }}/regions/latin-america.html) — the largest proportional increase globally at 83.1% — is the principal vector for migration pressure on the [United States]({{ site.baseurl }}/actors/countries/united-states.html) southern border. WFP data shows Central America as the region with the highest proportional food-insecurity increase, creating conditions that reinforce existing migration patterns toward the US through [Mexico]({{ site.baseurl }}/actors/countries/mexico.html). This climate-to-migration pipeline connects the [Food and Agriculture]({{ site.baseurl }}/themes/food-and-agriculture.html) crisis to border policy: agricultural failure in the Northern Triangle generates population movement that existing US and Mexican migration frameworks are not designed to absorb [8].
+
 # Citations
 
 [1] [Migrationsrouten im Fokus: Routenbasierte Ansätze zwischen Schutzversprechen und Migrationskontrolle](https://www.swp-berlin.org/publikation/migrationsrouten-im-fokus)
@@ -123,3 +127,5 @@ See [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) for th
 [6] Annabelle Houdret and Mark Furness, "Between Shock and Opportunity: Hormuz and Deepening North Africa–Europe Relations", SWP, 2026-08-03 — [https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations](https://www.swp-berlin.org/publikation/mta-spotlight-78-hormuz-and-deepening-north-africa-europe-relations)
 
 [7] RUSI, "Instrumentalised Migration and Russia's 'Disposable Agents'", 2026-08-14 — [https://www.rusi.org/explore-our-research/publications/commentary/instrumentalised-migration-and-russias-disposable-agents](https://www.rusi.org/explore-our-research/publications/commentary/instrumentalised-migration-and-russias-disposable-agents)
+
+[8] Adam Tooze, "Chartbook 467: Heatwave economics — summer 2026", 2026-08-16 — [https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave](https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave)

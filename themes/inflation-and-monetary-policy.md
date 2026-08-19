@@ -9,7 +9,7 @@ tags:
   - trade
   - sanctions
 status: ongoing
-timestamp: 2026-08-12T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -101,6 +101,14 @@ Currie coins "Munificent Seven" — "munificent means gifting lavishly" — for 
 
 Currie also predicts that the AI industry's current fixed-fee pricing model will collapse into usage-based pricing. Vendors currently offer flat-rate subscriptions to build addiction; once lock-in is achieved, costs will "explode" as the model shifts to pay-as-you-go, analogous to mobile phone pricing evolution. Observable: any major AI vendor shifting to usage-based pricing by mid-2027 [8].
 
+## Heat Stress as a Stagflationary Driver
+
+[Adam Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) highlights Allianz Research findings (May 2026) that the economic transmission of heat stress is non-linear, with a critical threshold near 30°C. Below that temperature, modest productivity gains are observed; above it, losses intensify with each additional degree. Output per hour declines by approximately USD 1.3 per degree across the 30–35°C range. A second transmission channel runs through energy: consumption rises roughly 1.2% per degree at exactly the temperatures where labor productivity falls — creating a simultaneous demand spike and supply contraction that is inherently stagflationary [9].
+
+The capital dimension deepens the problem. Allianz finds that the decline in fixed capital formation systematically exceeds consumption losses — reaching approximately 8% on average — meaning heat compresses expected returns and reduces future productive capacity, not just current output. This dynamic transforms a temporary climate shock into a persistent structural drag: each hot year diminishes the capital base needed for future adaptation [9]. See [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html).
+
+Stagflationary dynamics — rising prices alongside rising unemployment — should therefore be expected as heat stress intensifies. Monetary authorities face a binding trade-off that is especially acute in the [Eurozone]({{ site.baseurl }}/regions/europe.html), where one [EU]({{ site.baseurl }}/actors/organizations/eu.html) policy rate serves economies with sharply diverging climate exposures. Under an Allianz stress scenario, annual output losses from heat could equal 1.8% of GDP in [France]({{ site.baseurl }}/actors/countries/france.html), 1.3% in Italy and Spain, and 0.7% in [Germany]({{ site.baseurl }}/actors/countries/germany.html). Combined with inflation-indexed transfers and healthcare costs, fiscal balances deteriorate approximately 0.5% of GDP annually on average. This compounds the central-bank powerlessness thesis already documented in the [Monetary System Transition]({{ site.baseurl }}/themes/monetary-system-transition.html) framework: heat stress is a supply-side shock that rate hikes cannot address [9].
+
 # Citations
 
 [1] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
@@ -118,3 +126,5 @@ Currie also predicts that the AI industry's current fixed-fee pricing model will
 [7] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, and Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)
 
 [8] Nate Hagens, "Why Abundance Is an Illusion with Jeff Currie | TGS 229", 2026-07-29 — [https://www.youtube.com/watch?v=ij1_uxiXmm8](https://www.youtube.com/watch?v=ij1_uxiXmm8)
+
+[9] Adam Tooze, "Chartbook 467: Heatwave economics — summer 2026", 2026-08-16 — [https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave](https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave)

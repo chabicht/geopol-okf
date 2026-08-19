@@ -4,6 +4,81 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-08-19 — Incorporation: 7 Sources (Tooze, O'Brien, Pape, Tchakarova ×2, CSIS, WSJ)
+
+**Sources (7)**
+
+* Adam Tooze, "Chartbook 467: Heatwave economics — summer 2026", 2026-08-16
+* Phillips P. O'Brien, "Is The American Age In The Western Pacific Over As Well?", 2026-08-17
+* Robert Pape, "Iran's Strategy for the U.S. Midterms", 2026-08-18
+* Velina Tchakarova, "Russian war on Ukraine - Update", 2026-08-18
+* Velina Tchakarova, "The DragonBear and the Northern Sea Route", 2026-08-18
+* CSIS/SBU Journalism Bootcamp, "At Arm's Length", 2026-08-18
+* Benoit Faucon & Summer Said (WSJ), "Iran's Secret Plan to Escalate the War", 2026-08-17
+
+**Images archived**: 48 images fetched across 6 sources (S4 had no images). 2 decorative skipped. No fetch failures.
+
+**New concepts (2)**
+
+* **New event**: [Trump Reduces South Korea Joint Exercises]({{ site.baseurl }}/events/trump-south-korea-exercise-reduction-2026-08-16.html) — Truth Social post unilaterally reducing US-ROK exercises.
+* **New event**: [Ukraine Mass Drone Strike on Moscow]({{ site.baseurl }}/events/ukraine-mass-drone-strike-moscow-2026-08-18.html) — 791 drones reported by Moscow (unverifiable).
+
+**New contested block (1)**
+
+* `## Contested: Is CRINK a coherent revisionist bloc?` in [Global System Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html) — Kendall-Taylor (bloc) vs Bennis (bilateral) vs Grieco (transactional). Status: open fork. Registry link added to [Analytical Fault Lines]({{ site.baseurl }}/themes/analytical-fault-lines.html).
+
+**Updates (35)**
+
+* **Update**: [Iran]({{ site.baseurl }}/actors/countries/iran.html) — midterm strategy (Pape), post-MoU two-track policy & IRGC reorganization (WSJ, CSIS); 3 new Analysis subsections; 3 new citations [46]–[48].
+* **Update**: [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) — post-MoU phase, Hormuz throughput collapse, congressional votes, polling data, carrier drain; 3 new Analysis subsections; 3 new citations [101]–[103].
+* **Update**: [Russia]({{ site.baseurl }}/actors/countries/russia.html) — war economy (Klepach), Iran partnership asymmetry, drone domestication, Arctic anchor; 3 new Analysis subsections; 3 new citations [44]–[46].
+* **Update**: [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) — technology substitution, manpower crisis, Fedorov reform; 1 new Analysis subsection; 1 new citation [25].
+* **Update**: [United States]({{ site.baseurl }}/actors/countries/united-states.html) — carrier absence, military decline, public opinion, congressional votes; 2 new Analysis subsections; 2 new citations [62]–[63].
+* **Update**: [China]({{ site.baseurl }}/actors/countries/china.html) — Pacific vacuum exploitation, Arctic posture, DragonBear corridor; 2 new Analysis subsections; 2 new citations [42]–[43].
+* **Update**: [South Korea]({{ site.baseurl }}/actors/countries/south-korea.html) — Trump exercise reduction, security vulnerability; 1 new Analysis subsection; 1 new citation [3].
+* **Update**: [North Korea]({{ site.baseurl }}/actors/countries/north-korea.html) — active co-belligerent transition, learning dividend; 1 new Analysis subsection; 1 new citation [2].
+* **Update**: [Donald Trump]({{ site.baseurl }}/actors/trump.html) — SK exercise reduction, Iran rhetoric, approval ratings, escalation window collapse; 1 new Analysis subsection; 3 new citations [49]–[51].
+* **Update**: [Saudi Arabia]({{ site.baseurl }}/actors/countries/saudi-arabia.html) — Red Sea bypass under Houthi threat, IRGC energy-facility threats; 1 new Analysis subsection; 1 new citation [15].
+* **Update**: [Germany]({{ site.baseurl }}/actors/countries/germany.html) — counter-UAS gap; 1 new citation [24].
+* **Update**: [United Kingdom]({{ site.baseurl }}/actors/countries/united-kingdom.html) — Kremlin threats over UK equipment in Ukrainian strikes; 1 new citation [7].
+* **Update**: [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) — frontline status, deep-strike campaigns, North Korean involvement, 10-day blitzkrieg plan; 1 new Analysis subsection; 2 new citations [54]–[55].
+* **Update**: [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html) — three pillars of US power, carrier absence, end of American Age; 1 new Analysis subsection; 1 new citation [23].
+* **Update**: [Arctic]({{ site.baseurl }}/regions/arctic.html) — NSR geography, Chinese container shipping, DragonBear corridor; 1 new Analysis subsection; 2 new citations [4]–[5].
+* **Update**: [Middle East]({{ site.baseurl }}/regions/middle-east.html) — Gulf state hedging strategy; 1 new Analysis subsection; 1 new citation [23].
+* **Update**: [Red Sea]({{ site.baseurl }}/regions/red-sea.html) — Iran's Red Sea escalation, Houthi strikes, Bab al-Mandeb closure; 1 new Analysis subsection; 1 new citation [14].
+* **Update**: [Europe]({{ site.baseurl }}/regions/europe.html) — heatwave economic stress, fiscal challenge, Maastricht collision; 1 new Analysis subsection; 1 new citation [38].
+* **Update**: [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) — Western Pacific decline, DragonBear Arctic axis, CRINK contested block; 3 new Analysis subsections; 3 new citations [39]–[41].
+* **Update**: [Global System Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html) — NSR as bifurcation infrastructure, CRINK contested block; 2 new Analysis subsections; 2 new citations [16]–[17].
+* **Update**: [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) — El Niño as polycrisis amplifier, end of American Age as rupture marker; 2 new Analysis subsections; 2 new citations [30]–[31].
+* **Update**: [Escalation Theory Critique]({{ site.baseurl }}/themes/escalation-theory-critique.html) — political escalation trap, salami-slicing, NATO escalation risk; 3 new Analysis subsections; 3 new citations [18]–[20].
+* **Update**: [Iran's Security Resistance Belt]({{ site.baseurl }}/themes/iran-security-resistance-belt.html) — three daggers, proxy coordination, Red Sea expansion (via Iran.md and US-Iran War updates).
+* **Update**: [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) — industrial-scale operations, innovation tempo, Shahed domestication; 2 new Analysis subsections; 2 new citations [23]–[24].
+* **Update**: [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) — Patriot bottleneck, European counter-UAS, carrier readiness crisis; 1 new Analysis subsection; 3 new citations [33]–[35].
+* **Update**: [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) — Hormuz throughput, oil >$90, gasoline pass-through, Saudi bypass, heat-energy demand; 2 new Analysis subsections; 3 new citations [48]–[50].
+* **Update**: [Insurance and Trade Warfare]({{ site.baseurl }}/themes/insurance-and-trade-warfare.html) — selective denial, Hormuz throughput collapse, insurance gap; 2 new Analysis subsections; 2 new citations [12]–[13].
+* **Update**: [Sanctions and Financial Warfare]({{ site.baseurl }}/themes/sanctions-and-financial-warfare.html) — Bessent's measures, sanctions as bonding variable.
+* **Update**: [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) — perception warfare in Iran conflict; 1 new Analysis subsection; 1 new citation [17].
+* **Update**: [Nuclear Proliferation and Arms Control]({{ site.baseurl }}/themes/nuclear-proliferation-and-arms-control.html) — Russia's nuclear exclusivity and leverage over Iran; 1 new Analysis subsection; 1 new citation [3].
+* **Update**: [Food and Agriculture]({{ site.baseurl }}/themes/food-and-agriculture.html) — El Niño food insecurity, commodity prices, Central America 83.1%; 2 new sections; 1 new citation [20].
+* **Update**: [Inflation and Monetary Policy]({{ site.baseurl }}/themes/inflation-and-monetary-policy.html) — heat stress as stagflationary driver; 1 new Analysis subsection; 1 new citation [9].
+* **Update**: [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html) — climate-driven migration from Central America; 1 new Analysis subsection; 1 new citation [8].
+* **Update**: [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) — innovation tempo doctrine; 1 new Analysis subsection; 1 new citation [13].
+* **Update**: [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html) — Ukraine drone evolution R&D; 1 new Analysis subsection; 1 new citation [20].
+* **Update**: [Analytical Fault Lines]({{ site.baseurl }}/themes/analytical-fault-lines.html) — CRINK contested block registry entry; 2 new citations [21]–[22].
+
+**Author updates (5)**
+
+* **Update**: [Adam Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) — new source [8], Track Record open forecast on El Niño/WFP.
+* **Update**: [Phillips P. O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) — new sources [34]–[35], CSIS Marshall Paper, Track Record open forecast on American Age.
+* **Update**: [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) — new source [31], Track Record open forecast on midterm strategy.
+* **Update**: [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) — new sources [34]–[35], Track Record open forecast on Duma elections/mobilization.
+* **Update**: [CSIS]({{ site.baseurl }}/actors/authors/csis.html) — new source [11], noted SBU Journalism Bootcamp distinction.
+
+**Event updates (2)**
+
+* **Update**: [The Twelve Day War (2026)]({{ site.baseurl }}/events/twelve-day-war.html) — Iran's partner disillusionment and Russia relationship; 1 new Analysis subsection; 1 new citation [2].
+* **Update**: [Fedorov Dismissal]({{ site.baseurl }}/events/fedorov-dismissal-2026.html) — mobilization reform and innovation doctrine; 1 new Analysis subsection; 1 new citation [5].
+
 ## 2026-08-19 — Refinement: Tchakarova & O'Brien (full pass)
 
 **Refined (2)**

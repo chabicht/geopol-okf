@@ -152,6 +152,7 @@ Tchakarova surfaces Rosneft's published two base scenarios for the global energy
 - 2026-08-07 — forecasts that the financial-monetary cascade layer in advanced economies is now formally part of the GSR framework, with Japan as the first case study. Resolves as either the yen/JGB crisis stabilizes permanently (GSR reading was ornament) or persists and deepens (GSR amplified autonomous dynamics) [32].
 - 2026-08-07 — promotion-to-full-systemic-crisis triggers for yen/JGB: any two of (1) botched JGB auction, (2) BoJ forced to buy bonds while raising rates, (3) USD/JPY breaching 165 even with joint intervention, (4) downgrade of Japanese government debt, (5) Japanese Treasury selling above $30bn/quarter toward $100bn/year. Resolves as these triggers fire or fail to fire [32].
 - 2026-08-07 — three-way contradiction resolution: Tokyo cannot defend the yen, normalize monetary policy, and maintain fiscal expansion simultaneously. Resolves as Japan chooses which leg to sacrifice [32].
+- 2026-08-18 ("Russian war on Ukraine - Update") — Tchakarova's forecast that the September 2026 Duma elections may be a turning point for Russian mass mobilization, as the regime faces compounding manpower pressures and economic strain. Resolves on whether a second mobilization is announced by Q4 2026 [34].
 
 # Sources in Bundle
 
@@ -188,6 +189,8 @@ Tchakarova surfaces Rosneft's published two base scenarios for the global energy
 - "Hormuz on a Knife's Edge: The Fragile Architecture of a Deal Nobody Trusts" [31]
 - "The Yen Breaks First" [32]
 - "GSR Wave Three: Verification Milestone" [33]
+- "Russian war on Ukraine - Update" [34] — informs [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html), [Russia]({{ site.baseurl }}/actors/countries/russia.html), [North Korea]({{ site.baseurl }}/actors/countries/north-korea.html), [Germany]({{ site.baseurl }}/actors/countries/germany.html), [United Kingdom]({{ site.baseurl }}/actors/countries/united-kingdom.html), [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html), [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html), [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html), [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html), [Fedorov Dismissal]({{ site.baseurl }}/events/fedorov-dismissal-2026.html)
+- "The DragonBear and the Northern Sea Route" [35] — informs [Arctic]({{ site.baseurl }}/regions/arctic.html), [China]({{ site.baseurl }}/actors/countries/china.html), [Russia]({{ site.baseurl }}/actors/countries/russia.html), [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html), [Global System Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html)
 
 # Citations
 
@@ -256,3 +259,7 @@ Tchakarova surfaces Rosneft's published two base scenarios for the global energy
 [32] Velina Tchakarova, "The Yen Breaks First", 2026-08-07 — [https://substack.com/@velinatchakarova/p-210196165](https://substack.com/@velinatchakarova/p-210196165)
 
 [33] Velina Tchakarova, "GSR Wave Three: Verification Milestone", 2026-08-14 — [https://substack.com/@velinatchakarova/p-210862826](https://substack.com/@velinatchakarova/p-210862826)
+
+[34] Velina Tchakarova, "Russian war on Ukraine - Update", 2026-08-18 — [https://substack.com/@velinatchakarova/p-211724442](https://substack.com/@velinatchakarova/p-211724442)
+
+[35] Velina Tchakarova, "The DragonBear and the Northern Sea Route", 2026-08-18 — [https://substack.com/@velinatchakarova/p-211768938](https://substack.com/@velinatchakarova/p-211768938)

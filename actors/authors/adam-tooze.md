@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Economic historian and Chartbook author tracking the global economy — China Shock 2.0 and the "Big One" framing, financial repression, the AI boom, the four disrupters of the 2026 world economy, the five metamorphoses of the dollar, hyper-agency as the driver of Western rupture, and the polycrisis as a crisis of lost futures
 tags: [author, economics, trade]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -102,6 +102,7 @@ ctindale's "The Importance of Being Obsolescent" directly challenges this framin
 - 2026-07-06 (Chartbook 456) — the BIS-relayed forecast that the AI boom endogenously generates a China-scale investment and credit boom, with the labor share of income potentially collapsing to 20% over the next forty years. Very long-range open forecast; resolves as labor-share data and AI capex trajectories accumulate [3].
 - 2026-07-06 (Chartbook 455) — the "gilded cage" forecast: if China's capital controls were relaxed, the yuan would go down, not up, as trapped wealth sought US asset exposure. Standing forecast; resolves if Beijing loosens capital controls — observable in any liberalization episode and subsequent yuan direction [2].
 - 2026-07-15 (Chartbook 457) — the "profit dollar" (Dollar #5) thesis: the current dollar system is sustained by private capital inflows attracted by US financial-market dominance, not official reserve accumulation. Standing forecast; resolves as official reserve accumulation trends and private flow composition evolve — observable in IMF COFER data and BIS cross-border banking statistics [4].
+- 2026-08-16 (Chartbook 467) — standing forecast that the 2026 El Niño will drive food insecurity and migration pressure, compounding the energy-inflation cascade already straining the Global South. Resolves on whether WFP's 49-million figure for food-insecure populations holds by Q4 2026 reporting [8].
 
 # Sources in Bundle
 
@@ -112,6 +113,7 @@ ctindale's "The Importance of Being Obsolescent" directly challenges this framin
 - "Chartbook 458 Postscript: A Conversation with Barnaby Raine" [5]
 - "Chartbook 461: Polycrisis & nostalgia for lost futures" [6]
 - "Chartbook 462: China shocked - beyond 1.0 and 2.0 to the Big One" [7]
+- "Chartbook 467: Heatwave economics — summer 2026" [8] — informs [Food and Agriculture]({{ site.baseurl }}/themes/food-and-agriculture.html), [Inflation and Monetary Policy]({{ site.baseurl }}/themes/inflation-and-monetary-policy.html), [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html), [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html), [Europe]({{ site.baseurl }}/regions/europe.html), [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html)
 
 # Citations
 
@@ -128,3 +130,5 @@ ctindale's "The Importance of Being Obsolescent" directly challenges this framin
 [6] [Chartbook 461: Polycrisis & nostalgia for lost futures](https://adamtooze.substack.com/p/chartbook-461-polycrisis-and-nostalgia)
 
 [7] Adam Tooze, "Chartbook 462: China shocked - beyond 1.0 and 2.0 to the Big One", 2026-07-29 — [https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond](https://adamtooze.substack.com/p/chartbook-462-china-shocked-beyond)
+
+[8] Adam Tooze, "Chartbook 467: Heatwave economics — summer 2026", 2026-08-16 — [https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave](https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave)

@@ -7,7 +7,7 @@ event_date: 2026-07-16
 actuality: actual
 tags: [drone-warfare, military, europe]
 status: concluded
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -87,6 +87,12 @@ Fedorov's NYT interview (July 31) aligns with Drapatyi's philosophy: "I am absol
 
 See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) for the broader operational context.
 
+## Mobilization Reform and the Innovation Doctrine
+
+Former Ukrainian Defence Minister Fedorov has called for a new, more transparent mobilization system — one based on progressive mobilization, clearer terms of service, higher pay, more choice for draftees, and more foreign volunteers — rather than simply higher conscription quotas. His argument is that the mobilization crisis is not a volume problem but a design problem: the current system brings in enough people, but poor training, personnel management, and corruption mean only a fraction reach combat units effectively [5].
+
+Fedorov further argues that wars are determined not by a single wonder weapon but by the constant process of innovation. Each new drone type spawns countermeasures, and the winning side will be the one that can shorten the cycle from battle experience to engineering, production, and deployment. This "innovation doctrine" — rooted in the [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) legacy he built and aligned with the broader [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) — treats tempo as the decisive variable. [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) assesses that this innovation-speed competition between Russia and Ukraine is now the central dynamic of the war, making institutional adaptability more consequential than raw force ratios [5].
+
 # Citations
 
 [1] [The Fedorov Dismissal: On Trust, Technology, and Turnover](https://warontherocks.com/the-fedorov-dismissal-on-trust-technology-and-turnover/)
@@ -96,3 +102,5 @@ See [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) f
 [3] [Weekend Update #195: The Worst Week Becomes Much Better (But Not The Best)](https://phillipspobrien.substack.com/p/weekend-update-195-the-worst-week)
 
 [4] Phillips P. O'Brien, "Weekend Update 196: The Week When Hope Killed, Literally", 2026-08-02 — [https://phillipspobrien.substack.com/p/weekend-update-196-the-week-when](https://phillipspobrien.substack.com/p/weekend-update-196-the-week-when)
+
+[5] Velina Tchakarova, "Russian war on Ukraine - Update", 2026-08-18 — [https://substack.com/@velinatchakarova/p-211724442](https://substack.com/@velinatchakarova/p-211724442)

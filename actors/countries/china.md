@@ -5,7 +5,7 @@ parent: Countries
 description: China as a geopolitical actor — coordinating national AI strategy, encircling Taiwan, investing across Central Asia, anchoring the DragonBear axis, and turning toward Maoist ideological mobilization to manage economic slowdown while facing an emerging Asian containment coalition
 tags: [country, military, ai, technology, energy, trade, indo-pacific, central-asia, ideology, economics]
 status: ongoing
-timestamp: 2026-08-16T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -118,6 +118,14 @@ The one hard boundary is nuclear. As Russian nuclear saber-rattling accelerated 
 
 China also profits from American distraction. Joe Kent, in conversation with [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html), asserts that China is "exponentially benefiting" from the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), positioning itself as a more appealing partner to Middle Eastern states by offering deals instead of regime change. The war erodes US security guarantees and the petrodollar system, demonstrating US limitations to the world and bolstering China's position in [great power competition]({{ site.baseurl }}/themes/great-power-competition.html), including regarding [Taiwan]({{ site.baseurl }}/conflicts/taiwan-standoff.html) [15]. The Iran ceasefire itself represented a DragonBear course correction: Russia and China green-lit the MoU because uncontrolled escalation risked a [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html) that would damage their own foundations [5].
 
+## Pacific Influence Expansion
+
+[Phillips P. O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) assesses that China is exploiting the [United States]({{ site.baseurl }}/actors/countries/united-states.html)'s strategic absence from the [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html) to significantly expand its regional influence, filling a vacuum left by American disengagement in real time [42].
+
+## Northern Sea Route Activity
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) documents that Chinese container ships have been transiting the [Arctic]({{ site.baseurl }}/regions/arctic.html) Northern Sea Route for approximately three years, since around 2023. The corridor is integral to Beijing's maritime strategy of securing trade routes that bypass Western-controlled chokepoints, ensuring global connectivity during conflict or war [43].
+
 # Key Dynamics
 
 - **AI-military integration is China's asymmetric edge.** China lags the US in AI models by months but leads in military integration — the dimension that matters for the AI military race. [2]
@@ -229,6 +237,14 @@ The DragonBear partnership interacts with these regional networks through defenc
 
 What is emerging is more significant than a collection of transport corridors: Russia, China, and a growing number of regional powers are contributing to the creation of non-Western or Western-independent ecosystems encompassing transport, energy, finance, defence-industrial cooperation, technology, and strategic commodities. A small group of nuclear-armed or nuclear-connected middle powers — Pakistan, with its deep strategic relationship with China and historical security ties to Saudi Arabia — may acquire disproportionate influence by offering partners varying degrees of security reassurance without constructing formal alliances. Strategic ambiguity surrounding extended deterrence could itself become a source of geopolitical power in an increasingly bifurcated system [41]. See [Global System Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html) and [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html).
 
+## Exploiting the Pacific Vacuum
+
+[Phillips P. O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) argues that the [United States]({{ site.baseurl }}/actors/countries/united-states.html)' retreat from the [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html) has created a window China is filling in real time. Even if Washington sought to reverse course, the lag between decision and capability deployment means the region will have already adapted to the new reality by the time the US could re-engage. The strategic implication is that the Pacific balance is shifting not through confrontation but through absence — China's influence expands into the space the US vacates, and the longer the vacuum persists, the more irreversible the adjustment becomes [42]. See [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html).
+
+## Arctic Posture and the DragonBear
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) argues that China cannot credibly position itself as an Arctic nation without [Russia]({{ site.baseurl }}/actors/countries/russia.html)'s geographic and legal access to the Northern Sea Route — a dependency that inverts the common framing of Russia as the "junior partner" in the DragonBear axis. Rather than a one-sided relationship, the Arctic dimension reveals mutual need: Beijing brings industrial scale and capital; Moscow controls the territorial waterway. The NSR thus functions as an integrated DragonBear corridor spanning trade, military access, and raw-materials transport — the principal non-Western alternative to US-led [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html) supply chains. The corridor's emergence as a functioning route over the past three years demonstrates that the DragonBear is not merely a military coordination framework but a logistics architecture with its own maritime backbone, offering states seeking alternatives to Western supply chains a parallel infrastructure that connects Eurasian markets without transiting Western-controlled chokepoints [43]. See [Global System Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html) and [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html).
+
 # Citations
 
 [1] The Honest Sorcerer, "The Big Picture" — [https://thehonestsorcerer.substack.com/p/the-big-picture](https://thehonestsorcerer.substack.com/p/the-big-picture)
@@ -312,3 +328,7 @@ What is emerging is more significant than a collection of transport corridors: R
 [40] Ronan Wordsworth, "The Geography of Data Centers", GeoEconomicLens, August 2026 — [https://geopoliticalfutures.com/lens/issue/august-2026/](https://geopoliticalfutures.com/lens/issue/august-2026/)
 
 [41] Velina Tchakarova, "A Test Run on the International North–South Transport Corridor", 2026-08-11 — [https://substack.com/@velinatchakarova/p-210797709](https://substack.com/@velinatchakarova/p-210797709)
+
+[42] Phillips P. O'Brien, "Is The American Age In The Western Pacific Over As Well?", 2026-08-17 — [https://phillipspobrien.substack.com/p/is-the-american-age-in-the-western](https://phillipspobrien.substack.com/p/is-the-american-age-in-the-western)
+
+[43] Velina Tchakarova, "The DragonBear and the Northern Sea Route", 2026-08-18 — [https://substack.com/@velinatchakarova/p-211768938](https://substack.com/@velinatchakarova/p-211768938)

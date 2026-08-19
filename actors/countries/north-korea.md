@@ -10,7 +10,7 @@ description: >-
   welfare promises amid economic inability to deliver them
 tags: [country, military, nuclear, ideology, indo-pacific]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -40,6 +40,10 @@ Abandoning unification also serves a domestic control function. By framing South
 Article 60 of the amended constitution mandates the development of defense science and technology, calling for a "Juche-oriented, modernized, scientific" defense industry. This constitutional provision signals determination to resist any external pressure to halt military modernization — the regime is embedding weapons development in the highest law of the land. Article 61 establishes a "military-first atmosphere" and directs the state to prepare the population for "resistance warfare," effectively constitutionalizing civilian mobilization for national defense [1].
 
 Kim Jong Un has directed the development of artificial intelligence and space technology for national defense applications, as articulated at the 9th Workers' Party Congress. These directives place advanced dual-use technologies within the military-first framework, expanding the scope of North Korea's defense industrial ambition beyond traditional munitions and missile production into emerging domains [1].
+
+## Russia-Ukraine War Involvement
+
+North Korea is no longer merely an ammunition supplier to [Russia]({{ site.baseurl }}/actors/countries/russia.html) but has become directly engaged in the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html). North Korean troops have participated in combat operations in the Kursk region of Russia alongside Russian forces against [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html), with additional deployments anticipated. The scale of potential involvement remains uncertain: unconfirmed reports suggest deployments could reach 30,000–50,000 personnel, though these figures have not been verified. Such forces could serve in reserve, engineering, logistics, missile operations, or training capacities rather than purely front-line combat [2].
 
 # Key Dynamics
 
@@ -74,6 +78,12 @@ The revision may enable future taxation — removing the constitutional prohibit
 
 Taken together, the May 2026 constitutional amendments codify three interlocking shifts. First, they entrench the centrality of nuclear weapons to North Korea's identity and security, making denuclearization negotiation effectively impossible. Second, they sever the legal and ideological basis for engagement with [South Korea]({{ site.baseurl }}/actors/countries/south-korea.html), replacing unification aspirations with a permanently adversarial two-state framework. Third, they free Kim Jong Un from the constitutional and ideological constraints of his predecessors' legacies, allowing him to govern through a "head of state" framework that suits diplomatic engagement and domestic consolidation alike. These shifts position North Korea as a more assertive actor within the [Cold War 2]({{ site.baseurl }}/conflicts/cold-war-2.html) landscape, aligned with [China]({{ site.baseurl }}/actors/countries/china.html) and [Russia]({{ site.baseurl }}/actors/countries/russia.html) in the broader [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) while pursuing an independent strategic agenda centered on regime survival and nuclear recognition [1].
 
+## Mutual Benefits of North Korean–Russian Military Cooperation
+
+The deepening North Korean involvement in the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) serves both parties' strategic interests. For North Korea, the conflict provides unprecedented combat experience with UAVs, electronic warfare, and modern combined-arms operations — capabilities relevant to the [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) domain and the broader [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) that cannot be acquired through training alone. For Russia, North Korean personnel provide manpower and force depth at a time when Russian conventional forces are under sustained pressure. [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) assesses that this mutual benefit calculus is deepening the alignment between Pyongyang and Moscow within the broader Eurasian power contest [2].
+
 # Citations
 
 [1] [North Korea's Constitutional Amendments Cement the Regime's Strategic Posture](https://understandingwar.org/research/china-taiwan/north-koreas-constitutional-amendments-cement-the-regimes-strategic-posture/)
+
+[2] Velina Tchakarova, "Russian war on Ukraine - Update", 2026-08-18 — [https://substack.com/@velinatchakarova/p-211724442](https://substack.com/@velinatchakarova/p-211724442)

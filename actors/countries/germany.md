@@ -5,7 +5,7 @@ parent: Countries
 description: Germany as a geopolitical actor — publishing first military strategy, signaling European conventional defense leadership, but hampered by timeline inconsistencies, capability gaps, and the AfD's Trump dilemma
 tags: [country, military, europe, nato, ideology, economics, trade, energy]
 status: ongoing
-timestamp: 2026-08-16T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -112,6 +112,10 @@ Migration corridor evidence illustrates the gap between legal design and labour-
 
 At the European level, the [EU]({{ site.baseurl }}/actors/organizations/eu.html)'s European Labour Authority (ELA) does not formally cover third-country nationals, and no EU-wide instrument targets unfair recruitment. The policy prescription advanced by Knapp and Landmesser has three pillars: a hybrid regulatory framework for private agencies combining licensing, binding obligations, voluntary certification, and sanctions; corporate accountability through tripartite engagement of trade unions, diaspora organizations, and the WE-Fair employer alliance; and transnational cooperation — extending ELA's mandate, operationalizing the EU Talent Pool with a German national contact point, and embedding fair-recruitment standards in bilateral agreements with India, Morocco, and Vietnam. The Philippines, with 60-plus bilateral labour agreements, demonstrates that origin-country leverage can protect workers rather than merely export them [16]. See [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html).
 
+## Counter-UAS and Air-Defence Gaps
+
+Germany and other European nations are ramping up counter-UAS capabilities with systems such as Skyranger, IRIS-T, electronic warfare, and dedicated anti-drone forces. Despite these efforts, Europe does not yet possess sufficient affordable air-defence systems to defend against mass drone attacks of the type observed in [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html). The gap highlights the broader challenge for [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html): producing affordable, scalable counter-drone systems is as critical as developing the [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) capabilities themselves, and European industry has not yet caught up with the scale of the threat [24].
+
 # Key Dynamics
 
 - **Declaratory, not transformative.** First military strategy claims European defense leadership but staggers milestones (2029/2035/2039) with no operationalization or institutional reform to bridge them. [1]
@@ -194,3 +198,5 @@ Rombach further recommends that Germany and the EU support Washington's call for
 [22] Kiel Institute, "German defence budget 2027: a lot of money, the wrong priorities", 2026-08-16 — [https://www.kielinstitut.de/publications/news/german-defence-budget-2027-a-lot-of-money-the-wrong-priorities/](https://www.kielinstitut.de/publications/news/german-defence-budget-2027-a-lot-of-money-the-wrong-priorities/)
 
 [23] Kiel Institute, "Ukraine Support Tracker: Europe leads on aid – US weapons remain key", 2026-08-16 — [https://www.kielinstitut.de/publications/news/ukraine-support-tracker-europe-leads-on-aid-us-weapons-remain-key/](https://www.kielinstitut.de/publications/news/ukraine-support-tracker-europe-leads-on-aid-us-weapons-remain-key/)
+
+[24] Velina Tchakarova, "Russian war on Ukraine - Update", 2026-08-18 — [https://substack.com/@velinatchakarova/p-211724442](https://substack.com/@velinatchakarova/p-211724442)

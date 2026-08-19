@@ -5,7 +5,7 @@ parent: Countries
 description: Gulf monarchy mediating between Iran and the US through Pakistan, deploying Pakistani troops and Chinese jets while negotiating a non-aggression pact
 tags: [country, energy, military, middle-east]
 status: ongoing
-timestamp: 2026-08-11T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -33,6 +33,10 @@ Saudi Arabia closed its airspace (along with Kuwait) when [Trump]({{ site.baseur
 ## Mecca Joint Defense Agreement
 
 [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) assesses the Saudi-Turkey-[Pakistan]({{ site.baseurl }}/actors/countries/pakistan.html) "Mecca" defense agreement as a power-vacuum fill rather than a new NATO. The pact lacks an integrated command structure — unlike NATO's US 4-star SACEUR, Turkey and Saudi Arabia are unlikely to hand over control of their forces to a Pakistani general. [Turkey]({{ site.baseurl }}/actors/countries/turkey.html)'s 18-million Kurdish population limits its intervention appetite. The agreement reflects the broader pattern of regional states hedging and building coalitions as American power recedes [13].
+
+## Red Sea Bypass Under Houthi Threat
+
+The kingdom has been relying on [Red Sea]({{ site.baseurl }}/regions/red-sea.html) export routes as a workaround for [Iran]({{ site.baseurl }}/actors/countries/iran.html)'s closure of Persian Gulf shipping lanes, redirecting crude through the East-West pipeline to Yanbu. In late July 2026, Houthi forces declared the Bab al-Mandeb Strait closed to Saudi Arabia and fired on Saudi commercial ships, directly jeopardizing the kingdom's oil export infrastructure [15]. Riyadh publicly attributed drone strikes on its oil facilities during late July 2026 to Iran-backed Iraqi militias, broadening the array of proxies threatening Saudi energy assets [15]. The IRGC warned Gulf states that their energy facilities would be destroyed if the United States struck comparable sites in Iran, transmitting detailed target lists to Arab counterparts — a coercive signal designed to deter US escalation by threatening allied infrastructure [15]. Arab officials are preparing for prolonged conflict and sustained disruption of [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html), indicating an expectation that the crisis will persist well beyond any immediate ceasefire [15].
 
 # Key Dynamics
 
@@ -91,6 +95,10 @@ The Houthi threat reached operational completion the week of July 21. The Houthi
 
 [Guido Steinberg]({{ site.baseurl }}/actors/authors/guido-steinberg.html) assesses the US-Saudi civilian nuclear agreement (announced during the Gulf war) as having two major problems. First, the agreement allows domestic uranium enrichment with less thorough inspections than the [UAE]({{ site.baseurl }}/actors/countries/uae.html)'s 2009 "gold standard" — meaning a civilian program could flip to military. MBS's 2018 statement that Saudi would acquire a bomb if [Iran]({{ site.baseurl }}/actors/countries/iran.html) developed one still reflects leadership thinking. Vision 2030 requires nuclear power to meet growing domestic energy demand and free up oil for export; the current war and Hormuz disruption have underscored Saudi vulnerability, leaving MBS with no alternative to the US alliance despite dissatisfaction with the war's conduct. Second, the signal effect weakens the UAE precedent and may trigger a proliferation cascade — Abu Dhabi will likely demand the same terms, and [Turkey]({{ site.baseurl }}/actors/countries/turkey.html) may pursue its own program. The agreement makes a Middle East with three, four, or five nuclear powers "very much more probable than before" [12]. See [US-Saudi Nuclear Agreement]({{ site.baseurl }}/events/saudi-arabia-us-civilian-nuclear-agreement-2026-07-24.html) and [Nuclear Proliferation and Arms Control]({{ site.baseurl }}/themes/nuclear-proliferation-and-arms-control.html).
 
+## Iran's Coercive Targeting of Saudi Bypass Architecture
+
+The IRGC's transmission of target lists to Arab counterparts represents a deliberate escalation of [Iran's Security Resistance Belt]({{ site.baseurl }}/themes/iran-security-resistance-belt.html) strategy, extending its deterrent threat from US forces to the energy infrastructure of Gulf states that might facilitate American military operations. By threatening to destroy Saudi and broader Gulf energy facilities in retaliation for any US strikes on Iranian oil or gas installations, Tehran aims to fracture the US-Gulf coalition by making allied infrastructure the price of American escalation. The attribution of drone attacks to Iranian-backed Iraqi militias — rather than Houthis alone — demonstrates a multi-vector coercion campaign in which [Iran]({{ site.baseurl }}/actors/countries/iran.html) can threaten Saudi energy assets from multiple directions simultaneously: the Red Sea via Houthis, and the north via Iraqi proxies. This layered threat architecture compounds the [Insurance and Trade Warfare]({{ site.baseurl }}/themes/insurance-and-trade-warfare.html) dynamics already repricing Saudi export routes, as war-risk premiums must now account for proxy threats across multiple theaters rather than a single chokepoint. The expectation among Arab officials of extended disruption signals a shift from crisis management to sustained contingency planning, with implications for global energy markets that extend well beyond the immediate conflict timeline [15].
+
 # Citations
 
 [1] [The World Beyond Hormuz](https://thehonestsorcerer.substack.com/p/the-world-beyond-hormuz)
@@ -120,3 +128,5 @@ The Houthi threat reached operational completion the week of July 21. The Houthi
 [13] Robert Pape, "Live with Prof Robert Pape: Assessing Pape/Currie Conversation 3 Weeks Later", 2026-08-09 — [https://escalationtrap.substack.com/p/live-with-prof-robert-pape-assessing](https://escalationtrap.substack.com/p/live-with-prof-robert-pape-assessing)
 
 [14] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, and Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)
+
+[15] Benoit Faucon and Summer Said, "Iran's Secret Plan to Escalate the War", 2026-08-17 — [https://www.wsj.com/world/middle-east/iran-plan-escalate-war-cc657664](https://www.wsj.com/world/middle-east/iran-plan-escalate-war-cc657664)

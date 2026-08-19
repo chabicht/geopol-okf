@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Center for Strategic and International Studies — defense and security analysis producing data-driven assessments of the Russia-Ukraine War, military capabilities, great power competition, war cost estimation, cyber threat ecosystems, Indo-Pacific security dynamics, and economic statecraft
 tags: [author, news, cyber]
 status: ongoing
-timestamp: 2026-08-16T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -92,6 +92,7 @@ Per rules.md §8.5, "CSIS" is not one analytical voice — Track Record entries 
 - "Six Reasons Why the United States Is Low on Munitions" (Cancian/Park) [8]
 - "Renewed Iran War Would Test Diminished Interceptor Inventories" [9]
 - "The Cyberattacks on the U.S. Water Sector and the Iran Question" [10]
+- "At Arm's Length" (SBU/CSIS Journalism Bootcamp) [11] — informs [Iran]({{ site.baseurl }}/actors/countries/iran.html), [Russia]({{ site.baseurl }}/actors/countries/russia.html), [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), [Twelve-Day War]({{ site.baseurl }}/events/twelve-day-war.html), [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html), [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html), [Nuclear Proliferation]({{ site.baseurl }}/themes/nuclear-proliferation-and-arms-control.html), [Global System Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html), [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html). Note: this is a student journalism bootcamp product hosted on CSIS's features platform, not a CSIS institutional analysis. Analytical claims are attributed to named external experts (Kendall-Taylor, Bennis, Grieco, Pollack, Massicot, Byman), not to CSIS itself.
 
 # Citations
 
@@ -114,3 +115,5 @@ Per rules.md §8.5, "CSIS" is not one analytical voice — Track Record entries 
 [9] CSIS, "Renewed Iran War Would Test Diminished Interceptor Inventories", 2026-08-16 — [https://www.csis.org/analysis/renewed-iran-war-would-test-diminished-interceptor-inventories](https://www.csis.org/analysis/renewed-iran-war-would-test-diminished-interceptor-inventories)
 
 [10] CSIS, "The Cyberattacks on the U.S. Water Sector and the Iran Question: Escalation or Opportunism?", 2026-08-16 — [https://www.csis.org/analysis/cyberattacks-us-water-sector-and-iran-question](https://www.csis.org/analysis/cyberattacks-us-water-sector-and-iran-question)
+
+[11] Aisha Sulemana et al. (SBU/CSIS Journalism Bootcamp), "At Arm's Length", 2026-08-18 — [https://features.csis.org/at-arms-length/](https://features.csis.org/at-arms-length/)

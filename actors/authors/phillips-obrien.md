@@ -157,6 +157,7 @@ O'Brien offers a sharply dissenting assessment of the [NATO Ankara Summit]({{ si
 - 2026-07-29 (Midweek Update #21) — the war will end with Iran getting most of what it wants, including tacit Hormuz control, asset release, and sanctions unwind — packaged by Trump as victory but representing "the quickest and arguably most decisive defeat in US history" [25]. Resolves as the peace settlement terms become observable.
 - Standing (war-termination framework) — the Russia-Ukraine war ends only once both Putin and Zelensky independently conclude a settlement beats continued fighting; O'Brien identifies no such condition met yet [21]. No date attached, so treat as a standing structural forecast rather than a near-term call.
 - Standing (leader-choice framework) — O'Brien's foundational claim that wars are choices of individual leaders, not state structures, is the O'Brien side of the recurring agency-vs-structure fault line; see [Analytical Fault Lines]({{ site.baseurl }}/themes/analytical-fault-lines.html) for where GPF/Friedman's structural counter-reading currently stands.
+- 2026-08-17 ("Is The American Age In The Western Pacific Over As Well?") — O'Brien's forecast that the "American Age" in the Western Pacific is over with no chance of resuscitation, extending his US-decline thesis from the Persian Gulf to the Indo-Pacific theater. Resolves on whether US carrier presence returns to the Western Pacific and whether [South Korea]({{ site.baseurl }}/actors/countries/south-korea.html) and [Japan]({{ site.baseurl }}/actors/countries/japan.html) sustain security cooperation with the US through 2027 [34].
 
 # Sources in Bundle
 
@@ -193,6 +194,8 @@ O'Brien offers a sharply dissenting assessment of the [NATO Ankara Summit]({{ si
 - "Midweek Update 22: The American Age in the Persian Gulf Is Over" [31]
 - "Weekend Update 197: Anatomy Of A Con" [32]
 - "Midweek Update 23: Can He Keep It Going Through The Election" [33]
+- "Is The American Age In The Western Pacific Over As Well?" [34] — informs [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html), [South Korea]({{ site.baseurl }}/actors/countries/south-korea.html), [United States]({{ site.baseurl }}/actors/countries/united-states.html), [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html), [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html)
+- "Could Allies Decide the Future of the Indo-Pacific?" (CSIS Marshall Paper, April 2025) [35] — reference
 
 # Citations
 
@@ -261,3 +264,7 @@ O'Brien offers a sharply dissenting assessment of the [NATO Ankara Summit]({{ si
 [32] Phillips P. O'Brien, "Weekend Update 197: Anatomy Of A Con", 2026-08-09 — [https://phillipspobrien.substack.com/p/weekend-update-197-anatomy-of-a-con](https://phillipspobrien.substack.com/p/weekend-update-197-anatomy-of-a-con)
 
 [33] Phillips P. O'Brien, "Midweek Update 23: Can He Keep It Going Through The Election", 2026-08-13 — [https://phillipspobrien.substack.com/p/midweek-update-23-can-he-keep-it](https://phillipspobrien.substack.com/p/midweek-update-23-can-he-keep-it)
+
+[34] Phillips P. O'Brien, "Is The American Age In The Western Pacific Over As Well?", 2026-08-17 — [https://phillipspobrien.substack.com/p/is-the-american-age-in-the-western](https://phillipspobrien.substack.com/p/is-the-american-age-in-the-western)
+
+[35] Phillips P. O'Brien, "Could Allies Decide the Future of the Indo-Pacific?", CSIS Marshall Paper, 2025-04-01 — [https://www.csis.org/analysis/could-allies-decide-future-indo-pacific](https://www.csis.org/analysis/could-allies-decide-future-indo-pacific)

@@ -5,7 +5,7 @@ parent: Countries
 description: Ukraine as a geopolitical actor — innovating in drone warfare and deep-strike doctrine, transforming its force structure under Western dependency, and pressuring Belarus to curtail Russian supply lines
 tags: [country, military, drone-warfare, air-defense, europe]
 status: ongoing
-timestamp: 2026-08-16T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -17,6 +17,10 @@ Ukraine has been at war with [Russia]({{ site.baseurl }}/actors/countries/russia
 ## Energy Infrastructure Devastation
 
 Russian strikes have destroyed or damaged more than 80% of Ukraine's power generation capacity, dropping electricity generation to approximately 12 GW against a 6 GW shortfall that produces rolling blackouts. [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) projects that Russia will escalate to targeting Ukrainian water-supply facilities next winter (2026-27), mirroring Iran's March 2 targeting of energy and water desalination infrastructure in the Gulf — joining the two auxiliary wars at the deepest structural level through a shared infrastructure-strike doctrine and water-energy nexus targeting. [20]
+
+## Manpower Deficit and Technology Substitution
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) reports that [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) is unable to conduct a war of attrition on equal terms with [Russia]({{ site.baseurl }}/actors/countries/russia.html) and is increasingly turning to technology, precision strike, and unmanned systems to compensate for its manpower deficit. Former Defence Minister Fedorov has called for a new, more transparent mobilization system featuring progressive mobilization, clearer terms of service, higher pay, more choice for draftees, and more foreign volunteers — a package that directly addresses the trust deficit identified during the [Fedorov Dismissal]({{ site.baseurl }}/events/fedorov-dismissal-2026.html) governance crisis [25].
 
 # Key Dynamics
 
@@ -123,6 +127,12 @@ The air-defense vulnerability remains acute. [Russia]({{ site.baseurl }}/actors/
 
 Stewart identifies a deeper pattern in Zelensky's personnel policy: popular figures are frequently removed from their positions, creating the impression that the political system is increasingly shaped by narrow political or personal considerations. Such turnover disrupts internal processes and inter-agency cooperation — particularly problematic in wartime. An active and influential civil society is among Ukraine's strengths and has contributed to its battlefield successes, but the return of political debate after four and a half years of war also brings higher instability. Stewart warns that Russian actors will inevitably exploit these tensions — a concern amplified by the fact that Ukraine is currently experiencing a positive phase both on the battlefield and in its relationship with the [United States]({{ site.baseurl }}/actors/countries/united-states.html) [19]. See [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html).
 
+## Technology Substitution and the Innovation Doctrine
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) assesses that Ukraine's R&D focus is likely to center on interceptor drones, autonomous systems enabled by AI, unmanned ground vehicles, electronic warfare, long-range strike systems, and possibly indigenous ballistic missiles [25]. This trajectory aligns with the broader [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) and the [AI Military Race]({{ site.baseurl }}/themes/ai-military-race.html), positioning Ukraine as a laboratory for the technologies that will define the next generation of warfare. The [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) innovation already demonstrated — from AI-enabled Hornets to deep-strike packages reaching St. Petersburg — provides the industrial base from which these next-generation capabilities will scale [25].
+
+The underlying message from Fedorov's proposals is that Ukraine needs to optimize manpower and substitute with technology [25]. This is the same principle that drove his tenure as Defence Minister — rapid tech iteration over mass mobilization — now reformulated as a systemic mobilization reform package. The [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) question is whether the political system can sustain the reform direction after his dismissal, or whether the General Staff's preference for manpower-intensive operations will reassert itself. The [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html)'s attrition dynamic makes the answer consequential: a force that cannot match its adversary's manpower must out-innovate it, and the window for scaling indigenous production is narrowing as Russian strike capacity grows [25].
+
 # Citations
 
 [1] Phillips P. O'Brien, "Early Lessons from the US-Iran War" — [https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war](https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war)
@@ -172,3 +182,5 @@ Stewart identifies a deeper pattern in Zelensky's personnel policy: popular figu
 [23] Kiel Institute, "Ukraine Support Tracker: Europe leads on aid – US weapons remain key", 2026-08-16 — [https://www.kielinstitut.de/publications/news/ukraine-support-tracker-europe-leads-on-aid-us-weapons-remain-key/](https://www.kielinstitut.de/publications/news/ukraine-support-tracker-europe-leads-on-aid-us-weapons-remain-key/)
 
 [24] Jack Watling, "Patriot missiles have been a godsend for Ukraine against Putin, but they're running out. Kyiv needs help and fast", 2026-08-14 — [https://www.theguardian.com/commentisfree/2026/aug/14/patriot-missiles-ukraine-putin-kyiv-running-out-nato-danger](https://www.theguardian.com/commentisfree/2026/aug/14/patriot-missiles-ukraine-putin-kyiv-running-out-nato-danger)
+
+[25] Velina Tchakarova, "Russian war on Ukraine - Update", 2026-08-18 — [https://substack.com/@velinatchakarova/p-211724442](https://substack.com/@velinatchakarova/p-211724442)

@@ -7,7 +7,7 @@ tags:
   - contested
   - fault-line
 status: ongoing
-timestamp: 2026-08-11T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -59,6 +59,12 @@ where in the bundle it currently produces a live disagreement.
   Island, and methodology claims as ideology critique with patchy empirical support. See
   `## Contested:` in
   [Civilizational Collapse and Progress Traps]({{ site.baseurl }}/themes/civilizational-collapse-and-progress-traps.html). [19][20]
+- **Contested — is CRINK a coherent revisionist bloc?** Tooze's macroeconomic framing
+  and Tchakarova's DragonBear/CRINK framing treat China-Russia-Iran-North Korea
+  coordination as a deepening structural partnership; a CSIS investigative feature
+  challenges the coherence of the bloc from the supply-chain and sanctions-evasion
+  perspective. See `## Contested:` in
+  [Global System Bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html). [21][22]
 
 # Analysis
 
@@ -201,3 +207,7 @@ The split is methodological — Wright reads archaeological narrative as evidenc
 [19] The Honest Sorcerer, "Civilizations Fall When This Mechanism Activates", 2026-08-08 — [https://thehonestsorcerer.substack.com/p/civilizations-fall-when-this-mechanism](https://thehonestsorcerer.substack.com/p/civilizations-fall-when-this-mechanism)
 
 [20] Cicero, "Das Journal – Wenn die Fortschrittsfalle zuschnappt", 2009 — [https://www.cicero.de/kultur/wenn-die-fortschrittsfalle-zuschnappt/44445](https://www.cicero.de/kultur/wenn-die-fortschrittsfalle-zuschnappt/44445)
+
+[21] Adam Tooze, "Chartbook 467: Heatwave economics — summer 2026", 2026-08-16 — [https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave](https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave)
+
+[22] Aisha Sulemana et al. (SBU/CSIS Journalism Bootcamp), "At Arm's Length", 2026-08-18 — [https://features.csis.org/at-arms-length/](https://features.csis.org/at-arms-length/)

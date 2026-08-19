@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Professor running the "Escalation Trap" newsletter — frameworks on leverage dynamics, the three-stage Escalation Trap, suicide terrorism strategic logic, and two engines driving the US-Iran war toward Stage 3 ground operations
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-08-16T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -314,6 +314,7 @@ On nuclear weapons, Pape is categorical. He rejects suggestions — including fr
 - 2026-08-11 — forecasts Iran locks in resistance-belt territorial depth now rather than waiting, because pipeline-bypass obsolescence (Bessent's two-year timeline) gives chokepoint-only leverage an expiration date. Resolves as the bypass timeline tracks or slips [28].
 - 2026-08-11 — forecasts Iran's "victor's-justice" demands continue to harden before they soften, because the buffer clock favors Tehran. Resolves as the next round of Iranian negotiating posture becomes observable [28].
 - Cross-reference: [Jeff Currie]({{ site.baseurl }}/actors/authors/jeff-currie.html) explicitly endorsed Pape's escalation trap framework as "the best read on this" in TGS 229 (31:27). [Nate Hagens]({{ site.baseurl }}/actors/authors/nate-hagens.html) referenced Pape's forthcoming Foreign Affairs publication (33:27) [29].
+- 2026-08-18 ("Iran's Strategy for the U.S. Midterms") — Pape's forecast that Iran's midterm strategy — sustaining high economic costs while US public confidence declines — will produce a major November political defeat that constrains future presidents on Iran war policy. Resolves on midterm results and any congressional war-powers restrictions enacted by Q1 2027 [31].
 
 # Sources in Bundle
 
@@ -346,6 +347,7 @@ On nuclear weapons, Pape is categorical. He rejects suggestions — including fr
 - "The Exit Trap" [27]
 - "Trump's Unilateral Demands, Iran Doubles Down on Hard Power — A Collision Course" [28]
 - "Iran's Endgame: Wait Out Trump" [29]
+- "Iran's Strategy for the U.S. Midterms: Maximum Political Pressure on Trump" [31] — informs [Iran]({{ site.baseurl }}/actors/countries/iran.html), [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), [Escalation Theory Critique]({{ site.baseurl }}/themes/escalation-theory-critique.html), [Middle East]({{ site.baseurl }}/regions/middle-east.html), [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html), [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html), [United States]({{ site.baseurl }}/actors/countries/united-states.html), [Trump]({{ site.baseurl }}/actors/trump.html)
 
 # Citations
 
@@ -408,3 +410,5 @@ On nuclear weapons, Pape is categorical. He rejects suggestions — including fr
 [29] Robert Pape, "Iran's Endgame: Wait Out Trump", 2026-08-13 — [https://escalationtrap.substack.com/p/irans-endgame-wait-out-trump](https://escalationtrap.substack.com/p/irans-endgame-wait-out-trump)
 
 [30] Nate Hagens, "Why Abundance Is an Illusion with Jeff Currie | TGS 229", 2026-07-29 — [https://www.youtube.com/watch?v=ij1_uxiXmm8](https://www.youtube.com/watch?v=ij1_uxiXmm8)
+
+[31] Robert Pape, "Iran's Strategy for the U.S. Midterms: Maximum Political Pressure on Trump", 2026-08-18 — [https://escalationtrap.substack.com/p/irans-strategy-for-the-us-midterms](https://escalationtrap.substack.com/p/irans-strategy-for-the-us-midterms)

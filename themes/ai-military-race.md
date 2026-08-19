@@ -11,7 +11,7 @@ tags:
   - supply-chain
   - trade
 status: ongoing
-timestamp: 2026-08-16T00:00:00Z
+timestamp: 2026-08-19T00:00:00Z
 ---
 
 # Background
@@ -168,6 +168,10 @@ Andrew Davidson (GPF) documents that autonomy has moved beyond one-way attack dr
 
 The procurement architecture is structurally significant: the US is purchasing mission-autonomy software separately from the airframes and maintaining competition among six software providers, effectively unbundling capabilities that were traditionally integrated under one major contractor. This modular approach reduces the ability of established contractors like Lockheed Martin, Boeing, and Northrop Grumman to control the entire technological stack, creating competitive entry points across the defence technology sector. Australia is advancing a parallel model through Boeing's MQ-28 Ghost Bat with an initial A$1.4 billion commitment, and the UK has committed £300 million to autonomous combat aircraft within its future combat-air system [19]. See [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) and [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html).
 
+## Ukraine's Drone Evolution and R&D Trajectory
+
+[Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) is evolving beyond first-person-view (FPV) drone attacks into interceptor drones, AI-targeting, autonomous weapons, ground robotics, and longer-range strike platforms. This trajectory represents a shift from tactical improvisation to a structured military-industrial R&D agenda. Ukrainian defense R&D is likely to concentrate on interceptor drones to counter mass drone attacks, autonomous systems enabled by AI, unmanned ground vehicles, electronic warfare, long-range strike systems, and possibly indigenous ballistic missiles. The evolution reflects the broader [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) in which continuous innovation under combat conditions drives capability development at a pace peacetime industries cannot match. The challenge for [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) is translating frontline iteration into scalable production — the same dynamic that makes Ukraine a living laboratory for [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) [20].
+
 # Citations
 
 [1] [https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military](https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military)
@@ -204,3 +208,5 @@ The procurement architecture is structurally significant: the US is purchasing m
 [18] Ronan Wordsworth, "The Geography of Data Centers", GeoEconomicLens, August 2026 — [https://geopoliticalfutures.com/lens/issue/august-2026/](https://geopoliticalfutures.com/lens/issue/august-2026/)
 
 [19] Andrew Davidson, "Defense Industry", GeoEconomicLens, August 2026 — [https://geopoliticalfutures.com/lens/issue/august-2026/](https://geopoliticalfutures.com/lens/issue/august-2026/)
+
+[20] Velina Tchakarova, "Russian war on Ukraine - Update", 2026-08-18 — [https://substack.com/@velinatchakarova/p-211724442](https://substack.com/@velinatchakarova/p-211724442)
