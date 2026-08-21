@@ -5,7 +5,7 @@ parent: Countries
 description: Ukraine as a geopolitical actor — innovating in drone warfare and deep-strike doctrine, transforming its force structure under Western dependency, and pressuring Belarus to curtail Russian supply lines
 tags: [country, military, drone-warfare, air-defense, europe]
 status: ongoing
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -133,6 +133,10 @@ Stewart identifies a deeper pattern in Zelensky's personnel policy: popular figu
 
 The underlying message from Fedorov's proposals is that Ukraine needs to optimize manpower and substitute with technology [25]. This is the same principle that drove his tenure as Defence Minister — rapid tech iteration over mass mobilization — now reformulated as a systemic mobilization reform package. The [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) question is whether the political system can sustain the reform direction after his dismissal, or whether the General Staff's preference for manpower-intensive operations will reassert itself. The [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html)'s attrition dynamic makes the answer consequential: a force that cannot match its adversary's manpower must out-innovate it, and the window for scaling indigenous production is narrowing as Russian strike capacity grows [25].
 
+## Higher Military Learning
+
+Geopolitical Futures argues that Ukraine's wartime learning increasingly depends on institutionalizing battlefield feedback rather than on isolated tactical adaptation. The assessment highlights the organizational challenge of converting combat experience into durable doctrine and force development. [26]
+
 # Citations
 
 [1] Phillips P. O'Brien, "Early Lessons from the US-Iran War" — [https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war](https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war)
@@ -184,3 +188,5 @@ The underlying message from Fedorov's proposals is that Ukraine needs to optimiz
 [24] Jack Watling, "Patriot missiles have been a godsend for Ukraine against Putin, but they're running out. Kyiv needs help and fast", 2026-08-14 — [https://www.theguardian.com/commentisfree/2026/aug/14/patriot-missiles-ukraine-putin-kyiv-running-out-nato-danger](https://www.theguardian.com/commentisfree/2026/aug/14/patriot-missiles-ukraine-putin-kyiv-running-out-nato-danger)
 
 [25] Velina Tchakarova, "Russian war on Ukraine - Update", 2026-08-18 — [https://substack.com/@velinatchakarova/p-211724442](https://substack.com/@velinatchakarova/p-211724442)
+
+[26] Geopolitical Futures, "Higher Military Learning in the Ukraine War", 2026-08-20 — [https://geopoliticalfutures.com/higher-military-learning-in-the-ukraine-war/](https://geopoliticalfutures.com/higher-military-learning-in-the-ukraine-war/)

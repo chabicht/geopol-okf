@@ -10,7 +10,7 @@ description: >-
   welfare promises amid economic inability to deliver them
 tags: [country, military, nuclear, ideology, indo-pacific]
 status: ongoing
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -44,6 +44,8 @@ Kim Jong Un has directed the development of artificial intelligence and space te
 ## Russia-Ukraine War Involvement
 
 North Korea is no longer merely an ammunition supplier to [Russia]({{ site.baseurl }}/actors/countries/russia.html) but has become directly engaged in the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html). North Korean troops have participated in combat operations in the Kursk region of Russia alongside Russian forces against [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html), with additional deployments anticipated. The scale of potential involvement remains uncertain: unconfirmed reports suggest deployments could reach 30,000–50,000 personnel, though these figures have not been verified. Such forces could serve in reserve, engineering, logistics, missile operations, or training capacities rather than purely front-line combat [2].
+
+Tchakarova reports that the war is accelerating DPRK learning in drone-enabled reconnaissance, artillery fire-control, and electronic warfare, alongside reported Russian systems and production support. Her 30,000–50,000 deployment estimate is explicitly unverified by Seoul. [3]
 
 # Key Dynamics
 
@@ -87,3 +89,5 @@ The deepening North Korean involvement in the [Russia-Ukraine War]({{ site.baseu
 [1] [North Korea's Constitutional Amendments Cement the Regime's Strategic Posture](https://understandingwar.org/research/china-taiwan/north-koreas-constitutional-amendments-cement-the-regimes-strategic-posture/)
 
 [2] Velina Tchakarova, "Russian war on Ukraine - Update", 2026-08-18 — [https://substack.com/@velinatchakarova/p-211724442](https://substack.com/@velinatchakarova/p-211724442)
+
+[3] Velina Tchakarova, "South Korea and the Armistice Instinct", 2026-08-20 — [https://substack.com/@velinatchakarova/p-211991943?utm_source=profile&utm_medium=reader2](https://substack.com/@velinatchakarova/p-211991943?utm_source=profile&utm_medium=reader2)

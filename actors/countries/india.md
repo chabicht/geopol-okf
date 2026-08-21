@@ -5,7 +5,7 @@ parent: Countries
 description: India as a geopolitical actor — balancing China as its overriding strategic concern, building an Asian alliance network, and enduring Trump-era diplomatic slights
 tags: [country, military, indo-pacific, trade]
 status: ongoing
-timestamp: 2026-08-11T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -71,6 +71,10 @@ Colibasanu documents India's acute exposure to the Hormuz fertilizer disruption.
 
 The Kiel Institute's KITE bottleneck simulation quantifies India as the most-exposed large economy under a full Hormuz closure, with a projected −1.78% welfare loss and +10.73% food price increase in the short-run scenario. The bottleneck mechanism anchors the cascade from energy through fertilizers to food, and India's fertilizer-import dependence transmits the chokepoint shock directly into agricultural prices and household welfare [10].
 
+## Strategic Drift
+
+Geopolitical Futures assesses India as balancing rather than cleanly aligning amid changing relations with major powers. Its account treats this as a strategic adjustment under pressure, not evidence that New Delhi has abandoned its preference for autonomy. [11]
+
 # Citations
 
 [1] War on the Rocks, "Why India Will Stick with America" — [https://warontherocks.com/why-india-will-stick-with-america/](https://warontherocks.com/why-india-will-stick-with-america/)
@@ -92,3 +96,5 @@ The Kiel Institute's KITE bottleneck simulation quantifies India as the most-exp
 [9] [Rising Costs from the New Hormuz Blockade](https://geopoliticalfutures.com/rising-costs-from-the-new-hormuz-blockade/)
 
 [10] Julian Hinz, Hendrik Mahlkow, Robin Sogalla, and Gerald Willmann, "The Cost of Closing the Strait of Hormuz: Energy Bottlenecks and Global Food Security", 2026-03 — [https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/](https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/)
+
+[11] Geopolitical Futures, "India's Strategic Drift", 2026-08-20 — [https://geopoliticalfutures.com/indias-strategic-drift/](https://geopoliticalfutures.com/indias-strategic-drift/)

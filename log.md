@@ -4,6 +4,31 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-08-21 — Incorporation: 16 Sources (CFR, GPF ×7, Cipher Brief, War on the Rocks ×2, Aurelien, O'Brien ×2, Tchakarova ×2)
+
+**Sources (16)**
+
+* Rush Doshi et al., "Out of Ammo: A Two-Year Sprint to Rebuild the American Arsenal and Deter China"
+* Geopolitical Futures: "Higher Military Learning in the Ukraine War," "India's Strategic Drift," "Iran's Unfinished War," "Net Assessment," "China's Military Reforms," "The Geoeconomics of Water," and "The Significance of the Ceuta Crisis"
+* The Cipher Brief, "Inside Iran's New Wartime Leadership"; War on the Rocks pieces by Jaehwan Lim and Alex Kolbin; Aurelien, "They Don't Care"
+* Phillips P. O'Brien, "Midweek Update #24" and "The US Does Not Understand Air Power, Does Ukraine?"; Velina Tchakarova, "Global System Rupture: systems coupling" and "South Korea and the Armistice Instinct"
+
+**Images archived**: 20 images fetched and assessed; decorative assets were skipped. One illustrative Wildberries image fetch timed out (`curl 28`); it carried no unique claim.
+
+**New concepts (2)**
+
+* **New theme**: [Managed Instability]({{ site.baseurl }}/themes/managed-instability.html) — Kolbin's framework for conflict sustained through coercion and partial bargains.
+* **New theme**: [Schengen Border Controls]({{ site.baseurl }}/themes/schengen-border-controls.html) — the relationship between external-frontier credibility, internal exceptions, and the single market.
+
+**New contested block (1)**
+
+* `## Contested: Can US rearmament restore Taiwan deterrence within two years?` in [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) — CFR's precise-mass sprint versus O'Brien's institutional-reconstruction critique. Registry link added to [Analytical Fault Lines]({{ site.baseurl }}/themes/analytical-fault-lines.html).
+
+**Updates**
+
+* Country, conflict, theme, event, and author concepts received attributed updates on US and PLA force design, Iran's wartime governance, India and South Korea's hedging, Ukraine/Russia operational learning, water and Schengen pressure, and systems coupling.
+* [Ceuta Migration Crisis]({{ site.baseurl }}/events/ceuta-migration-crisis-2026-07-31.html) now preserves the source-attributed approximately 60,000 and more-than-70,000 crossing estimates; its prior unsupported fatality assertion was removed.
+
 ## 2026-08-19 — Incorporation: 7 Sources (Tooze, O'Brien, Pape, Tchakarova ×2, CSIS, WSJ)
 
 **Sources (7)**

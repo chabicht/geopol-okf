@@ -2,12 +2,12 @@
 type: Event
 title: "Ceuta Migration Crisis (July 2026)"
 parent: Events
-description: "Mass migration to Spanish enclave Ceuta driven by TikTok misinformation, Moroccan border leverage, and far-right amplification — 88 dead, four convergent geopolitical fault lines exposed."
+description: "Mass migration to Spanish enclave Ceuta driven by misinformation, external-border vulnerability, and geopolitical pressure on the Schengen system."
 event_date: 2026-07-31
 actuality: actual
 tags: [middle-east, europe, cognitive-warfare]
 status: concluded
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -22,7 +22,7 @@ These domestic vulnerabilities intersected with an established pattern of Morocc
 
 In late July 2026, a viral TikTok video falsely claiming that Spain had opened the Ceuta border circulated widely across Moroccan and sub-Saharan social media networks. The misinformation triggered a mass movement of migrants toward the enclave. With the Supreme Court ruling constraining immediate returns, smuggling networks adapted quickly: migrants increasingly attempted to circumvent the physical border barriers by swimming around them rather than crossing at fenced checkpoints.
 
-By Sunday, most of the migrants who had entered Ceuta were returned to Morocco, but the human cost was severe. Eighty-eight bodies were reported in the Ceuta morgue, with eleven additional recoveries on the Moroccan side of the border. The scale of fatalities transformed the incident from a border-management event into a humanitarian crisis and a political crisis for the Sánchez government [1].
+By Sunday, most migrants who had entered Ceuta were returned to Morocco. Tchakarova's account describes an influx of roughly 60,000 people; Antonia Colibasanu of Geopolitical Futures reports that more than 70,000 crossed in a matter of days. These are source-attributed estimates, not reconciled counts. [1][2]
 
 # Analysis
 
@@ -44,6 +44,12 @@ Tchakarova argues that Ceuta 2026 sits at the intersection of three distinct lev
 
 See [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html) for the analytical framework on expectation-based pull factors and the instrumentalization of migration corridors, and [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) for the TikTok misinformation vector.
 
+## Schengen Spillover
+
+Colibasanu assesses the crisis as a test of the reciprocal confidence that supports Schengen: external-border pressure can drive states to restore internal checks if they doubt control or burden-sharing. Italy introduced temporary checks on air and sea links with Spain after the event, and Spain responded with its own temporary controls. [2] See [Schengen Border Controls]({{ site.baseurl }}/themes/schengen-border-controls.html).
+
 # Citations
 
 [1] Velina Tchakarova, "Ceuta 2026: Migration Crisis or Spain's Emerging Geopolitical Vulnerability?", 2026-07-31 — [https://substack.com/@velinatchakarova/p-209189178](https://substack.com/@velinatchakarova/p-209189178)
+
+[2] Antonia Colibasanu, "The Significance of the Ceuta Crisis Beyond Migration", 2026-08-12 — [https://geopoliticalfutures.com/the-significance-of-the-ceuta-crisis-beyond-migration/](https://geopoliticalfutures.com/the-significance-of-the-ceuta-crisis-beyond-migration/)

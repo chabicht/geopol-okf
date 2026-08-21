@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Military historian and analyst — author of "War and Power" — arguing that wars are choices of individual leaders, that cheap mass beats expensive precision, and that US decline is accelerating across diplomatic, military, cultural, and fiscal domains
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -55,6 +55,8 @@ The fiscal dimension imposes the hardest ceiling. O'Brien argues the US cannot a
 ## Ranged War Doctrine
 
 O'Brien distinguishes **long-range strike** (strategic bombing — oil refineries, weapons production, industrial base) from **medium-range strike** (logistics disruption — road, rail, sea/bridge traffic) [9][10].
+
+O'Brien's August 21 air-power framework makes systems destruction, rather than coercive signaling, the test of strategic air power: strikes should disable the fuel, transport, logistics, and command systems that sustain an opponent's war effort. He applies that standard critically to both theaters. In Iran, he judges the US campaign shifted from an unplanned decapitation attempt to disconnected signaling raids; in Ukraine, he argues sustained, repeat strikes on Russian fuel production and transport would be more strategically consequential than intermittent refinery attacks or the Wildberries warehouse campaign. [36]
 
 ## How Wars End: Leadership Decides
 
@@ -195,6 +197,8 @@ O'Brien offers a sharply dissenting assessment of the [NATO Ankara Summit]({{ si
 - "Weekend Update 197: Anatomy Of A Con" [32]
 - "Midweek Update 23: Can He Keep It Going Through The Election" [33]
 - "Is The American Age In The Western Pacific Over As Well?" [34] — informs [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html), [South Korea]({{ site.baseurl }}/actors/countries/south-korea.html), [United States]({{ site.baseurl }}/actors/countries/united-states.html), [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html), [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html), [Global System Rupture]({{ site.baseurl }}/themes/global-system-rupture.html)
+- "The US Does Not Understand Air Power, Does Ukraine?" [36] — informs [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) and [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html)
+- "Midweek Update #24: The USA Is Not A Serious Country" [37] — informs [US-Iran War 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html)
 - "Could Allies Decide the Future of the Indo-Pacific?" (CSIS Marshall Paper, April 2025) [35] — reference
 
 # Citations
@@ -268,3 +272,7 @@ O'Brien offers a sharply dissenting assessment of the [NATO Ankara Summit]({{ si
 [34] Phillips P. O'Brien, "Is The American Age In The Western Pacific Over As Well?", 2026-08-17 — [https://phillipspobrien.substack.com/p/is-the-american-age-in-the-western](https://phillipspobrien.substack.com/p/is-the-american-age-in-the-western)
 
 [35] Phillips P. O'Brien, "Could Allies Decide the Future of the Indo-Pacific?", CSIS Marshall Paper, 2025-04-01 — [https://www.csis.org/analysis/could-allies-decide-future-indo-pacific](https://www.csis.org/analysis/could-allies-decide-future-indo-pacific)
+
+[36] Phillips P. O'Brien, "The US Does Not Understand Air Power, Does Ukraine?", 2026-08-21 — [https://phillipspobrien.substack.com/p/the-us-does-not-understand-air-power](https://phillipspobrien.substack.com/p/the-us-does-not-understand-air-power)
+
+[37] Phillips P. O'Brien, "Midweek Update #24: The USA Is Not A Serious Country", 2026-08-19 — [https://phillipspobrien.substack.com/p/midweek-update-24-the-usa-is-not](https://phillipspobrien.substack.com/p/midweek-update-24-the-usa-is-not)

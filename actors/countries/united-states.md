@@ -5,7 +5,7 @@ parent: Countries
 description: The United States as a geopolitical actor — superpower facing military overstretch, diplomatic erosion, domestic institutional degradation, oligarchic capture, and an unresolved AI military integration gap
 tags: [country, military, ai, nuclear, energy, intelligence, middle-east, indo-pacific, latin-america, europe, oligarchy]
 status: ongoing
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -245,6 +245,10 @@ Two factors temper the assessment. First, the fundamentals of US power — techn
 
 [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) argues that a prolonged, costly war with American casualties and no convincing endgame could push Democrats and possibly Republicans to support congressional restrictions on troop deployments, war funding, and military assistance to [Israel]({{ site.baseurl }}/actors/countries/israel.html). The decisive possibility is a bipartisan congressional revolt producing veto-proof majorities — rendering the war politically unsustainable and establishing a precedent that binds future presidents. This would mark the first time Congress has constrained a sitting president's war powers since the Vietnam era, with structural consequences for executive authority in foreign policy. See [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html) and [Escalation Theory Critique]({{ site.baseurl }}/themes/escalation-theory-critique.html) [63].
 
+## Defense Industrial Readiness
+
+A CFR study group assesses the United States as unable to rely on legacy systems alone to deter a near-term Chinese move against [Taiwan]({{ site.baseurl }}/actors/countries/taiwan.html). It recommends rapidly scaling lower-cost, expendable "precise mass" systems while acknowledging that this is an assessment and a policy prescription, not a demonstrated outcome. [64]
+
 # Citations
 
 [1] The Honest Sorcerer, "The Big Picture" — [https://thehonestsorcerer.substack.com/p/the-big-picture](https://thehonestsorcerer.substack.com/p/the-big-picture)
@@ -372,3 +376,5 @@ Two factors temper the assessment. First, the fundamentals of US power — techn
 [62] Phillips P. O'Brien, "Is The American Age In The Western Pacific Over As Well?", 2026-08-17 — [https://phillipspobrien.substack.com/p/is-the-american-age-in-the-western](https://phillipspobrien.substack.com/p/is-the-american-age-in-the-western)
 
 [63] Robert Pape, "Iran's Strategy for the U.S. Midterms: Maximum Political Pressure on Trump", 2026-08-18 — [https://escalationtrap.substack.com/p/irans-strategy-for-the-us-midterms](https://escalationtrap.substack.com/p/irans-strategy-for-the-us-midterms)
+
+[64] Rush Doshi, Erin D. Dumbacher, William Henagan, Michael C. Horowitz, and Samuel Henry Lazarus, "Out of Ammo: A Two-Year Sprint to Rebuild the American Arsenal and Deter China", 2026-08-18 — [https://www.cfr.org/reports/out-of-ammo-a-two-year-sprint-to-rebuild-the-american-arsenal-and-deter-china?utm_medium=social_owned&utm_source=tw](https://www.cfr.org/reports/out-of-ammo-a-two-year-sprint-to-rebuild-the-american-arsenal-and-deter-china?utm_medium=social_owned&utm_source=tw)

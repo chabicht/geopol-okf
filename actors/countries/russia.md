@@ -5,7 +5,7 @@ parent: Countries
 description: Russia as a geopolitical actor — waging war in Ukraine, managing Chechnya's succession risk, projecting power in Africa, conducting cognitive warfare against the West, attempting to revitalize the CSTO, losing its grip on its southern flank, facing logistics vulnerabilities under sanctions, facing drone strikes deep into Siberia, contending with the resilience of its security state, and entering a historically significant zone of leadership vulnerability under compounding economic and elite stress
 tags: [country, military, cognitive-warfare, energy, sanctions, europe, caucasus, africa, central-asia, supply-chain, cyber]
 status: ongoing
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -167,6 +167,10 @@ The Russia-[Iran]({{ site.baseurl }}/actors/countries/iran.html) partnership res
 
 [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) argues that [China]({{ site.baseurl }}/actors/countries/china.html) cannot become an Arctic nation without Russia's geographic cooperation, a structural reality that undercuts the common framing of Russia as the "junior partner" in the DragonBear axis. The Northern Sea Route functions as an integrated DragonBear trade, military, and raw-materials corridor — the principal non-Western alternative to US-led Indo-Pacific supply chains. This positioning gives Russia enduring leverage within the axis: even as economic dependence on Beijing grows, Moscow controls geographic access that Beijing cannot replicate unilaterally. The [Arctic]({{ site.baseurl }}/regions/arctic.html) anchor thus reframes the DragonBear as a relationship of complementary asymmetries rather than simple hierarchy, with implications for [great power competition]({{ site.baseurl }}/themes/great-power-competition.html) and [escalation theory critique]({{ site.baseurl }}/themes/escalation-theory-critique.html) [46].
 
+## Linked-War Incentives
+
+Alex Kolbin argues that Russia's support relationship with Iran increasingly links the Ukraine and Gulf theaters through military technology, targeting assistance, and competing Western interceptor demand. He describes this as a two-war proxy context, not a single merged conflict. [47]
+
 # Citations
 
 [1] Geopolitical Futures, "Russia's Chechnya Problem" — [https://geopoliticalfutures.com/russias-chechnya-problem/](https://geopoliticalfutures.com/russias-chechnya-problem/)
@@ -260,3 +264,5 @@ The Russia-[Iran]({{ site.baseurl }}/actors/countries/iran.html) partnership res
 [45] Aisha Sulemana et al. (SBU/CSIS Journalism Bootcamp), "At Arm's Length", 2026-08-18 — [https://features.csis.org/at-arms-length/](https://features.csis.org/at-arms-length/)
 
 [46] Velina Tchakarova, "The DragonBear and the Northern Sea Route", 2026-08-18 — [https://substack.com/@velinatchakarova/p-211768938](https://substack.com/@velinatchakarova/p-211768938)
+
+[47] Alex Kolbin, "Managed Instability: Why the Wars Against Iran and Ukraine Can Go On and On and On...", 2026-08-19 — [https://warontherocks.com/managed-instability-why-the-wars-against-iran-and-ukraine-can-go-on-and-on-and-on/](https://warontherocks.com/managed-instability-why-the-wars-against-iran-and-ukraine-can-go-on-and-on-and-on/)

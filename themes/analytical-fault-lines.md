@@ -7,7 +7,7 @@ tags:
   - contested
   - fault-line
 status: ongoing
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -52,7 +52,11 @@ where in the bundle it currently produces a live disagreement.
 - **Contested — is US Iran strategy deliberate doctrine or adrift improvisation?**
   Bokhari reads a coherent offloading doctrine; Hinote reads tactical success without
   strategic conversion. See `## Contested:` in
-  [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html). [15][16]
+   [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html). [15][16]
+- **Contested — can US rearmament restore Taiwan deterrence within two years?** CFR's
+  precise-mass sprint seeks rapid industrial adaptation; O'Brien argues that rebuilding the
+  existing force repeats its institutional failure. See `## Contested:` in [Defense Industrial
+  Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
 - **Contested — are the empirical foundations of Wright's progress-trap framework sound?**
   The Honest Sorcerer's compilation presents Wright's progress traps as empirically
   grounded and civilization-threatening; a Cicero review contests the megafauna, Easter

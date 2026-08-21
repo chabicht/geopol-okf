@@ -12,7 +12,7 @@ tags:
   - middle-east
   - contested
 status: ongoing
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 # Background
 
@@ -475,6 +475,12 @@ Iran's hard-line leadership interpreted the [MoU]({{ site.baseurl }}/events/iran
 
 [Phillips P. O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) argues that the Iran war has compounded [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html) military degradation by consuming advanced munitions and carrier availability [103]. Pacific weakness is not a single anomaly but follows from the profligate use of US assets against Iran, the Pentagon's refusal to adapt, and the broader deterioration of the military-industrial base — a pattern tracked under [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) [103].
 
+## Air Power, Strategic Drift, and Settlement Authority
+
+[Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) argues that US air power in Iran drifted from an unplanned decapitation attempt into disconnected signaling raids. In his account, the campaign could destroy selected targets but lacked a follow-on political plan or a methodical systems-destruction strategy capable of making Iran unable to continue the war; the result was munitions expenditure without strategic effect. [104]
+
+The leadership structure constrains any settlement as well as the air campaign. In [The Cipher Brief]({{ site.baseurl }}/actors/authors/the-cipher-brief.html)'s reporting, Norman Roule expects continuity in Iran's core strategic policies despite uncertainty over Mojtaba Khamenei's health, while Rose Kelanic assesses that IRGC dominance over a weaker civilian leadership and rival power centers makes a deal harder because Washington lacks a clear counterpart able to deliver one. [105]
+
 # Citations
 
 [1] [Iran's Regime Is Headed for a Hard Landing](https://geopoliticalfutures.com/irans-regime-is-headed-for-a-hard-landing/)
@@ -682,3 +688,7 @@ Iran's hard-line leadership interpreted the [MoU]({{ site.baseurl }}/events/iran
 [102] Benoit Faucon and Summer Said, "Iran's Secret Plan to Escalate the War", 2026-08-17 — [https://www.wsj.com/world/middle-east/iran-plan-escalate-war-cc657664](https://www.wsj.com/world/middle-east/iran-plan-escalate-war-cc657664)
 
 [103] Phillips P. O'Brien, "Is The American Age In The Western Pacific Over As Well?", 2026-08-17 — [https://phillipspobrien.substack.com/p/is-the-american-age-in-the-western](https://phillipspobrien.substack.com/p/is-the-american-age-in-the-western)
+
+[104] Phillips P. O'Brien, "The US Does Not Understand Air Power, Does Ukraine?", 2026-08-21 — [https://phillipspobrien.substack.com/p/the-us-does-not-understand-air-power](https://phillipspobrien.substack.com/p/the-us-does-not-understand-air-power)
+
+[105] The Cipher Brief, "Inside Iran's New Wartime Leadership", 2026-08-17 — [https://www.thecipherbrief.com/inside-irans-new-wartime-leadership](https://www.thecipherbrief.com/inside-irans-new-wartime-leadership)

@@ -11,7 +11,7 @@ tags:
   - supply-chain
   - economics
 status: ongoing
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -58,6 +58,7 @@ The US carrier maintenance backlog is now backed up for years; the Lincoln will 
 - **Patriot production math exposes NATO planning failure.** Global Patriot production is approximately 840 interceptors per year (240 PAC-2 + 600 PAC-3), while Russia produces roughly 750 Iskander missiles annually; with a 2-3 interceptor-per-target doctrine, Ukraine alone would need 3-4 times global annual production — a shortfall NATO knew about since before 2022 yet failed to address [32].
 - **Germany's record defence budget misallocates resources.** The €140B FY2027 budget allocates only 2% to R&D (vs. >10% in the US and ~5% in the UK), prioritizes F-35 purchases (€1.75B) and traditional platforms over AI, autonomous systems, robotics, and space — with no focus on scalable production capacity [30].
 - **Europe's military aid to Ukraine depends on US weapons.** European donors procured at least €3B from US defense companies in H1 2026 (30% of military aid through industry procurement), and the NATO PURL mechanism drew over 90% of its aid from US stockpiles — Europe remains dependent on US Patriot and other systems it cannot yet replace [31].
+- **Contested — can US rearmament restore Taiwan deterrence quickly?** CFR sees a two-year path through scaled, low-cost "precise mass" systems; O'Brien argues current political and procurement choices make additional spending destructive rather than restorative. [36][37]
 
 # Analysis
 
@@ -112,6 +113,15 @@ The Tomahawk delay exemplifies how allied readiness is collateral damage of US m
 [Aurelien]({{ site.baseurl }}/actors/authors/aurelien.html) argues that the structural problem is deeper than any single conflict: the West can never fight an attrition war against Russia successfully because the necessary industrial and engineering infrastructure does not exist and cannot be recreated — it is doubtful it ever existed on the necessary scale in the first place. This applies irrespective of the technical capability of Western equipment and the limited potential for increasing force size. The military market is so internationalized that Western countries typically import at least 50% of their components and sub-assemblies, not to mention raw materials. There are probably half a dozen countries in the world that could bring F-35 production and maintenance to a screaming halt. By sending its weapons to [Ukraine]({{ site.baseurl }}/conflicts/russia-ukraine-war.html), the West is making the longer-term problem worse — depleting stockpiles that cannot be rebuilt in any relevant timeframe. Drones will not help, since the Russians will always have a manufacturing advantage. The Cold War expectation that conflicts would be short, and therefore large missile stockpiles were unnecessary, created the structural deficit now exposed in both Ukraine and [Iran]({{ site.baseurl }}/conflicts/us-iran-war-2026.html). Talk of "rearmament" should not be taken seriously when the industrial base to sustain it does not exist. The real problems the West faces are primarily conceptual and psychological — an over-dependence on abstract thinking and adherence to norms derived from the past. The West no longer knows what it wants military forces for, or how it would employ them [15]. See [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html).
 
 RUSI frames the same problem through the cost-exchange lens: cheap mass (drones, mines, swarming boats) defeats expensive platforms, with defending often costing a hundred times more than attacking. Two decades of procurement choices — exquisite platforms bought in small numbers, acquisition concentrated in a few large and often slow-moving prime contractors, and chronic neglect of the civilian systems and infrastructure that adversaries now treat as the primary battlespace — have produced a structural cost asymmetry that no spending uplift alone can repair. NATO has earmarked 1.5% of GDP for civilian resilience and innovation; the binding constraint is reforming procurement and decision-making so capabilities reach the force before the current window closes [7]. The full cost-exchange data and the invert-the-curve agenda — layered counter-drone systems, low-cost offensive strike, mine countermeasures, civilian resilience — are tracked canonically in [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html).
+
+## Contested: Can US rearmament restore Taiwan deterrence within two years?
+
+The Council on Foreign Relations study group argues that depleted US stocks can still be offset in the near term by putting low-cost, expendable drones, sensors, and enabling systems on a wartime production footing. Its proposed "precise mass" approach prioritizes schedule, scale, and sufficiently capable systems over exquisite legacy platforms that cannot be expanded fast enough for a Taiwan contingency. [36] [Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) reaches the opposite operational prescription: he argues that the Iran war has exposed a strategically directionless US military and that politically driven procurement would waste resources and deepen institutional damage; he advocates freezing new equipment appropriations pending different political leadership. [37]
+
+The disagreement is primarily about institutional capacity and political timing, not the existence of stockpile and production constraints: CFR treats accelerated acquisition and focused industrial policy as feasible remedies, while O'Brien treats the present decision-making system as the source of the failure.
+
+**Tiebreaker:** by August 2028, whether contracted precise-mass systems have entered operational inventories at sustained scale while high-priority munitions production and readiness measurably improve.
+**Status:** open fork.
 
 ## Acquisition Reform, Cycle-Time, and the Software Production Shift
 
@@ -314,3 +324,7 @@ The dependency is most acute for Patriot interceptors, for which Europe has only
 [34] Aisha Sulemana et al. (SBU/CSIS Journalism Bootcamp), "At Arm's Length", 2026-08-18 — [https://features.csis.org/at-arms-length/](https://features.csis.org/at-arms-length/)
 
 [35] Phillips P. O'Brien, "Is The American Age In The Western Pacific Over As Well?", 2026-08-17 — [https://phillipspobrien.substack.com/p/is-the-american-age-in-the-western](https://phillipspobrien.substack.com/p/is-the-american-age-in-the-western)
+
+[36] Rush Doshi, Erin D. Dumbacher, William Henagan, Michael C. Horowitz, and Samuel Henry Lazarus, "Out of Ammo: A Two-Year Sprint to Rebuild the American Arsenal and Deter China", 2026-08-18 — [https://www.cfr.org/reports/out-of-ammo-a-two-year-sprint-to-rebuild-the-american-arsenal-and-deter-china?utm_medium=social_owned&utm_source=tw](https://www.cfr.org/reports/out-of-ammo-a-two-year-sprint-to-rebuild-the-american-arsenal-and-deter-china?utm_medium=social_owned&utm_source=tw)
+
+[37] Phillips P. O'Brien, "Midweek Update #24: The USA Is Not A Serious Country", 2026-08-19 — [https://phillipspobrien.substack.com/p/midweek-update-24-the-usa-is-not](https://phillipspobrien.substack.com/p/midweek-update-24-the-usa-is-not)

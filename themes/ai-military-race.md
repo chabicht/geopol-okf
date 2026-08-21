@@ -11,7 +11,7 @@ tags:
   - supply-chain
   - trade
 status: ongoing
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -172,6 +172,10 @@ The procurement architecture is structurally significant: the US is purchasing m
 
 [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) is evolving beyond first-person-view (FPV) drone attacks into interceptor drones, AI-targeting, autonomous weapons, ground robotics, and longer-range strike platforms. This trajectory represents a shift from tactical improvisation to a structured military-industrial R&D agenda. Ukrainian defense R&D is likely to concentrate on interceptor drones to counter mass drone attacks, autonomous systems enabled by AI, unmanned ground vehicles, electronic warfare, long-range strike systems, and possibly indigenous ballistic missiles. The evolution reflects the broader [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) in which continuous innovation under combat conditions drives capability development at a pace peacetime industries cannot match. The challenge for [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) is translating frontline iteration into scalable production — the same dynamic that makes Ukraine a living laboratory for [Drone Warfare]({{ site.baseurl }}/themes/drone-warfare.html) [20].
 
+## Command Authority in PLA AI Adoption
+
+Taylor Fravel and Brian Hart assess Chinese military writing as treating AI chiefly as an aid to command and decision support, not a substitute for commanders. The distinction matters because the PLA is testing AI-enabled systems while retaining political control and human responsibility in its command model; operational adoption is therefore constrained by organizational trust and civil-military control as well as technical capability. [21]
+
 # Citations
 
 [1] [https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military](https://www.thecipherbrief.com/the-ai-race-won-t-be-won-by-the-best-model-but-by-the-fastest-military)
@@ -210,3 +214,5 @@ The procurement architecture is structurally significant: the US is purchasing m
 [19] Andrew Davidson, "Defense Industry", GeoEconomicLens, August 2026 — [https://geopoliticalfutures.com/lens/issue/august-2026/](https://geopoliticalfutures.com/lens/issue/august-2026/)
 
 [20] Velina Tchakarova, "Russian war on Ukraine - Update", 2026-08-18 — [https://substack.com/@velinatchakarova/p-211724442](https://substack.com/@velinatchakarova/p-211724442)
+
+[21] Taylor Fravel and Brian Hart, "China's Military Says AI Can't Replace Commanders. Xi Is Testing That.", 2026-08-20 — [https://warontherocks.com/chinas-military-says-ai-cant-replace-commanders-xis-testing-that/](https://warontherocks.com/chinas-military-says-ai-cant-replace-commanders-xis-testing-that/)

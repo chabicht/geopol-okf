@@ -9,7 +9,7 @@ tags:
   - trade
   - economics
 status: ongoing
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -73,6 +73,8 @@ The strategic lesson for international business is that water resilience must be
 
 The broader geoeconomic implication is that the globalization model assumed trade corridors would remain physically reliable. If climate volatility continues, the future will require more redundancy, more storage, more regional flexibility, and more attention to physical geography. The prudent approach is to hope for the best and plan for the worst [1].
 
+Geopolitical Futures similarly frames water as a constraint that links transport, energy, food, manufacturing, and urban systems. The operational question is not a global aggregate shortage but whether water-dependent infrastructure can remain reliable amid increasingly variable cycles. [3]
+
 ## Desalination as Battlefield Target
 
 [Robert Pape]({{ site.baseurl }}/actors/authors/robert-pape.html) documents a new category of water-infrastructure vulnerability exposed by the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html): the targeting of Gulf desalination plants as civilian-survival infrastructure. On July 18, 2026, Iranian missile and drone strikes directly targeted a power and water desalination plant in [Kuwait]({{ site.baseurl }}/actors/countries/kuwait.html) — part of the system producing roughly 90% of the country's drinking water. Unlike earlier fragments that had inadvertently hit desalination plants, this plant was directly targeted [2].
@@ -88,3 +90,5 @@ Pape's strategic insight, drawing on his *Bombing to Win* research, is that the 
 [1] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
 
 [2] [Breaking Analysis #5: Iran's New Target – Drinking Water](https://escalationtrap.substack.com/p/breaking-analysis-5-irans-new-target)
+
+[3] Geopolitical Futures, "The Geoeconomics of Water", 2026-08-20 — [https://geopoliticalfutures.com/the-geoeconomics-of-water/](https://geopoliticalfutures.com/the-geoeconomics-of-water/)

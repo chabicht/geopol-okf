@@ -10,7 +10,7 @@ tags:
   - trade
   - sanctions
 status: ongoing
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -293,6 +293,10 @@ The Global South bears the most dramatic damage. Central America faces the large
 
 This represents a structural feature of the Global System Rupture rather than a cyclical oscillation. The GSR framework's emphasis on simultaneity captures the mechanism: the same set of hyper-agency decisions that shattered the Gulf security architecture also degraded the Indo-Pacific alliance structure, and the two theaters are now reinforcing each other's destabilization rather than providing alternative anchors of stability. The [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) dimension and the [Energy and Resources]({{ site.baseurl }}/themes/energy-and-resources.html) cascade converge on a single finding: the US-led security umbrella that underwrote both regions has been withdrawn, and the physical and institutional infrastructure it supported is decaying on its own timeline [31].
 
+## Systems Coupling
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) describes systems coupling as the mechanism through which stress in security, energy, finance, supply chains, and political legitimacy ceases to be separable. The claim is analytical: coupling makes simultaneous shocks mutually reinforcing and reduces the capacity of institutions to treat each one as an isolated crisis. [32]
+
 # Citations
 
 [1] [https://substack.com/@velinatchakarova/p-203876124](https://substack.com/@velinatchakarova/p-203876124)
@@ -356,3 +360,5 @@ This represents a structural feature of the Global System Rupture rather than a 
 [30] Adam Tooze, "Chartbook 467: Heatwave economics — summer 2026", 2026-08-16 — [https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave](https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave)
 
 [31] Phillips P. O'Brien, "Is The American Age In The Western Pacific Over As Well?", 2026-08-17 — [https://phillipspobrien.substack.com/p/is-the-american-age-in-the-western](https://phillipspobrien.substack.com/p/is-the-american-age-in-the-western)
+
+[32] Velina Tchakarova, "Global System Rupture: Systems Coupling", 2026-08-21 — [https://substack.com/@velinatchakarova](https://substack.com/@velinatchakarova)

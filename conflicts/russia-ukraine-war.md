@@ -10,7 +10,7 @@ tags:
   - military
   - europe
 status: ongoing
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -219,6 +219,12 @@ An active and influential civil society is one of Ukraine's strengths and has co
 
 [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) observes that Russia retains structural advantages in manpower, firepower, and industrial capacity, yet these have failed to produce meaningful territorial gains — a paradox that underscores the conflict's attritional character. Ukraine is compensating for its manpower deficit by leaning heavily into technology, precision strike, and unmanned systems, turning asymmetric innovation into its primary strategic offset. The defining trend, in her assessment, is that while the front line has remained relatively static, the battlespace itself is expanding: the contest is no longer confined to territorial advance but extends to which side can innovate, produce, and adapt most rapidly. This dynamic connects to broader debates about a [Revolution in Military Affairs]({{ site.baseurl }}/themes/revolution-in-military-affairs.html) driven by autonomous systems and industrial throughput as the decisive variables. Tchakarova forecasts no significant frontline shifts or durable ceasefire in the coming months; the war's trajectory will hinge on the interplay of manpower, industrial output, and the pace of technological innovation. The growing complexity of military aid that blurs the line between battlefield support and strategic-level intervention also challenges traditional [escalation theory critique]({{ site.baseurl }}/themes/escalation-theory-critique.html) frameworks, as proxy-support boundaries become increasingly difficult to define [54].
 
+## Inter-Theater Relationship and Air-Power Priorities
+
+[Alex Kolbin]({{ site.baseurl }}/actors/authors/war-on-the-rocks.html) describes the Iran and Ukraine wars as a "two-war proxy context," not a merged conflict: Russian support to Iran, Ukrainian anti-drone expertise for Gulf states, and competition for Western missile interceptors mean escalation in either theater changes the balance in the other. [56] [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html)'s systems-coupling framework similarly treats the wars as connected through stressed military-industrial, logistics, energy, and allied systems, rather than as separable regional dossiers. [57]
+
+O'Brien's air-power assessment narrows the Ukraine implication: he regards Russia's fuel production and transport as the system whose sustained destruction would most constrain its war effort, while judging the Wildberries warehouse attacks as a signaling campaign unlikely to degrade military effectiveness, ballistic-missile and drone attacks, or fuel-export revenue. [58]
+
 # Citations
 
 [1] [https://substack.com/@velinatchakarova/p-204418261](https://substack.com/@velinatchakarova/p-204418261)
@@ -322,3 +328,9 @@ An active and influential civil society is one of Ukraine's strengths and has co
 [54] Velina Tchakarova, "Russian war on Ukraine - Update", 2026-08-18 — [https://substack.com/@velinatchakarova/p-211724442](https://substack.com/@velinatchakarova/p-211724442)
 
 [55] Aisha Sulemana et al. (SBU/CSIS Journalism Bootcamp), "At Arm's Length", 2026-08-18 — [https://features.csis.org/at-arms-length/](https://features.csis.org/at-arms-length/)
+
+[56] Alex Kolbin, "Managed Instability: Why the Wars Against Iran and Ukraine Can Go On and On and On...", 2026-08-19 — [https://warontherocks.com/managed-instability-why-the-wars-against-iran-and-ukraine-can-go-on-and-on-and-on/](https://warontherocks.com/managed-instability-why-the-wars-against-iran-and-ukraine-can-go-on-and-on-and-on/)
+
+[57] Velina Tchakarova, "Global System Rupture: systems coupling", 2026-08-20 — [https://substack.com/@velinatchakarova/p-212041500?utm_source=profile&utm_medium=reader2](https://substack.com/@velinatchakarova/p-212041500?utm_source=profile&utm_medium=reader2)
+
+[58] Phillips P. O'Brien, "The US Does Not Understand Air Power, Does Ukraine?", 2026-08-21 — [https://phillipspobrien.substack.com/p/the-us-does-not-understand-air-power](https://phillipspobrien.substack.com/p/the-us-does-not-understand-air-power)

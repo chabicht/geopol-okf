@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: "Defense and foreign policy publication featuring practitioner-scholar analysis — operational depth on drone warfare, forward sustainment, wartime governance, Iranian and Russian doctrine, the front-separation pattern in Middle East diplomacy, China's national total war and cognitive warfare concepts, agentic AI's reshaping of defense acquisition, and the case for cyber governance reform before creating a separate Cyber Force."
 tags: [author, news]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -60,6 +60,10 @@ Congress, Hardy observes, has already begun addressing the governance question �
 
 The historical record, Hardy argues, points in the same direction. Before creating the Air Force, Congress first rebuilt the governance of the entire defense establishment through the National Security Act of 1947 — creating the Secretary of Defense, the Department of the Air Force, and a new structure of civilian oversight — and only then established the Air Force as a service within it. The initial decision was governance; the service followed. The Nunn-Cohen reforms that created Special Operations Command followed the same integrated pattern: Congress assembled the command, civilian oversight, authorities, and resources as a single design, giving the special operations enterprise its own service-like funding line (Major Force Program 11) that converted responsibility from an org-chart abstraction into something a person could answer for. Cyber has accumulated analogous components, but piecemeal over nearly two decades rather than by deliberate design. Even the Cyber Force advocates' own commission — the most rigorous implementation study yet — could not resolve the question of where a Cyber Force should be institutionally housed within the Department of Defense, and its proposed force would not absorb the Services' individual networks, leaving cyberspace's terrain fragmented at the network layer where most operational friction actually lives. The proper sequence, Hardy contends, is to answer the governance question first — name the single accountable official and arm the office with budget and directive authority — then fix the governance layer, and only then take up the service question inside a structure actually built to receive a new service. A service commissioned before the governance fight is settled inherits the fragmentation as a birth defect, institutionalizing it beside its brand-new flag [10].
 
+Alex Kolbin's "managed instability" framework describes a conflict condition in which violence, partial bargains, outside support, sanctions, and transit coercion become a preferred operating condition rather than a route to settlement. He applies it to Iran and Ukraine as distinct but materially interacting wars, linked by military technology, competing interceptor demand, and support networks. [12]
+
+Jaehwan Lim argues that Xi's purge of experienced commanders and the PLA's AI turn create a command-readiness paradox: decision-support systems cannot compensate for a politically distorted reporting chain, especially where the systems depend on readiness and logistics data rather than sensor data. [13]
+
 # Track Record
 
 **Resolved**
@@ -78,6 +82,7 @@ The historical record, Hardy argues, points in the same direction. Before creati
 - 2026-07-22 (Wang & Beauchamp-Mustafaga, "Total War on Taipei") — standing forecast that China's "all-domain megacity incapacitation warfare" doctrine will operationalize cognitive effects as co-equal with kinetic operations in a [Taiwan]({{ site.baseurl }}/actors/countries/taiwan.html) conflict. Resolves if a Taiwan crisis occurs and China deploys integrated cognitive-kinetic operations as described, or if the concept is formally abandoned in PLA doctrine. [9]
 - 2026-07-19 (Justice, "Broken Drone, Far from Home") — standing forecast that the Navy should build a distributed network of austere ports for unmanned sustainment rather than concentrating at large, vulnerable bases. Resolves if the Navy adopts distributed unmanned sustainment architecture, or if a conflict demonstrates that concentrated bases cannot support unmanned operations. [5]
 - 2026-07-28 (Peifer, "Why Norway and Finland Should Preserve…") — standing forecast that revising the Svalbard Treaty or Åland Convention demilitarized arrangements would be strategically counterproductive. Resolves if either arrangement is formally revised or abrogated, or if Russian hybrid operations make the demilitarized status untenable. [11]
+- 2026-08-19 (Kolbin, "Managed Instability") — standing forecast that Iran and Ukraine will persist as managed-instability systems unless outside resource providers condition support on reciprocal de-escalation and a coordinated settlement sequence. Resolves if such conditioning produces durable de-escalation, or if the conflicts continue through partial bargains without settlement. [12]
 
 **Single-publication-as-single-voice**
 
@@ -95,6 +100,8 @@ Per rules.md §8.5, War on the Rocks is a multi-author outlet — Track Record e
 - "Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare" (Wang & Beauchamp-Mustafaga) [9]
 - "Before a Cyber Force, Fix Cyber Governance" (Hardy) [10]
 - "Why Norway and Finland Should Preserve Two of Europe's Most Important Security Arrangements" (Peifer) [11]
+- "Managed Instability: Why the Wars Against Iran and Ukraine Can Go On and On and On..." (Kolbin) [12]
+- "China's Military Says AI Can't Replace Commanders. Xi Is Testing That" (Lim) [13]
 
 # Citations
 
@@ -119,3 +126,7 @@ Per rules.md §8.5, War on the Rocks is a multi-author outlet — Track Record e
 [10] [Before a Cyber Force, Fix Cyber Governance](https://warontherocks.com/before-a-cyber-force-fix-cyber-governance/)
 
 [11] [Why Norway and Finland Should Preserve Two of Europe's Most Important Security Arrangements](https://warontherocks.com/why-norway-and-finland-should-preserve-two-of-europes-most-important-demilitarized-zones/)
+
+[12] Alex Kolbin, "Managed Instability: Why the Wars Against Iran and Ukraine Can Go On and On and On...", 2026-08-19 — [https://warontherocks.com/managed-instability-why-the-wars-against-iran-and-ukraine-can-go-on-and-on-and-on/](https://warontherocks.com/managed-instability-why-the-wars-against-iran-and-ukraine-can-go-on-and-on-and-on/)
+
+[13] Jaehwan Lim, "China's Military Says AI Can't Replace Commanders. Xi Is Testing That", 2026-08-20 — [https://warontherocks.com/chinas-military-says-ai-cant-replace-commanders-xi-is-testing-that/](https://warontherocks.com/chinas-military-says-ai-cant-replace-commanders-xi-is-testing-that/)

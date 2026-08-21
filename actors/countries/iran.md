@@ -5,7 +5,7 @@ parent: Countries
 description: Iran as a geopolitical actor — surviving US-Israeli military campaign with retained leverage over Strait of Hormuz and negotiating from strength
 tags: [country, military, nuclear, energy, middle-east, drone-warfare, sanctions, cyber]
 status: ongoing
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -238,6 +238,10 @@ Iran's hard-line leadership interpreted the Versailles MoU as a US-Israeli strat
 
 Iran supplied [Russia]({{ site.baseurl }}/actors/countries/russia.html) with thousands of missiles and over 300,000 artillery shells during the Ukraine war, yet Russia's reciprocal support during Iran's own conflict was initially limited to diplomatic phone calls. Russia eventually provided upgraded drones and satellite intelligence to Iran during the [Twelve Day War (2026)]({{ site.baseurl }}/events/twelve-day-war.html), but only after remaining passive at the outset. The partnership rests on three pillars: arms exchanges, mutual opposition to Western sanctions, and shared adversaries — yet Russia has withheld its most advanced surface-to-air missiles, suggesting reticence about transferring its most capable systems. An estimated 90% of Iranian-designed drones employed by Russia are now produced domestically within Russia, meaning Moscow has "essentially severed that dependency on Iran." Daniel Byman (CSIS) assesses that "a lot of [Iran's] future actions are going to be driven by weakness." Kenneth Pollack (MEI) argues that Russia would welcome a prolonged Iran conflict: "There's no question the Russians are benefiting from this war" [48]. See [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) and [Iran's Security Resistance Belt]({{ site.baseurl }}/themes/iran-security-resistance-belt.html).
 
+## Unfinished War
+
+Geopolitical Futures characterizes Iran's postwar position as a race against time: Tehran must rebuild military capacity and preserve leverage while facing continuing pressure. This is a source-attributed assessment that complements, but does not resolve, the existing contested analysis of Iranian strategy. [49]
+
 # Citations
 
 [1] [Iran's Regime Is Headed for a Hard Landing](https://geopoliticalfutures.com/irans-regime-is-headed-for-a-hard-landing/)
@@ -335,3 +339,5 @@ Iran supplied [Russia]({{ site.baseurl }}/actors/countries/russia.html) with tho
 [47] Benoit Faucon and Summer Said, "Iran's Secret Plan to Escalate the War", 2026-08-17 — [https://www.wsj.com/world/middle-east/iran-plan-escalate-war-cc657664](https://www.wsj.com/world/middle-east/iran-plan-escalate-war-cc657664)
 
 [48] Aisha Sulemana et al. (SBU/CSIS Journalism Bootcamp), "At Arm's Length", 2026-08-18 — [https://features.csis.org/at-arms-length/](https://features.csis.org/at-arms-length/)
+
+[49] Geopolitical Futures, "Iran's Unfinished War: Tehran's Race Against Time", 2026-08-20 — [https://geopoliticalfutures.com/irans-unfinished-war-tehrans-race-against-time/](https://geopoliticalfutures.com/irans-unfinished-war-tehrans-race-against-time/)

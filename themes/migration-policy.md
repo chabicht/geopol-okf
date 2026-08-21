@@ -5,7 +5,7 @@ parent: Themes
 description: "Migration as a cross-cutting geopolitical instrument and stress test — route-based approaches, the protection-vs-control tension, externalization of border management, and the instrumentalization of anti-migration sentiment by political actors from South Africa to Europe to Afghanistan."
 tags: [demography, ideology, trade]
 status: ongoing
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -45,6 +45,7 @@ Müller ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) documents the South 
 - **Ambiguity-as-effectiveness.** Instrumentalised migration is most politically effective when the target state continues to debate whether it faces an organic humanitarian emergency or an organised act of coercion. Once the activity is recognised as hostile state action, its capacity to divide society diminishes. [7]
 - **Finland's response strengthened resistance.** Russia's 2023–24 instrumentalised migration on the Finnish border was rapidly interpreted as part of the wider Russian security threat, arguably strengthening rather than weakening Finnish political resistance to Moscow. [7]
 - **Route-based approaches risk depoliticising normative conflicts.** The technocratic framing of coordination, data collection, and mapping can divert attention from the political conditions — restrictive visa regimes, lack of regular pathways, criminalisation of mobility — that cause protection gaps. [1]
+- **External shocks can degrade Schengen internally.** Ceuta shows how dependence on third-country gatekeepers, unequal external-border burdens, and doubts about enforcement can turn a local influx into restored intra-Schengen controls. [9]
 
 # Analysis
 
@@ -108,6 +109,10 @@ The depoliticisation risk is acute. The focus on services, data collection, mapp
 
 See [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) for the disposable agents and sabotage dimension, [EU]({{ site.baseurl }}/actors/organizations/eu.html) for the Whole-of-Route architecture, and [Organised Crime and Statecraft]({{ site.baseurl }}/themes/organised-crime-and-statecraft.html) for the criminal intermediary dimension.
 
+## Ceuta and the Schengen Bargain
+
+[Antonia Colibasanu]({{ site.baseurl }}/actors/authors/geopolitical-futures.html) reports more than 70,000 crossings into Ceuta over several days, while noting that the surge did not establish Moroccan direction. Her analysis locates the policy risk in the EU's dependence on transit-state cooperation: this can lower arrivals but gives external partners potential leverage and exposes internal burden-sharing disputes. Italy's temporary checks on air and sea connections with Spain, followed by Spain's reciprocal controls, illustrate how an external-border incident can affect internal free movement. [9] See [Schengen Border Controls]({{ site.baseurl }}/themes/schengen-border-controls.html).
+
 ## Climate-Driven Migration from Central America
 
 [Adam Tooze]({{ site.baseurl }}/actors/authors/adam-tooze.html) identifies a feedback loop connecting climate, food security, and migration: the 2026 El Niño-driven food insecurity in [Central America]({{ site.baseurl }}/regions/latin-america.html) — the largest proportional increase globally at 83.1% — is the principal vector for migration pressure on the [United States]({{ site.baseurl }}/actors/countries/united-states.html) southern border. WFP data shows Central America as the region with the highest proportional food-insecurity increase, creating conditions that reinforce existing migration patterns toward the US through [Mexico]({{ site.baseurl }}/actors/countries/mexico.html). This climate-to-migration pipeline connects the [Food and Agriculture]({{ site.baseurl }}/themes/food-and-agriculture.html) crisis to border policy: agricultural failure in the Northern Triangle generates population movement that existing US and Mexican migration frameworks are not designed to absorb [8].
@@ -129,3 +134,5 @@ See [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) for th
 [7] RUSI, "Instrumentalised Migration and Russia's 'Disposable Agents'", 2026-08-14 — [https://www.rusi.org/explore-our-research/publications/commentary/instrumentalised-migration-and-russias-disposable-agents](https://www.rusi.org/explore-our-research/publications/commentary/instrumentalised-migration-and-russias-disposable-agents)
 
 [8] Adam Tooze, "Chartbook 467: Heatwave economics — summer 2026", 2026-08-16 — [https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave](https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave)
+
+[9] Antonia Colibasanu, "The Significance of the Ceuta Crisis Beyond Migration", 2026-08-12 — [https://geopoliticalfutures.com/the-significance-of-the-ceuta-crisis-beyond-migration/](https://geopoliticalfutures.com/the-significance-of-the-ceuta-crisis-beyond-migration/)

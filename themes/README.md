@@ -15,6 +15,7 @@ permalink: /themes/
 * [Layered Security](layered-security.html) - Middle powers supplementing Cold War-era alliances with mission-limited, region-specific security arrangements
 * [Escalation Theory Critique](escalation-theory-critique.html) - Aurelien's critique of game theory and rational-actor models in contemporary conflicts
 * [Endless Warfare](endless-warfare.html) - Adversary strategy of persistent, below-threshold conflict by China, Russia, and Iran — gray zone, cognitive warfare, weaponized negotiations, proxy and illicit networks
+* [Managed Instability](managed-instability.html) - A framework for wars in which coercion, partial bargains, and limited escalation become a durable operating condition rather than a path to settlement
 * [Iran's Security Resistance Belt](iran-security-resistance-belt.html) - IRGC doctrine connecting Persian Gulf, Red Sea, and Mediterranean into a unified strategic theater holding global maritime trade hostage
 * [Migration Policy](migration-policy.html) - Protection-vs-control tension in European migration governance; route-based externalization and the structural leverage transit states hold over destination states
 * [Analytical Fault Lines](analytical-fault-lines.html) - Recurring methodological splits among named analysts — agency vs structure, unitary vs factional actor modeling, alliance-as-real vs alliance-as-branding — and the standing register of contested calls they produce
@@ -35,6 +36,7 @@ permalink: /themes/
 * [Inflation and Monetary Policy](inflation-and-monetary-policy.html) - Global inflation driven by the Iran war energy shock; regional breakdowns, three scenarios, central bank responses, and asymmetric business impact
 * [EV Industrial Competition](ev-competition.html) - The global electric vehicle transition as a contest over industrial power — China's battery and mineral dominance versus US and EU industrial policy responses
 * [Geoeconomics of Water](geoeconomics-of-water.html) - Water stress disrupting trade corridors, energy production, agriculture, and manufacturing — water resilience as core risk management
+* [Schengen Border Controls](schengen-border-controls.html) - The dependence of Europe's border-free internal market on credible external-border control, burden-sharing, and temporary exceptional controls
 * [China Shock and Deindustrialization](china-shock-and-deindustrialization.html) - Sequenced impact of Chinese trade surpluses on Western manufacturing — Shock 1.0 (US-low-end), Shock 2.0 (Europe-high-value), and the prospective "Big One"
 
 ## Ideology & Information

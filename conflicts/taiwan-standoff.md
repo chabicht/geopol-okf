@@ -9,7 +9,7 @@ tags:
   - indo-pacific
   - cold-war
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -87,6 +87,12 @@ Ueki identifies a structural constraint on CRINK involvement in a Taiwan conting
 
 [Mark F. Cancian]({{ site.baseurl }}/actors/authors/mark-f-cancian.html) and [Chris H. Park]({{ site.baseurl }}/actors/authors/chris-h-park.html) identify long-range anti-ship munitions — LRASM, Maritime Strike Tomahawk, and the Naval Strike Missile — as critical for a Taiwan contingency but barely consumed during the [US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html). While their inventories have been largely unaffected by the Iran war, existing stocks would dwindle rapidly in a peer naval fight against [China]({{ site.baseurl }}/actors/countries/china.html). The [United States]({{ site.baseurl }}/actors/countries/united-states.html) does maintain deep inventories of cheaper alternatives such as JDAM, which offer comparable precision and explosive yield to Tomahawk or JASSM — but at the cost of shorter range, requiring aircraft to overfly adversary territory and exposing pilots and platforms to greater vulnerability and potential losses. CSIS Taiwan wargames — including *The First Battle of the Next War* — inform this assessment, underscoring that the anti-ship munitions shortfall is a pre-existing structural gap that the Iran war did not cause but that a Pacific conflict would expose immediately. The analysis connects to the broader munitions readiness crisis documented by [Phillips O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) above: the US security guarantee for Taiwan may be militarily unexecutable not only at the interceptor level but at the sea-control level as well [13]. See [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html).
 
+## Precise Mass and PLA Command Readiness
+
+The CFR study group assesses that the US cannot deter or deny a Chinese attack on Taiwan through legacy systems alone within the next two years. It calls for a wartime-scale shift toward "precise mass": lower-cost, rapidly producible and expendable drones, sensors, one-way attack systems, containerized cruise missiles, and supporting C5ISRT, integrated with surviving high-end platforms. [14]
+
+China's command reforms pose a distinct readiness question. Jaehwan Lim finds the PLA's own authorized discourse treats AI as decision support, not a replacement for accountable commanders, while the CMC's purge removed its most operationally experienced leadership and left the Joint Staff chief post vacant. He assesses the central risk as a command system whose political pressures degrade the readiness and logistics reporting on which AI decision-support tools depend. [15] Victoria Herczegh likewise judges that Xi's loyalty-first reconstruction can sustain routine activity but may produce hesitation and distorted decisions in a high-intensity crisis; she assesses a move against Taiwan as strategically unreasonable while the senior command structure remains under reconstruction. [16]
+
 # Citations
 
 [1] [https://substack.com/@velinatchakarova/p-203793388](https://substack.com/@velinatchakarova/p-203793388)
@@ -114,3 +120,9 @@ Ueki identifies a structural constraint on CRINK involvement in a Taiwan conting
 [12] [China and CRINK: Implications for Japan and the United States](https://www.csis.org/analysis/china-and-crink-implications-japan-and-united-states)
 
 [13] Mark F. Cancian and Chris H. Park, "Six Reasons Why the United States Is Low on Munitions", 2026-08-05 — [https://www.csis.org/analysis/six-reasons-why-united-states-low-munitions](https://www.csis.org/analysis/six-reasons-why-united-states-low-munitions)
+
+[14] Rush Doshi, Erin D. Dumbacher, William Henagan, Michael C. Horowitz, and Samuel Henry Lazarus, "Out of Ammo: A Two-Year Sprint to Rebuild the American Arsenal and Deter China", 2026-08-18 — [https://www.cfr.org/reports/out-of-ammo-a-two-year-sprint-to-rebuild-the-american-arsenal-and-deter-china?utm_medium=social_owned&utm_source=tw](https://www.cfr.org/reports/out-of-ammo-a-two-year-sprint-to-rebuild-the-american-arsenal-and-deter-china?utm_medium=social_owned&utm_source=tw)
+
+[15] Jaehwan Lim, "China's Military Says AI Can't Replace Commanders. Xi Is Testing That", 2026-08-20 — [https://warontherocks.com/chinas-military-says-ai-cant-replace-commanders-xi-is-testing-that/](https://warontherocks.com/chinas-military-says-ai-cant-replace-commanders-xi-is-testing-that/)
+
+[16] Victoria Herczegh, "The Contradiction at the Heart of China's Military Reforms", 2026-08-13 — [https://geopoliticalfutures.com/the-contradiction-at-the-heart-of-chinas-military-reforms/](https://geopoliticalfutures.com/the-contradiction-at-the-heart-of-chinas-military-reforms/)

@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: National security and intelligence-focused analytical publication featuring expert commentary from former officials — covering AI military competition, intelligence community reform, China strategic rivalry, Endless Warfare framework, and cognitive warfare
 tags: [author, news]
 status: ongoing
-timestamp: 2026-08-05T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -114,6 +114,8 @@ The framework identifies an autocratic structural advantage: non-democratic stat
 
 The article notes that the White House has taken an initial step by appointing the first NSC Director for Cognitive Advantage, but cognitive advantage is just one subset of gray-zone activity. The prescription: put a seasoned professional at the NSC in charge of integrating USG gray-zone activities against specific adversaries, use trained Department of War and intelligence community planners to develop government-wide plans implemented at the White House, and train national security professionals across the government in gray-zone strategy development. Without this, "we will find ourselves no longer the global power that we have been." See [Endless Warfare]({{ site.baseurl }}/themes/endless-warfare.html) and [Cognitive Warfare]({{ site.baseurl }}/themes/cognitive-warfare.html) [18].
 
+In its August 17 leadership assessment, the publication records divergent expert judgments about settlement capacity: Norman Roule expects policy continuity despite leadership uncertainty, while Rose Kelanic argues a stronger IRGC operating through weaker civilian institutions and rival power centers makes a peace deal harder to reach. [19]
+
 # Track Record
 
 ## Resolved
@@ -157,6 +159,7 @@ The article notes that the White House has taken an initial step by appointing t
 - "Why the Iran War Remains Strategically Adrift" [16]
 - "There Will be Unseen Costs to be Paid over the War in Iran. Who is Weighing Them?" [17]
 - "BLUF: The US Must Lead in Gray Zone Activity" [18]
+- "Inside Iran's New Wartime Leadership" [19]
 
 # Citations
 
@@ -195,3 +198,5 @@ The article notes that the White House has taken an initial step by appointing t
 [17] Norman T. Roule, "There Will be Unseen Costs to be Paid over the War in Iran. Who is Weighing Them?", 2026-08-05 — [https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them](https://www.thecipherbrief.com/there-will-be-unseen-costs-to-be-paid-over-the-war-in-iran-who-is-weighing-them)
 
 [18] The Cipher Brief, "BLUF: The US Must Lead in Gray Zone Activity", 2026-08-05 — [https://www.thecipherbrief.com/bluf-the-us-must-lead-in-gray-zone-activity](https://www.thecipherbrief.com/bluf-the-us-must-lead-in-gray-zone-activity)
+
+[19] The Cipher Brief, "Inside Iran's New Wartime Leadership", 2026-08-17 — [https://www.thecipherbrief.com/inside-irans-new-wartime-leadership](https://www.thecipherbrief.com/inside-irans-new-wartime-leadership)

@@ -9,7 +9,7 @@ tags:
   - economics
   - trade
 status: ongoing
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -80,6 +80,10 @@ The split is methodological, not evidential: O'Brien reads a specific war's mate
 
 **Tiebreaker:** whether US allied readiness metrics (interceptor stockpiles, Guam basing posture) recover before the next major crisis, versus whether hemispheric structural indicators (allied rearmament pace, Western Hemisphere alignment) hold regardless.
 **Status:** open fork.
+
+## System Evolution
+
+Geopolitical Futures assesses the global system as moving through simultaneous military, economic, technological, and political reordering rather than toward a single stable bipolar replacement. This is a framework-level assessment: it highlights the interaction of regional conflicts, trade and technology competition, and alliance recalibration rather than predicting a determinate end state. [42]
 
 ## The Middle Power Mirage
 
@@ -304,3 +308,5 @@ The split is methodological, not evidential. Kendall-Taylor reads structural ali
 [40] Velina Tchakarova, "The DragonBear and the Northern Sea Route", 2026-08-18 — [https://substack.com/@velinatchakarova/p-211768938](https://substack.com/@velinatchakarova/p-211768938)
 
 [41] Aisha Sulemana et al. (SBU/CSIS Journalism Bootcamp), "At Arm's Length", 2026-08-18 — [https://features.csis.org/at-arms-length/](https://features.csis.org/at-arms-length/)
+
+[42] Geopolitical Futures, "Net Assessment: The Evolution of the Global System", 2026-08-20 — [https://geopoliticalfutures.com/net-assessment-the-evolution-of-the-global-system/](https://geopoliticalfutures.com/net-assessment-the-evolution-of-the-global-system/)

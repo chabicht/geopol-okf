@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Pseudonymous essayist on geopolitics, conflict theory, and Western institutional decline — critiquing game theory and escalation models, analyzing strategic surprise, and tracing the erosion of Western influence
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-08-04T00:00:00Z
+timestamp: 2026-08-21T00:00:00Z
 ---
 
 # Background
@@ -25,6 +25,8 @@ Aurelien's analysis of the Iran war frames the US and Israeli positions as funda
 ## Elite Homogenization
 
 Aurelien's concept of elite homogenization — the convergence of Western ruling elites toward a single worldview regardless of nominal political affiliation — is cited by [The Honest Sorcerer]({{ site.baseurl }}/actors/authors/the-honest-sorcerer.html) as a structural feature of the "Zero State": a system unable to generate growth, where elites choose war as their "last sniff" and govern through bureaucracy and corruption rather than innovation [3].
+
+In "They Don't Care," Aurelien extends the critique into an epistemic diagnosis: he argues that Western ruling and professional-managerial elites increasingly value norm-conforming narratives and institutional self-protection over pragmatic knowledge, evidence, and responsibility for choices. [9]
 
 ## Strategic Surprise Taxonomy
 
@@ -102,6 +104,7 @@ The schema informs Aurelien's reading of Western crises now compounding. Energy 
 - (forthcoming: the second part of the Western influence essay) [6]
 - "And It Goes On." [7]
 - "So It Goes" [8]
+- "They Don't Care." [9]
 
 # Citations
 
@@ -120,3 +123,5 @@ The schema informs Aurelien's reading of Western crises now compounding. Energy 
 [7] [And It Goes On.](https://aurelien2022.substack.com/p/and-it-goes-on)
 
 [8] Aurelien, "So It Goes", 2026-07-29 — [https://aurelien2022.substack.com/p/so-it-goes](https://aurelien2022.substack.com/p/so-it-goes)
+
+[9] Aurelien, "They Don't Care.", 2026-08-19 — [https://aurelien2022.substack.com/p/they-dont-care](https://aurelien2022.substack.com/p/they-dont-care)
