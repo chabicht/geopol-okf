@@ -5,7 +5,7 @@ parent: Themes
 description: "Migration as a cross-cutting geopolitical instrument and stress test — route-based approaches, the protection-vs-control tension, externalization of border management, and the instrumentalization of anti-migration sentiment by political actors from South Africa to Europe to Afghanistan."
 tags: [demography, ideology, trade]
 status: ongoing
-timestamp: 2026-08-21T00:00:00Z
+timestamp: 2026-08-22T00:00:00Z
 ---
 
 # Background
@@ -63,19 +63,53 @@ The case illustrates a general proposition: migration externalization empowers a
 
 ## Fair Recruitment and the Protection Gap
 
-Knapp and Landmesser ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) expose a structural vulnerability in [Germany's]({{ site.baseurl }}/actors/countries/germany.html) skilled-labour migration architecture that the route-based and externalization debates have largely overlooked: the exploitation of migrant workers begins not at the border or in the workplace, but at the recruitment stage in the country of origin. Germany's reform of the Skilled Immigration Act (FEG, 2020 and 2023) was designed to attract third-country workers to fill demographic and sectoral shortages. By March 2026, 3.31 million third-country nationals were employed in Germany — surpassing the 2.51 million EU citizens working there. But the very expansion of legal pathways that policymakers celebrate has enlarged the surface area for exploitation, because the recruitment intermediaries who connect workers to employers operate in a near-regulatory vacuum [4].
+As Germany expands recruitment from third countries, the arc runs from exposure at recruitment through domestic, European, and transnational safeguards. [Knapp and Landmesser]({{ site.baseurl }}/actors/authors/swp.html) write that little political attention has been paid to the increased risk of exploitative working conditions, particularly because abusive practices often begin at recruitment in the country of origin, including for [Germany]({{ site.baseurl }}/actors/countries/germany.html). [4]
 
-Private recruitment agencies function as gatekeepers between origin-country labour markets and German employers, particularly small and medium-sized enterprises that find international recruitment too complex to manage independently. These intermediaries charge fees that can reach €15,000 in sectors like meat processing, creating debt bondage before the worker even departs. Misleading information, document confiscation, and increasingly digital fraud via social media and AI-generated content compound the risk. The ILO estimates that abusive recruitment generates $32 billion annually — $27 billion in withheld wages and $5 billion in fees — and the Employer Pays Principle, which holds that workers should not pay for their own recruitment, remains rarely implemented in practice [4].
+Germany's reforms of the Skilled Immigration Act in 2020 and 2023 were designed to attract third-country workers to fill demographic and sectoral shortages. [4]
 
-Specific migration corridors illustrate how regular and irregular pathways intersect. Indian students are lured by private universities and agencies with false promises of skilled employment, only to end up in precarity within the platform economy — delivering for Wolt, UberEats, and Lieferando. Vietnamese migrants arrive via vocational training visas or through multi-stage corridors transiting Poland, finding themselves in nail salons, hospitality, or sex work. The Bangladesh-Libya-Italy corridor demonstrates how ostensibly regular recruitment channels bleed into irregular movement, with the same actors exploiting both [4].
+In March 2026, around 3.31 million third-country nationals were employed in Germany, significantly more than the 2.51 million EU citizens working in the country. [4]
 
-Germany's regulatory framework has striking blind spots. Unlike many origin and destination countries, Germany has no comprehensive licensing or registration system for private recruitment agencies — a business registration has been sufficient since 2002. The only fee cap is €2,000 under Social Code Book III (Sections 296–299), a fraction of what agencies actually charge. Germany has not ratified ILO Convention 181 on private employment agencies, and no specialized supervisory authority exists. The government's 2025 National Action Plan for Business and Human Rights (NAP A/Z) acknowledges recruitment risks, but its measures remain limited and voluntary. Crucially, social partners such as trade unions are not involved in bilateral labour agreements — the Kenya deal being a case in point — so the agreements lack the enforcement infrastructure that workplace-level monitoring would provide [4].
+Knapp and Landmesser write that Germany has gradually reformed the FEG to make recruitment from third countries easier, while private recruitment agencies are subject to very few regulatory requirements. [4]
 
-At the European level, the [EU]({{ site.baseurl }}/actors/organizations/eu.html) framework is equally thin. The European Labour Authority (ELA) does not formally cover third-country nationals in its mandate, and no EU-wide instrument targets unfair recruitment practices. Cross-border cooperation with origin countries on fair recruitment is at an early stage; GIZ development-cooperation projects (THAMM plus, PAM, MEG) offer promising models but remain underutilized. The planned EU Talent Pool — a platform matching third-country workers with European employers — could become an opportunity for fair recruitment if Germany appoints a national contact point and embeds certification standards [4].
+Due to information asymmetries in countries of origin, non-state actors often function as gatekeepers and exert considerable control over access to employment opportunities abroad. [4]
 
-The policy prescription that Knapp and Landmesser advance has three pillars. First, a regulatory framework for private recruitment agencies combining licensing and accreditation with binding obligations, voluntary certification, and meaningful sanctions — a hybrid model that leverages market regulation without abandoning state enforcement. Second, corporate accountability through a tripartite approach engaging trade unions, diaspora organizations, and employer alliances such as the WE-Fair initiative. Third, transnational cooperation: extending ELA's mandate to third-country nationals, operationalizing the EU Talent Pool, and embedding fair-recruitment standards in bilateral agreements with key origin countries — India, Morocco, and Vietnam. The Philippines, with its 60-plus bilateral labour agreements, demonstrates that origin-country leverage can be used to protect workers abroad rather than merely to export them [4].
+Recent reporting on the German meat-processing industry cites fees of up to 15,000 euros; such costs can push migrants into debt and increase the economic pressure to accept poor working conditions. [4]
 
-See [South Africa]({{ site.baseurl }}/actors/countries/south-africa.html) for the xenophobic-mobilization case, [Germany]({{ site.baseurl }}/actors/countries/germany.html) for the Taliban-consulate handover, [EU]({{ site.baseurl }}/actors/organizations/eu.html) for the Whole-of-Route architecture, [Afghanistan]({{ site.baseurl }}/actors/countries/afghanistan.html) for the Taliban governance context, [Africa]({{ site.baseurl }}/regions/africa.html) for regional migration dynamics, and [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html) for the broader pattern of xenophobic politics as a substitute for governance.
+Recruitment is increasingly shifting to the digital sphere: prospective workers are lured through social media or messaging services with false job offers resembling legitimate ones, and artificial intelligence is making such fraud easier. [4]
+
+According to ILO estimates, transnational recruitment actors generate around 32 billion euros worldwide each year through such practices, including 27 billion from withheld wages and 5 billion from recruitment fees. [4]
+
+Media reports describe cases in which private universities, education agencies, and recruitment agencies lure young Indians to Germany with misleading information about education and career opportunities; high tuition and recruitment fees then create financial pressure, and many students end up in precarious or exploitative work, including as bicycle couriers for Wolt, UberEats, or Lieferando. [4]
+
+Migrants arrive with vocational-training or work visas, or via multi-stage corridors including through Poland, where work visas are relatively easy to obtain; once in Germany, they sometimes end up in informal or exploitative conditions in nail salons, hospitality, or sex work. [4]
+
+The Bangladesh-Libya-Italy corridor often begins with recruitment by official agencies in Bangladesh and regular entry into Benghazi on a work or visitor visa, after which smuggling networks take over the irregular onward journey to Italy. [4]
+
+At the domestic level, Germany has neither a comprehensive licensing or registration requirement for recruitment agencies nor a specialised supervisory authority for international labour recruitment. [4]
+
+Since 2002, a simple business registration with minimal state requirements has been sufficient to recruit workers from abroad, while Sections 296-299 of Book III of the Social Code set an upper limit of 2,000 euros for recruitment fees charged by private recruitment agencies. [4]
+
+Germany has not ratified ILO Convention No. 181 on private employment agencies. [4]
+
+The ministry acknowledges these risks and sets out initial measures to promote fair recruitment, including expanded information and advisory services and stronger audit and monitoring mechanisms in recruitment processes. [4]
+
+Social partners have rarely been systematically involved, including in the bilateral migration agreement with Kenya, in which they were not taken into account. [4]
+
+At the European level, the European Labour Authority's mandate does not formally cover third-country nationals recruited and employed directly from third countries by employers in [EU]({{ site.baseurl }}/actors/organizations/eu.html) member states. [4]
+
+Germany's cooperation with third countries on fair recruitment is still at an early stage, and the potential for migration-related development cooperation to expand governance and protection capacities in countries of origin and transit remains far from fully realised. [4]
+
+Germany could appoint a national contact point to ensure that trustworthy employers and registered recruitment agencies from Germany are represented on the planned EU Talent Pool. [4]
+
+Against this background, Knapp and Landmesser identify three key areas for action. [4]
+
+First, Germany should consider a hybrid model combining market regulation, binding information and due-diligence obligations, voluntary certification, verifiable standards, and effective sanctions; consideration should also be given to a mandatory licensing and accreditation system for recruitment agencies. [4]
+
+Second, the approach requires cooperative, tripartite involvement of companies, business associations, chambers of commerce, trade unions, education providers, and diaspora organisations; the WE-Fair skilled-labour alliance offers an initial institutional entry point. [4]
+
+Third, bilateral migration agreements could make fair recruitment more binding only if they include concrete measures such as fair fee rules and complaints mechanisms and are developed in dialogue with trade unions and diaspora representatives; Germany could support extending the ELA mandate to third-country nationals and help shape the planned EU Talent Pool. [4]
+
+Finally, the Philippines, with more than 60 bilateral labour agreements, strict regulation of private recruitment agencies, and extensive information and support structures, seeks to shape labour migration in a development-oriented manner. [4] Related: [Afghanistan]({{ site.baseurl }}/actors/countries/afghanistan.html), [South Africa]({{ site.baseurl }}/actors/countries/south-africa.html), [Africa]({{ site.baseurl }}/regions/africa.html), and [Ideology and Democracy]({{ site.baseurl }}/themes/ideology-and-democracy.html).
 
 ## The Ceuta 2026 Case: Expectation-Based Pull Factors and Migration as Geopolitical Leverage
 

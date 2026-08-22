@@ -5,7 +5,7 @@ parent: Organizations
 description: The European Union as a geopolitical actor — managing energy storage shortfalls, sanctions secondary risk, enlargement pressure, and the strain of US shifting priorities on Western alliance architecture
 tags: [organization, economics, europe, sanctions, energy, trade, military]
 status: ongoing
-timestamp: 2026-08-11T00:00:00Z
+timestamp: 2026-08-22T00:00:00Z
 ---
 
 # Background
@@ -68,11 +68,9 @@ The strategic alignment between European diversification and African industriali
 
 The competitive challenge is formidable. Building competitive processing capacity takes longer than a legislative cycle and faces entrenched Chinese competition. In copper smelting, Chinese capacity has expanded faster than global concentrate supply, driving treatment and refining charges into negative territory in 2025 — smelters paying miners for concentrate to maintain throughput. New African smelters must compete with operations that have achieved economies of scale and operate at negative margins. Africa's infrastructure deficit in energy and transport further extends the timeline, making the EU's partnership model realistic only on a decade-plus horizon despite the urgency of the strategic logic [15].
 
-## Fair Recruitment and the EU Talent Pool
+## Fair Recruitment: Institutional Posture
 
-Knapp and Landmesser ([SWP]({{ site.baseurl }}/actors/authors/swp.html)) highlight a significant gap in the EU's migration governance: while the EU has developed extensive frameworks for border management and return cooperation, it lacks any EU-wide instrument against unfair recruitment of third-country workers. The European Labour Authority (ELA), established to facilitate access to the single labour market and combat undeclared work, does not formally cover third-country nationals in its mandate — leaving the fastest-growing segment of Europe's labour inflow outside its supervisory scope. The EU's regulatory competence in labour migration remains limited, with member states retaining primary authority over admission conditions and recruitment oversight [16].
-
-The planned EU Talent Pool represents a concrete opportunity to close part of this gap. Designed as a platform matching third-country workers with European employers, it could embed fair-recruitment standards and certification requirements if member states appoint national contact points with enforcement capacity. Knapp and Landmesser also argue that fair-recruitment standards should be embedded in the EU's broader migration partnerships with transit and origin countries — bilateral agreements with India, Morocco, and Vietnam could replicate elements of the Philippines' model, which uses 60-plus bilateral labour agreements to protect workers abroad. Extending ELA's mandate to third-country nationals and operationalizing the Talent Pool would require political will that has so far been lacking [16]. See [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html) and [Germany]({{ site.baseurl }}/actors/countries/germany.html).
+The EU's institutional posture leaves third-country nationals recruited directly from third countries outside the European Labour Authority's formal mandate, while member states retain primary authority over admission conditions and recruitment oversight. Its relevant institutional options are an extended ELA mandate and a planned EU Talent Pool shaped by member-state participation; the detailed fair-recruitment evidence and safeguards framework are in [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html). [16]
 
 # Analysis
 

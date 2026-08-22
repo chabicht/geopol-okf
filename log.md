@@ -4,6 +4,11 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-08-22 — Consolidation: Fair-Recruitment Custody
+
+* [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html) is the canonical home for the detailed fair-recruitment framework and evidence from Knapp and Landmesser.
+* [Germany]({{ site.baseurl }}/actors/countries/germany.html) now retains its domestic recruitment-governance posture; the [EU]({{ site.baseurl }}/actors/organizations/eu.html) retains its ELA and Talent Pool institutional posture. Both link to the theme for the cross-corridor framework.
+
 ## 2026-08-21 — Incorporation: 16 Sources (CFR, GPF ×7, Cipher Brief, War on the Rocks ×2, Aurelien, O'Brien ×2, Tchakarova ×2)
 
 **Sources (16)**
