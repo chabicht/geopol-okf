@@ -5,7 +5,7 @@ parent: Regions
 description: Strategic theater where digital sovereignty, submarine cable infrastructure, and great power competition converge — EU updating its Arctic strategy as Russia suspends cooperation and Trump claims Greenland
 tags: [europe, naval, military, technology, supply-chain, trade]
 status: ongoing
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-09-10T00:00:00Z
 ---
 
 # Background
@@ -80,6 +80,10 @@ Svalbard's position near the GIUK-N gap and its proximity to [Russia]({{ site.ba
 
 [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) argues that [China]({{ site.baseurl }}/actors/countries/china.html) cannot credibly establish itself as an Arctic nation without [Russia]({{ site.baseurl }}/actors/countries/russia.html)'s cooperation, which undercuts the common "junior partner" framing of Russia's position within the [DragonBear]({{ site.baseurl }}/themes/global-system-bifurcation.html) axis. Rather than a dependent relationship, the NSR reveals mutual dependence: Russia provides geographic access and infrastructure, while China provides capital, cargo volumes, and shipbuilding capacity. Tchakarova frames the NSR as an integrated [DragonBear]({{ site.baseurl }}/themes/global-system-bifurcation.html) trade, military, and raw-materials corridor — the principal non-Western alternative to US-led [Indo-Pacific]({{ site.baseurl }}/regions/indo-pacific.html) supply chains. In this reading, the corridor's significance extends beyond commerce: it constitutes a connective spine for [Great Power Competition]({{ site.baseurl }}/themes/great-power-competition.html) and [global system bifurcation]({{ site.baseurl }}/themes/global-system-bifurcation.html), offering a logistics network insulated from Western [insurance and trade warfare]({{ site.baseurl }}/themes/insurance-and-trade-warfare.html) mechanisms [4].
 
+## Trans-Arctic Transport Corridor
+
+High North News reports that Russia proposes a $400 billion Trans-Arctic Transport Corridor centred on the Northern Sea Route, with 93% of planned funding expected from private sources. Sanctions exposure, costs, cargo uncertainty and selective Chinese investment are material constraints on the proposal. [6] Tchakarova similarly reads Chinese participation as commercially selective rather than a commitment to finance Russia's full strategic vision. [7]
+
 # Citations
 
 [1] [Die neue Arktisstrategie der EU](https://www.swp-berlin.org/publikation/die-neue-arktisstrategie-der-eu-chancen-fuer-europas-digitale-souveraenitaet)
@@ -91,3 +95,7 @@ Svalbard's position near the GIUK-N gap and its proximity to [Russia]({{ site.ba
 [4] Velina Tchakarova, "The DragonBear and the Northern Sea Route", 2026-08-18 — [https://substack.com/@velinatchakarova/p-211768938](https://substack.com/@velinatchakarova/p-211768938)
 
 [5] Albee Zhang (SCMP), "Why the Arctic sea route has become so important for China and Russia", 2026-08-17 — [https://www.scmp.com/news/china/politics/article/3364278/why-arctic-sea-route-has-become-so-important-china-and-russia](https://www.scmp.com/news/china/politics/article/3364278/why-arctic-sea-route-has-become-so-important-china-and-russia)
+
+[6] [Russia’s $400bn Arctic bet hinges on China](https://en.highnorthnews.com/business/russia-bets-on-400-billion-arctic-transport-corridor-but-foreign-investors-hold-the-key/1118570)
+
+[7] [My two cents on Russia’s $400 billion Arctic Transport Corridor with China’s involvement](https://velinatchakarova.substack.com/p/my-two-cents-on-russias-400-billion)

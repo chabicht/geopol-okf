@@ -9,7 +9,7 @@ tags:
   - trade
   - sanctions
 status: ongoing
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-09-10T00:00:00Z
 ---
 
 # Background
@@ -109,6 +109,10 @@ The capital dimension deepens the problem. Allianz finds that the decline in fix
 
 Stagflationary dynamics — rising prices alongside rising unemployment — should therefore be expected as heat stress intensifies. Monetary authorities face a binding trade-off that is especially acute in the [Eurozone]({{ site.baseurl }}/regions/europe.html), where one [EU]({{ site.baseurl }}/actors/organizations/eu.html) policy rate serves economies with sharply diverging climate exposures. Under an Allianz stress scenario, annual output losses from heat could equal 1.8% of GDP in [France]({{ site.baseurl }}/actors/countries/france.html), 1.3% in Italy and Spain, and 0.7% in [Germany]({{ site.baseurl }}/actors/countries/germany.html). Combined with inflation-indexed transfers and healthcare costs, fiscal balances deteriorate approximately 0.5% of GDP annually on average. This compounds the central-bank powerlessness thesis already documented in the [Monetary System Transition]({{ site.baseurl }}/themes/monetary-system-transition.html) framework: heat stress is a supply-side shock that rate hikes cannot address [9].
 
+## Supply Shocks and Monetary Limits
+
+Tchakarova argues that rate increases may be politically or institutionally likely in persistent inflation, but cannot repair supply disruptions in energy, freight or food; this is an analytical forecast rather than a claim about an announced policy decision. [10] Her September war assessment identifies diesel, freight and inflation expectations as more informative stress indicators than crude alone. [11] Independent India Today reporting separately links possible food, memory and AI-demand pressures to consumer-price risks. [12]
+
 # Citations
 
 [1] [GeoEconomicLens — The Truth About Inflation, June 2026](https://geopoliticalfutures.com/lens/issue/june-2026/)
@@ -128,3 +132,9 @@ Stagflationary dynamics — rising prices alongside rising unemployment — shou
 [8] Nate Hagens, "Why Abundance Is an Illusion with Jeff Currie | TGS 229", 2026-07-29 — [https://www.youtube.com/watch?v=ij1_uxiXmm8](https://www.youtube.com/watch?v=ij1_uxiXmm8)
 
 [9] Adam Tooze, "Chartbook 467: Heatwave economics — summer 2026", 2026-08-16 — [https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave](https://adamtooze.substack.com/p/chartbook-467-mad-dogs-and-heatwave)
+
+[10] [CB Rate Hikes](https://velinatchakarova.substack.com/p/cb-rate-hikes)
+
+[11] [Global System Rupture: The Gulf War Is Now Rewiring the World Economy](https://velinatchakarova.substack.com/p/global-system-rupture-the-gulf-war)
+
+[12] [El Nino, RAM, and AI are creating a perfect storm, 2026 may get more expensive](https://www.indiatoday.in/amp/technology/talking-points/story/el-nino-ram-and-ai-are-creating-a-perfect-storm-2026-may-get-more-expensive-2986341-2026-09-03)

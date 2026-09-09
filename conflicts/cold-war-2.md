@@ -9,7 +9,7 @@ tags:
   - gray-zone
   - hybrid
 status: ongoing
-timestamp: 2026-08-11T00:00:00Z
+timestamp: 2026-09-10T00:00:00Z
 ---
 
 # Background
@@ -96,6 +96,12 @@ The proposal for a seasoned NSC professional to coordinate gray-zone activities 
 
 Historical antecedents underscore that gray-zone activity is a longstanding form of statecraft, not a novel invention. Cold War "active measures" — espionage, sabotage, and proxy support across [Latin America]({{ site.baseurl }}/regions/latin-america.html), Korea, and Vietnam — kept superpower competition a contested space below the threshold of direct confrontation. Earlier precedents include the Trojan Horse operation (creating confusion and division, extending ostensible inducements, deception, and clandestine infiltration) and the Peloponnesian War, in which Athens used proxy forces expert in Helot language and culture to sow distrust among Sparta's Helot population, triggering a national emergency that drove Sparta to seek peace talks. The lesson for Cold War 2.0 is that [China]({{ site.baseurl }}/actors/countries/china.html), [Russia]({{ site.baseurl }}/actors/countries/russia.html), and [Iran]({{ site.baseurl }}/actors/countries/iran.html) are applying centuries-old subversive logic with modern enabling technologies — and that the US risks limiting its response options to kinetic ones if it does not develop its own offensive gray-zone strategies [14].
 
+## September 2026: Competition Below Direct Great-Power War
+
+[Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) argues that “World War III” is a misleading label: nuclear arsenals discourage prolonged direct war among the United States, China and Russia, while rivalry plays out through hot wars at the periphery, market access, standards, industrial capacity, logistics and financial networks. [18] Her DragonBear formulation remains coordination without a treaty alliance; its test is sustained cross-domain cooperation, not summit rhetoric alone. [19]
+
+She further treats pressure for a Ukraine armistice as an incentive created by two-theatre resource and inflation exposure, not a prediction that an agreement will occur. [20]
+
 # Citations
 
 [1] [https://substack.com/@velinatchakarova/p-204418261](https://substack.com/@velinatchakarova/p-204418261)
@@ -131,3 +137,9 @@ Historical antecedents underscore that gray-zone activity is a longstanding form
 [16] Velina Tchakarova, "The Yen Breaks First", 2026-08-07 — [https://substack.com/@velinatchakarova/p-210196165](https://substack.com/@velinatchakarova/p-210196165)
 
 [17] Sonali Chowdhry, Katharina Erhardt, and Julian Hinz, "Competing with China in Third Markets", 2026-06 — [https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/](https://www.kielinstitut.de/publications/competing-with-china-in-third-markets-19891/)
+
+[18] [The World War III Question Is the Wrong One](https://velinatchakarova.substack.com/p/the-world-war-iii-question-is-the)
+
+[19] [DragonBear and the Global System Rupture: From Beijing to Bishkek](https://velinatchakarova.substack.com/p/dragonbear-and-the-global-system)
+
+[20] [Armistice in Ukraine?](https://velinatchakarova.substack.com/p/armistice-in-ukraine)

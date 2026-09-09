@@ -7,7 +7,7 @@ tags: [military, indo-pacific]
 status: concluded
 actuality: actual
 event_date: 2026-02-06
-timestamp: 2026-02-06T00:00:00Z
+timestamp: 2026-09-10T00:00:00Z
 ---
 
 # Background
@@ -29,6 +29,12 @@ The purge damages command cohesion and morale. Networks of trust have been disru
 
 The purge also illustrates a pattern throughout Xi's rule: personal loyalty does not guarantee survival. Xi values loyalty, but he values absolute authority more. Zhang represented something Xi could not tolerate: an alternative figure of professional authority with real combat experience and institutional credibility [1].
 
+## Later Reporting
+
+A late-August geopolitical update listed continuing CMC-related personnel developments in the context of Xi's regional diplomacy. It adds no independently verified basis to revise the February event record. [2]
+
 # Citations
 
 [1] [Xi Drains the Central Military Commission](https://geopoliticalfutures.com/xi-drains-the-central-military-commission/)
+
+[2] [Global Geopolitical Update](https://velinatchakarova.substack.com/p/global-geopolitical-update)

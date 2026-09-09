@@ -4,6 +4,13 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-09-10 — Incorporation: Velina Tchakarova Batch (17) plus High North News and India Today
+
+* Added the [Shanghai Cooperation Organisation]({{ site.baseurl }}/actors/organizations/shanghai-cooperation-organisation.html) and three events: the [SCO Bishkek Summit]({{ site.baseurl }}/events/sco-bishkek-summit-2026.html), [Leipzig Drone Incident]({{ site.baseurl }}/events/leipzig-drone-incident-2026-08-04.html), and [Houthi-Saudi Energy Infrastructure Strikes]({{ site.baseurl }}/events/houthi-saudi-energy-infrastructure-strikes-2026-09-08.html).
+* Dissolved the batch into Global System Rupture, Cold War 2.0, inflation/monetary policy, Arctic, drone warfare, the CMC purge, USMCA, and Turkey-Saudi Arabia-Pakistan defence-arrangement custody. Unverified battlefield material remains explicitly attributed.
+* Updated [Velina Tchakarova]({{ site.baseurl }}/actors/authors/velina-tchakarova.html) with all 17 unique Tchakarova source URLs, forecast observables, and a duplicate-capture note for “Geopolitical brief.” The High North News and India Today pieces retain their independent bylines; no author concepts were created.
+* Archived and visually assessed 13 referenced images. Slides and article screenshots were used only to corroborate their attached source context; portraits, thumbnails, and non-legible visuals supplied no standalone claims.
+
 ## 2026-08-22 — Consolidation and Refinement: Russia-Ukraine War
 
 * Detailed evidence from General Drapatyi's 2026 offensive now resides in the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html); [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) retains the country-specific posture of technology-supported, low-casualty adaptation.

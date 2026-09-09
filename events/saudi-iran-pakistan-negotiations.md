@@ -7,7 +7,7 @@ tags: [energy, middle-east]
 status: ongoing
 actuality: actual
 event_date: 2026-07-01
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-09-10T00:00:00Z
 ---
 
 # Background
@@ -27,6 +27,12 @@ As the [US-Iran War of 2026]({{ site.baseurl }}/conflicts/us-iran-war-2026.html)
 
 The negotiations also illustrate the [global system rupture]({{ site.baseurl }}/themes/global-system-rupture.html): the US-Iran war, rather than reasserting American dominance, accelerated its erosion by driving regional powers to seek alternative security arrangements [1].
 
+## Turkey-Saudi Arabia-Pakistan Defence Arrangement
+
+A 30 August geopolitical brief reported preparations for a first meeting under a Turkey-Saudi Arabia-Pakistan defence accord. The bulletin is retained as attributed reporting; its terse account does not establish the accord's terms or implementation. [2]
+
 # Citations
 
 [1] [The World Beyond Hormuz](https://thehonestsorcerer.substack.com/p/the-world-beyond-hormuz)
+
+[2] [Geopolitical brief](https://velinatchakarova.substack.com/p/geopolitical-brief)

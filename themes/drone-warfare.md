@@ -8,7 +8,7 @@ tags:
   - military
   - technology
 status: ongoing
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-09-10T00:00:00Z
 ---
 
 # Background
@@ -154,6 +154,10 @@ The cultural and institutional damage compounds the material gap. Under the curr
 
 The Russia-[Iran]({{ site.baseurl }}/actors/countries/iran.html) drone relationship reveals a pattern of dependency-creation followed by technology exit. Iran used drone exports to [Russia]({{ site.baseurl }}/actors/countries/russia.html) to raise its bargaining power, but Russia rapidly replicated the technology domestically: an estimated 90% of Iranian-designed drones employed by Russia are now manufactured within Russia itself (Grieco, Stimson). Moscow has modified Shahed drones based on battlefield experience and continues striking [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html)'s critical infrastructure with them (Massicot, Carnegie). The technology has proliferated further, including to [North Korea]({{ site.baseurl }}/actors/countries/north-korea.html) [24]. This pattern — import, replicate, exit — mirrors the broader [Defense Industrial Resilience]({{ site.baseurl }}/themes/defense-industrial-resilience.html) concern that manufacturing capacity, not platform sophistication, is the binding constraint in sustained conflict.
 
+## Deniable Kinetic Sabotage Against Logistics
+
+German authorities' assessment of the foiled Leipzig/Halle drone incident illustrates a non-battlefield drone risk: a reported attempt against Ukraine-support logistics on German territory. The attribution to Russia is retained as Germany's assessment, not upgraded here to an independently established fact. [25]
+
 # Citations
 
 [1] [https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war](https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war)
@@ -202,3 +206,5 @@ The Russia-[Iran]({{ site.baseurl }}/actors/countries/iran.html) drone relations
 [23] Velina Tchakarova, "Russian war on Ukraine - Update", 2026-08-18 — [https://substack.com/@velinatchakarova/p-211724442](https://substack.com/@velinatchakarova/p-211724442)
 
 [24] Aisha Sulemana et al. (SBU/CSIS Journalism Bootcamp), "At Arm's Length", 2026-08-18 — [https://features.csis.org/at-arms-length/](https://features.csis.org/at-arms-length/)
+
+[25] [Leipzig drone incident](https://velinatchakarova.substack.com/p/leipzig-drone-incident)

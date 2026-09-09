@@ -7,7 +7,7 @@ tags: [trade, latin-america, economics]
 event_date: 2026-07-01
 actuality: actual
 status: ongoing
-timestamp: 2026-07-22T00:00:00Z
+timestamp: 2026-09-10T00:00:00Z
 ---
 
 # Background
@@ -36,6 +36,10 @@ Luck documents the human and economic costs of imposing Section 338 tariffs on U
 
 Gundermann, Grant-Chapman, and Marroquín Bitar provide the legal and structural analysis. Section 338 of the Tariff Act of 1930 allows the president to impose up to 50% tariffs or ban imports from countries discriminating against US products; this is the first presidential use of the statute, and no court has interpreted it. Three separate proclamations targeted alcoholic beverages, motor vehicles, and dairy. The tariffs apply regardless of USMCA compliance status and are not imposed on goods already subject to Section 232 duties. The $20.2 billion in targeted goods represents 4.9% of total US imports from Canada (2024). Legal questions abound: the ITC's monitoring role is unclear, the statute may have been implicitly repealed by later legislation, and the tariffs likely violate WTO commitments. The dairy proclamation is flawed — US dairy exports to Canada remain below quota thresholds — and the auto proclamation targets non-auto goods except motorcycles. Additional motivations include punishing Canada as the only retaliator besides China, demonstrating trade tools post-IEEPA striking, and replacing Section 122 tariffs expiring July 24. US-Mexico negotiations advanced speedily while Canada was reluctant to negotiate, making Section 338 a leverage tool to force Canada to the USMCA table. Mexico's conciliatory posture kept negotiations moving; sustained threats had the opposite effect on Canada, with Prime Minister Carney calling for resolution while coercion shrank political room for engagement. The action raises fundamental uncertainty about US willingness to abide by USMCA terms. See [Trump]({{ site.baseurl }}/actors/trump.html), [United States]({{ site.baseurl }}/actors/countries/united-states.html), [Insurance and Trade Warfare]({{ site.baseurl }}/themes/insurance-and-trade-warfare.html), and [Canada]({{ site.baseurl }}/actors/countries/canada.html) [4].
 
+### August Escalation Reporting
+
+Tchakarova reports that 50% US duties on roughly $20 billion in Canadian goods followed failed talks, with Canadian counter-tariffs due on 8 September. Her interpretation is that the precedent, rather than the immediate macroeconomic scale, makes market access a coercive lever; her recession-probability range is a forecast, not a settled outcome. [5]
+
 # Citations
 
 [1] [GeoEconomicLens — The Coming Defense Boom, July 2026](https://geopoliticalfutures.com/lens/issue/july-2026/)
@@ -45,3 +49,5 @@ Gundermann, Grant-Chapman, and Marroquín Bitar provide the legal and structural
 [3] [Elbows Up: The Price of Economic Coercion Against Canada](https://www.csis.org/analysis/elbows-price-economic-coercion-against-canada)
 
 [4] [Understanding President Trump's New Tariffs on Canadian Imports](https://www.csis.org/analysis/understanding-president-trumps-new-tariffs-canadian-imports)
+
+[5] [When the Bloc Turns on Itself](https://velinatchakarova.substack.com/p/when-the-bloc-turns-on-itself)
