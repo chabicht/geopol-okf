@@ -4,6 +4,11 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-08-22 — Refinement: Phillips P. O'Brien
+
+* [Phillips P. O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) was regenerated into six source-grounded arcs: analytical framework, US decline, Ukraine, US-Iran war, authoritarian coalition, and NATO posture.
+* Ten uncited framework and framing claims were removed with approval; surviving claims were retained at their source-supported strength.
+
 ## 2026-08-22 — Consolidation: Fair-Recruitment Custody
 
 * [Migration Policy]({{ site.baseurl }}/themes/migration-policy.html) is the canonical home for the detailed fair-recruitment framework and evidence from Knapp and Landmesser.
