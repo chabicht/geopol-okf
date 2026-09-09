@@ -5,7 +5,7 @@ parent: Authors & Analysts
 description: Professor running the "Escalation Trap" newsletter — frameworks on leverage dynamics, the three-stage Escalation Trap, suicide terrorism strategic logic, and two engines driving the US-Iran war toward Stage 3 ground operations
 tags: [author, framework, opinion]
 status: ongoing
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-08-23T00:00:00Z
 ---
 
 # Background
@@ -27,6 +27,8 @@ The arc of Pape's analytical project runs from a single aphorism about leverage 
 The foundational logic is compact. "States gaining leverage rarely hurry to end wars." This aphorism, articulated in Pape's June 15 analysis, supplies the engine for everything that follows: if leverage disincentivizes settlement, then a state acquiring leverage will continue to fight, and the war will follow the logic of that accumulating leverage rather than the logic of diplomatic pressure. The corollary is structural — the side losing leverage faces a narrowing window in which its bargaining position deteriorates while its opponent's improves, and the passage of time itself becomes a strategic variable.
 
 The "wait-out-Trump" doctrine (August 13, 2026) extends this logic to its temporal endpoint: Iranian Parliament Speaker adviser Majid Shakeri's statement that Tehran will "accompany [Trump] until his term ends" signals that Iran calculates it can gain more by waiting for the American political clock to run out — potentially until January 20, 2029 — than by settling with the current administration. This is not merely rejecting negotiations but treating protracted time as a strategic weapon that compounds Iran's leverage while the US political calendar narrows Trump's options [29].
+
+Commodity analyst [Jeff Currie]({{ site.baseurl }}/actors/authors/jeff-currie.html) calls Pape's Escalation Trap "the best read on this" [30].
 
 ### The Three-Stage Model
 
