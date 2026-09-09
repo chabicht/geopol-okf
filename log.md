@@ -4,6 +4,11 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-08-22 — Consolidation and Refinement: Russia-Ukraine War
+
+* Detailed evidence from General Drapatyi's 2026 offensive now resides in the [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html); [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) retains the country-specific posture of technology-supported, low-casualty adaptation.
+* The conflict was refined into source-grounded arcs covering Patriot access, external support, territorial recovery, and the widening battlespace. Citation-backed analysis previously lost from projections was restored.
+
 ## 2026-08-22 — Refinement: Phillips P. O'Brien
 
 * [Phillips P. O'Brien]({{ site.baseurl }}/actors/authors/phillips-obrien.html) was regenerated into six source-grounded arcs: analytical framework, US decline, Ukraine, US-Iran war, authoritarian coalition, and NATO posture.
